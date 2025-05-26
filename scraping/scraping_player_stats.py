@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 from unidecode import unidecode
+import re
 
 BASE_URL = "https://fbref.com"
 USER_AGENT = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
@@ -43,8 +44,14 @@ def scrape_season_team(season, team_name, team_id):
             print(f"No data found for {team_name} {season}")
             return None
         player_stats = dfs[0]  # Player stats table
-        match_stats = dfs[5]   # Match stats table
-        #save the data
+        # take first df with something like 2024-08-17 in first row and column
+        date_pattern = re.compile(r'^\d{4}-\d{2}-\d{2}$')
+        match_stats = None
+        for df in dfs:
+            if not df.empty and isinstance(df.iloc[0, 0], str):
+                if date_pattern.match(df.iloc[0, 0]):
+                    match_stats = df
+                    break
         player_stats["Season"] = f"{season}-{season+1}"
         player_stats["Team_Scraping"] = team_name
         match_stats["Season"] = f"{season}-{season+1}"
