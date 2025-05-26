@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+from unidecode import unidecode
 
 BASE_URL = "https://fbref.com"
-USER_AGENT = {"User-Agent": "Mozilla/5.0"}
+USER_AGENT = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
 
 # Mapping: league name → URL fragment used on squad index pages
 LEAGUE_URLS = {
@@ -36,34 +37,26 @@ def get_squad_links(league_url):
 def scrape_season_team(season, team_name, team_id):
     """Scrapes one season for one team, returns a DataFrame"""
     url = f"{BASE_URL}/en/squads/{team_id}/{season}-{season+1}/all_comps/{team_name.replace(' ', '-')}-Stats-All-Competitions"
-    print(url)
     try:
-        res = requests.get(url, headers=USER_AGENT)
-        soup = BeautifulSoup(res.text, 'html.parser')
-        table = soup.find('table')
-        if table is None:
-            print(f"No table for {team_name} {season}/{season+1}")
+        dfs = pd.read_html(url)
+        if not dfs:
+            print(f"No data found for {team_name} {season}")
             return None
-
-        headers = [th.get('data-stat') for th in table.find_all('th') if th.get('data-stat')]
-        rows = []
-        for row in table.tbody.find_all('tr'):
-            if row.get('class') and 'thead' in row['class']:
-                continue
-            row_data = [td.text.strip() for td in row.find_all('td')]
-            if row_data:
-                rows.append(row_data)
-
-        df = pd.DataFrame(rows, columns=headers[1:])  # skip row index column
-        df["Season"] = f"{season}/{season+1}"
-        df["Team"] = team_name
-        return df
+        player_stats = dfs[0]  # Player stats table
+        match_stats = dfs[5]   # Match stats table
+        #save the data
+        player_stats["Season"] = f"{season}-{season+1}"
+        player_stats["Team_Scraping"] = team_name
+        match_stats["Season"] = f"{season}-{season+1}"
+        match_stats["Team_Scraping"] = team_name
+        player_stats.to_csv(f"data_ps/player_stats_{team_name}_{season}.csv", index=False)
+        match_stats.to_csv(f"data_ms/match_stats_{team_name}_{season}.csv", index=False)
+        return player_stats, match_stats
     except Exception as e:
         print(f"Error for {team_name} {season}: {e}")
         return None
 
 def main():
-    all_data = []
     for league, url in LEAGUE_URLS.items():
         print(f"Fetching teams from {league}...")
         teams = get_squad_links(url)
@@ -71,16 +64,9 @@ def main():
         for season in SEASONS:
             for team_name, team_id in teams.items():
                 print(f"Scraping {team_name} {season}/{season+1}")
-                df = scrape_season_team(season, team_name, team_id)
-                print(df)
-                if df is not None:
-                    df["League"] = league
-                    all_data.append(df)
+                scrape_season_team(season, team_name, team_id)
                 time.sleep(4)  # polite delay
-
-    combined = pd.concat(all_data, ignore_index=True)
-    combined.to_csv("fbref_top5_2017_2025.csv", index=False)
-    print("Saved to fbref_top5_2017_2025.csv")
+    print("Saved to All CSV files in data_ps and data_ms folders")
 
 if __name__ == "__main__":
     main()
