@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-14,22:00,La Liga,Matchweek 1,Sat,Home,L,1,4,Real Madrid,1.7,1.7,42,3968,Víctor Laguardia,4-2-3-1,4-3-3,César Soto,Match Report,,2021-2022,Alaves
+2021-08-21,17:00,La Liga,Matchweek 2,Sat,Home,L,0,1,Mallorca,0.5,0.7,46,2896,Víctor Laguardia,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2021-2022,Alaves
+2021-08-27,22:15,La Liga,Matchweek 3,Fri,Away,L,0,3,Valencia,0.4,1.6,51,10627,Fernando Pacheco,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Alaves
+2021-09-18,21:00,La Liga,Matchweek 5,Sat,Home,L,0,2,Osasuna,0.5,1.4,55,8176,Víctor Laguardia,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2021-2022,Alaves
+2021-09-22,19:30,La Liga,Matchweek 6,Wed,Away,L,0,1,Espanyol,0.5,1.7,47,14254,Víctor Laguardia,4-4-2,4-2-3-1,Mario Melero,Match Report,,2021-2022,Alaves
+2021-09-25,14:00,La Liga,Matchweek 7,Sat,Home,W,1,0,Atlético Madrid,0.7,0.7,30,9836,Víctor Laguardia,5-4-1,3-1-4-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Alaves
+2021-10-01,21:00,La Liga,Matchweek 8,Fri,Away,L,0,1,Athletic Club,0.9,2.0,45,28665,Víctor Laguardia,5-4-1,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Alaves
+2021-10-18,19:00,La Liga,Matchweek 9,Mon,Home,L,0,1,Betis,0.9,1.4,37,10227,Víctor Laguardia,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Alaves
+2021-10-23,16:15,La Liga,Matchweek 10,Sat,Away,W,2,0,Cádiz,1.3,1.5,39,13790,Víctor Laguardia,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,2021-2022,Alaves
+2021-10-26,19:00,La Liga,Matchweek 11,Tue,Home,W,1,0,Elche,1.7,0.3,38,10206,Víctor Laguardia,4-2-3-1,4-4-2,Jesús Gil,Match Report,,2021-2022,Alaves
+2021-10-30,21:00,La Liga,Matchweek 12,Sat,Away,D,1,1,Barcelona,0.9,1.3,21,37278,Víctor Laguardia,4-2-3-1,4-3-3,Jorge Figueroa,Match Report,,2021-2022,Alaves
+2021-11-06,18:30,La Liga,Matchweek 13,Sat,Home,W,2,1,Levante,1.5,0.8,60,12176,Víctor Laguardia,4-3-3,4-4-1-1,Adrián Cordero,Match Report,,2021-2022,Alaves
+2021-11-20,16:15,La Liga,Matchweek 14,Sat,Away,D,2,2,Sevilla,1.1,1.8,32,25208,Víctor Laguardia,4-1-4-1,4-3-3,Alejandro Muñíz,Match Report,,2021-2022,Alaves
+2021-11-27,14:00,La Liga,Matchweek 15,Sat,Home,L,1,2,Celta Vigo,0.9,1.2,42,10093,Víctor Laguardia,4-3-3,4-1-3-2,Pablo González,Match Report,,2021-2022,Alaves
+2021-11-30,19:00,Copa del Rey,First round,Tue,Away,W,3,0,Unami Club Polideportivo,,,72,1600,Antonio Sivera,4-2-2-2,3-5-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Alaves
+2021-12-03,21:00,La Liga,Matchweek 16,Fri,Away,L,1,2,Granada,2.1,1.0,55,13511,Víctor Laguardia,4-3-3,4-4-2,Alberola Rojas,Match Report,,2021-2022,Alaves
+2021-12-11,16:15,La Liga,Matchweek 17,Sat,Home,D,1,1,Getafe,0.7,1.0,64,10065,Víctor Laguardia,4-1-4-1,5-3-2,César Soto,Match Report,,2021-2022,Alaves
+2021-12-14,21:00,Copa del Rey,Second round,Tue,Away,L,1,2,Linares Dep,,,58,4500,Antonio Sivera,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Alaves
+2021-12-18,14:00,La Liga,Matchweek 18,Sat,Away,L,0,2,Rayo Vallecano,0.2,1.8,39,7911,Víctor Laguardia,4-1-4-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Alaves
+2021-12-21,19:00,La Liga,Matchweek 4,Tue,Away,L,2,5,Villarreal,0.8,3.3,38,12530,Víctor Laguardia,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Alaves
+2022-01-02,18:30,La Liga,Matchweek 19,Sun,Home,D,1,1,Real Sociedad,1.7,0.9,37,13498,Víctor Laguardia,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2021-2022,Alaves
+2022-01-09,18:30,La Liga,Matchweek 20,Sun,Home,D,0,0,Athletic Club,0.5,0.8,42,14103,Fernando Pacheco,4-4-2,4-4-2,Santiago Jaime,Match Report,,2021-2022,Alaves
+2022-01-18,20:00,La Liga,Matchweek 21,Tue,Away,L,0,4,Betis,0.3,2.4,40,38753,Víctor Laguardia,4-4-2,4-2-3-1,José Sánchez,Match Report,,2021-2022,Alaves
+2022-01-23,21:00,La Liga,Matchweek 22,Sun,Home,L,0,1,Barcelona,0.6,1.5,25,14056,Víctor Laguardia,4-2-3-1,4-3-3,Jorge Figueroa,Match Report,,2021-2022,Alaves
+2022-02-05,14:00,La Liga,Matchweek 23,Sat,Away,L,1,3,Elche,0.9,0.9,41,12923,Víctor Laguardia,4-4-2,4-4-2,Mario Melero,Match Report,,2021-2022,Alaves
+2022-02-13,14:00,La Liga,Matchweek 24,Sun,Home,W,2,1,Valencia,1.8,1.2,41,12845,Víctor Laguardia,4-1-4-1,4-4-2,Adrián Cordero,Match Report,,2021-2022,Alaves
+2022-02-19,21:00,La Liga,Matchweek 25,Sat,Away,L,0,3,Real Madrid,0.6,2.9,31,42180,Fernando Pacheco,4-1-4-1,4-3-3,José Luis Munuera,Match Report,,2021-2022,Alaves
+2022-02-26,16:15,La Liga,Matchweek 26,Sat,Away,D,2,2,Getafe,1.0,1.1,50,7720,Víctor Laguardia,4-1-4-1,3-5-2,Santiago Jaime,Match Report,,2021-2022,Alaves
+2022-03-04,21:00,La Liga,Matchweek 27,Fri,Home,D,0,0,Sevilla,1.4,1.2,35,13121,Víctor Laguardia,4-4-1-1,4-3-3,Alberola Rojas,Match Report,,2021-2022,Alaves
+2022-03-13,18:30,La Liga,Matchweek 28,Sun,Away,L,0,1,Real Sociedad,0.8,2.2,41,31573,Víctor Laguardia,4-2-3-1,4-1-4-1,Jorge Figueroa,Match Report,,2021-2022,Alaves
+2022-03-19,14:00,La Liga,Matchweek 29,Sat,Home,L,2,3,Granada,1.7,2.1,50,16209,Víctor Laguardia,4-4-2,5-3-2,Guillermo Cuadra,Match Report,,2021-2022,Alaves
+2022-04-02,21:00,La Liga,Matchweek 30,Sat,Away,L,1,4,Atlético Madrid,0.5,3.0,50,51467,Víctor Laguardia,4-3-3,4-4-2,Mario Melero,Match Report,,2021-2022,Alaves
+2022-04-10,14:00,La Liga,Matchweek 31,Sun,Away,L,0,1,Osasuna,0.5,2.1,35,19220,Víctor Laguardia,4-2-3-1,4-3-3,Alejandro Muñíz,Match Report,,2021-2022,Alaves
+2022-04-16,16:15,La Liga,Matchweek 32,Sat,Home,W,1,0,Rayo Vallecano,0.5,1.0,38,10165,Víctor Laguardia,4-4-2,4-2-3-1,Juan Martínez,Match Report,,2021-2022,Alaves
+2022-04-19,19:00,La Liga,Matchweek 33,Tue,Away,L,1,2,Mallorca,0.6,0.8,59,15264,Víctor Laguardia,4-2-3-1,4-4-1-1,César Soto,Match Report,,2021-2022,Alaves
+2022-04-30,14:00,La Liga,Matchweek 34,Sat,Home,W,2,1,Villarreal,2.4,1.3,33,12579,Víctor Laguardia,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Alaves
+2022-05-07,18:30,La Liga,Matchweek 35,Sat,Away,L,0,4,Celta Vigo,0.5,1.9,34,10567,Víctor Laguardia,4-2-3-1,4-1-3-2,Guillermo Cuadra,Match Report,,2021-2022,Alaves
+2022-05-11,19:00,La Liga,Matchweek 36,Wed,Home,W,2,1,Espanyol,2.6,0.9,46,12729,Víctor Laguardia,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,,2021-2022,Alaves
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Levante,0.5,1.9,37,12438,Víctor Laguardia,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,2021-2022,Alaves
+2022-05-22,20:00,La Liga,Matchweek 38,Sun,Home,L,0,1,Cádiz,0.4,1.8,50,11138,Rubén Duarte,4-2-3-1,4-4-2,José Sánchez,Match Report,,2021-2022,Alaves

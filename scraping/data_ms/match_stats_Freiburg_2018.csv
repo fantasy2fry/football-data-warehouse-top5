@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-20,18:30,DFB-Pokal,First round,Mon,Away,D,2 (5),2 (3),Energie Cottbus,,,68,15245,Mike Frantz,4-4-2◆,4-1-4-1,Harm Osmers,Match Report,Freiburg won on penalty kicks following extra time,2018-2019,Freiburg
+2018-08-25,15:30,Bundesliga,Matchweek 1,Sat,Home,L,0,2,Eint Frankfurt,1.7,0.8,53,24000,Mike Frantz,4-1-3-2,4-2-3-1,Manuel Gräfe,Match Report,,2018-2019,Freiburg
+2018-09-01,15:30,Bundesliga,Matchweek 2,Sat,Away,L,1,3,Hoffenheim,1.2,3.7,41,28619,Mike Frantz,4-2-3-1,3-5-2,Robert Hartmann,Match Report,,2018-2019,Freiburg
+2018-09-16,18:00,Bundesliga,Matchweek 3,Sun,Home,D,3,3,Stuttgart,1.2,1.6,43,24000,Mike Frantz,4-2-2-2,4-4-2,Deniz Aytekin,Match Report,,2018-2019,Freiburg
+2018-09-22,15:30,Bundesliga,Matchweek 4,Sat,Away,W,3,1,Wolfsburg,2.1,1.0,28,23011,Mike Frantz,4-4-2,4-3-3,Sascha Stegemann,Match Report,,2018-2019,Freiburg
+2018-09-25,20:30,Bundesliga,Matchweek 5,Tue,Home,W,1,0,Schalke 04,1.4,1.1,43,24000,Nils Petersen,4-4-2,4-2-3-1,Frank Willenborg,Match Report,,2018-2019,Freiburg
+2018-09-30,18:00,Bundesliga,Matchweek 6,Sun,Away,L,1,4,Augsburg,1.9,3.6,50,26488,Mike Frantz,4-4-1-1,4-2-3-1,Robert Kampka,Match Report,,2018-2019,Freiburg
+2018-10-07,13:30,Bundesliga,Matchweek 7,Sun,Home,D,0,0,Leverkusen,0.5,0.7,43,23800,Mike Frantz,4-1-4-1,4-2-3-1,Bastian Dankert,Match Report,,2018-2019,Freiburg
+2018-10-21,15:30,Bundesliga,Matchweek 8,Sun,Away,D,1,1,Hertha BSC,0.5,0.9,39,53716,Christian Günter,4-1-4-1,4-2-3-1,Benjamin Cortus,Match Report,,2018-2019,Freiburg
+2018-10-26,20:30,Bundesliga,Matchweek 9,Fri,Home,W,3,1,Gladbach,1.4,1.2,41,24000,Mike Frantz,4-4-2,4-3-3,Robert Hartmann,Match Report,,2018-2019,Freiburg
+2018-10-31,20:45,DFB-Pokal,Second round,Wed,Away,L,1,2,Holstein Kiel,,,52,9361,Mike Frantz,4-4-2,4-4-2,Sören Storks,Match Report,,2018-2019,Freiburg
+2018-11-03,15:30,Bundesliga,Matchweek 10,Sat,Away,D,1,1,Bayern Munich,0.6,1.7,29,75000,Mike Frantz,4-4-2,4-1-4-1,Felix Zwayer,Match Report,,2018-2019,Freiburg
+2018-11-10,15:30,Bundesliga,Matchweek 11,Sat,Home,L,1,3,Mainz 05,1.9,0.8,58,24000,Mike Frantz,4-4-2,4-1-2-1-2,Sascha Stegemann,Match Report,,2018-2019,Freiburg
+2018-11-25,15:30,Bundesliga,Matchweek 12,Sun,Home,D,1,1,Werder Bremen,3.1,1.8,48,24000,Christian Günter,3-4-3,4-4-1-1,Bastian Dankert,Match Report,,2018-2019,Freiburg
+2018-12-01,15:30,Bundesliga,Matchweek 13,Sat,Away,L,0,2,Dortmund,0.2,2.7,33,81365,Mike Frantz,5-4-1,4-2-3-1,Frank Willenborg,Match Report,,2018-2019,Freiburg
+2018-12-08,15:30,Bundesliga,Matchweek 14,Sat,Home,W,3,0,RB Leipzig,2.1,1.4,41,23800,Mike Frantz,4-2-3-1,4-3-1-2,Tobias Welz,Match Report,,2018-2019,Freiburg
+2018-12-15,15:30,Bundesliga,Matchweek 15,Sat,Away,L,0,2,Düsseldorf,0.8,2.1,63,39301,Mike Frantz,4-2-3-1,4-4-2,Harm Osmers,Match Report,,2018-2019,Freiburg
+2018-12-19,20:30,Bundesliga,Matchweek 16,Wed,Home,D,1,1,Hannover 96,1.6,2.1,47,23500,Mike Frantz,3-4-3,3-4-1-2,Christian Dingert,Match Report,,2018-2019,Freiburg
+2018-12-22,15:30,Bundesliga,Matchweek 17,Sat,Away,W,1,0,Nürnberg,0.3,1.1,38,36190,Mike Frantz,4-4-2,4-1-4-1,Robert Kampka,Match Report,,2018-2019,Freiburg
+2019-01-19,15:30,Bundesliga,Matchweek 18,Sat,Away,L,1,3,Eint Frankfurt,1.9,2.5,54,49200,Mike Frantz,3-4-3,3-4-1-2,Sven Jablonski,Match Report,,2018-2019,Freiburg
+2019-01-26,15:30,Bundesliga,Matchweek 19,Sat,Home,L,2,4,Hoffenheim,1.7,3.3,43,23900,Mike Frantz,4-2-3-1,4-3-3,Bibiana Steinhaus,Match Report,,2018-2019,Freiburg
+2019-02-03,18:00,Bundesliga,Matchweek 20,Sun,Away,D,2,2,Stuttgart,2.1,0.9,31,51009,Nils Petersen,3-4-3,4-4-2,Deniz Aytekin,Match Report,,2018-2019,Freiburg
+2019-02-09,15:30,Bundesliga,Matchweek 21,Sat,Home,D,3,3,Wolfsburg,1.0,1.9,50,23600,Mike Frantz,4-2-2-2,4-3-3,Felix Brych,Match Report,,2018-2019,Freiburg
+2019-02-16,15:30,Bundesliga,Matchweek 22,Sat,Away,D,0,0,Schalke 04,0.8,0.6,55,58271,Mike Frantz,4-2-2-2,4-2-3-1,Frank Willenborg,Match Report,,2018-2019,Freiburg
+2019-02-23,15:30,Bundesliga,Matchweek 23,Sat,Home,W,5,1,Augsburg,1.8,1.8,41,23600,Mike Frantz,4-4-2,4-4-1-1,Tobias Welz,Match Report,,2018-2019,Freiburg
+2019-03-02,15:30,Bundesliga,Matchweek 24,Sat,Away,L,0,2,Leverkusen,0.4,2.2,28,26607,Mike Frantz,4-4-2,4-3-3,Guido Winkmann,Match Report,,2018-2019,Freiburg
+2019-03-09,15:30,Bundesliga,Matchweek 25,Sat,Home,W,2,1,Hertha BSC,0.9,1.1,35,24000,Mike Frantz,4-2-3-1,3-4-1-2,Robert Schröder,Match Report,,2018-2019,Freiburg
+2019-03-15,20:30,Bundesliga,Matchweek 26,Fri,Away,D,1,1,Gladbach,0.5,1.3,45,46832,Mike Frantz,4-4-1-1,4-3-3,Robert Kampka,Match Report,,2018-2019,Freiburg
+2019-03-30,15:30,Bundesliga,Matchweek 27,Sat,Home,D,1,1,Bayern Munich,0.6,3.5,30,24000,Mike Frantz,4-4-1-1,4-3-3,Christian Dingert,Match Report,,2018-2019,Freiburg
+2019-04-05,20:30,Bundesliga,Matchweek 28,Fri,Away,L,0,5,Mainz 05,1.8,2.7,69,27305,Mike Frantz,3-4-3,4-1-2-1-2,Sven Jablonski,Match Report,,2018-2019,Freiburg
+2019-04-13,15:30,Bundesliga,Matchweek 29,Sat,Away,L,1,2,Werder Bremen,0.7,1.7,38,42100,Christian Günter,5-3-2,4-3-1-2,Bibiana Steinhaus,Match Report,,2018-2019,Freiburg
+2019-04-21,15:30,Bundesliga,Matchweek 30,Sun,Home,L,0,4,Dortmund,0.6,2.7,42,24000,Mike Frantz,4-2-2-2,4-2-3-1,Robert Hartmann,Match Report,,2018-2019,Freiburg
+2019-04-27,15:30,Bundesliga,Matchweek 31,Sat,Away,L,1,2,RB Leipzig,1.0,2.2,53,40826,Mike Frantz,3-1-4-2,3-1-4-2,Robert Schröder,Match Report,,2018-2019,Freiburg
+2019-05-05,15:30,Bundesliga,Matchweek 32,Sun,Home,D,1,1,Düsseldorf,1.2,1.1,39,24000,Mike Frantz,3-1-4-2,4-4-2,Tobias Welz,Match Report,,2018-2019,Freiburg
+2019-05-11,15:30,Bundesliga,Matchweek 33,Sat,Away,L,0,3,Hannover 96,0.7,2.1,42,38100,Mike Frantz,4-4-2,3-4-1-2,Robert Hartmann,Match Report,,2018-2019,Freiburg
+2019-05-18,15:30,Bundesliga,Matchweek 34,Sat,Home,W,5,1,Nürnberg,0.9,1.1,62,24000,Mike Frantz,4-4-2,4-4-2,Markus Schmidt,Match Report,,2018-2019,Freiburg

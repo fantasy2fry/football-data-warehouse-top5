@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,20:45,Serie A,Matchweek 1,Mon,Home,W,3,0,Como,1.2,0.2,57,40696.0,Federico Gatti,4-2-3-1,4-4-2,Matteo Marcenaro,Match Report,,2024-2025,Juventus
+2024-08-26,20:45,Serie A,Matchweek 2,Mon,Away,W,3,0,Hellas Verona,1.2,0.5,60,29575.0,Federico Gatti,4-2-3-1,3-4-3,Antonio Giua,Match Report,,2024-2025,Juventus
+2024-09-01,20:45,Serie A,Matchweek 3,Sun,Home,D,0,0,Roma,0.5,0.3,49,41375.0,Federico Gatti,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,2024-2025,Juventus
+2024-09-14,18:00,Serie A,Matchweek 4,Sat,Away,D,0,0,Empoli,0.9,0.5,65,15715.0,Federico Gatti,4-2-3-1,3-4-3,Marco Di Bello,Match Report,,2024-2025,Juventus
+2024-09-17,18:45,Champions Lg,League phase,Tue,Home,W,3,1,nl PSV Eindhoven,2.9,1.0,44,40417.0,Federico Gatti,4-3-3,4-3-3,Alejandro Hernández,Match Report,,2024-2025,Juventus
+2024-09-21,18:00,Serie A,Matchweek 5,Sat,Home,D,0,0,Napoli,0.3,0.3,64,40295.0,Gleison Bremer,4-2-3-1,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Juventus
+2024-09-28,18:00,Serie A,Matchweek 6,Sat,Away,W,3,0,Genoa,2.6,0.4,65,26599.0,Danilo,4-2-3-1,3-5-2,Andrea Colombo,Match Report,,2024-2025,Juventus
+2024-10-02,21:00,Champions Lg,League phase,Wed,Away,W,3,2,de RB Leipzig,1.2,3.3,55,45228.0,Gleison Bremer,4-2-3-1,4-4-2,François Letexier,Match Report,,2024-2025,Juventus
+2024-10-06,12:30,Serie A,Matchweek 7,Sun,Home,D,1,1,Cagliari,2.4,1.1,73,40557.0,Federico Gatti,4-2-3-1,4-2-3-1,Livio Marinelli,Match Report,,2024-2025,Juventus
+2024-10-19,20:45,Serie A,Matchweek 8,Sat,Home,W,1,0,Lazio,1.3,0.1,69,40800.0,Andrea Cambiaso,4-3-3,4-2-3-1,Juan Luca Sacchi,Match Report,,2024-2025,Juventus
+2024-10-22,21:00,Champions Lg,League phase,Tue,Home,L,0,1,de Stuttgart,0.2,2.5,50,41306.0,Danilo,4-3-3,4-2-3-1,Espen Eskås,Match Report,,2024-2025,Juventus
+2024-10-27,18:00,Serie A,Matchweek 9,Sun,Away,D,4,4,Inter,2.1,3.0,53,75000.0,Danilo,4-2-3-1,3-5-2,Marco Guida,Match Report,,2024-2025,Juventus
+2024-10-30,20:45,Serie A,Matchweek 10,Wed,Home,D,2,2,Parma,2.4,1.2,61,40809.0,Danilo,4-3-3,4-2-3-1,Luca Zufferli,Match Report,,2024-2025,Juventus
+2024-11-02,18:00,Serie A,Matchweek 11,Sat,Away,W,2,0,Udinese,1.3,0.6,61,24990.0,Manuel Locatelli,4-2-3-1,3-5-2,Rosario Abisso,Match Report,,2024-2025,Juventus
+2024-11-05,21:00,Champions Lg,League phase,Tue,Away,D,1,1,fr Lille,1.4,0.8,66,48312.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Irfan Peljto,Match Report,,2024-2025,Juventus
+2024-11-09,20:45,Serie A,Matchweek 12,Sat,Home,W,2,0,Torino,1.7,0.4,54,41066.0,Manuel Locatelli,4-2-3-1,3-5-2,Simone Sozza,Match Report,,2024-2025,Juventus
+2024-11-23,18:00,Serie A,Matchweek 13,Sat,Away,D,0,0,Milan,0.4,0.3,56,75502.0,Manuel Locatelli,4-2-2-2,4-3-3,Daniele Chiffi,Match Report,,2024-2025,Juventus
+2024-11-27,20:00,Champions Lg,League phase,Wed,Away,D,0,0,eng Aston Villa,0.4,1.2,54,42589.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2024-2025,Juventus
+2024-12-01,20:45,Serie A,Matchweek 14,Sun,Away,D,1,1,Lecce,1.3,1.5,61,27080.0,Danilo,4-2-3-1,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Juventus
+2024-12-07,18:00,Serie A,Matchweek 15,Sat,Home,D,2,2,Bologna,1.0,0.9,54,40748.0,Danilo,4-2-3-1,4-2-3-1,Matteo Marchetti,Match Report,,2024-2025,Juventus
+2024-12-11,21:00,Champions Lg,League phase,Wed,Home,W,2,0,eng Manchester City,1.1,1.2,31,40890.0,Danilo,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Juventus
+2024-12-14,20:45,Serie A,Matchweek 16,Sat,Home,D,2,2,Venezia,2.1,0.4,69,38425.0,Danilo,4-2-3-1,3-4-3,Antonio Giua,Match Report,,2024-2025,Juventus
+2024-12-17,21:00,Coppa Italia,Round of 16,Tue,Home,W,4,0,Cagliari,,,55,36664.0,Manuel Locatelli,4-2-3-1,4-4-1-1,Ermanno Feliciani,Match Report,,2024-2025,Juventus
+2024-12-22,20:45,Serie A,Matchweek 17,Sun,Away,W,2,1,Monza,1.8,1.3,55,15479.0,Manuel Locatelli,4-2-3-1,3-4-3,Davide Massa,Match Report,,2024-2025,Juventus
+2024-12-29,18:00,Serie A,Matchweek 18,Sun,Home,D,2,2,Fiorentina,1.5,1.0,62,41188.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Maurizio Mariani,Match Report,,2024-2025,Juventus
+2025-01-03,22:00,Supercoppa,Semi-finals,Fri,Neutral,L,1,2,Milan,,,51,24783.0,Manuel Locatelli,4-2-3-1,4-3-3,Andrea Colombo,Match Report,,2024-2025,Juventus
+2025-01-11,18:00,Serie A,Matchweek 20,Sat,Away,D,1,1,Torino,0.9,0.6,59,27014.0,Teun Koopmeiners,4-2-3-1,4-4-2,Michael Fabbri,Match Report,,2024-2025,Juventus
+2025-01-14,20:45,Serie A,Matchweek 19,Tue,Away,D,1,1,Atalanta,1.5,1.4,40,22920.0,Manuel Locatelli,4-2-3-1,3-4-1-2,Daniele Doveri,Match Report,,2024-2025,Juventus
+2025-01-18,18:00,Serie A,Matchweek 21,Sat,Home,W,2,0,Milan,1.1,0.9,60,41507.0,Manuel Locatelli,4-2-3-1,4-3-3,Davide Massa,Match Report,,2024-2025,Juventus
+2025-01-21,21:00,Champions Lg,League phase,Tue,Away,D,0,0,be Club Brugge,0.4,0.7,57,26700.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Juventus
+2025-01-25,18:00,Serie A,Matchweek 22,Sat,Away,L,1,2,Napoli,0.8,2.3,51,53589.0,Manuel Locatelli,4-2-3-1,4-3-3,Daniele Chiffi,Match Report,,2024-2025,Juventus
+2025-01-29,21:00,Champions Lg,League phase,Wed,Home,L,0,2,pt Benfica,0.9,2.2,66,41402.0,Weston McKennie,4-2-3-1,4-3-3,István Kovács,Match Report,,2024-2025,Juventus
+2025-02-02,12:30,Serie A,Matchweek 23,Sun,Home,W,4,1,Empoli,1.8,0.8,55,40160.0,Manuel Locatelli,4-2-3-1,3-4-3,Luca Zufferli,Match Report,,2024-2025,Juventus
+2025-02-07,20:45,Serie A,Matchweek 24,Fri,Away,W,2,1,Como,1.1,0.9,48,10475.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Rosario Abisso,Match Report,,2024-2025,Juventus
+2025-02-11,21:00,Champions Lg,Knockout phase play-offs,Tue,Home,W,2,1,nl PSV Eindhoven,1.4,0.8,47,39886.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,Leg 1 of 2,2024-2025,Juventus
+2025-02-16,20:45,Serie A,Matchweek 25,Sun,Home,W,1,0,Inter,1.3,1.8,42,41361.0,Weston McKennie,4-2-3-1,3-5-2,Maurizio Mariani,Match Report,,2024-2025,Juventus
+2025-02-19,21:00,Champions Lg,Knockout phase play-offs,Wed,Away,L,1,3,nl PSV Eindhoven,1.7,3.4,41,35000.0,Manuel Locatelli,4-2-3-1,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; PSV Eindhoven won; Required Extra Time,2024-2025,Juventus
+2025-02-23,20:45,Serie A,Matchweek 26,Sun,Away,W,1,0,Cagliari,2.1,0.3,60,16412.0,Manuel Locatelli,4-2-3-1,4-5-1,Andrea Colombo,Match Report,,2024-2025,Juventus
+2025-02-26,21:00,Coppa Italia,Quarter-finals,Wed,Home,D,1 (2),1 (4),Empoli,,,69,39304.0,Weston McKennie,4-1-4-1,3-5-2,Francesco Fourneau,Match Report,Empoli won on penalty kicks following extra time,2024-2025,Juventus
+2025-03-03,20:45,Serie A,Matchweek 27,Mon,Home,W,2,0,Hellas Verona,2.0,0.2,75,36215.0,Manuel Locatelli,4-2-3-1,5-3-2,Matteo Marchetti,Match Report,,2024-2025,Juventus
+2025-03-09,20:45,Serie A,Matchweek 28,Sun,Home,L,0,4,Atalanta,0.9,3.2,63,40266.0,Manuel Locatelli,4-2-3-1,3-4-3,Simone Sozza,Match Report,,2024-2025,Juventus
+2025-03-16,18:00,Serie A,Matchweek 29,Sun,Away,L,0,3,Fiorentina,0.8,0.4,62,22253.0,Manuel Locatelli,4-2-3-1,3-5-1-1,Michael Fabbri,Match Report,,2024-2025,Juventus
+2025-03-29,18:00,Serie A,Matchweek 30,Sat,Home,W,1,0,Genoa,0.9,0.4,49,40219.0,Manuel Locatelli,3-4-3,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Juventus
+2025-04-06,20:45,Serie A,Matchweek 31,Sun,Away,D,1,1,Roma,0.8,1.1,59,65778.0,Manuel Locatelli,3-4-3,3-4-3,Andrea Colombo,Match Report,,2024-2025,Juventus
+2025-04-12,20:45,Serie A,Matchweek 32,Sat,Home,W,2,1,Lecce,1.5,1.1,65,39259.0,Manuel Locatelli,3-4-3,3-4-3,Luca Zufferli,Match Report,,2024-2025,Juventus
+2025-04-23,18:30,Serie A,Matchweek 33,Wed,Away,L,0,1,Parma,0.8,0.6,66,21108.0,Manuel Locatelli,3-4-3,3-5-2,Daniele Chiffi,Match Report,,2024-2025,Juventus
+2025-04-27,18:00,Serie A,Matchweek 34,Sun,Home,W,2,0,Monza,1.4,0.7,35,40016.0,Manuel Locatelli,3-4-3,3-5-2,Daniele Perenzoni,Match Report,,2024-2025,Juventus
+2025-05-04,20:45,Serie A,Matchweek 35,Sun,Away,D,1,1,Bologna,0.8,0.4,36,30846.0,Manuel Locatelli,3-4-1-2,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Juventus
+2025-05-10,18:00,Serie A,Matchweek 36,Sat,Away,D,1,1,Lazio,0.8,1.7,42,56000.0,Manuel Locatelli,3-4-3,4-2-3-1,Davide Massa,Match Report,,2024-2025,Juventus
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Home,W,2,0,Udinese,1.8,0.3,63,,Manuel Locatelli,4-2-3-1,3-4-3,Giovanni Ayroldi,Match Report,,2024-2025,Juventus
+2025-05-25,20:45,Serie A,Matchweek 38,Sun,Away,W,3,2,Venezia,1.9,0.9,56,,Manuel Locatelli,3-4-3,3-5-2,Andrea Colombo,Match Report,,2024-2025,Juventus

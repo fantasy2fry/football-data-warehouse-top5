@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-18,22:15,La Liga,Matchweek 1,Sat,Away,L,0,3,Barcelona,0.3,3.2,21,52356,Manu García,4-5-1,4-4-2,José Sánchez,Match Report,,2018-2019,Alaves
+2018-08-25,18:15,La Liga,Matchweek 2,Sat,Home,D,0,0,Betis,0.6,0.9,34,18221,Manu García,4-4-2,3-4-3,Pablo González,Match Report,,2018-2019,Alaves
+2018-09-02,16:15,La Liga,Matchweek 3,Sun,Home,W,2,1,Espanyol,1.4,1.2,38,18052,Manu García,4-4-2,4-3-3,Ignacio Iglesias,Match Report,,2018-2019,Alaves
+2018-09-16,18:30,La Liga,Matchweek 4,Sun,Away,W,1,0,Valladolid,0.8,1.1,42,18873,Fernando Pacheco,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,2018-2019,Alaves
+2018-09-22,13:00,La Liga,Matchweek 5,Sat,Away,W,5,1,Rayo Vallecano,1.3,1.5,48,12011,Fernando Pacheco,4-4-2,4-1-4-1,Adrián Cordero,Match Report,,2018-2019,Alaves
+2018-09-27,20:00,La Liga,Matchweek 6,Thu,Home,D,1,1,Getafe,1.7,1.1,49,18373,Fernando Pacheco,4-4-2,4-4-2,Eduardo Prieto,Match Report,,2018-2019,Alaves
+2018-09-30,18:30,La Liga,Matchweek 7,Sun,Away,L,1,2,Levante,0.9,1.6,52,20239,Manu García,4-4-2,3-5-2,Mario Melero,Match Report,,2018-2019,Alaves
+2018-10-06,18:30,La Liga,Matchweek 8,Sat,Home,W,1,0,Real Madrid,1.1,0.8,31,19461,Fernando Pacheco,4-3-3,4-3-3,Santiago Jaime,Match Report,,2018-2019,Alaves
+2018-10-19,21:00,La Liga,Matchweek 9,Fri,Away,W,1,0,Celta Vigo,0.9,0.9,39,15627,Manu García,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2018-2019,Alaves
+2018-10-28,18:30,La Liga,Matchweek 10,Sun,Home,W,2,1,Villarreal,1.9,1.3,47,16956,Fernando Pacheco,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,2018-2019,Alaves
+2018-10-31,20:30,Copa del Rey,Round of 32,Wed,Home,D,2,2,Girona,,,49,9346,Manu García,4-4-2,3-4-3,Adrián Cordero,Match Report,Leg 1 of 2,2018-2019,Alaves
+2018-11-04,12:00,La Liga,Matchweek 11,Sun,Away,L,1,2,Eibar,0.6,1.5,29,5660,Manu García,4-4-2,4-2-3-1,Ignacio Iglesias,Match Report,,2018-2019,Alaves
+2018-11-11,12:00,La Liga,Matchweek 12,Sun,Home,W,2,1,Huesca,1.3,0.9,50,18437,Manu García,4-4-2,5-4-1,José Luis Munuera,Match Report,,2018-2019,Alaves
+2018-11-23,21:00,La Liga,Matchweek 13,Fri,Away,L,0,1,Leganés,0.4,0.9,51,9863,Manu García,4-4-2,5-3-2,Alberola Rojas,Match Report,,2018-2019,Alaves
+2018-12-02,20:45,La Liga,Matchweek 14,Sun,Home,D,1,1,Sevilla,1.0,1.7,46,17848,Manu García,4-1-4-1,3-1-4-2,José Sánchez,Match Report,,2018-2019,Alaves
+2018-12-05,19:30,Copa del Rey,Round of 32,Wed,Away,L,1,2,Girona,,,52,9290,Carlos Vigaray,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Girona won,2018-2019,Alaves
+2018-12-08,13:00,La Liga,Matchweek 15,Sat,Away,L,0,3,Atlético Madrid,1.4,2.7,52,55810,Manu García,4-3-3,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Alaves
+2018-12-17,21:00,La Liga,Matchweek 16,Mon,Home,D,0,0,Athletic Club,0.5,0.3,46,19349,Manu García,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Alaves
+2018-12-21,21:00,La Liga,Matchweek 17,Fri,Away,W,1,0,Real Sociedad,0.8,1.1,33,22431,Fernando Pacheco,4-4-2,4-4-2,Javier Estrada,Match Report,,2018-2019,Alaves
+2019-01-05,16:15,La Liga,Matchweek 18,Sat,Home,W,2,1,Valencia,1.9,1.1,45,18304,Manu García,4-4-2,5-3-2,David Medié,Match Report,,2018-2019,Alaves
+2019-01-12,18:30,La Liga,Matchweek 19,Sat,Away,D,1,1,Girona,1.1,0.6,44,10303,Manu García,4-4-2,3-4-3,José Sánchez,Match Report,,2018-2019,Alaves
+2019-01-18,21:00,La Liga,Matchweek 20,Fri,Away,L,0,4,Getafe,0.4,2.0,55,8748,Manu García,4-4-2,4-4-2,José Luis Munuera,Match Report,,2018-2019,Alaves
+2019-01-28,21:00,La Liga,Matchweek 21,Mon,Home,L,0,1,Rayo Vallecano,1.0,1.0,52,13982,Manu García,4-4-2,3-1-4-2,Mario Melero,Match Report,,2018-2019,Alaves
+2019-02-03,20:45,La Liga,Matchweek 22,Sun,Away,L,0,3,Real Madrid,0.6,2.5,30,53132,Manu García,4-5-1,4-3-3,Santiago Jaime,Match Report,,2018-2019,Alaves
+2019-02-11,21:00,La Liga,Matchweek 23,Mon,Home,W,2,0,Levante,1.7,0.3,48,13691,Fernando Pacheco,4-3-3,4-4-2,Alberto Undiano,Match Report,,2018-2019,Alaves
+2019-02-17,20:45,La Liga,Matchweek 24,Sun,Away,D,1,1,Betis,1.2,3.1,34,43455,Fernando Pacheco,4-1-4-1,3-4-3,Antonio Matéu Lahoz,Match Report,,2018-2019,Alaves
+2019-02-23,18:30,La Liga,Matchweek 25,Sat,Home,D,0,0,Celta Vigo,1.4,0.5,48,18882,Manu García,4-3-3,3-4-3,Carlos del Cerro,Match Report,,2018-2019,Alaves
+2019-03-02,16:15,La Liga,Matchweek 26,Sat,Away,W,2,1,Villarreal,1.4,1.2,41,15488,Manu García,4-4-2,3-5-2,José Luis Munuera,Match Report,,2018-2019,Alaves
+2019-03-09,13:00,La Liga,Matchweek 27,Sat,Home,D,1,1,Eibar,2.0,2.4,44,18793,Fernando Pacheco,4-4-2,4-4-2,Alberola Rojas,Match Report,,2018-2019,Alaves
+2019-03-16,13:00,La Liga,Matchweek 28,Sat,Away,W,3,1,Huesca,2.3,1.5,46,6811,Fernando Pacheco,4-4-2,5-3-2,Alberto Undiano,Match Report,,2018-2019,Alaves
+2019-03-30,20:45,La Liga,Matchweek 29,Sat,Home,L,0,4,Atlético Madrid,0.8,1.5,45,19117,Manu García,4-4-2,4-4-2,Mario Melero,Match Report,,2018-2019,Alaves
+2019-04-04,19:30,La Liga,Matchweek 30,Thu,Away,L,0,2,Sevilla,0.6,1.9,36,33212,Fernando Pacheco,4-4-2,4-4-2,Juan Martínez,Match Report,,2018-2019,Alaves
+2019-04-07,12:00,La Liga,Matchweek 31,Sun,Home,D,1,1,Leganés,0.9,0.9,45,16783,Manu García,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Alaves
+2019-04-13,13:00,La Liga,Matchweek 32,Sat,Away,L,1,2,Espanyol,1.4,0.5,44,18143,Manu García,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Alaves
+2019-04-19,21:00,La Liga,Matchweek 33,Fri,Home,D,2,2,Valladolid,1.3,2.0,46,13568,Manu García,4-4-2,4-4-2,Javier Estrada,Match Report,,2018-2019,Alaves
+2019-04-23,21:30,La Liga,Matchweek 34,Tue,Home,L,0,2,Barcelona,0.3,2.5,24,18735,Fernando Pacheco,5-4-1,4-3-3,Adrián Cordero,Match Report,,2018-2019,Alaves
+2019-04-27,13:00,La Liga,Matchweek 35,Sat,Away,D,1,1,Athletic Club,1.3,1.3,37,40402,Manu García,4-4-2,4-2-3-1,Jesús Gil,Match Report,,2018-2019,Alaves
+2019-05-04,18:30,La Liga,Matchweek 36,Sat,Home,L,0,1,Real Sociedad,0.8,0.8,51,18509,Manu García,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,2018-2019,Alaves
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Valencia,0.8,1.9,57,37744,Fernando Pacheco,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2018-2019,Alaves
+2019-05-18,20:45,La Liga,Matchweek 38,Sat,Home,W,2,1,Girona,1.3,1.0,44,11549,Manu García,4-1-4-1,4-3-1-2,Mario Melero,Match Report,,2018-2019,Alaves

@@ -1,0 +1,54 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-05,20:30,DFL-Supercup,DFL-Supercup,Sat,Away,D,2 (5),2 (4),Dortmund,,,,81360,Thomas Müller,4-3-3,4-3-3,Felix Zwayer,Match Report,,2017-2018,Bayern Munich
+2017-08-12,15:30,DFB-Pokal,First round,Sat,Away,W,5,0,Chemnitzer FC,,,76.0,15015,Thomas Müller,4-2-3-1,5-4-1,Bibiana Steinhaus,Match Report,,2017-2018,Bayern Munich
+2017-08-18,20:30,Bundesliga,Matchweek 1,Fri,Home,W,3,1,Leverkusen,2.6,1.6,52.0,75000,Thomas Müller,4-3-3,4-2-3-1,Tobias Stieler,Match Report,,2017-2018,Bayern Munich
+2017-08-26,15:30,Bundesliga,Matchweek 2,Sat,Away,W,2,0,Werder Bremen,1.5,0.3,71.0,42100,Manuel Neuer,4-2-3-1,3-1-4-2,Bastian Dankert,Match Report,,2017-2018,Bayern Munich
+2017-09-09,18:30,Bundesliga,Matchweek 3,Sat,Away,L,0,2,Hoffenheim,1.9,0.6,71.0,30150,Manuel Neuer,4-2-3-1,3-1-4-2,Daniel Siebert,Match Report,,2017-2018,Bayern Munich
+2017-09-12,20:45,Champions Lg,Group stage,Tue,Home,W,3,0,be Anderlecht,4.2,0.8,75.0,70000,Manuel Neuer,4-2-3-1,5-4-1,Paolo Tagliavento,Match Report,,2017-2018,Bayern Munich
+2017-09-16,15:30,Bundesliga,Matchweek 4,Sat,Home,W,4,0,Mainz 05,3.8,0.8,74.0,75000,Manuel Neuer,4-2-3-1,3-4-3,Sascha Stegemann,Match Report,,2017-2018,Bayern Munich
+2017-09-19,20:30,Bundesliga,Matchweek 5,Tue,Away,W,3,0,Schalke 04,2.3,1.2,66.0,62271,Thomas Müller,4-2-3-1,3-4-3,Marco Fritz,Match Report,,2017-2018,Bayern Munich
+2017-09-22,20:30,Bundesliga,Matchweek 6,Fri,Home,D,2,2,Wolfsburg,2.4,0.8,59.0,75000,Thomas Müller,4-2-3-1,4-1-4-1,Christian Dingert,Match Report,,2017-2018,Bayern Munich
+2017-09-27,20:45,Champions Lg,Group stage,Wed,Away,L,0,3,fr Paris S-G,1.0,2.0,63.0,46252,Thomas Müller,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2017-2018,Bayern Munich
+2017-10-01,15:30,Bundesliga,Matchweek 7,Sun,Away,D,2,2,Hertha BSC,1.3,1.4,67.0,71212,Thomas Müller,4-2-3-1,4-2-3-1,Harm Osmers,Match Report,,2017-2018,Bayern Munich
+2017-10-14,15:30,Bundesliga,Matchweek 8,Sat,Home,W,5,0,Freiburg,1.6,0.6,68.0,75000,Thomas Müller,4-2-3-1,3-5-2,Frank Willenborg,Match Report,,2017-2018,Bayern Munich
+2017-10-18,20:45,Champions Lg,Group stage,Wed,Home,W,3,0,sct Celtic,3.2,0.6,61.0,70000,Thomas Müller,4-2-3-1,4-2-3-1,Sergey Karasev,Match Report,,2017-2018,Bayern Munich
+2017-10-21,18:30,Bundesliga,Matchweek 9,Sat,Away,W,1,0,Hamburger SV,2.3,0.2,75.0,57000,Arjen Robben,4-2-3-1,3-4-1-2,Marco Fritz,Match Report,,2017-2018,Bayern Munich
+2017-10-25,20:45,DFB-Pokal,Second round,Wed,Away,D,1 (5),1 (4),RB Leipzig,,,67.0,42558,Arjen Robben,4-2-3-1,4-2-2-2,Felix Zwayer,Match Report,Bayern Munich won on penalty kicks following extra time,2017-2018,Bayern Munich
+2017-10-28,18:30,Bundesliga,Matchweek 10,Sat,Home,W,2,0,RB Leipzig,2.2,0.3,71.0,75000,Arjen Robben,4-3-3,4-2-2-2,Daniel Siebert,Match Report,,2017-2018,Bayern Munich
+2017-10-31,19:45,Champions Lg,Group stage,Tue,Away,W,2,1,sct Celtic,0.7,1.4,53.0,58269,Arjen Robben,4-3-3,5-4-1,Danny Makkelie,Match Report,,2017-2018,Bayern Munich
+2017-11-04,18:30,Bundesliga,Matchweek 11,Sat,Away,W,3,1,Dortmund,1.1,2.1,50.0,81360,Arjen Robben,4-3-3,4-2-3-1,Tobias Stieler,Match Report,,2017-2018,Bayern Munich
+2017-11-18,15:30,Bundesliga,Matchweek 12,Sat,Home,W,3,0,Augsburg,2.0,0.3,73.0,75000,Arjen Robben,4-3-3,4-2-3-1,Markus Schmidt,Match Report,,2017-2018,Bayern Munich
+2017-11-22,20:45,Champions Lg,Group stage,Wed,Away,W,2,1,be Anderlecht,2.2,1.8,60.0,19753,Arjen Robben,4-3-3,3-4-3,Anthony Taylor,Match Report,,2017-2018,Bayern Munich
+2017-11-25,18:30,Bundesliga,Matchweek 13,Sat,Away,L,1,2,Gladbach,1.6,2.1,71.0,54018,Javi Martínez,4-1-4-1,4-4-2,Manuel Gräfe,Match Report,,2017-2018,Bayern Munich
+2017-12-02,15:30,Bundesliga,Matchweek 14,Sat,Home,W,3,1,Hannover 96,3.9,1.1,69.0,75000,Thomas Müller,4-3-3,3-4-3,Guido Winkmann,Match Report,,2017-2018,Bayern Munich
+2017-12-05,20:45,Champions Lg,Group stage,Tue,Home,W,3,1,fr Paris S-G,1.8,1.9,48.0,70000,Franck Ribéry,4-2-3-1,4-3-3,Cüneyt Çakιr,Match Report,,2017-2018,Bayern Munich
+2017-12-09,15:30,Bundesliga,Matchweek 15,Sat,Away,W,1,0,Eint Frankfurt,0.3,0.5,49.0,51500,Thomas Müller,4-3-3,3-4-3,Harm Osmers,Match Report,,2017-2018,Bayern Munich
+2017-12-13,20:30,Bundesliga,Matchweek 16,Wed,Home,W,1,0,Köln,3.5,0.3,83.0,75000,Thomas Müller,4-3-3,5-4-1,Daniel Siebert,Match Report,,2017-2018,Bayern Munich
+2017-12-16,15:30,Bundesliga,Matchweek 17,Sat,Away,W,1,0,Stuttgart,1.6,1.2,57.0,58885,Javi Martínez,4-1-4-1,3-4-3,Patrick Ittrich,Match Report,,2017-2018,Bayern Munich
+2017-12-20,20:45,DFB-Pokal,Round of 16,Wed,Home,W,2,1,Dortmund,,,48.0,75000,Thomas Müller,4-1-4-1,3-1-4-2,Sascha Stegemann,Match Report,,2017-2018,Bayern Munich
+2018-01-12,20:30,Bundesliga,Matchweek 18,Fri,Away,W,3,1,Leverkusen,1.2,0.7,56.0,30210,Thomas Müller,4-3-3,3-4-3,Daniel Siebert,Match Report,,2017-2018,Bayern Munich
+2018-01-21,15:30,Bundesliga,Matchweek 19,Sun,Home,W,4,2,Werder Bremen,1.9,0.9,64.0,75000,Thomas Müller,4-1-4-1,4-2-3-1,Robert Kampka,Match Report,,2017-2018,Bayern Munich
+2018-01-27,15:30,Bundesliga,Matchweek 20,Sat,Home,W,5,2,Hoffenheim,3.2,1.0,59.0,75000,Arjen Robben,4-3-3,3-1-4-2,Manuel Gräfe,Match Report,,2017-2018,Bayern Munich
+2018-02-03,15:30,Bundesliga,Matchweek 21,Sat,Away,W,2,0,Mainz 05,1.4,1.3,64.0,34000,Thomas Müller,4-3-3,4-2-3-1,Sören Storks,Match Report,,2017-2018,Bayern Munich
+2018-02-06,18:30,DFB-Pokal,Quarter-finals,Tue,Away,W,6,0,Paderborn 07,,,59.0,15000,Thomas Müller,4-3-3,4-2-3-1,Markus Schmidt,Match Report,,2017-2018,Bayern Munich
+2018-02-10,18:30,Bundesliga,Matchweek 22,Sat,Home,W,2,1,Schalke 04,1.4,0.6,58.0,75000,Thomas Müller,4-3-3,3-4-1-2,Tobias Stieler,Match Report,,2017-2018,Bayern Munich
+2018-02-17,15:30,Bundesliga,Matchweek 23,Sat,Away,W,2,1,Wolfsburg,3.2,0.2,75.0,30000,Franck Ribéry,4-3-3,4-1-4-1,Sascha Stegemann,Match Report,,2017-2018,Bayern Munich
+2018-02-20,20:45,Champions Lg,Round of 16,Tue,Home,W,5,0,tr Beşiktaş,4.9,0.3,69.0,70000,Thomas Müller,4-3-3,4-2-3-1,Ovidiu Hațegan,Match Report,Leg 1 of 2,2017-2018,Bayern Munich
+2018-02-24,15:30,Bundesliga,Matchweek 24,Sat,Home,D,0,0,Hertha BSC,1.8,0.2,75.0,75000,Thomas Müller,4-3-3,4-1-4-1,Guido Winkmann,Match Report,,2017-2018,Bayern Munich
+2018-03-04,18:00,Bundesliga,Matchweek 25,Sun,Away,W,4,0,Freiburg,2.1,0.5,60.0,24000,Thomas Müller,4-1-4-1,3-4-3,Frank Willenborg,Match Report,,2017-2018,Bayern Munich
+2018-03-10,15:30,Bundesliga,Matchweek 26,Sat,Home,W,6,0,Hamburger SV,4.7,0.0,74.0,75000,Thomas Müller,4-1-4-1,3-4-3,Christian Dingert,Match Report,,2017-2018,Bayern Munich
+2018-03-14,20:00,Champions Lg,Round of 16,Wed,Away,W,3,1,tr Beşiktaş,2.1,1.2,50.0,36885,Thomas Müller,4-3-3,4-2-3-1,Michael Oliver,Match Report,Leg 2 of 2; Bayern Munich won,2017-2018,Bayern Munich
+2018-03-18,18:00,Bundesliga,Matchweek 27,Sun,Away,L,1,2,RB Leipzig,1.4,2.8,61.0,42558,Thomas Müller,4-3-3,3-4-1-2,Marco Fritz,Match Report,,2017-2018,Bayern Munich
+2018-03-31,18:30,Bundesliga,Matchweek 28,Sat,Home,W,6,0,Dortmund,4.5,0.4,59.0,75000,Thomas Müller,4-3-3,4-2-3-1,Bastian Dankert,Match Report,,2017-2018,Bayern Munich
+2018-04-03,20:45,Champions Lg,Quarter-finals,Tue,Away,W,2,1,es Sevilla,1.4,0.9,58.0,40635,Thomas Müller,4-1-4-1,4-2-3-1,Daniele Orsato,Match Report,Leg 1 of 2,2017-2018,Bayern Munich
+2018-04-07,15:30,Bundesliga,Matchweek 29,Sat,Away,W,4,1,Augsburg,1.8,0.9,70.0,30660,Arjen Robben,4-3-3,3-4-1-2,Markus Schmidt,Match Report,,2017-2018,Bayern Munich
+2018-04-11,20:45,Champions Lg,Quarter-finals,Wed,Home,D,0,0,es Sevilla,1.2,0.6,50.0,70000,Thomas Müller,4-1-4-1,4-2-3-1,William Collum,Match Report,Leg 2 of 2; Bayern Munich won,2017-2018,Bayern Munich
+2018-04-14,18:30,Bundesliga,Matchweek 30,Sat,Home,W,5,1,Gladbach,3.3,0.2,69.0,75000,Thomas Müller,4-3-3,4-4-2,Robert Kampka,Match Report,,2017-2018,Bayern Munich
+2018-04-17,20:45,DFB-Pokal,Semi-finals,Tue,Away,W,6,2,Leverkusen,,,58.0,30210,Thomas Müller,4-1-4-1,4-2-3-1,Daniel Siebert,Match Report,,2017-2018,Bayern Munich
+2018-04-21,15:30,Bundesliga,Matchweek 31,Sat,Away,W,3,0,Hannover 96,1.5,0.3,74.0,49000,Arjen Robben,4-3-3,3-4-3,Martin Petersen,Match Report,,2017-2018,Bayern Munich
+2018-04-25,20:45,Champions Lg,Semi-finals,Wed,Home,L,1,2,es Real Madrid,1.9,0.7,59.0,70000,Thomas Müller,4-1-4-1,4-1-4-1,Björn Kuipers,Match Report,Leg 1 of 2,2017-2018,Bayern Munich
+2018-04-28,15:30,Bundesliga,Matchweek 32,Sat,Home,W,4,1,Eint Frankfurt,1.8,2.1,59.0,75000,Mats Hummels,4-3-3,4-2-3-1,Christian Dingert,Match Report,,2017-2018,Bayern Munich
+2018-05-01,20:45,Champions Lg,Semi-finals,Tue,Away,D,2,2,es Real Madrid,3.0,1.8,60.0,77459,Thomas Müller,4-1-4-1,4-4-2,Cüneyt Çakιr,Match Report,Leg 2 of 2; Real Madrid won,2017-2018,Bayern Munich
+2018-05-05,15:30,Bundesliga,Matchweek 33,Sat,Away,W,3,1,Köln,2.5,1.8,66.0,50000,Thomas Müller,4-3-3,4-1-4-1,Bibiana Steinhaus,Match Report,,2017-2018,Bayern Munich
+2018-05-12,15:30,Bundesliga,Matchweek 34,Sat,Home,L,1,4,Stuttgart,2.1,2.2,80.0,75000,Thomas Müller,4-3-3,4-5-1,Sascha Stegemann,Match Report,,2017-2018,Bayern Munich
+2018-05-19,20:00,DFB-Pokal,Final,Sat,Home,L,1,3,Eint Frankfurt,,,77.0,76322,Thomas Müller,4-3-3,4-1-4-1,Felix Zwayer,Match Report,,2017-2018,Bayern Munich

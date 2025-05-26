@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-08-28,21:00,Ligue 1,Matchweek 2,Fri,Home,W,4,1,Dijon,4.6,0.2,63.0,,Memphis,3-4-1-2,4-2-3-1,Benoît Millot,Match Report,,2020-2021,Lyon
+2020-09-11,21:00,Ligue 1,Matchweek 3,Fri,Away,D,0,0,Bordeaux,2.0,0.3,54.0,,Memphis,3-4-3,4-2-3-1,Ruddy Buquet,Match Report,,2020-2021,Lyon
+2020-09-15,21:00,Ligue 1,Matchweek 1,Tue,Away,L,1,2,Montpellier,2.3,1.8,56.0,,Houssem Aouar,3-4-1-2,3-5-2,François Letexier,Match Report,,2020-2021,Lyon
+2020-09-18,21:00,Ligue 1,Matchweek 4,Fri,Home,D,0,0,Nîmes,1.4,0.7,73.0,4385.0,Memphis,4-4-2,4-3-3,Amaury Delerue,Match Report,,2020-2021,Lyon
+2020-09-27,17:00,Ligue 1,Matchweek 5,Sun,Away,D,1,1,Lorient,1.0,0.2,69.0,,Marcelo,3-4-1-2,5-4-1,Clément Turpin,Match Report,,2020-2021,Lyon
+2020-10-04,21:00,Ligue 1,Matchweek 6,Sun,Home,D,1,1,Marseille,3.2,0.3,68.0,,Leo Dubois,4-2-3-1,4-1-4-1,Stéphanie Frappart,Match Report,,2020-2021,Lyon
+2020-10-18,13:00,Ligue 1,Matchweek 7,Sun,Away,W,3,2,Strasbourg,3.9,2.1,47.0,,Memphis,4-3-3,4-1-4-1,Ruddy Buquet,Match Report,,2020-2021,Lyon
+2020-10-25,21:00,Ligue 1,Matchweek 8,Sun,Home,W,4,1,Monaco,3.3,2.0,35.0,,Memphis,4-4-1-1,4-3-3,Jérôme Brisard,Match Report,,2020-2021,Lyon
+2020-11-01,21:00,Ligue 1,Matchweek 9,Sun,Away,D,1,1,Lille,0.6,0.6,40.0,,Memphis,4-3-3,4-4-2,Mikael Lesage,Match Report,,2020-2021,Lyon
+2020-11-08,21:00,Ligue 1,Matchweek 10,Sun,Home,W,2,1,Saint-Étienne,2.8,1.9,60.0,,Memphis,4-3-3,4-4-2,François Letexier,Match Report,,2020-2021,Lyon
+2020-11-22,17:00,Ligue 1,Matchweek 11,Sun,Away,W,1,0,Angers,1.0,1.1,50.0,,Memphis,4-3-3,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Lyon
+2020-11-29,13:00,Ligue 1,Matchweek 12,Sun,Home,W,3,0,Reims,1.7,0.4,64.0,,Memphis,4-3-3,4-4-2,Jérôme Miguelgorry,Match Report,,2020-2021,Lyon
+2020-12-06,21:00,Ligue 1,Matchweek 13,Sun,Away,W,3,1,Metz,1.6,1.5,54.0,,Memphis,4-3-3,4-3-3,Karim Abed,Match Report,,2020-2021,Lyon
+2020-12-13,21:00,Ligue 1,Matchweek 14,Sun,Away,W,1,0,Paris S-G,0.8,0.4,36.0,,Memphis,4-3-3,3-5-2,Benoît Bastien,Match Report,,2020-2021,Lyon
+2020-12-16,21:00,Ligue 1,Matchweek 15,Wed,Home,D,2,2,Brest,3.8,1.7,56.0,,Marcelo,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Lyon
+2020-12-19,21:00,Ligue 1,Matchweek 16,Sat,Away,W,4,1,Nice,3.3,0.9,45.0,,Memphis,4-3-3,3-4-3,Antony Gautier,Match Report,,2020-2021,Lyon
+2020-12-23,21:00,Ligue 1,Matchweek 17,Wed,Home,W,3,0,Nantes,3.6,1.4,64.0,,Memphis,4-3-3,5-4-1,Ruddy Buquet,Match Report,,2020-2021,Lyon
+2021-01-06,21:00,Ligue 1,Matchweek 18,Wed,Home,W,3,2,Lens,1.9,0.9,51.0,,Memphis,4-3-3,3-4-1-2,Eric Wattellier,Match Report,,2020-2021,Lyon
+2021-01-09,21:00,Ligue 1,Matchweek 19,Sat,Away,D,2,2,Rennes,0.8,1.1,45.0,,Memphis,4-3-3,4-1-4-1,Mikael Lesage,Match Report,,2020-2021,Lyon
+2021-01-17,21:00,Ligue 1,Matchweek 20,Sun,Home,L,0,1,Metz,1.5,1.9,64.0,,Memphis,4-3-3,3-4-1-2,Stéphanie Frappart,Match Report,,2020-2021,Lyon
+2021-01-24,21:00,Ligue 1,Matchweek 21,Sun,Away,W,5,0,Saint-Étienne,2.1,0.2,60.0,,Memphis,4-3-3,4-1-2-1-2,Benoît Bastien,Match Report,,2020-2021,Lyon
+2021-01-29,21:00,Ligue 1,Matchweek 22,Fri,Home,W,2,1,Bordeaux,1.0,1.0,56.0,,Memphis,4-3-3,4-2-3-1,Clément Turpin,Match Report,,2020-2021,Lyon
+2021-02-03,21:00,Ligue 1,Matchweek 23,Wed,Away,W,1,0,Dijon,2.5,1.2,63.0,,Memphis,4-3-3,4-3-3,Johan Hamel,Match Report,,2020-2021,Lyon
+2021-02-06,19:00,Ligue 1,Matchweek 24,Sat,Home,W,3,0,Strasbourg,1.4,0.3,69.0,,Memphis,4-3-3,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Lyon
+2021-02-09,21:00,Coupe de France,Round of 64,Tue,Home,W,5,1,Ajaccio,,,,,Memphis,4-2-3-1,4-1-4-1,Florent Batta,Match Report,,2020-2021,Lyon
+2021-02-13,21:00,Ligue 1,Matchweek 25,Sat,Home,L,1,2,Montpellier,4.4,1.5,55.0,,Memphis,4-3-3,4-1-4-1,Antony Gautier,Match Report,,2020-2021,Lyon
+2021-02-19,21:00,Ligue 1,Matchweek 26,Fri,Away,W,3,2,Brest,3.2,1.5,49.0,,Memphis,4-2-3-1,4-4-2,Franck Schneider,Match Report,,2020-2021,Lyon
+2021-02-28,21:00,Ligue 1,Matchweek 27,Sun,Away,D,1,1,Marseille,0.6,1.5,48.0,,Memphis,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2020-2021,Lyon
+2021-03-03,19:00,Ligue 1,Matchweek 28,Wed,Home,W,1,0,Rennes,2.2,0.6,47.0,,Memphis,4-3-3,4-3-3,Ruddy Buquet,Match Report,,2020-2021,Lyon
+2021-03-06,18:45,Coupe de France,Round of 32,Sat,Home,W,5,2,Sochaux,,,68.0,,Houssem Aouar,4-3-3,4-5-1,Eric Wattellier,Match Report,,2020-2021,Lyon
+2021-03-12,21:00,Ligue 1,Matchweek 29,Fri,Away,D,1,1,Reims,1.5,0.7,68.0,,Memphis,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Lyon
+2021-03-21,21:00,Ligue 1,Matchweek 30,Sun,Home,L,2,4,Paris S-G,0.8,1.4,43.0,,Memphis,4-3-3,4-2-3-1,Clément Turpin,Match Report,,2020-2021,Lyon
+2021-04-03,21:00,Ligue 1,Matchweek 31,Sat,Away,D,1,1,Lens,2.1,0.7,60.0,,Memphis,4-3-3,3-1-4-2,Benoît Millot,Match Report,,2020-2021,Lyon
+2021-04-08,19:00,Coupe de France,Round of 16,Thu,Away,D,2 (5),2 (4),Red Star,,,65.0,,Memphis,4-2-3-1,4-3-3,Jérôme Miguelgorry,Match Report,Lyon won on penalty kicks following extra time,2020-2021,Lyon
+2021-04-11,21:00,Ligue 1,Matchweek 32,Sun,Home,W,3,0,Angers,2.6,1.2,53.0,,Memphis,4-2-3-1,5-3-2,Mikael Lesage,Match Report,,2020-2021,Lyon
+2021-04-18,21:00,Ligue 1,Matchweek 33,Sun,Away,W,2,1,Nantes,1.7,1.1,51.0,,Memphis,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2020-2021,Lyon
+2021-04-21,21:10,Coupe de France,Quarter-finals,Wed,Home,L,0,2,Monaco,,,43.0,,Memphis,3-4-3,4-4-2,Stéphanie Frappart,Match Report,,2020-2021,Lyon
+2021-04-25,21:00,Ligue 1,Matchweek 34,Sun,Home,L,2,3,Lille,1.0,1.9,46.0,,Memphis,4-2-3-1,4-4-2,François Letexier,Match Report,,2020-2021,Lyon
+2021-05-02,21:00,Ligue 1,Matchweek 35,Sun,Away,W,3,2,Monaco,1.2,2.1,52.0,,Memphis,3-4-1-2,4-2-3-1,Clément Turpin,Match Report,,2020-2021,Lyon
+2021-05-08,17:00,Ligue 1,Matchweek 36,Sat,Home,W,4,1,Lorient,4.3,0.6,59.0,,Leo Dubois,4-3-3,5-3-2,Mikael Lesage,Match Report,,2020-2021,Lyon
+2021-05-16,21:00,Ligue 1,Matchweek 37,Sun,Away,W,5,2,Nîmes,2.4,1.0,57.0,,Memphis,4-2-3-1,4-2-3-1,Ruddy Buquet,Match Report,,2020-2021,Lyon
+2021-05-23,21:00,Ligue 1,Matchweek 38,Sun,Home,L,2,3,Nice,1.4,1.6,55.0,,Memphis,4-2-3-1,4-1-4-1,Benoît Millot,Match Report,,2020-2021,Lyon

@@ -1,0 +1,58 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,16:30,Premier League,Matchweek 1,Sun,Home,L,0,2,Manchester City,0.5,2.2,25.0,62443,Declan Rice,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,West Ham
+2022-08-14,14:00,Premier League,Matchweek 2,Sun,Away,L,0,1,Nott'ham Forest,2.1,1.3,57.0,29281,Declan Rice,4-3-3,3-4-1-2,Robert Jones,Match Report,,2022-2023,West Ham
+2022-08-18,19:45,Conf Lg,Play-off round,Thu,Home,W,3,1,dk Viborg,,,,30230,Angelo Ogbonna,3-4-3,4-3-3,Marco Di Bello,Match Report,Leg 1 of 2,2022-2023,West Ham
+2022-08-21,14:00,Premier League,Matchweek 3,Sun,Home,L,0,2,Brighton,0.8,1.7,50.0,62449,Declan Rice,4-2-3-1,3-5-1-1,Anthony Taylor,Match Report,,2022-2023,West Ham
+2022-08-25,19:00,Conf Lg,Play-off round,Thu,Away,W,3,0,dk Viborg,,,,8435,Aaron Cresswell,4-2-3-1,4-3-3,Harald Lechner,Match Report,Leg 2 of 2; West Ham won,2022-2023,West Ham
+2022-08-28,14:00,Premier League,Matchweek 4,Sun,Away,W,1,0,Aston Villa,0.6,0.5,42.0,41796,Declan Rice,3-5-2,4-3-1-2,David Coote,Match Report,,2022-2023,West Ham
+2022-08-31,19:45,Premier League,Matchweek 5,Wed,Home,D,1,1,Tottenham,1.2,0.6,39.0,62450,Declan Rice,4-2-3-1,3-4-3,Peter Bankes,Match Report,,2022-2023,West Ham
+2022-09-03,15:00,Premier League,Matchweek 6,Sat,Away,L,1,2,Chelsea,1.1,0.9,33.0,39923,Declan Rice,3-4-1-2,3-1-4-2,Andy Madley,Match Report,,2022-2023,West Ham
+2022-09-08,20:00,Conf Lg,Group stage,Thu,Home,W,3,1,ro FCSB,2.5,1.3,66.0,33312,Declan Rice,4-3-3,4-3-3,Benoît Bastien,Match Report,,2022-2023,West Ham
+2022-09-15,21:00,Conf Lg,Group stage,Thu,Away,W,3,2,dk Silkeborg,1.5,0.9,47.0,6702,Declan Rice,3-4-1-2,4-3-2-1,Fábio Veríssimo,Match Report,,2022-2023,West Ham
+2022-09-18,14:15,Premier League,Matchweek 8,Sun,Away,L,0,1,Everton,1.0,0.4,47.0,39298,Declan Rice,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,West Ham
+2022-10-01,17:30,Premier League,Matchweek 9,Sat,Home,W,2,0,Wolves,0.9,0.7,39.0,62444,Declan Rice,4-2-3-1,3-4-3,Paul Tierney,Match Report,,2022-2023,West Ham
+2022-10-06,18:45,Conf Lg,Group stage,Thu,Away,W,1,0,be Anderlecht,2.6,0.8,56.0,17033,Angelo Ogbonna,3-4-1-2,3-5-2,Novak Simović,Match Report,,2022-2023,West Ham
+2022-10-09,14:00,Premier League,Matchweek 10,Sun,Home,W,3,1,Fulham,2.4,0.7,50.0,62407,Declan Rice,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,West Ham
+2022-10-13,20:00,Conf Lg,Group stage,Thu,Home,W,2,1,be Anderlecht,1.4,1.4,59.0,40767,Aaron Cresswell,3-4-3,3-5-2,Willy Delajod,Match Report,,2022-2023,West Ham
+2022-10-16,14:00,Premier League,Matchweek 11,Sun,Away,D,1,1,Southampton,1.7,0.5,61.0,29159,Declan Rice,3-4-3,4-3-3,Peter Bankes,Match Report,,2022-2023,West Ham
+2022-10-19,19:30,Premier League,Matchweek 12,Wed,Away,L,0,1,Liverpool,1.7,1.7,46.0,52982,Declan Rice,4-4-2,4-4-2,Stuart Attwell,Match Report,,2022-2023,West Ham
+2022-10-24,20:00,Premier League,Matchweek 13,Mon,Home,W,2,0,Bournemouth,1.9,0.4,55.0,62447,Declan Rice,4-2-3-1,4-2-3-1,David Coote,Match Report,,2022-2023,West Ham
+2022-10-27,20:00,Conf Lg,Group stage,Thu,Home,W,1,0,dk Silkeborg,2.2,0.2,53.0,35911,Angelo Ogbonna,5-3-2,4-3-2-1,Joni Hyytiä,Match Report,,2022-2023,West Ham
+2022-10-30,16:15,Premier League,Matchweek 14,Sun,Away,L,0,1,Manchester Utd,1.1,1.2,47.0,73682,Declan Rice,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,West Ham
+2022-11-03,22:00,Conf Lg,Group stage,Thu,Away,W,3,0,ro FCSB,1.8,0.8,58.0,20172,Angelo Ogbonna,3-4-3,4-3-3,Sascha Stegemann,Match Report,,2022-2023,West Ham
+2022-11-06,14:00,Premier League,Matchweek 15,Sun,Home,L,1,2,Crystal Palace,0.3,1.0,42.0,62451,Declan Rice,4-2-3-1,4-3-3,Paul Tierney,Match Report,,2022-2023,West Ham
+2022-11-09,19:45,EFL Cup,Third round,Wed,Home,D,2 (9),2 (10),Blackburn,,,52.0,40534,Angelo Ogbonna,3-4-3,4-2-3-1,Thomas Bramall,Match Report,Blackburn won on penalty kicks following normal time,2022-2023,West Ham
+2022-11-12,15:00,Premier League,Matchweek 16,Sat,Home,L,0,2,Leicester City,1.4,1.8,54.0,62459,Declan Rice,4-2-3-1,4-1-4-1,Jarred Gillett,Match Report,,2022-2023,West Ham
+2022-12-26,20:00,Premier League,Matchweek 17,Mon,Away,L,1,3,Arsenal,1.0,2.1,34.0,60125,Declan Rice,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,West Ham
+2022-12-30,19:45,Premier League,Matchweek 18,Fri,Home,L,0,2,Brentford,1.3,1.6,63.0,62467,Declan Rice,3-4-3,3-5-2,Darren England,Match Report,,2022-2023,West Ham
+2023-01-04,19:45,Premier League,Matchweek 19,Wed,Away,D,2,2,Leeds United,1.4,1.6,38.0,36173,Declan Rice,4-3-3,4-2-3-1,David Coote,Match Report,,2022-2023,West Ham
+2023-01-07,17:30,FA Cup,Third round proper,Sat,Away,W,1,0,Brentford,,,41.0,16725,Declan Rice,3-5-2,3-5-2,Andre Marriner,Match Report,,2022-2023,West Ham
+2023-01-14,15:00,Premier League,Matchweek 20,Sat,Away,L,0,1,Wolves,1.1,0.9,42.0,31511,Declan Rice,4-3-3,4-2-3-1,Simon Hooper,Match Report,,2022-2023,West Ham
+2023-01-21,15:00,Premier League,Matchweek 21,Sat,Home,W,2,0,Everton,2.2,0.5,33.0,62470,Declan Rice,3-4-3,3-4-3,Stuart Attwell,Match Report,,2022-2023,West Ham
+2023-01-30,19:45,FA Cup,Fourth round proper,Mon,Away,W,2,0,Derby County,,,52.0,25308,Angelo Ogbonna,3-4-3,4-2-3-1,Thomas Bramall,Match Report,,2022-2023,West Ham
+2023-02-04,17:30,Premier League,Matchweek 22,Sat,Away,D,1,1,Newcastle Utd,1.0,1.0,38.0,52256,Declan Rice,3-4-3,4-3-3,Peter Bankes,Match Report,,2022-2023,West Ham
+2023-02-11,12:30,Premier League,Matchweek 23,Sat,Home,D,1,1,Chelsea,1.3,1.1,29.0,62471,Declan Rice,3-4-3,4-2-3-1,Craig Pawson,Match Report,,2022-2023,West Ham
+2023-02-19,16:30,Premier League,Matchweek 24,Sun,Away,L,0,2,Tottenham,0.5,1.5,43.0,61476,Declan Rice,3-4-3,3-4-3,Michael Oliver,Match Report,,2022-2023,West Ham
+2023-02-25,15:00,Premier League,Matchweek 25,Sat,Home,W,4,0,Nott'ham Forest,2.7,0.4,49.0,62469,Declan Rice,4-3-3,4-3-2-1,Jarred Gillett,Match Report,,2022-2023,West Ham
+2023-03-01,19:45,FA Cup,Fifth round proper,Wed,Away,L,1,3,Manchester Utd,,,40.0,72571,Declan Rice,4-3-3,4-3-3,Michael Salisbury,Match Report,,2022-2023,West Ham
+2023-03-04,15:00,Premier League,Matchweek 26,Sat,Away,L,0,4,Brighton,0.3,3.5,35.0,31523,Declan Rice,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,2022-2023,West Ham
+2023-03-09,19:45,Conf Lg,Round of 16,Thu,Away,W,2,0,cy AÉK Lárnaka,1.0,0.8,53.0,6654,Declan Rice,4-2-3-1,4-2-3-1,Espen Andreas Eskås,Match Report,Leg 1 of 2,2022-2023,West Ham
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Home,D,1,1,Aston Villa,2.1,1.5,41.0,62472,Declan Rice,4-1-4-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,West Ham
+2023-03-16,20:00,Conf Lg,Round of 16,Thu,Home,W,4,0,cy AÉK Lárnaka,1.7,0.3,65.0,40482,Angelo Ogbonna,4-2-3-1,4-2-3-1,Georgi Kabakov,Match Report,Leg 2 of 2; West Ham won,2022-2023,West Ham
+2023-04-02,14:00,Premier League,Matchweek 29,Sun,Home,W,1,0,Southampton,1.4,0.3,43.0,62498,Declan Rice,4-3-3,4-4-2,Paul Tierney,Match Report,,2022-2023,West Ham
+2023-04-05,20:00,Premier League,Matchweek 7,Wed,Home,L,1,5,Newcastle Utd,1.0,3.3,42.0,62481,Declan Rice,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2022-2023,West Ham
+2023-04-08,15:00,Premier League,Matchweek 30,Sat,Away,W,1,0,Fulham,1.1,0.7,24.0,24491,Declan Rice,4-4-2,4-2-3-1,Jarred Gillett,Match Report,,2022-2023,West Ham
+2023-04-13,18:45,Conf Lg,Quarter-finals,Thu,Away,D,1,1,be Gent,1.2,1.3,47.0,19037,Declan Rice,3-4-3,3-5-2,Anastasios Sidiropoulos,Match Report,Leg 1 of 2,2022-2023,West Ham
+2023-04-16,14:00,Premier League,Matchweek 31,Sun,Home,D,2,2,Arsenal,1.8,2.7,30.0,62481,Declan Rice,4-3-3,4-3-3,David Coote,Match Report,,2022-2023,West Ham
+2023-04-20,20:00,Conf Lg,Quarter-finals,Thu,Home,W,4,1,be Gent,2.7,1.0,49.0,53475,Declan Rice,4-2-3-1,3-4-1-2,Orel Grinfeeld,Match Report,Leg 2 of 2; West Ham won,2022-2023,West Ham
+2023-04-23,14:00,Premier League,Matchweek 32,Sun,Away,W,4,0,Bournemouth,2.4,1.5,36.0,10465,Declan Rice,4-3-3,3-4-3,Anthony Taylor,Match Report,,2022-2023,West Ham
+2023-04-26,19:45,Premier League,Matchweek 33,Wed,Home,L,1,2,Liverpool,0.8,1.9,28.0,62473,Declan Rice,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,2022-2023,West Ham
+2023-04-29,12:30,Premier League,Matchweek 34,Sat,Away,L,3,4,Crystal Palace,1.7,2.1,41.0,25148,Declan Rice,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2022-2023,West Ham
+2023-05-03,20:00,Premier League,Matchweek 28,Wed,Away,L,0,3,Manchester City,0.4,2.3,31.0,53305,Aaron Cresswell,4-2-3-1,3-2-4-1,John Brooks,Match Report,,2022-2023,West Ham
+2023-05-07,19:00,Premier League,Matchweek 35,Sun,Home,W,1,0,Manchester Utd,1.3,1.2,35.0,62477,Declan Rice,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,2022-2023,West Ham
+2023-05-11,20:00,Conf Lg,Semi-finals,Thu,Home,W,2,1,nl AZ Alkmaar,2.7,0.3,43.0,59412,Declan Rice,4-2-3-1,4-2-3-1,Halil Umut Meler,Match Report,Leg 1 of 2,2022-2023,West Ham
+2023-05-14,14:00,Premier League,Matchweek 36,Sun,Away,L,0,2,Brentford,0.2,3.4,47.0,17075,Angelo Ogbonna,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,West Ham
+2023-05-18,21:00,Conf Lg,Semi-finals,Thu,Away,W,1,0,nl AZ Alkmaar,0.8,0.5,31.0,19000,Declan Rice,4-3-3,4-3-3,Ivan Kružliak,Match Report,Leg 2 of 2; West Ham won,2022-2023,West Ham
+2023-05-21,13:30,Premier League,Matchweek 37,Sun,Home,W,3,1,Leeds United,2.1,0.9,59.0,62478,Declan Rice,4-2-3-1,4-3-3,Peter Bankes,Match Report,,2022-2023,West Ham
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Away,L,1,2,Leicester City,1.4,1.4,52.0,32183,Declan Rice,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,2022-2023,West Ham
+2023-06-07,21:00,Conf Lg,Final,Wed,Neutral,W,2,1,it Fiorentina,1.4,1.3,33.0,17363,Declan Rice,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,2022-2023,West Ham

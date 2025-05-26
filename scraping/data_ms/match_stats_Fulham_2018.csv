@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-11,15:00,Premier League,Matchweek 1,Sat,Home,L,0,2,Crystal Palace,0.7,1.0,65,24821,Tom Cairney,4-3-3,4-4-2,Mike Dean,Match Report,,2018-2019,Fulham
+2018-08-18,15:00,Premier League,Matchweek 2,Sat,Away,L,1,3,Tottenham,1.6,2.9,40,58297,Tom Cairney,4-3-3,3-1-4-2,Anthony Taylor,Match Report,,2018-2019,Fulham
+2018-08-26,16:00,Premier League,Matchweek 3,Sun,Home,W,4,2,Burnley,1.3,1.5,63,23438,Tom Cairney,4-3-3,4-4-1-1,David Coote,Match Report,,2018-2019,Fulham
+2018-08-28,19:45,EFL Cup,Second round,Tue,Home,W,2,0,Exeter City,,,57,9333,Stefan Johansen,4-3-3,3-4-3,Kevin Friend,Match Report,,2018-2019,Fulham
+2018-09-01,15:00,Premier League,Matchweek 4,Sat,Away,D,2,2,Brighton,1.6,2.8,58,30526,Kevin McDonald,4-3-3,4-4-1-1,Lee Probert,Match Report,,2018-2019,Fulham
+2018-09-15,15:00,Premier League,Matchweek 5,Sat,Away,L,0,3,Manchester City,0.4,4.8,36,53307,Kevin McDonald,4-3-3,4-3-3,Stuart Attwell,Match Report,,2018-2019,Fulham
+2018-09-22,12:30,Premier League,Matchweek 6,Sat,Home,D,1,1,Watford,1.7,1.4,60,23418,Kevin McDonald,4-3-3,4-2-2-2,Martin Atkinson,Match Report,,2018-2019,Fulham
+2018-09-25,19:45,EFL Cup,Third round,Tue,Away,W,3,1,Millwall,,,60,5839,Kevin McDonald,3-4-3,4-4-2,Darren Bond,Match Report,,2018-2019,Fulham
+2018-09-29,15:00,Premier League,Matchweek 7,Sat,Away,L,0,3,Everton,0.5,2.3,49,38788,Marcus Bettinelli,4-4-1-1,4-2-3-1,Roger East,Match Report,,2018-2019,Fulham
+2018-10-07,12:00,Premier League,Matchweek 8,Sun,Home,L,1,5,Arsenal,1.4,1.1,48,25401,Marcus Bettinelli,3-4-3,4-4-2,Paul Tierney,Match Report,,2018-2019,Fulham
+2018-10-20,15:00,Premier League,Matchweek 9,Sat,Away,L,2,4,Cardiff City,0.7,1.5,59,29681,Kevin McDonald,4-3-3,4-4-1-1,Kevin Friend,Match Report,,2018-2019,Fulham
+2018-10-27,15:00,Premier League,Matchweek 10,Sat,Home,L,0,3,Bournemouth,0.5,2.0,51,25071,Kevin McDonald,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2018-2019,Fulham
+2018-11-01,19:45,EFL Cup,Fourth round,Thu,Away,L,0,2,Manchester City,,,35,35271,Tom Cairney,4-3-3,4-3-3,Martin Atkinson,Match Report,,2018-2019,Fulham
+2018-11-05,20:00,Premier League,Matchweek 11,Mon,Away,L,0,1,Huddersfield,0.4,0.6,56,17082,Tom Cairney,4-3-3,3-4-1-2,Anthony Taylor,Match Report,,2018-2019,Fulham
+2018-11-11,12:00,Premier League,Matchweek 12,Sun,Away,L,0,2,Liverpool,0.5,1.8,29,53128,Tom Cairney,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2018-2019,Fulham
+2018-11-24,15:00,Premier League,Matchweek 13,Sat,Home,W,3,2,Southampton,1.3,1.3,38,24603,Tom Cairney,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2018-2019,Fulham
+2018-12-02,12:00,Premier League,Matchweek 14,Sun,Away,L,0,2,Chelsea,0.4,2.1,35,40551,Tom Cairney,4-1-2-1-2◆,4-3-3,Craig Pawson,Match Report,,2018-2019,Fulham
+2018-12-05,19:45,Premier League,Matchweek 15,Wed,Home,D,1,1,Leicester City,1.4,1.2,46,22881,Aleksandar Mitrović,4-2-3-1,4-2-3-1,David Coote,Match Report,,2018-2019,Fulham
+2018-12-08,15:00,Premier League,Matchweek 16,Sat,Away,L,1,4,Manchester Utd,1.2,2.3,38,74523,Tom Cairney,4-2-3-1,4-2-3-1,Lee Probert,Match Report,,2018-2019,Fulham
+2018-12-15,17:30,Premier League,Matchweek 17,Sat,Home,L,0,2,West Ham,1.3,0.8,56,24081,Tom Cairney,4-4-2,4-4-2,Mike Dean,Match Report,,2018-2019,Fulham
+2018-12-22,15:00,Premier League,Matchweek 18,Sat,Away,D,0,0,Newcastle Utd,0.2,0.4,47,51237,Tom Cairney,3-4-3,5-4-1,Martin Atkinson,Match Report,,2018-2019,Fulham
+2018-12-26,12:30,Premier League,Matchweek 19,Wed,Home,D,1,1,Wolves,1.2,1.4,30,24382,Aleksandar Mitrović,3-4-3,3-4-1-2,Andre Marriner,Match Report,,2018-2019,Fulham
+2018-12-29,15:00,Premier League,Matchweek 20,Sat,Home,W,1,0,Huddersfield,1.8,0.4,44,24423,Tom Cairney,3-4-3,3-5-1-1,Kevin Friend,Match Report,,2018-2019,Fulham
+2019-01-01,15:00,Premier League,Matchweek 21,Tue,Away,L,1,4,Arsenal,1.4,4.5,40,59887,Tom Cairney,3-4-3,3-4-3,Graham Scott,Match Report,,2018-2019,Fulham
+2019-01-06,14:00,FA Cup,Third round,Sun,Home,L,1,2,Oldham Athletic,,,59,16134,Tom Cairney,4-3-3,4-3-3,Anthony Taylor,Match Report,,2018-2019,Fulham
+2019-01-12,15:00,Premier League,Matchweek 22,Sat,Away,L,1,2,Burnley,0.8,0.8,58,19316,Aleksandar Mitrović,3-4-3,4-4-2,Martin Atkinson,Match Report,,2018-2019,Fulham
+2019-01-20,16:00,Premier League,Matchweek 23,Sun,Home,L,1,2,Tottenham,0.9,1.7,28,24807,Aleksandar Mitrović,3-4-3,3-4-3,Craig Pawson,Match Report,,2018-2019,Fulham
+2019-01-29,19:45,Premier League,Matchweek 24,Tue,Home,W,4,2,Brighton,3.3,2.2,61,22008,Aleksandar Mitrović,3-4-3,4-3-3,Lee Probert,Match Report,,2018-2019,Fulham
+2019-02-02,15:00,Premier League,Matchweek 25,Sat,Away,L,0,2,Crystal Palace,0.6,2.2,62,25355,Tom Cairney,3-4-3,4-4-2,Michael Oliver,Match Report,,2018-2019,Fulham
+2019-02-09,12:30,Premier League,Matchweek 26,Sat,Home,L,0,3,Manchester Utd,2.2,1.9,51,25001,Aleksandar Mitrović,4-2-3-1,4-3-3,Paul Tierney,Match Report,,2018-2019,Fulham
+2019-02-22,19:45,Premier League,Matchweek 27,Fri,Away,L,1,3,West Ham,1.3,2.4,45,59950,Tom Cairney,4-4-1-1,4-1-4-1,Lee Mason,Match Report,,2018-2019,Fulham
+2019-02-27,19:45,Premier League,Matchweek 28,Wed,Away,L,0,2,Southampton,0.8,1.3,59,27597,Tom Cairney,4-3-1-2,3-4-3,Anthony Taylor,Match Report,,2018-2019,Fulham
+2019-03-03,14:05,Premier League,Matchweek 29,Sun,Home,L,1,2,Chelsea,0.8,1.2,37,24900,Tom Cairney,4-2-3-1,4-3-3,Graham Scott,Match Report,,2018-2019,Fulham
+2019-03-09,15:00,Premier League,Matchweek 30,Sat,Away,L,1,3,Leicester City,0.2,2.0,48,32017,Tom Cairney,4-3-3,4-3-3,David Coote,Match Report,,2018-2019,Fulham
+2019-03-17,14:15,Premier League,Matchweek 31,Sun,Home,L,1,2,Liverpool,1.1,2.6,38,25043,Tom Cairney,4-3-3,4-3-3,Craig Pawson,Match Report,,2018-2019,Fulham
+2019-03-30,12:30,Premier League,Matchweek 32,Sat,Home,L,0,2,Manchester City,0.5,1.8,35,25001,Tom Cairney,5-4-1,4-3-3,Kevin Friend,Match Report,,2018-2019,Fulham
+2019-04-02,19:45,Premier League,Matchweek 33,Tue,Away,L,1,4,Watford,1.6,1.2,53,17301,Tom Cairney,3-4-3,4-2-2-2,Roger East,Match Report,,2018-2019,Fulham
+2019-04-13,15:00,Premier League,Matchweek 34,Sat,Home,W,2,0,Everton,1.5,1.1,41,24971,Tom Cairney,4-2-3-1,4-2-3-1,Lee Probert,Match Report,,2018-2019,Fulham
+2019-04-20,15:00,Premier League,Matchweek 35,Sat,Away,W,1,0,Bournemouth,2.5,2.2,51,10511,Aleksandar Mitrović,4-2-3-1,4-4-2,David Coote,Match Report,,2018-2019,Fulham
+2019-04-27,15:00,Premier League,Matchweek 36,Sat,Home,W,1,0,Cardiff City,0.5,1.1,71,23822,Tom Cairney,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2018-2019,Fulham
+2019-05-04,15:00,Premier League,Matchweek 37,Sat,Away,L,0,1,Wolves,0.5,2.0,60,30456,Tom Cairney,5-3-2,3-5-2,Jonathan Moss,Match Report,,2018-2019,Fulham
+2019-05-12,15:00,Premier League,Matchweek 38,Sun,Home,L,0,4,Newcastle Utd,0.7,2.1,67,24979,Tom Cairney,4-2-3-1,5-4-1,Kevin Friend,Match Report,,2018-2019,Fulham

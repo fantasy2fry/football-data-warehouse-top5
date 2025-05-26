@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,17:45,Coppa Italia,First round,Sun,Home,L,2,3,Ascoli,,,45,2018,Jesse Joronen,4-3-3,4-3-3,Daniele Paterna,Match Report,,2022-2023,Venezia
+2022-08-14,20:45,Serie B,Matchweek 1,Sun,Home,L,1,2,Genoa,1.3,1.8,50,5263,Pietro Ceccaroni,4-3-3,4-4-2,Massimiliano Irrati,Match Report,,2022-2023,Venezia
+2022-08-21,20:45,Serie B,Matchweek 2,Sun,Away,W,2,1,Südtirol,0.8,0.8,63,3508,Pietro Ceccaroni,4-3-3,4-3-3,Niccolò Baroni,Match Report,,2022-2023,Venezia
+2022-08-28,20:45,Serie B,Matchweek 3,Sun,Away,D,1,1,Cittadella,0.7,1.5,56,2585,Pietro Ceccaroni,4-3-3,4-3-1-2,Antonio Giua,Match Report,,2022-2023,Venezia
+2022-09-03,14:00,Serie B,Matchweek 4,Sat,Home,L,0,2,Benevento,0.8,1.1,56,2872,Pietro Ceccaroni,4-3-3,3-5-2,Federico Dionisi,Match Report,,2022-2023,Venezia
+2022-09-11,16:15,Serie B,Matchweek 5,Sun,Away,L,0,2,SPAL,1.9,2.0,53,12348,Pietro Ceccaroni,4-3-3,4-3-1-2,Gianluca Manganiello,Match Report,,2022-2023,Venezia
+2022-09-17,14:00,Serie B,Matchweek 6,Sat,Home,D,1,1,Pisa,1.6,0.4,63,2790,Marco Modolo,3-5-2,4-3-1-2,Daniele Perenzoni,Match Report,,2022-2023,Venezia
+2022-10-01,14:00,Serie B,Matchweek 7,Sat,Away,W,4,1,Cagliari,1.9,0.8,37,12421,Marco Modolo,3-5-2,4-3-2-1,Francesco Cosso,Match Report,,2022-2023,Venezia
+2022-10-08,14:00,Serie B,Matchweek 8,Sat,Home,L,1,2,Bari,0.9,1.9,62,6473,Marco Modolo,3-5-2,4-3-1-2,Antonio Giua,Match Report,,2022-2023,Venezia
+2022-10-14,20:30,Serie B,Matchweek 9,Fri,Home,L,1,3,Frosinone,0.8,1.8,54,2526,Pietro Ceccaroni,3-4-1-2,4-2-3-1,Daniele Minelli,Match Report,,2022-2023,Venezia
+2022-10-22,14:00,Serie B,Matchweek 10,Sat,Away,D,1,1,Brescia,1.4,0.7,57,4400,Luca Fiordilino,3-5-2,4-3-1-2,Luca Pairetto,Match Report,,2022-2023,Venezia
+2022-10-29,14:00,Serie B,Matchweek 11,Sat,Home,L,0,2,Ascoli,0.2,0.9,56,3123,Luca Fiordilino,3-4-1-2,3-5-2,Marco Piccinini,Match Report,,2022-2023,Venezia
+2022-11-06,16:15,Serie B,Matchweek 12,Sun,Away,L,0,1,Como,0.6,1.0,53,3942,Marco Modolo,3-4-1-2,4-3-1-2,Gianpiero Miele,Match Report,,2022-2023,Venezia
+2022-11-12,14:00,Serie B,Matchweek 13,Sat,Home,L,1,2,US Reggina,0.8,1.9,42,4013,Marco Modolo,3-5-2,4-3-3,Matteo Marcenaro,Match Report,,2022-2023,Venezia
+2022-11-27,18:00,Serie B,Matchweek 14,Sun,Away,W,1,0,Palermo,1.7,1.7,53,14961,Pietro Ceccaroni,3-5-2,3-5-2,Gianluca Manganiello,Match Report,,2022-2023,Venezia
+2022-12-03,14:00,Serie B,Matchweek 15,Sat,Home,W,2,1,Ternana,1.7,2.2,45,2442,Pietro Ceccaroni,3-5-2,4-3-1-2,Giacomo Camplone,Match Report,,2022-2023,Venezia
+2022-12-08,15:00,Serie B,Matchweek 16,Thu,Away,D,2,2,Modena,1.6,1.8,64,9614,Pietro Ceccaroni,3-5-2,4-3-1-2,Daniele Paterna,Match Report,,2022-2023,Venezia
+2022-12-11,15:00,Serie B,Matchweek 17,Sun,Home,W,2,0,Cosenza,0.8,0.7,52,2566,Marco Modolo,3-5-2,4-3-2-1,Manuel Volpi,Match Report,,2022-2023,Venezia
+2022-12-19,20:30,Serie B,Matchweek 18,Mon,Away,L,1,2,Perugia,0.7,0.5,69,4218,Pietro Ceccaroni,3-4-3,3-5-2,Antonio Rapuano,Match Report,,2022-2023,Venezia
+2022-12-26,15:00,Serie B,Matchweek 19,Mon,Home,D,2,2,Parma,1.1,2.5,53,4671,Pietro Ceccaroni,3-5-2,4-5-1,Daniele Minelli,Match Report,,2022-2023,Venezia
+2023-01-16,18:45,Serie B,Matchweek 20,Mon,Away,L,0,1,Genoa,0.5,1.3,48,21999,Pietro Ceccaroni,3-5-2,4-3-3,Gianpiero Miele,Match Report,,2022-2023,Venezia
+2023-01-21,14:00,Serie B,Matchweek 21,Sat,Home,L,0,1,Südtirol,0.3,0.5,67,7499,Pietro Ceccaroni,3-5-2,4-4-1-1,Matteo Gariglio,Match Report,,2022-2023,Venezia
+2023-01-28,14:00,Serie B,Matchweek 22,Sat,Home,D,1,1,Cittadella,2.2,1.0,55,3308,Pietro Ceccaroni,3-5-2,4-3-1-2,Paolo Valeri,Match Report,,2022-2023,Venezia
+2023-02-04,14:00,Serie B,Matchweek 23,Sat,Away,W,2,1,Benevento,0.8,1.4,44,5045,Luca Ceppitelli,3-5-2,3-5-2,Juan Sacchi,Match Report,,2022-2023,Venezia
+2023-02-11,14:00,Serie B,Matchweek 24,Sat,Home,W,2,1,SPAL,2.2,0.5,35,4300,Luca Ceppitelli,3-5-2,3-4-3,Francesco Cosso,Match Report,,2022-2023,Venezia
+2023-02-17,20:30,Serie B,Matchweek 25,Fri,Away,D,1,1,Pisa,0.8,2.1,49,7341,Joel Pohjanpalo,3-5-2,4-3-2-1,Daniele Paterna,Match Report,,2022-2023,Venezia
+2023-02-25,14:00,Serie B,Matchweek 26,Sat,Home,D,0,0,Cagliari,0.7,0.8,45,12421,Joel Pohjanpalo,3-5-2,4-4-2,Luca Zufferli,Match Report,,2022-2023,Venezia
+2023-03-01,20:30,Serie B,Matchweek 27,Wed,Away,L,0,1,Bari,0.9,0.9,54,20430,Luca Ceppitelli,3-5-2,4-3-1-2,Luca Massimi,Match Report,,2022-2023,Venezia
+2023-03-05,15:00,Serie B,Matchweek 28,Sun,Away,L,0,3,Frosinone,0.4,3.2,48,11909,Luca Ceppitelli,3-5-1-1,4-3-3,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Venezia
+2023-03-11,14:00,Serie B,Matchweek 29,Sat,Home,D,1,1,Brescia,1.7,2.0,52,5682,Luca Ceppitelli,3-4-1-2,4-1-4-1,Massimiliano Irrati,Match Report,,2022-2023,Venezia
+2023-03-18,14:00,Serie B,Matchweek 30,Sat,Away,W,1,0,Ascoli,1.6,0.7,46,6295,Luca Ceppitelli,3-5-2,4-3-1-2,Francesco Fourneau,Match Report,,2022-2023,Venezia
+2023-04-01,14:00,Serie B,Matchweek 31,Sat,Home,W,3,2,Como,3.1,1.0,51,6592,Luca Ceppitelli,3-5-2,3-4-1-2,Marco Serra,Match Report,,2022-2023,Venezia
+2023-04-10,15:00,Serie B,Matchweek 32,Mon,Away,L,0,1,US Reggina,0.6,0.8,64,8256,Luca Ceppitelli,3-5-2,3-1-4-2,Rosario Abisso,Match Report,,2022-2023,Venezia
+2023-04-15,14:00,Serie B,Matchweek 33,Sat,Home,W,3,2,Palermo,1.7,2.2,43,7000,Luca Ceppitelli,3-1-4-2,3-5-2,Matteo Gariglio,Match Report,,2022-2023,Venezia
+2023-04-23,16:15,Serie B,Matchweek 34,Sun,Away,W,4,1,Ternana,2.5,1.1,42,5804,Joel Pohjanpalo,3-5-2,4-3-3,Daniele Perenzoni,Match Report,,2022-2023,Venezia
+2023-05-01,18:00,Serie B,Matchweek 35,Mon,Home,W,5,0,Modena,3.7,0.7,52,8633,Joel Pohjanpalo,3-5-2,4-3-2-1,Daniele Rutella,Match Report,,2022-2023,Venezia
+2023-05-06,14:00,Serie B,Matchweek 36,Sat,Away,D,1,1,Cosenza,1.1,2.5,45,10941,Luca Ceppitelli,3-5-2,3-4-3,Francesco Meraviglia,Match Report,,2022-2023,Venezia
+2023-05-13,14:00,Serie B,Matchweek 37,Sat,Home,W,3,2,Perugia,2.2,2.6,57,7553,Joel Pohjanpalo,3-5-2,3-5-1-1,Lorenzo Maggioni,Match Report,,2022-2023,Venezia
+2023-05-19,20:30,Serie B,Matchweek 38,Fri,Away,L,1,2,Parma,0.6,3.1,49,11984,Luca Ceppitelli,3-5-2,4-2-3-1,Juan Sacchi,Match Report,,2022-2023,Venezia
+2023-05-27,20:30,Serie B,Preliminary round,Sat,Away,L,1,2,Cagliari,0.9,1.5,57,16054,Joel Pohjanpalo,3-5-2,4-2-3-1,Marco Di Bello,Match Report,,2022-2023,Venezia

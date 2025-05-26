@@ -1,0 +1,46 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-05,17:45,Coppa Italia,First round,Fri,Home,W,3,2,Perugia,,,65,6305.0,Leonardo Pavoletti,4-3-3,3-5-1-1,Matteo Gualtieri,Match Report,,2022-2023,Cagliari
+2022-08-13,20:45,Serie B,Matchweek 1,Sat,Away,D,1,1,Como,0.5,1.4,56,4580.0,Leonardo Pavoletti,4-3-3,4-4-2,Gianluca Manganiello,Match Report,,2022-2023,Cagliari
+2022-08-21,20:45,Serie B,Matchweek 2,Sun,Home,W,2,1,Cittadella,0.9,0.8,64,14592.0,Alessandro Deiola,4-3-3,4-3-1-2,Daniele Orsato,Match Report,,2022-2023,Cagliari
+2022-08-27,20:45,Serie B,Matchweek 3,Sat,Away,L,0,1,SPAL,1.7,0.9,62,7839.0,Alessandro Deiola,4-3-3,4-3-1-2,Lorenzo Maggioni,Match Report,,2022-2023,Cagliari
+2022-09-02,20:30,Serie B,Matchweek 4,Fri,Home,W,1,0,Modena,2.5,0.8,54,14485.0,Marko Rog,4-3-3,4-3-2-1,Niccolò Baroni,Match Report,,2022-2023,Cagliari
+2022-09-10,14:00,Serie B,Matchweek 5,Sat,Away,W,2,0,Benevento,0.5,1.1,52,8860.0,Marko Rog,4-3-3,3-5-2,Gianluca Aureliano,Match Report,,2022-2023,Cagliari
+2022-09-17,14:00,Serie B,Matchweek 6,Sat,Home,L,0,1,Bari,0.8,0.2,59,14087.0,Marko Rog,4-3-3,4-3-1-2,Francesco Fourneau,Match Report,,2022-2023,Cagliari
+2022-10-01,14:00,Serie B,Matchweek 7,Sat,Home,L,1,4,Venezia,0.8,1.9,63,12421.0,Leonardo Pavoletti,4-3-2-1,3-5-2,Francesco Cosso,Match Report,,2022-2023,Cagliari
+2022-10-07,20:30,Serie B,Matchweek 8,Fri,Away,D,0,0,Genoa,0.3,0.9,41,26042.0,Alessandro Deiola,4-3-3,4-2-3-1,Matteo Marchetti,Match Report,,2022-2023,Cagliari
+2022-10-15,14:00,Serie B,Matchweek 9,Sat,Home,W,2,1,Brescia,1.1,0.4,42,12905.0,Alessandro Deiola,4-3-3,4-3-2-1,Daniele Chiffi,Match Report,,2022-2023,Cagliari
+2022-10-20,21:00,Coppa Italia,Second round,Thu,Away,L,0,1,Bologna,,,44,6400.0,Gastón Pereiro,4-3-3,4-2-3-1,Giacomo Camplone,Match Report,,2022-2023,Cagliari
+2022-10-24,20:30,Serie B,Matchweek 10,Mon,Away,L,1,2,Ascoli,1.7,1.1,68,7805.0,Leonardo Pavoletti,4-3-3,3-5-2,Gianluca Aureliano,Match Report,,2022-2023,Cagliari
+2022-10-29,14:00,Serie B,Matchweek 11,Sat,Home,D,1,1,US Reggina,0.5,0.4,55,11225.0,Marko Rog,4-3-3,4-3-3,Federico La Penna,Match Report,,2022-2023,Cagliari
+2022-11-05,14:00,Serie B,Matchweek 12,Sat,Away,D,2,2,Südtirol,2.5,1.3,63,5133.0,Alessandro Deiola,4-3-3,4-4-2,Niccolò Baroni,Match Report,,2022-2023,Cagliari
+2022-11-12,14:00,Serie B,Matchweek 13,Sat,Home,D,1,1,Pisa,1.4,0.8,61,11292.0,Alessandro Deiola,4-3-2-1,3-4-1-2,Daniele Rutella,Match Report,,2022-2023,Cagliari
+2022-11-27,15:00,Serie B,Matchweek 14,Sun,Away,D,2,2,Frosinone,1.8,1.4,53,13292.0,Marko Rog,4-1-2-1-2◆,4-4-2,Michael Fabbri,Match Report,,2022-2023,Cagliari
+2022-12-03,18:00,Serie B,Matchweek 15,Sat,Home,D,1,1,Parma,1.2,1.6,43,12648.0,Leonardo Pavoletti,4-3-1-2,4-2-3-1,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Cagliari
+2022-12-07,20:30,Serie B,Matchweek 16,Wed,Away,L,0,1,Ternana,2.6,1.0,64,4408.0,Alessandro Deiola,4-3-1-2,4-3-1-2,Davide Massa,Match Report,,2022-2023,Cagliari
+2022-12-11,12:30,Serie B,Matchweek 17,Sun,Home,W,3,2,Perugia,1.9,1.5,60,9952.0,Leonardo Pavoletti,4-3-1-2,3-4-1-2,Marco Serra,Match Report,,2022-2023,Cagliari
+2022-12-18,18:45,Serie B,Matchweek 18,Sun,Away,L,1,2,Palermo,1.4,2.2,64,16812.0,Leonardo Pavoletti,4-3-1-2,3-5-2,Fabio Maresca,Match Report,,2022-2023,Cagliari
+2022-12-26,15:00,Serie B,Matchweek 19,Mon,Home,W,2,0,Cosenza,1.9,1.0,55,14340.0,Nahitan Nández,4-3-1-2,4-4-2,Daniele Paterna,Match Report,,2022-2023,Cagliari
+2023-01-14,14:00,Serie B,Matchweek 20,Sat,Home,W,2,0,Como,0.8,1.0,44,16150.0,Leonardo Pavoletti,3-5-2,3-4-1-2,Francesco Meraviglia,Match Report,,2022-2023,Cagliari
+2023-01-21,16:15,Serie B,Matchweek 21,Sat,Away,D,0,0,Cittadella,0.8,0.4,64,3684.0,Nahitan Nández,3-5-2,4-3-1-2,Daniele Rutella,Match Report,,2022-2023,Cagliari
+2023-01-27,20:30,Serie B,Matchweek 22,Fri,Home,W,2,1,SPAL,1.8,1.1,43,12313.0,Nahitan Nández,3-4-3,3-4-3,Daniele Paterna,Match Report,,2022-2023,Cagliari
+2023-02-03,20:30,Serie B,Matchweek 23,Fri,Away,L,0,2,Modena,0.4,2.9,46,9921.0,Marko Rog,3-5-2,4-3-2-1,Daniele Perenzoni,Match Report,,2022-2023,Cagliari
+2023-02-11,14:00,Serie B,Matchweek 24,Sat,Home,W,1,0,Benevento,1.1,0.4,49,12658.0,Gianluca Lapadula,3-4-1-2,3-5-2,Simone Sozza,Match Report,,2022-2023,Cagliari
+2023-02-18,16:15,Serie B,Matchweek 25,Sat,Away,D,1,1,Bari,0.5,1.5,25,20260.0,Marko Rog,4-3-1-2,4-3-1-2,Davide Massa,Match Report,,2022-2023,Cagliari
+2023-02-25,14:00,Serie B,Matchweek 26,Sat,Away,D,0,0,Venezia,0.8,0.7,55,12421.0,Marko Rog,4-4-2,3-5-2,Luca Zufferli,Match Report,,2022-2023,Cagliari
+2023-03-01,20:30,Serie B,Matchweek 27,Wed,Home,D,0,0,Genoa,0.9,1.0,48,13520.0,Marko Rog,3-4-1-2,3-4-3,Paolo Valeri,Match Report,,2022-2023,Cagliari
+2023-03-05,15:00,Serie B,Matchweek 28,Sun,Away,D,1,1,Brescia,1.4,0.7,49,5648.0,Nahitan Nández,4-4-1-1,4-3-2-1,Michael Fabbri,Match Report,,2022-2023,Cagliari
+2023-03-10,20:30,Serie B,Matchweek 29,Fri,Home,W,4,1,Ascoli,2.8,1.1,52,12050.0,Nahitan Nández,4-4-1-1,4-3-1-2,Gianpiero Miele,Match Report,,2022-2023,Cagliari
+2023-03-18,16:15,Serie B,Matchweek 30,Sat,Away,W,4,0,US Reggina,4.2,1.3,50,16482.0,Nahitan Nández,4-3-1-2,4-3-3,Giovanni Ayroldi,Match Report,,2022-2023,Cagliari
+2023-04-01,14:00,Serie B,Matchweek 31,Sat,Home,D,1,1,Südtirol,2.1,1.5,60,16125.0,Nahitan Nández,4-3-1-2,4-4-2,Alessandro Prontera,Match Report,,2022-2023,Cagliari
+2023-04-10,18:00,Serie B,Matchweek 32,Mon,Away,D,0,0,Pisa,2.0,0.8,58,9787.0,Nahitan Nández,4-3-1-2,4-3-1-2,Federico La Penna,Match Report,,2022-2023,Cagliari
+2023-04-15,16:15,Serie B,Matchweek 33,Sat,Home,D,0,0,Frosinone,0.5,0.9,56,16132.0,Nahitan Nández,4-3-1-2,4-3-3,Manuel Volpi,Match Report,,2022-2023,Cagliari
+2023-04-22,14:00,Serie B,Matchweek 34,Sat,Away,L,1,2,Parma,1.1,2.4,51,12051.0,Alessandro Deiola,4-3-2-1,4-2-3-1,Matteo Gariglio,Match Report,,2022-2023,Cagliari
+2023-04-30,16:15,Serie B,Matchweek 35,Sun,Home,W,2,1,Ternana,2.2,0.5,58,15307.0,Leonardo Pavoletti,4-3-2-1,3-5-2,Federico La Penna,Match Report,,2022-2023,Cagliari
+2023-05-05,20:30,Serie B,Matchweek 36,Fri,Away,W,5,0,Perugia,1.9,1.1,40,8000.0,Alessandro Deiola,5-3-2,3-5-1-1,Giovanni Ayroldi,Match Report,,2022-2023,Cagliari
+2023-05-13,14:00,Serie B,Matchweek 37,Sat,Home,W,2,1,Palermo,1.1,1.4,52,15502.0,Leonardo Pavoletti,5-3-2,3-5-2,Paolo Valeri,Match Report,,2022-2023,Cagliari
+2023-05-19,20:30,Serie B,Matchweek 38,Fri,Away,W,1,0,Cosenza,2.3,0.8,52,14248.0,Leonardo Pavoletti,4-3-1-2,3-4-3,Rosario Abisso,Match Report,,2022-2023,Cagliari
+2023-05-27,20:30,Serie B,Preliminary round,Sat,Home,W,2,1,Venezia,1.5,0.9,43,16054.0,Alessandro Deiola,4-2-3-1,3-5-2,Marco Di Bello,Match Report,,2022-2023,Cagliari
+2023-05-30,20:30,Serie B,Semi-finals,Tue,Home,W,3,2,Parma,1.7,0.8,53,16110.0,Leonardo Pavoletti,4-2-3-1,4-2-3-1,Andrea Colombo,Match Report,Leg 1 of 2,2022-2023,Cagliari
+2023-06-03,20:30,Serie B,Semi-finals,Sat,Away,D,0,0,Parma,0.9,0.6,36,17437.0,Alessandro Deiola,4-2-3-1,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Cagliari won,2022-2023,Cagliari
+2023-06-08,20:30,Serie B,Finals,Thu,Home,D,1,1,Bari,0.8,4.8,45,,Alessandro Deiola,4-2-3-1,4-4-2,Maurizio Mariani,Match Report,Leg 1 of 2,2022-2023,Cagliari
+2023-06-11,20:30,Serie B,Finals,Sun,Away,W,1,0,Bari,1.3,0.9,55,,Alessandro Deiola,4-4-2,4-4-2,Marco Guida,Match Report,Leg 2 of 2; Cagliari won,2022-2023,Cagliari

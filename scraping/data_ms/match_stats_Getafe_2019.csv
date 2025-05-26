@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-18,22:00,La Liga,Matchweek 1,Sun,Away,L,0.0,1.0,Atlético Madrid,0.3,2.2,43.0,55099.0,Jorge Molina,4-4-2,4-1-2-1-2,Guillermo Cuadra,Match Report,,2019-2020,Getafe
+2019-08-24,21:00,La Liga,Matchweek 2,Sat,Home,D,1.0,1.0,Athletic Club,0.3,0.5,47.0,10103.0,Djené,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Getafe
+2019-08-31,19:00,La Liga,Matchweek 3,Sat,Home,D,1.0,1.0,Alavés,1.0,1.0,61.0,10806.0,Jorge Molina,4-4-2,5-3-2,Mario Melero,Match Report,,2019-2020,Getafe
+2019-09-15,21:00,La Liga,Matchweek 4,Sun,Away,D,1.0,1.0,Betis,1.5,1.1,39.0,47884.0,Jorge Molina,4-4-2,4-2-3-1,José González,Match Report,,2019-2020,Getafe
+2019-09-19,18:55,Europa Lg,Group stage,Thu,Home,W,1.0,0.0,tr Trabzonspor,1.2,0.3,40.0,5786.0,Bruno González,4-4-2,4-1-4-1,Matej Jug,Match Report,,2019-2020,Getafe
+2019-09-22,12:00,La Liga,Matchweek 5,Sun,Home,W,4.0,2.0,Mallorca,2.1,0.8,49.0,11338.0,Jorge Molina,4-4-2,4-1-4-1,Santiago Jaime,Match Report,,2019-2020,Getafe
+2019-09-25,20:00,La Liga,Matchweek 6,Wed,Away,D,3.0,3.0,Valencia,2.0,1.2,38.0,37814.0,Jorge Molina,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Getafe
+2019-09-28,16:00,La Liga,Matchweek 7,Sat,Home,L,0.0,2.0,Barcelona,1.0,1.3,39.0,15135.0,Bruno González,4-4-2,4-3-3,Jesús Gil,Match Report,,2019-2020,Getafe
+2019-10-03,22:00,Europa Lg,Group stage,Thu,Away,W,2.0,1.0,ru Krasnodar,2.4,1.9,40.0,20035.0,Bruno González,4-4-2,4-1-4-1,Ivan Bebek,Match Report,,2019-2020,Getafe
+2019-10-06,18:30,La Liga,Matchweek 8,Sun,Away,W,2.0,1.0,Real Sociedad,0.9,0.6,50.0,30153.0,Jorge Molina,4-4-2,4-2-3-1,Pablo González,Match Report,,2019-2020,Getafe
+2019-10-19,18:30,La Liga,Matchweek 9,Sat,Home,W,2.0,0.0,Leganés,1.0,0.6,46.0,13.0,Jorge Molina,4-4-2,3-1-4-2,Juan Martínez,Match Report,,2019-2020,Getafe
+2019-10-24,21:00,Europa Lg,Group stage,Thu,Home,L,0.0,1.0,ch Basel,1.1,0.5,63.0,6213.0,Jorge Molina,4-4-2,4-2-3-1,Jérôme Brisard,Match Report,,2019-2020,Getafe
+2019-10-27,18:30,La Liga,Matchweek 10,Sun,Away,L,0.0,2.0,Sevilla,0.7,2.0,37.0,38181.0,Jorge Molina,4-4-2,4-3-3,José Sánchez,Match Report,,2019-2020,Getafe
+2019-10-31,21:15,La Liga,Matchweek 11,Thu,Home,W,3.0,1.0,Granada,0.8,1.7,45.0,10227.0,Djené,4-4-2,3-4-3,José González,Match Report,,2019-2020,Getafe
+2019-11-03,18:30,La Liga,Matchweek 12,Sun,Away,W,1.0,0.0,Celta Vigo,0.4,0.2,39.0,14704.0,Jorge Molina,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2019-2020,Getafe
+2019-11-07,18:55,Europa Lg,Group stage,Thu,Away,L,1.0,2.0,ch Basel,2.5,2.0,54.0,26298.0,Bruno González,4-4-2,4-2-3-1,Sergiy Boyko,Match Report,,2019-2020,Getafe
+2019-11-10,18:30,La Liga,Matchweek 13,Sun,Home,D,0.0,0.0,Osasuna,1.3,0.1,54.0,10558.0,Jorge Molina,4-4-2,4-2-3-1,César Soto,Match Report,,2019-2020,Getafe
+2019-11-24,12:00,La Liga,Matchweek 14,Sun,Away,D,1.0,1.0,Espanyol,0.7,1.1,46.0,22031.0,Djené,4-4-2,3-4-1-2,Pablo González,Match Report,,2019-2020,Getafe
+2019-11-28,18:50,Europa Lg,Group stage,Thu,Away,W,1.0,0.0,tr Trabzonspor,1.8,0.6,42.0,11465.0,Jorge Molina,4-4-2,4-1-4-1,Andris Treimanis,Match Report,,2019-2020,Getafe
+2019-12-01,18:30,La Liga,Matchweek 15,Sun,Home,W,4.0,0.0,Levante,1.8,0.6,39.0,6535.0,Jorge Molina,4-4-2,4-4-2,Javier Estrada,Match Report,,2019-2020,Getafe
+2019-12-08,12:00,La Liga,Matchweek 16,Sun,Away,W,1.0,0.0,Eibar,0.9,0.3,48.0,5969.0,Djené,4-4-2,4-4-2,Eduardo Prieto,Match Report,,2019-2020,Getafe
+2019-12-12,18:55,Europa Lg,Group stage,Thu,Home,W,3.0,0.0,ru Krasnodar,1.8,0.2,47.0,9389.0,Djené,4-4-2,4-4-2,Daniel Siebert,Match Report,,2019-2020,Getafe
+2019-12-15,12:00,La Liga,Matchweek 17,Sun,Home,W,2.0,0.0,Valladolid,1.5,0.5,45.0,10816.0,Jorge Molina,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2019-2020,Getafe
+2019-12-18,18:00,Copa del Rey,First round,Wed,Away,W,2.0,1.0,El Palmar,,,,,,,,,Match Report,,2019-2020,Getafe
+2019-12-21,18:30,La Liga,Matchweek 18,Sat,Away,L,0.0,1.0,Villarreal,0.6,2.3,36.0,14526.0,Jorge Molina,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,2019-2020,Getafe
+2020-01-04,16:00,La Liga,Matchweek 19,Sat,Home,L,0.0,3.0,Real Madrid,1.3,1.8,45.0,15426.0,Djené,4-4-2,4-3-3,José Luis Munuera,Match Report,,2019-2020,Getafe
+2020-01-11,19:00,Copa del Rey,Second round,Sat,Away,L,0.0,2.0,Badalona,,,,,,,,,Match Report,,2019-2020,Getafe
+2020-01-17,21:00,La Liga,Matchweek 20,Fri,Away,W,3.0,0.0,Leganés,1.3,0.4,40.0,11450.0,Jorge Molina,4-4-2,5-3-2,Javier Estrada,Match Report,,2019-2020,Getafe
+2020-01-26,16:00,La Liga,Matchweek 21,Sun,Home,W,1.0,0.0,Betis,1.4,1.3,39.0,13244.0,Jorge Molina,4-4-2,4-1-4-1,Eduardo Prieto,Match Report,,2019-2020,Getafe
+2020-02-02,16:00,La Liga,Matchweek 22,Sun,Away,W,2.0,0.0,Athletic Club,1.7,0.9,29.0,40291.0,Djené,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,2019-2020,Getafe
+2020-02-08,16:00,La Liga,Matchweek 23,Sat,Home,W,3.0,0.0,Valencia,2.9,0.3,53.0,13070.0,Jorge Molina,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Getafe
+2020-02-15,16:00,La Liga,Matchweek 24,Sat,Away,L,1.0,2.0,Barcelona,1.3,1.8,25.0,89409.0,Jorge Molina,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,2019-2020,Getafe
+2020-02-20,18:55,Europa Lg,Round of 32,Thu,Home,W,2.0,0.0,nl Ajax,0.8,0.2,36.0,14039.0,Djené,4-4-2,4-2-3-1,Ruddy Buquet,Match Report,Leg 1 of 2,2019-2020,Getafe
+2020-02-23,18:30,La Liga,Matchweek 25,Sun,Home,L,0.0,3.0,Sevilla,0.5,2.5,50.0,13438.0,Jorge Molina,4-4-2,3-4-3,Javier Estrada,Match Report,,2019-2020,Getafe
+2020-02-27,21:00,Europa Lg,Round of 32,Thu,Away,L,1.0,2.0,nl Ajax,1.6,1.5,31.0,51487.0,Djené,4-4-2,4-3-3,Anastasios Sidiropoulos,Match Report,Leg 2 of 2; Getafe won,2019-2020,Getafe
+2020-03-01,18:30,La Liga,Matchweek 26,Sun,Away,W,1.0,0.0,Mallorca,0.9,0.1,45.0,14241.0,Djené,4-4-2,4-4-2,Mario Melero,Match Report,,2019-2020,Getafe
+2020-03-07,21:00,La Liga,Matchweek 27,Sat,Home,D,0.0,0.0,Celta Vigo,1.1,0.2,56.0,11286.0,Jorge Molina,4-4-2,3-4-3,José Sánchez,Match Report,,2019-2020,Getafe
+2020-03-19,18:55,Europa Lg,Round of 16,Thu,Home,,,,it Inter,,,,,,,,,Match Report,Leg 1 of 2; Match Cancelled,2019-2020,Getafe
+2020-06-12,19:30,La Liga,Matchweek 28,Fri,Away,L,1.0,2.0,Granada,0.6,2.3,48.0,,Jorge Molina,4-4-2,4-2-3-1,David Medié,Match Report,,2019-2020,Getafe
+2020-06-16,19:30,La Liga,Matchweek 29,Tue,Home,D,0.0,0.0,Espanyol,2.1,0.3,69.0,,Jorge Molina,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Getafe
+2020-06-20,19:30,La Liga,Matchweek 30,Sat,Home,D,1.0,1.0,Eibar,0.8,0.6,54.0,,Djené,4-4-2,4-4-2,Alberola Rojas,Match Report,,2019-2020,Getafe
+2020-06-23,19:30,La Liga,Matchweek 31,Tue,Away,D,1.0,1.0,Valladolid,0.7,1.5,53.0,,Djené,4-4-2,4-4-2,César Soto,Match Report,,2019-2020,Getafe
+2020-06-29,22:00,La Liga,Matchweek 32,Mon,Home,W,2.0,1.0,Real Sociedad,1.4,0.8,40.0,,Jaime Mata,4-4-2,3-4-3,Adrián Cordero,Match Report,,2019-2020,Getafe
+2020-07-02,22:00,La Liga,Matchweek 33,Thu,Away,L,0.0,1.0,Real Madrid,0.5,1.8,33.0,,Djené,4-4-1-1,4-3-3,Juan Martínez,Match Report,,2019-2020,Getafe
+2020-07-05,19:30,La Liga,Matchweek 34,Sun,Away,D,0.0,0.0,Osasuna,0.3,0.6,52.0,,Jorge Molina,4-4-2,4-4-2,Mario Melero,Match Report,,2019-2020,Getafe
+2020-07-08,20:30,La Liga,Matchweek 35,Wed,Home,L,1.0,3.0,Villarreal,0.3,2.1,42.0,,Djené,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2019-2020,Getafe
+2020-07-13,19:30,La Liga,Matchweek 36,Mon,Away,D,0.0,0.0,Alavés,0.7,0.2,53.0,,Jorge Molina,4-4-2,4-4-2,Pablo González,Match Report,,2019-2020,Getafe
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Home,L,0.0,2.0,Atlético Madrid,1.8,1.2,38.0,,Djené,3-5-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Getafe
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Away,L,0.0,1.0,Levante,1.4,2.4,45.0,,Djené,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Getafe
+2020-08-05,21:00,Europa Lg,Round of 16,Wed,Neutral,L,0.0,2.0,it Inter,1.9,1.7,47.0,,Djené,4-4-1-1,3-5-2,Anthony Taylor,Match Report,Leg 2 of 2; Getafe won,2019-2020,Getafe

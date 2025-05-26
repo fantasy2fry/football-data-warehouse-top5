@@ -1,0 +1,55 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,16:30,Premier League,Matchweek 1,Sun,Home,W,1,0,Manchester City,1.0,1.8,35.0,58262.0,Hugo Lloris,4-3-3,4-3-3,Anthony Taylor,Match Report,,2021-2022,Tottenham
+2021-08-19,19:30,Conf Lg,Play-off round,Thu,Away,L,0,1,pt Paços,,,,2284.0,Ben Davies,5-4-1,4-2-3-1,Maurizio Mariani,Match Report,Leg 1 of 2,2021-2022,Tottenham
+2021-08-22,14:00,Premier League,Matchweek 2,Sun,Away,W,1,0,Wolves,1.7,1.7,42.0,30368.0,Hugo Lloris,4-3-3,3-4-3,Stuart Attwell,Match Report,,2021-2022,Tottenham
+2021-08-26,19:45,Conf Lg,Play-off round,Thu,Home,W,3,0,pt Paços,,,,30215.0,Harry Kane,4-3-3,4-3-2-1,Ruddy Buquet,Match Report,Leg 2 of 2; Tottenham won,2021-2022,Tottenham
+2021-08-29,14:00,Premier League,Matchweek 3,Sun,Home,W,1,0,Watford,1.0,0.8,57.0,57672.0,Hugo Lloris,4-3-3,4-1-4-1,Andre Marriner,Match Report,,2021-2022,Tottenham
+2021-09-11,12:30,Premier League,Matchweek 4,Sat,Away,L,0,3,Crystal Palace,0.1,2.1,38.0,26000.0,Hugo Lloris,4-1-2-1-2◆,4-3-3,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2021-09-16,18:45,Conf Lg,Group stage,Thu,Away,D,2,2,fr Rennes,1.3,2.0,58.0,22000.0,Harry Kane,4-2-3-1,4-1-4-1,Halis Özkahya,Match Report,,2021-2022,Tottenham
+2021-09-19,16:30,Premier League,Matchweek 5,Sun,Home,L,0,3,Chelsea,0.5,2.1,47.0,60059.0,Hugo Lloris,4-3-2-1,3-4-3,Paul Tierney,Match Report,,2021-2022,Tottenham
+2021-09-22,19:45,EFL Cup,Third round,Wed,Away,D,2 (3),2 (2),Wolves,,,49.0,28798.0,Harry Kane,4-3-3,3-4-3,Peter Bankes,Match Report,Tottenham won on penalty kicks following extra time,2021-2022,Tottenham
+2021-09-26,16:30,Premier League,Matchweek 6,Sun,Away,L,1,3,Arsenal,1.0,1.1,54.0,59919.0,Hugo Lloris,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2021-2022,Tottenham
+2021-09-30,20:00,Conf Lg,Group stage,Thu,Home,W,5,1,si NŠ Mura,2.4,0.2,66.0,25121.0,Dele Alli,4-2-3-1,3-4-1-2,Igal Frid,Match Report,,2021-2022,Tottenham
+2021-10-03,14:00,Premier League,Matchweek 7,Sun,Home,W,2,1,Aston Villa,1.3,1.2,56.0,53076.0,Hugo Lloris,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,,2021-2022,Tottenham
+2021-10-17,16:30,Premier League,Matchweek 8,Sun,Away,W,3,2,Newcastle Utd,1.7,0.4,64.0,52214.0,Hugo Lloris,4-2-3-1,4-1-4-1,Andre Marriner,Match Report,,2021-2022,Tottenham
+2021-10-21,18:45,Conf Lg,Group stage,Thu,Away,L,0,1,nl Vitesse,0.4,0.6,53.0,23931.0,Ben Davies,4-2-3-1,3-4-3,Harm Osmers,Match Report,,2021-2022,Tottenham
+2021-10-24,14:00,Premier League,Matchweek 9,Sun,Away,L,0,1,West Ham,0.7,1.3,62.0,59924.0,Hugo Lloris,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Tottenham
+2021-10-27,19:45,EFL Cup,Fourth round,Wed,Away,W,1,0,Burnley,,,62.0,14637.0,Harry Kane,4-2-3-1,4-4-2,Peter Bankes,Match Report,,2021-2022,Tottenham
+2021-10-30,17:30,Premier League,Matchweek 10,Sat,Home,L,0,3,Manchester Utd,1.0,1.5,58.0,60356.0,Hugo Lloris,4-2-3-1,3-5-2,Stuart Attwell,Match Report,,2021-2022,Tottenham
+2021-11-04,20:00,Conf Lg,Group stage,Thu,Home,W,3,2,nl Vitesse,2.3,1.0,52.0,36312.0,Hugo Lloris,3-4-3,3-4-3,Marco Di Bello,Match Report,,2021-2022,Tottenham
+2021-11-07,14:00,Premier League,Matchweek 11,Sun,Away,D,0,0,Everton,0.7,0.6,55.0,39059.0,Hugo Lloris,3-4-3,4-4-1-1,Chris Kavanagh,Match Report,,2021-2022,Tottenham
+2021-11-21,16:30,Premier League,Matchweek 12,Sun,Home,W,2,1,Leeds United,2.1,1.4,43.0,58989.0,Hugo Lloris,3-4-3,3-3-3-1,Andre Marriner,Match Report,,2021-2022,Tottenham
+2021-11-25,18:45,Conf Lg,Group stage,Thu,Away,L,1,2,si NŠ Mura,1.2,0.5,58.0,6100.0,Harry Kane,3-4-3,3-4-3,António Nobre,Match Report,,2021-2022,Tottenham
+2021-12-02,19:30,Premier League,Matchweek 14,Thu,Home,W,2,0,Brentford,1.9,0.3,47.0,54202.0,Hugo Lloris,3-4-3,3-5-2,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2021-12-05,14:00,Premier League,Matchweek 15,Sun,Home,W,3,0,Norwich City,1.6,1.2,41.0,57088.0,Hugo Lloris,3-4-3,5-3-2,Jarred Gillett,Match Report,,2021-2022,Tottenham
+2021-12-09,20:00,Conf Lg,Group stage,Thu,Home,L,0,3,fr Rennes,,,,,,,,,Match Report,Match awarded to Rennes,2021-2022,Tottenham
+2021-12-19,16:30,Premier League,Matchweek 18,Sun,Home,D,2,2,Liverpool,3.0,1.1,44.0,45421.0,Hugo Lloris,5-3-2,4-3-3,Paul Tierney,Match Report,,2021-2022,Tottenham
+2021-12-22,19:45,EFL Cup,Quarter-finals,Wed,Home,W,2,1,West Ham,,,43.0,40031.0,Hugo Lloris,3-4-3,3-4-3,Chris Kavanagh,Match Report,,2021-2022,Tottenham
+2021-12-26,15:00,Premier League,Matchweek 19,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,60.0,40539.0,Hugo Lloris,3-4-3,4-3-3,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2021-12-28,15:00,Premier League,Matchweek 20,Tue,Away,D,1,1,Southampton,2.3,0.4,65.0,31304.0,Hugo Lloris,3-4-3,5-3-2,Anthony Taylor,Match Report,,2021-2022,Tottenham
+2022-01-01,15:00,Premier League,Matchweek 21,Sat,Away,W,1,0,Watford,2.2,0.3,74.0,20391.0,Hugo Lloris,3-4-3,4-4-2,Robert Jones,Match Report,,2021-2022,Tottenham
+2022-01-05,19:45,EFL Cup,Semi-finals,Wed,Away,L,0,2,Chelsea,,,36.0,37868.0,Hugo Lloris,3-4-3,4-2-3-1,Craig Pawson,Match Report,Leg 1 of 2,2021-2022,Tottenham
+2022-01-09,14:00,FA Cup,Third round proper,Sun,Home,W,3,1,Morecambe,,,79.0,40310.0,Ben Davies,5-3-2,5-3-2,John Brooks,Match Report,,2021-2022,Tottenham
+2022-01-12,19:45,EFL Cup,Semi-finals,Wed,Home,L,0,1,Chelsea,,,36.0,45603.0,Harry Kane,5-3-2,4-2-2-2,Andre Marriner,Match Report,Leg 2 of 2; Chelsea won,2021-2022,Tottenham
+2022-01-19,19:30,Premier League,Matchweek 17,Wed,Away,W,3,2,Leicester City,3.1,1.2,51.0,31986.0,Hugo Lloris,3-5-2,3-5-2,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2022-01-23,16:30,Premier League,Matchweek 23,Sun,Away,L,0,2,Chelsea,0.5,1.2,36.0,40020.0,Hugo Lloris,4-4-2,4-3-3,Paul Tierney,Match Report,,2021-2022,Tottenham
+2022-02-05,20:00,FA Cup,Fourth round proper,Sat,Home,W,3,1,Brighton,,,43.0,54697.0,Hugo Lloris,3-4-3,3-5-1-1,Stuart Attwell,Match Report,,2021-2022,Tottenham
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Home,L,2,3,Southampton,1.4,2.2,48.0,54012.0,Hugo Lloris,3-4-3,4-4-2,David Coote,Match Report,,2021-2022,Tottenham
+2022-02-13,14:00,Premier League,Matchweek 25,Sun,Home,L,0,2,Wolves,1.2,1.3,58.0,56452.0,Hugo Lloris,3-4-3,3-5-2,Kevin Friend,Match Report,,2021-2022,Tottenham
+2022-02-19,17:30,Premier League,Matchweek 26,Sat,Away,W,3,2,Manchester City,1.4,2.1,29.0,53201.0,Hugo Lloris,3-4-3,4-3-3,Anthony Taylor,Match Report,,2021-2022,Tottenham
+2022-02-23,19:30,Premier League,Matchweek 13,Wed,Away,L,0,1,Burnley,0.7,0.9,66.0,19488.0,Hugo Lloris,3-4-3,4-4-2,Graham Scott,Match Report,,2021-2022,Tottenham
+2022-02-26,12:30,Premier League,Matchweek 27,Sat,Away,W,4,0,Leeds United,1.9,1.5,50.0,36599.0,Hugo Lloris,3-4-3,4-1-4-1,Craig Pawson,Match Report,,2021-2022,Tottenham
+2022-03-01,19:55,FA Cup,Fifth round proper,Tue,Away,L,0,1,Middlesbrough,,,49.0,31135.0,Hugo Lloris,3-4-3,3-5-2,Darren England,Match Report,Required Extra Time,2021-2022,Tottenham
+2022-03-07,20:00,Premier League,Matchweek 28,Mon,Home,W,5,0,Everton,2.5,0.2,55.0,59647.0,Hugo Lloris,3-4-3,4-2-3-1,Stuart Attwell,Match Report,,2021-2022,Tottenham
+2022-03-12,17:30,Premier League,Matchweek 29,Sat,Away,L,2,3,Manchester Utd,1.5,1.0,57.0,73458.0,Hugo Lloris,3-4-3,4-2-3-1,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2022-03-16,19:30,Premier League,Matchweek 16,Wed,Away,W,2,0,Brighton,2.2,0.7,52.0,31144.0,Hugo Lloris,3-4-3,4-2-3-1,Robert Jones,Match Report,,2021-2022,Tottenham
+2022-03-20,16:30,Premier League,Matchweek 30,Sun,Home,W,3,1,West Ham,3.0,0.6,53.0,58685.0,Hugo Lloris,3-4-3,3-4-3,Anthony Taylor,Match Report,,2021-2022,Tottenham
+2022-04-03,16:30,Premier League,Matchweek 31,Sun,Home,W,5,1,Newcastle Utd,3.1,0.5,60.0,57553.0,Hugo Lloris,3-4-3,4-3-3,Martin Atkinson,Match Report,,2021-2022,Tottenham
+2022-04-09,17:30,Premier League,Matchweek 32,Sat,Away,W,4,0,Aston Villa,1.1,1.6,48.0,41949.0,Hugo Lloris,3-4-3,4-3-1-2,Graham Scott,Match Report,,2021-2022,Tottenham
+2022-04-16,12:30,Premier League,Matchweek 33,Sat,Home,L,0,1,Brighton,0.5,0.6,49.0,58685.0,Hugo Lloris,3-4-3,3-5-2,Craig Pawson,Match Report,,2021-2022,Tottenham
+2022-04-23,17:30,Premier League,Matchweek 34,Sat,Away,D,0,0,Brentford,0.6,0.9,56.0,17072.0,Hugo Lloris,3-4-3,5-3-2,Martin Atkinson,Match Report,,2021-2022,Tottenham
+2022-05-01,14:00,Premier League,Matchweek 35,Sun,Home,W,3,1,Leicester City,1.2,0.5,40.0,59482.0,Hugo Lloris,3-4-3,3-5-2,Jonathan Moss,Match Report,,2021-2022,Tottenham
+2022-05-07,19:45,Premier League,Matchweek 36,Sat,Away,D,1,1,Liverpool,0.9,1.3,36.0,53177.0,Hugo Lloris,3-4-3,4-3-3,Michael Oliver,Match Report,,2021-2022,Tottenham
+2022-05-12,19:45,Premier League,Matchweek 22,Thu,Home,W,3,0,Arsenal,2.7,0.5,57.0,62027.0,Hugo Lloris,3-4-3,4-3-3,Paul Tierney,Match Report,,2021-2022,Tottenham
+2022-05-15,12:00,Premier League,Matchweek 37,Sun,Home,W,1,0,Burnley,2.2,0.7,68.0,61729.0,Hugo Lloris,3-4-3,5-3-2,Kevin Friend,Match Report,,2021-2022,Tottenham
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,W,5,0,Norwich City,3.4,0.5,59.0,27022.0,Hugo Lloris,3-4-3,5-4-1,Chris Kavanagh,Match Report,,2021-2022,Tottenham

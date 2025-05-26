@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-01,18:01,DFB-Pokal,Round of 64,Mon,Away,W,2,1,Chemnitzer FC,,,57,13465,Christopher Trimmel,3-5-2,3-4-1-2,Bastian Dankert,Match Report,Required Extra Time,2022-2023,Union Berlin
+2022-08-06,15:30,Bundesliga,Matchweek 1,Sat,Home,W,3,1,Hertha BSC,1.0,0.3,49,22012,Christopher Trimmel,3-5-2,4-3-3,Marco Fritz,Match Report,,2022-2023,Union Berlin
+2022-08-14,15:30,Bundesliga,Matchweek 2,Sun,Away,D,0,0,Mainz 05,0.4,0.7,51,25009,Rani Khedira,3-5-2,3-5-2,Daniel Schlager,Match Report,,2022-2023,Union Berlin
+2022-08-20,18:30,Bundesliga,Matchweek 3,Sat,Home,W,2,1,RB Leipzig,0.7,0.9,27,21056,Christopher Trimmel,3-5-2,3-1-4-2,Deniz Aytekin,Match Report,,2022-2023,Union Berlin
+2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Away,W,6,1,Schalke 04,1.1,1.9,41,62271,Rani Khedira,3-5-2,4-2-3-1,Robert Hartmann,Match Report,,2022-2023,Union Berlin
+2022-09-03,15:30,Bundesliga,Matchweek 5,Sat,Home,D,1,1,Bayern Munich,0.3,1.5,26,22012,Christopher Trimmel,3-5-2,4-2-3-1,Frank Willenborg,Match Report,,2022-2023,Union Berlin
+2022-09-08,18:45,Europa Lg,Group stage,Thu,Home,L,0,1,be Union SG,0.5,0.8,59,21512,Christopher Trimmel,3-5-2,3-5-2,Serhiy Boiko,Match Report,,2022-2023,Union Berlin
+2022-09-11,15:30,Bundesliga,Matchweek 6,Sun,Away,W,1,0,Köln,1.5,0.6,47,49500,Christopher Trimmel,3-5-2,4-2-3-1,Benjamin Cortus,Match Report,,2022-2023,Union Berlin
+2022-09-15,20:00,Europa Lg,Group stage,Thu,Away,L,0,1,pt Braga,0.7,1.0,45,17782,Rani Khedira,3-5-2,4-4-2,Filip Glova,Match Report,,2022-2023,Union Berlin
+2022-09-18,15:30,Bundesliga,Matchweek 7,Sun,Home,W,2,0,Wolfsburg,1.4,0.3,48,22012,Christopher Trimmel,3-5-2,4-2-2-2,Robert Schröder,Match Report,,2022-2023,Union Berlin
+2022-10-01,15:30,Bundesliga,Matchweek 8,Sat,Away,L,0,2,Eint Frankfurt,1.0,0.8,53,50500,Christopher Trimmel,3-5-2,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Union Berlin
+2022-10-06,18:45,Europa Lg,Group stage,Thu,Away,W,1,0,se Malmö,1.4,0.7,29,16057,Christopher Trimmel,3-5-2,3-4-3,Halil Umut Meler,Match Report,,2022-2023,Union Berlin
+2022-10-09,19:30,Bundesliga,Matchweek 9,Sun,Away,W,1,0,Stuttgart,0.7,1.0,48,43250,Rani Khedira,3-5-2,3-1-4-2,Bastian Dankert,Match Report,,2022-2023,Union Berlin
+2022-10-13,21:00,Europa Lg,Group stage,Thu,Home,W,1,0,se Malmö,1.6,0.1,44,21800,Christopher Trimmel,3-5-2,3-4-3,Aleksandar Stavrev,Match Report,,2022-2023,Union Berlin
+2022-10-16,17:30,Bundesliga,Matchweek 10,Sun,Home,W,2,0,Dortmund,1.9,0.8,24,22012,Christopher Trimmel,3-5-2,3-5-2,Tobias Stieler,Match Report,,2022-2023,Union Berlin
+2022-10-19,20:45,DFB-Pokal,Round of 32,Wed,Home,W,2,0,Heidenheim,,,59,20500,Julian Ryerson,3-5-2,3-4-3,Florian Badstübner,Match Report,,2022-2023,Union Berlin
+2022-10-23,15:30,Bundesliga,Matchweek 11,Sun,Away,L,1,2,Bochum,1.0,1.1,53,25460,Christopher Trimmel,3-5-2,4-3-3,Deniz Aytekin,Match Report,,2022-2023,Union Berlin
+2022-10-27,18:45,Europa Lg,Group stage,Thu,Home,W,1,0,pt Braga,1.5,0.2,40,21082,Christopher Trimmel,3-5-2,4-4-2,Craig Pawson,Match Report,,2022-2023,Union Berlin
+2022-10-30,15:30,Bundesliga,Matchweek 12,Sun,Home,W,2,1,Gladbach,0.9,1.0,55,22012,Rani Khedira,3-5-2,4-2-3-1,Harm Osmers,Match Report,,2022-2023,Union Berlin
+2022-11-03,21:00,Europa Lg,Group stage,Thu,Away,W,1,0,be Union SG,0.7,0.3,39,5597,Christopher Trimmel,3-5-2,5-3-2,Andris Treimanis,Match Report,,2022-2023,Union Berlin
+2022-11-06,15:30,Bundesliga,Matchweek 13,Sun,Away,L,0,5,Leverkusen,0.3,1.9,42,30210,Christopher Trimmel,3-5-2,3-4-3,Robert Schröder,Match Report,,2022-2023,Union Berlin
+2022-11-09,20:30,Bundesliga,Matchweek 14,Wed,Home,D,2,2,Augsburg,1.2,0.6,59,22012,Rani Khedira,3-5-2,4-2-3-1,Sascha Stegemann,Match Report,,2022-2023,Union Berlin
+2022-11-13,17:30,Bundesliga,Matchweek 15,Sun,Away,L,1,4,Freiburg,1.7,2.3,28,33800,Christopher Trimmel,3-5-2,3-4-3,Deniz Aytekin,Match Report,,2022-2023,Union Berlin
+2023-01-21,15:30,Bundesliga,Matchweek 16,Sat,Home,W,3,1,Hoffenheim,2.9,1.0,52,21747,Christopher Trimmel,3-5-2,3-4-3,Robert Hartmann,Match Report,,2022-2023,Union Berlin
+2023-01-25,20:30,Bundesliga,Matchweek 17,Wed,Away,W,2,1,Werder Bremen,1.1,0.6,42,41500,Rani Khedira,3-5-2,3-1-4-2,Bastian Dankert,Match Report,,2022-2023,Union Berlin
+2023-01-28,15:30,Bundesliga,Matchweek 18,Sat,Away,W,2,0,Hertha BSC,1.0,0.5,48,74667,Christopher Trimmel,3-5-2,4-3-3,Felix Brych,Match Report,,2022-2023,Union Berlin
+2023-01-31,20:45,DFB-Pokal,Round of 16,Tue,Home,W,2,1,Wolfsburg,,,46,22012,Rani Khedira,3-5-2,3-1-4-2,Sascha Stegemann,Match Report,,2022-2023,Union Berlin
+2023-02-04,15:30,Bundesliga,Matchweek 19,Sat,Home,W,2,1,Mainz 05,1.1,1.3,51,22012,Christopher Trimmel,3-5-2,3-4-3,Florian Badstübner,Match Report,,2022-2023,Union Berlin
+2023-02-11,18:30,Bundesliga,Matchweek 20,Sat,Away,W,2,1,RB Leipzig,1.7,0.6,37,47069,Rani Khedira,3-5-2,3-4-3,Daniel Schlager,Match Report,,2022-2023,Union Berlin
+2023-02-16,18:45,Europa Lg,Knockout round play-offs,Thu,Away,D,0,0,nl Ajax,0.8,0.4,34,54322,Rani Khedira,3-5-2,4-2-3-1,Halil Umut Meler,Match Report,Leg 1 of 2,2022-2023,Union Berlin
+2023-02-19,15:30,Bundesliga,Matchweek 21,Sun,Home,D,0,0,Schalke 04,0.9,0.4,54,22012,Christopher Trimmel,3-5-2,4-2-3-1,Tobias Reichel,Match Report,,2022-2023,Union Berlin
+2023-02-23,21:00,Europa Lg,Knockout round play-offs,Thu,Home,W,3,1,nl Ajax,1.7,1.9,27,21800,Rani Khedira,3-5-2,3-4-3,Ricardo de Burgos,Match Report,Leg 2 of 2; Union Berlin won,2022-2023,Union Berlin
+2023-02-26,17:30,Bundesliga,Matchweek 22,Sun,Away,L,0,3,Bayern Munich,0.4,3.6,31,75000,Christopher Trimmel,3-5-2,4-2-3-1,Marco Fritz,Match Report,,2022-2023,Union Berlin
+2023-03-04,15:30,Bundesliga,Matchweek 23,Sat,Home,D,0,0,Köln,0.5,0.9,52,22012,Christopher Trimmel,3-5-2,4-2-3-1,Tobias Stieler,Match Report,,2022-2023,Union Berlin
+2023-03-09,18:45,Europa Lg,Round of 16,Thu,Home,D,3,3,be Union SG,2.6,1.3,65,21605,Christopher Trimmel,3-5-2,5-3-2,Orel Grinfeeld,Match Report,Leg 1 of 2,2022-2023,Union Berlin
+2023-03-12,19:30,Bundesliga,Matchweek 24,Sun,Away,D,1,1,Wolfsburg,1.3,1.7,42,23554,Rani Khedira,3-4-3,4-3-3,Robert Schröder,Match Report,,2022-2023,Union Berlin
+2023-03-16,21:00,Europa Lg,Round of 16,Thu,Away,L,0,3,be Union SG,0.4,1.7,45,15681,Rani Khedira,3-5-2,3-5-2,José Sánchez,Match Report,Leg 2 of 2; Union SG won,2022-2023,Union Berlin
+2023-03-19,15:30,Bundesliga,Matchweek 25,Sun,Home,W,2,0,Eint Frankfurt,1.3,2.7,37,22012,Rani Khedira,3-5-2,3-4-3,Christian Dingert,Match Report,,2022-2023,Union Berlin
+2023-04-01,15:30,Bundesliga,Matchweek 26,Sat,Home,W,3,0,Stuttgart,1.9,2.2,39,22012,Christopher Trimmel,3-5-2,4-3-3,Florian Badstübner,Match Report,,2022-2023,Union Berlin
+2023-04-04,18:00,DFB-Pokal,Quarter-finals,Tue,Away,L,0,2,Eint Frankfurt,,,39,50000,Christopher Trimmel,3-5-2,3-4-3,Bastian Dankert,Match Report,,2022-2023,Union Berlin
+2023-04-08,15:30,Bundesliga,Matchweek 27,Sat,Away,L,1,2,Dortmund,0.5,2.6,37,81365,Rani Khedira,3-5-2,4-3-3,Daniel Schlager,Match Report,,2022-2023,Union Berlin
+2023-04-16,17:30,Bundesliga,Matchweek 28,Sun,Home,D,1,1,Bochum,1.2,1.8,40,20000,Rani Khedira,3-5-2,4-3-3,Tobias Stieler,Match Report,,2022-2023,Union Berlin
+2023-04-23,19:30,Bundesliga,Matchweek 29,Sun,Away,W,1,0,Gladbach,1.3,0.7,38,52107,Rani Khedira,3-5-2,4-2-3-1,Martin Petersen,Match Report,,2022-2023,Union Berlin
+2023-04-29,15:30,Bundesliga,Matchweek 30,Sat,Home,D,0,0,Leverkusen,0.8,0.8,35,22012,Rani Khedira,3-5-2,3-4-3,Marco Fritz,Match Report,,2022-2023,Union Berlin
+2023-05-06,15:30,Bundesliga,Matchweek 31,Sat,Away,L,0,1,Augsburg,0.7,0.9,62,30660,Rani Khedira,3-5-2,3-4-3,Florian Badstübner,Match Report,,2022-2023,Union Berlin
+2023-05-13,15:30,Bundesliga,Matchweek 32,Sat,Home,W,4,2,Freiburg,1.5,2.1,37,22012,Christopher Trimmel,3-5-2,3-4-3,Marco Fritz,Match Report,,2022-2023,Union Berlin
+2023-05-20,15:30,Bundesliga,Matchweek 33,Sat,Away,L,2,4,Hoffenheim,2.0,2.4,57,30000,Christopher Trimmel,3-5-2,3-4-3,Christian Dingert,Match Report,,2022-2023,Union Berlin
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Home,W,1,0,Werder Bremen,0.9,0.4,48,22012,Christopher Trimmel,3-5-2,3-1-4-2,Patrick Ittrich,Match Report,,2022-2023,Union Berlin

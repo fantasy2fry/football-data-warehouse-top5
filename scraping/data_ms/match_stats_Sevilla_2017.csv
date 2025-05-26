@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-16,21:45,Champions Lg,Play-off round,Wed,Away,W,2,1,tr Başakşehir,,,56.0,12894,Nicolás Pareja,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2017-08-19,22:15,La Liga,Matchweek 1,Sat,Home,D,1,1,Espanyol,2.4,1.3,62.0,30487,Jesús Navas,4-1-4-1,4-4-2,Alejandro Hernández,Match Report,,2017-2018,Sevilla
+2017-08-22,20:45,Champions Lg,Play-off round,Tue,Home,D,2,2,tr Başakşehir,,,50.0,34278,Nicolás Pareja,4-3-3,4-2-3-1,William Collum,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2017-08-27,20:15,La Liga,Matchweek 2,Sun,Away,W,1,0,Getafe,1.2,1.8,56.0,10039,Nicolás Pareja,4-1-4-1,4-4-2,Alberto Undiano,Match Report,,2017-2018,Sevilla
+2017-09-09,18:30,La Liga,Matchweek 3,Sat,Home,W,3,0,Eibar,3.0,0.8,59.0,32469,Daniel Carriço,4-1-4-1,4-4-2,Antonio Matéu Lahoz,Match Report,,2017-2018,Sevilla
+2017-09-13,19:45,Champions Lg,Group stage,Wed,Away,D,2,2,eng Liverpool,1.2,2.4,51.0,52332,Nicolás Pareja,4-3-3,4-3-3,Danny Makkelie,Match Report,,2017-2018,Sevilla
+2017-09-17,16:15,La Liga,Matchweek 4,Sun,Away,W,1,0,Girona,1.2,1.7,55.0,11032,Daniel Carriço,4-3-3,3-4-3,Ricardo de Burgos,Match Report,,2017-2018,Sevilla
+2017-09-20,22:00,La Liga,Matchweek 5,Wed,Home,W,1,0,Las Palmas,1.4,0.4,59.0,35317,Nicolás Pareja,4-2-3-1,4-2-3-1,José González,Match Report,,2017-2018,Sevilla
+2017-09-23,13:00,La Liga,Matchweek 6,Sat,Away,L,0,2,Atlético Madrid,0.5,1.3,61.0,60823,Daniel Carriço,4-3-3,4-4-2,Juan Martínez,Match Report,,2017-2018,Sevilla
+2017-09-26,20:45,Champions Lg,Group stage,Tue,Home,W,3,0,si NK Maribor,3.9,0.4,68.0,34705,Nicolás Pareja,4-3-3,4-4-1-1,Aliaksei Kulbakov,Match Report,,2017-2018,Sevilla
+2017-09-30,16:15,La Liga,Matchweek 7,Sat,Home,W,2,0,Málaga,2.2,0.4,63.0,34430,Sergio Escudero,4-3-3,5-3-2,Daniel Trujillo,Match Report,,2017-2018,Sevilla
+2017-10-14,13:00,La Liga,Matchweek 8,Sat,Away,L,0,1,Athletic Club,2.3,1.2,58.0,40197,Jesús Navas,4-2-3-1,4-1-4-1,Ignacio Iglesias,Match Report,,2017-2018,Sevilla
+2017-10-17,21:45,Champions Lg,Group stage,Tue,Away,L,1,5,ru Spartak Moscow,1.3,1.7,62.0,44307,Sergio Escudero,4-3-3,4-2-3-1,Gianluca Rocchi,Match Report,,2017-2018,Sevilla
+2017-10-21,18:30,La Liga,Matchweek 9,Sat,Away,L,0,4,Valencia,0.8,2.2,48.0,44307,Sergio Escudero,4-1-4-1,4-4-2,Javier Estrada,Match Report,,2017-2018,Sevilla
+2017-10-24,19:30,Copa del Rey,Round of 32,Tue,Away,W,3,0,Cartagena,,,,7550,,,,Daniel Trujillo,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2017-10-28,22:30,La Liga,Matchweek 10,Sat,Home,W,2,1,Leganés,1.7,1.2,60.0,32097,Sergio Escudero,4-3-3,4-4-1-1,David Medié,Match Report,,2017-2018,Sevilla
+2017-11-01,20:45,Champions Lg,Group stage,Wed,Home,W,2,1,ru Spartak Moscow,0.9,1.2,57.0,38002,Sergio Escudero,4-2-3-1,4-2-3-1,Artur Soares Dias,Match Report,,2017-2018,Sevilla
+2017-11-04,20:45,La Liga,Matchweek 11,Sat,Away,L,1,2,Barcelona,0.6,2.1,48.0,70723,Sergio Escudero,4-2-3-1,4-4-2,José González,Match Report,,2017-2018,Sevilla
+2017-11-18,18:30,La Liga,Matchweek 12,Sat,Home,W,2,1,Celta Vigo,1.3,1.8,52.0,35030,Sergio Escudero,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2017-2018,Sevilla
+2017-11-21,20:45,Champions Lg,Group stage,Tue,Home,D,3,3,eng Liverpool,1.9,2.3,70.0,39495,Sergio Escudero,4-3-3,4-3-3,Felix Brych,Match Report,,2017-2018,Sevilla
+2017-11-26,18:30,La Liga,Matchweek 13,Sun,Away,W,3,2,Villarreal,1.6,2.1,54.0,18698,Gabriel Mercado,4-2-3-1,4-1-2-1-2,Alberola Rojas,Match Report,,2017-2018,Sevilla
+2017-11-29,19:30,Copa del Rey,Round of 32,Wed,Home,W,4,0,Cartagena,,,,11678,,,,Alejandro Hernández,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2017-12-02,18:30,La Liga,Matchweek 14,Sat,Home,W,2,0,La Coruña,1.2,0.9,57.0,32017,Sergio Escudero,4-3-3,4-4-2,José Sánchez,Match Report,,2017-2018,Sevilla
+2017-12-06,20:45,Champions Lg,Group stage,Wed,Away,D,1,1,si NK Maribor,1.7,0.8,72.0,11976,Sergio Escudero,4-3-3,4-1-4-1,Ovidiu Hațegan,Match Report,,2017-2018,Sevilla
+2017-12-09,16:15,La Liga,Matchweek 15,Sat,Away,L,0,5,Real Madrid,0.4,3.2,41.0,76924,Gabriel Mercado,4-3-3,4-4-2,Juan Martínez,Match Report,,2017-2018,Sevilla
+2017-12-15,21:00,La Liga,Matchweek 16,Fri,Home,D,0,0,Levante,2.0,0.9,61.0,25934,Sergio Escudero,4-3-3,4-2-3-1,Ignacio Iglesias,Match Report,,2017-2018,Sevilla
+2017-12-20,21:30,La Liga,Matchweek 17,Wed,Away,L,1,3,Real Sociedad,0.4,1.6,50.0,17205,Sergio Escudero,4-2-3-1,4-3-3,Alejandro Hernández,Match Report,,2017-2018,Sevilla
+2018-01-03,21:00,Copa del Rey,Round of 16,Wed,Away,W,2,0,Cádiz,,,,17692,,,,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2018-01-06,20:45,La Liga,Matchweek 18,Sat,Home,L,3,5,Betis,1.8,1.5,50.0,40282,Sergio Escudero,4-3-3,4-1-4-1,Jesús Gil,Match Report,,2017-2018,Sevilla
+2018-01-11,19:30,Copa del Rey,Round of 16,Thu,Home,W,2,1,Cádiz,,,,23510,,,,Ricardo de Burgos,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2018-01-14,16:15,La Liga,Matchweek 19,Sun,Away,L,0,1,Alavés,0.9,0.6,62.0,19413,Gabriel Mercado,4-2-3-1,4-4-2,José Sánchez,Match Report,,2017-2018,Sevilla
+2018-01-17,19:00,Copa del Rey,Quarter-finals,Wed,Away,W,2,1,Atlético Madrid,,,,51643,,,,Santiago Jaime,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2018-01-20,13:00,La Liga,Matchweek 20,Sat,Away,W,3,0,Espanyol,1.3,1.2,46.0,19607,Sergio Escudero,4-2-3-1,4-4-2,Alberto Undiano,Match Report,,2017-2018,Sevilla
+2018-01-23,21:30,Copa del Rey,Quarter-finals,Tue,Home,W,3,1,Atlético Madrid,,,,39918,,,,Juan Martínez,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2018-01-28,18:30,La Liga,Matchweek 21,Sun,Home,D,1,1,Getafe,1.5,0.6,65.0,34011,Sergio Escudero,4-2-3-1,4-2-3-1,Alberola Rojas,Match Report,,2017-2018,Sevilla
+2018-01-31,21:30,Copa del Rey,Semi-finals,Wed,Away,D,1,1,Leganés,,,,11454,,,,José González,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2018-02-03,13:00,La Liga,Matchweek 22,Sat,Away,L,1,5,Eibar,1.5,1.6,55.0,5311,Nicolás Pareja,4-2-3-1,4-4-2,Daniel Trujillo,Match Report,,2017-2018,Sevilla
+2018-02-07,21:30,Copa del Rey,Semi-finals,Wed,Home,W,2,0,Leganés,,,,39705,,,,Javier Estrada,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2018-02-11,12:00,La Liga,Matchweek 23,Sun,Home,W,1,0,Girona,2.0,1.8,54.0,33129,Sergio Escudero,4-2-3-1,3-4-3,Santiago Jaime,Match Report,,2017-2018,Sevilla
+2018-02-17,12:00,La Liga,Matchweek 24,Sat,Away,W,2,1,Las Palmas,3.1,1.3,45.0,19161,Gabriel Mercado,4-2-3-1,4-2-3-1,Ignacio Iglesias,Match Report,,2017-2018,Sevilla
+2018-02-21,20:45,Champions Lg,Round of 16,Wed,Home,D,0,0,eng Manchester Utd,2.0,0.7,57.0,39725,Sergio Escudero,4-2-3-1,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2018-02-25,20:45,La Liga,Matchweek 25,Sun,Home,L,2,5,Atlético Madrid,1.0,2.6,59.0,37884,Sergio Escudero,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2017-2018,Sevilla
+2018-02-28,19:30,La Liga,Matchweek 26,Wed,Away,W,1,0,Málaga,0.8,0.4,51.0,15516,Éver Banega,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2017-2018,Sevilla
+2018-03-03,16:15,La Liga,Matchweek 27,Sat,Home,W,2,0,Athletic Club,2.3,0.7,49.0,25185,Sergio Escudero,4-2-3-1,4-2-3-1,Alberto Undiano,Match Report,,2017-2018,Sevilla
+2018-03-10,16:15,La Liga,Matchweek 28,Sat,Home,L,0,2,Valencia,1.6,1.3,62.0,33287,Sergio Escudero,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,2017-2018,Sevilla
+2018-03-13,19:45,Champions Lg,Round of 16,Tue,Away,W,2,1,eng Manchester Utd,1.7,1.9,49.0,74909,Sergio Escudero,4-2-3-1,4-1-4-1,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Sevilla
+2018-03-18,12:00,La Liga,Matchweek 29,Sun,Away,L,1,2,Leganés,0.5,1.3,65.0,10037,Sergio Escudero,4-2-3-1,4-2-3-1,Alberola Rojas,Match Report,,2017-2018,Sevilla
+2018-03-31,20:45,La Liga,Matchweek 30,Sat,Home,D,2,2,Barcelona,2.6,1.7,40.0,37588,Sergio Escudero,4-2-3-1,4-3-3,José González,Match Report,,2017-2018,Sevilla
+2018-04-03,20:45,Champions Lg,Quarter-finals,Tue,Home,L,1,2,de Bayern Munich,0.9,1.4,42.0,40635,Sergio Escudero,4-2-3-1,4-1-4-1,Daniele Orsato,Match Report,Leg 1 of 2,2017-2018,Sevilla
+2018-04-07,16:15,La Liga,Matchweek 31,Sat,Away,L,0,4,Celta Vigo,2.0,1.8,52.0,16919,Daniel Carriço,4-2-3-1,4-3-3,Alfonso Álvarez,Match Report,,2017-2018,Sevilla
+2018-04-11,20:45,Champions Lg,Quarter-finals,Wed,Away,D,0,0,de Bayern Munich,0.6,1.2,50.0,70000,Sergio Escudero,4-2-3-1,4-1-4-1,William Collum,Match Report,Leg 2 of 2; Bayern Munich won,2017-2018,Sevilla
+2018-04-14,13:00,La Liga,Matchweek 32,Sat,Home,D,2,2,Villarreal,1.7,1.2,58.0,32192,Sergio Escudero,4-2-3-1,4-2-3-1,Pablo González,Match Report,,2017-2018,Sevilla
+2018-04-17,19:30,La Liga,Matchweek 33,Tue,Away,D,0,0,La Coruña,2.1,1.7,62.0,24374,Daniel Carriço,4-1-4-1,4-1-2-1-2,David Medié,Match Report,,2017-2018,Sevilla
+2018-04-21,21:30,Copa del Rey,Final,Sat,Neutral,L,0,5,Barcelona,,,,67500,,,,Jesús Gil,Match Report,,2017-2018,Sevilla
+2018-04-27,21:00,La Liga,Matchweek 35,Fri,Away,L,1,2,Levante,1.2,2.1,56.0,17240,Sergio Escudero,4-2-3-1,4-4-2,José González,Match Report,,2017-2018,Sevilla
+2018-05-04,21:00,La Liga,Matchweek 36,Fri,Home,W,1,0,Real Sociedad,1.8,0.8,41.0,34733,Sergio Escudero,4-2-3-1,4-2-3-1,Santiago Jaime,Match Report,,2017-2018,Sevilla
+2018-05-09,21:30,La Liga,Matchweek 34,Wed,Home,W,3,2,Real Madrid,1.8,2.5,36.0,38524,Nicolás Pareja,4-2-3-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2017-2018,Sevilla
+2018-05-12,18:30,La Liga,Matchweek 37,Sat,Away,D,2,2,Betis,1.8,1.5,52.0,55588,Sergio Escudero,4-2-3-1,3-1-4-2,Alfonso Álvarez,Match Report,,2017-2018,Sevilla
+2018-05-19,18:30,La Liga,Matchweek 38,Sat,Home,W,1,0,Alavés,2.0,1.2,61.0,22513,Nicolás Pareja,4-4-2,4-4-2,Carlos del Cerro,Match Report,,2017-2018,Sevilla

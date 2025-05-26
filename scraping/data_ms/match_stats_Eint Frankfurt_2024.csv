@@ -1,0 +1,50 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,20:45,DFB-Pokal,Round of 64,Mon,Away,W,4,1,BTSV,,,58,21201,Kevin Trapp,4-2-3-1,3-4-3,Florian Exner,Match Report,,2024-2025,Eint Frankfurt
+2024-08-24,18:30,Bundesliga,Matchweek 1,Sat,Away,L,0,2,Dortmund,1.4,1.7,31,81365,Kevin Trapp,4-2-3-1,3-4-3,,Match Report,,2024-2025,Eint Frankfurt
+2024-08-31,15:30,Bundesliga,Matchweek 2,Sat,Home,W,3,1,Hoffenheim,2.4,1.0,50,57100,Kevin Trapp,3-4-3,3-4-1-2,Florian Badstübner,Match Report,,2024-2025,Eint Frankfurt
+2024-09-14,15:30,Bundesliga,Matchweek 3,Sat,Away,W,2,1,Wolfsburg,2.5,1.5,40,26281,Kevin Trapp,4-4-2,4-1-4-1,Harm Osmers,Match Report,,2024-2025,Eint Frankfurt
+2024-09-21,18:30,Bundesliga,Matchweek 4,Sat,Home,W,2,0,Gladbach,2.7,1.7,37,58000,Robin Koch,4-4-2,4-2-3-1,Tobias Welz,Match Report,,2024-2025,Eint Frankfurt
+2024-09-26,21:00,Europa Lg,League phase,Thu,Home,D,3,3,cz Viktoria Plzeň,1.4,1.2,67,56500,Tuta,4-4-2,3-5-2,Mykola Balakin,Match Report,,2024-2025,Eint Frankfurt
+2024-09-29,15:30,Bundesliga,Matchweek 5,Sun,Away,W,4,2,Holstein Kiel,2.1,1.1,53,15034,Robin Koch,4-2-3-1,3-5-2,Tobias Stieler,Match Report,,2024-2025,Eint Frankfurt
+2024-10-03,22:00,Europa Lg,League phase,Thu,Away,W,3,1,tr Beşiktaş,2.3,2.3,35,35305,Robin Koch,4-4-2,4-2-3-1,John Beaton,Match Report,,2024-2025,Eint Frankfurt
+2024-10-06,17:30,Bundesliga,Matchweek 6,Sun,Home,D,3,3,Bayern Munich,1.2,2.2,26,58000,Robin Koch,4-4-2,4-2-3-1,Benjamin Brand,Match Report,,2024-2025,Eint Frankfurt
+2024-10-19,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1,2,Leverkusen,1.9,3.8,46,30210,Kevin Trapp,4-4-2,3-4-3,Felix Brych,Match Report,,2024-2025,Eint Frankfurt
+2024-10-24,18:45,Europa Lg,League phase,Thu,Home,W,1,0,lv FK Rīgas FS,0.9,0.5,59,56600,Kevin Trapp,4-4-2,5-3-2,Allard Lindhout,Match Report,,2024-2025,Eint Frankfurt
+2024-10-27,17:30,Bundesliga,Matchweek 8,Sun,Away,D,1,1,Union Berlin,1.5,1.4,52,22012,Kevin Trapp,3-5-2,3-4-3,Harm Osmers,Match Report,,2024-2025,Eint Frankfurt
+2024-10-30,18:00,DFB-Pokal,Round of 32,Wed,Home,W,2,1,Gladbach,,,40,58000,Kevin Trapp,4-4-2,4-2-3-1,Matthias Jöllenbeck,Match Report,,2024-2025,Eint Frankfurt
+2024-11-02,15:30,Bundesliga,Matchweek 9,Sat,Home,W,7,2,Bochum,3.5,1.8,64,58000,Kevin Trapp,4-4-2,4-4-2,Daniel Schlager,Match Report,,2024-2025,Eint Frankfurt
+2024-11-07,18:45,Europa Lg,League phase,Thu,Home,W,1,0,cz Slavia Prague,0.9,1.1,47,57350,Kevin Trapp,4-4-2,3-4-3,Chris Kavanagh,Match Report,,2024-2025,Eint Frankfurt
+2024-11-10,17:30,Bundesliga,Matchweek 10,Sun,Away,W,3,2,Stuttgart,1.3,2.5,40,60000,Kevin Trapp,4-4-2,4-2-3-1,Felix Zwayer,Match Report,,2024-2025,Eint Frankfurt
+2024-11-23,18:30,Bundesliga,Matchweek 11,Sat,Home,W,1,0,Werder Bremen,1.1,0.4,50,58000,Kevin Trapp,4-4-2,3-4-3,Florian Badstübner,Match Report,,2024-2025,Eint Frankfurt
+2024-11-28,21:00,Europa Lg,League phase,Thu,Away,W,2,1,dk Midtjylland,2.5,0.8,57,9521,Kevin Trapp,4-4-2,4-2-3-1,Craig Pawson,Match Report,,2024-2025,Eint Frankfurt
+2024-12-01,17:30,Bundesliga,Matchweek 12,Sun,Away,W,4,0,Heidenheim,2.6,0.7,54,15000,Kevin Trapp,4-4-2,3-4-3,Florian Exner,Match Report,,2024-2025,Eint Frankfurt
+2024-12-04,20:45,DFB-Pokal,Round of 16,Wed,Away,L,0,3,RB Leipzig,,,64,37187,Kevin Trapp,4-4-2,3-5-2,Sven Jablonski,Match Report,,2024-2025,Eint Frankfurt
+2024-12-07,15:30,Bundesliga,Matchweek 13,Sat,Home,D,2,2,Augsburg,1.7,0.6,66,57000,Kevin Trapp,4-2-2-2,3-5-2,Bastian Dankert,Match Report,,2024-2025,Eint Frankfurt
+2024-12-12,21:00,Europa Lg,League phase,Thu,Away,L,2,3,fr Lyon,1.1,2.1,57,41091,Kevin Trapp,4-4-2,4-3-3,Andris Treimanis,Match Report,,2024-2025,Eint Frankfurt
+2024-12-15,19:30,Bundesliga,Matchweek 14,Sun,Away,L,1,2,RB Leipzig,0.9,1.9,56,40193,Kevin Trapp,3-4-3,5-3-2,Benjamin Brand,Match Report,,2024-2025,Eint Frankfurt
+2024-12-21,15:30,Bundesliga,Matchweek 15,Sat,Home,L,1,3,Mainz 05,2.4,0.6,70,58000,Robin Koch,3-5-2,3-4-3,Florian Badstübner,Match Report,,2024-2025,Eint Frankfurt
+2025-01-11,15:30,Bundesliga,Matchweek 16,Sat,Away,W,1,0,St. Pauli,1.5,2.2,57,29546,Kevin Trapp,3-1-4-2,3-4-3,Harm Osmers,Match Report,,2024-2025,Eint Frankfurt
+2025-01-14,20:30,Bundesliga,Matchweek 17,Tue,Home,W,4,1,Freiburg,2.4,0.5,64,56500,Kevin Trapp,3-1-4-2,4-3-3,Sven Jablonski,Match Report,,2024-2025,Eint Frankfurt
+2025-01-17,20:30,Bundesliga,Matchweek 18,Fri,Home,W,2,0,Dortmund,1.7,0.8,33,58000,Kevin Trapp,3-4-3,3-4-3,Daniel Schlager,Match Report,,2024-2025,Eint Frankfurt
+2025-01-23,21:00,Europa Lg,League phase,Thu,Home,W,2,0,hu Ferencváros,1.4,0.0,68,55500,Kevin Trapp,4-2-3-1,4-4-2,Enea Jorgji,Match Report,,2024-2025,Eint Frankfurt
+2025-01-26,15:30,Bundesliga,Matchweek 19,Sun,Away,D,2,2,Hoffenheim,2.4,2.4,49,30150,Kevin Trapp,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2024-2025,Eint Frankfurt
+2025-01-30,21:00,Europa Lg,League phase,Thu,Away,L,0,2,it Roma,0.7,1.9,53,64458,Kevin Trapp,4-4-2,3-4-3,Rade Obrenović,Match Report,,2024-2025,Eint Frankfurt
+2025-02-02,15:30,Bundesliga,Matchweek 20,Sun,Home,D,1,1,Wolfsburg,1.2,1.2,61,56900,Kevin Trapp,3-4-3,4-1-3-2,Benjamin Brand,Match Report,,2024-2025,Eint Frankfurt
+2025-02-08,18:30,Bundesliga,Matchweek 21,Sat,Away,D,1,1,Gladbach,2.2,0.4,47,54042,Kevin Trapp,4-4-2,4-2-3-1,Christian Dingert,Match Report,,2024-2025,Eint Frankfurt
+2025-02-16,17:30,Bundesliga,Matchweek 22,Sun,Home,W,3,1,Holstein Kiel,2.5,1.4,51,57700,Kevin Trapp,3-4-3,3-1-4-2,Robert Hartmann,Match Report,,2024-2025,Eint Frankfurt
+2025-02-23,17:30,Bundesliga,Matchweek 23,Sun,Away,L,0,4,Bayern Munich,0.5,3.8,37,75000,Kevin Trapp,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2024-2025,Eint Frankfurt
+2025-03-01,18:30,Bundesliga,Matchweek 24,Sat,Home,L,1,4,Leverkusen,1.1,2.0,41,58000,Kevin Trapp,3-1-4-2,3-4-3,Felix Zwayer,Match Report,,2024-2025,Eint Frankfurt
+2025-03-06,21:00,Europa Lg,Round of 16,Thu,Away,W,2,1,nl Ajax,1.5,1.5,48,52641,Kevin Trapp,4-2-3-1,4-3-3,Simone Sozza,Match Report,Leg 1 of 2,2024-2025,Eint Frankfurt
+2025-03-09,15:30,Bundesliga,Matchweek 25,Sun,Home,L,1,2,Union Berlin,1.8,0.9,66,58000,Kevin Trapp,4-2-3-1,3-5-2,Frank Willenborg,Match Report,,2024-2025,Eint Frankfurt
+2025-03-13,18:45,Europa Lg,Round of 16,Thu,Home,W,4,1,nl Ajax,2.5,0.6,53,57500,Robin Koch,4-2-3-1,3-4-3,Irfan Peljto,Match Report,Leg 2 of 2; Eint Frankfurt won,2024-2025,Eint Frankfurt
+2025-03-16,15:30,Bundesliga,Matchweek 26,Sun,Away,W,3,1,Bochum,2.5,1.4,49,26000,Robin Koch,4-2-3-1,4-4-2,Felix Zwayer,Match Report,,2024-2025,Eint Frankfurt
+2025-03-29,18:30,Bundesliga,Matchweek 27,Sat,Home,W,1,0,Stuttgart,3.7,1.2,46,58000,Robin Koch,4-2-3-1,4-2-3-1,Deniz Aytekin,Match Report,,2024-2025,Eint Frankfurt
+2025-04-05,18:30,Bundesliga,Matchweek 28,Sat,Away,L,0,2,Werder Bremen,0.5,1.0,62,42100,Robin Koch,4-2-3-1,3-5-2,Daniel Siebert,Match Report,,2024-2025,Eint Frankfurt
+2025-04-10,20:00,Europa Lg,Quarter-finals,Thu,Away,D,1,1,eng Tottenham,0.3,0.9,44,57849,Robin Koch,4-2-3-1,4-3-3,Szymon Marciniak,Match Report,Leg 1 of 2,2024-2025,Eint Frankfurt
+2025-04-13,17:30,Bundesliga,Matchweek 29,Sun,Home,W,3,0,Heidenheim,3.7,1.7,44,57500,Robin Koch,4-2-3-1,3-1-4-2,Timo Gerach,Match Report,,2024-2025,Eint Frankfurt
+2025-04-17,21:00,Europa Lg,Quarter-finals,Thu,Home,L,0,1,eng Tottenham,0.9,1.5,61,57500,Robin Koch,4-2-3-1,4-3-3,Davide Massa,Match Report,Leg 2 of 2; Tottenham won,2024-2025,Eint Frankfurt
+2025-04-20,15:30,Bundesliga,Matchweek 30,Sun,Away,D,0,0,Augsburg,1.1,0.9,54,30660,Kevin Trapp,3-5-2,3-4-3,Florian Badstübner,Match Report,,2024-2025,Eint Frankfurt
+2025-04-26,18:30,Bundesliga,Matchweek 31,Sat,Home,W,4,0,RB Leipzig,2.1,0.4,46,56500,Kevin Trapp,3-4-3,3-5-1-1,Matthias Jöllenbeck,Match Report,,2024-2025,Eint Frankfurt
+2025-05-04,19:30,Bundesliga,Matchweek 32,Sun,Away,D,1,1,Mainz 05,1.3,1.4,36,33305,Kevin Trapp,3-4-3,3-4-3,Martin Petersen,Match Report,,2024-2025,Eint Frankfurt
+2025-05-11,17:30,Bundesliga,Matchweek 33,Sun,Home,D,2,2,St. Pauli,1.7,0.8,72,58000,Kevin Trapp,3-4-3,3-4-3,Christian Dingert,Match Report,,2024-2025,Eint Frankfurt
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Away,W,3,1,Freiburg,2.0,0.7,41,34700,Kevin Trapp,3-4-3,4-4-1-1,Benjamin Brand,Match Report,,2024-2025,Eint Frankfurt

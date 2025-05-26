@@ -1,0 +1,63 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,14:00,Premier League,Matchweek 1,Sun,Home,L,1,2,Brighton,1.4,1.5,62,73711,Harry Maguire,4-3-3,3-3-3-1,Paul Tierney,Match Report,,2022-2023,Manchester Utd
+2022-08-13,17:30,Premier League,Matchweek 2,Sat,Away,L,0,4,Brentford,0.9,1.6,66,17051,Harry Maguire,4-2-3-1,5-3-2,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2022-08-22,20:00,Premier League,Matchweek 3,Mon,Home,W,2,1,Liverpool,1.8,1.3,30,74147,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,Manchester Utd
+2022-08-27,12:30,Premier League,Matchweek 4,Sat,Away,W,1,0,Southampton,1.1,1.4,51,31196,Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,2022-2023,Manchester Utd
+2022-09-01,20:00,Premier League,Matchweek 5,Thu,Away,W,1,0,Leicester City,1.5,0.7,47,32226,Bruno Fernandes,4-2-3-1,4-1-4-1,Craig Pawson,Match Report,,2022-2023,Manchester Utd
+2022-09-04,16:30,Premier League,Matchweek 6,Sun,Home,W,3,1,Arsenal,1.5,1.3,40,73431,Bruno Fernandes,4-2-3-1,4-3-3,Paul Tierney,Match Report,,2022-2023,Manchester Utd
+2022-09-08,20:00,Europa Lg,Group stage,Thu,Home,L,0,1,es Real Sociedad,0.8,1.1,55,74310,Harry Maguire,4-2-3-1,4-1-4-1,Marco Di Bello,Match Report,,2022-2023,Manchester Utd
+2022-09-15,19:45,Europa Lg,Group stage,Thu,Away,W,2,0,md Sheriff Tiraspol,1.6,0.3,68,8734,Bruno Fernandes,4-2-3-1,4-3-3,Paweł Raczkowski,Match Report,,2022-2023,Manchester Utd
+2022-10-02,14:00,Premier League,Matchweek 9,Sun,Away,L,3,6,Manchester City,1.7,3.2,47,53475,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2022-2023,Manchester Utd
+2022-10-06,19:45,Europa Lg,Group stage,Thu,Away,W,3,2,cy AC Omonia,3.1,1.2,73,20011,Bruno Fernandes,4-2-3-1,5-3-2,João Pinheiro,Match Report,,2022-2023,Manchester Utd
+2022-10-09,19:00,Premier League,Matchweek 10,Sun,Away,W,2,1,Everton,1.4,0.6,60,39258,Bruno Fernandes,4-2-3-1,4-3-3,David Coote,Match Report,,2022-2023,Manchester Utd
+2022-10-13,20:00,Europa Lg,Group stage,Thu,Home,W,1,0,cy AC Omonia,4.2,0.1,78,74310,Bruno Fernandes,4-2-3-1,5-3-2,Jérôme Brisard,Match Report,,2022-2023,Manchester Utd
+2022-10-16,14:00,Premier League,Matchweek 11,Sun,Home,D,0,0,Newcastle Utd,0.8,0.8,63,73726,Bruno Fernandes,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2022-2023,Manchester Utd
+2022-10-19,20:15,Premier League,Matchweek 12,Wed,Home,W,2,0,Tottenham,1.5,0.6,52,73677,Bruno Fernandes,4-2-3-1,3-5-2,Simon Hooper,Match Report,,2022-2023,Manchester Utd
+2022-10-22,17:30,Premier League,Matchweek 13,Sat,Away,D,1,1,Chelsea,0.8,1.1,52,39503,Bruno Fernandes,4-1-4-1,3-4-3,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2022-10-27,20:00,Europa Lg,Group stage,Thu,Home,W,3,0,md Sheriff Tiraspol,2.7,0.0,74,73764,Bruno Fernandes,4-2-3-1,4-5-1,Anastasios Sidiropoulos,Match Report,,2022-2023,Manchester Utd
+2022-10-30,16:15,Premier League,Matchweek 14,Sun,Home,W,1,0,West Ham,1.2,1.1,53,73682,Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,Manchester Utd
+2022-11-03,18:45,Europa Lg,Group stage,Thu,Away,W,1,0,es Real Sociedad,0.7,1.1,53,36744,Bruno Fernandes,4-2-3-1,4-3-1-2,Georgi Kabakov,Match Report,,2022-2023,Manchester Utd
+2022-11-06,14:00,Premier League,Matchweek 15,Sun,Away,L,1,3,Aston Villa,0.5,0.6,58,42058,Cristiano Ronaldo,4-2-3-1,4-2-2-2,Anthony Taylor,Match Report,,2022-2023,Manchester Utd
+2022-11-10,20:00,EFL Cup,Third round,Thu,Home,W,4,2,Aston Villa,,,59,72512,Harry Maguire,4-2-3-1,4-4-2,David Coote,Match Report,,2022-2023,Manchester Utd
+2022-11-13,16:30,Premier League,Matchweek 16,Sun,Away,W,2,1,Fulham,2.5,1.4,47,24246,Bruno Fernandes,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2022-2023,Manchester Utd
+2022-12-21,20:00,EFL Cup,Fourth round,Wed,Home,W,2,0,Burnley,,,55,62062,Bruno Fernandes,4-2-3-1,4-2-3-1,Graham Scott,Match Report,,2022-2023,Manchester Utd
+2022-12-27,20:00,Premier League,Matchweek 17,Tue,Home,W,3,0,Nott'ham Forest,2.4,0.7,65,73608,Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2022-2023,Manchester Utd
+2022-12-31,12:30,Premier League,Matchweek 18,Sat,Away,W,1,0,Wolves,2.0,0.7,54,31658,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2022-2023,Manchester Utd
+2023-01-03,20:00,Premier League,Matchweek 19,Tue,Home,W,3,0,Bournemouth,2.2,0.6,58,73322,Harry Maguire,4-2-3-1,4-4-2,Michael Salisbury,Match Report,,2022-2023,Manchester Utd
+2023-01-06,20:00,FA Cup,Third round proper,Fri,Home,W,3,1,Everton,,,58,72306,Bruno Fernandes,4-2-3-1,5-3-2,Darren England,Match Report,,2022-2023,Manchester Utd
+2023-01-10,20:00,EFL Cup,Quarter-finals,Tue,Home,W,3,0,Charlton Ath,,,69,74345,Harry Maguire,4-2-3-1,4-3-3,Jarred Gillett,Match Report,,2022-2023,Manchester Utd
+2023-01-14,12:30,Premier League,Matchweek 20,Sat,Home,W,2,1,Manchester City,1.7,0.6,30,75546,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2023-01-18,20:00,Premier League,Matchweek 7,Wed,Away,D,1,1,Crystal Palace,2.1,0.5,60,23343,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2022-2023,Manchester Utd
+2023-01-22,16:30,Premier League,Matchweek 21,Sun,Away,L,2,3,Arsenal,0.4,3.1,43,60325,Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2022-2023,Manchester Utd
+2023-01-25,20:00,EFL Cup,Semi-finals,Wed,Away,W,3,0,Nott'ham Forest,,,67,29325,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,Leg 1 of 2,2022-2023,Manchester Utd
+2023-01-28,20:00,FA Cup,Fourth round proper,Sat,Home,W,3,1,Reading,,,78,73460,Harry Maguire,4-2-3-1,5-3-2,Darren England,Match Report,,2022-2023,Manchester Utd
+2023-02-01,20:00,EFL Cup,Semi-finals,Wed,Home,W,2,0,Nott'ham Forest,,,74,72315,Bruno Fernandes,4-3-3,4-2-3-1,Peter Bankes,Match Report,Leg 2 of 2; Manchester Utd won,2022-2023,Manchester Utd
+2023-02-04,15:00,Premier League,Matchweek 22,Sat,Home,W,2,1,Crystal Palace,2.0,1.3,52,73420,Bruno Fernandes,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2022-2023,Manchester Utd
+2023-02-08,20:00,Premier League,Matchweek 8,Wed,Home,D,2,2,Leeds United,2.0,0.6,66,73456,Bruno Fernandes,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,2022-2023,Manchester Utd
+2023-02-12,14:00,Premier League,Matchweek 23,Sun,Away,W,2,0,Leeds United,1.1,1.8,66,36919,Harry Maguire,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2022-2023,Manchester Utd
+2023-02-16,18:45,Europa Lg,Knockout round play-offs,Thu,Away,D,2,2,es Barcelona,2.1,1.0,40,90225,Wout Weghorst,4-1-4-1,4-2-3-1,Maurizio Mariani,Match Report,Leg 1 of 2,2022-2023,Manchester Utd
+2023-02-19,14:00,Premier League,Matchweek 24,Sun,Home,W,3,0,Leicester City,4.4,1.6,57,73578,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2023-02-23,20:00,Europa Lg,Knockout round play-offs,Thu,Home,W,2,1,es Barcelona,1.1,1.2,43,73021,Bruno Fernandes,4-2-3-1,4-3-3,Clément Turpin,Match Report,Leg 2 of 2; Manchester Utd won,2022-2023,Manchester Utd
+2023-02-26,16:30,EFL Cup,Final,Sun,Home,W,2,0,Newcastle Utd,,,39,87306,Bruno Fernandes,4-2-3-1,4-3-3,David Coote,Match Report,,2022-2023,Manchester Utd
+2023-03-01,19:45,FA Cup,Fifth round proper,Wed,Home,W,3,1,West Ham,,,60,72571,Harry Maguire,4-3-3,4-3-3,Michael Salisbury,Match Report,,2022-2023,Manchester Utd
+2023-03-05,16:30,Premier League,Matchweek 26,Sun,Away,L,0,7,Liverpool,0.8,2.8,41,53001,Bruno Fernandes,4-2-3-1,4-3-3,Andy Madley,Match Report,,2022-2023,Manchester Utd
+2023-03-09,20:00,Europa Lg,Round of 16,Thu,Home,W,4,1,es Betis,3.0,0.5,56,72998,Bruno Fernandes,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,Leg 1 of 2,2022-2023,Manchester Utd
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Home,D,0,0,Southampton,0.8,1.0,47,73439,Bruno Fernandes,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,,2022-2023,Manchester Utd
+2023-03-16,18:45,Europa Lg,Round of 16,Thu,Away,W,1,0,es Betis,1.9,1.2,54,54643,Harry Maguire,4-2-3-1,4-2-3-1,Srđan Jovanović,Match Report,Leg 2 of 2; Manchester Utd won,2022-2023,Manchester Utd
+2023-03-19,16:30,FA Cup,Quarter-finals,Sun,Home,W,3,1,Fulham,,,56,73511,Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,Manchester Utd
+2023-04-02,16:30,Premier League,Matchweek 29,Sun,Away,L,0,2,Newcastle Utd,0.4,3.7,54,52268,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2023-04-05,20:00,Premier League,Matchweek 25,Wed,Home,W,1,0,Brentford,1.2,0.7,64,73309,Bruno Fernandes,4-2-3-1,5-3-2,John Brooks,Match Report,,2022-2023,Manchester Utd
+2023-04-08,12:30,Premier League,Matchweek 30,Sat,Home,W,2,0,Everton,3.4,1.0,63,73509,Harry Maguire,4-2-3-1,4-4-2,Michael Oliver,Match Report,,2022-2023,Manchester Utd
+2023-04-13,20:00,Europa Lg,Quarter-finals,Thu,Home,D,2,2,es Sevilla,1.7,0.6,55,72825,Bruno Fernandes,4-2-3-1,4-2-3-1,Felix Zwayer,Match Report,Leg 1 of 2,2022-2023,Manchester Utd
+2023-04-16,16:30,Premier League,Matchweek 31,Sun,Away,W,2,0,Nott'ham Forest,3.5,0.7,68,29435,Harry Maguire,4-2-3-1,3-4-1-2,Simon Hooper,Match Report,,2022-2023,Manchester Utd
+2023-04-20,21:00,Europa Lg,Quarter-finals,Thu,Away,L,0,3,es Sevilla,1.0,2.0,61,41974,Harry Maguire,4-2-3-1,4-2-3-1,Artur Dias,Match Report,Leg 2 of 2; Sevilla won,2022-2023,Manchester Utd
+2023-04-23,16:30,FA Cup,Semi-finals,Sun,Neutral,D,0 (7),0 (6),Brighton,,,39,81445,Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,Manchester Utd won on penalty kicks following extra time,2022-2023,Manchester Utd
+2023-04-27,20:15,Premier League,Matchweek 33,Thu,Away,D,2,2,Tottenham,2.0,2.5,60,61586,Bruno Fernandes,4-2-3-1,3-4-3,Anthony Taylor,Match Report,,2022-2023,Manchester Utd
+2023-04-30,14:00,Premier League,Matchweek 34,Sun,Home,W,1,0,Aston Villa,1.2,0.6,57,73592,Bruno Fernandes,4-1-4-1,4-2-3-1,Jarred Gillett,Match Report,,2022-2023,Manchester Utd
+2023-05-04,20:00,Premier League,Matchweek 28,Thu,Away,L,0,1,Brighton,1.4,2.3,41,31577,Bruno Fernandes,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2022-2023,Manchester Utd
+2023-05-07,19:00,Premier League,Matchweek 35,Sun,Away,L,0,1,West Ham,1.2,1.3,65,62477,Bruno Fernandes,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,2022-2023,Manchester Utd
+2023-05-13,15:00,Premier League,Matchweek 36,Sat,Home,W,2,0,Wolves,3.2,0.3,48,73570,Bruno Fernandes,4-2-3-1,4-4-2,John Brooks,Match Report,,2022-2023,Manchester Utd
+2023-05-20,15:00,Premier League,Matchweek 37,Sat,Away,W,1,0,Bournemouth,1.4,1.0,59,10240,Bruno Fernandes,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2022-2023,Manchester Utd
+2023-05-25,20:00,Premier League,Matchweek 32,Thu,Home,W,4,1,Chelsea,5.2,1.9,42,73561,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,2022-2023,Manchester Utd
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Home,W,2,1,Fulham,2.9,1.8,53,73465,Harry Maguire,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2022-2023,Manchester Utd
+2023-06-03,15:00,FA Cup,Final,Sat,Neutral,L,1,2,Manchester City,,,40,83179,Bruno Fernandes,4-2-3-1,3-2-4-1,Paul Tierney,Match Report,,2022-2023,Manchester Utd

@@ -1,0 +1,55 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-11,14:00,Premier League,Matchweek 1,Sun,Away,W,1,0,Newcastle Utd,1.1,0.4,62,47635.0,Granit Xhaka,4-2-3-1,3-5-2,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2019-08-17,12:30,Premier League,Matchweek 2,Sat,Home,W,2,1,Burnley,0.8,1.5,67,60214.0,Nacho Monreal,4-2-3-1,4-4-2,Mike Dean,Match Report,,2019-2020,Arsenal
+2019-08-24,17:30,Premier League,Matchweek 3,Sat,Away,L,1,3,Liverpool,1.0,2.5,48,53298.0,Granit Xhaka,4-3-1-2,4-3-3,Anthony Taylor,Match Report,,2019-2020,Arsenal
+2019-09-01,16:30,Premier League,Matchweek 4,Sun,Home,D,2,2,Tottenham,2.4,2.0,55,60333.0,Granit Xhaka,4-3-3,4-2-2-2,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2019-09-15,16:30,Premier League,Matchweek 5,Sun,Away,D,2,2,Watford,0.8,2.7,48,21360.0,Granit Xhaka,4-1-2-1-2◆,4-2-3-1,Anthony Taylor,Match Report,,2019-2020,Arsenal
+2019-09-19,18:55,Europa Lg,Group stage,Thu,Away,W,3,0,de Eint Frankfurt,3.2,1.8,44,47000.0,Granit Xhaka,4-2-3-1,3-4-1-2,Davide Massa,Match Report,,2019-2020,Arsenal
+2019-09-22,16:30,Premier League,Matchweek 6,Sun,Home,W,3,2,Aston Villa,2.4,1.5,58,60331.0,Granit Xhaka,4-2-3-1,4-3-3,Jonathan Moss,Match Report,,2019-2020,Arsenal
+2019-09-24,19:45,EFL Cup,Third round,Tue,Home,W,5,0,Nott'ham Forest,,,68,53160.0,Mesut Özil,4-2-3-1,4-2-3-1,Darren England,Match Report,,2019-2020,Arsenal
+2019-09-30,20:00,Premier League,Matchweek 7,Mon,Away,D,1,1,Manchester Utd,1.9,0.9,45,73201.0,Granit Xhaka,4-3-3,4-2-3-1,Kevin Friend,Match Report,,2019-2020,Arsenal
+2019-10-03,20:00,Europa Lg,Group stage,Thu,Home,W,4,0,be Standard Liège,4.9,0.6,62,58725.0,Héctor Bellerín,4-2-3-1,4-4-1-1,Sandro Schärer,Match Report,,2019-2020,Arsenal
+2019-10-06,14:00,Premier League,Matchweek 8,Sun,Home,W,1,0,Bournemouth,1.2,0.6,53,60326.0,Granit Xhaka,4-2-3-1,4-4-2,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2019-10-21,20:00,Premier League,Matchweek 9,Mon,Away,L,0,1,Sheffield Utd,1.0,0.9,67,30775.0,Granit Xhaka,4-2-3-1,3-5-2,Mike Dean,Match Report,,2019-2020,Arsenal
+2019-10-24,20:00,Europa Lg,Group stage,Thu,Home,W,3,2,pt Vitória,2.3,1.7,67,60195.0,Héctor Bellerín,4-2-3-1,4-5-1,Serdar Gözübüyük,Match Report,,2019-2020,Arsenal
+2019-10-27,16:30,Premier League,Matchweek 10,Sun,Home,D,2,2,Crystal Palace,1.3,1.6,56,60345.0,Granit Xhaka,4-4-2,4-5-1,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2019-10-30,19:30,EFL Cup,Fourth round,Wed,Away,D,5 (4),5 (5),Liverpool,,,34,52694.0,Héctor Bellerín,4-4-1-1,4-3-3,Andre Marriner,Match Report,Liverpool won on penalty kicks following extra time,2019-2020,Arsenal
+2019-11-02,15:00,Premier League,Matchweek 11,Sat,Home,D,1,1,Wolves,0.9,1.8,57,60383.0,Pierre-Emerick Aubameyang,4-3-1-2,3-4-3,Michael Oliver,Match Report,,2019-2020,Arsenal
+2019-11-06,15:50,Europa Lg,Group stage,Wed,Away,D,1,1,pt Vitória,1.2,1.0,64,17822.0,Rob Holding,3-4-3,4-1-4-1,Halis Özkahya,Match Report,,2019-2020,Arsenal
+2019-11-09,17:30,Premier League,Matchweek 12,Sat,Away,L,0,2,Leicester City,1.0,1.2,49,32209.0,Pierre-Emerick Aubameyang,3-4-1-2,4-1-4-1,Chris Kavanagh,Match Report,,2019-2020,Arsenal
+2019-11-23,15:00,Premier League,Matchweek 13,Sat,Home,D,2,2,Southampton,1.8,2.4,61,60295.0,Pierre-Emerick Aubameyang,3-4-1-2,4-4-2,Stuart Attwell,Match Report,,2019-2020,Arsenal
+2019-11-28,20:00,Europa Lg,Group stage,Thu,Home,L,1,2,de Eint Frankfurt,1.3,1.2,58,49419.0,Pierre-Emerick Aubameyang,4-2-3-1,3-4-1-2,Ruddy Buquet,Match Report,,2019-2020,Arsenal
+2019-12-01,14:00,Premier League,Matchweek 14,Sun,Away,D,2,2,Norwich City,1.9,0.8,60,27067.0,Pierre-Emerick Aubameyang,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2019-2020,Arsenal
+2019-12-05,20:15,Premier League,Matchweek 15,Thu,Home,L,1,2,Brighton,0.9,1.7,50,60164.0,Pierre-Emerick Aubameyang,4-2-3-1,4-1-2-1-2,Graham Scott,Match Report,,2019-2020,Arsenal
+2019-12-09,20:00,Premier League,Matchweek 16,Mon,Away,W,3,1,West Ham,1.4,0.6,64,59936.0,Pierre-Emerick Aubameyang,4-2-3-1,4-4-1-1,Mike Dean,Match Report,,2019-2020,Arsenal
+2019-12-12,18:55,Europa Lg,Group stage,Thu,Away,D,2,2,be Standard Liège,1.6,0.5,57,21797.0,Alexandre Lacazette,3-4-3,4-5-1,Andreas Ekberg,Match Report,,2019-2020,Arsenal
+2019-12-15,16:30,Premier League,Matchweek 17,Sun,Home,L,0,3,Manchester City,0.5,1.3,43,60031.0,Pierre-Emerick Aubameyang,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2019-2020,Arsenal
+2019-12-21,12:30,Premier League,Matchweek 18,Sat,Away,D,0,0,Everton,0.6,0.5,57,39336.0,Pierre-Emerick Aubameyang,4-2-3-1,4-4-2,Kevin Friend,Match Report,,2019-2020,Arsenal
+2019-12-26,15:00,Premier League,Matchweek 19,Thu,Away,D,1,1,Bournemouth,1.4,2.0,60,10234.0,Pierre-Emerick Aubameyang,4-2-3-1,4-5-1,Stuart Attwell,Match Report,,2019-2020,Arsenal
+2019-12-29,14:00,Premier League,Matchweek 20,Sun,Home,L,1,2,Chelsea,0.5,1.4,42,60309.0,Pierre-Emerick Aubameyang,4-2-3-1,3-4-3,Craig Pawson,Match Report,,2019-2020,Arsenal
+2020-01-01,20:00,Premier League,Matchweek 21,Wed,Home,W,2,0,Manchester Utd,1.5,0.7,49,60328.0,Pierre-Emerick Aubameyang,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2019-2020,Arsenal
+2020-01-06,19:56,FA Cup,Third round,Mon,Home,W,1,0,Leeds United,,,42,58403.0,Alexandre Lacazette,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,,2019-2020,Arsenal
+2020-01-11,12:30,Premier League,Matchweek 22,Sat,Away,D,1,1,Crystal Palace,1.4,0.6,57,25468.0,Pierre-Emerick Aubameyang,4-2-3-1,4-5-1,Paul Tierney,Match Report,,2019-2020,Arsenal
+2020-01-18,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Sheffield Utd,1.4,0.8,61,60310.0,Alexandre Lacazette,4-2-3-1,3-5-2,Mike Dean,Match Report,,2019-2020,Arsenal
+2020-01-21,20:15,Premier League,Matchweek 24,Tue,Away,D,2,2,Chelsea,0.4,2.9,42,40577.0,Héctor Bellerín,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,2019-2020,Arsenal
+2020-01-27,20:00,FA Cup,Fourth round,Mon,Away,W,2,1,Bournemouth,,,60,10308.0,Héctor Bellerín,4-2-3-1,4-4-1-1,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2020-02-02,14:00,Premier League,Matchweek 25,Sun,Away,D,0,0,Burnley,1.2,1.9,56,21048.0,Pierre-Emerick Aubameyang,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,,2019-2020,Arsenal
+2020-02-16,16:30,Premier League,Matchweek 26,Sun,Home,W,4,0,Newcastle Utd,2.6,0.9,68,60188.0,Pierre-Emerick Aubameyang,4-2-3-1,5-4-1,Lee Mason,Match Report,,2019-2020,Arsenal
+2020-02-20,22:00,Europa Lg,Round of 32,Thu,Away,W,1,0,gr Olympiacos,2.3,0.4,48,31456.0,Pierre-Emerick Aubameyang,4-2-3-1,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,2019-2020,Arsenal
+2020-02-23,16:30,Premier League,Matchweek 27,Sun,Home,W,3,2,Everton,1.3,2.7,51,60296.0,Pierre-Emerick Aubameyang,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,2019-2020,Arsenal
+2020-02-27,20:00,Europa Lg,Round of 32,Thu,Home,L,1,2,gr Olympiacos,2.0,1.2,60,60424.0,Pierre-Emerick Aubameyang,4-2-3-1,4-3-3,Davide Massa,Match Report,Leg 2 of 2; Olympiacos won; Required Extra Time,2019-2020,Arsenal
+2020-03-02,19:45,FA Cup,Fifth round,Mon,Away,W,2,0,Portsmouth,,,73,18839.0,David Luiz,4-2-3-1,4-2-3-1,Mike Dean,Match Report,,2019-2020,Arsenal
+2020-03-07,15:00,Premier League,Matchweek 29,Sat,Home,W,1,0,West Ham,1.2,1.5,68,60335.0,Pierre-Emerick Aubameyang,4-2-3-1,4-4-2,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2020-06-17,20:15,Premier League,Matchweek 28,Wed,Away,L,0,3,Manchester City,0.3,2.6,33,,Pierre-Emerick Aubameyang,4-3-2-1,4-3-3,Anthony Taylor,Match Report,,2019-2020,Arsenal
+2020-06-20,15:00,Premier League,Matchweek 30,Sat,Away,L,1,2,Brighton,0.8,1.0,59,,Pierre-Emerick Aubameyang,4-3-3,4-2-3-1,Martin Atkinson,Match Report,,2019-2020,Arsenal
+2020-06-25,18:00,Premier League,Matchweek 31,Thu,Away,W,2,0,Southampton,1.9,0.9,47,,Pierre-Emerick Aubameyang,3-4-3,4-4-2,Graham Scott,Match Report,,2019-2020,Arsenal
+2020-06-28,13:00,FA Cup,Quarter-finals,Sun,Away,W,2,1,Sheffield Utd,,,59,,Alexandre Lacazette,3-4-3,3-5-2,Paul Tierney,Match Report,,2019-2020,Arsenal
+2020-07-01,18:00,Premier League,Matchweek 32,Wed,Home,W,4,0,Norwich City,1.5,0.3,51,,Pierre-Emerick Aubameyang,3-4-3,4-1-4-1,Peter Bankes,Match Report,,2019-2020,Arsenal
+2020-07-04,17:30,Premier League,Matchweek 33,Sat,Away,W,2,0,Wolves,1.3,1.2,47,,Pierre-Emerick Aubameyang,3-4-3,3-5-2,Michael Oliver,Match Report,,2019-2020,Arsenal
+2020-07-07,20:15,Premier League,Matchweek 34,Tue,Home,D,1,1,Leicester City,1.1,0.9,39,,Pierre-Emerick Aubameyang,3-4-3,3-4-3,Chris Kavanagh,Match Report,,2019-2020,Arsenal
+2020-07-12,16:30,Premier League,Matchweek 35,Sun,Away,L,1,2,Tottenham,0.6,2.0,62,,Pierre-Emerick Aubameyang,3-4-3,4-4-1-1,Michael Oliver,Match Report,,2019-2020,Arsenal
+2020-07-15,20:15,Premier League,Matchweek 36,Wed,Home,W,2,1,Liverpool,0.8,2.1,32,,Alexandre Lacazette,3-4-3,4-3-3,Paul Tierney,Match Report,,2019-2020,Arsenal
+2020-07-18,19:45,FA Cup,Semi-finals,Sat,Neutral,W,2,0,Manchester City,,,29,,Pierre-Emerick Aubameyang,3-4-3,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Arsenal
+2020-07-21,20:15,Premier League,Matchweek 37,Tue,Away,L,0,1,Aston Villa,0.6,0.6,69,,Pierre-Emerick Aubameyang,3-4-3,4-3-3,Chris Kavanagh,Match Report,,2019-2020,Arsenal
+2020-07-26,16:00,Premier League,Matchweek 38,Sun,Home,W,3,2,Watford,2.3,3.7,50,,Pierre-Emerick Aubameyang,4-2-3-1,4-2-2-2,Mike Dean,Match Report,,2019-2020,Arsenal
+2020-08-01,17:30,FA Cup,Final,Sat,Neutral,W,2,1,Chelsea,,,40,,Pierre-Emerick Aubameyang,3-4-3,3-4-3,Anthony Taylor,Match Report,,2019-2020,Arsenal

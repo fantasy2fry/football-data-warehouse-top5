@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-07-30,20:45,Ligue 2,Matchweek 1,Mon,Home,L,0,1,Metz,56.0,8824,Gaëtan Belaud,4-4-2,4-3-3,Eric Wattellier,Match Report,,2018-2019,Brest
+2018-08-03,20:00,Ligue 2,Matchweek 2,Fri,Away,W,2,1,Troyes,45.0,6118,Gaëtan Belaud,4-4-2◆,4-2-3-1,Antony Gautier,Match Report,,2018-2019,Brest
+2018-08-10,20:00,Ligue 2,Matchweek 3,Fri,Home,D,1,1,Paris FC,53.0,7876,Gaëtan Belaud,4-4-2,4-3-3,Jeremy Stinat,Match Report,,2018-2019,Brest
+2018-08-14,20:00,Coupe de la Ligue,First round,Tue,Away,D,1 (4),1 (3),Sochaux,,5887,Mathias Autret,4-3-3,4-3-3,Romain Delpech,Match Report,Brest won on penalty kicks following extra time,2018-2019,Brest
+2018-08-17,20:00,Ligue 2,Matchweek 4,Fri,Away,L,0,2,Sochaux,50.0,6583,Gaëtan Belaud,4-1-4-1,4-3-3,Yohann Rouinsard,Match Report,,2018-2019,Brest
+2018-08-24,20:00,Ligue 2,Matchweek 5,Fri,Home,W,1,0,Le Havre,57.0,7056,Gaëtan Belaud,4-1-4-1,4-2-3-1,Aurélien Petit,Match Report,,2018-2019,Brest
+2018-08-28,20:00,Coupe de la Ligue,Second round,Tue,Away,D,3 (5),3 (6),Le Havre,,3663,Gaëtan Charbonnier,4-1-4-1,4-3-3,Sylvain Palhies,Match Report,Le Havre won on penalty kicks following extra time,2018-2019,Brest
+2018-08-31,20:00,Ligue 2,Matchweek 6,Fri,Away,W,2,0,Auxerre,48.0,5595,Gaëtan Belaud,4-1-4-1,3-3-3-1,Benjamin Lepaysant,Match Report,,2018-2019,Brest
+2018-09-14,20:00,Ligue 2,Matchweek 7,Fri,Home,W,4,1,Gazélec Ajaccio,53.0,6412,Julien Faussurier,4-2-3-1,4-3-3,Alexandre Perreau Niel,Match Report,,2018-2019,Brest
+2018-09-21,20:00,Ligue 2,Matchweek 8,Fri,Away,W,2,1,Grenoble,54.0,6646,Gaëtan Belaud,4-2-3-1,4-3-3,Stéphanie Frappart,Match Report,,2018-2019,Brest
+2018-09-28,20:00,Ligue 2,Matchweek 9,Fri,Home,W,5,1,Châteauroux,64.0,6469,Gaëtan Belaud,4-2-3-1,4-3-3,Aurélien Petit,Match Report,,2018-2019,Brest
+2018-10-05,20:00,Ligue 2,Matchweek 10,Fri,Away,W,3,1,Valenciennes,44.0,7557,Gaëtan Belaud,4-2-3-1,5-4-1,Benjamin Lepaysant,Match Report,,2018-2019,Brest
+2018-10-20,15:00,Ligue 2,Matchweek 11,Sat,Home,W,3,2,Lorient,48.0,13033,Gaëtan Belaud,4-2-3-1,4-4-2,Alain Bieri,Match Report,,2018-2019,Brest
+2018-10-29,20:45,Ligue 2,Matchweek 12,Mon,Away,D,2,2,Clermont Foot,39.0,2971,Gaëtan Belaud,4-2-3-1,4-2-3-1,Stéphanie Frappart,Match Report,,2018-2019,Brest
+2018-11-02,20:00,Ligue 2,Matchweek 13,Fri,Home,D,1,1,Red Star,66.0,9144,Gaëtan Belaud,4-2-3-1,4-3-3,Pignard Jérémie,Match Report,,2018-2019,Brest
+2018-11-12,20:45,Ligue 2,Matchweek 14,Mon,Home,W,2,1,Nancy,59.0,7231,Julien Faussurier,4-2-3-1,4-5-1,Johan Hamel,Match Report,,2018-2019,Brest
+2018-11-17,20:00,Coupe de France,Seventh round,Sat,Away,W,4,1,FCA Vilaine,,1828,Gaëtan Belaud,,,Yohann Rouinsard,Match Report,,2018-2019,Brest
+2018-11-23,20:00,Ligue 2,Matchweek 15,Fri,Away,D,0,0,Orléans,52.0,3312,Gaëtan Belaud,4-2-3-1,4-1-4-1,Faouzi Benchabane,Match Report,,2018-2019,Brest
+2018-11-30,20:00,Ligue 2,Matchweek 16,Fri,Home,W,2,0,Ajaccio,53.0,8457,Gaëtan Belaud,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2018-2019,Brest
+2018-12-04,21:00,Ligue 2,Matchweek 17,Tue,Away,L,1,2,Lens,64.0,22124,Gaëtan Belaud,4-1-4-1,4-2-3-1,Benoît Millot,Match Report,,2018-2019,Brest
+2018-12-09,13:45,Coupe de France,Eighth round,Sun,Away,W,3,2,Vannes OC,,1800,Édouard Butin,,,Benjamin Lepaysant,Match Report,,2018-2019,Brest
+2018-12-14,20:00,Ligue 2,Matchweek 18,Fri,Home,W,3,0,Béziers,64.0,8068,Gaëtan Belaud,4-2-3-1,4-1-4-1,Pignard Jérémie,Match Report,,2018-2019,Brest
+2018-12-21,20:30,Ligue 2,Matchweek 19,Fri,Away,D,1,1,Niort,43.0,3446,Gaëtan Belaud,4-1-4-1,4-2-3-1,Yohann Rouinsard,Match Report,,2018-2019,Brest
+2019-01-06,14:15,Coupe de France,Round of 64,Sun,Away,D,2 (4),2 (5),Rennes,35.0,12554,Gaëtan Belaud,4-2-3-1,4-4-2,Antony Gautier,Match Report,Rennes won on penalty kicks following extra time,2018-2019,Brest
+2019-01-12,15:00,Ligue 2,Matchweek 20,Sat,Home,D,1,1,Troyes,47.0,7818,Gaëtan Belaud,4-2-3-1,4-4-2,Faouzi Benchabane,Match Report,,2018-2019,Brest
+2019-01-21,20:45,Ligue 2,Matchweek 21,Mon,Away,W,1,0,Paris FC,42.0,3695,Gaëtan Belaud,4-4-2,4-2-3-1,Sylvain Palhies,Match Report,,2018-2019,Brest
+2019-01-26,15:00,Ligue 2,Matchweek 22,Sat,Home,W,1,0,Sochaux,55.0,7625,Gaëtan Belaud,4-4-2,4-2-3-1,William Lavis,Match Report,,2018-2019,Brest
+2019-02-01,20:00,Ligue 2,Matchweek 23,Fri,Away,D,1,1,Le Havre,68.0,6079,Gaëtan Belaud,4-2-3-1,4-2-3-1,Mehdi Mokhtari,Match Report,,2018-2019,Brest
+2019-02-11,20:45,Ligue 2,Matchweek 24,Mon,Home,W,1,0,Auxerre,44.0,9714,Mathias Autret,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2018-2019,Brest
+2019-02-15,20:00,Ligue 2,Matchweek 25,Fri,Away,D,1,1,Gazélec Ajaccio,58.0,2372,Mathias Autret,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2018-2019,Brest
+2019-02-22,20:00,Ligue 2,Matchweek 26,Fri,Home,W,3,1,Grenoble,54.0,9011,Gaëtan Belaud,4-2-3-1,4-2-3-1,Yohann Rouinsard,Match Report,,2018-2019,Brest
+2019-03-01,20:00,Ligue 2,Matchweek 27,Fri,Away,D,2,2,Châteauroux,62.0,6435,Mathias Autret,4-2-3-1,3-4-3,Pierre Gaillouste,Match Report,,2018-2019,Brest
+2019-03-08,20:00,Ligue 2,Matchweek 28,Fri,Home,L,2,5,Valenciennes,55.0,9023,Mathias Autret,4-2-3-1,4-2-3-1,Aurélien Petit,Match Report,,2018-2019,Brest
+2019-03-16,15:00,Ligue 2,Matchweek 29,Sat,Away,D,1,1,Lorient,44.0,13648,Mathias Autret,4-2-3-1,4-2-3-1,Ruddy Buquet,Match Report,,2018-2019,Brest
+2019-03-29,20:00,Ligue 2,Matchweek 30,Fri,Home,D,0,0,Clermont Foot,51.0,9172,Gaëtan Belaud,4-3-3,4-2-3-1,Pignard Jérémie,Match Report,,2018-2019,Brest
+2019-04-05,20:00,Ligue 2,Matchweek 31,Fri,Away,W,2,0,Red Star,53.0,2438,Gaëtan Belaud,4-2-3-1,4-2-2-2,Arnaud Baert,Match Report,,2018-2019,Brest
+2019-04-12,20:00,Ligue 2,Matchweek 32,Fri,Away,W,3,2,Nancy,45.0,12019,Gaëtan Belaud,4-1-4-1,4-4-1-1,Stéphanie Frappart,Match Report,,2018-2019,Brest
+2019-04-19,20:00,Ligue 2,Matchweek 33,Fri,Home,W,3,1,Orléans,52.0,12014,Gaëtan Belaud,4-2-3-1,4-5-1,Alexandre Perreau Niel,Match Report,,2018-2019,Brest
+2019-04-23,20:00,Ligue 2,Matchweek 34,Tue,Away,W,2,0,Ajaccio,53.0,2326,Gaëtan Belaud,4-3-3,4-2-3-1,Johan Hamel,Match Report,,2018-2019,Brest
+2019-04-27,15:00,Ligue 2,Matchweek 35,Sat,Home,W,2,0,Lens,37.0,12467,Gaëtan Belaud,4-2-3-1,4-4-1-1,Franck Schneider,Match Report,,2018-2019,Brest
+2019-05-03,20:00,Ligue 2,Matchweek 36,Fri,Away,L,0,1,Béziers,54.0,2660,Gaëtan Belaud,4-2-3-1,5-3-2,Aurélien Petit,Match Report,,2018-2019,Brest
+2019-05-10,20:45,Ligue 2,Matchweek 37,Fri,Home,W,3,0,Niort,50.0,14927,Gaëtan Belaud,4-4-2,4-4-2,William Lavis,Match Report,,2018-2019,Brest
+2019-05-17,20:45,Ligue 2,Matchweek 38,Fri,Away,L,0,1,Metz,44.0,20200,Mathias Autret,4-2-3-1,4-3-3,Yohann Rouinsard,Match Report,,2018-2019,Brest

@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-19,19:00,La Liga 2,Matchweek 1,Sun,Away,L,0,1,Mallorca,57.0,9450.0,Oier Sanjurjo,4-2-3-1,4-4-2,Dámaso Arcediano,Match Report,,2018-2019,Osasuna
+2018-08-26,19:30,La Liga 2,Matchweek 2,Sun,Home,D,1,1,Elche,45.0,14064.0,Oier Sanjurjo,4-2-3-1,4-1-4-1,Daniel Ocón,Match Report,,2018-2019,Osasuna
+2018-09-02,21:00,La Liga 2,Matchweek 3,Sun,Away,L,0,2,Granada,52.0,8713.0,Oier Sanjurjo,4-4-2,4-2-3-1,Daniel Trujillo,Match Report,,2018-2019,Osasuna
+2018-09-08,16:00,La Liga 2,Matchweek 4,Sat,Home,W,3,1,Almería,55.0,12765.0,Oier Sanjurjo,4-4-2,4-2-3-1,David Pérez,Match Report,,2018-2019,Osasuna
+2018-09-12,20:00,Copa del Rey,Second round,Wed,Home,L,1,2,Reus,,10987.0,Miguel Flaño,4-4-1-1,4-4-2,César Soto,Match Report,,2018-2019,Osasuna
+2018-09-15,16:00,La Liga 2,Matchweek 5,Sat,Away,L,0,1,Gimnàstic,61.0,4576.0,Oier Sanjurjo,5-3-2,4-2-3-1,Javier Villanueva,Match Report,,2018-2019,Osasuna
+2018-09-22,16:00,La Liga 2,Matchweek 6,Sat,Home,W,1,0,Sporting Gijón,52.0,13354.0,Oier Sanjurjo,4-2-3-1,4-1-4-1,Isidro Díaz de Mera,Match Report,,2018-2019,Osasuna
+2018-09-30,18:00,La Liga 2,Matchweek 7,Sun,Home,D,0,0,Numancia,55.0,14392.0,Oier Sanjurjo,4-4-1-1,4-3-3,Jorge Figueroa,Match Report,,2018-2019,Osasuna
+2018-10-08,21:00,La Liga 2,Matchweek 8,Mon,Away,D,1,1,Zaragoza,42.0,23850.0,Oier Sanjurjo,4-1-4-1,4-4-2,Gorka Sagues,Match Report,,2018-2019,Osasuna
+2018-10-13,16:00,La Liga 2,Matchweek 9,Sat,Home,W,3,1,Córdoba,66.0,12996.0,Oier Sanjurjo,4-2-3-1,4-1-4-1,Víctor Areces,Match Report,,2018-2019,Osasuna
+2018-10-20,16:00,La Liga 2,Matchweek 10,Sat,Away,L,1,2,Oviedo,42.0,12325.0,Oier Sanjurjo,4-2-3-1,3-4-3,Iñaki Bikandi,Match Report,,2018-2019,Osasuna
+2018-10-28,18:00,La Liga 2,Matchweek 11,Sun,Away,D,1,1,Majadahonda,51.0,2482.0,Oier Sanjurjo,4-2-3-1,5-3-2,Luis Milla,Match Report,,2018-2019,Osasuna
+2018-11-03,18:00,La Liga 2,Matchweek 12,Sat,Home,W,2,1,Málaga,68.0,14052.0,Roberto Torres,4-4-2,4-4-2,Oliver De La Fuente,Match Report,,2018-2019,Osasuna
+2018-11-10,18:00,La Liga 2,Matchweek 13,Sat,Away,W,3,2,Extremadura,58.0,8237.0,Oier Sanjurjo,4-3-3,4-2-3-1,Dámaso Arcediano,Match Report,,2018-2019,Osasuna
+2018-11-17,18:00,La Liga 2,Matchweek 14,Sat,Home,W,2,0,Tenerife,49.0,14182.0,Oier Sanjurjo,4-2-3-1,4-4-2,José López,Match Report,,2018-2019,Osasuna
+2018-11-24,18:00,La Liga 2,Matchweek 15,Sat,Away,L,0,2,La Coruña,55.0,13511.0,Oier Sanjurjo,4-2-3-1,4-4-2,Aitor Gorostegui,Match Report,,2018-2019,Osasuna
+2018-12-02,16:00,La Liga 2,Matchweek 16,Sun,Home,W,1,0,Lugo,58.0,13301.0,Oier Sanjurjo,4-2-3-1,4-4-2,Santiago Varón,Match Report,,2018-2019,Osasuna
+2018-12-08,18:00,La Liga 2,Matchweek 17,Sat,Away,D,2,2,Albacete,53.0,9602.0,Oier Sanjurjo,4-4-2,4-2-3-1,Jorge Figueroa,Match Report,,2018-2019,Osasuna
+2018-12-16,16:00,La Liga 2,Matchweek 18,Sun,Home,W,2,1,Alcorcón,57.0,13437.0,Oier Sanjurjo,4-2-3-1,4-3-3,Víctor Areces,Match Report,,2018-2019,Osasuna
+2018-12-23,12:00,La Liga 2,Matchweek 19,Sun,Away,W,1,0,Reus,47.0,3516.0,Oier Sanjurjo,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2018-2019,Osasuna
+2019-01-06,18:00,La Liga 2,Matchweek 20,Sun,Home,W,2,1,Cádiz,52.0,14940.0,Oier Sanjurjo,4-2-3-1,4-2-3-1,Álvaro Moreno,Match Report,,2018-2019,Osasuna
+2019-01-12,17:00,La Liga 2,Matchweek 21,Sat,Away,L,1,4,Las Palmas,64.0,11005.0,Oier Sanjurjo,4-2-3-1,4-1-4-1,Oliver De La Fuente,Match Report,,2018-2019,Osasuna
+2019-01-20,12:00,La Liga 2,Matchweek 22,Sun,Home,W,2,0,Mallorca,47.0,14278.0,Oier Sanjurjo,4-2-3-1,4-4-2,Gorka Sagues,Match Report,,2018-2019,Osasuna
+2019-01-26,16:00,La Liga 2,Matchweek 23,Sat,Away,W,1,0,Almería,40.0,7015.0,Oier Sanjurjo,4-4-2,4-2-3-1,Valentín Pizarro,Match Report,,2018-2019,Osasuna
+2019-02-03,18:00,La Liga 2,Matchweek 24,Sun,Home,W,1,0,Granada,52.0,15083.0,Oier Sanjurjo,4-4-2,4-2-3-1,Daniel Trujillo,Match Report,,2018-2019,Osasuna
+2019-02-08,21:00,La Liga 2,Matchweek 25,Fri,Away,W,2,0,Sporting Gijón,49.0,17806.0,Oier Sanjurjo,4-4-2,4-2-3-1,Saúl Ais,Match Report,,2018-2019,Osasuna
+2019-02-17,16:00,La Liga 2,Matchweek 26,Sun,Away,D,1,1,Numancia,50.0,6024.0,Oier Sanjurjo,4-2-3-1,4-1-4-1,Jorge Figueroa,Match Report,,2018-2019,Osasuna
+2019-02-23,20:30,La Liga 2,Matchweek 27,Sat,Home,W,1,0,Zaragoza,50.0,16750.0,Oier Sanjurjo,4-2-3-1,4-4-2,Rubén Ávalos,Match Report,,2018-2019,Osasuna
+2019-03-02,18:00,La Liga 2,Matchweek 28,Sat,Home,W,1,0,Gimnàstic,55.0,15389.0,Oier Sanjurjo,4-2-3-1,4-4-2,José López,Match Report,,2018-2019,Osasuna
+2019-03-11,21:00,La Liga 2,Matchweek 29,Mon,Away,W,2,1,Málaga,46.0,22178.0,Oier Sanjurjo,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,2018-2019,Osasuna
+2019-03-17,18:00,La Liga 2,Matchweek 30,Sun,Home,W,3,0,Majadahonda,38.0,16048.0,Oier Sanjurjo,4-4-2,4-3-3,Santiago Varón,Match Report,,2018-2019,Osasuna
+2019-03-22,20:00,La Liga 2,Matchweek 31,Fri,Away,L,2,3,Tenerife,47.0,9268.0,Roberto Torres,4-4-2,4-2-3-1,Javier Villanueva,Match Report,,2018-2019,Osasuna
+2019-03-31,16:00,La Liga 2,Matchweek 32,Sun,Home,W,1,0,Extremadura,57.0,16032.0,Oier Sanjurjo,4-4-2,4-2-3-1,Abraham Domínguez,Match Report,,2018-2019,Osasuna
+2019-04-07,16:00,La Liga 2,Matchweek 33,Sun,Away,D,2,2,Lugo,60.0,3572.0,Oier Sanjurjo,4-4-2,4-4-2,Dámaso Arcediano,Match Report,,2018-2019,Osasuna
+2019-04-13,18:00,La Liga 2,Matchweek 34,Sat,Home,W,2,1,La Coruña,41.0,16383.0,Oier Sanjurjo,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2018-2019,Osasuna
+2019-04-22,21:00,La Liga 2,Matchweek 35,Mon,Away,W,2,1,Elche,50.0,10741.0,Oier Sanjurjo,4-2-3-1,4-4-1-1,Daniel Trujillo,Match Report,,2018-2019,Osasuna
+2019-04-27,18:00,La Liga 2,Matchweek 36,Sat,Home,W,2,0,Albacete,55.0,16819.0,Roberto Torres,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2018-2019,Osasuna
+2019-05-04,16:00,La Liga 2,Matchweek 37,Sat,Away,D,0,0,Alcorcón,38.0,3210.0,Roberto Torres,4-4-2,4-4-2,José López,Match Report,,2018-2019,Osasuna
+2019-05-12,,La Liga 2,Matchweek 38,Sun,Home,W,1,0,Reus,,,,,,,Match Report,Match awarded to Osasuna,2018-2019,Osasuna
+2019-05-19,18:00,La Liga 2,Matchweek 39,Sun,Away,D,0,0,Cádiz,55.0,15882.0,Oier Sanjurjo,4-2-3-1,4-2-3-1,Dámaso Arcediano,Match Report,,2018-2019,Osasuna
+2019-05-25,18:00,La Liga 2,Matchweek 40,Sat,Home,W,2,0,Las Palmas,45.0,16758.0,Oier Sanjurjo,4-4-2,4-4-1-1,Abraham Domínguez,Match Report,,2018-2019,Osasuna
+2019-05-31,21:00,La Liga 2,Matchweek 41,Fri,Away,W,3,2,Córdoba,41.0,2313.0,Xisco,4-4-2,4-2-3-1,Víctor Areces,Match Report,,2018-2019,Osasuna
+2019-06-08,20:30,La Liga 2,Matchweek 42,Sat,Home,W,1,0,Oviedo,53.0,14866.0,Oier Sanjurjo,4-4-2,4-4-2,Oliver De La Fuente,Match Report,,2018-2019,Osasuna

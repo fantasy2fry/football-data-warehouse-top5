@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,21:00,La Liga 2,Matchweek 1,Sun,Home,D,1,1,Valladolid,49,7100,Maikel Mesa,4-1-4-1,3-4-1-2,Dámaso Arcediano,Match Report,,2021-2022,Las Palmas
+2021-08-22,19:30,La Liga 2,Matchweek 2,Sun,Away,D,0,0,Girona,48,2163,Sergio Ruiz,5-3-2,4-3-3,Luis Milla,Match Report,,2021-2022,Las Palmas
+2021-08-27,19:00,La Liga 2,Matchweek 3,Fri,Home,W,2,1,Huesca,36,9840,Jesé,4-1-4-1,4-3-3,Javier Villanueva,Match Report,,2021-2022,Las Palmas
+2021-09-05,18:15,La Liga 2,Matchweek 4,Sun,Away,L,2,4,CD Mirandés,62,2513,Maikel Mesa,4-1-4-1,4-3-3,Rafael Sánchez,Match Report,,2021-2022,Las Palmas
+2021-09-11,17:15,La Liga 2,Matchweek 5,Sat,Home,D,1,1,Ibiza,60,11726,Jonathan Viera,4-2-3-1,4-2-3-1,Víctor García Verdura,Match Report,,2021-2022,Las Palmas
+2021-09-20,21:00,La Liga 2,Matchweek 6,Mon,Away,D,0,0,Burgos,59,5437,Jonathan Viera,4-4-2,4-2-3-1,Iván Caparrós,Match Report,,2021-2022,Las Palmas
+2021-09-25,17:15,La Liga 2,Matchweek 7,Sat,Home,W,2,1,Ponferradina,45,10210,Jonathan Viera,4-4-2,4-4-2,Gorka Sagues,Match Report,,2021-2022,Las Palmas
+2021-10-03,17:15,La Liga 2,Matchweek 8,Sun,Home,W,4,1,Cartagena,58,11873,Jonathan Viera,4-2-3-1,4-2-3-1,Oliver De La Fuente,Match Report,,2021-2022,Las Palmas
+2021-10-09,18:15,La Liga 2,Matchweek 9,Sat,Away,D,1,1,Almería,61,8734,Jonathan Viera,4-2-3-1,4-1-4-1,Saúl Ais,Match Report,,2021-2022,Las Palmas
+2021-10-16,17:15,La Liga 2,Matchweek 10,Sat,Home,W,2,1,Tenerife,57,25887,Jonathan Viera,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,2021-2022,Las Palmas
+2021-10-20,21:00,La Liga 2,Matchweek 11,Wed,Away,L,0,2,Lugo,70,2110,Jonathan Viera,4-4-2,4-1-4-1,Rubén Ávalos,Match Report,,2021-2022,Las Palmas
+2021-10-24,20:00,La Liga 2,Matchweek 12,Sun,Home,W,3,0,Alcorcón,66,8936,Jesé,4-2-3-1,4-1-4-1,Iván Caparrós,Match Report,,2021-2022,Las Palmas
+2021-10-29,21:00,La Liga 2,Matchweek 13,Fri,Away,W,1,0,Real Sociedad B,49,2320,Jesé,4-2-3-1,4-2-3-1,Dámaso Arcediano,Match Report,,2021-2022,Las Palmas
+2021-11-03,20:15,La Liga 2,Matchweek 14,Wed,Home,W,2,1,Fuenlabrada,70,8714,Jesé,4-2-3-1,4-1-4-1,Luis Milla,Match Report,,2021-2022,Las Palmas
+2021-11-06,18:15,La Liga 2,Matchweek 15,Sat,Away,D,1,1,Oviedo,59,9139,Jesé,4-2-3-1,4-4-2,Francisco Hernández,Match Report,,2021-2022,Las Palmas
+2021-11-13,19:30,La Liga 2,Matchweek 16,Sat,Home,L,2,3,Zaragoza,62,13432,Jonathan Viera,4-4-1-1,4-1-4-1,Álvaro Moreno,Match Report,,2021-2022,Las Palmas
+2021-11-20,18:15,La Liga 2,Matchweek 17,Sat,Away,L,1,2,Málaga,55,22128,Jonathan Viera,4-2-3-1,4-2-3-1,Eduardo Prieto,Match Report,,2021-2022,Las Palmas
+2021-11-28,14:00,La Liga 2,Matchweek 18,Sun,Away,L,1,4,Leganés,61,7008,Jonathan Viera,4-1-4-1,4-2-3-1,Rubén Ávalos,Match Report,,2021-2022,Las Palmas
+2021-12-02,16:00,Copa del Rey,First round,Thu,Away,W,3,2,Vélez CF,67,1800,Maikel Mesa,4-3-3,4-3-3,Rafael Sánchez,Match Report,,2021-2022,Las Palmas
+2021-12-05,19:30,La Liga 2,Matchweek 19,Sun,Home,W,1,0,Sporting Gijón,57,11539,Jonathan Viera,4-4-2,4-2-3-1,Dámaso Arcediano,Match Report,,2021-2022,Las Palmas
+2021-12-12,18:15,La Liga 2,Matchweek 20,Sun,Away,D,1,1,Amorebieta,72,1097,Jesé,4-4-2,3-5-2,Álvaro Moreno,Match Report,,2021-2022,Las Palmas
+2021-12-15,20:00,Copa del Rey,Second round,Wed,Away,L,1,3,Valladolid,35,8266,Maikel Mesa,4-1-4-1,4-4-2,Francisco Hernández,Match Report,,2021-2022,Las Palmas
+2021-12-18,17:15,La Liga 2,Matchweek 21,Sat,Home,L,0,1,Eibar,60,10331,Jonathan Viera,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,2021-2022,Las Palmas
+2022-01-02,20:30,La Liga 2,Matchweek 22,Sun,Away,W,1,0,Tenerife,58,10756,Jonathan Viera,4-4-2,4-4-2,Jon González,Match Report,,2021-2022,Las Palmas
+2022-01-09,20:30,La Liga 2,Matchweek 23,Sun,Home,D,1,1,Almería,59,9827,Jonathan Viera,4-4-2,4-2-3-1,David Gálvez,Match Report,,2021-2022,Las Palmas
+2022-01-22,18:15,La Liga 2,Matchweek 24,Sat,Away,L,2,3,Fuenlabrada,68,2554,Jesé,4-4-2,4-4-2,Francisco Hernández,Match Report,,2021-2022,Las Palmas
+2022-01-30,17:15,La Liga 2,Matchweek 25,Sun,Home,D,0,0,Real Sociedad B,66,11030,Jonathan Viera,4-2-3-1,3-4-3,Alejandro Quintero,Match Report,,2021-2022,Las Palmas
+2022-02-06,18:15,La Liga 2,Matchweek 26,Sun,Away,W,2,0,Cartagena,53,9382,Jonathan Viera,4-3-3,4-2-3-1,Oliver De La Fuente,Match Report,,2021-2022,Las Palmas
+2022-02-13,20:00,La Liga 2,Matchweek 27,Sun,Home,L,0,2,Burgos,68,9803,Jonathan Viera,4-2-3-1,3-5-2,Gorka Sagues,Match Report,,2021-2022,Las Palmas
+2022-02-19,16:00,La Liga 2,Matchweek 28,Sat,Away,L,1,2,Zaragoza,66,14989,Jonathan Viera,4-3-3,4-3-3,Iván Caparrós,Match Report,,2021-2022,Las Palmas
+2022-02-26,20:00,La Liga 2,Matchweek 29,Sat,Home,D,2,2,Lugo,62,6675,Jonathan Viera,4-3-3,4-1-3-2,Alejandro Quintero,Match Report,,2021-2022,Las Palmas
+2022-03-05,16:00,La Liga 2,Matchweek 30,Sat,Away,D,0,0,Huesca,68,6084,Jonathan Viera,4-1-4-1,3-4-3,Aitor Gorostegui,Match Report,,2021-2022,Las Palmas
+2022-03-12,17:15,La Liga 2,Matchweek 31,Sat,Home,L,1,3,Girona,40,12591,Jonathan Viera,4-1-4-1,3-4-3,Dámaso Arcediano,Match Report,,2021-2022,Las Palmas
+2022-03-19,18:15,La Liga 2,Matchweek 32,Sat,Away,W,1,0,Valladolid,53,15252,Jonathan Viera,4-3-3,4-4-2,Luis Milla,Match Report,,2021-2022,Las Palmas
+2022-03-28,20:00,La Liga 2,Matchweek 33,Mon,Home,W,4,2,Leganés,65,6961,Jonathan Viera,4-1-4-1,4-4-2,Javier Villanueva,Match Report,,2021-2022,Las Palmas
+2022-04-03,16:00,La Liga 2,Matchweek 34,Sun,Away,W,2,1,Ponferradina,78,5745,Jonathan Viera,4-3-3,4-4-2,Aitor Gorostegui,Match Report,,2021-2022,Las Palmas
+2022-04-09,20:00,La Liga 2,Matchweek 35,Sat,Home,W,1,0,Amorebieta,64,12825,Jonathan Viera,4-2-3-1,5-4-1,Víctor García Verdura,Match Report,,2021-2022,Las Palmas
+2022-04-15,18:30,La Liga 2,Matchweek 36,Fri,Away,D,2,2,Eibar,57,4110,Jonathan Viera,4-2-3-1,4-2-3-1,José López,Match Report,,2021-2022,Las Palmas
+2022-04-24,16:15,La Liga 2,Matchweek 37,Sun,Away,D,1,1,Ibiza,59,4328,Jonathan Viera,4-1-4-1,4-2-3-1,Gorka Sagues,Match Report,,2021-2022,Las Palmas
+2022-04-29,21:00,La Liga 2,Matchweek 38,Fri,Home,W,2,1,Málaga,47,10644,Jonathan Viera,4-1-4-1,5-4-1,Oliver De La Fuente,Match Report,,2021-2022,Las Palmas
+2022-05-06,20:00,La Liga 2,Matchweek 39,Fri,Home,W,1,0,CD Mirandés,62,11299,Jonathan Viera,4-5-1,4-2-3-1,Alejandro Quintero,Match Report,,2021-2022,Las Palmas
+2022-05-15,14:00,La Liga 2,Matchweek 40,Sun,Away,W,2,0,Alcorcón,55,1557,Jonathan Viera,4-1-4-1,4-4-2,Iosu Galech,Match Report,,2021-2022,Las Palmas
+2022-05-21,21:00,La Liga 2,Matchweek 41,Sat,Home,W,2,1,Oviedo,67,30063,Jonathan Viera,4-3-3,4-4-2,Saúl Ais,Match Report,,2021-2022,Las Palmas
+2022-05-29,20:00,La Liga 2,Matchweek 42,Sun,Away,W,1,0,Sporting Gijón,68,12346,Jonathan Viera,4-1-4-1,4-2-3-1,Eduardo Prieto,Match Report,,2021-2022,Las Palmas
+2022-06-01,20:00,La Liga 2,Semi-finals,Wed,Away,L,0,1,Tenerife,72,19732,Jonathan Viera,4-4-2,4-4-2,Javier Villanueva,Match Report,Leg 1 of 2,2021-2022,Las Palmas
+2022-06-04,20:00,La Liga 2,Semi-finals,Sat,Home,L,1,2,Tenerife,76,31502,Jonathan Viera,4-3-3,4-4-2,Jon González,Match Report,Leg 2 of 2; Tenerife won,2021-2022,Las Palmas

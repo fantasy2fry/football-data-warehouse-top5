@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-07-29,13:00,2. Bundesliga,Matchweek 1,Sat,Away,W,2,1,Kaiserslautern,50,44079,Jackson Irvine,3-4-3,3-4-3,Robert Schröder,Match Report,,2023-2024,St. Pauli
+2023-08-05,13:00,2. Bundesliga,Matchweek 2,Sat,Home,D,0,0,Düsseldorf,54,29546,Jackson Irvine,3-4-3,4-2-3-1,Daniel Schlager,Match Report,,2023-2024,St. Pauli
+2023-08-12,15:30,DFB-Pokal,Round of 64,Sat,Away,W,5,0,SV Atlas,69,4999,Jackson Irvine,4-3-3,4-2-3-1,Patrick Schwengers,Match Report,,2023-2024,St. Pauli
+2023-08-19,13:00,2. Bundesliga,Matchweek 3,Sat,Away,D,0,0,Greuther Fürth,58,12207,Jackson Irvine,3-4-3,3-4-1-2,Tom Bauer,Match Report,,2023-2024,St. Pauli
+2023-08-27,13:30,2. Bundesliga,Matchweek 4,Sun,Home,D,0,0,Magdeburg,43,29546,Jackson Irvine,3-4-3,3-4-3,Sven Jablonski,Match Report,,2023-2024,St. Pauli
+2023-09-01,18:30,2. Bundesliga,Matchweek 5,Fri,Away,D,1,1,BTSV,63,21290,Jackson Irvine,4-3-3,3-4-3,Florian Lechner,Match Report,,2023-2024,St. Pauli
+2023-09-17,13:30,2. Bundesliga,Matchweek 6,Sun,Home,W,5,1,Holstein Kiel,53,29546,Marcel Hartel,3-4-3,3-5-2,Bastian Dankert,Match Report,,2023-2024,St. Pauli
+2023-09-23,20:30,2. Bundesliga,Matchweek 7,Sat,Home,W,3,1,Schalke 04,52,29546,Marcel Hartel,3-4-3,4-4-2,Frank Willenborg,Match Report,,2023-2024,St. Pauli
+2023-09-30,20:30,2. Bundesliga,Matchweek 8,Sat,Away,W,2,1,Hertha BSC,52,66113,Marcel Hartel,3-4-3,4-2-3-1,Deniz Aytekin,Match Report,,2023-2024,St. Pauli
+2023-10-07,20:30,2. Bundesliga,Matchweek 9,Sat,Home,W,5,1,Nürnberg,67,29546,Jackson Irvine,3-4-3,4-3-3,Matthias Jöllenbeck,Match Report,,2023-2024,St. Pauli
+2023-10-21,13:00,2. Bundesliga,Matchweek 10,Sat,Away,D,2,2,Paderborn 07,52,15000,Jackson Irvine,3-4-3,3-4-3,Martin Petersen,Match Report,,2023-2024,St. Pauli
+2023-10-28,13:00,2. Bundesliga,Matchweek 11,Sat,Home,W,2,1,Karlsruher,60,29125,Jackson Irvine,3-4-3,4-3-1-2,Max Burda,Match Report,,2023-2024,St. Pauli
+2023-10-31,18:00,DFB-Pokal,Round of 32,Tue,Home,W,2,1,Schalke 04,66,28589,Jackson Irvine,3-4-3,3-4-1-2,Bastian Dankert,Match Report,Required Extra Time,2023-2024,St. Pauli
+2023-11-03,18:30,2. Bundesliga,Matchweek 12,Fri,Away,W,2,0,Elversberg,52,10150,Jackson Irvine,3-4-3,4-4-2,Alexander Sather,Match Report,,2023-2024,St. Pauli
+2023-11-10,18:30,2. Bundesliga,Matchweek 13,Fri,Home,D,0,0,Hannover 96,56,29546,Marcel Hartel,3-4-3,4-3-1-2,Richard Hempel,Match Report,,2023-2024,St. Pauli
+2023-11-25,13:00,2. Bundesliga,Matchweek 14,Sat,Away,W,3,2,Hansa Rostock,62,27100,Jackson Irvine,3-4-3,4-2-2-2,Robin Braun,Match Report,,2023-2024,St. Pauli
+2023-12-01,18:30,2. Bundesliga,Matchweek 15,Fri,Home,D,2,2,Hamburger SV,60,29153,Jackson Irvine,3-4-3,4-4-2,Felix Zwayer,Match Report,,2023-2024,St. Pauli
+2023-12-05,20:45,DFB-Pokal,Round of 16,Tue,Away,W,4,1,Homburg,71,12232,Jackson Irvine,3-4-3,5-4-1,Martin Petersen,Match Report,,2023-2024,St. Pauli
+2023-12-09,20:30,2. Bundesliga,Matchweek 16,Sat,Away,D,1,1,Osnabrück,54,15741,Jackson Irvine,3-4-3,5-4-1,Patrick Schwengers,Match Report,,2023-2024,St. Pauli
+2023-12-17,13:30,2. Bundesliga,Matchweek 17,Sun,Home,D,1,1,Wehen,71,29332,Jackson Irvine,3-4-3,3-4-3,Timo Gerach,Match Report,,2023-2024,St. Pauli
+2024-01-20,13:00,2. Bundesliga,Matchweek 18,Sat,Home,W,2,0,Kaiserslautern,57,29546,Marcel Hartel,4-3-3,3-4-3,Tobias Welz,Match Report,,2023-2024,St. Pauli
+2024-01-27,20:30,2. Bundesliga,Matchweek 19,Sat,Away,W,2,1,Düsseldorf,46,52000,Marcel Hartel,3-4-3,4-5-1,Frank Willenborg,Match Report,,2023-2024,St. Pauli
+2024-01-30,20:45,DFB-Pokal,Quarter-finals,Tue,Home,D,2 (3),2 (4),Düsseldorf,57,29564,Marcel Hartel,3-4-3,4-3-3,Sascha Stegemann,Match Report,Düsseldorf won on penalty kicks following extra time,2023-2024,St. Pauli
+2024-02-03,13:00,2. Bundesliga,Matchweek 20,Sat,Home,W,3,2,Greuther Fürth,58,29035,Marcel Hartel,3-4-3,3-4-1-2,Florian Exner,Match Report,,2023-2024,St. Pauli
+2024-02-10,13:00,2. Bundesliga,Matchweek 21,Sat,Away,L,0,1,Magdeburg,51,25187,Marcel Hartel,3-4-3,3-4-3,Max Burda,Match Report,,2023-2024,St. Pauli
+2024-02-18,13:30,2. Bundesliga,Matchweek 22,Sun,Home,W,1,0,BTSV,61,29546,Jackson Irvine,4-1-4-1,3-5-2,Florian Heft,Match Report,,2023-2024,St. Pauli
+2024-02-23,18:30,2. Bundesliga,Matchweek 23,Fri,Away,W,4,3,Holstein Kiel,39,15034,Jackson Irvine,4-5-1,3-4-1-2,Matthias Jöllenbeck,Match Report,,2023-2024,St. Pauli
+2024-03-01,18:30,2. Bundesliga,Matchweek 24,Fri,Away,L,1,3,Schalke 04,57,61497,Jackson Irvine,3-4-3,4-4-2,Daniel Siebert,Match Report,,2023-2024,St. Pauli
+2024-03-10,13:30,2. Bundesliga,Matchweek 25,Sun,Home,W,2,0,Hertha BSC,59,29546,Jackson Irvine,3-4-3,4-2-3-1,Harm Osmers,Match Report,,2023-2024,St. Pauli
+2024-03-16,13:00,2. Bundesliga,Matchweek 26,Sat,Away,W,2,0,Nürnberg,67,45629,Jackson Irvine,3-4-3,4-3-2-1,Frank Willenborg,Match Report,,2023-2024,St. Pauli
+2024-03-31,13:30,2. Bundesliga,Matchweek 27,Sun,Home,W,2,1,Paderborn 07,58,29391,Jackson Irvine,3-4-3,4-2-3-1,Benjamin Brand,Match Report,,2023-2024,St. Pauli
+2024-04-06,20:30,2. Bundesliga,Matchweek 28,Sat,Away,L,1,2,Karlsruher,63,33000,Jackson Irvine,3-4-3,4-4-2,Michael Bacher,Match Report,,2023-2024,St. Pauli
+2024-04-14,13:30,2. Bundesliga,Matchweek 29,Sun,Home,L,3,4,Elversberg,70,29546,Jackson Irvine,3-4-3,4-4-2,Tobias Reichel,Match Report,,2023-2024,St. Pauli
+2024-04-21,13:30,2. Bundesliga,Matchweek 30,Sun,Away,W,2,1,Hannover 96,56,49000,Jackson Irvine,3-4-3,3-4-1-2,Deniz Aytekin,Match Report,,2023-2024,St. Pauli
+2024-04-26,18:30,2. Bundesliga,Matchweek 31,Fri,Home,W,1,0,Hansa Rostock,64,29163,Jackson Irvine,3-4-3,3-4-1-2,Robert Hartmann,Match Report,,2023-2024,St. Pauli
+2024-05-03,18:30,2. Bundesliga,Matchweek 32,Fri,Away,L,0,1,Hamburger SV,54,57000,Jackson Irvine,3-4-3,4-3-3,Matthias Jöllenbeck,Match Report,,2023-2024,St. Pauli
+2024-05-12,13:30,2. Bundesliga,Matchweek 33,Sun,Home,W,3,1,Osnabrück,64,29546,Jackson Irvine,3-4-3,4-2-3-1,Martin Petersen,Match Report,,2023-2024,St. Pauli
+2024-05-19,15:30,2. Bundesliga,Matchweek 34,Sun,Away,W,2,1,Wehen,63,12100,Jackson Irvine,3-4-3,3-4-1-2,Deniz Aytekin,Match Report,,2023-2024,St. Pauli

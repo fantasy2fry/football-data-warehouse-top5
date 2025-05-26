@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,17:30,La Liga,Matchweek 1,Sun,Away,W,2,1,Celta Vigo,1.5,2.3,47,5401.0,Koke,3-1-4-2,4-1-3-2,José Luis Munuera,Match Report,,2021-2022,Atletico Madrid
+2021-08-22,19:30,La Liga,Matchweek 2,Sun,Home,W,1,0,Elche,1.2,0.2,43,24926.0,Koke,3-1-4-2,5-3-2,Ricardo de Burgos,Match Report,,2021-2022,Atletico Madrid
+2021-08-29,22:00,La Liga,Matchweek 3,Sun,Home,D,2,2,Villarreal,1.7,0.3,49,26840.0,Koke,3-1-4-2,4-4-2,César Soto,Match Report,,2021-2022,Atletico Madrid
+2021-09-12,14:00,La Liga,Matchweek 4,Sun,Away,W,2,1,Espanyol,0.8,0.4,58,15321.0,Koke,3-4-3,4-5-1,Juan Martínez,Match Report,,2021-2022,Atletico Madrid
+2021-09-15,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,pt Porto,0.3,1.6,56,40098.0,Koke,3-1-4-2,4-4-2,Ovidiu Hațegan,Match Report,,2021-2022,Atletico Madrid
+2021-09-18,16:15,La Liga,Matchweek 5,Sat,Home,D,0,0,Athletic Club,0.9,1.0,55,38798.0,Jan Oblak,3-1-4-2,4-4-2,Jesús Gil,Match Report,,2021-2022,Atletico Madrid
+2021-09-21,19:30,La Liga,Matchweek 6,Tue,Away,W,2,1,Getafe,1.1,0.3,68,8950.0,Jan Oblak,4-2-3-1,5-3-2,Guillermo Cuadra,Match Report,,2021-2022,Atletico Madrid
+2021-09-25,14:00,La Liga,Matchweek 7,Sat,Away,L,0,1,Alavés,0.7,0.7,70,9836.0,Jan Oblak,3-1-4-2,5-4-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Atletico Madrid
+2021-09-28,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,it Milan,2.1,0.7,64,35374.0,Koke,4-4-2,4-2-3-1,Cüneyt Çakιr,Match Report,,2021-2022,Atletico Madrid
+2021-10-02,21:00,La Liga,Matchweek 8,Sat,Home,W,2,0,Barcelona,1.2,0.7,30,60594.0,Koke,3-1-4-2,4-2-3-1,César Soto,Match Report,,2021-2022,Atletico Madrid
+2021-10-19,21:00,Champions Lg,Group stage,Tue,Home,L,2,3,eng Liverpool,2.2,1.3,32,60725.0,Koke,3-1-4-2,4-3-3,Daniel Siebert,Match Report,,2021-2022,Atletico Madrid
+2021-10-24,21:00,La Liga,Matchweek 10,Sun,Home,D,2,2,Real Sociedad,1.7,0.8,56,50032.0,Koke,4-3-3,3-4-1-2,José Luis Munuera,Match Report,,2021-2022,Atletico Madrid
+2021-10-28,21:30,La Liga,Matchweek 11,Thu,Away,D,2,2,Levante,0.9,1.8,64,16298.0,Koke,3-4-3,5-3-2,Pablo González,Match Report,,2021-2022,Atletico Madrid
+2021-10-31,16:15,La Liga,Matchweek 12,Sun,Home,W,3,0,Betis,2.3,0.5,48,56838.0,Koke,3-4-3,4-2-3-1,Alberola Rojas,Match Report,,2021-2022,Atletico Madrid
+2021-11-03,20:00,Champions Lg,Group stage,Wed,Away,L,0,2,eng Liverpool,0.2,3.0,29,51347.0,Koke,3-4-3,4-3-3,Danny Makkelie,Match Report,,2021-2022,Atletico Madrid
+2021-11-07,16:15,La Liga,Matchweek 13,Sun,Away,D,3,3,Valencia,2.3,1.1,52,37472.0,Koke,3-4-3,4-1-4-1,César Soto,Match Report,,2021-2022,Atletico Madrid
+2021-11-20,18:30,La Liga,Matchweek 14,Sat,Home,W,1,0,Osasuna,1.0,0.5,60,53261.0,Koke,4-1-4-1,5-3-2,José Sánchez,Match Report,,2021-2022,Atletico Madrid
+2021-11-24,21:00,Champions Lg,Group stage,Wed,Home,L,0,1,it Milan,0.9,1.3,43,61019.0,Koke,3-1-4-2,4-2-3-1,Slavko Vinčič,Match Report,,2021-2022,Atletico Madrid
+2021-11-28,18:30,La Liga,Matchweek 15,Sun,Away,W,4,1,Cádiz,3.8,1.0,63,16861.0,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,2021-2022,Atletico Madrid
+2021-12-04,18:30,La Liga,Matchweek 16,Sat,Home,L,1,2,Mallorca,1.5,0.6,58,51009.0,Koke,4-4-2,4-2-3-1,Juan Martínez,Match Report,,2021-2022,Atletico Madrid
+2021-12-07,20:00,Champions Lg,Group stage,Tue,Away,W,3,1,pt Porto,3.7,1.6,33,38830.0,Koke,3-5-2,4-4-2,Clément Turpin,Match Report,,2021-2022,Atletico Madrid
+2021-12-12,21:00,La Liga,Matchweek 17,Sun,Away,L,0,2,Real Madrid,0.7,0.4,39,51024.0,Koke,4-4-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2021-2022,Atletico Madrid
+2021-12-18,21:00,La Liga,Matchweek 18,Sat,Away,L,1,2,Sevilla,1.0,0.5,46,33241.0,Koke,3-1-4-2,4-3-3,Ricardo de Burgos,Match Report,,2021-2022,Atletico Madrid
+2021-12-22,19:00,La Liga,Matchweek 9,Wed,Away,L,1,2,Granada,1.5,0.6,60,13304.0,Koke,3-1-4-2,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Atletico Madrid
+2022-01-02,16:15,La Liga,Matchweek 19,Sun,Home,W,2,0,Rayo Vallecano,1.7,0.1,50,43029.0,Jan Oblak,4-4-2,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Atletico Madrid
+2022-01-06,21:30,Copa del Rey,Round of 32,Thu,Away,W,5,0,Majadahonda,,,56,17769.0,Jan Oblak,4-4-2,4-4-2,Santiago Jaime,Match Report,,2021-2022,Atletico Madrid
+2022-01-09,21:00,La Liga,Matchweek 20,Sun,Away,D,2,2,Villarreal,0.7,2.1,41,14127.0,Jan Oblak,4-4-2,4-4-2,Alberola Rojas,Match Report,,2021-2022,Atletico Madrid
+2022-01-13,22:00,Supercopa de España,Semi-finals,Thu,Home,L,1,2,Athletic Club,,,56,,Koke,3-1-4-2,4-4-2,Guillermo Cuadra,Match Report,,2021-2022,Atletico Madrid
+2022-01-19,21:00,Copa del Rey,Round of 16,Wed,Away,L,0,2,Real Sociedad,,,54,28111.0,Koke,4-5-1,4-4-2,Alberola Rojas,Match Report,,2021-2022,Atletico Madrid
+2022-01-22,21:00,La Liga,Matchweek 22,Sat,Home,W,3,2,Valencia,2.5,0.7,64,44999.0,Koke,4-4-2,5-3-2,Isidro Díaz de Mera,Match Report,,2021-2022,Atletico Madrid
+2022-02-06,16:15,La Liga,Matchweek 23,Sun,Away,L,2,4,Barcelona,1.3,1.0,44,74221.0,Koke,4-3-3,4-3-3,Jesús Gil,Match Report,,2021-2022,Atletico Madrid
+2022-02-12,21:00,La Liga,Matchweek 24,Sat,Home,W,4,3,Getafe,2.5,2.1,50,49375.0,Koke,4-4-2,5-3-2,Ricardo de Burgos,Match Report,,2021-2022,Atletico Madrid
+2022-02-16,19:00,La Liga,Matchweek 21,Wed,Home,L,0,1,Levante,1.3,0.6,54,43456.0,Koke,4-4-2,5-3-2,José Luis Munuera,Match Report,,2021-2022,Atletico Madrid
+2022-02-19,16:15,La Liga,Matchweek 25,Sat,Away,W,3,0,Osasuna,1.1,0.6,38,20040.0,Koke,4-4-2,4-1-4-1,Mario Melero,Match Report,,2021-2022,Atletico Madrid
+2022-02-23,21:00,Champions Lg,Round of 16,Wed,Home,D,1,1,eng Manchester Utd,1.3,0.6,38,63273.0,Jan Oblak,3-5-2,4-2-3-1,Ovidiu Hațegan,Match Report,Leg 1 of 2,2021-2022,Atletico Madrid
+2022-02-26,21:00,La Liga,Matchweek 26,Sat,Home,W,2,0,Celta Vigo,0.6,0.8,36,48009.0,Jan Oblak,3-5-2,4-1-3-2,Alejandro Hernández,Match Report,,2021-2022,Atletico Madrid
+2022-03-06,21:00,La Liga,Matchweek 27,Sun,Away,W,3,1,Betis,2.8,1.0,35,44383.0,Jan Oblak,5-3-2,4-2-3-1,Guillermo Cuadra,Match Report,,2021-2022,Atletico Madrid
+2022-03-11,21:00,La Liga,Matchweek 28,Fri,Home,W,2,1,Cádiz,0.3,0.8,45,50573.0,Koke,5-3-2,4-4-2,Pablo González,Match Report,,2021-2022,Atletico Madrid
+2022-03-15,20:00,Champions Lg,Round of 16,Tue,Away,W,1,0,eng Manchester Utd,0.5,1.0,40,73008.0,Koke,3-1-4-2,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Atlético Madrid won,2021-2022,Atletico Madrid
+2022-03-19,21:00,La Liga,Matchweek 29,Sat,Away,W,1,0,Rayo Vallecano,1.4,1.4,46,10349.0,Koke,3-5-2,4-2-3-1,José Luis Munuera,Match Report,,2021-2022,Atletico Madrid
+2022-04-02,21:00,La Liga,Matchweek 30,Sat,Home,W,4,1,Alavés,3.0,0.5,50,51467.0,Jan Oblak,4-4-2,4-3-3,Mario Melero,Match Report,,2021-2022,Atletico Madrid
+2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Away,L,0,1,eng Manchester City,0.0,1.0,30,52018.0,Koke,5-3-2,4-3-3,István Kovács,Match Report,Leg 1 of 2,2021-2022,Atletico Madrid
+2022-04-09,16:15,La Liga,Matchweek 31,Sat,Away,L,0,1,Mallorca,0.5,1.1,67,15437.0,Koke,3-5-2,5-3-2,Juan Martínez,Match Report,,2021-2022,Atletico Madrid
+2022-04-13,21:00,Champions Lg,Quarter-finals,Wed,Home,D,0,0,eng Manchester City,0.8,1.2,41,65675.0,Koke,5-4-1,4-3-3,Daniel Siebert,Match Report,Leg 2 of 2; Manchester City won,2021-2022,Atletico Madrid
+2022-04-17,16:15,La Liga,Matchweek 32,Sun,Home,W,2,1,Espanyol,1.2,0.7,52,54011.0,Koke,3-5-2,3-4-3,Jorge Figueroa,Match Report,,2021-2022,Atletico Madrid
+2022-04-20,19:00,La Liga,Matchweek 33,Wed,Home,D,0,0,Granada,1.1,0.2,64,43517.0,Koke,3-5-2,4-2-3-1,Jesús Gil,Match Report,,2021-2022,Atletico Madrid
+2022-04-30,21:00,La Liga,Matchweek 34,Sat,Away,L,0,2,Athletic Club,0.7,1.3,57,43398.0,Jan Oblak,5-4-1,4-4-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Atletico Madrid
+2022-05-08,21:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Real Madrid,2.3,1.1,42,63874.0,Koke,4-4-2,4-3-3,César Soto,Match Report,,2021-2022,Atletico Madrid
+2022-05-11,21:30,La Liga,Matchweek 36,Wed,Away,W,2,0,Elche,1.9,0.2,44,21266.0,Koke,3-5-2,4-2-3-1,Pablo González,Match Report,,2021-2022,Atletico Madrid
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,D,1,1,Sevilla,1.2,0.7,41,58138.0,Koke,3-1-4-2,4-3-3,José Sánchez,Match Report,,2021-2022,Atletico Madrid
+2022-05-22,22:00,La Liga,Matchweek 38,Sun,Away,W,2,1,Real Sociedad,0.7,2.5,38,23586.0,Koke,3-1-4-2,4-3-1-2,Jesús Gil,Match Report,,2021-2022,Atletico Madrid

@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-16,13:00,2. Bundesliga,Matchweek 1,Sat,Home,W,3,2,Nürnberg,51,28582,Leart Paqarada,4-4-2◆,4-4-2,Florian Heft,Match Report,,2022-2023,St. Pauli
+2022-07-23,20:30,2. Bundesliga,Matchweek 2,Sat,Away,D,2,2,Hannover 96,53,33600,Leart Paqarada,4-4-2◆,4-4-2,Felix Zwayer,Match Report,,2022-2023,St. Pauli
+2022-07-30,13:00,DFB-Pokal,Round of 64,Sat,Away,W,4,3,SV Straelen,72,5874,Leart Paqarada,4-3-1-2,4-2-3-1,Tom Bauer,Match Report,,2022-2023,St. Pauli
+2022-08-07,13:30,2. Bundesliga,Matchweek 3,Sun,Away,L,1,2,Kaiserslautern,63,39579,Jackson Irvine,4-3-1-2,4-2-3-1,Harm Osmers,Match Report,,2022-2023,St. Pauli
+2022-08-14,13:30,2. Bundesliga,Matchweek 4,Sun,Home,W,3,0,Magdeburg,37,29164,Jackson Irvine,4-4-2◆,4-3-3,Florian Badstübner,Match Report,,2022-2023,St. Pauli
+2022-08-21,13:30,2. Bundesliga,Matchweek 5,Sun,Away,L,0,2,Hansa Rostock,63,26000,Leart Paqarada,4-4-2,3-1-4-2,Christian Dingert,Match Report,,2022-2023,St. Pauli
+2022-08-27,13:00,2. Bundesliga,Matchweek 6,Sat,Home,D,2,2,Paderborn 07,59,29269,Leart Paqarada,4-4-2,5-3-2,Deniz Aytekin,Match Report,,2022-2023,St. Pauli
+2022-09-03,13:00,2. Bundesliga,Matchweek 7,Sat,Away,D,2,2,Greuther Fürth,63,10553,Jackson Irvine,4-4-2◆,4-2-3-1,Martin Petersen,Match Report,,2022-2023,St. Pauli
+2022-09-11,13:30,2. Bundesliga,Matchweek 8,Sun,Home,D,1,1,Sandhausen,69,29546,Jackson Irvine,4-4-2◆,4-4-2,Michael Bacher,Match Report,,2022-2023,St. Pauli
+2022-09-18,13:30,2. Bundesliga,Matchweek 9,Sun,Away,L,0,2,Jahn R'burg,69,12124,Leart Paqarada,4-4-2,4-2-3-1,Nicolas Winter,Match Report,,2022-2023,St. Pauli
+2022-10-01,20:30,2. Bundesliga,Matchweek 10,Sat,Home,D,0,0,Heidenheim,57,29242,Eric Smith,4-4-2,4-1-4-1,Sven Waschitzki,Match Report,,2022-2023,St. Pauli
+2022-10-08,13:00,2. Bundesliga,Matchweek 11,Sat,Away,L,1,2,BTSV,63,15000,Jackson Irvine,4-4-2◆,3-4-1-2,Sascha Stegemann,Match Report,,2022-2023,St. Pauli
+2022-10-14,18:30,2. Bundesliga,Matchweek 12,Fri,Home,W,3,0,Hamburger SV,41,29205,Jackson Irvine,3-4-3,4-3-3,Deniz Aytekin,Match Report,,2022-2023,St. Pauli
+2022-10-19,18:00,DFB-Pokal,Round of 32,Wed,Away,L,1,2,Freiburg,34,33000,Jackson Irvine,5-3-2,4-2-3-1,Felix Brych,Match Report,Required Extra Time,2022-2023,St. Pauli
+2022-10-22,20:30,2. Bundesliga,Matchweek 13,Sat,Away,L,0,2,Arminia,58,22626,Leart Paqarada,3-5-2,4-2-3-1,Benjamin Cortus,Match Report,,2022-2023,St. Pauli
+2022-10-29,20:30,2. Bundesliga,Matchweek 14,Sat,Home,D,1,1,Darmstadt 98,56,29546,Leart Paqarada,3-5-2,3-4-1-2,Bastian Dankert,Match Report,,2022-2023,St. Pauli
+2022-11-05,13:00,2. Bundesliga,Matchweek 15,Sat,Away,L,0,1,Düsseldorf,60,34000,Jackson Irvine,3-5-2,3-1-4-2,Frank Willenborg,Match Report,,2022-2023,St. Pauli
+2022-11-08,18:30,2. Bundesliga,Matchweek 16,Tue,Home,D,0,0,Holstein Kiel,48,29546,Jackson Irvine,3-5-2,3-4-3,Alexander Sather,Match Report,,2022-2023,St. Pauli
+2022-11-12,13:00,2. Bundesliga,Matchweek 17,Sat,Away,D,4,4,Karlsruher,61,21487,Leart Paqarada,3-5-2,4-3-1-2,Florian Lechner,Match Report,,2022-2023,St. Pauli
+2023-01-29,13:30,2. Bundesliga,Matchweek 18,Sun,Away,W,1,0,Nürnberg,55,30871,Jackson Irvine,3-5-2,4-4-2,Alexander Sather,Match Report,,2022-2023,St. Pauli
+2023-02-05,13:30,2. Bundesliga,Matchweek 19,Sun,Home,W,2,0,Hannover 96,53,29546,Jackson Irvine,3-4-3,3-4-1-2,Timo Gerach,Match Report,,2022-2023,St. Pauli
+2023-02-12,13:30,2. Bundesliga,Matchweek 20,Sun,Home,W,1,0,Kaiserslautern,66,29456,Leart Paqarada,3-4-3,4-2-3-1,Martin Petersen,Match Report,,2022-2023,St. Pauli
+2023-02-18,13:00,2. Bundesliga,Matchweek 21,Sat,Away,W,2,1,Magdeburg,50,24287,Leart Paqarada,3-4-3,3-4-3,Patrick Alt,Match Report,,2022-2023,St. Pauli
+2023-02-26,13:30,2. Bundesliga,Matchweek 22,Sun,Home,W,1,0,Hansa Rostock,48,29205,Jackson Irvine,3-4-3,3-4-3,Benjamin Brand,Match Report,,2022-2023,St. Pauli
+2023-03-03,18:30,2. Bundesliga,Matchweek 23,Fri,Away,W,2,1,Paderborn 07,42,15000,Jackson Irvine,3-4-3,3-4-1-2,Aarne Aarnink,Match Report,,2022-2023,St. Pauli
+2023-03-11,13:00,2. Bundesliga,Matchweek 24,Sat,Home,W,2,1,Greuther Fürth,58,29346,Jackson Irvine,3-4-3,3-4-1-2,Felix Zwayer,Match Report,,2022-2023,St. Pauli
+2023-03-19,13:30,2. Bundesliga,Matchweek 25,Sun,Away,W,5,0,Sandhausen,76,7642,Leart Paqarada,3-4-3,4-1-3-2,Deniz Aytekin,Match Report,,2022-2023,St. Pauli
+2023-04-01,13:00,2. Bundesliga,Matchweek 26,Sat,Home,W,1,0,Jahn R'burg,55,29235,Leart Paqarada,3-4-3,4-2-3-1,Bastian Dankert,Match Report,,2022-2023,St. Pauli
+2023-04-08,20:30,2. Bundesliga,Matchweek 27,Sat,Away,W,1,0,Heidenheim,45,15000,Jackson Irvine,3-4-3,4-2-3-1,Christian Dingert,Match Report,,2022-2023,St. Pauli
+2023-04-16,13:30,2. Bundesliga,Matchweek 28,Sun,Home,L,1,2,BTSV,69,29546,Leart Paqarada,3-4-3,4-4-1-1,Robert Hartmann,Match Report,,2022-2023,St. Pauli
+2023-04-21,18:30,2. Bundesliga,Matchweek 29,Fri,Away,L,3,4,Hamburger SV,50,56400,Leart Paqarada,3-4-3,4-3-3,Sven Jablonski,Match Report,,2022-2023,St. Pauli
+2023-04-29,13:00,2. Bundesliga,Matchweek 30,Sat,Home,W,2,1,Arminia,57,29546,Jackson Irvine,3-4-3,3-5-2,Max Burda,Match Report,,2022-2023,St. Pauli
+2023-05-06,20:30,2. Bundesliga,Matchweek 31,Sat,Away,W,3,0,Darmstadt 98,40,17650,Jackson Irvine,3-4-3,3-4-1-2,Tobias Reichel,Match Report,,2022-2023,St. Pauli
+2023-05-13,20:30,2. Bundesliga,Matchweek 32,Sat,Home,D,0,0,Düsseldorf,54,29546,Leart Paqarada,3-4-3,3-4-1-2,Matthias Jöllenbeck,Match Report,,2022-2023,St. Pauli
+2023-05-19,18:30,2. Bundesliga,Matchweek 33,Fri,Away,W,4,3,Holstein Kiel,45,15034,Jackson Irvine,3-4-3,4-2-3-1,Robert Kampka,Match Report,,2022-2023,St. Pauli
+2023-05-28,15:30,2. Bundesliga,Matchweek 34,Sun,Home,D,1,1,Karlsruher,66,29546,Leart Paqarada,3-4-3,4-4-2,Patrick Alt,Match Report,,2022-2023,St. Pauli

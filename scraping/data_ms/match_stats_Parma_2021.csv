@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,18:00,Coppa Italia,First round,Sun,Home,L,1,3,Lecce,,,25,1306,Riccardo Gagliolo,4-3-3,4-3-3,Marco Serra,Match Report,,2021-2022,Parma
+2021-08-20,20:30,Serie B,Matchweek 1,Fri,Away,D,2,2,Frosinone,1.4,2.0,41,5094,Riccardo Gagliolo,3-4-3,4-3-3,Massimiliano Irrati,Match Report,,2021-2022,Parma
+2021-08-29,20:30,Serie B,Matchweek 2,Sun,Home,W,1,0,Benevento,1.2,1.7,54,3550,Gianluigi Buffon,4-3-3,4-2-3-1,Andrea Colombo,Match Report,,2021-2022,Parma
+2021-09-12,20:30,Serie B,Matchweek 3,Sun,Away,W,4,0,Pordenone,1.9,0.8,54,1830,Gianluigi Buffon,4-3-3,4-3-2-1,Lorenzo Maggioni,Match Report,,2021-2022,Parma
+2021-09-19,20:30,Serie B,Matchweek 4,Sun,Home,L,1,2,Cremonese,0.5,2.4,55,5581,Gianluigi Buffon,4-3-3,4-3-3,Manuel Volpi,Match Report,,2021-2022,Parma
+2021-09-22,18:00,Serie B,Matchweek 5,Wed,Away,L,1,3,Ternana,1.0,1.9,58,4611,Roberto Inglese,3-4-3,4-5-1,Marco Serra,Match Report,,2021-2022,Parma
+2021-09-26,16:15,Serie B,Matchweek 6,Sun,Home,D,1,1,Pisa,2.0,1.2,53,7245,Gianluigi Buffon,4-3-3,4-3-2-1,Alessandro Prontera,Match Report,,2021-2022,Parma
+2021-10-02,18:30,Serie B,Matchweek 7,Sat,Away,D,2,2,SPAL,1.4,1.9,45,3720,Gianluigi Buffon,4-3-3,4-2-3-1,Daniele Paterna,Match Report,,2021-2022,Parma
+2021-10-17,16:15,Serie B,Matchweek 8,Sun,Home,D,0,0,Monza,1.3,0.8,49,7555,Gianluigi Buffon,4-3-3,4-3-3,Fabio Maresca,Match Report,,2021-2022,Parma
+2021-10-24,16:15,Serie B,Matchweek 9,Sun,Away,L,1,2,US Reggina,0.6,2.9,59,8693,Gianluigi Buffon,4-3-3,4-4-2,Luca Zufferli,Match Report,,2021-2022,Parma
+2021-10-28,20:30,Serie B,Matchweek 10,Thu,Away,W,2,1,Cittadella,0.5,2.0,47,3161,Gianluigi Buffon,5-3-2,4-3-1-2,Federico Dionisi,Match Report,,2021-2022,Parma
+2021-11-01,18:00,Serie B,Matchweek 11,Mon,Home,W,1,0,Vicenza Virtus,0.8,0.7,46,5116,Gianluigi Buffon,3-5-2,3-4-1-2,Niccolò Baroni,Match Report,,2021-2022,Parma
+2021-11-07,14:00,Serie B,Matchweek 12,Sun,Away,L,0,4,Lecce,0.7,2.5,50,18765,Gianluigi Buffon,3-5-2,4-3-3,Davide Ghersini,Match Report,,2021-2022,Parma
+2021-11-21,14:00,Serie B,Matchweek 13,Sun,Home,D,1,1,Cosenza,0.7,1.3,52,6137,Gianluigi Buffon,3-5-2,3-5-2,Gianpiero Miele,Match Report,,2021-2022,Parma
+2021-11-28,20:30,Serie B,Matchweek 14,Sun,Away,D,1,1,Como,1.7,2.1,52,3191,Gianluigi Buffon,3-5-2,4-4-2,Davide Massa,Match Report,,2021-2022,Parma
+2021-12-01,18:00,Serie B,Matchweek 15,Wed,Home,L,0,1,Brescia,0.9,1.1,46,5138,Gianluigi Buffon,3-1-4-2,4-3-3,Cosso Cosso,Match Report,,2021-2022,Parma
+2021-12-05,14:00,Serie B,Matchweek 16,Sun,Away,D,0,0,Ascoli,1.0,1.1,56,6837,Gianluigi Buffon,4-3-1-2,4-3-1-2,Daniele Minelli,Match Report,,2021-2022,Parma
+2021-12-12,14:00,Serie B,Matchweek 17,Sun,Home,D,1,1,Perugia,1.5,0.5,42,4935,Gianluigi Buffon,3-5-2,3-5-2,Alberto Santoro,Match Report,,2021-2022,Parma
+2021-12-19,14:00,Serie B,Matchweek 18,Sun,Away,W,2,0,Alessandria,2.2,0.9,41,4097,Gianluigi Buffon,3-5-2,3-4-1-2,Gianluca Manganiello,Match Report,,2021-2022,Parma
+2022-01-21,20:30,Serie B,Matchweek 20,Fri,Home,L,0,1,Frosinone,1.1,1.3,46,4056,Gianluigi Buffon,3-5-2,4-3-3,Antonio Di Martino,Match Report,,2021-2022,Parma
+2022-01-30,14:30,Serie B,Matchweek 19,Sun,Home,D,1,1,Crotone,1.2,0.8,42,4934,Gianluigi Buffon,3-4-1-2,3-4-3,Francesco Meraviglia,Match Report,,2021-2022,Parma
+2022-02-05,14:00,Serie B,Matchweek 21,Sat,Away,D,0,0,Benevento,1.2,1.5,45,3135,Gianluigi Buffon,3-4-1-2,4-3-3,Livio Marinelli,Match Report,,2021-2022,Parma
+2022-02-12,14:00,Serie B,Matchweek 22,Sat,Home,W,4,1,Pordenone,2.4,0.6,64,4614,Gianluigi Buffon,3-4-1-2,4-3-1-2,Giacomo Camplone,Match Report,,2021-2022,Parma
+2022-02-15,18:30,Serie B,Matchweek 23,Tue,Away,L,1,3,Cremonese,2.5,1.1,66,4847,Franco Vázquez,3-4-1-2,4-2-3-1,Cosso Cosso,Match Report,,2021-2022,Parma
+2022-02-19,14:00,Serie B,Matchweek 24,Sat,Home,L,2,3,Ternana,3.1,2.4,55,4629,Franco Vázquez,3-4-1-2,4-3-2-1,Daniele Minelli,Match Report,,2021-2022,Parma
+2022-02-22,18:30,Serie B,Matchweek 25,Tue,Away,D,0,0,Pisa,1.3,0.8,52,5560,Franco Vázquez,3-4-1-2,4-3-1-2,Rosario Abisso,Match Report,,2021-2022,Parma
+2022-02-26,14:00,Serie B,Matchweek 26,Sat,Home,W,4,0,SPAL,1.4,1.3,47,5286,Gianluigi Buffon,3-4-1-2,4-3-1-2,Valerio Marini,Match Report,,2021-2022,Parma
+2022-03-02,18:30,Serie B,Matchweek 27,Wed,Away,D,1,1,Monza,0.2,1.5,37,3789,Gianluigi Buffon,3-4-1-2,3-5-2,Paolo Valeri,Match Report,,2021-2022,Parma
+2022-03-05,14:00,Serie B,Matchweek 28,Sat,Home,D,1,1,US Reggina,1.1,0.4,52,6125,Gianluigi Buffon,3-4-1-2,3-5-2,Eugenio Abbattista,Match Report,,2021-2022,Parma
+2022-03-11,20:30,Serie B,Matchweek 29,Fri,Home,D,1,1,Cittadella,2.0,0.9,64,4733,Franco Vázquez,3-4-1-2,4-3-1-2,Matteo Marchetti,Match Report,,2021-2022,Parma
+2022-03-15,18:30,Serie B,Matchweek 30,Tue,Away,W,1,0,Vicenza Virtus,1.3,0.9,50,5859,Dennis Man,3-4-1-2,4-2-3-1,Ivan Pezzuto,Match Report,,2021-2022,Parma
+2022-03-19,14:00,Serie B,Matchweek 31,Sat,Home,D,0,0,Lecce,0.8,1.0,54,7916,Franco Vázquez,3-4-1-2,4-3-3,Antonio Rapuano,Match Report,,2021-2022,Parma
+2022-04-02,14:00,Serie B,Matchweek 32,Sat,Away,W,3,1,Cosenza,0.7,2.3,55,2252,Franco Vázquez,3-4-1-2,3-5-2,Valerio Marini,Match Report,,2021-2022,Parma
+2022-04-06,14:00,Serie B,Matchweek 33,Wed,Home,W,4,3,Como,1.4,2.3,53,5310,Franco Vázquez,3-4-1-2,3-4-3,Francesco Meraviglia,Match Report,,2021-2022,Parma
+2022-04-11,20:30,Serie B,Matchweek 34,Mon,Away,L,0,1,Brescia,0.8,0.7,52,6715,Dennis Man,3-4-1-2,4-1-2-1-2,Davide Ghersini,Match Report,,2021-2022,Parma
+2022-04-18,18:00,Serie B,Matchweek 35,Mon,Home,L,0,1,Ascoli,1.4,0.7,58,7309,Franco Vázquez,3-4-1-2,4-3-1-2,Matteo Marcenaro,Match Report,,2021-2022,Parma
+2022-04-25,20:30,Serie B,Matchweek 36,Mon,Away,L,1,2,Perugia,1.4,3.1,53,4750,Gianluigi Buffon,3-4-1-2,3-4-3,Antonio Di Martino,Match Report,,2021-2022,Parma
+2022-04-30,14:00,Serie B,Matchweek 37,Sat,Home,D,2,2,Alessandria,0.8,0.8,63,6566,Franco Vázquez,3-4-1-2,3-4-3,Daniele Paterna,Match Report,,2021-2022,Parma
+2022-05-06,18:15,Serie B,Matchweek 38,Fri,Away,W,1,0,Crotone,0.7,0.7,41,1362,Franco Vázquez,3-4-1-2,3-4-3,Andrea Colombo,Match Report,,2021-2022,Parma

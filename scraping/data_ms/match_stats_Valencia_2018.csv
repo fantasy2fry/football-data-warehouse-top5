@@ -1,0 +1,62 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-20,20:00,La Liga,Matchweek 1,Mon,Home,D,1,1,Atlético Madrid,1.1,0.9,51,46174,Daniel Parejo,4-4-2,4-4-2,Jesús Gil,Match Report,,2018-2019,Valencia
+2018-08-26,18:15,La Liga,Matchweek 2,Sun,Away,L,0,2,Espanyol,1.9,1.3,51,18714,Daniel Parejo,4-4-2,4-1-4-1,Carlos del Cerro,Match Report,,2018-2019,Valencia
+2018-09-02,12:00,La Liga,Matchweek 3,Sun,Away,D,2,2,Levante,4.1,1.6,54,24073,Daniel Parejo,4-4-2,4-4-2,Javier Estrada,Match Report,,2018-2019,Valencia
+2018-09-15,18:30,La Liga,Matchweek 4,Sat,Home,D,0,0,Betis,1.0,1.0,40,40050,Daniel Parejo,4-4-2,3-4-3,Alejandro Hernández,Match Report,,2018-2019,Valencia
+2018-09-19,21:00,Champions Lg,Group stage,Wed,Home,L,0,2,it Juventus,2.0,3.7,54,46067,Daniel Parejo,4-4-2,4-3-3,Felix Brych,Match Report,,2018-2019,Valencia
+2018-09-23,16:15,La Liga,Matchweek 5,Sun,Away,D,0,0,Villarreal,0.4,0.7,45,18373,Daniel Parejo,4-4-2,4-4-2,Santiago Jaime,Match Report,,2018-2019,Valencia
+2018-09-26,22:00,La Liga,Matchweek 6,Wed,Home,D,1,1,Celta Vigo,1.1,0.4,37,35945,Rodrigo,4-4-2,5-3-2,Ricardo de Burgos,Match Report,,2018-2019,Valencia
+2018-09-29,13:00,La Liga,Matchweek 7,Sat,Away,W,1,0,Real Sociedad,0.9,1.3,46,23577,Daniel Parejo,4-4-2,4-4-2,Jesús Gil,Match Report,,2018-2019,Valencia
+2018-10-02,20:00,Champions Lg,Group stage,Tue,Away,D,0,0,eng Manchester Utd,0.4,0.9,48,73569,Daniel Parejo,4-4-2,4-3-3,Slavko Vinčič,Match Report,,2018-2019,Valencia
+2018-10-07,20:45,La Liga,Matchweek 8,Sun,Home,D,1,1,Barcelona,1.5,0.4,25,46249,Daniel Parejo,4-4-2,4-3-3,José González,Match Report,,2018-2019,Valencia
+2018-10-20,16:15,La Liga,Matchweek 9,Sat,Home,D,1,1,Leganés,1.3,1.0,59,35597,Daniel Parejo,4-4-2,4-1-4-1,Ignacio Iglesias,Match Report,,2018-2019,Valencia
+2018-10-23,18:55,Champions Lg,Group stage,Tue,Away,D,1,1,ch Young Boys,0.9,1.9,55,31120,Daniel Parejo,4-4-2,4-4-2,Aleksandrs Anufrijevs,Match Report,,2018-2019,Valencia
+2018-10-27,16:15,La Liga,Matchweek 10,Sat,Away,D,0,0,Athletic Club,0.5,0.7,48,39261,Daniel Parejo,4-4-2,4-1-4-1,Alberto Undiano,Match Report,,2018-2019,Valencia
+2018-10-30,19:30,Copa del Rey,Round of 32,Tue,Away,W,2,1,Ebro,,,72,9911,Jaume Doménech,4-4-2,5-4-1,Javier Estrada,Match Report,Leg 1 of 2,2018-2019,Valencia
+2018-11-03,18:30,La Liga,Matchweek 11,Sat,Home,L,0,1,Girona,2.3,0.3,54,38745,Rodrigo,4-4-2,3-4-3,Alberola Rojas,Match Report,,2018-2019,Valencia
+2018-11-07,18:55,Champions Lg,Group stage,Wed,Home,W,3,1,ch Young Boys,1.8,1.0,55,36480,Rodrigo,4-4-2,4-4-2,István Kovács,Match Report,,2018-2019,Valencia
+2018-11-10,16:15,La Liga,Matchweek 12,Sat,Away,W,1,0,Getafe,2.2,1.5,62,10011,Daniel Parejo,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2018-2019,Valencia
+2018-11-24,16:15,La Liga,Matchweek 13,Sat,Home,W,3,0,Rayo Vallecano,1.9,0.8,50,37814,Daniel Parejo,4-4-2,4-1-4-1,Pablo González,Match Report,,2018-2019,Valencia
+2018-11-27,21:00,Champions Lg,Group stage,Tue,Away,L,0,1,it Juventus,0.3,1.8,44,39070,Daniel Parejo,4-4-2,4-3-3,William Collum,Match Report,,2018-2019,Valencia
+2018-12-01,20:45,La Liga,Matchweek 14,Sat,Away,L,0,2,Real Madrid,0.8,0.8,40,69653,Daniel Parejo,4-4-2,4-3-3,José González,Match Report,,2018-2019,Valencia
+2018-12-04,19:30,Copa del Rey,Round of 32,Tue,Home,W,1,0,Ebro,,,55,23272,Jaume Doménech,4-4-2,5-4-1,Eduardo Prieto,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2018-12-08,16:15,La Liga,Matchweek 15,Sat,Home,D,1,1,Sevilla,1.2,1.7,54,40057,Daniel Parejo,4-4-2,3-5-2,Javier Estrada,Match Report,,2018-2019,Valencia
+2018-12-12,21:00,Champions Lg,Group stage,Wed,Home,W,2,1,eng Manchester Utd,1.4,1.8,46,36544,Daniel Parejo,4-4-2,4-3-3,Georgi Kabakov,Match Report,,2018-2019,Valencia
+2018-12-15,20:45,La Liga,Matchweek 16,Sat,Away,D,1,1,Eibar,2.1,1.6,44,4491,Daniel Parejo,4-4-2,4-4-2,Adrián Cordero,Match Report,,2018-2019,Valencia
+2018-12-23,12:00,La Liga,Matchweek 17,Sun,Home,W,2,1,Huesca,3.2,2.3,49,36547,Daniel Parejo,4-4-2,4-1-4-1,Jesús Gil,Match Report,,2018-2019,Valencia
+2019-01-05,16:15,La Liga,Matchweek 18,Sat,Away,L,1,2,Alavés,1.1,1.9,55,18304,Daniel Parejo,5-3-2,4-4-2,David Medié,Match Report,,2018-2019,Valencia
+2019-01-08,21:30,Copa del Rey,Round of 16,Tue,Away,L,1,2,Sporting Gijón,,,54,9870,Daniel Parejo,4-4-2,4-3-3,Alberto Undiano,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-01-12,16:15,La Liga,Matchweek 19,Sat,Home,D,1,1,Valladolid,3.5,0.2,63,36912,Daniel Parejo,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Valencia
+2019-01-15,21:30,Copa del Rey,Round of 16,Tue,Home,W,3,0,Sporting Gijón,,,57,33149,Daniel Parejo,4-4-2,5-4-1,Javier Estrada,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-01-19,20:45,La Liga,Matchweek 20,Sat,Away,W,2,1,Celta Vigo,1.2,0.8,44,15668,Daniel Parejo,4-4-2,4-2-3-1,José González,Match Report,,2018-2019,Valencia
+2019-01-22,21:30,Copa del Rey,Quarter-finals,Tue,Away,L,0,1,Getafe,,,59,7021,Daniel Parejo,4-4-2,4-4-2,Jesús Gil,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-01-26,20:45,La Liga,Matchweek 21,Sat,Home,W,3,0,Villarreal,1.5,0.7,45,37685,Daniel Parejo,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2018-2019,Valencia
+2019-01-29,21:30,Copa del Rey,Quarter-finals,Tue,Home,W,3,1,Getafe,,,69,34140,Daniel Parejo,4-4-2,4-4-2,Javier Estrada,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-02-02,18:30,La Liga,Matchweek 22,Sat,Away,D,2,2,Barcelona,3.3,2.0,32,76789,Daniel Parejo,4-4-2,4-3-3,Alberto Undiano,Match Report,,2018-2019,Valencia
+2019-02-07,21:00,Copa del Rey,Semi-finals,Thu,Away,D,2,2,Betis,,,33,57123,Daniel Parejo,4-4-2,3-1-4-2,Carlos del Cerro,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-02-10,16:15,La Liga,Matchweek 23,Sun,Home,D,0,0,Real Sociedad,1.5,0.5,42,38885,Daniel Parejo,4-4-2,4-2-3-1,Mario Melero,Match Report,,2018-2019,Valencia
+2019-02-14,20:00,Europa Lg,Round of 32,Thu,Away,W,2,0,sct Celtic,1.3,0.2,36,57430,Daniel Parejo,4-4-2,4-2-3-1,Ovidiu Hațegan,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-02-17,16:15,La Liga,Matchweek 24,Sun,Home,D,0,0,Espanyol,1.7,0.4,52,39564,Daniel Parejo,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,2018-2019,Valencia
+2019-02-21,18:55,Europa Lg,Round of 32,Thu,Home,W,1,0,sct Celtic,2.0,1.1,55,36619,Daniel Parejo,4-4-2,5-4-1,Deniz Aytekin,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-02-24,12:00,La Liga,Matchweek 25,Sun,Away,D,1,1,Leganés,0.5,1.8,50,11425,José Luis Gayà,4-4-2,3-5-2,Javier Estrada,Match Report,,2018-2019,Valencia
+2019-02-28,21:00,Copa del Rey,Semi-finals,Thu,Home,W,1,0,Betis,,,32,45222,Daniel Parejo,4-4-2,3-4-3,José González,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-03-03,20:45,La Liga,Matchweek 26,Sun,Home,W,2,0,Athletic Club,1.3,0.4,51,39041,Daniel Parejo,4-4-2,4-2-3-1,David Medié,Match Report,,2018-2019,Valencia
+2019-03-07,21:00,Europa Lg,Round of 16,Thu,Home,W,2,1,ru Krasnodar,1.7,1.0,48,36274,Daniel Parejo,4-4-2,4-3-3,Orel Grinfeeld,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-03-10,16:15,La Liga,Matchweek 27,Sun,Away,W,3,2,Girona,1.2,2.3,41,11502,Daniel Parejo,4-4-2,4-3-2-1,Carlos del Cerro,Match Report,,2018-2019,Valencia
+2019-03-14,20:55,Europa Lg,Round of 16,Thu,Away,D,1,1,ru Krasnodar,1.7,0.6,41,35074,José Luis Gayà,4-4-2,4-3-3,Anthony Taylor,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-03-17,18:30,La Liga,Matchweek 28,Sun,Home,D,0,0,Getafe,0.6,0.5,62,41778,Daniel Parejo,4-4-2,4-4-2,José Sánchez,Match Report,,2018-2019,Valencia
+2019-03-31,16:15,La Liga,Matchweek 29,Sun,Away,W,1,0,Sevilla,1.0,0.9,40,38450,Daniel Parejo,4-4-2,4-4-2,José González,Match Report,,2018-2019,Valencia
+2019-04-03,21:30,La Liga,Matchweek 30,Wed,Home,W,2,1,Real Madrid,1.8,0.8,33,44274,Daniel Parejo,4-4-2,4-3-3,Santiago Jaime,Match Report,,2018-2019,Valencia
+2019-04-06,18:30,La Liga,Matchweek 31,Sat,Away,L,0,2,Rayo Vallecano,2.3,1.5,48,11320,Daniel Parejo,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,2018-2019,Valencia
+2019-04-11,21:00,Europa Lg,Quarter-finals,Thu,Away,W,3,1,es Villarreal,1.8,1.8,42,17605,Daniel Parejo,4-4-2,4-2-3-1,Michael Oliver,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-04-14,20:45,La Liga,Matchweek 32,Sun,Home,W,3,1,Levante,2.4,0.3,53,42120,Daniel Parejo,4-4-2,3-1-4-2,Alberto Undiano,Match Report,,2018-2019,Valencia
+2019-04-18,21:00,Europa Lg,Quarter-finals,Thu,Home,W,2,0,es Villarreal,1.1,1.3,39,26403,Daniel Parejo,4-4-2,4-1-4-1,William Collum,Match Report,Leg 2 of 2; Valencia won,2018-2019,Valencia
+2019-04-21,20:45,La Liga,Matchweek 33,Sun,Away,W,2,1,Betis,0.2,2.1,34,42508,Daniel Parejo,4-4-2,4-1-4-1,José Sánchez,Match Report,,2018-2019,Valencia
+2019-04-24,19:30,La Liga,Matchweek 34,Wed,Away,L,2,3,Atlético Madrid,2.1,1.6,44,43531,Daniel Parejo,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Valencia
+2019-04-28,12:00,La Liga,Matchweek 35,Sun,Home,L,0,1,Eibar,0.5,1.3,49,35393,Daniel Parejo,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2018-2019,Valencia
+2019-05-02,20:00,Europa Lg,Semi-finals,Thu,Away,L,1,3,eng Arsenal,2.6,2.3,43,58969,Daniel Parejo,5-3-2,3-4-1-2,Clément Turpin,Match Report,Leg 1 of 2,2018-2019,Valencia
+2019-05-05,20:45,La Liga,Matchweek 36,Sun,Away,W,6,2,Huesca,2.4,3.1,48,6378,Daniel Parejo,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2018-2019,Valencia
+2019-05-09,21:00,Europa Lg,Semi-finals,Thu,Home,L,2,4,eng Arsenal,2.5,0.7,56,44481,Daniel Parejo,4-4-2,3-4-1-2,Danny Makkelie,Match Report,Leg 2 of 2; Arsenal won,2018-2019,Valencia
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,3,1,Alavés,1.9,0.8,43,37744,Daniel Parejo,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2018-2019,Valencia
+2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,W,2,0,Valladolid,1.5,0.8,51,23455,Daniel Parejo,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2018-2019,Valencia
+2019-05-25,21:00,Copa del Rey,Final,Sat,Neutral,W,2,1,Barcelona,,,23,53698,Daniel Parejo,4-4-2,4-1-4-1,Alberto Undiano,Match Report,,2018-2019,Valencia

@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-16,20:45,DFB-Pokal,Round of 64,Fri,Away,W,4,0,Ulm,,,77,15000,Manuel Neuer,4-2-3-1,5-3-2,,Match Report,,2024-2025,Bayern Munich
+2024-08-25,15:30,Bundesliga,Matchweek 1,Sun,Away,W,3,2,Wolfsburg,2.4,1.9,70,30000,Manuel Neuer,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Bayern Munich
+2024-09-01,17:30,Bundesliga,Matchweek 2,Sun,Home,W,2,0,Freiburg,1.5,1.0,66,75000,Manuel Neuer,4-1-4-1,4-2-3-1,Christian Dingert,Match Report,,2024-2025,Bayern Munich
+2024-09-14,18:30,Bundesliga,Matchweek 3,Sat,Away,W,6,1,Holstein Kiel,3.2,0.3,70,15034,Manuel Neuer,4-2-3-1,4-3-3,Tobias Reichel,Match Report,,2024-2025,Bayern Munich
+2024-09-17,21:00,Champions Lg,League phase,Tue,Home,W,9,2,hr Dinamo Zagreb,5.9,0.7,70,75000,Manuel Neuer,4-2-3-1,5-3-2,Juan Martínez,Match Report,,2024-2025,Bayern Munich
+2024-09-21,15:30,Bundesliga,Matchweek 4,Sat,Away,W,5,0,Werder Bremen,3.0,0.0,69,42100,Joshua Kimmich,4-2-3-1,3-5-2,Bastian Dankert,Match Report,,2024-2025,Bayern Munich
+2024-09-28,18:30,Bundesliga,Matchweek 5,Sat,Home,D,1,1,Leverkusen,1.4,0.1,69,75000,Manuel Neuer,4-2-3-1,3-4-3,Felix Zwayer,Match Report,,2024-2025,Bayern Munich
+2024-10-02,20:00,Champions Lg,League phase,Wed,Away,L,0,1,eng Aston Villa,1.5,0.4,70,38991,Manuel Neuer,4-2-3-1,4-2-3-1,Radu Petrescu,Match Report,,2024-2025,Bayern Munich
+2024-10-06,17:30,Bundesliga,Matchweek 6,Sun,Away,D,3,3,Eint Frankfurt,2.2,1.2,74,58000,Manuel Neuer,4-2-3-1,4-4-2,Benjamin Brand,Match Report,,2024-2025,Bayern Munich
+2024-10-19,18:30,Bundesliga,Matchweek 7,Sat,Home,W,4,0,Stuttgart,3.2,0.5,65,75000,Manuel Neuer,4-2-3-1,4-2-3-1,Tobias Stieler,Match Report,,2024-2025,Bayern Munich
+2024-10-23,21:00,Champions Lg,League phase,Wed,Away,L,1,4,es Barcelona,1.0,2.2,60,50312,Manuel Neuer,4-2-3-1,4-2-3-1,Slavko Vinčič,Match Report,,2024-2025,Bayern Munich
+2024-10-27,15:30,Bundesliga,Matchweek 8,Sun,Away,W,5,0,Bochum,2.2,0.6,72,26000,Manuel Neuer,4-2-3-1,3-5-2,Florian Exner,Match Report,,2024-2025,Bayern Munich
+2024-10-30,20:45,DFB-Pokal,Round of 32,Wed,Away,W,4,0,Mainz 05,,,80,33305,Manuel Neuer,4-2-3-1,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Bayern Munich
+2024-11-02,15:30,Bundesliga,Matchweek 9,Sat,Home,W,3,0,Union Berlin,2.5,0.5,77,75000,Manuel Neuer,4-2-3-1,3-4-3,Matthias Jöllenbeck,Match Report,,2024-2025,Bayern Munich
+2024-11-06,21:00,Champions Lg,League phase,Wed,Home,W,1,0,pt Benfica,1.4,0.1,73,75000,Manuel Neuer,4-2-3-1,5-3-2,Davide Massa,Match Report,,2024-2025,Bayern Munich
+2024-11-09,15:30,Bundesliga,Matchweek 10,Sat,Away,W,1,0,St. Pauli,0.8,0.1,75,29546,Manuel Neuer,4-2-3-1,5-4-1,Timo Gerach,Match Report,,2024-2025,Bayern Munich
+2024-11-22,20:30,Bundesliga,Matchweek 11,Fri,Home,W,3,0,Augsburg,3.7,0.1,80,75000,Manuel Neuer,4-2-3-1,3-5-2,Daniel Schlager,Match Report,,2024-2025,Bayern Munich
+2024-11-26,21:00,Champions Lg,League phase,Tue,Home,W,1,0,fr Paris S-G,2.4,0.8,57,75000,Manuel Neuer,4-2-3-1,4-4-2,István Kovács,Match Report,,2024-2025,Bayern Munich
+2024-11-30,18:30,Bundesliga,Matchweek 12,Sat,Away,D,1,1,Dortmund,1.5,0.6,67,81365,Manuel Neuer,4-2-3-1,4-2-3-1,Sven Jablonski,Match Report,,2024-2025,Bayern Munich
+2024-12-03,20:45,DFB-Pokal,Round of 16,Tue,Home,L,0,1,Leverkusen,,,58,75000,Manuel Neuer,4-2-3-1,4-5-1,Harm Osmers,Match Report,,2024-2025,Bayern Munich
+2024-12-07,15:30,Bundesliga,Matchweek 13,Sat,Home,W,4,2,Heidenheim,2.4,1.3,82,75000,Thomas Müller,4-2-3-1,5-3-2,Sören Storks,Match Report,,2024-2025,Bayern Munich
+2024-12-10,22:00,Champions Lg,League phase,Tue,Away,W,5,1,ua Shakhtar,3.6,1.2,66,57079,Thomas Müller,4-2-3-1,4-1-4-1,Halil Umut Meler,Match Report,,2024-2025,Bayern Munich
+2024-12-14,15:30,Bundesliga,Matchweek 14,Sat,Away,L,1,2,Mainz 05,1.4,1.0,68,33305,Thomas Müller,4-2-3-1,3-4-3,Frank Willenborg,Match Report,,2024-2025,Bayern Munich
+2024-12-20,20:30,Bundesliga,Matchweek 15,Fri,Home,W,5,1,RB Leipzig,3.3,0.4,71,75000,Joshua Kimmich,4-2-3-1,5-3-2,Daniel Siebert,Match Report,,2024-2025,Bayern Munich
+2025-01-11,18:30,Bundesliga,Matchweek 16,Sat,Away,W,1,0,Gladbach,4.3,0.4,67,54042,Manuel Neuer,4-2-3-1,4-2-3-1,Felix Zwayer,Match Report,,2024-2025,Bayern Munich
+2025-01-15,20:30,Bundesliga,Matchweek 17,Wed,Home,W,5,0,Hoffenheim,3.4,0.2,65,75000,Manuel Neuer,4-2-3-1,4-2-3-1,Timo Gerach,Match Report,,2024-2025,Bayern Munich
+2025-01-18,15:30,Bundesliga,Matchweek 18,Sat,Home,W,3,2,Wolfsburg,3.0,0.5,71,75000,Manuel Neuer,4-2-3-1,4-1-3-2,Tobias Reichel,Match Report,,2024-2025,Bayern Munich
+2025-01-22,21:00,Champions Lg,League phase,Wed,Away,L,0,3,nl Feyenoord,2.4,1.7,80,43106,Manuel Neuer,4-2-3-1,4-3-3,François Letexier,Match Report,,2024-2025,Bayern Munich
+2025-01-25,15:30,Bundesliga,Matchweek 19,Sat,Away,W,2,1,Freiburg,1.0,0.3,65,34700,Manuel Neuer,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,,2024-2025,Bayern Munich
+2025-01-29,21:00,Champions Lg,League phase,Wed,Home,W,3,1,sk Slovan Bratislava,3.7,0.9,75,75000,Manuel Neuer,4-1-4-1,3-4-3,João Pinheiro,Match Report,,2024-2025,Bayern Munich
+2025-02-01,15:30,Bundesliga,Matchweek 20,Sat,Home,W,4,3,Holstein Kiel,3.4,1.8,71,75000,Manuel Neuer,4-2-3-1,5-4-1,Florian Exner,Match Report,,2024-2025,Bayern Munich
+2025-02-07,20:30,Bundesliga,Matchweek 21,Fri,Home,W,3,0,Werder Bremen,4.1,0.1,75,75000,Manuel Neuer,4-2-3-1,5-3-2,Sören Storks,Match Report,,2024-2025,Bayern Munich
+2025-02-12,20:00,Champions Lg,Knockout phase play-offs,Wed,Away,W,2,1,sct Celtic,0.7,1.3,57,57406,Manuel Neuer,4-2-3-1,4-3-3,Jesús Gil,Match Report,Leg 1 of 2,2024-2025,Bayern Munich
+2025-02-15,18:30,Bundesliga,Matchweek 22,Sat,Away,D,0,0,Leverkusen,0.0,2.0,43,30210,Manuel Neuer,4-2-3-1,4-4-2,Daniel Siebert,Match Report,,2024-2025,Bayern Munich
+2025-02-18,21:00,Champions Lg,Knockout phase play-offs,Tue,Home,D,1,1,sct Celtic,2.3,1.3,67,75000,Manuel Neuer,4-2-3-1,4-3-3,Benoît Bastien,Match Report,Leg 2 of 2; Bayern Munich won,2024-2025,Bayern Munich
+2025-02-23,17:30,Bundesliga,Matchweek 23,Sun,Home,W,4,0,Eint Frankfurt,3.8,0.5,63,75000,Manuel Neuer,4-2-3-1,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Bayern Munich
+2025-02-28,20:30,Bundesliga,Matchweek 24,Fri,Away,W,3,1,Stuttgart,2.2,0.9,47,60000,Manuel Neuer,4-2-3-1,4-2-2-2,Benjamin Brand,Match Report,,2024-2025,Bayern Munich
+2025-03-05,21:00,Champions Lg,Round of 16,Wed,Home,W,3,0,de Leverkusen,2.7,0.4,64,75000,Manuel Neuer,4-2-3-1,4-4-2,Michael Oliver,Match Report,Leg 1 of 2,2024-2025,Bayern Munich
+2025-03-08,15:30,Bundesliga,Matchweek 25,Sat,Home,L,2,3,Bochum,2.4,1.1,73,75000,Thomas Müller,4-2-3-1,5-3-2,Christian Dingert,Match Report,,2024-2025,Bayern Munich
+2025-03-11,21:00,Champions Lg,Round of 16,Tue,Away,W,2,0,de Leverkusen,2.3,1.4,46,30210,Joshua Kimmich,4-2-3-1,4-5-1,Slavko Vinčič,Match Report,Leg 2 of 2; Bayern Munich won,2024-2025,Bayern Munich
+2025-03-15,15:30,Bundesliga,Matchweek 26,Sat,Away,D,1,1,Union Berlin,1.6,0.7,80,22012,Joshua Kimmich,4-2-3-1,5-4-1,Florian Exner,Match Report,,2024-2025,Bayern Munich
+2025-03-29,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3,2,St. Pauli,3.5,1.0,65,75000,Joshua Kimmich,4-2-3-1,3-4-1-2,Florian Badstübner,Match Report,,2024-2025,Bayern Munich
+2025-04-04,20:30,Bundesliga,Matchweek 28,Fri,Away,W,3,1,Augsburg,2.4,0.4,69,30660,Joshua Kimmich,4-2-3-1,3-4-3,Matthias Jöllenbeck,Match Report,,2024-2025,Bayern Munich
+2025-04-08,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1,2,it Inter,2.3,0.8,58,75000,Joshua Kimmich,4-2-3-1,3-5-2,Sandro Schärer,Match Report,Leg 1 of 2,2024-2025,Bayern Munich
+2025-04-12,18:30,Bundesliga,Matchweek 29,Sat,Home,D,2,2,Dortmund,2.3,1.6,62,75000,Thomas Müller,4-2-3-1,3-1-4-2,Tobias Welz,Match Report,,2024-2025,Bayern Munich
+2025-04-16,21:00,Champions Lg,Quarter-finals,Wed,Away,D,2,2,it Inter,1.5,1.4,63,75625,Thomas Müller,4-2-3-1,3-5-2,Slavko Vinčič,Match Report,Leg 2 of 2; Inter won,2024-2025,Bayern Munich
+2025-04-19,15:30,Bundesliga,Matchweek 30,Sat,Away,W,4,0,Heidenheim,3.2,0.6,68,15000,Joshua Kimmich,4-2-3-1,4-3-1-2,Frank Willenborg,Match Report,,2024-2025,Bayern Munich
+2025-04-26,15:30,Bundesliga,Matchweek 31,Sat,Home,W,3,0,Mainz 05,1.1,0.7,59,75000,Joshua Kimmich,4-2-2-2,3-4-3,Bastian Dankert,Match Report,,2024-2025,Bayern Munich
+2025-05-03,15:30,Bundesliga,Matchweek 32,Sat,Away,D,3,3,RB Leipzig,1.6,1.2,62,47800,Thomas Müller,4-4-2,4-4-2,Felix Zwayer,Match Report,,2024-2025,Bayern Munich
+2025-05-10,18:30,Bundesliga,Matchweek 33,Sat,Home,W,2,0,Gladbach,2.5,1.6,62,75000,Manuel Neuer,4-2-3-1,4-1-4-1,Sven Jablonski,Match Report,,2024-2025,Bayern Munich
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Away,W,4,0,Hoffenheim,1.4,0.4,66,30150,Manuel Neuer,4-2-3-1,3-4-3,Daniel Schlager,Match Report,,2024-2025,Bayern Munich

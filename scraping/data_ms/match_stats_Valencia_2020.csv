@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-13,21:00,La Liga,Matchweek 1,Sun,Home,W,4,2,Levante,1.9,2.0,44.0,,José Luis Gayà,4-4-2,4-4-2,José Sánchez,Match Report,,2020-2021,Valencia
+2020-09-19,21:00,La Liga,Matchweek 2,Sat,Away,L,1,2,Celta Vigo,0.5,2.0,49.0,,José Luis Gayà,4-4-2,4-4-2,Jesús Gil,Match Report,,2020-2021,Valencia
+2020-09-26,16:00,La Liga,Matchweek 3,Sat,Home,D,1,1,Huesca,0.6,0.9,48.0,,José Luis Gayà,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,2020-2021,Valencia
+2020-09-29,19:00,La Liga,Matchweek 4,Tue,Away,W,1,0,Real Sociedad,0.9,0.5,35.0,,José Luis Gayà,4-4-2,4-1-4-1,Jorge Figueroa,Match Report,,2020-2021,Valencia
+2020-10-03,21:00,La Liga,Matchweek 5,Sat,Home,L,0,2,Betis,0.5,2.0,47.0,,José Luis Gayà,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,2020-2021,Valencia
+2020-10-18,16:00,La Liga,Matchweek 6,Sun,Away,L,1,2,Villarreal,0.6,1.5,38.0,,José Luis Gayà,4-4-2,4-1-4-1,Carlos del Cerro,Match Report,,2020-2021,Valencia
+2020-10-23,21:00,La Liga,Matchweek 7,Fri,Away,L,1,2,Elche,1.6,0.1,53.0,,José Luis Gayà,4-4-2,3-4-3,César Soto,Match Report,,2020-2021,Valencia
+2020-11-01,21:00,La Liga,Matchweek 8,Sun,Home,D,2,2,Getafe,1.4,2.4,38.0,,José Luis Gayà,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2020-2021,Valencia
+2020-11-08,21:00,La Liga,Matchweek 9,Sun,Home,W,4,1,Real Madrid,2.5,1.3,35.0,,José Luis Gayà,4-4-2,4-2-3-1,Jesús Gil,Match Report,,2020-2021,Valencia
+2020-11-22,21:00,La Liga,Matchweek 10,Sun,Away,D,2,2,Alavés,1.9,1.7,66.0,,José Luis Gayà,4-4-2,3-5-2,Santiago Jaime,Match Report,,2020-2021,Valencia
+2020-11-28,16:15,La Liga,Matchweek 11,Sat,Home,L,0,1,Atlético Madrid,0.2,0.9,34.0,,Jaume Doménech,4-4-2,3-4-3,Ricardo de Burgos,Match Report,,2020-2021,Valencia
+2020-12-07,21:00,La Liga,Matchweek 12,Mon,Away,D,0,0,Eibar,0.5,1.3,37.0,,Jaume Doménech,4-4-2,4-4-2,Javier Estrada,Match Report,,2020-2021,Valencia
+2020-12-12,14:00,La Liga,Matchweek 13,Sat,Home,D,2,2,Athletic Club,1.5,1.9,41.0,,Jaume Doménech,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2020-2021,Valencia
+2020-12-16,19:00,Copa del Rey,First round,Wed,Away,W,4,2,Terrassa,,,,,Denis Cheryshev,4-4-2,4-3-3,Guillermo Cuadra,Match Report,Required Extra Time,2020-2021,Valencia
+2020-12-19,16:15,La Liga,Matchweek 14,Sat,Away,D,2,2,Barcelona,1.6,2.3,28.0,,José Luis Gayà,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,2020-2021,Valencia
+2020-12-22,17:30,La Liga,Matchweek 15,Tue,Home,L,0,1,Sevilla,0.6,1.8,30.0,,José Luis Gayà,3-4-3,4-3-3,Valentín Pizarro,Match Report,,2020-2021,Valencia
+2020-12-30,17:00,La Liga,Matchweek 16,Wed,Away,L,1,2,Granada,1.5,2.2,47.0,,José Luis Gayà,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2020-2021,Valencia
+2021-01-04,21:00,La Liga,Matchweek 17,Mon,Home,D,1,1,Cádiz,0.8,0.8,71.0,,José Luis Gayà,4-4-2,4-4-2,David Medié,Match Report,,2020-2021,Valencia
+2021-01-07,19:00,Copa del Rey,Second round,Thu,Away,W,4,1,Yeclano,,,68.0,,Toni Lato,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,2020-2021,Valencia
+2021-01-10,21:00,La Liga,Matchweek 18,Sun,Away,W,1,0,Valladolid,1.2,0.7,58.0,,José Luis Gayà,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,2020-2021,Valencia
+2021-01-17,18:00,Copa del Rey,Round of 32,Sun,Away,W,2,0,Alcorcón,,,51.0,,Toni Lato,4-4-2,4-1-4-1,Javier Estrada,Match Report,,2020-2021,Valencia
+2021-01-21,19:00,La Liga,Matchweek 19,Thu,Home,D,1,1,Osasuna,0.5,1.6,64.0,,José Luis Gayà,4-2-3-1,4-1-4-1,Alejandro Hernández,Match Report,,2020-2021,Valencia
+2021-01-24,21:00,La Liga,Matchweek 20,Sun,Away,L,1,3,Atlético Madrid,0.3,1.8,51.0,,José Luis Gayà,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,2020-2021,Valencia
+2021-01-27,19:00,Copa del Rey,Round of 16,Wed,Away,L,0,3,Sevilla,,,39.0,,Gabriel Paulista,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,2020-2021,Valencia
+2021-01-30,18:30,La Liga,Matchweek 21,Sat,Home,W,1,0,Elche,2.8,0.4,45.0,,José Luis Gayà,4-4-2,3-4-3,Pablo González,Match Report,,2020-2021,Valencia
+2021-02-07,16:15,La Liga,Matchweek 22,Sun,Away,D,1,1,Athletic Club,0.9,1.2,50.0,,José Luis Gayà,4-4-2,4-4-2,José Luis Munuera,Match Report,,2020-2021,Valencia
+2021-02-14,16:15,La Liga,Matchweek 23,Sun,Away,L,0,2,Real Madrid,0.1,0.8,39.0,,José Luis Gayà,4-4-2,4-3-3,José Sánchez,Match Report,,2020-2021,Valencia
+2021-02-20,18:30,La Liga,Matchweek 24,Sat,Home,W,2,0,Celta Vigo,1.2,0.7,57.0,,José Luis Gayà,4-4-2,4-1-3-2,Valentín Pizarro,Match Report,,2020-2021,Valencia
+2021-02-27,21:00,La Liga,Matchweek 25,Sat,Away,L,0,3,Getafe,0.3,0.9,57.0,,José Luis Gayà,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2020-2021,Valencia
+2021-03-05,21:00,La Liga,Matchweek 26,Fri,Home,W,2,1,Villarreal,1.9,1.9,53.0,,José Luis Gayà,4-4-2,4-4-2,Javier Estrada,Match Report,,2020-2021,Valencia
+2021-03-12,21:00,La Liga,Matchweek 27,Fri,Away,L,0,1,Levante,0.7,0.8,56.0,,Gabriel Paulista,3-4-3,4-4-2,Guillermo Cuadra,Match Report,,2020-2021,Valencia
+2021-03-21,16:15,La Liga,Matchweek 28,Sun,Home,W,2,1,Granada,1.9,1.2,49.0,,José Luis Gayà,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,2020-2021,Valencia
+2021-04-04,18:30,La Liga,Matchweek 29,Sun,Away,L,1,2,Cádiz,1.2,0.6,66.0,,José Luis Gayà,4-4-2,4-4-1-1,David Medié,Match Report,,2020-2021,Valencia
+2021-04-11,16:15,La Liga,Matchweek 30,Sun,Home,D,2,2,Real Sociedad,2.3,1.0,41.0,,José Luis Gayà,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2020-2021,Valencia
+2021-04-18,18:30,La Liga,Matchweek 33,Sun,Away,D,2,2,Betis,1.6,0.7,44.0,,José Luis Gayà,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,2020-2021,Valencia
+2021-04-21,19:00,La Liga,Matchweek 31,Wed,Away,L,1,3,Osasuna,1.1,2.9,55.0,,José Luis Gayà,4-4-2,4-3-3,Mario Melero,Match Report,,2020-2021,Valencia
+2021-04-24,18:30,La Liga,Matchweek 32,Sat,Home,D,1,1,Alavés,1.0,1.0,54.0,,José Luis Gayà,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2020-2021,Valencia
+2021-05-02,21:00,La Liga,Matchweek 34,Sun,Home,L,2,3,Barcelona,1.2,3.0,32.0,,José Luis Gayà,5-3-2,3-1-4-2,José Sánchez,Match Report,,2020-2021,Valencia
+2021-05-09,16:15,La Liga,Matchweek 35,Sun,Home,W,3,0,Valladolid,1.3,1.0,41.0,,José Luis Gayà,3-4-3,4-3-3,Jesús Gil,Match Report,,2020-2021,Valencia
+2021-05-12,19:00,La Liga,Matchweek 36,Wed,Away,L,0,1,Sevilla,0.4,0.9,39.0,,Carlos Soler,5-4-1,4-3-3,Javier Estrada,Match Report,,2020-2021,Valencia
+2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,4,1,Eibar,1.3,2.3,43.0,2689.0,José Luis Gayà,5-4-1,4-4-2,Valentín Pizarro,Match Report,,2020-2021,Valencia
+2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,D,0,0,Huesca,0.5,1.3,46.0,,Carlos Soler,3-4-3,3-5-2,Guillermo Cuadra,Match Report,,2020-2021,Valencia

@@ -1,0 +1,55 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-11,20:00,Super Cup,UEFA Super Cup,Wed,Away,D,1 (5),1 (6),eng Chelsea,,,39,,Raúl Albiol,4-3-3,3-4-3,Sergey Karasev,Match Report,,2021-2022,Villarreal
+2021-08-16,20:00,La Liga,Matchweek 1,Mon,Home,D,0,0,Granada,1.1,0.3,61,7837.0,Raúl Albiol,4-4-2,4-3-3,Pablo González,Match Report,,2021-2022,Villarreal
+2021-08-21,19:30,La Liga,Matchweek 2,Sat,Away,D,0,0,Espanyol,0.6,1.3,59,11095.0,Raúl Albiol,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2021-2022,Villarreal
+2021-08-29,22:00,La Liga,Matchweek 3,Sun,Away,D,2,2,Atlético Madrid,0.3,1.7,51,26840.0,Raúl Albiol,4-4-2,3-1-4-2,César Soto,Match Report,,2021-2022,Villarreal
+2021-09-14,21:00,Champions Lg,Group stage,Tue,Home,D,2,2,it Atalanta,2.3,1.3,48,12916.0,Raúl Albiol,4-4-2,3-4-3,Clément Turpin,Match Report,,2021-2022,Villarreal
+2021-09-19,14:00,La Liga,Matchweek 5,Sun,Away,D,0,0,Mallorca,1.4,0.5,65,9168.0,Raúl Albiol,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Villarreal
+2021-09-22,22:00,La Liga,Matchweek 6,Wed,Home,W,4,1,Elche,3.2,1.2,60,8234.0,Mario Gaspar,4-3-3,3-5-2,Alejandro Muñíz,Match Report,,2021-2022,Villarreal
+2021-09-25,21:00,La Liga,Matchweek 7,Sat,Away,D,0,0,Real Madrid,0.5,1.1,52,23985.0,Raúl Albiol,4-3-3,4-3-3,Jesús Gil,Match Report,,2021-2022,Villarreal
+2021-09-29,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,eng Manchester Utd,2.3,1.1,44,73130.0,Raúl Albiol,4-3-3,4-2-3-1,Felix Zwayer,Match Report,,2021-2022,Villarreal
+2021-10-03,18:30,La Liga,Matchweek 8,Sun,Home,W,2,0,Betis,2.6,0.5,58,16719.0,Manu Trigueros,4-1-4-1,4-2-3-1,José Sánchez,Match Report,,2021-2022,Villarreal
+2021-10-17,18:30,La Liga,Matchweek 9,Sun,Home,L,1,2,Osasuna,0.5,0.6,72,14831.0,Manu Trigueros,4-3-3,5-3-2,Adrián Cordero,Match Report,,2021-2022,Villarreal
+2021-10-20,21:00,Champions Lg,Group stage,Wed,Away,W,4,1,ch Young Boys,2.7,2.7,50,27398.0,Raúl Albiol,3-5-2,5-3-2,Sergey Karasev,Match Report,,2021-2022,Villarreal
+2021-10-23,21:00,La Liga,Matchweek 10,Sat,Away,L,1,2,Athletic Club,0.5,2.8,48,38698.0,Raúl Albiol,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2021-2022,Villarreal
+2021-10-26,21:30,La Liga,Matchweek 11,Tue,Home,D,3,3,Cádiz,1.7,1.4,76,12190.0,Mario Gaspar,4-3-3,4-1-4-1,Alejandro Hernández,Match Report,,2021-2022,Villarreal
+2021-10-30,18:30,La Liga,Matchweek 12,Sat,Away,L,0,2,Valencia,0.8,1.1,74,31487.0,Raúl Albiol,4-4-1-1,4-1-4-1,José Luis Munuera,Match Report,,2021-2022,Villarreal
+2021-11-02,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,ch Young Boys,2.2,1.1,50,14890.0,Mario Gaspar,4-4-2,4-4-2,Serdar Gözübüyük,Match Report,,2021-2022,Villarreal
+2021-11-07,14:00,La Liga,Matchweek 13,Sun,Home,W,1,0,Getafe,1.4,0.2,66,13504.0,Raúl Albiol,4-2-2-2,5-3-2,Jesús Gil,Match Report,,2021-2022,Villarreal
+2021-11-20,14:00,La Liga,Matchweek 14,Sat,Away,D,1,1,Celta Vigo,2.8,1.0,43,10086.0,Vicente Iborra,4-4-1-1,4-1-3-2,Alberola Rojas,Match Report,,2021-2022,Villarreal
+2021-11-23,18:45,Champions Lg,Group stage,Tue,Home,L,0,2,eng Manchester Utd,0.6,1.2,51,20875.0,Raúl Albiol,4-4-2,4-2-3-1,Felix Brych,Match Report,,2021-2022,Villarreal
+2021-11-27,21:00,La Liga,Matchweek 15,Sat,Home,L,1,3,Barcelona,1.1,3.2,50,19050.0,Raúl Albiol,4-4-2,4-3-3,César Soto,Match Report,,2021-2022,Villarreal
+2021-11-30,19:00,Copa del Rey,First round,Tue,Away,W,8,0,Victoria CF,,,71,6000.0,Mario Gaspar,4-3-3,4-4-2,Pablo González,Match Report,,2021-2022,Villarreal
+2021-12-04,14:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Sevilla,1.7,0.4,55,30865.0,Raúl Albiol,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Villarreal
+2021-12-09,19:00,Champions Lg,Group stage,Thu,Away,W,3,2,it Atalanta,2.2,2.0,36,11690.0,Raúl Albiol,4-4-2,3-4-1-2,Anthony Taylor,Match Report,,2021-2022,Villarreal
+2021-12-12,14:00,La Liga,Matchweek 17,Sun,Home,W,2,0,Rayo Vallecano,2.4,1.5,52,13133.0,Mario Gaspar,4-4-2,4-2-3-1,Mario Melero,Match Report,,2021-2022,Villarreal
+2021-12-15,21:00,Copa del Rey,Second round,Wed,Away,W,7,1,Atl Sanluqueño,,,65,4800.0,Vicente Iborra,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2021-2022,Villarreal
+2021-12-18,16:15,La Liga,Matchweek 18,Sat,Away,W,3,1,Real Sociedad,2.9,0.9,60,29679.0,Raúl Albiol,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2021-2022,Villarreal
+2021-12-21,19:00,La Liga,Matchweek 4,Tue,Home,W,5,2,Alavés,3.3,0.8,62,12530.0,Raúl Albiol,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Villarreal
+2022-01-03,19:00,La Liga,Matchweek 19,Mon,Home,W,5,0,Levante,3.4,0.4,57,13462.0,Vicente Iborra,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,2021-2022,Villarreal
+2022-01-06,18:00,Copa del Rey,Round of 32,Thu,Away,L,1,2,Sporting Gijón,,,61,12400.0,Mario Gaspar,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2021-2022,Villarreal
+2022-01-09,21:00,La Liga,Matchweek 20,Sun,Home,D,2,2,Atlético Madrid,2.1,0.7,59,14127.0,Raúl Albiol,4-4-2,4-4-2,Alberola Rojas,Match Report,,2021-2022,Villarreal
+2022-01-16,14:00,La Liga,Matchweek 21,Sun,Away,L,0,1,Elche,0.6,0.2,52,12433.0,Raúl Albiol,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Villarreal
+2022-01-22,16:15,La Liga,Matchweek 22,Sat,Home,W,3,0,Mallorca,1.9,1.2,56,13207.0,Mario Gaspar,4-4-2,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Villarreal
+2022-02-06,18:30,La Liga,Matchweek 23,Sun,Away,W,2,0,Betis,0.9,0.6,40,44870.0,Raúl Albiol,4-4-2,4-2-3-1,Pablo González,Match Report,,2021-2022,Villarreal
+2022-02-12,16:15,La Liga,Matchweek 24,Sat,Home,D,0,0,Real Madrid,0.4,1.7,44,17894.0,Vicente Iborra,4-4-2,4-3-3,José Sánchez,Match Report,,2021-2022,Villarreal
+2022-02-19,14:00,La Liga,Matchweek 25,Sat,Away,W,4,1,Granada,4.9,2.3,61,13389.0,Vicente Iborra,4-4-2,4-3-3,Jesús Gil,Match Report,,2021-2022,Villarreal
+2022-02-22,21:00,Champions Lg,Round of 16,Tue,Home,D,1,1,it Juventus,1.3,0.7,54,17686.0,Raúl Albiol,4-4-2,3-5-2,Daniel Siebert,Match Report,Leg 1 of 2,2021-2022,Villarreal
+2022-02-27,14:00,La Liga,Matchweek 26,Sun,Home,W,5,1,Espanyol,4.4,1.1,65,15600.0,Raúl Albiol,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,2021-2022,Villarreal
+2022-03-05,14:00,La Liga,Matchweek 27,Sat,Away,L,0,1,Osasuna,0.5,0.8,72,16659.0,Raúl Albiol,4-4-2,4-4-2,José Luis Munuera,Match Report,,2021-2022,Villarreal
+2022-03-12,18:30,La Liga,Matchweek 28,Sat,Home,W,1,0,Celta Vigo,1.3,0.8,51,14929.0,Vicente Iborra,4-4-1-1,4-1-3-2,Santiago Jaime,Match Report,,2021-2022,Villarreal
+2022-03-16,21:00,Champions Lg,Round of 16,Wed,Away,W,3,0,it Juventus,2.5,1.5,42,30385.0,Raúl Albiol,4-4-1-1,3-5-2,Szymon Marciniak,Match Report,Leg 2 of 2; Villarreal won,2021-2022,Villarreal
+2022-03-20,16:15,La Liga,Matchweek 29,Sun,Away,L,0,1,Cádiz,0.2,1.7,58,13325.0,Mario Gaspar,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Villarreal
+2022-04-02,16:15,La Liga,Matchweek 30,Sat,Away,L,0,2,Levante,1.2,2.0,58,14908.0,Raúl Albiol,4-4-2,5-3-2,Adrián Cordero,Match Report,,2021-2022,Villarreal
+2022-04-06,21:00,Champions Lg,Quarter-finals,Wed,Home,W,1,0,de Bayern Munich,1.5,1.6,39,21626.0,Raúl Albiol,4-4-2,4-2-3-1,Anthony Taylor,Match Report,Leg 1 of 2,2021-2022,Villarreal
+2022-04-09,18:30,La Liga,Matchweek 31,Sat,Home,D,1,1,Athletic Club,1.3,1.8,60,16603.0,Mario Gaspar,4-4-2,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Villarreal
+2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Away,D,1,1,de Bayern Munich,0.7,1.4,32,70000.0,Raúl Albiol,4-4-2,3-2-4-1,Slavko Vinčič,Match Report,Leg 2 of 2; Villarreal won,2021-2022,Villarreal
+2022-04-16,21:00,La Liga,Matchweek 32,Sat,Away,W,2,1,Getafe,2.7,0.9,59,9657.0,Vicente Iborra,4-4-2,3-5-2,Pablo González,Match Report,,2021-2022,Villarreal
+2022-04-19,21:30,La Liga,Matchweek 33,Tue,Home,W,2,0,Valencia,2.4,0.3,58,13570.0,Raúl Albiol,4-4-1-1,3-5-1-1,José Luis Munuera,Match Report,,2021-2022,Villarreal
+2022-04-27,20:00,Champions Lg,Semi-finals,Wed,Away,L,0,2,eng Liverpool,0.1,1.6,27,51586.0,Raúl Albiol,4-4-2,4-3-3,Szymon Marciniak,Match Report,Leg 1 of 2,2021-2022,Villarreal
+2022-04-30,14:00,La Liga,Matchweek 34,Sat,Away,L,1,2,Alavés,1.3,2.4,67,12579.0,Vicente Iborra,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Villarreal
+2022-05-03,21:00,Champions Lg,Semi-finals,Tue,Home,L,2,3,eng Liverpool,1.2,2.5,45,23665.0,Raúl Albiol,4-4-2,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,2021-2022,Villarreal
+2022-05-08,16:15,La Liga,Matchweek 35,Sun,Home,D,1,1,Sevilla,2.2,0.8,53,17461.0,Raúl Albiol,4-4-1-1,4-3-3,Jesús Gil,Match Report,,2021-2022,Villarreal
+2022-05-12,20:00,La Liga,Matchweek 36,Thu,Away,W,5,1,Rayo Vallecano,2.4,1.8,44,7945.0,Raúl Albiol,4-3-3,4-2-3-1,Isidro Díaz de Mera,Match Report,,2021-2022,Villarreal
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,L,1,2,Real Sociedad,0.7,2.1,49,16689.0,Raúl Albiol,4-4-2,4-3-1-2,Pablo González,Match Report,,2021-2022,Villarreal
+2022-05-22,22:00,La Liga,Matchweek 38,Sun,Away,W,2,0,Barcelona,0.8,0.6,31,54850.0,Mario Gaspar,4-4-2,4-3-3,José Luis Munuera,Match Report,,2021-2022,Villarreal

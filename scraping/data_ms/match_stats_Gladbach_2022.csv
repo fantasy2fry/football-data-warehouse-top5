@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-31,15:31,DFB-Pokal,Round of 64,Sun,Away,W,9,1,SV Oberachern,,,71,13558,Lars Stindl,4-2-3-1,3-4-3,Nicolas Winter,Match Report,,2022-2023,Gladbach
+2022-08-06,15:30,Bundesliga,Matchweek 1,Sat,Home,W,3,1,Hoffenheim,1.9,0.1,61,49659,Yann Sommer,4-2-3-1,3-5-2,Daniel Siebert,Match Report,,2022-2023,Gladbach
+2022-08-13,18:30,Bundesliga,Matchweek 2,Sat,Away,D,2,2,Schalke 04,1.3,1.4,67,62271,Yann Sommer,4-2-3-1,4-4-2,Sven Jablonski,Match Report,,2022-2023,Gladbach
+2022-08-19,20:30,Bundesliga,Matchweek 3,Fri,Home,W,1,0,Hertha BSC,2.7,1.0,64,48411,Yann Sommer,4-2-3-1,4-3-3,Matthias Jöllenbeck,Match Report,,2022-2023,Gladbach
+2022-08-27,18:30,Bundesliga,Matchweek 4,Sat,Away,D,1,1,Bayern Munich,0.5,2.8,31,75000,Yann Sommer,4-2-3-1,4-2-2-2,Daniel Schlager,Match Report,,2022-2023,Gladbach
+2022-09-04,17:30,Bundesliga,Matchweek 5,Sun,Home,L,0,1,Mainz 05,1.2,0.6,53,51210,Yann Sommer,4-2-3-1,3-4-3,Deniz Aytekin,Match Report,,2022-2023,Gladbach
+2022-09-11,17:30,Bundesliga,Matchweek 6,Sun,Away,D,0,0,Freiburg,1.2,1.1,57,34700,Lars Stindl,4-2-3-1,4-4-1-1,Tobias Stieler,Match Report,,2022-2023,Gladbach
+2022-09-17,18:30,Bundesliga,Matchweek 7,Sat,Home,W,3,0,RB Leipzig,2.7,0.9,45,50186,Lars Stindl,4-2-3-1,4-2-3-1,Patrick Ittrich,Match Report,,2022-2023,Gladbach
+2022-10-01,18:30,Bundesliga,Matchweek 8,Sat,Away,L,1,5,Werder Bremen,2.3,1.9,53,42100,Lars Stindl,4-2-3-1,3-5-2,Matthias Jöllenbeck,Match Report,,2022-2023,Gladbach
+2022-10-09,15:30,Bundesliga,Matchweek 9,Sun,Home,W,5,2,Köln,3.0,1.3,65,54042,Lars Stindl,4-2-3-1,4-1-3-2,Sven Jablonski,Match Report,,2022-2023,Gladbach
+2022-10-15,15:30,Bundesliga,Matchweek 10,Sat,Away,D,2,2,Wolfsburg,0.8,1.8,46,26701,Lars Stindl,4-2-3-1,4-5-1,Benjamin Cortus,Match Report,,2022-2023,Gladbach
+2022-10-18,20:45,DFB-Pokal,Round of 32,Tue,Away,L,1,2,Darmstadt 98,,,57,15850,Yann Sommer,4-2-3-1,3-4-1-2,Robert Schröder,Match Report,,2022-2023,Gladbach
+2022-10-22,18:30,Bundesliga,Matchweek 11,Sat,Home,L,1,3,Eint Frankfurt,1.0,1.9,60,53019,Lars Stindl,4-2-3-1,3-4-3,Daniel Siebert,Match Report,,2022-2023,Gladbach
+2022-10-30,15:30,Bundesliga,Matchweek 12,Sun,Away,L,1,2,Union Berlin,1.0,0.9,45,22012,Lars Stindl,4-2-3-1,3-5-2,Harm Osmers,Match Report,,2022-2023,Gladbach
+2022-11-04,20:30,Bundesliga,Matchweek 13,Fri,Home,W,3,1,Stuttgart,0.9,1.1,55,53178,Christoph Kramer,4-2-3-1,4-4-2,Matthias Jöllenbeck,Match Report,,2022-2023,Gladbach
+2022-11-08,20:30,Bundesliga,Matchweek 14,Tue,Away,L,1,2,Bochum,0.8,2.0,54,25900,Christoph Kramer,4-2-3-1,4-2-3-1,Daniel Schlager,Match Report,,2022-2023,Gladbach
+2022-11-11,20:30,Bundesliga,Matchweek 15,Fri,Home,W,4,2,Dortmund,2.1,3.0,39,54042,Lars Stindl,4-2-3-1,4-2-3-1,Sven Jablonski,Match Report,,2022-2023,Gladbach
+2023-01-22,17:30,Bundesliga,Matchweek 16,Sun,Home,L,2,3,Leverkusen,1.0,2.0,61,53336,Christoph Kramer,4-2-3-1,3-4-3,Harm Osmers,Match Report,,2022-2023,Gladbach
+2023-01-25,20:30,Bundesliga,Matchweek 17,Wed,Away,L,0,1,Augsburg,0.3,0.9,56,23158,Christoph Kramer,4-2-3-1,4-4-2,Daniel Schlager,Match Report,,2022-2023,Gladbach
+2023-01-28,15:30,Bundesliga,Matchweek 18,Sat,Away,W,4,1,Hoffenheim,1.7,1.8,49,24119,Lars Stindl,4-2-3-1,3-4-1-2,Benjamin Brand,Match Report,,2022-2023,Gladbach
+2023-02-04,18:30,Bundesliga,Matchweek 19,Sat,Home,D,0,0,Schalke 04,1.1,1.0,54,54042,Lars Stindl,4-2-3-1,4-1-4-1,Deniz Aytekin,Match Report,,2022-2023,Gladbach
+2023-02-12,15:30,Bundesliga,Matchweek 20,Sun,Away,L,1,4,Hertha BSC,0.5,3.0,69,40973,Lars Stindl,4-2-3-1,3-5-2,Christian Dingert,Match Report,,2022-2023,Gladbach
+2023-02-18,15:30,Bundesliga,Matchweek 21,Sat,Home,W,3,2,Bayern Munich,2.4,1.1,53,54042,Lars Stindl,4-2-3-1,3-1-4-2,Tobias Welz,Match Report,,2022-2023,Gladbach
+2023-02-24,20:30,Bundesliga,Matchweek 22,Fri,Away,L,0,4,Mainz 05,1.2,1.8,64,32500,Lars Stindl,4-2-3-1,3-4-3,Robert Hartmann,Match Report,,2022-2023,Gladbach
+2023-03-04,15:30,Bundesliga,Matchweek 23,Sat,Home,D,0,0,Freiburg,1.5,0.3,52,52000,Lars Stindl,4-2-3-1,3-5-2,Benjamin Brand,Match Report,,2022-2023,Gladbach
+2023-03-11,15:30,Bundesliga,Matchweek 24,Sat,Away,L,0,3,RB Leipzig,1.6,2.5,34,46687,Christoph Kramer,4-2-3-1,4-2-2-2,Matthias Jöllenbeck,Match Report,,2022-2023,Gladbach
+2023-03-17,20:30,Bundesliga,Matchweek 25,Fri,Home,D,2,2,Werder Bremen,3.4,1.3,58,54042,Lars Stindl,4-2-3-1,3-5-2,Tobias Reichel,Match Report,,2022-2023,Gladbach
+2023-04-02,15:30,Bundesliga,Matchweek 26,Sun,Away,D,0,0,Köln,1.0,1.0,49,50000,Lars Stindl,4-2-3-1,4-1-4-1,Felix Zwayer,Match Report,,2022-2023,Gladbach
+2023-04-09,15:30,Bundesliga,Matchweek 27,Sun,Home,W,2,0,Wolfsburg,1.6,1.5,44,51127,Lars Stindl,4-2-3-1,4-3-3,Timo Gerach,Match Report,,2022-2023,Gladbach
+2023-04-15,18:30,Bundesliga,Matchweek 28,Sat,Away,D,1,1,Eint Frankfurt,1.2,2.2,41,50000,Jonas Hofmann,4-2-3-1,3-4-3,Sven Jablonski,Match Report,,2022-2023,Gladbach
+2023-04-23,19:30,Bundesliga,Matchweek 29,Sun,Home,L,0,1,Union Berlin,0.7,1.3,62,52107,Lars Stindl,4-2-3-1,3-5-2,Martin Petersen,Match Report,,2022-2023,Gladbach
+2023-04-29,15:30,Bundesliga,Matchweek 30,Sat,Away,L,1,2,Stuttgart,1.2,2.3,58,47700,Lars Stindl,4-2-3-1,5-3-2,Tobias Welz,Match Report,,2022-2023,Gladbach
+2023-05-06,15:30,Bundesliga,Matchweek 31,Sat,Home,W,2,0,Bochum,1.9,1.1,55,53797,Jonas Hofmann,4-2-3-1,4-3-3,Robert Schröder,Match Report,,2022-2023,Gladbach
+2023-05-13,18:30,Bundesliga,Matchweek 32,Sat,Away,L,2,5,Dortmund,2.0,4.5,46,81365,Jonas Hofmann,4-2-3-1,4-2-3-1,Daniel Schlager,Match Report,,2022-2023,Gladbach
+2023-05-21,19:30,Bundesliga,Matchweek 33,Sun,Away,D,2,2,Leverkusen,1.7,1.6,53,30210,Christoph Kramer,3-4-3,3-4-3,Daniel Siebert,Match Report,,2022-2023,Gladbach
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Home,W,2,0,Augsburg,3.0,0.5,74,52186,Lars Stindl,3-4-3,4-2-2-2,Matthias Jöllenbeck,Match Report,,2022-2023,Gladbach

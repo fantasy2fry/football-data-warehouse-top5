@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-11,20:00,Ligue 1,Matchweek 1,Sat,Home,W,3,1,Rennes,1.7,0.5,56.0,25708,Adama Soumaoro,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2018-2019,Lille
+2018-08-18,20:00,Ligue 1,Matchweek 2,Sat,Away,D,0,0,Monaco,0.7,1.4,52.0,11140,Adama Soumaoro,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2018-2019,Lille
+2018-08-26,15:00,Ligue 1,Matchweek 3,Sun,Home,W,3,0,Guingamp,2.1,0.7,48.0,27230,Adama Soumaoro,4-2-3-1,4-2-3-1,Johan Hamel,Match Report,,2018-2019,Lille
+2018-09-01,20:00,Ligue 1,Matchweek 4,Sat,Away,L,0,1,Angers,1.5,0.7,67.0,9245,Adama Soumaoro,4-2-3-1,4-3-3,Eric Wattellier,Match Report,,2018-2019,Lille
+2018-09-15,20:00,Ligue 1,Matchweek 5,Sat,Away,W,3,2,Amiens,3.0,1.6,53.0,11569,Adama Soumaoro,4-2-3-1,4-3-3,Nicolas Rainville,Match Report,,2018-2019,Lille
+2018-09-22,17:00,Ligue 1,Matchweek 6,Sat,Home,W,2,1,Nantes,0.8,1.8,43.0,27353,Adama Soumaoro,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2018-2019,Lille
+2018-09-26,19:00,Ligue 1,Matchweek 7,Wed,Away,L,0,1,Bordeaux,1.9,1.0,64.0,17395,Adama Soumaoro,4-2-3-1,4-2-3-1,Karim Abed,Match Report,,2018-2019,Lille
+2018-09-30,21:00,Ligue 1,Matchweek 8,Sun,Home,W,3,0,Marseille,2.8,0.5,50.0,41623,José Fonte,4-2-3-1,4-2-3-1,Mikael Lesage,Match Report,,2018-2019,Lille
+2018-10-06,17:00,Ligue 1,Matchweek 9,Sat,Home,W,3,1,Saint-Étienne,0.8,1.3,47.0,31263,Adama Soumaoro,4-2-3-1,4-4-2,Jérôme Miguelgorry,Match Report,,2018-2019,Lille
+2018-10-20,20:00,Ligue 1,Matchweek 10,Sat,Away,W,2,1,Dijon,2.0,1.6,43.0,13004,Adama Soumaoro,4-2-3-1,4-3-3,Thomas Léonard,Match Report,,2018-2019,Lille
+2018-10-27,20:00,Ligue 1,Matchweek 11,Sat,Home,W,1,0,Caen,0.6,0.4,57.0,33362,Adama Soumaoro,4-2-3-1,4-3-3,Florent Batta,Match Report,,2018-2019,Lille
+2018-10-30,21:05,Coupe de la Ligue,Third round,Tue,Away,L,0,2,Strasbourg,,,,16821,Xeka,4-1-4-1,3-5-1-1,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Lille
+2018-11-02,20:45,Ligue 1,Matchweek 12,Fri,Away,L,1,2,Paris S-G,1.0,1.9,35.0,47549,Adama Soumaoro,4-2-3-1,3-5-2,François Letexier,Match Report,,2018-2019,Lille
+2018-11-09,20:45,Ligue 1,Matchweek 13,Fri,Home,D,0,0,Strasbourg,1.4,0.2,72.0,27544,Adama Soumaoro,4-2-3-1,5-4-1,Olivier Thual,Match Report,,2018-2019,Lille
+2018-11-25,17:00,Ligue 1,Matchweek 14,Sun,Away,L,0,2,Nice,0.4,1.1,51.0,18211,José Fonte,4-2-3-1,3-5-2,Franck Schneider,Match Report,,2018-2019,Lille
+2018-12-01,17:00,Ligue 1,Matchweek 15,Sat,Home,D,2,2,Lyon,1.0,2.9,30.0,38755,José Fonte,4-2-3-1,3-4-1-2,Benoît Bastien,Match Report,,2018-2019,Lille
+2018-12-04,21:00,Ligue 1,Matchweek 16,Tue,Away,W,1,0,Montpellier,1.6,1.3,43.0,12486,José Fonte,4-2-3-1,4-4-1-1,Mikael Lesage,Match Report,,2018-2019,Lille
+2018-12-09,17:00,Ligue 1,Matchweek 17,Sun,Home,D,1,1,Reims,1.5,1.3,66.0,26826,José Fonte,4-2-3-1,4-3-3,Willy Delajod,Match Report,,2018-2019,Lille
+2018-12-16,15:00,Ligue 1,Matchweek 18,Sun,Away,W,3,2,Nîmes,0.6,1.0,33.0,13428,José Fonte,4-2-3-1,4-3-3,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Lille
+2018-12-22,21:00,Ligue 1,Matchweek 19,Sat,Home,L,1,2,Toulouse,1.4,1.7,58.0,30186,Thiago Mendes,4-2-3-1,3-5-1-1,Benoît Millot,Match Report,,2018-2019,Lille
+2019-01-07,20:55,Coupe de France,Round of 64,Mon,Home,W,1,0,Sochaux,,,63.0,12374,Adama Soumaoro,4-2-2-2,4-2-3-1,Florent Batta,Match Report,,2018-2019,Lille
+2019-01-11,19:00,Ligue 1,Matchweek 20,Fri,Away,W,3,1,Caen,2.8,1.3,44.0,16018,Adama Soumaoro,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2018-2019,Lille
+2019-01-18,20:45,Ligue 1,Matchweek 21,Fri,Home,W,2,1,Amiens,2.2,0.4,62.0,27211,Adama Soumaoro,4-2-3-1,4-3-3,Willy Delajod,Match Report,,2018-2019,Lille
+2019-01-22,21:00,Coupe de France,Round of 32,Tue,Away,W,1,0,Sète,,,,2805,José Fonte,4-2-3-1,4-2-3-1,Karim Abed,Match Report,,2018-2019,Lille
+2019-01-25,20:45,Ligue 1,Matchweek 22,Fri,Away,W,2,1,Marseille,2.0,1.2,53.0,43845,Adama Soumaoro,4-2-3-1,3-4-3,Amaury Delerue,Match Report,,2018-2019,Lille
+2019-02-01,20:45,Ligue 1,Matchweek 23,Fri,Home,W,4,0,Nice,2.2,0.6,43.0,32849,Adama Soumaoro,4-2-3-1,3-5-2,Jérôme Miguelgorry,Match Report,,2018-2019,Lille
+2019-02-06,21:05,Coupe de France,Round of 16,Wed,Away,L,1,2,Rennes,,,36.0,7228,Adama Soumaoro,4-2-3-1,4-2-3-1,Mikael Lesage,Match Report,,2018-2019,Lille
+2019-02-10,17:00,Ligue 1,Matchweek 24,Sun,Away,W,2,0,Guingamp,1.3,0.5,53.0,13886,José Fonte,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2018-2019,Lille
+2019-02-17,15:00,Ligue 1,Matchweek 25,Sun,Home,D,0,0,Montpellier,1.1,0.7,62.0,36967,José Fonte,4-2-3-1,3-4-3,Ruddy Buquet,Match Report,,2018-2019,Lille
+2019-02-22,20:45,Ligue 1,Matchweek 26,Fri,Away,D,1,1,Strasbourg,1.1,0.5,49.0,25303,José Fonte,4-2-3-1,3-5-1-1,Clément Turpin,Match Report,,2018-2019,Lille
+2019-03-03,15:00,Ligue 1,Matchweek 27,Sun,Home,W,1,0,Dijon,0.8,0.5,57.0,32722,José Fonte,4-2-3-1,5-3-2,Olivier Thual,Match Report,,2018-2019,Lille
+2019-03-10,15:00,Ligue 1,Matchweek 28,Sun,Away,W,1,0,Saint-Étienne,1.8,0.3,46.0,26648,José Fonte,4-4-2,4-2-3-1,Mikael Lesage,Match Report,,2018-2019,Lille
+2019-03-15,20:45,Ligue 1,Matchweek 29,Fri,Home,L,0,1,Monaco,1.8,1.6,65.0,37724,José Fonte,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Lille
+2019-03-31,17:00,Ligue 1,Matchweek 30,Sun,Away,W,3,2,Nantes,2.5,2.0,49.0,25045,Adama Soumaoro,4-2-3-1,3-1-4-2,Willy Delajod,Match Report,,2018-2019,Lille
+2019-04-07,15:00,Ligue 1,Matchweek 31,Sun,Away,D,1,1,Reims,1.0,1.0,57.0,18642,Adama Soumaoro,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2018-2019,Lille
+2019-04-14,21:00,Ligue 1,Matchweek 32,Sun,Home,W,5,1,Paris S-G,1.7,1.3,44.0,49712,Adama Soumaoro,4-2-3-1,3-4-3,Benoît Bastien,Match Report,,2018-2019,Lille
+2019-04-21,15:00,Ligue 1,Matchweek 33,Sun,Away,D,0,0,Toulouse,1.2,0.6,51.0,15002,José Fonte,4-2-3-1,3-4-3,Nicolas Rainville,Match Report,,2018-2019,Lille
+2019-04-28,15:00,Ligue 1,Matchweek 34,Sun,Home,W,5,0,Nîmes,2.4,0.9,59.0,36356,José Fonte,4-4-2,4-3-3,Amaury Delerue,Match Report,,2018-2019,Lille
+2019-05-05,21:00,Ligue 1,Matchweek 35,Sun,Away,D,2,2,Lyon,1.8,1.7,39.0,56642,José Fonte,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2018-2019,Lille
+2019-05-12,17:00,Ligue 1,Matchweek 36,Sun,Home,W,1,0,Bordeaux,1.1,0.6,48.0,41413,José Fonte,4-3-3,4-1-4-1,Mikael Lesage,Match Report,,2018-2019,Lille
+2019-05-18,21:00,Ligue 1,Matchweek 37,Sat,Home,W,5,0,Angers,2.8,1.4,48.0,42704,José Fonte,4-4-2,4-3-3,François Letexier,Match Report,,2018-2019,Lille
+2019-05-24,21:05,Ligue 1,Matchweek 38,Fri,Away,L,1,3,Rennes,1.0,2.2,56.0,28185,Adama Soumaoro,4-2-3-1,4-4-2,Olivier Thual,Match Report,,2018-2019,Lille

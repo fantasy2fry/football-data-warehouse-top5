@@ -1,0 +1,46 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-11,15:00,Premier League,Matchweek 1,Sat,Away,W,2,0,Fulham,1.0,0.7,35,24821,Luka Milivojević,4-4-2,4-3-3,Mike Dean,Match Report,,2018-2019,Crystal Palace
+2018-08-20,20:00,Premier League,Matchweek 2,Mon,Home,L,0,2,Liverpool,0.4,2.6,37,25750,Luka Milivojević,4-4-2,4-3-3,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2018-08-26,13:30,Premier League,Matchweek 3,Sun,Away,L,1,2,Watford,1.0,1.2,57,20014,Luka Milivojević,4-4-2,4-2-2-2,Anthony Taylor,Match Report,,2018-2019,Crystal Palace
+2018-08-28,19:30,EFL Cup,Second round,Tue,Away,W,1,0,Swansea City,,,50,9122,Jason Puncheon,4-4-1-1,4-2-3-1,John Brooks,Match Report,,2018-2019,Crystal Palace
+2018-09-01,15:00,Premier League,Matchweek 4,Sat,Home,L,0,2,Southampton,2.4,2.7,50,25495,Luka Milivojević,4-4-2,4-4-2,Martin Atkinson,Match Report,,2018-2019,Crystal Palace
+2018-09-15,15:00,Premier League,Matchweek 5,Sat,Away,W,1,0,Huddersfield,0.7,0.9,41,23696,Luka Milivojević,4-3-3,3-4-3,Lee Mason,Match Report,,2018-2019,Crystal Palace
+2018-09-22,15:00,Premier League,Matchweek 6,Sat,Home,D,0,0,Newcastle Utd,0.9,0.2,61,25679,Luka Milivojević,4-3-3,4-4-1-1,Andre Marriner,Match Report,,2018-2019,Crystal Palace
+2018-09-25,20:00,EFL Cup,Third round,Tue,Away,W,3,0,West Brom,,,55,10818,Jason Puncheon,4-4-2,3-5-1-1,Peter Bankes,Match Report,,2018-2019,Crystal Palace
+2018-10-01,20:00,Premier League,Matchweek 7,Mon,Away,L,1,2,Bournemouth,0.4,1.8,55,10199,Luka Milivojević,4-3-3,4-4-2,Mike Dean,Match Report,,2018-2019,Crystal Palace
+2018-10-06,15:00,Premier League,Matchweek 8,Sat,Home,L,0,1,Wolves,1.4,0.7,67,25715,Luka Milivojević,4-4-2,3-4-3,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2018-10-21,16:00,Premier League,Matchweek 9,Sun,Away,L,0,2,Everton,1.3,1.8,41,38668,Luka Milivojević,4-4-2,4-2-3-1,Anthony Taylor,Match Report,,2018-2019,Crystal Palace
+2018-10-28,13:30,Premier League,Matchweek 10,Sun,Home,D,2,2,Arsenal,2.3,0.9,43,25718,Luka Milivojević,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,2018-2019,Crystal Palace
+2018-10-31,20:00,EFL Cup,Fourth round,Wed,Away,L,0,1,Middlesbrough,,,57,11850,Jason Puncheon,4-4-2,3-5-1-1,Paul Tierney,Match Report,,2018-2019,Crystal Palace
+2018-11-04,16:00,Premier League,Matchweek 11,Sun,Away,L,1,3,Chelsea,0.4,1.7,27,40407,Luka Milivojević,4-4-2,4-3-3,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2018-11-10,17:30,Premier League,Matchweek 12,Sat,Home,L,0,1,Tottenham,0.8,1.2,36,25685,Luka Milivojević,4-4-2,4-2-3-1,Jonathan Moss,Match Report,,2018-2019,Crystal Palace
+2018-11-24,15:00,Premier League,Matchweek 13,Sat,Away,D,0,0,Manchester Utd,1.2,0.9,41,74516,Luka Milivojević,4-4-2,4-3-3,Lee Mason,Match Report,,2018-2019,Crystal Palace
+2018-12-01,15:00,Premier League,Matchweek 14,Sat,Home,W,2,0,Burnley,1.6,0.7,58,25098,Luka Milivojević,4-4-2,4-4-1-1,Lee Probert,Match Report,,2018-2019,Crystal Palace
+2018-12-04,19:45,Premier League,Matchweek 15,Tue,Away,L,1,3,Brighton,1.7,1.3,68,29663,Luka Milivojević,4-4-2,4-3-3,Kevin Friend,Match Report,,2018-2019,Crystal Palace
+2018-12-08,15:00,Premier League,Matchweek 16,Sat,Away,L,2,3,West Ham,0.7,1.2,51,56995,Luka Milivojević,4-4-2,4-4-2,Anthony Taylor,Match Report,,2018-2019,Crystal Palace
+2018-12-15,15:00,Premier League,Matchweek 17,Sat,Home,W,1,0,Leicester City,0.5,1.0,44,24738,Luka Milivojević,4-4-2,4-2-3-1,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2018-12-22,15:00,Premier League,Matchweek 18,Sat,Away,W,3,2,Manchester City,0.9,1.5,22,54340,Luka Milivojević,4-5-1,4-3-3,Andre Marriner,Match Report,,2018-2019,Crystal Palace
+2018-12-26,15:00,Premier League,Matchweek 19,Wed,Home,D,0,0,Cardiff City,2.1,0.9,62,25206,Luka Milivojević,4-4-2,5-4-1,Lee Probert,Match Report,,2018-2019,Crystal Palace
+2018-12-30,12:00,Premier League,Matchweek 20,Sun,Home,L,0,1,Chelsea,0.2,0.9,35,25781,Luka Milivojević,4-5-1,4-3-3,Craig Pawson,Match Report,,2018-2019,Crystal Palace
+2019-01-02,19:45,Premier League,Matchweek 21,Wed,Away,W,2,0,Wolves,1.9,0.5,48,30666,Luka Milivojević,4-3-3,3-4-3,Roger East,Match Report,,2018-2019,Crystal Palace
+2019-01-05,17:30,FA Cup,Third round,Sat,Home,W,1,0,Grimsby Town,,,61,19967,Scott Dann,4-3-3,4-3-3,Martin Atkinson,Match Report,,2018-2019,Crystal Palace
+2019-01-12,15:00,Premier League,Matchweek 22,Sat,Home,L,1,2,Watford,1.3,1.6,55,25010,Luka Milivojević,4-3-3,4-2-2-2,Paul Tierney,Match Report,,2018-2019,Crystal Palace
+2019-01-19,15:00,Premier League,Matchweek 23,Sat,Away,L,3,4,Liverpool,0.7,2.6,30,53171,Luka Milivojević,4-5-1,4-2-3-1,Jonathan Moss,Match Report,,2018-2019,Crystal Palace
+2019-01-27,16:00,FA Cup,Fourth round,Sun,Home,W,2,0,Tottenham,,,28,19491,Scott Dann,4-3-3,3-4-3,Kevin Friend,Match Report,,2018-2019,Crystal Palace
+2019-01-30,19:45,Premier League,Matchweek 24,Wed,Away,D,1,1,Southampton,1.1,1.2,42,28339,Luka Milivojević,4-3-3,3-5-2,Andre Marriner,Match Report,,2018-2019,Crystal Palace
+2019-02-02,15:00,Premier League,Matchweek 25,Sat,Home,W,2,0,Fulham,2.2,0.6,38,25355,Luka Milivojević,4-4-2,3-4-3,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2019-02-09,15:00,Premier League,Matchweek 26,Sat,Home,D,1,1,West Ham,2.6,1.7,58,25552,Luka Milivojević,4-3-3,4-1-4-1,Craig Pawson,Match Report,,2018-2019,Crystal Palace
+2019-02-17,16:00,FA Cup,Fifth round,Sun,Away,W,2,0,Doncaster,,,52,14010,Luka Milivojević,4-3-3,4-1-4-1,Mike Dean,Match Report,,2018-2019,Crystal Palace
+2019-02-23,17:30,Premier League,Matchweek 27,Sat,Away,W,4,1,Leicester City,1.7,1.2,36,31778,Luka Milivojević,4-3-3,4-3-3,Anthony Taylor,Match Report,,2018-2019,Crystal Palace
+2019-02-27,20:00,Premier League,Matchweek 28,Wed,Home,L,1,3,Manchester Utd,1.7,1.0,46,25754,Luka Milivojević,4-3-3,4-3-3,Martin Atkinson,Match Report,,2018-2019,Crystal Palace
+2019-03-02,15:00,Premier League,Matchweek 29,Sat,Away,W,3,1,Burnley,0.5,2.1,43,19223,Luka Milivojević,4-5-1,4-4-2,Lee Probert,Match Report,,2018-2019,Crystal Palace
+2019-03-09,12:30,Premier League,Matchweek 30,Sat,Home,L,1,2,Brighton,1.5,0.2,62,24972,Luka Milivojević,4-3-3,4-5-1,Craig Pawson,Match Report,,2018-2019,Crystal Palace
+2019-03-16,12:15,FA Cup,Quarter-finals,Sat,Away,L,1,2,Watford,,,57,18104,Luka Milivojević,4-2-3-1,4-2-2-2,Kevin Friend,Match Report,,2018-2019,Crystal Palace
+2019-03-30,15:00,Premier League,Matchweek 32,Sat,Home,W,2,0,Huddersfield,2.7,1.1,49,25193,Luka Milivojević,4-3-3,4-2-3-1,Lee Probert,Match Report,,2018-2019,Crystal Palace
+2019-04-03,19:45,Premier League,Matchweek 31,Wed,Away,L,0,2,Tottenham,0.3,2.1,35,59215,Luka Milivojević,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2018-2019,Crystal Palace
+2019-04-06,15:00,Premier League,Matchweek 33,Sat,Away,W,1,0,Newcastle Utd,0.9,0.9,47,51926,Luka Milivojević,4-4-2,5-4-1,Stuart Attwell,Match Report,,2018-2019,Crystal Palace
+2019-04-14,14:05,Premier League,Matchweek 34,Sun,Home,L,1,3,Manchester City,0.4,2.5,27,25721,Luka Milivojević,4-5-1,4-2-3-1,Martin Atkinson,Match Report,,2018-2019,Crystal Palace
+2019-04-21,16:00,Premier League,Matchweek 35,Sun,Away,W,3,2,Arsenal,1.6,1.2,28,59929,Luka Milivojević,4-4-2,3-4-1-2,Jonathan Moss,Match Report,,2018-2019,Crystal Palace
+2019-04-27,15:00,Premier League,Matchweek 36,Sat,Home,D,0,0,Everton,0.3,1.5,37,25789,Luka Milivojević,4-4-2,4-2-3-1,Lee Mason,Match Report,,2018-2019,Crystal Palace
+2019-05-04,17:30,Premier League,Matchweek 37,Sat,Away,W,3,2,Cardiff City,1.6,1.9,60,32133,Luka Milivojević,4-4-2,4-4-1-1,Michael Oliver,Match Report,,2018-2019,Crystal Palace
+2019-05-12,15:00,Premier League,Matchweek 38,Sun,Home,W,5,3,Bournemouth,2.8,1.6,46,25433,Luka Milivojević,4-4-2,4-4-1-1,Roger East,Match Report,,2018-2019,Crystal Palace

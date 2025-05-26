@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-08,16:30,Championship,Matchweek 1,Sun,Away,L,1,2,Coventry City,1.1,1.4,38,20843,Ryan Yates,4-2-3-1,3-4-1-2,James Linington,Match Report,,2021-2022,Nott'ham Forest
+2021-08-11,19:45,EFL Cup,First round,Wed,Home,W,2,1,Bradford City,,,62,9514,Cafú,4-2-3-1,4-2-3-1,Peter Wright,Match Report,,2021-2022,Nott'ham Forest
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Home,L,1,2,Bournemouth,0.8,0.6,55,25035,Ryan Yates,4-2-3-1,4-3-3,Geoff Eltringham,Match Report,,2021-2022,Nott'ham Forest
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Home,L,1,2,Blackburn,0.3,0.9,60,23964,Lewis Grabban,4-4-1-1,4-2-3-1,Gavin Ward,Match Report,,2021-2022,Nott'ham Forest
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Away,L,0,1,Stoke City,0.1,1.0,42,21346,Ryan Yates,4-2-3-1,3-5-2,Oliver Langford,Match Report,,2021-2022,Nott'ham Forest
+2021-08-24,20:00,EFL Cup,Second round,Tue,Home,L,0,4,Wolves,,,26,10769,Lewis Grabban,4-2-3-1,3-4-1-2,Andrew Davies,Match Report,,2021-2022,Nott'ham Forest
+2021-08-28,12:30,Championship,Matchweek 5,Sat,Away,D,1,1,Derby County,0.7,1.2,49,22991,Joe Worrall,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,2021-2022,Nott'ham Forest
+2021-09-12,14:30,Championship,Matchweek 6,Sun,Home,L,1,2,Cardiff City,1.0,1.6,53,24153,Lewis Grabban,4-4-1-1,4-1-3-2,Dean Whitestone,Match Report,,2021-2022,Nott'ham Forest
+2021-09-15,19:45,Championship,Matchweek 7,Wed,Home,L,0,2,Middlesbrough,0.9,2.0,59,23830,Lewis Grabban,4-4-1-1,4-2-3-1,Andy Woolmer,Match Report,,2021-2022,Nott'ham Forest
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,2,0,Huddersfield,0.6,0.8,30,17462,Lewis Grabban,3-4-3,3-4-3,Chris Kavanagh,Match Report,,2021-2022,Nott'ham Forest
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,D,1,1,Millwall,0.7,1.1,54,25589,Lewis Grabban,3-4-3,3-4-3,Jeremy Simpson,Match Report,,2021-2022,Nott'ham Forest
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,W,3,1,Barnsley,2.7,1.2,62,13657,Joe Worrall,3-4-3,3-4-3,Geoff Eltringham,Match Report,,2021-2022,Nott'ham Forest
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Away,W,3,0,Birmingham City,1.1,2.1,48,15148,Lewis Grabban,3-4-3,3-4-1-2,Keith Stroud,Match Report,,2021-2022,Nott'ham Forest
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Home,W,2,1,Blackpool,2.1,1.0,47,27946,Lewis Grabban,3-4-3,4-4-2,Kevin Friend,Match Report,,2021-2022,Nott'ham Forest
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,W,2,1,Bristol City,2.6,2.2,66,24691,Lewis Grabban,3-4-1-2,3-1-4-2,Steve Martin,Match Report,,2021-2022,Nott'ham Forest
+2021-10-24,15:00,Championship,Matchweek 14,Sun,Home,L,0,4,Fulham,0.6,1.8,49,27470,Lewis Grabban,3-4-1-2,4-2-3-1,James Linington,Match Report,,2021-2022,Nott'ham Forest
+2021-10-29,19:45,Championship,Matchweek 15,Fri,Away,D,1,1,QPR,0.6,1.2,59,15089,Lewis Grabban,3-4-1-2,3-4-3,Andrew Davies,Match Report,,2021-2022,Nott'ham Forest
+2021-11-02,19:45,Championship,Matchweek 16,Tue,Home,D,1,1,Sheffield Utd,1.2,0.6,44,25238,Joe Worrall,3-4-3,4-2-3-1,Leigh Doughty,Match Report,,2021-2022,Nott'ham Forest
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,3,0,Preston,1.6,0.4,40,27129,Lewis Grabban,4-2-3-1,3-4-1-2,Simon Hooper,Match Report,,2021-2022,Nott'ham Forest
+2021-11-20,15:00,Championship,Matchweek 18,Sat,Away,D,1,1,Reading,1.2,1.1,43,14907,Lewis Grabban,4-2-3-1,4-1-4-1,Andy Woolmer,Match Report,,2021-2022,Nott'ham Forest
+2021-11-23,19:45,Championship,Matchweek 19,Tue,Home,D,0,0,Luton Town,0.4,1.2,52,25715,Joe Worrall,4-2-3-1,5-3-2,Jeremy Simpson,Match Report,,2021-2022,Nott'ham Forest
+2021-11-26,20:00,Championship,Matchweek 20,Fri,Away,D,0,0,West Brom,0.7,1.7,56,22424,Lewis Grabban,3-4-3,3-4-3,Gavin Ward,Match Report,,2021-2022,Nott'ham Forest
+2021-12-04,15:00,Championship,Matchweek 21,Sat,Home,W,2,0,P'borough Utd,2.0,0.9,55,28308,Lewis Grabban,4-2-3-1,3-4-1-2,Thomas Bramall,Match Report,,2021-2022,Nott'ham Forest
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Away,W,4,1,Swansea City,1.6,1.1,26,17659,Lewis Grabban,3-4-3,3-4-3,Matt Donohue,Match Report,,2021-2022,Nott'ham Forest
+2021-12-18,15:00,Championship,Matchweek 23,Sat,Home,W,2,1,Hull City,1.7,0.7,53,26513,Lewis Grabban,3-4-3,3-4-1-2,John Busby,Match Report,,2021-2022,Nott'ham Forest
+2021-12-26,15:00,Championship,Matchweek 24,Sun,Away,L,0,2,Middlesbrough,0.7,2.1,47,29832,Lewis Grabban,3-4-1-2,3-5-2,Joshua Smith,Match Report,,2021-2022,Nott'ham Forest
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,L,0,1,Huddersfield,2.0,0.8,58,27159,Lewis Grabban,4-2-3-1,3-4-3,Gavin Ward,Match Report,,2021-2022,Nott'ham Forest
+2022-01-09,17:10,FA Cup,Third round proper,Sun,Home,W,1,0,Arsenal,,,33,24938,Joe Worrall,3-4-3,4-2-3-1,Craig Pawson,Match Report,,2021-2022,Nott'ham Forest
+2022-01-15,15:00,Championship,Matchweek 27,Sat,Away,W,1,0,Millwall,3.2,1.5,50,13297,Lewis Grabban,3-4-1-2,3-4-3,Peter Bankes,Match Report,,2021-2022,Nott'ham Forest
+2022-01-22,12:30,Championship,Matchweek 28,Sat,Home,W,2,1,Derby County,1.9,1.3,47,29256,Lewis Grabban,3-4-3,4-4-1-1,Tim Robinson,Match Report,,2021-2022,Nott'ham Forest
+2022-01-25,19:45,Championship,Matchweek 26,Tue,Home,W,3,0,Barnsley,3.1,0.6,55,27504,Lewis Grabban,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,,2021-2022,Nott'ham Forest
+2022-01-30,16:00,Championship,Matchweek 29,Sun,Away,L,1,2,Cardiff City,0.6,1.5,68,18866,Lewis Grabban,4-2-3-1,5-3-2,David Webb,Match Report,,2021-2022,Nott'ham Forest
+2022-02-06,16:00,FA Cup,Fourth round proper,Sun,Home,W,4,1,Leicester City,,,38,28762,Joe Worrall,3-4-1-2,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Nott'ham Forest
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Away,W,2,0,Blackburn,2.5,1.1,43,13869,Joe Worrall,3-5-2,4-4-1-1,Joshua Smith,Match Report,,2021-2022,Nott'ham Forest
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Home,D,2,2,Stoke City,1.6,2.8,38,28990,Joe Worrall,3-4-1-2,4-3-3,Leigh Doughty,Match Report,,2021-2022,Nott'ham Forest
+2022-02-22,19:45,Championship,Matchweek 34,Tue,Away,D,0,0,Preston,0.6,1.5,48,12598,Joe Worrall,3-4-1-2,3-4-1-2,Geoff Eltringham,Match Report,,2021-2022,Nott'ham Forest
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,2,0,Bristol City,1.5,0.4,54,28506,Joe Worrall,3-4-1-2,4-1-2-1-2,Darren Bond,Match Report,,2021-2022,Nott'ham Forest
+2022-03-04,19:45,Championship,Matchweek 36,Fri,Away,D,1,1,Sheffield Utd,2.1,0.8,50,28841,Joe Worrall,3-4-1-2,3-5-2,Joshua Smith,Match Report,,2021-2022,Nott'ham Forest
+2022-03-07,19:30,FA Cup,Fifth round proper,Mon,Home,W,2,1,Huddersfield,,,54,27417,Joe Worrall,3-4-1-2,3-4-3,Graham Scott,Match Report,,2021-2022,Nott'ham Forest
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,4,0,Reading,0.9,0.8,61,28128,Joe Worrall,3-4-1-2,4-2-3-1,Thomas Bramall,Match Report,,2021-2022,Nott'ham Forest
+2022-03-16,19:45,Championship,Matchweek 38,Wed,Home,W,3,1,QPR,2.2,1.0,59,27872,Joe Worrall,3-4-1-2,3-5-2,Peter Bankes,Match Report,,2021-2022,Nott'ham Forest
+2022-03-20,18:00,FA Cup,Quarter-finals,Sun,Home,L,0,1,Liverpool,,,35,28584,Joe Worrall,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2021-2022,Nott'ham Forest
+2022-04-02,12:30,Championship,Matchweek 40,Sat,Away,W,4,1,Blackpool,1.7,1.6,51,13986,Joe Worrall,3-4-1-2,4-4-2,Jarred Gillett,Match Report,,2021-2022,Nott'ham Forest
+2022-04-06,19:45,Championship,Matchweek 30,Wed,Home,W,2,0,Coventry City,2.6,1.2,53,28977,Joe Worrall,3-4-1-2,3-5-1-1,Tim Robinson,Match Report,,2021-2022,Nott'ham Forest
+2022-04-09,15:00,Championship,Matchweek 41,Sat,Home,W,2,0,Birmingham City,1.3,1.0,53,29293,Joe Worrall,3-4-1-2,3-5-2,Gavin Ward,Match Report,,2021-2022,Nott'ham Forest
+2022-04-15,12:30,Championship,Matchweek 42,Fri,Away,L,0,1,Luton Town,1.0,0.6,64,10070,Lewis Grabban,3-4-1-2,3-1-4-2,James Linington,Match Report,,2021-2022,Nott'ham Forest
+2022-04-18,20:00,Championship,Matchweek 43,Mon,Home,W,4,0,West Brom,1.6,0.1,69,28926,Joe Worrall,3-4-1-2,3-5-2,David Webb,Match Report,,2021-2022,Nott'ham Forest
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Away,W,1,0,P'borough Utd,1.9,0.6,52,12870,Joe Worrall,3-4-1-2,3-4-1-2,Michael Salisbury,Match Report,,2021-2022,Nott'ham Forest
+2022-04-26,19:45,Championship,Matchweek 39,Tue,Away,W,1,0,Fulham,1.1,2.2,27,19218,Joe Worrall,3-4-1-2,4-2-3-1,Joshua Smith,Match Report,,2021-2022,Nott'ham Forest
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Home,W,5,1,Swansea City,4.1,1.1,30,28659,Joe Worrall,3-4-1-2,4-2-3-1,Graham Scott,Match Report,,2021-2022,Nott'ham Forest
+2022-05-03,19:00,Championship,Matchweek 33,Tue,Away,L,0,1,Bournemouth,1.2,0.5,41,10563,Joe Worrall,3-4-1-2,4-2-3-1,Stuart Attwell,Match Report,,2021-2022,Nott'ham Forest
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Away,D,1,1,Hull City,2.9,1.4,61,18399,Joe Worrall,3-4-1-2,3-4-3,Simon Hooper,Match Report,,2021-2022,Nott'ham Forest
+2022-05-14,15:00,Championship,Semi-finals,Sat,Away,W,2,1,Sheffield Utd,2.7,1.1,41,30225,Joe Worrall,3-4-1-2,3-4-1-2,Andre Marriner,Match Report,Leg 1 of 2,2021-2022,Nott'ham Forest
+2022-05-17,19:45,Championship,Semi-finals,Tue,Home,L,1 (3),2 (2),Sheffield Utd,1.8,2.8,48,29015,Joe Worrall,3-4-1-2,3-4-1-2,Michael Oliver,Match Report,Leg 2 of 2; Nott'ham Forest won; Nott'ham Forest won on penalty kicks following extra time,2021-2022,Nott'ham Forest
+2022-05-29,16:30,Championship,Final,Sun,Neutral,W,1,0,Huddersfield,0.5,0.4,52,80019,Joe Worrall,3-4-1-2,3-4-3,Jonathan Moss,Match Report,,2021-2022,Nott'ham Forest

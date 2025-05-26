@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,18:00,DFB-Pokal,Round of 64,Mon,Away,W,1,0,Koblenz,,,78,9447,Maxence Lacroix,3-4-3,4-1-3-2,,Match Report,,2024-2025,Wolfsburg
+2024-08-25,15:30,Bundesliga,Matchweek 1,Sun,Home,L,2,3,Bayern Munich,1.9,2.4,30,30000,Maximilian Arnold,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Wolfsburg
+2024-08-31,15:30,Bundesliga,Matchweek 2,Sat,Away,W,2,0,Holstein Kiel,1.3,1.1,46,15034,Maximilian Arnold,4-2-3-1,3-4-1-2,Florian Exner,Match Report,,2024-2025,Wolfsburg
+2024-09-14,15:30,Bundesliga,Matchweek 3,Sat,Home,L,1,2,Eint Frankfurt,1.5,2.5,60,26281,Maximilian Arnold,4-1-4-1,4-4-2,Harm Osmers,Match Report,,2024-2025,Wolfsburg
+2024-09-22,15:30,Bundesliga,Matchweek 4,Sun,Away,L,3,4,Leverkusen,0.7,1.9,22,29250,Maximilian Arnold,4-1-4-1,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Wolfsburg
+2024-09-28,15:30,Bundesliga,Matchweek 5,Sat,Home,D,2,2,Stuttgart,1.1,1.8,31,27135,Maximilian Arnold,4-4-2,4-2-3-1,Sven Jablonski,Match Report,,2024-2025,Wolfsburg
+2024-10-05,15:30,Bundesliga,Matchweek 6,Sat,Away,W,3,1,Bochum,2.4,1.7,42,24630,Maximilian Arnold,3-4-1-2,4-3-1-2,Max Burda,Match Report,,2024-2025,Wolfsburg
+2024-10-20,17:30,Bundesliga,Matchweek 7,Sun,Home,L,2,4,Werder Bremen,1.8,2.0,43,28917,Maximilian Arnold,3-4-1-2,3-4-3,Daniel Schlager,Match Report,,2024-2025,Wolfsburg
+2024-10-26,15:30,Bundesliga,Matchweek 8,Sat,Away,D,0,0,St. Pauli,1.1,0.8,46,29546,Kamil Grabara,4-2-3-1,3-4-3,Tobias Reichel,Match Report,,2024-2025,Wolfsburg
+2024-10-29,20:45,DFB-Pokal,Round of 32,Tue,Home,W,1,0,Dortmund,,,42,30000,Maximilian Arnold,4-4-1-1,4-2-3-1,Daniel Siebert,Match Report,Required Extra Time,2024-2025,Wolfsburg
+2024-11-02,15:30,Bundesliga,Matchweek 9,Sat,Home,D,1,1,Augsburg,1.2,0.5,69,22654,Maximilian Arnold,4-2-3-1,3-5-2,Felix Brych,Match Report,,2024-2025,Wolfsburg
+2024-11-10,19:30,Bundesliga,Matchweek 10,Sun,Away,W,3,1,Heidenheim,1.5,2.4,35,15000,Maximilian Arnold,4-5-1,4-2-3-1,Harm Osmers,Match Report,,2024-2025,Wolfsburg
+2024-11-23,15:30,Bundesliga,Matchweek 11,Sat,Home,W,1,0,Union Berlin,0.6,0.5,55,23861,Maximilian Arnold,4-2-3-1,3-4-3,Tobias Stieler,Match Report,,2024-2025,Wolfsburg
+2024-11-30,15:30,Bundesliga,Matchweek 12,Sat,Away,W,5,1,RB Leipzig,2.2,1.0,37,40000,Maximilian Arnold,4-3-3,4-4-2,Martin Petersen,Match Report,,2024-2025,Wolfsburg
+2024-12-04,18:00,DFB-Pokal,Round of 16,Wed,Home,W,3,0,Hoffenheim,,,44,13909,Maximilian Arnold,4-3-3,4-2-3-1,Daniel Schlager,Match Report,,2024-2025,Wolfsburg
+2024-12-08,15:30,Bundesliga,Matchweek 13,Sun,Home,W,4,3,Mainz 05,1.2,2.6,44,20036,Maximilian Arnold,4-4-2,3-4-3,Timo Gerach,Match Report,,2024-2025,Wolfsburg
+2024-12-13,20:30,Bundesliga,Matchweek 14,Fri,Away,L,2,3,Freiburg,1.8,2.1,47,32600,Maximilian Arnold,4-4-2,4-2-2-2,Sascha Stegemann,Match Report,,2024-2025,Wolfsburg
+2024-12-22,17:30,Bundesliga,Matchweek 15,Sun,Home,L,1,3,Dortmund,1.5,2.7,50,28917,Maximilian Arnold,3-5-2,4-1-3-2,Matthias Jöllenbeck,Match Report,,2024-2025,Wolfsburg
+2025-01-11,15:30,Bundesliga,Matchweek 16,Sat,Away,W,1,0,Hoffenheim,0.7,0.9,45,18114,Maximilian Arnold,4-3-3,4-2-3-1,Christian Dingert,Match Report,,2024-2025,Wolfsburg
+2025-01-14,20:30,Bundesliga,Matchweek 17,Tue,Home,W,5,1,Gladbach,3.9,1.1,35,20519,Maximilian Arnold,4-4-2,4-2-3-1,Florian Badstübner,Match Report,,2024-2025,Wolfsburg
+2025-01-18,15:30,Bundesliga,Matchweek 18,Sat,Away,L,2,3,Bayern Munich,0.5,3.0,29,75000,Maximilian Arnold,4-1-3-2,4-2-3-1,Tobias Reichel,Match Report,,2024-2025,Wolfsburg
+2025-01-24,20:30,Bundesliga,Matchweek 19,Fri,Home,D,2,2,Holstein Kiel,2.0,0.2,69,22103,Maximilian Arnold,4-1-2-1-2◆,3-4-3,Sven Jablonski,Match Report,,2024-2025,Wolfsburg
+2025-02-02,15:30,Bundesliga,Matchweek 20,Sun,Away,D,1,1,Eint Frankfurt,1.2,1.2,39,56900,Maximilian Arnold,4-1-3-2,3-4-3,Benjamin Brand,Match Report,,2024-2025,Wolfsburg
+2025-02-08,15:30,Bundesliga,Matchweek 21,Sat,Home,D,0,0,Leverkusen,0.7,1.4,41,28198,Maximilian Arnold,4-1-3-2,3-5-2,Sascha Stegemann,Match Report,,2024-2025,Wolfsburg
+2025-02-15,15:30,Bundesliga,Matchweek 22,Sat,Away,W,2,1,Stuttgart,1.6,0.8,43,58000,Mattias Svanberg,4-4-2,4-2-3-1,Tobias Welz,Match Report,,2024-2025,Wolfsburg
+2025-02-22,15:30,Bundesliga,Matchweek 23,Sat,Home,D,1,1,Bochum,1.6,0.8,54,23772,Mattias Svanberg,4-4-2,3-5-2,Timo Gerach,Match Report,,2024-2025,Wolfsburg
+2025-02-26,20:45,DFB-Pokal,Quarter-finals,Wed,Away,L,0,1,RB Leipzig,,,49,40478,Mattias Svanberg,4-4-2,3-4-1-2,Tobias Reichel,Match Report,,2024-2025,Wolfsburg
+2025-03-01,15:30,Bundesliga,Matchweek 24,Sat,Away,W,2,1,Werder Bremen,0.9,1.9,44,41152,Mattias Svanberg,4-3-3,3-5-2,Felix Brych,Match Report,,2024-2025,Wolfsburg
+2025-03-08,15:30,Bundesliga,Matchweek 25,Sat,Home,D,1,1,St. Pauli,2.0,1.5,57,28917,Mattias Svanberg,4-2-3-1,3-4-1-2,Robert Hartmann,Match Report,,2024-2025,Wolfsburg
+2025-03-15,15:30,Bundesliga,Matchweek 26,Sat,Away,L,0,1,Augsburg,0.8,0.7,58,28351,Maximilian Arnold,4-3-3,3-4-3,Martin Petersen,Match Report,,2024-2025,Wolfsburg
+2025-03-29,15:30,Bundesliga,Matchweek 27,Sat,Home,L,0,1,Heidenheim,1.3,1.3,61,21545,Maximilian Arnold,4-3-3,3-4-1-2,Bastian Dankert,Match Report,,2024-2025,Wolfsburg
+2025-04-06,17:30,Bundesliga,Matchweek 28,Sun,Away,L,0,1,Union Berlin,1.9,1.2,54,22012,Maximilian Arnold,3-4-1-2,3-5-2,Harm Osmers,Match Report,,2024-2025,Wolfsburg
+2025-04-11,20:30,Bundesliga,Matchweek 29,Fri,Home,L,2,3,RB Leipzig,1.6,1.3,47,23070,Maximilian Arnold,3-4-1-2,4-2-2-2,Florian Exner,Match Report,,2024-2025,Wolfsburg
+2025-04-19,15:30,Bundesliga,Matchweek 30,Sat,Away,D,2,2,Mainz 05,1.6,2.7,48,31500,Maximilian Arnold,3-5-2,3-4-1-2,Felix Zwayer,Match Report,,2024-2025,Wolfsburg
+2025-04-26,15:30,Bundesliga,Matchweek 31,Sat,Home,L,0,1,Freiburg,0.3,1.6,44,23145,Maximilian Arnold,3-5-2,4-4-1-1,Sven Jablonski,Match Report,,2024-2025,Wolfsburg
+2025-05-03,18:30,Bundesliga,Matchweek 32,Sat,Away,L,0,4,Dortmund,0.7,2.4,46,81365,Kamil Grabara,3-5-2,3-4-3,Felix Brych,Match Report,,2024-2025,Wolfsburg
+2025-05-09,20:30,Bundesliga,Matchweek 33,Fri,Home,D,2,2,Hoffenheim,1.0,1.4,54,20145,Kamil Grabara,4-1-4-1,3-1-4-2,Matthias Jöllenbeck,Match Report,,2024-2025,Wolfsburg
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Away,W,1,0,Gladbach,1.7,1.0,41,53048,Maximilian Arnold,4-3-3,4-3-3,Sascha Stegemann,Match Report,,2024-2025,Wolfsburg

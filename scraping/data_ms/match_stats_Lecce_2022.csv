@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-05,21:00,Coppa Italia,First round,Fri,Home,L,2,3,Cittadella,,,61,15857,Kastriot Dermaku,4-3-3,4-3-1-2,Gianpiero Miele,Match Report,Required Extra Time,2022-2023,Lecce
+2022-08-13,20:45,Serie A,Matchweek 1,Sat,Home,L,1,2,Inter,0.7,2.1,30,25353,Morten Hjulmand,4-3-3,3-5-2,Alessandro Prontera,Match Report,,2022-2023,Lecce
+2022-08-20,20:45,Serie A,Matchweek 2,Sat,Away,L,0,1,Sassuolo,0.5,0.6,41,9219,Morten Hjulmand,4-3-3,4-3-3,Andrea Colombo,Match Report,,2022-2023,Lecce
+2022-08-28,20:45,Serie A,Matchweek 3,Sun,Home,D,1,1,Empoli,0.9,0.4,41,23941,Morten Hjulmand,4-3-3,4-3-1-2,Alberto Santoro,Match Report,,2022-2023,Lecce
+2022-08-31,20:45,Serie A,Matchweek 4,Wed,Away,D,1,1,Napoli,1.1,1.7,29,37573,Morten Hjulmand,4-1-4-1,4-2-3-1,Matteo Marcenaro,Match Report,,2022-2023,Lecce
+2022-09-05,20:45,Serie A,Matchweek 5,Mon,Away,L,0,1,Torino,0.3,1.1,41,19087,Morten Hjulmand,4-1-4-1,3-4-1-2,Manuel Volpi,Match Report,,2022-2023,Lecce
+2022-09-11,15:00,Serie A,Matchweek 6,Sun,Home,D,1,1,Monza,0.9,0.1,53,23391,Morten Hjulmand,4-3-3,3-5-2,Luca Pairetto,Match Report,,2022-2023,Lecce
+2022-09-16,20:45,Serie A,Matchweek 7,Fri,Away,W,2,1,Salernitana,1.5,1.2,42,19488,Morten Hjulmand,4-3-3,3-5-2,Daniele Doveri,Match Report,,2022-2023,Lecce
+2022-10-02,15:00,Serie A,Matchweek 8,Sun,Home,D,1,1,Cremonese,1.0,1.6,54,23377,Morten Hjulmand,4-1-4-1,4-2-3-1,Livio Marinelli,Match Report,,2022-2023,Lecce
+2022-10-09,20:45,Serie A,Matchweek 9,Sun,Away,L,1,2,Roma,0.3,3.2,34,64018,Morten Hjulmand,4-3-3,3-4-3,Alessandro Prontera,Match Report,,2022-2023,Lecce
+2022-10-17,20:45,Serie A,Matchweek 10,Mon,Home,D,1,1,Fiorentina,1.1,0.5,41,24925,Gabriel Strefezza,4-3-3,4-4-1-1,Luca Massimi,Match Report,,2022-2023,Lecce
+2022-10-23,15:00,Serie A,Matchweek 11,Sun,Away,L,0,2,Bologna,0.4,1.8,46,24206,Morten Hjulmand,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2022-2023,Lecce
+2022-10-29,18:00,Serie A,Matchweek 12,Sat,Home,L,0,1,Juventus,0.2,0.6,36,25860,Morten Hjulmand,4-2-3-1,4-4-1-1,Daniele Chiffi,Match Report,,2022-2023,Lecce
+2022-11-04,20:45,Serie A,Matchweek 13,Fri,Away,D,1,1,Udinese,0.7,1.7,43,21834,Morten Hjulmand,4-3-3,3-5-2,Francesco Fourneau,Match Report,,2022-2023,Lecce
+2022-11-09,18:30,Serie A,Matchweek 14,Wed,Home,W,2,1,Atalanta,1.1,1.5,39,23797,Morten Hjulmand,4-3-3,3-4-3,Gianluca Aureliano,Match Report,,2022-2023,Lecce
+2022-11-12,18:00,Serie A,Matchweek 15,Sat,Away,W,2,0,Sampdoria,0.6,0.7,43,20211,Morten Hjulmand,4-3-3,3-4-1-2,Daniele Doveri,Match Report,,2022-2023,Lecce
+2023-01-04,16:30,Serie A,Matchweek 16,Wed,Home,W,2,1,Lazio,1.3,0.7,41,26084,Morten Hjulmand,4-3-3,4-3-3,Livio Marinelli,Match Report,,2022-2023,Lecce
+2023-01-08,15:00,Serie A,Matchweek 17,Sun,Away,D,0,0,Spezia,1.1,0.9,43,7300,Gabriel Strefezza,4-3-3,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Lecce
+2023-01-14,18:00,Serie A,Matchweek 18,Sat,Home,D,2,2,Milan,1.4,1.4,35,25942,Morten Hjulmand,4-3-3,4-2-3-1,Daniele Orsato,Match Report,,2022-2023,Lecce
+2023-01-21,15:00,Serie A,Matchweek 19,Sat,Away,L,0,2,Hellas Verona,0.8,0.5,58,19955,Morten Hjulmand,4-3-3,3-4-3,Federico La Penna,Match Report,,2022-2023,Lecce
+2023-01-27,20:45,Serie A,Matchweek 20,Fri,Home,L,1,2,Salernitana,1.4,0.9,59,24446,Morten Hjulmand,4-3-3,4-3-3,Davide Massa,Match Report,,2022-2023,Lecce
+2023-02-04,15:00,Serie A,Matchweek 21,Sat,Away,W,2,0,Cremonese,1.5,0.6,42,11189,Morten Hjulmand,4-3-3,3-5-2,Daniele Orsato,Match Report,,2022-2023,Lecce
+2023-02-11,18:00,Serie A,Matchweek 22,Sat,Home,D,1,1,Roma,0.5,1.9,42,25200,Morten Hjulmand,4-3-3,3-4-3,Gianluca Aureliano,Match Report,,2022-2023,Lecce
+2023-02-19,12:30,Serie A,Matchweek 23,Sun,Away,W,2,1,Atalanta,0.4,1.5,30,19435,Morten Hjulmand,4-3-3,3-4-1-2,Marco Piccinini,Match Report,,2022-2023,Lecce
+2023-02-25,20:45,Serie A,Matchweek 24,Sat,Home,L,0,1,Sassuolo,1.2,1.1,42,23760,Morten Hjulmand,4-3-3,4-3-3,Niccolò Baroni,Match Report,,2022-2023,Lecce
+2023-03-05,18:00,Serie A,Matchweek 25,Sun,Away,L,0,2,Inter,0.6,0.8,38,75033,Morten Hjulmand,4-3-3,3-5-2,Gianluca Manganiello,Match Report,,2022-2023,Lecce
+2023-03-12,12:30,Serie A,Matchweek 26,Sun,Home,L,0,2,Torino,0.5,0.1,55,24413,Morten Hjulmand,4-3-3,3-4-3,Juan Sacchi,Match Report,,2022-2023,Lecce
+2023-03-19,15:00,Serie A,Matchweek 27,Sun,Away,L,0,1,Fiorentina,0.5,1.2,41,34604,Morten Hjulmand,4-3-3,4-2-3-1,Rosario Abisso,Match Report,,2022-2023,Lecce
+2023-04-03,18:30,Serie A,Matchweek 28,Mon,Away,L,0,1,Empoli,0.2,1.7,47,8844,Morten Hjulmand,4-3-3,4-3-1-2,Michael Fabbri,Match Report,,2022-2023,Lecce
+2023-04-07,19:00,Serie A,Matchweek 29,Fri,Home,L,1,2,Napoli,1.1,1.1,32,25799,Morten Hjulmand,4-3-3,4-3-3,Gianluca Manganiello,Match Report,,2022-2023,Lecce
+2023-04-16,12:30,Serie A,Matchweek 30,Sun,Home,D,1,1,Sampdoria,2.6,0.6,42,22471,Morten Hjulmand,4-1-4-1,4-2-3-1,Maurizio Mariani,Match Report,,2022-2023,Lecce
+2023-04-23,18:00,Serie A,Matchweek 31,Sun,Away,L,0,2,Milan,1.2,0.8,32,72614,Morten Hjulmand,4-3-3,4-2-3-1,Daniele Chiffi,Match Report,,2022-2023,Lecce
+2023-04-28,18:30,Serie A,Matchweek 32,Fri,Home,W,1,0,Udinese,2.0,0.7,39,23069,Morten Hjulmand,4-3-3,3-5-1-1,Matteo Marchetti,Match Report,,2022-2023,Lecce
+2023-05-03,18:00,Serie A,Matchweek 33,Wed,Away,L,1,2,Juventus,1.7,1.8,46,33757,Morten Hjulmand,4-3-3,3-5-1-1,Francesco Fourneau,Match Report,,2022-2023,Lecce
+2023-05-07,20:45,Serie A,Matchweek 34,Sun,Home,L,0,1,Hellas Verona,0.8,0.8,53,24768,Morten Hjulmand,4-3-3,3-5-1-1,Davide Massa,Match Report,,2022-2023,Lecce
+2023-05-12,20:45,Serie A,Matchweek 35,Fri,Away,D,2,2,Lazio,1.4,1.7,33,40000,Morten Hjulmand,4-3-3,4-3-3,Fabio Maresca,Match Report,,2022-2023,Lecce
+2023-05-21,12:30,Serie A,Matchweek 36,Sun,Home,D,0,0,Spezia,0.3,0.8,40,26022,Gabriel Strefezza,4-3-3,3-5-2,Maurizio Mariani,Match Report,,2022-2023,Lecce
+2023-05-28,15:00,Serie A,Matchweek 37,Sun,Away,W,1,0,Monza,1.2,1.1,27,15039,Gabriel Strefezza,4-3-3,3-4-1-2,Daniele Doveri,Match Report,,2022-2023,Lecce
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Home,L,2,3,Bologna,1.4,1.1,39,25816,Morten Hjulmand,4-3-3,4-2-3-1,Marco Piccinini,Match Report,,2022-2023,Lecce

@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-11,21:15,Coppa Italia,Third round,Sat,Home,W,4,0,Lecce,,,,15141,,,,Federico La Penna,Match Report,,2018-2019,Genoa
+2018-08-26,20:30,Serie A,Matchweek 2,Sun,Home,W,2,1,Empoli,1.1,1.5,31.0,19523,Domenico Criscito,3-4-1-2,4-3-1-2,Livio Marinelli,Match Report,,2018-2019,Genoa
+2018-09-02,20:30,Serie A,Matchweek 3,Sun,Away,L,3,5,Sassuolo,1.9,1.7,56.0,9740,Domenico Criscito,3-4-1-2,3-4-3,Gianluca Rocchi,Match Report,,2018-2019,Genoa
+2018-09-16,15:00,Serie A,Matchweek 4,Sun,Home,W,1,0,Bologna,0.7,0.8,51.0,20032,Domenico Criscito,3-4-1-2,3-1-4-2,Luca Banti,Match Report,,2018-2019,Genoa
+2018-09-23,15:00,Serie A,Matchweek 5,Sun,Away,L,1,4,Lazio,0.7,2.9,44.0,30000,Domenico Criscito,3-5-2,3-5-2,Rosario Abisso,Match Report,,2018-2019,Genoa
+2018-09-26,21:00,Serie A,Matchweek 6,Wed,Home,W,2,0,Chievo,1.3,1.2,49.0,18969,Domenico Criscito,3-4-1-2,4-3-3,Fabrizio Pasqua,Match Report,,2018-2019,Genoa
+2018-09-30,15:00,Serie A,Matchweek 7,Sun,Away,W,2,1,Frosinone,1.0,1.6,50.0,12384,Domenico Criscito,3-4-1-2,3-4-3,Juan Sacchi,Match Report,,2018-2019,Genoa
+2018-10-07,12:30,Serie A,Matchweek 8,Sun,Home,L,1,3,Parma,1.8,1.2,60.0,20511,Domenico Criscito,3-4-1-2,4-3-3,Daniele Chiffi,Match Report,,2018-2019,Genoa
+2018-10-20,18:00,Serie A,Matchweek 9,Sat,Away,D,1,1,Juventus,1.0,1.8,37.0,37735,Domenico Criscito,3-4-1-2,4-3-3,Federico La Penna,Match Report,,2018-2019,Genoa
+2018-10-28,15:00,Serie A,Matchweek 10,Sun,Home,D,2,2,Udinese,1.7,0.5,37.0,18880,Domenico Criscito,3-4-1-2,3-1-4-2,Paolo Mazzoleni,Match Report,,2018-2019,Genoa
+2018-10-31,20:30,Serie A,Matchweek 1,Wed,Away,L,1,2,Milan,0.4,1.4,42.0,46720,Domenico Criscito,3-5-2,3-4-1-2,Fabrizio Pasqua,Match Report,,2018-2019,Genoa
+2018-11-03,15:00,Serie A,Matchweek 11,Sat,Away,L,0,5,Inter,0.4,2.9,38.0,67532,Davide Biraschi,3-4-1-2,4-3-3,Paolo Valeri,Match Report,,2018-2019,Genoa
+2018-11-10,20:30,Serie A,Matchweek 12,Sat,Home,L,1,2,Napoli,0.7,1.7,33.0,25365,Domenico Criscito,3-1-4-2,4-4-2,Rosario Abisso,Match Report,,2018-2019,Genoa
+2018-11-25,20:30,Serie A,Matchweek 13,Sun,Home,D,1,1,Sampdoria,2.1,0.6,42.0,31756,Domenico Criscito,3-1-4-2,4-3-1-2,Daniele Doveri,Match Report,,2018-2019,Genoa
+2018-12-02,15:00,Serie A,Matchweek 14,Sun,Away,L,1,2,Torino,1.6,2.2,35.0,15324,Domenico Criscito,3-1-4-2,3-4-1-2,Maurizio Mariani,Match Report,,2018-2019,Genoa
+2018-12-06,18:00,Coppa Italia,Fourth round,Thu,Home,D,3 (6),3 (7),Virtus Entella,,,,2795,,,,Valerio Marini,Match Report,Virtus Entella won on penalty kicks following extra time,2018-2019,Genoa
+2018-12-09,18:00,Serie A,Matchweek 15,Sun,Home,D,1,1,SPAL,1.0,2.0,28.0,19571,Domenico Criscito,3-1-4-2,3-5-2,Fabrizio Pasqua,Match Report,,2018-2019,Genoa
+2018-12-16,20:30,Serie A,Matchweek 16,Sun,Away,L,2,3,Roma,2.0,1.9,46.0,29111,Davide Biraschi,3-1-4-2,3-4-3,Marco Di Bello,Match Report,,2018-2019,Genoa
+2018-12-22,15:00,Serie A,Matchweek 17,Sat,Home,W,3,1,Atalanta,1.5,2.4,38.0,19841,Domenico Criscito,3-1-4-2,3-4-1-2,Daniele Doveri,Match Report,,2018-2019,Genoa
+2018-12-26,15:00,Serie A,Matchweek 18,Wed,Away,L,0,1,Cagliari,0.6,1.2,51.0,15777,Domenico Criscito,3-2-4-1,4-3-1-2,Daniele Orsato,Match Report,,2018-2019,Genoa
+2018-12-29,15:00,Serie A,Matchweek 19,Sat,Home,D,0,0,Fiorentina,0.5,1.6,45.0,21000,Domenico Criscito,3-1-4-2,4-2-3-1,Davide Massa,Match Report,,2018-2019,Genoa
+2019-01-21,15:00,Serie A,Matchweek 20,Mon,Home,L,0,2,Milan,1.9,1.4,39.0,19794,Domenico Criscito,4-4-2,4-3-3,Daniele Orsato,Match Report,,2018-2019,Genoa
+2019-01-28,20:30,Serie A,Matchweek 21,Mon,Away,W,3,1,Empoli,2.1,1.7,41.0,7675,Domenico Criscito,4-3-3,5-3-2,Federico La Penna,Match Report,,2018-2019,Genoa
+2019-02-03,15:00,Serie A,Matchweek 22,Sun,Home,D,1,1,Sassuolo,1.0,0.9,36.0,18927,Domenico Criscito,4-5-1,4-3-3,Gianluca Manganiello,Match Report,,2018-2019,Genoa
+2019-02-10,12:30,Serie A,Matchweek 23,Sun,Away,D,1,1,Bologna,1.2,1.1,39.0,17385,Domenico Criscito,4-5-1,4-3-3,Gianluca Rocchi,Match Report,,2018-2019,Genoa
+2019-02-17,15:00,Serie A,Matchweek 24,Sun,Home,W,2,1,Lazio,1.9,0.6,46.0,19936,Domenico Criscito,4-3-3,3-5-2,Luca Banti,Match Report,,2018-2019,Genoa
+2019-02-24,15:00,Serie A,Matchweek 25,Sun,Away,D,0,0,Chievo,0.5,0.5,50.0,10500,Domenico Criscito,4-3-1-2,4-3-1-2,Manuel Volpi,Match Report,,2018-2019,Genoa
+2019-03-03,15:00,Serie A,Matchweek 26,Sun,Home,D,0,0,Frosinone,0.9,0.2,66.0,19920,Domenico Criscito,4-1-4-1,3-5-2,Maurizio Mariani,Match Report,,2018-2019,Genoa
+2019-03-09,18:00,Serie A,Matchweek 27,Sat,Away,L,0,1,Parma,0.9,1.7,59.0,14787,Domenico Criscito,4-3-3,4-3-3,Juan Sacchi,Match Report,,2018-2019,Genoa
+2019-03-17,12:30,Serie A,Matchweek 28,Sun,Home,W,2,0,Juventus,1.3,0.3,41.0,30695,Domenico Criscito,4-4-2,3-1-4-2,Marco Di Bello,Match Report,,2018-2019,Genoa
+2019-03-30,15:00,Serie A,Matchweek 29,Sat,Away,L,0,2,Udinese,2.2,2.1,61.0,17072,Domenico Criscito,4-4-1-1,4-3-3,Luca Pairetto,Match Report,,2018-2019,Genoa
+2019-04-03,21:00,Serie A,Matchweek 30,Wed,Home,L,0,4,Inter,0.6,2.4,24.0,21865,Stefano Sturaro,4-4-2,4-2-3-1,Maurizio Mariani,Match Report,,2018-2019,Genoa
+2019-04-07,20:30,Serie A,Matchweek 31,Sun,Away,D,1,1,Napoli,1.1,1.7,26.0,22935,Domenico Criscito,5-3-2,4-4-2,Fabrizio Pasqua,Match Report,,2018-2019,Genoa
+2019-04-14,15:00,Serie A,Matchweek 32,Sun,Away,L,0,2,Sampdoria,1.0,2.6,45.0,30548,Domenico Criscito,3-5-2,4-3-1-2,Giampaolo Calvarese,Match Report,,2018-2019,Genoa
+2019-04-20,15:00,Serie A,Matchweek 33,Sat,Home,L,0,1,Torino,1.0,0.7,48.0,8000,Domenico Criscito,4-4-2,3-4-3,Daniele Doveri,Match Report,,2018-2019,Genoa
+2019-04-28,15:00,Serie A,Matchweek 34,Sun,Away,D,1,1,SPAL,1.1,1.0,45.0,13563,Domenico Criscito,5-3-2,3-5-2,Davide Massa,Match Report,,2018-2019,Genoa
+2019-05-05,18:00,Serie A,Matchweek 35,Sun,Home,D,1,1,Roma,2.2,0.9,42.0,20703,Domenico Criscito,4-1-4-1,4-2-3-1,Paolo Mazzoleni,Match Report,,2018-2019,Genoa
+2019-05-11,15:00,Serie A,Matchweek 36,Sat,Away,L,1,2,Atalanta,1.8,1.6,39.0,12000,Domenico Criscito,4-1-4-1,3-4-1-2,Massimiliano Irrati,Match Report,,2018-2019,Genoa
+2019-05-18,18:00,Serie A,Matchweek 37,Sat,Home,D,1,1,Cagliari,2.2,0.4,52.0,22768,Domenico Criscito,3-1-4-2,5-3-2,Paolo Valeri,Match Report,,2018-2019,Genoa
+2019-05-26,20:30,Serie A,Matchweek 38,Sun,Away,D,0,0,Fiorentina,0.1,0.3,38.0,37527,Domenico Criscito,3-5-2,3-5-1-1,Daniele Orsato,Match Report,,2018-2019,Genoa

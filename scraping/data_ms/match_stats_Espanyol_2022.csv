@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-13,17:00,La Liga,Matchweek 1,Sat,Away,D,2,2,Celta Vigo,1.1,0.4,40,13859,Leandro Cabrera,4-3-3,4-1-3-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Espanyol
+2022-08-19,20:00,La Liga,Matchweek 2,Fri,Home,L,0,2,Rayo Vallecano,0.8,1.4,54,16071,Leandro Cabrera,4-3-3,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Espanyol
+2022-08-28,22:00,La Liga,Matchweek 3,Sun,Home,L,1,3,Real Madrid,1.3,2.1,36,25778,Leandro Cabrera,4-1-4-1,4-3-3,Mario Melero,Match Report,,2022-2023,Espanyol
+2022-09-04,16:15,La Liga,Matchweek 4,Sun,Away,W,1,0,Athletic Club,0.6,1.2,34,41574,Leandro Cabrera,4-3-3,4-2-3-1,Juan Martínez,Match Report,,2022-2023,Espanyol
+2022-09-10,16:15,La Liga,Matchweek 5,Sat,Home,L,2,3,Sevilla,2.5,2.0,58,20135,Leandro Cabrera,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Espanyol
+2022-09-18,18:30,La Liga,Matchweek 6,Sun,Away,L,1,2,Real Sociedad,0.8,1.9,38,31511,Sergi Darder,5-3-2,4-1-3-2,Carlos del Cerro,Match Report,,2022-2023,Espanyol
+2022-10-02,14:00,La Liga,Matchweek 7,Sun,Home,D,2,2,Valencia,0.8,1.1,38,19766,Sergi Darder,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,,2022-2023,Espanyol
+2022-10-09,16:15,La Liga,Matchweek 8,Sun,Away,D,2,2,Cádiz,1.3,1.3,46,16572,Sergi Darder,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Espanyol
+2022-10-16,18:30,La Liga,Matchweek 9,Sun,Home,W,1,0,Valladolid,1.3,0.7,49,17770,Sergi Darder,4-1-3-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2022-2023,Espanyol
+2022-10-20,20:00,La Liga,Matchweek 10,Thu,Away,L,0,1,Osasuna,1.0,1.0,36,17832,Sergi Darder,4-4-2,4-1-4-1,Mario Melero,Match Report,,2022-2023,Espanyol
+2022-10-23,14:00,La Liga,Matchweek 11,Sun,Home,D,2,2,Elche,2.2,0.5,41,17560,Sergi Darder,4-3-3,5-3-2,José Luis Munuera,Match Report,,2022-2023,Espanyol
+2022-10-28,21:00,La Liga,Matchweek 12,Fri,Away,D,1,1,Mallorca,0.3,1.4,48,13982,Sergi Darder,4-3-3,5-4-1,Isidro Díaz de Mera,Match Report,,2022-2023,Espanyol
+2022-11-06,14:00,La Liga,Matchweek 13,Sun,Away,D,1,1,Atlético Madrid,0.7,1.9,33,50007,Sergi Darder,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2022-2023,Espanyol
+2022-11-09,20:00,La Liga,Matchweek 14,Wed,Home,L,0,1,Villarreal,1.1,0.7,44,17400,Sergi Darder,4-2-3-1,4-3-3,Javier Villanueva,Match Report,,2022-2023,Espanyol
+2022-11-12,21:00,Copa del Rey,First round,Sat,Away,W,3,0,CD Rincón,,,67,7912,Leandro Cabrera,4-2-3-1,4-4-1-1,Valentín Pizarro,Match Report,,2022-2023,Espanyol
+2022-12-20,21:00,Copa del Rey,Second round,Tue,Away,W,1,0,Club Deportivo Atlético Paso,,,64,5000,Joselu,4-4-2,3-4-3,César Soto,Match Report,,2022-2023,Espanyol
+2022-12-31,14:00,La Liga,Matchweek 15,Sat,Away,D,1,1,Barcelona,0.9,2.2,23,88095,Sergi Darder,4-2-3-1,4-3-3,Antonio Matéu,Match Report,,2022-2023,Espanyol
+2023-01-03,19:00,Copa del Rey,Round of 32,Tue,Home,W,3,1,Celta Vigo,,,47,20050,Javi Puado,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,Required Extra Time,2022-2023,Espanyol
+2023-01-07,21:00,La Liga,Matchweek 16,Sat,Home,D,2,2,Girona,1.5,1.2,44,21429,Sergi Darder,4-3-3,4-1-4-1,Carlos del Cerro,Match Report,,2022-2023,Espanyol
+2023-01-15,14:00,La Liga,Matchweek 17,Sun,Away,W,2,1,Getafe,0.8,0.5,38,10286,Sergi Darder,3-4-3,5-3-2,Jorge Figueroa,Match Report,,2022-2023,Espanyol
+2023-01-18,20:00,Copa del Rey,Round of 16,Wed,Away,L,0,1,Athletic Club,,,37,37564,Sergi Darder,5-4-1,4-2-3-1,Juan Pulido,Match Report,,2022-2023,Espanyol
+2023-01-21,16:15,La Liga,Matchweek 18,Sat,Home,W,1,0,Betis,2.3,0.9,31,20811,Sergi Darder,4-4-2,4-2-3-1,Pablo González,Match Report,,2022-2023,Espanyol
+2023-01-27,21:00,La Liga,Matchweek 19,Fri,Away,L,1,3,Almería,0.8,2.1,44,11629,Sergi Darder,4-1-3-2,4-3-3,Javier Villanueva,Match Report,,2022-2023,Espanyol
+2023-02-04,14:00,La Liga,Matchweek 20,Sat,Home,D,1,1,Osasuna,1.4,0.9,41,22438,Sergi Darder,4-4-2,4-1-4-1,Jesús Gil,Match Report,,2022-2023,Espanyol
+2023-02-13,21:00,La Liga,Matchweek 21,Mon,Home,L,2,3,Real Sociedad,1.2,1.4,44,15867,Sergi Darder,4-4-2,4-1-4-1,Alejandro Muñíz,Match Report,,2022-2023,Espanyol
+2023-02-19,14:00,La Liga,Matchweek 22,Sun,Away,W,1,0,Elche,1.3,1.8,54,18963,Sergi Darder,3-5-2,3-4-3,Carlos del Cerro,Match Report,,2022-2023,Espanyol
+2023-02-25,14:00,La Liga,Matchweek 23,Sat,Home,W,2,1,Mallorca,1.4,0.7,40,21403,Sergi Darder,4-3-3,5-3-2,Alberola Rojas,Match Report,,2022-2023,Espanyol
+2023-03-05,14:00,La Liga,Matchweek 24,Sun,Away,L,1,2,Valladolid,1.2,1.4,55,19212,Joselu,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,,2022-2023,Espanyol
+2023-03-11,14:00,La Liga,Matchweek 25,Sat,Away,L,1,3,Real Madrid,1.2,1.7,29,59872,Sergi Darder,4-4-2,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Espanyol
+2023-03-18,18:30,La Liga,Matchweek 26,Sat,Home,L,1,3,Celta Vigo,1.2,1.6,57,26231,Sergi Darder,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,2022-2023,Espanyol
+2023-04-01,14:00,La Liga,Matchweek 27,Sat,Away,L,1,2,Girona,1.0,1.6,38,12841,Sergi Darder,4-4-1-1,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Espanyol
+2023-04-08,16:15,La Liga,Matchweek 28,Sat,Home,L,1,2,Athletic Club,0.9,2.3,49,24903,Sergi Darder,4-2-3-1,4-2-3-1,José Luis Munuera,Match Report,,2022-2023,Espanyol
+2023-04-15,18:30,La Liga,Matchweek 29,Sat,Away,L,1,3,Betis,0.8,2.0,48,45313,Sergi Darder,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Espanyol
+2023-04-21,21:00,La Liga,Matchweek 30,Fri,Home,D,0,0,Cádiz,1.3,1.4,56,28512,Sergi Darder,5-3-2,4-4-2,Juan Martínez,Match Report,,2022-2023,Espanyol
+2023-04-27,19:30,La Liga,Matchweek 31,Thu,Away,L,2,4,Villarreal,0.9,3.7,36,16134,Sergi Darder,4-4-1-1,4-2-3-1,César Soto,Match Report,,2022-2023,Espanyol
+2023-04-30,18:30,La Liga,Matchweek 32,Sun,Home,W,1,0,Getafe,2.4,0.5,56,26953,Sergi Darder,5-3-2,4-4-2,José Sánchez,Match Report,,2022-2023,Espanyol
+2023-05-04,19:30,La Liga,Matchweek 33,Thu,Away,L,2,3,Sevilla,1.0,2.6,37,35391,Sergi Darder,5-4-1,4-2-3-1,Alberola Rojas,Match Report,,2022-2023,Espanyol
+2023-05-14,21:00,La Liga,Matchweek 34,Sun,Home,L,2,4,Barcelona,2.7,3.1,31,27360,Sergi Darder,5-3-2,4-3-3,Ricardo de Burgos,Match Report,,2022-2023,Espanyol
+2023-05-21,14:00,La Liga,Matchweek 35,Sun,Away,W,2,1,Rayo Vallecano,1.6,2.0,36,12142,Sergi Darder,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Espanyol
+2023-05-24,22:00,La Liga,Matchweek 36,Wed,Home,D,3,3,Atlético Madrid,3.0,2.3,46,25822,Sergi Darder,5-3-2,5-3-2,Mario Melero,Match Report,,2022-2023,Espanyol
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,D,2,2,Valencia,1.2,2.6,47,44141,Sergi Darder,5-3-2,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Espanyol
+2023-06-04,21:00,La Liga,Matchweek 38,Sun,Home,D,3,3,Almería,0.6,1.8,63,14213,Sergi Darder,4-2-3-1,4-3-3,César Soto,Match Report,,2022-2023,Espanyol

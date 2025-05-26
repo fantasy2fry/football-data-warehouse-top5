@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-07,17:00,Ligue 1,Matchweek 1,Sat,Away,D,1,1,Lyon,0.8,1.4,32.0,29018,Brendan Chardonnet,4-2-3-1,4-3-3,Mikael Lesage,Match Report,,2021-2022,Brest
+2021-08-15,15:00,Ligue 1,Matchweek 2,Sun,Home,D,1,1,Rennes,1.9,1.0,41.0,14271,Brendan Chardonnet,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2021-2022,Brest
+2021-08-20,21:00,Ligue 1,Matchweek 3,Fri,Home,L,2,4,Paris S-G,1.1,0.9,26.0,14586,Brendan Chardonnet,4-2-3-1,4-1-2-1-2,Eric Wattellier,Match Report,,2021-2022,Brest
+2021-08-29,15:00,Ligue 1,Matchweek 4,Sun,Away,L,1,3,Strasbourg,0.8,1.4,52.0,22341,Steve Mounié,4-3-3,5-3-2,Romain Lissorgue,Match Report,,2021-2022,Brest
+2021-09-12,15:00,Ligue 1,Matchweek 5,Sun,Home,D,1,1,Angers,1.3,1.2,49.0,10982,Brendan Chardonnet,4-2-3-1,3-4-1-2,Jeremy Stinat,Match Report,,2021-2022,Brest
+2021-09-19,15:00,Ligue 1,Matchweek 6,Sun,Away,D,1,1,Clermont Foot,0.5,1.1,42.0,11224,Brendan Chardonnet,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2021-2022,Brest
+2021-09-22,19:00,Ligue 1,Matchweek 7,Wed,Away,L,1,3,Nantes,0.8,1.3,58.0,19676,Brendan Chardonnet,4-1-4-1,4-4-1-1,Thomas Léonard,Match Report,,2021-2022,Brest
+2021-09-26,15:00,Ligue 1,Matchweek 8,Sun,Home,L,1,2,Metz,1.6,0.6,66.0,10398,Brendan Chardonnet,4-2-3-1,4-5-1,Willy Delajod,Match Report,,2021-2022,Brest
+2021-10-02,21:00,Ligue 1,Matchweek 9,Sat,Away,L,1,2,Nice,0.6,3.8,30.0,13503,Brendan Chardonnet,4-2-3-1,4-4-2,António Nobre,Match Report,,2021-2022,Brest
+2021-10-17,15:00,Ligue 1,Matchweek 10,Sun,Home,D,1,1,Reims,0.5,0.8,55.0,9693,Brendan Chardonnet,4-2-3-1,3-4-1-2,Jeremy Stinat,Match Report,,2021-2022,Brest
+2021-10-23,21:00,Ligue 1,Matchweek 11,Sat,Away,D,1,1,Lille,1.2,1.7,36.0,32613,Brendan Chardonnet,4-2-3-1,4-2-2-2,Clément Turpin,Match Report,,2021-2022,Brest
+2021-10-31,17:00,Ligue 1,Matchweek 12,Sun,Home,W,2,0,Monaco,1.3,0.4,34.0,12463,Brendan Chardonnet,4-2-3-1,4-4-2,Johan Hamel,Match Report,,2021-2022,Brest
+2021-11-07,15:00,Ligue 1,Matchweek 13,Sun,Away,W,2,1,Lorient,2.6,1.3,61.0,14649,Steve Mounié,4-4-2,3-5-2,Romain Lissorgue,Match Report,,2021-2022,Brest
+2021-11-21,13:00,Ligue 1,Matchweek 14,Sun,Home,W,4,0,Lens,1.3,1.5,36.0,12462,Brendan Chardonnet,4-4-2,3-4-1-2,Eric Wattellier,Match Report,,2021-2022,Brest
+2021-11-28,15:00,Ligue 1,Matchweek 15,Sun,Away,W,2,1,Bordeaux,2.4,1.4,35.0,15280,Brendan Chardonnet,4-2-2-2,4-4-1-1,Pierre Gaillouste,Match Report,,2021-2022,Brest
+2021-12-01,19:00,Ligue 1,Matchweek 16,Wed,Home,W,1,0,Saint-Étienne,1.5,0.6,36.0,13248,Brendan Chardonnet,4-4-2,4-2-3-1,Mikael Lesage,Match Report,,2021-2022,Brest
+2021-12-04,17:00,Ligue 1,Matchweek 17,Sat,Away,W,2,1,Marseille,1.3,1.5,26.0,54413,Brendan Chardonnet,4-4-2,3-2-4-1,Antony Gautier,Match Report,,2021-2022,Brest
+2021-12-11,17:00,Ligue 1,Matchweek 18,Sat,Home,L,0,4,Montpellier,0.9,1.6,44.0,13111,Steve Mounié,4-4-2,4-2-3-1,Benoît Millot,Match Report,,2021-2022,Brest
+2021-12-19,18:20,Coupe de France,Round of 64,Sun,Away,D,0 (13),0 (12),Dinan-Léhon,,,,3475,Brendan Chardonnet,4-2-2-2,5-4-1,Benjamin Lepaysant,Match Report,Brest won on penalty kicks following extra time,2021-2022,Brest
+2021-12-22,21:00,Ligue 1,Matchweek 19,Wed,Away,D,1,1,Troyes,0.6,1.2,34.0,6872,Brendan Chardonnet,4-4-2,5-3-2,Johan Hamel,Match Report,,2021-2022,Brest
+2022-01-02,13:45,Coupe de France,Round of 32,Sun,Home,W,3,0,Bordeaux,,,59.0,4039,Brendan Chardonnet,4-4-2,4-4-2,Ruddy Buquet,Match Report,,2021-2022,Brest
+2022-01-09,13:00,Ligue 1,Matchweek 20,Sun,Home,L,0,3,Nice,1.6,1.2,63.0,5102,Brendan Chardonnet,4-4-2,4-4-2,Stéphanie Frappart,Match Report,,2021-2022,Brest
+2022-01-15,21:00,Ligue 1,Matchweek 21,Sat,Away,L,0,2,Paris S-G,1.0,2.0,32.0,4925,Brendan Chardonnet,4-4-2,4-3-3,Mikael Lesage,Match Report,,2021-2022,Brest
+2022-01-22,17:00,Ligue 1,Matchweek 22,Sat,Home,W,2,0,Lille,1.2,1.2,38.0,4358,Brendan Chardonnet,4-4-2,4-4-2,Jérôme Brisard,Match Report,,2021-2022,Brest
+2022-01-28,21:00,Coupe de France,Round of 16,Fri,Away,L,0,2,Nantes,,,52.0,5000,Brendan Chardonnet,4-4-2,5-3-2,Benoît Bastien,Match Report,,2021-2022,Brest
+2022-02-06,17:00,Ligue 1,Matchweek 23,Sun,Away,L,0,2,Rennes,0.4,2.1,40.0,25409,Brendan Chardonnet,4-4-2,4-3-3,Johan Hamel,Match Report,,2021-2022,Brest
+2022-02-13,15:00,Ligue 1,Matchweek 24,Sun,Home,W,5,1,Troyes,2.7,0.5,58.0,10600,Brendan Chardonnet,4-2-3-1,4-4-2,Florent Batta,Match Report,,2021-2022,Brest
+2022-02-20,15:00,Ligue 1,Matchweek 25,Sun,Away,D,1,1,Reims,1.7,0.7,56.0,9307,Jean-Kevin Duverne,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2021-2022,Brest
+2022-02-27,15:00,Ligue 1,Matchweek 26,Sun,Home,L,0,1,Lorient,0.2,2.5,45.0,14050,Brendan Chardonnet,4-2-3-1,4-1-4-1,Benoît Bastien,Match Report,,2021-2022,Brest
+2022-03-05,17:00,Ligue 1,Matchweek 27,Sat,Away,W,1,0,Lens,0.5,2.0,36.0,36305,Jean-Kevin Duverne,3-4-1-2,3-4-1-2,Johan Hamel,Match Report,,2021-2022,Brest
+2022-03-13,20:45,Ligue 1,Matchweek 28,Sun,Home,L,1,4,Marseille,0.6,2.2,48.0,14611,Jean-Kevin Duverne,4-4-2,4-3-2-1,Ruddy Buquet,Match Report,,2021-2022,Brest
+2022-03-20,15:00,Ligue 1,Matchweek 29,Sun,Away,L,0,1,Angers,1.2,1.8,51.0,7734,Brendan Chardonnet,5-3-2,3-5-1-1,Jérémie Pignard,Match Report,,2021-2022,Brest
+2022-04-03,15:00,Ligue 1,Matchweek 30,Sun,Away,W,2,1,Montpellier,0.7,1.4,41.0,10929,Brendan Chardonnet,4-4-2,4-2-3-1,Florent Batta,Match Report,,2021-2022,Brest
+2022-04-10,15:00,Ligue 1,Matchweek 31,Sun,Home,D,1,1,Nantes,1.1,0.7,52.0,13145,Brendan Chardonnet,4-4-2,3-5-1-1,Johan Hamel,Match Report,,2021-2022,Brest
+2022-04-16,17:00,Ligue 1,Matchweek 32,Sat,Away,L,1,2,Saint-Étienne,0.4,1.0,61.0,27227,Brendan Chardonnet,4-4-2,3-4-3,Eric Wattellier,Match Report,,2021-2022,Brest
+2022-04-20,21:00,Ligue 1,Matchweek 33,Wed,Home,W,2,1,Lyon,1.2,2.7,34.0,14028,Brendan Chardonnet,4-4-2,4-3-3,Jeremy Stinat,Match Report,,2021-2022,Brest
+2022-04-24,15:00,Ligue 1,Matchweek 34,Sun,Away,W,1,0,Metz,1.7,0.4,42.0,19874,Brendan Chardonnet,4-3-3,3-5-2,Florent Batta,Match Report,,2021-2022,Brest
+2022-05-01,15:00,Ligue 1,Matchweek 35,Sun,Home,W,2,0,Clermont Foot,1.3,1.1,42.0,10592,Brendan Chardonnet,4-4-2,4-2-3-1,Romain Lissorgue,Match Report,,2021-2022,Brest
+2022-05-07,17:00,Ligue 1,Matchweek 36,Sat,Home,L,0,1,Strasbourg,0.4,2.2,46.0,12093,Brendan Chardonnet,4-4-2,5-3-2,Mikael Lesage,Match Report,,2021-2022,Brest
+2022-05-14,21:00,Ligue 1,Matchweek 37,Sat,Away,L,2,4,Monaco,1.9,3.1,43.0,6000,Jean-Kevin Duverne,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2021-2022,Brest
+2022-05-21,21:00,Ligue 1,Matchweek 38,Sat,Home,L,2,4,Bordeaux,0.9,2.8,48.0,14484,Brendan Chardonnet,4-4-2,3-4-1-2,Hakim Ben El Hadj Salem,Match Report,,2021-2022,Brest

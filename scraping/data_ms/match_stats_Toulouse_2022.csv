@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,13:00,Ligue 1,Matchweek 1,Sun,Home,D,1,1,Nice,0.9,1.2,46,20567,Branco van den Boomen,4-2-3-1,4-3-3,Johan Hamel,Match Report,,2022-2023,Toulouse
+2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,W,3,0,Troyes,1.5,1.0,67,6000,Brecht Dejaegere,4-2-3-1,5-4-1,Marc Bollengier,Match Report,,2022-2023,Toulouse
+2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,D,2,2,Lorient,1.8,2.5,52,23862,Brecht Dejaegere,4-3-3,4-2-3-1,Gustavo Correia,Match Report,,2022-2023,Toulouse
+2022-08-28,13:00,Ligue 1,Matchweek 4,Sun,Away,L,1,3,Nantes,0.6,1.5,50,26574,Brecht Dejaegere,4-2-3-1,4-3-3,Mathieu Vernice,Match Report,,2022-2023,Toulouse
+2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,L,0,3,Paris S-G,0.8,2.8,38,31700,Branco van den Boomen,3-4-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Toulouse
+2022-09-04,15:00,Ligue 1,Matchweek 6,Sun,Away,L,0,2,Clermont Foot,1.3,1.3,66,10085,Brecht Dejaegere,4-2-3-1,3-4-3,François Letexier,Match Report,,2022-2023,Toulouse
+2022-09-11,15:00,Ligue 1,Matchweek 7,Sun,Home,W,1,0,Reims,1.3,1.0,47,21315,Branco van den Boomen,5-4-1,3-4-1-2,Stéphanie Frappart,Match Report,,2022-2023,Toulouse
+2022-09-17,21:00,Ligue 1,Matchweek 8,Sat,Away,L,1,2,Lille,0.8,1.0,55,33635,Branco van den Boomen,5-4-1,4-2-3-1,Pierre Gaillouste,Match Report,,2022-2023,Toulouse
+2022-10-02,15:00,Ligue 1,Matchweek 9,Sun,Home,W,4,2,Montpellier,1.7,1.2,43,21820,Brecht Dejaegere,4-3-3,4-2-3-1,Jérémie Pignard,Match Report,,2022-2023,Toulouse
+2022-10-07,21:00,Ligue 1,Matchweek 10,Fri,Away,D,1,1,Lyon,0.5,1.4,42,41295,Brecht Dejaegere,4-3-3,4-2-3-1,Ruddy Buquet,Match Report,,2022-2023,Toulouse
+2022-10-16,13:00,Ligue 1,Matchweek 11,Sun,Home,W,3,2,Angers,2.4,1.2,55,21141,Brecht Dejaegere,4-3-3,5-3-2,Benoît Bastien,Match Report,,2022-2023,Toulouse
+2022-10-23,15:00,Ligue 1,Matchweek 12,Sun,Home,D,2,2,Strasbourg,2.2,1.8,48,21622,Brecht Dejaegere,4-2-3-1,3-5-2,Jeremy Stinat,Match Report,,2022-2023,Toulouse
+2022-10-28,21:00,Ligue 1,Matchweek 13,Fri,Away,L,0,3,Lens,0.7,2.4,48,37488,Brecht Dejaegere,4-3-3,3-4-3,Florent Batta,Match Report,,2022-2023,Toulouse
+2022-11-06,15:00,Ligue 1,Matchweek 14,Sun,Home,L,0,2,Monaco,0.7,2.4,48,23005,Brecht Dejaegere,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2022-2023,Toulouse
+2022-11-12,21:00,Ligue 1,Matchweek 15,Sat,Away,L,1,2,Rennes,1.0,2.1,54,26835,Branco van den Boomen,4-3-3,4-4-2,Willy Delajod,Match Report,,2022-2023,Toulouse
+2022-12-29,21:00,Ligue 1,Matchweek 16,Thu,Away,L,1,6,Marseille,1.8,2.6,49,61371,Brecht Dejaegere,4-3-3,3-4-3,Jérémie Pignard,Match Report,,2022-2023,Toulouse
+2023-01-01,15:00,Ligue 1,Matchweek 17,Sun,Home,W,2,0,Ajaccio,1.1,0.0,62,25957,Brecht Dejaegere,4-3-3,4-4-2,Pierre Gaillouste,Match Report,,2022-2023,Toulouse
+2023-01-08,18:00,Coupe de France,Round of 64,Sun,Away,W,7,1,Lannion FC,,,62,6300,Brecht Dejaegere,4-3-3,4-3-3,Ruddy Buquet,Match Report,,2022-2023,Toulouse
+2023-01-11,19:00,Ligue 1,Matchweek 18,Wed,Away,W,5,0,Auxerre,2.2,1.1,52,12405,Brecht Dejaegere,4-3-3,4-4-2,Florent Batta,Match Report,,2022-2023,Toulouse
+2023-01-15,15:00,Ligue 1,Matchweek 19,Sun,Home,D,1,1,Brest,1.4,1.0,64,20637,Brecht Dejaegere,4-3-3,4-1-4-1,Benoît Millot,Match Report,,2022-2023,Toulouse
+2023-01-21,18:00,Coupe de France,Round of 32,Sat,Home,W,2,0,Ajaccio,,,63,18708,Brecht Dejaegere,4-3-3,4-4-2,François Letexier,Match Report,,2022-2023,Toulouse
+2023-01-29,15:00,Ligue 1,Matchweek 20,Sun,Away,W,2,1,Strasbourg,1.2,1.3,46,25196,Branco van den Boomen,4-3-3,3-5-2,Willy Delajod,Match Report,,2022-2023,Toulouse
+2023-02-01,19:00,Ligue 1,Matchweek 21,Wed,Home,W,4,1,Troyes,2.2,1.2,55,17725,Brecht Dejaegere,4-3-3,3-5-2,Mathieu Vernice,Match Report,,2022-2023,Toulouse
+2023-02-04,17:00,Ligue 1,Matchweek 22,Sat,Away,L,1,2,Paris S-G,0.8,1.9,39,45000,Brecht Dejaegere,4-3-3,4-1-2-1-2,Bastien Dechepy,Match Report,,2022-2023,Toulouse
+2023-02-08,18:15,Coupe de France,Round of 16,Wed,Home,W,3,1,Reims,,,43,17660,Branco van den Boomen,4-3-3,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Toulouse
+2023-02-12,13:00,Ligue 1,Matchweek 23,Sun,Home,W,3,1,Rennes,2.1,1.3,32,21783,Brecht Dejaegere,4-3-3,4-4-2,Jeremy Stinat,Match Report,,2022-2023,Toulouse
+2023-02-19,20:45,Ligue 1,Matchweek 24,Sun,Home,L,2,3,Marseille,2.0,1.0,52,29218,Brecht Dejaegere,4-1-4-1,3-4-3,Stéphanie Frappart,Match Report,,2022-2023,Toulouse
+2023-02-26,15:00,Ligue 1,Matchweek 25,Sun,Away,L,0,3,Reims,1.1,2.7,53,12139,Brecht Dejaegere,4-3-3,4-2-3-1,Mathieu Vernice,Match Report,,2022-2023,Toulouse
+2023-03-01,18:45,Coupe de France,Quarter-finals,Wed,Home,W,6,1,Rodez Aveyron,,,67,30480,Brecht Dejaegere,4-3-3,3-4-3,Jérémie Pignard,Match Report,,2022-2023,Toulouse
+2023-03-05,15:00,Ligue 1,Matchweek 26,Sun,Home,L,0,1,Clermont Foot,1.0,0.8,51,20620,Brecht Dejaegere,4-2-3-1,3-4-3,Florent Batta,Match Report,,2022-2023,Toulouse
+2023-03-12,15:00,Ligue 1,Matchweek 27,Sun,Away,W,2,0,Angers,1.6,1.7,60,6487,Brecht Dejaegere,4-2-3-1,5-3-2,Pierre Gaillouste,Match Report,,2022-2023,Toulouse
+2023-03-18,17:00,Ligue 1,Matchweek 28,Sat,Home,L,0,2,Lille,2.3,1.4,47,23006,Brecht Dejaegere,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Toulouse
+2023-04-02,15:00,Ligue 1,Matchweek 29,Sun,Away,L,1,3,Brest,1.2,1.7,59,12325,Branco van den Boomen,4-2-3-1,4-1-4-1,Stéphanie Frappart,Match Report,,2022-2023,Toulouse
+2023-04-06,20:45,Coupe de France,Semi-finals,Thu,Away,W,2,1,Annecy,,,56,13620,Brecht Dejaegere,4-2-3-1,4-3-3,Jeremy Stinat,Match Report,,2022-2023,Toulouse
+2023-04-09,15:00,Ligue 1,Matchweek 30,Sun,Away,W,2,1,Montpellier,2.1,1.9,49,17283,Brecht Dejaegere,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2022-2023,Toulouse
+2023-04-14,21:00,Ligue 1,Matchweek 31,Fri,Home,L,1,2,Lyon,1.2,2.3,43,28302,Branco van den Boomen,4-2-3-1,4-3-3,François Letexier,Match Report,,2022-2023,Toulouse
+2023-04-23,15:00,Ligue 1,Matchweek 32,Sun,Away,W,1,0,Lorient,1.1,0.6,46,15948,Maxime Dupé,4-2-3-1,3-4-3,Marc Bollengier,Match Report,,2022-2023,Toulouse
+2023-04-29,21:00,Coupe de France,Final,Sat,Neutral,W,5,1,Nantes,,,48,78038,Brecht Dejaegere,4-2-3-1,4-1-4-1,Benoît Millot,Match Report,,2022-2023,Toulouse
+2023-05-02,21:00,Ligue 1,Matchweek 33,Tue,Home,L,0,1,Lens,0.6,1.2,47,30866,Maxime Dupé,3-4-3,3-4-3,Bastien Dechepy,Match Report,,2022-2023,Toulouse
+2023-05-07,15:00,Ligue 1,Matchweek 34,Sun,Away,D,0,0,Ajaccio,1.7,0.3,61,6735,Brecht Dejaegere,4-2-3-1,4-5-1,Florent Batta,Match Report,,2022-2023,Toulouse
+2023-05-14,15:00,Ligue 1,Matchweek 35,Sun,Home,D,0,0,Nantes,1.3,1.0,71,27033,Maxime Dupé,4-2-3-1,3-4-1-2,Jérôme Brisard,Match Report,,2022-2023,Toulouse
+2023-05-21,15:00,Ligue 1,Matchweek 36,Sun,Away,D,0,0,Nice,0.8,2.2,49,20041,Maxime Dupé,4-2-3-1,4-3-3,Jérémie Pignard,Match Report,,2022-2023,Toulouse
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Home,D,1,1,Auxerre,0.8,0.9,60,25172,Brecht Dejaegere,4-2-3-1,5-4-1,Mathieu Vernice,Match Report,,2022-2023,Toulouse
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Away,W,2,1,Monaco,2.6,2.2,43,5670,Maxime Dupé,5-4-1,4-2-3-1,Stéphanie Frappart,Match Report,,2022-2023,Toulouse

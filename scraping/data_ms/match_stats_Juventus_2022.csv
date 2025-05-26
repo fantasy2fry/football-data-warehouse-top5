@@ -1,0 +1,57 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-15,20:45,Serie A,Matchweek 1,Mon,Home,W,3,0,Sassuolo,2.0,0.9,42,38725.0,Leonardo Bonucci,4-4-2,4-3-3,Antonio Rapuano,Match Report,,2022-2023,Juventus
+2022-08-22,20:45,Serie A,Matchweek 2,Mon,Away,D,0,0,Sampdoria,0.8,0.9,52,27573.0,Juan Cuadrado,4-3-3,4-1-4-1,Rosario Abisso,Match Report,,2022-2023,Juventus
+2022-08-27,18:30,Serie A,Matchweek 3,Sat,Home,D,1,1,Roma,0.6,1.3,57,41003.0,Juan Cuadrado,4-2-3-1,3-4-3,Massimiliano Irrati,Match Report,,2022-2023,Juventus
+2022-08-31,20:45,Serie A,Matchweek 4,Wed,Home,W,2,0,Spezia,0.9,0.2,50,35709.0,Juan Cuadrado,4-3-3,3-5-2,Andrea Colombo,Match Report,,2022-2023,Juventus
+2022-09-03,15:00,Serie A,Matchweek 5,Sat,Away,D,1,1,Fiorentina,0.9,2.1,40,36550.0,Juan Cuadrado,4-3-3,4-3-3,Daniele Doveri,Match Report,,2022-2023,Juventus
+2022-09-06,21:00,Champions Lg,Group stage,Tue,Away,L,1,2,fr Paris S-G,1.0,1.7,43,47415.0,Leandro Paredes,3-5-2,3-4-3,Anthony Taylor,Match Report,,2022-2023,Juventus
+2022-09-11,20:45,Serie A,Matchweek 6,Sun,Home,D,2,2,Salernitana,1.9,1.6,61,35097.0,Leonardo Bonucci,4-3-3,3-5-2,Matteo Marcenaro,Match Report,,2022-2023,Juventus
+2022-09-14,21:00,Champions Lg,Group stage,Wed,Home,L,1,2,pt Benfica,0.8,2.2,45,34015.0,Leonardo Bonucci,3-5-2,4-2-3-1,Felix Zwayer,Match Report,,2022-2023,Juventus
+2022-09-18,15:00,Serie A,Matchweek 7,Sun,Away,L,0,1,Monza,0.9,2.5,40,12878.0,Danilo,4-3-3,3-4-3,Fabio Maresca,Match Report,,2022-2023,Juventus
+2022-10-02,20:45,Serie A,Matchweek 8,Sun,Home,W,3,0,Bologna,1.8,0.4,48,34662.0,Leonardo Bonucci,4-4-2,4-2-3-1,Rosario Abisso,Match Report,,2022-2023,Juventus
+2022-10-05,21:00,Champions Lg,Group stage,Wed,Home,W,3,1,il Maccabi Haifa,2.3,2.0,51,28498.0,Juan Cuadrado,4-3-3,5-3-2,Sandro Schärer,Match Report,,2022-2023,Juventus
+2022-10-08,18:00,Serie A,Matchweek 9,Sat,Away,L,0,2,Milan,0.8,2.2,60,75530.0,Leonardo Bonucci,4-4-2,4-3-2-1,Daniele Orsato,Match Report,,2022-2023,Juventus
+2022-10-11,19:45,Champions Lg,Group stage,Tue,Away,L,0,2,il Maccabi Haifa,0.5,0.8,58,30074.0,Leonardo Bonucci,4-4-2,4-3-3,Antonio Matéu,Match Report,,2022-2023,Juventus
+2022-10-15,18:00,Serie A,Matchweek 10,Sat,Away,W,1,0,Torino,2.1,0.6,47,22269.0,Juan Cuadrado,3-5-2,3-4-3,Maurizio Mariani,Match Report,,2022-2023,Juventus
+2022-10-21,20:45,Serie A,Matchweek 11,Fri,Home,W,4,0,Empoli,3.5,0.7,42,37771.0,Leonardo Bonucci,3-5-2,4-3-1-2,Michael Fabbri,Match Report,,2022-2023,Juventus
+2022-10-25,20:00,Champions Lg,Group stage,Tue,Away,L,3,4,pt Benfica,2.4,3.3,46,60131.0,Leonardo Bonucci,3-5-2,4-2-3-1,Srđan Jovanović,Match Report,,2022-2023,Juventus
+2022-10-29,18:00,Serie A,Matchweek 12,Sat,Away,W,1,0,Lecce,0.6,0.2,64,25860.0,Juan Cuadrado,4-4-1-1,4-2-3-1,Daniele Chiffi,Match Report,,2022-2023,Juventus
+2022-11-02,21:00,Champions Lg,Group stage,Wed,Home,L,1,2,fr Paris S-G,1.6,0.5,47,41089.0,Leonardo Bonucci,3-5-1-1,4-3-1-2,Carlos del Cerro,Match Report,,2022-2023,Juventus
+2022-11-06,20:45,Serie A,Matchweek 13,Sun,Home,W,2,0,Inter,0.9,1.2,47,40093.0,Danilo,3-5-1-1,3-5-2,Daniele Doveri,Match Report,,2022-2023,Juventus
+2022-11-10,18:30,Serie A,Matchweek 14,Thu,Away,W,1,0,Hellas Verona,1.1,1.2,56,21934.0,Leonardo Bonucci,3-5-2,3-4-3,Marco Di Bello,Match Report,,2022-2023,Juventus
+2022-11-13,20:45,Serie A,Matchweek 15,Sun,Home,W,3,0,Lazio,1.6,0.4,41,38729.0,Danilo,3-5-2,4-3-3,Davide Massa,Match Report,,2022-2023,Juventus
+2023-01-04,18:30,Serie A,Matchweek 16,Wed,Away,W,1,0,Cremonese,1.6,0.9,55,14896.0,Danilo,3-5-1-1,3-4-1-2,Giovanni Ayroldi,Match Report,,2022-2023,Juventus
+2023-01-07,18:00,Serie A,Matchweek 17,Sat,Home,W,1,0,Udinese,2.4,0.5,51,39536.0,Danilo,3-5-1-1,3-5-2,Matteo Marchetti,Match Report,,2022-2023,Juventus
+2023-01-13,20:45,Serie A,Matchweek 18,Fri,Away,L,1,5,Napoli,1.3,2.1,40,60000.0,Danilo,3-5-2,4-3-3,Daniele Doveri,Match Report,,2022-2023,Juventus
+2023-01-19,21:00,Coppa Italia,Round of 16,Thu,Home,W,2,1,Monza,,,39,25190.0,Danilo,3-5-1-1,3-5-1-1,Ivan Pezzuto,Match Report,,2022-2023,Juventus
+2023-01-22,20:45,Serie A,Matchweek 19,Sun,Home,D,3,3,Atalanta,1.9,1.0,47,33565.0,Danilo,3-5-1-1,3-4-3,Livio Marinelli,Match Report,,2022-2023,Juventus
+2023-01-29,15:00,Serie A,Matchweek 20,Sun,Home,L,0,2,Monza,1.6,1.2,46,39393.0,Danilo,3-5-2,3-4-3,Gianluca Aureliano,Match Report,,2022-2023,Juventus
+2023-02-02,21:00,Coppa Italia,Quarter-finals,Thu,Home,W,1,0,Lazio,,,43,21581.0,Danilo,3-5-2,4-3-3,Fabio Maresca,Match Report,,2022-2023,Juventus
+2023-02-07,20:45,Serie A,Matchweek 21,Tue,Away,W,3,0,Salernitana,2.2,0.8,47,26945.0,Danilo,3-5-2,4-3-3,Antonio Rapuano,Match Report,,2022-2023,Juventus
+2023-02-12,18:00,Serie A,Matchweek 22,Sun,Home,W,1,0,Fiorentina,1.0,0.7,45,34844.0,Danilo,3-4-3,4-3-3,Michael Fabbri,Match Report,,2022-2023,Juventus
+2023-02-16,21:00,Europa Lg,Knockout round play-offs,Thu,Home,D,1,1,fr Nantes,1.4,0.5,57,41019.0,Danilo,4-3-3,5-3-2,João Pinheiro,Match Report,Leg 1 of 2,2022-2023,Juventus
+2023-02-19,18:00,Serie A,Matchweek 23,Sun,Away,W,2,0,Spezia,1.1,1.3,41,11767.0,Danilo,3-1-4-2,4-2-3-1,Federico La Penna,Match Report,,2022-2023,Juventus
+2023-02-23,18:45,Europa Lg,Knockout round play-offs,Thu,Away,W,3,0,fr Nantes,3.1,0.6,60,44000.0,Danilo,3-5-1-1,5-3-2,Jose Maria,Match Report,Leg 2 of 2; Juventus won,2022-2023,Juventus
+2023-02-28,20:45,Serie A,Matchweek 24,Tue,Home,W,4,2,Torino,1.5,1.2,42,37806.0,Danilo,3-5-1-1,3-4-3,Daniele Chiffi,Match Report,,2022-2023,Juventus
+2023-03-05,20:45,Serie A,Matchweek 25,Sun,Away,L,0,1,Roma,0.7,0.6,59,64213.0,Danilo,3-5-1-1,3-4-3,Fabio Maresca,Match Report,,2022-2023,Juventus
+2023-03-09,21:00,Europa Lg,Round of 16,Thu,Home,W,1,0,de Freiburg,2.0,0.0,47,37474.0,Danilo,3-5-1-1,3-4-3,Anastasios Sidiropoulos,Match Report,Leg 1 of 2,2022-2023,Juventus
+2023-03-12,20:45,Serie A,Matchweek 26,Sun,Home,W,4,2,Sampdoria,2.8,0.8,56,35166.0,Leonardo Bonucci,3-5-1-1,3-4-3,Alessandro Prontera,Match Report,,2022-2023,Juventus
+2023-03-16,18:45,Europa Lg,Round of 16,Thu,Away,W,2,0,de Freiburg,1.8,0.8,48,33420.0,Danilo,3-5-2,3-4-3,Serdar Gözübüyük,Match Report,Leg 2 of 2; Juventus won,2022-2023,Juventus
+2023-03-19,20:45,Serie A,Matchweek 27,Sun,Away,W,1,0,Inter,0.6,1.2,31,75224.0,Danilo,3-5-1-1,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Juventus
+2023-04-01,20:45,Serie A,Matchweek 28,Sat,Home,W,1,0,Hellas Verona,1.8,0.6,56,40105.0,Danilo,3-5-2,3-4-1-2,Matteo Marchetti,Match Report,,2022-2023,Juventus
+2023-04-04,21:00,Coppa Italia,Semi-finals,Tue,Home,D,1,1,Inter,,,38,,Danilo,3-5-1-1,3-5-2,Davide Massa,Match Report,Leg 1 of 2,2022-2023,Juventus
+2023-04-08,20:45,Serie A,Matchweek 29,Sat,Away,L,1,2,Lazio,1.9,1.2,50,54000.0,Juan Cuadrado,3-5-1-1,4-3-3,Marco Di Bello,Match Report,,2022-2023,Juventus
+2023-04-13,21:00,Europa Lg,Quarter-finals,Thu,Home,W,1,0,pt Sporting CP,0.9,1.7,42,38490.0,Danilo,3-4-3,3-4-3,Halil Umut Meler,Match Report,Leg 1 of 2,2022-2023,Juventus
+2023-04-16,18:00,Serie A,Matchweek 30,Sun,Away,L,0,1,Sassuolo,1.1,0.9,59,19566.0,Danilo,3-5-2,4-3-3,Antonio Rapuano,Match Report,,2022-2023,Juventus
+2023-04-20,20:00,Europa Lg,Quarter-finals,Thu,Away,D,1,1,pt Sporting CP,1.3,2.0,41,45903.0,Danilo,4-3-3,3-4-3,François Letexier,Match Report,Leg 2 of 2; Juventus won,2022-2023,Juventus
+2023-04-23,20:45,Serie A,Matchweek 31,Sun,Home,L,0,1,Napoli,0.4,1.2,35,39839.0,Danilo,4-4-1-1,4-3-3,Michael Fabbri,Match Report,,2022-2023,Juventus
+2023-04-26,21:00,Coppa Italia,Semi-finals,Wed,Away,L,0,1,Inter,,,59,75491.0,Leonardo Bonucci,3-5-1-1,3-5-2,Daniele Doveri,Match Report,Leg 2 of 2; Inter won,2022-2023,Juventus
+2023-04-30,20:45,Serie A,Matchweek 32,Sun,Away,D,1,1,Bologna,2.7,1.9,46,30071.0,Danilo,4-3-3,4-3-3,Simone Sozza,Match Report,,2022-2023,Juventus
+2023-05-03,18:00,Serie A,Matchweek 33,Wed,Home,W,2,1,Lecce,1.8,1.7,54,33757.0,Leonardo Bonucci,3-5-1-1,4-3-3,Francesco Fourneau,Match Report,,2022-2023,Juventus
+2023-05-07,12:30,Serie A,Matchweek 34,Sun,Away,W,2,0,Atalanta,1.0,1.1,41,19570.0,Danilo,3-5-1-1,3-4-3,Daniele Doveri,Match Report,,2022-2023,Juventus
+2023-05-11,21:00,Europa Lg,Semi-finals,Thu,Home,D,1,1,es Sevilla,2.0,1.6,58,34816.0,Leonardo Bonucci,3-5-1-1,4-2-3-1,Daniel Siebert,Match Report,Leg 1 of 2,2022-2023,Juventus
+2023-05-14,20:45,Serie A,Matchweek 35,Sun,Home,W,2,0,Cremonese,1.6,0.1,69,39439.0,Danilo,3-5-1-1,5-4-1,Daniele Chiffi,Match Report,,2022-2023,Juventus
+2023-05-18,21:00,Europa Lg,Semi-finals,Thu,Away,L,1,2,es Sevilla,1.8,1.4,41,42186.0,Danilo,3-5-1-1,4-2-3-1,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won; Required Extra Time,2022-2023,Juventus
+2023-05-22,20:45,Serie A,Matchweek 36,Mon,Away,L,1,4,Empoli,1.8,2.7,61,15519.0,Alex Sandro,3-5-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2022-2023,Juventus
+2023-05-28,20:45,Serie A,Matchweek 37,Sun,Home,L,0,1,Milan,0.9,0.5,48,40231.0,Danilo,3-4-1-2,4-2-3-1,Maurizio Mariani,Match Report,,2022-2023,Juventus
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Away,W,1,0,Udinese,1.3,0.8,57,23266.0,Leonardo Bonucci,3-4-3,3-4-3,Marco Guida,Match Report,,2022-2023,Juventus

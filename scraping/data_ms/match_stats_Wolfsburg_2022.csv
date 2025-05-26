@@ -1,0 +1,38 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-30,18:00,DFB-Pokal,Round of 64,Sat,Away,W,1,0,Carl Zeiss Jena,,,71,6100,Koen Casteels,3-4-3,5-3-2,Florian Heft,Match Report,,2022-2023,Wolfsburg
+2022-08-06,15:30,Bundesliga,Matchweek 1,Sat,Home,D,2,2,Werder Bremen,1.0,0.8,61,28015,Maximilian Arnold,4-2-3-1,3-5-2,Sascha Stegemann,Match Report,,2022-2023,Wolfsburg
+2022-08-14,17:30,Bundesliga,Matchweek 2,Sun,Away,L,0,2,Bayern Munich,0.5,2.0,32,75000,Maximilian Arnold,4-5-1,4-2-3-1,Harm Osmers,Match Report,,2022-2023,Wolfsburg
+2022-08-20,15:30,Bundesliga,Matchweek 3,Sat,Home,D,0,0,Schalke 04,1.3,1.1,71,26959,Maximilian Arnold,4-2-3-1,4-3-3,Felix Zwayer,Match Report,,2022-2023,Wolfsburg
+2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Away,L,0,2,RB Leipzig,0.5,3.5,57,41243,Maximilian Arnold,4-2-3-1,3-4-1-2,Bastian Dankert,Match Report,,2022-2023,Wolfsburg
+2022-09-03,15:30,Bundesliga,Matchweek 5,Sat,Home,L,2,4,Köln,1.0,2.7,51,25654,Maximilian Arnold,3-4-1-2,4-2-3-1,Matthias Jöllenbeck,Match Report,,2022-2023,Wolfsburg
+2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Away,W,1,0,Eint Frankfurt,1.0,0.7,38,49000,Maximilian Arnold,4-3-3,4-2-3-1,Tobias Reichel,Match Report,,2022-2023,Wolfsburg
+2022-09-18,15:30,Bundesliga,Matchweek 7,Sun,Away,L,0,2,Union Berlin,0.3,1.4,52,22012,Maximilian Arnold,4-2-2-2,3-5-2,Robert Schröder,Match Report,,2022-2023,Wolfsburg
+2022-10-01,15:30,Bundesliga,Matchweek 8,Sat,Home,W,3,2,Stuttgart,2.0,1.5,57,24125,Maximilian Arnold,4-1-4-1,4-3-3,Felix Zwayer,Match Report,,2022-2023,Wolfsburg
+2022-10-08,15:30,Bundesliga,Matchweek 9,Sat,Away,D,1,1,Augsburg,1.8,2.0,51,26220,Maximilian Arnold,4-5-1,4-1-3-2,Daniel Siebert,Match Report,,2022-2023,Wolfsburg
+2022-10-15,15:30,Bundesliga,Matchweek 10,Sat,Home,D,2,2,Gladbach,1.8,0.8,54,26701,Maximilian Arnold,4-5-1,4-2-3-1,Benjamin Cortus,Match Report,,2022-2023,Wolfsburg
+2022-10-18,20:45,DFB-Pokal,Round of 32,Tue,Away,W,2,1,BTSV,,,61,22000,Maximilian Arnold,4-3-3,5-3-2,Daniel Schlager,Match Report,,2022-2023,Wolfsburg
+2022-10-22,15:30,Bundesliga,Matchweek 11,Sat,Away,D,2,2,Leverkusen,1.2,2.2,43,26294,Maximilian Arnold,4-1-4-1,3-4-3,Felix Brych,Match Report,,2022-2023,Wolfsburg
+2022-10-29,15:30,Bundesliga,Matchweek 12,Sat,Home,W,4,0,Bochum,2.0,0.5,52,24037,Maximilian Arnold,4-1-4-1,4-2-3-1,Robert Hartmann,Match Report,,2022-2023,Wolfsburg
+2022-11-05,15:30,Bundesliga,Matchweek 13,Sat,Away,W,3,0,Mainz 05,0.6,1.0,44,26750,Maximilian Arnold,4-5-1,3-4-3,Daniel Siebert,Match Report,,2022-2023,Wolfsburg
+2022-11-08,18:30,Bundesliga,Matchweek 14,Tue,Home,W,2,0,Dortmund,2.4,1.6,37,28675,Maximilian Arnold,4-5-1,4-2-3-1,Christian Dingert,Match Report,,2022-2023,Wolfsburg
+2022-11-12,15:30,Bundesliga,Matchweek 15,Sat,Away,W,2,1,Hoffenheim,0.7,1.4,40,18014,Maximilian Arnold,4-5-1,3-4-1-2,Daniel Schlager,Match Report,,2022-2023,Wolfsburg
+2023-01-21,15:30,Bundesliga,Matchweek 16,Sat,Home,W,6,0,Freiburg,2.7,0.7,53,25849,Maximilian Arnold,4-3-3,4-2-3-1,Felix Zwayer,Match Report,,2022-2023,Wolfsburg
+2023-01-24,20:30,Bundesliga,Matchweek 17,Tue,Away,W,5,0,Hertha BSC,3.1,0.4,58,29483,Maximilian Arnold,4-3-3,4-2-3-1,Tobias Reichel,Match Report,,2022-2023,Wolfsburg
+2023-01-28,15:30,Bundesliga,Matchweek 18,Sat,Away,L,1,2,Werder Bremen,0.7,2.2,57,41000,Maximilian Arnold,4-5-1,3-1-4-2,Daniel Siebert,Match Report,,2022-2023,Wolfsburg
+2023-01-31,20:45,DFB-Pokal,Round of 16,Tue,Away,L,1,2,Union Berlin,,,54,22012,Maximilian Arnold,3-1-4-2,3-5-2,Sascha Stegemann,Match Report,,2022-2023,Wolfsburg
+2023-02-05,17:30,Bundesliga,Matchweek 19,Sun,Home,L,2,4,Bayern Munich,2.2,0.5,52,30000,Maximilian Arnold,3-5-2,4-2-3-1,Harm Osmers,Match Report,,2022-2023,Wolfsburg
+2023-02-10,20:30,Bundesliga,Matchweek 20,Fri,Away,D,0,0,Schalke 04,1.3,1.3,47,60836,Maximilian Arnold,4-2-3-1,4-2-3-1,Benjamin Brand,Match Report,,2022-2023,Wolfsburg
+2023-02-18,15:30,Bundesliga,Matchweek 21,Sat,Home,L,0,3,RB Leipzig,0.2,3.0,43,24831,Maximilian Arnold,4-2-3-1,4-2-3-1,Deniz Aytekin,Match Report,,2022-2023,Wolfsburg
+2023-02-25,15:30,Bundesliga,Matchweek 22,Sat,Away,W,2,0,Köln,1.0,1.2,43,49300,Maximilian Arnold,4-3-3,4-4-2,Frank Willenborg,Match Report,,2022-2023,Wolfsburg
+2023-03-05,17:30,Bundesliga,Matchweek 23,Sun,Home,D,2,2,Eint Frankfurt,1.9,0.6,52,27853,Maximilian Arnold,4-3-3,3-4-3,Daniel Schlager,Match Report,,2022-2023,Wolfsburg
+2023-03-12,19:30,Bundesliga,Matchweek 24,Sun,Home,D,1,1,Union Berlin,1.7,1.3,58,23554,Koen Casteels,4-3-3,3-4-3,Robert Schröder,Match Report,,2022-2023,Wolfsburg
+2023-03-18,15:30,Bundesliga,Matchweek 25,Sat,Away,W,1,0,Stuttgart,0.6,0.5,43,44900,Maximilian Arnold,4-2-3-1,4-3-3,Felix Brych,Match Report,,2022-2023,Wolfsburg
+2023-04-01,15:30,Bundesliga,Matchweek 26,Sat,Home,D,2,2,Augsburg,3.5,0.6,68,22107,Maximilian Arnold,4-3-3,4-4-2,Martin Petersen,Match Report,,2022-2023,Wolfsburg
+2023-04-09,15:30,Bundesliga,Matchweek 27,Sun,Away,L,0,2,Gladbach,1.5,1.6,56,51127,Maximilian Arnold,4-3-3,4-2-3-1,Timo Gerach,Match Report,,2022-2023,Wolfsburg
+2023-04-16,19:30,Bundesliga,Matchweek 28,Sun,Home,D,0,0,Leverkusen,0.9,1.2,43,20137,Koen Casteels,5-3-2,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Wolfsburg
+2023-04-22,15:30,Bundesliga,Matchweek 29,Sat,Away,W,5,1,Bochum,3.6,2.6,45,24834,Maximilian Arnold,4-3-3,4-2-3-1,Felix Brych,Match Report,,2022-2023,Wolfsburg
+2023-04-30,17:30,Bundesliga,Matchweek 30,Sun,Home,W,3,0,Mainz 05,1.9,1.7,51,23817,Maximilian Arnold,3-4-3,3-4-3,Daniel Siebert,Match Report,,2022-2023,Wolfsburg
+2023-05-07,17:30,Bundesliga,Matchweek 31,Sun,Away,L,0,6,Dortmund,1.2,4.2,43,81365,Maximilian Arnold,3-1-4-2,4-3-3,Marco Fritz,Match Report,,2022-2023,Wolfsburg
+2023-05-13,15:30,Bundesliga,Matchweek 32,Sat,Home,W,2,1,Hoffenheim,1.1,1.0,46,22617,Maximilian Arnold,3-1-4-2,3-5-2,Tobias Stieler,Match Report,,2022-2023,Wolfsburg
+2023-05-19,20:30,Bundesliga,Matchweek 33,Fri,Away,L,0,2,Freiburg,0.7,1.3,57,33300,Maximilian Arnold,3-1-4-2,3-4-3,Bastian Dankert,Match Report,,2022-2023,Wolfsburg
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Home,L,1,2,Hertha BSC,3.4,2.1,64,26775,Josuha Guilavogui,3-5-2,4-2-3-1,Benjamin Cortus,Match Report,,2022-2023,Wolfsburg

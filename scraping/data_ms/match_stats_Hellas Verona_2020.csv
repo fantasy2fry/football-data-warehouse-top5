@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-19,20:45,Serie A,Matchweek 1,Sat,Home,W,3,0,Roma,,,40.0,,Miguel Veloso,3-4-3,3-4-3,Daniele Chiffi,Match Report,Match awarded to Hellas Verona,2020-2021,Hellas Verona
+2020-09-27,15:00,Serie A,Matchweek 2,Sun,Home,W,1,0,Udinese,0.9,2.2,47.0,1000.0,Miguel Veloso,3-4-3,3-5-2,Manuel Volpi,Match Report,,2020-2021,Hellas Verona
+2020-10-04,15:00,Serie A,Matchweek 3,Sun,Away,L,0,1,Parma,0.6,1.1,60.0,1000.0,Davide Faraoni,3-4-3,4-3-1-2,Antonio Giua,Match Report,,2020-2021,Hellas Verona
+2020-10-19,20:45,Serie A,Matchweek 4,Mon,Home,D,0,0,Genoa,1.1,0.4,58.0,10002.0,Davide Faraoni,3-4-3,3-5-2,Antonio Rapuano,Match Report,,2020-2021,Hellas Verona
+2020-10-25,20:45,Serie A,Matchweek 5,Sun,Away,D,1,1,Juventus,0.7,1.5,38.0,1000.0,Davide Faraoni,3-4-3,3-5-2,Fabrizio Pasqua,Match Report,,2020-2021,Hellas Verona
+2020-10-28,17:00,Coppa Italia,Third round,Wed,Home,D,3 (3),3 (1),Venezia,,,,,,,,Giacomo Camplone,Match Report,Hellas Verona won on penalty kicks following extra time,2020-2021,Hellas Verona
+2020-11-02,20:45,Serie A,Matchweek 6,Mon,Home,W,3,1,Benevento,2.1,1.5,44.0,,Darko Lazović,3-4-3,4-3-2-1,Juan Sacchi,Match Report,,2020-2021,Hellas Verona
+2020-11-08,20:45,Serie A,Matchweek 7,Sun,Away,D,2,2,Milan,1.6,3.5,34.0,,Darko Lazović,3-4-3,4-2-3-1,Marco Guida,Match Report,,2020-2021,Hellas Verona
+2020-11-22,15:00,Serie A,Matchweek 8,Sun,Home,L,0,2,Sassuolo,1.5,0.4,52.0,,Mattia Zaccagni,4-4-2,4-2-3-1,Daniele Chiffi,Match Report,,2020-2021,Hellas Verona
+2020-11-25,17:30,Coppa Italia,Fourth round,Wed,Away,L,1,2,Cagliari,,,33.0,,,,,Alessandro Prontera,Match Report,,2020-2021,Hellas Verona
+2020-11-28,20:45,Serie A,Matchweek 9,Sat,Away,W,2,0,Atalanta,1.9,1.4,42.0,,Davide Faraoni,3-4-3,3-4-3,Davide Massa,Match Report,,2020-2021,Hellas Verona
+2020-12-06,12:30,Serie A,Matchweek 10,Sun,Home,D,1,1,Cagliari,2.7,1.5,52.0,,Miguel Veloso,3-4-3,4-2-3-1,Gianluca Manganiello,Match Report,,2020-2021,Hellas Verona
+2020-12-12,20:45,Serie A,Matchweek 11,Sat,Away,W,2,1,Lazio,0.9,0.7,41.0,,Miguel Veloso,4-2-3-1,3-5-2,Rosario Abisso,Match Report,,2020-2021,Hellas Verona
+2020-12-16,20:45,Serie A,Matchweek 12,Wed,Home,L,1,2,Sampdoria,1.8,1.0,55.0,,Miguel Veloso,3-4-3,4-4-1-1,Riccardo Ros,Match Report,,2020-2021,Hellas Verona
+2020-12-19,15:00,Serie A,Matchweek 13,Sat,Away,D,1,1,Fiorentina,1.5,1.6,41.0,,Miguel Veloso,3-4-3,3-5-1-1,Francesco Fourneau,Match Report,,2020-2021,Hellas Verona
+2020-12-23,18:30,Serie A,Matchweek 14,Wed,Home,L,1,2,Inter,1.5,1.8,41.0,,Miguel Veloso,3-4-3,3-4-3,Piero Giacomelli,Match Report,,2020-2021,Hellas Verona
+2021-01-03,15:00,Serie A,Matchweek 15,Sun,Away,W,1,0,Spezia,1.3,0.9,47.0,,Miguel Veloso,3-4-3,4-3-3,Luca Pairetto,Match Report,,2020-2021,Hellas Verona
+2021-01-06,15:00,Serie A,Matchweek 16,Wed,Away,D,1,1,Torino,0.4,1.4,54.0,,Miguel Veloso,3-4-3,3-5-2,Marco Di Bello,Match Report,,2020-2021,Hellas Verona
+2021-01-10,15:00,Serie A,Matchweek 17,Sun,Home,W,2,1,Crotone,1.4,0.9,44.0,,Davide Faraoni,3-4-3,3-5-2,Luca Massimi,Match Report,,2020-2021,Hellas Verona
+2021-01-16,15:00,Serie A,Matchweek 18,Sat,Away,L,0,1,Bologna,0.8,2.0,52.0,,Davide Faraoni,3-4-3,4-2-3-1,Maurizio Mariani,Match Report,,2020-2021,Hellas Verona
+2021-01-24,15:00,Serie A,Matchweek 19,Sun,Home,W,3,1,Napoli,1.8,0.8,48.0,,Davide Faraoni,3-4-3,4-2-3-1,Michael Fabbri,Match Report,,2020-2021,Hellas Verona
+2021-01-31,20:45,Serie A,Matchweek 20,Sun,Away,L,1,3,Roma,0.7,2.0,52.0,,Davide Faraoni,3-4-3,3-4-3,Marco Piccinini,Match Report,,2020-2021,Hellas Verona
+2021-02-07,15:00,Serie A,Matchweek 21,Sun,Away,L,0,2,Udinese,0.3,2.0,54.0,,Davide Faraoni,3-4-3,3-4-3,Alberto Santoro,Match Report,,2020-2021,Hellas Verona
+2021-02-15,20:45,Serie A,Matchweek 22,Mon,Home,W,2,1,Parma,1.2,1.5,50.0,,Darko Lazović,3-4-3,4-3-3,Luca Massimi,Match Report,,2020-2021,Hellas Verona
+2021-02-20,18:00,Serie A,Matchweek 23,Sat,Away,D,2,2,Genoa,1.2,1.0,50.0,,Davide Faraoni,3-4-3,3-5-2,Matteo Marchetti,Match Report,,2020-2021,Hellas Verona
+2021-02-27,20:45,Serie A,Matchweek 24,Sat,Home,D,1,1,Juventus,0.8,1.0,45.0,,Davide Faraoni,3-4-3,3-5-2,Fabio Maresca,Match Report,,2020-2021,Hellas Verona
+2021-03-03,20:45,Serie A,Matchweek 25,Wed,Away,W,3,0,Benevento,1.4,0.3,50.0,,Miguel Veloso,3-4-3,4-3-2-1,Giovanni Ayroldi,Match Report,,2020-2021,Hellas Verona
+2021-03-07,15:00,Serie A,Matchweek 26,Sun,Home,L,0,2,Milan,0.9,0.7,54.0,,Miguel Veloso,3-4-3,4-2-3-1,Daniele Orsato,Match Report,,2020-2021,Hellas Verona
+2021-03-13,15:00,Serie A,Matchweek 27,Sat,Away,L,2,3,Sassuolo,1.2,1.6,59.0,,Miguel Veloso,3-4-3,4-2-3-1,Alessandro Prontera,Match Report,,2020-2021,Hellas Verona
+2021-03-21,12:30,Serie A,Matchweek 28,Sun,Home,L,0,2,Atalanta,0.5,2.0,52.0,,Miguel Veloso,3-4-3,4-2-3-1,Luca Pairetto,Match Report,,2020-2021,Hellas Verona
+2021-04-03,15:00,Serie A,Matchweek 29,Sat,Away,W,2,0,Cagliari,1.2,2.3,52.0,,Miguel Veloso,3-4-3,3-5-2,Daniele Doveri,Match Report,,2020-2021,Hellas Verona
+2021-04-11,15:00,Serie A,Matchweek 30,Sun,Home,L,0,1,Lazio,0.3,0.6,45.0,,Miguel Veloso,3-4-3,3-5-2,Daniele Chiffi,Match Report,,2020-2021,Hellas Verona
+2021-04-17,15:00,Serie A,Matchweek 31,Sat,Away,L,1,3,Sampdoria,1.6,1.8,51.0,,Davide Faraoni,3-4-3,4-4-1-1,Federico Dionisi,Match Report,,2020-2021,Hellas Verona
+2021-04-20,20:45,Serie A,Matchweek 32,Tue,Home,L,1,2,Fiorentina,1.9,1.3,64.0,,Davide Faraoni,3-4-3,3-5-2,Alessandro Prontera,Match Report,,2020-2021,Hellas Verona
+2021-04-25,15:00,Serie A,Matchweek 33,Sun,Away,L,0,1,Inter,1.3,0.9,51.0,,Davide Faraoni,3-4-3,3-5-2,Rosario Abisso,Match Report,,2020-2021,Hellas Verona
+2021-05-01,15:00,Serie A,Matchweek 34,Sat,Home,D,1,1,Spezia,1.7,1.2,46.0,,Davide Faraoni,3-4-3,4-3-3,Manuel Volpi,Match Report,,2020-2021,Hellas Verona
+2021-05-09,15:00,Serie A,Matchweek 35,Sun,Home,D,1,1,Torino,2.1,0.7,57.0,,Davide Faraoni,3-4-3,3-1-4-2,Davide Massa,Match Report,,2020-2021,Hellas Verona
+2021-05-13,20:45,Serie A,Matchweek 36,Thu,Away,L,1,2,Crotone,0.9,0.4,63.0,,Mattia Zaccagni,3-4-3,3-5-2,Luca Massimi,Match Report,,2020-2021,Hellas Verona
+2021-05-17,20:45,Serie A,Matchweek 37,Mon,Home,D,2,2,Bologna,1.3,2.3,51.0,,Davide Faraoni,3-4-3,4-2-3-1,Matteo Marchetti,Match Report,,2020-2021,Hellas Verona
+2021-05-23,20:45,Serie A,Matchweek 38,Sun,Away,D,1,1,Napoli,0.6,1.1,45.0,,Davide Faraoni,3-4-3,4-2-3-1,Daniele Chiffi,Match Report,,2020-2021,Hellas Verona

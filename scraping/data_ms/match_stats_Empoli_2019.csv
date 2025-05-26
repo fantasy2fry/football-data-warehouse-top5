@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-11,20:30,Coppa Italia,Second round,Sun,Home,W,2,1,US Reggina,,,,1879.0,,,,Alessandro Prontera,Match Report,,2019-2020,Empoli
+2019-08-18,20:30,Coppa Italia,Third round,Sun,Home,W,2,1,Pescara,,,,2170.0,,,,Maurizio Mariani,Match Report,Required Extra Time,2019-2020,Empoli
+2019-08-25,18:00,Serie B,Matchweek 1,Sun,Home,W,2,1,Juve Stabia,1.7,0.8,56.0,5389.0,Freddie Veseli,4-3-1-2,4-3-3,Luca Massimi,Match Report,,2019-2020,Empoli
+2019-08-30,21:00,Serie B,Matchweek 2,Fri,Away,D,1,1,Chievo,0.6,2.3,47.0,3500.0,Freddie Veseli,4-1-2-1-2◆,4-3-1-2,Davide Ghersini,Match Report,,2019-2020,Empoli
+2019-09-15,15:00,Serie B,Matchweek 3,Sun,Away,D,0,0,Crotone,0.9,1.0,39.0,6203.0,Domenico Maietta,4-3-1-2,3-5-2,Ivan Pezzuto,Match Report,,2019-2020,Empoli
+2019-09-21,15:00,Serie B,Matchweek 4,Sat,Home,W,1,0,Cittadella,1.6,0.9,50.0,5133.0,Domenico Maietta,4-3-1-2,4-3-1-2,Giacomo Camplone,Match Report,,2019-2020,Empoli
+2019-09-24,21:00,Serie B,Matchweek 5,Tue,Away,W,3,2,Pisa,2.1,1.7,65.0,9133.0,Domenico Maietta,4-3-1-2,4-3-1-2,Gianluca Aureliano,Match Report,,2019-2020,Empoli
+2019-09-28,18:00,Serie B,Matchweek 6,Sat,Home,W,3,0,Perugia,1.6,0.9,47.0,6019.0,Domenico Maietta,4-3-1-2,4-3-2-1,Francesco Fourneau,Match Report,,2019-2020,Empoli
+2019-10-05,15:00,Serie B,Matchweek 7,Sat,Away,L,0,2,Pordenone,1.3,2.4,53.0,3280.0,Domenico Maietta,4-3-1-2,4-3-1-2,Lorenzo Maggioni,Match Report,,2019-2020,Empoli
+2019-10-20,21:00,Serie B,Matchweek 8,Sun,Home,D,1,1,Cremonese,1.6,2.7,61.0,5398.0,Freddie Veseli,4-3-1-2,3-5-2,Manuel Volpi,Match Report,,2019-2020,Empoli
+2019-10-26,15:00,Serie B,Matchweek 9,Sat,Away,D,2,2,Trapani,2.7,1.9,54.0,4130.0,Domenico Maietta,4-3-1-2,4-1-4-1,Giovanni Ayroldi,Match Report,,2019-2020,Empoli
+2019-10-29,21:00,Serie B,Matchweek 10,Tue,Home,D,1,1,Spezia,0.8,0.5,61.0,5384.0,Domenico Maietta,4-3-1-2,4-3-3,Marco Serra,Match Report,,2019-2020,Empoli
+2019-11-03,21:00,Serie B,Matchweek 11,Sun,Away,L,0,2,Benevento,0.5,1.1,63.0,9222.0,Domenico Maietta,4-3-2-1,4-4-2,Davide Ghersini,Match Report,,2019-2020,Empoli
+2019-11-09,18:00,Serie B,Matchweek 12,Sat,Home,L,1,2,Pescara,2.7,1.1,55.0,5156.0,Domenico Maietta,4-3-2-1,4-3-1-2,Gianluca Aureliano,Match Report,,2019-2020,Empoli
+2019-11-23,18:00,Serie B,Matchweek 13,Sat,Home,D,1,1,Venezia,1.2,2.6,42.0,4671.0,Domenico Maietta,4-3-1-2,4-3-1-2,Federico Dionisi,Match Report,,2019-2020,Empoli
+2019-11-30,15:00,Serie B,Matchweek 14,Sat,Away,L,0,4,Frosinone,0.3,3.0,60.0,10197.0,Domenico Maietta,3-5-2,3-5-2,Valerio Marini,Match Report,,2019-2020,Empoli
+2019-12-03,15:00,Coppa Italia,Fourth round,Tue,Away,L,0,1,Cremonese,,,,1359.0,,,,Daniel Amabile,Match Report,,2019-2020,Empoli
+2019-12-07,15:00,Serie B,Matchweek 15,Sat,Home,W,2,1,Ascoli,3.4,1.8,51.0,6013.0,Domenico Maietta,4-3-1-2,4-2-3-1,Lorenzo Illuzzi,Match Report,,2019-2020,Empoli
+2019-12-14,15:00,Serie B,Matchweek 16,Sat,Away,L,0,2,Virtus Entella,0.9,1.6,57.0,1521.0,Domenico Maietta,4-3-1-2,4-3-1-2,Daniel Amabile,Match Report,,2019-2020,Empoli
+2019-12-21,15:00,Serie B,Matchweek 17,Sat,Home,D,1,1,Salernitana,0.9,1.3,52.0,5394.0,Domenico Maietta,4-3-1-2,3-1-4-2,Manuel Volpi,Match Report,,2019-2020,Empoli
+2019-12-26,12:30,Serie B,Matchweek 18,Thu,Away,L,0,1,Cosenza,0.7,1.5,63.0,8044.0,Freddie Veseli,4-1-2-1-2◆,3-4-3,Ivan Pezzuto,Match Report,,2019-2020,Empoli
+2019-12-29,21:00,Serie B,Matchweek 19,Sun,Home,D,1,1,Livorno,1.8,1.2,47.0,5689.0,Domenico Maietta,4-3-1-2,4-5-1,Simone Sozza,Match Report,,2019-2020,Empoli
+2020-01-18,15:00,Serie B,Matchweek 20,Sat,Away,L,0,1,Juve Stabia,0.6,1.5,51.0,3144.0,Domenico Maietta,4-3-3,4-3-1-2,Francesco Fourneau,Match Report,,2019-2020,Empoli
+2020-01-24,21:00,Serie B,Matchweek 21,Fri,Home,D,1,1,Chievo,1.1,2.0,52.0,5132.0,Domenico Maietta,4-3-1-2,4-3-1-2,Gianluca Aureliano,Match Report,,2019-2020,Empoli
+2020-02-01,18:00,Serie B,Matchweek 22,Sat,Home,W,3,1,Crotone,2.7,0.8,40.0,5224.0,Domenico Maietta,4-3-3,3-5-2,Livio Marinelli,Match Report,,2019-2020,Empoli
+2020-02-08,15:00,Serie B,Matchweek 23,Sat,Away,W,2,1,Cittadella,2.0,1.0,42.0,4242.0,Simone Romagnoli,4-3-3,4-3-1-2,Eugenio Abbattista,Match Report,,2019-2020,Empoli
+2020-02-16,21:00,Serie B,Matchweek 24,Sun,Home,W,2,1,Pisa,1.2,0.7,60.0,6725.0,Domenico Maietta,4-3-3,4-3-1-2,Manuel Volpi,Match Report,,2019-2020,Empoli
+2020-02-24,21:00,Serie B,Matchweek 25,Mon,Away,W,1,0,Perugia,1.2,1.4,49.0,7401.0,Domenico Maietta,4-3-3,4-3-3,Antonio Rapuano,Match Report,,2019-2020,Empoli
+2020-02-29,15:00,Serie B,Matchweek 26,Sat,Home,L,0,1,Pordenone,1.1,1.0,60.0,5328.0,Luca Antonelli,4-3-3,4-3-1-2,Luca Massimi,Match Report,,2019-2020,Empoli
+2020-03-03,21:00,Serie B,Matchweek 27,Tue,Away,W,3,2,Cremonese,1.7,1.4,58.0,,Leonardo Mancuso,4-3-3,3-5-2,Riccardo Ros,Match Report,,2019-2020,Empoli
+2020-03-07,15:00,Serie B,Matchweek 28,Sat,Home,D,1,1,Trapani,1.8,1.4,63.0,,Luca Antonelli,4-3-3,4-4-1-1,Federico Dionisi,Match Report,,2019-2020,Empoli
+2020-06-19,17:30,Serie B,Matchweek 29,Fri,Away,L,0,1,Spezia,0.5,1.3,47.0,,Domenico Maietta,4-2-3-1,4-3-3,Eugenio Abbattista,Match Report,,2019-2020,Empoli
+2020-06-26,21:00,Serie B,Matchweek 30,Fri,Home,D,0,0,Benevento,0.6,0.8,56.0,,Domenico Maietta,4-3-3,4-1-4-1,Ivan Pezzuto,Match Report,,2019-2020,Empoli
+2020-06-29,21:00,Serie B,Matchweek 31,Mon,Away,D,1,1,Pescara,0.4,2.0,59.0,,Simone Romagnoli,4-3-3,4-4-2,Giovanni Ayroldi,Match Report,,2019-2020,Empoli
+2020-07-03,21:00,Serie B,Matchweek 32,Fri,Away,W,2,0,Venezia,1.8,1.0,58.0,,Domenico Maietta,4-3-3,4-3-1-2,Manuel Volpi,Match Report,,2019-2020,Empoli
+2020-07-10,21:00,Serie B,Matchweek 33,Fri,Home,W,2,0,Frosinone,1.7,1.8,48.0,,Domenico Maietta,4-3-3,3-5-2,Juan Sacchi,Match Report,,2019-2020,Empoli
+2020-07-13,21:00,Serie B,Matchweek 34,Mon,Away,L,0,1,Ascoli,1.2,1.2,59.0,,Simone Romagnoli,4-3-3,3-4-1-2,Riccardo Ros,Match Report,,2019-2020,Empoli
+2020-07-17,21:00,Serie B,Matchweek 35,Fri,Home,L,2,4,Virtus Entella,1.4,3.2,55.0,,Domenico Maietta,4-3-3,4-3-1-2,Livio Marinelli,Match Report,,2019-2020,Empoli
+2020-07-24,21:00,Serie B,Matchweek 36,Fri,Away,W,4,2,Salernitana,0.7,2.5,58.0,,Domenico Maietta,4-3-3,3-4-1-2,Davide Ghersini,Match Report,,2019-2020,Empoli
+2020-07-27,21:00,Serie B,Matchweek 37,Mon,Home,L,1,5,Cosenza,1.9,2.2,69.0,,Domenico Maietta,4-3-3,3-4-3,Lorenzo Illuzzi,Match Report,,2019-2020,Empoli
+2020-07-31,21:00,Serie B,Matchweek 38,Fri,Away,W,2,0,Livorno,2.9,0.6,61.0,,Luca Antonelli,4-3-3,3-4-1-2,Daniele Minelli,Match Report,,2019-2020,Empoli
+2020-08-04,21:00,Serie B,Preliminary round,Tue,Away,D,1,1,Chievo,2.9,2.6,53.0,,Luca Antonelli,4-3-3,4-3-3,Davide Ghersini,Match Report,Required Extra Time,2019-2020,Empoli

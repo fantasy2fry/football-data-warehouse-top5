@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-15,19:30,La Liga,Matchweek 1,Mon,Home,L,0,3,Atlético Madrid,0.7,1.2,42,12235,Djené,5-3-2,5-3-2,José Sánchez,Match Report,,2022-2023,Getafe
+2022-08-22,22:00,La Liga,Matchweek 2,Mon,Away,L,1,3,Girona,0.6,1.1,34,10460,Djené,5-3-2,3-1-4-2,Alejandro Muñíz,Match Report,,2022-2023,Getafe
+2022-08-28,17:30,La Liga,Matchweek 3,Sun,Home,D,0,0,Villarreal,0.3,1.1,36,9815,Djené,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2022-2023,Getafe
+2022-09-04,21:00,La Liga,Matchweek 4,Sun,Away,L,1,5,Valencia,0.2,2.3,31,38725,Djené,4-4-2,4-3-3,José Luis Munuera,Match Report,,2022-2023,Getafe
+2022-09-11,18:30,La Liga,Matchweek 5,Sun,Home,W,2,1,Real Sociedad,1.1,1.2,34,11112,Damián Suárez,5-3-2,4-1-2-1-2,Juan Pulido,Match Report,,2022-2023,Getafe
+2022-09-18,14:00,La Liga,Matchweek 6,Sun,Away,W,2,0,Osasuna,0.8,0.5,45,18255,Damián Suárez,5-3-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Getafe
+2022-10-01,16:15,La Liga,Matchweek 7,Sat,Home,L,2,3,Valladolid,2.8,1.6,44,10958,Djené,5-3-2,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Getafe
+2022-10-08,21:00,La Liga,Matchweek 8,Sat,Home,L,0,1,Real Madrid,0.3,1.4,35,14502,Djené,5-3-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2022-2023,Getafe
+2022-10-14,21:00,La Liga,Matchweek 9,Fri,Away,D,0,0,Rayo Vallecano,0.4,1.6,35,13076,Djené,5-3-2,4-2-3-1,Mario Melero,Match Report,,2022-2023,Getafe
+2022-10-18,20:00,La Liga,Matchweek 10,Tue,Home,D,2,2,Athletic Club,0.8,1.0,41,11395,Djené,5-3-2,4-2-3-1,José Luis Munuera,Match Report,,2022-2023,Getafe
+2022-10-24,21:00,La Liga,Matchweek 11,Mon,Away,D,1,1,Celta Vigo,0.2,0.7,29,9774,Djené,5-3-2,4-1-3-2,Pablo González,Match Report,,2022-2023,Getafe
+2022-10-31,21:00,La Liga,Matchweek 12,Mon,Away,W,1,0,Elche,0.4,1.3,41,19588,Djené,5-3-2,5-4-1,César Soto,Match Report,,2022-2023,Getafe
+2022-11-05,14:00,La Liga,Matchweek 13,Sat,Home,D,0,0,Cádiz,0.6,1.4,53,10554,Djené,5-3-2,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Getafe
+2022-11-09,19:00,La Liga,Matchweek 14,Wed,Away,L,0,1,Almería,0.4,0.5,46,11454,Djené,5-3-2,4-1-4-1,Alejandro Muñíz,Match Report,,2022-2023,Getafe
+2022-11-13,18:30,Copa del Rey,First round,Sun,Away,W,3,2,CD San Roque de Lepe,,,59,4000,Djené,5-3-2,5-3-2,Jesús Gil,Match Report,Required Extra Time,2022-2023,Getafe
+2022-12-20,19:00,Copa del Rey,Second round,Tue,Away,W,2,0,CD Diocesano,,,51,1350,Djené,4-4-2,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Getafe
+2022-12-30,17:00,La Liga,Matchweek 15,Fri,Home,W,2,0,Mallorca,1.2,0.6,55,9755,Djené,5-3-2,5-4-1,Alberola Rojas,Match Report,,2022-2023,Getafe
+2023-01-03,21:00,Copa del Rey,Round of 32,Tue,Away,L,2,3,Levante,,,39,11403,Djené,5-3-2,4-4-2,José Sánchez,Match Report,,2022-2023,Getafe
+2023-01-08,18:30,La Liga,Matchweek 16,Sun,Away,L,1,2,Sevilla,0.7,1.2,42,35389,Djené,5-3-2,3-1-4-2,Juan Martínez,Match Report,,2022-2023,Getafe
+2023-01-15,14:00,La Liga,Matchweek 17,Sun,Home,L,1,2,Espanyol,0.5,0.8,62,10286,Djené,5-3-2,3-4-3,Jorge Figueroa,Match Report,,2022-2023,Getafe
+2023-01-22,18:30,La Liga,Matchweek 18,Sun,Away,L,0,1,Barcelona,1.1,0.7,33,79814,Djené,5-4-1,4-3-3,Javier Villanueva,Match Report,,2022-2023,Getafe
+2023-01-28,21:00,La Liga,Matchweek 19,Sat,Home,L,0,1,Betis,0.3,1.7,39,11851,Djené,5-3-2,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Getafe
+2023-02-04,18:30,La Liga,Matchweek 20,Sat,Away,D,1,1,Atlético Madrid,1.2,0.7,38,56079,Djené,5-3-2,4-4-2,Antonio Matéu,Match Report,,2022-2023,Getafe
+2023-02-12,14:00,La Liga,Matchweek 21,Sun,Home,D,1,1,Rayo Vallecano,1.4,2.2,43,12042,David Soria,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Getafe
+2023-02-20,21:00,La Liga,Matchweek 22,Mon,Home,W,1,0,Valencia,1.8,1.0,46,10112,Djené,4-4-2,4-3-3,Mario Melero,Match Report,,2022-2023,Getafe
+2023-02-27,21:00,La Liga,Matchweek 23,Mon,Away,L,1,2,Villarreal,0.6,1.5,36,13090,Djené,4-2-3-1,4-1-4-1,Jorge Figueroa,Match Report,,2022-2023,Getafe
+2023-03-04,14:00,La Liga,Matchweek 24,Sat,Home,W,3,2,Girona,1.5,0.8,39,9802,Djené,5-3-2,4-1-4-1,Juan Martínez,Match Report,,2022-2023,Getafe
+2023-03-10,21:00,La Liga,Matchweek 25,Fri,Away,D,2,2,Cádiz,2.7,1.7,49,18414,Djené,3-4-3,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Getafe
+2023-03-19,18:30,La Liga,Matchweek 26,Sun,Home,W,2,0,Sevilla,1.7,1.0,37,12253,Djené,3-4-3,5-4-1,Antonio Matéu,Match Report,,2022-2023,Getafe
+2023-04-01,16:15,La Liga,Matchweek 27,Sat,Away,D,0,0,Athletic Club,0.8,0.9,35,43782,Djené,5-3-2,4-3-3,Javier Villanueva,Match Report,,2022-2023,Getafe
+2023-04-08,18:30,La Liga,Matchweek 28,Sat,Away,L,0,2,Real Sociedad,0.3,2.1,40,27606,Djené,3-4-3,4-1-2-1-2,Mario Melero,Match Report,,2022-2023,Getafe
+2023-04-16,16:15,La Liga,Matchweek 29,Sun,Home,D,0,0,Barcelona,0.5,1.5,35,14854,Djené,5-3-2,4-3-3,Juan Pulido,Match Report,,2022-2023,Getafe
+2023-04-23,18:30,La Liga,Matchweek 30,Sun,Away,L,1,3,Mallorca,0.1,1.5,51,15687,Djené,5-3-2,5-3-2,Pablo González,Match Report,,2022-2023,Getafe
+2023-04-26,19:30,La Liga,Matchweek 31,Wed,Home,L,1,2,Almería,1.6,1.9,46,10260,Djené,3-4-3,4-3-3,Alberola Rojas,Match Report,,2022-2023,Getafe
+2023-04-30,18:30,La Liga,Matchweek 32,Sun,Away,L,0,1,Espanyol,0.5,2.4,44,26953,Damián Suárez,4-4-2,5-3-2,José Sánchez,Match Report,,2022-2023,Getafe
+2023-05-03,22:00,La Liga,Matchweek 33,Wed,Home,W,1,0,Celta Vigo,2.7,0.3,35,11022,Djené,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,2022-2023,Getafe
+2023-05-13,21:00,La Liga,Matchweek 34,Sat,Away,L,0,1,Real Madrid,0.7,0.9,25,52201,Djené,4-3-3,4-3-3,Juan Martínez,Match Report,,2022-2023,Getafe
+2023-05-20,18:30,La Liga,Matchweek 35,Sat,Home,D,1,1,Elche,1.5,1.1,39,13927,Djené,3-4-3,5-3-2,Javier Villanueva,Match Report,,2022-2023,Getafe
+2023-05-24,22:00,La Liga,Matchweek 36,Wed,Away,W,1,0,Betis,0.5,1.2,30,40289,Djené,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2022-2023,Getafe
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Home,W,2,1,Osasuna,2.5,0.5,50,13510,Djené,4-3-3,4-2-3-1,Antonio Matéu,Match Report,,2022-2023,Getafe
+2023-06-04,21:00,La Liga,Matchweek 38,Sun,Away,D,0,0,Valladolid,0.5,0.9,22,25517,Damián Suárez,4-4-2,4-3-3,José Luis Munuera,Match Report,,2022-2023,Getafe

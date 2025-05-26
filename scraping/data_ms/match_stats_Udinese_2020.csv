@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-27,15:00,Serie A,Matchweek 2,Sun,Away,L,0,1,Hellas Verona,2.2,0.9,53.0,1000.0,Kevin Lasagna,3-5-2,3-4-3,Manuel Volpi,Match Report,,2020-2021,Udinese
+2020-09-30,18:00,Serie A,Matchweek 1,Wed,Home,L,0,2,Spezia,1.8,0.8,49.0,1000.0,Kevin Lasagna,3-5-2,4-3-3,Alessandro Prontera,Match Report,,2020-2021,Udinese
+2020-10-03,20:45,Serie A,Matchweek 3,Sat,Home,L,0,1,Roma,1.5,1.0,45.0,1000.0,Kevin Lasagna,3-5-2,3-4-3,Rosario Abisso,Match Report,,2020-2021,Udinese
+2020-10-18,18:00,Serie A,Matchweek 4,Sun,Home,W,3,2,Parma,1.3,1.0,42.0,1000.0,Kevin Lasagna,3-5-2,4-3-3,Michael Fabbri,Match Report,,2020-2021,Udinese
+2020-10-25,18:00,Serie A,Matchweek 5,Sun,Away,L,2,3,Fiorentina,2.6,1.1,55.0,1000.0,Kevin Lasagna,3-5-2,3-5-2,Francesco Fourneau,Match Report,,2020-2021,Udinese
+2020-10-28,18:00,Coppa Italia,Third round,Wed,Home,W,3,1,Vicenza Virtus,,,,,,,,Antonio Rapuano,Match Report,,2020-2021,Udinese
+2020-11-01,12:30,Serie A,Matchweek 6,Sun,Home,L,1,2,Milan,1.0,1.1,40.0,,Rodrigo De Paul,4-3-3,4-2-3-1,Marco Di Bello,Match Report,,2020-2021,Udinese
+2020-11-06,20:45,Serie A,Matchweek 7,Fri,Away,D,0,0,Sassuolo,0.1,0.1,38.0,,Rodrigo De Paul,5-3-2,3-4-3,Eugenio Abbattista,Match Report,,2020-2021,Udinese
+2020-11-22,18:00,Serie A,Matchweek 8,Sun,Home,W,1,0,Genoa,0.4,0.6,46.0,,Rodrigo De Paul,3-5-2,3-5-2,Giampaolo Calvarese,Match Report,,2020-2021,Udinese
+2020-11-25,17:30,Coppa Italia,Fourth round,Wed,Home,L,0,1,Fiorentina,,,,,,,,Marco Serra,Match Report,Required Extra Time,2020-2021,Udinese
+2020-11-29,12:30,Serie A,Matchweek 9,Sun,Away,W,3,1,Lazio,1.5,1.2,44.0,,Rodrigo De Paul,3-5-2,3-5-2,Gianluca Aureliano,Match Report,,2020-2021,Udinese
+2020-12-12,18:00,Serie A,Matchweek 11,Sat,Away,W,3,2,Torino,1.3,1.0,40.0,,Rodrigo De Paul,3-5-2,3-5-2,Davide Massa,Match Report,,2020-2021,Udinese
+2020-12-15,18:30,Serie A,Matchweek 12,Tue,Home,D,0,0,Crotone,1.3,0.2,54.0,,Rodrigo De Paul,3-5-2,3-5-2,Antonio Di Martino,Match Report,,2020-2021,Udinese
+2020-12-20,15:00,Serie A,Matchweek 13,Sun,Away,D,1,1,Cagliari,1.5,0.6,47.0,,Rodrigo De Paul,3-5-2,4-2-3-1,Marco Piccinini,Match Report,,2020-2021,Udinese
+2020-12-23,20:45,Serie A,Matchweek 14,Wed,Home,L,0,2,Benevento,2.0,0.3,61.0,,Rodrigo De Paul,3-5-2,4-3-2-1,Manuel Volpi,Match Report,,2020-2021,Udinese
+2021-01-03,20:45,Serie A,Matchweek 15,Sun,Away,L,1,4,Juventus,1.7,2.5,37.0,,Rodrigo De Paul,3-5-2,4-4-2,Piero Giacomelli,Match Report,,2020-2021,Udinese
+2021-01-06,15:00,Serie A,Matchweek 16,Wed,Away,D,2,2,Bologna,2.1,1.2,63.0,,Kevin Lasagna,3-5-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2020-2021,Udinese
+2021-01-10,15:00,Serie A,Matchweek 17,Sun,Home,L,1,2,Napoli,2.1,1.7,37.0,,Rodrigo De Paul,3-5-1-1,4-2-3-1,Fabrizio Pasqua,Match Report,,2020-2021,Udinese
+2021-01-16,20:45,Serie A,Matchweek 18,Sat,Away,L,1,2,Sampdoria,2.1,1.5,46.0,,Rodrigo De Paul,3-5-1-1,4-4-1-1,Juan Sacchi,Match Report,,2020-2021,Udinese
+2021-01-20,15:00,Serie A,Matchweek 10,Wed,Home,D,1,1,Atalanta,0.4,1.5,34.0,,Rodrigo De Paul,3-5-1-1,3-4-3,Giampaolo Calvarese,Match Report,,2020-2021,Udinese
+2021-01-23,18:00,Serie A,Matchweek 19,Sat,Home,D,0,0,Inter,0.3,0.7,39.0,,Rodrigo De Paul,3-5-2,3-5-2,Fabio Maresca,Match Report,,2020-2021,Udinese
+2021-01-31,12:30,Serie A,Matchweek 20,Sun,Away,W,1,0,Spezia,1.1,0.8,37.0,,Rodrigo De Paul,3-5-1-1,4-3-3,Antonio Di Martino,Match Report,,2020-2021,Udinese
+2021-02-07,15:00,Serie A,Matchweek 21,Sun,Home,W,2,0,Hellas Verona,2.0,0.3,46.0,,Samir Santos,3-4-3,3-4-3,Alberto Santoro,Match Report,,2020-2021,Udinese
+2021-02-14,12:30,Serie A,Matchweek 22,Sun,Away,L,0,3,Roma,0.3,2.3,49.0,,Rodrigo De Paul,3-5-2,3-4-3,Piero Giacomelli,Match Report,,2020-2021,Udinese
+2021-02-21,12:30,Serie A,Matchweek 23,Sun,Away,D,2,2,Parma,1.2,2.6,54.0,,Rodrigo De Paul,3-5-2,4-3-3,Massimiliano Irrati,Match Report,,2020-2021,Udinese
+2021-02-28,15:00,Serie A,Matchweek 24,Sun,Home,W,1,0,Fiorentina,0.7,0.4,46.0,,Rodrigo De Paul,3-5-2,3-5-2,Manuel Volpi,Match Report,,2020-2021,Udinese
+2021-03-03,20:45,Serie A,Matchweek 25,Wed,Away,D,1,1,Milan,0.6,1.6,39.0,,Rodrigo De Paul,3-5-1-1,4-2-3-1,Davide Massa,Match Report,,2020-2021,Udinese
+2021-03-06,18:00,Serie A,Matchweek 26,Sat,Home,W,2,0,Sassuolo,1.7,0.9,30.0,,Rodrigo De Paul,3-5-2,3-4-3,Lorenzo Maggioni,Match Report,,2020-2021,Udinese
+2021-03-13,20:45,Serie A,Matchweek 27,Sat,Away,D,1,1,Genoa,1.8,1.5,43.0,,Rodrigo De Paul,3-5-2,3-5-2,Giacomo Camplone,Match Report,,2020-2021,Udinese
+2021-03-21,15:00,Serie A,Matchweek 28,Sun,Home,L,0,1,Lazio,1.5,1.5,51.0,,Rodrigo De Paul,3-5-2,3-5-2,Fabio Maresca,Match Report,,2020-2021,Udinese
+2021-04-03,15:00,Serie A,Matchweek 29,Sat,Away,L,2,3,Atalanta,0.8,2.5,42.0,,Rodrigo De Paul,3-5-2,3-4-1-2,Gianluca Manganiello,Match Report,,2020-2021,Udinese
+2021-04-10,20:45,Serie A,Matchweek 30,Sat,Home,L,0,1,Torino,1.1,1.5,64.0,,Rodrigo De Paul,3-5-1-1,3-5-2,Daniele Doveri,Match Report,,2020-2021,Udinese
+2021-04-17,15:00,Serie A,Matchweek 31,Sat,Away,W,2,1,Crotone,0.7,1.5,46.0,,Rodrigo De Paul,3-5-2,3-5-1-1,Luca Massimi,Match Report,,2020-2021,Udinese
+2021-04-21,20:45,Serie A,Matchweek 32,Wed,Home,L,0,1,Cagliari,0.8,1.9,57.0,,Bram Nuytinck,3-5-2,3-5-2,Marco Guida,Match Report,,2020-2021,Udinese
+2021-04-25,12:30,Serie A,Matchweek 33,Sun,Away,W,4,2,Benevento,1.2,2.8,43.0,,Rodrigo De Paul,3-5-1-1,3-5-2,Maurizio Mariani,Match Report,,2020-2021,Udinese
+2021-05-02,18:00,Serie A,Matchweek 34,Sun,Home,L,1,2,Juventus,0.4,2.0,42.0,,Rodrigo De Paul,3-5-1-1,4-4-2,Daniele Chiffi,Match Report,,2020-2021,Udinese
+2021-05-08,15:00,Serie A,Matchweek 35,Sat,Home,D,1,1,Bologna,0.4,2.4,47.0,,Rodrigo De Paul,3-5-1-1,4-2-3-1,Alberto Santoro,Match Report,,2020-2021,Udinese
+2021-05-11,20:45,Serie A,Matchweek 36,Tue,Away,L,1,5,Napoli,0.2,2.7,48.0,,Rodrigo De Paul,3-5-1-1,4-2-3-1,Giampaolo Calvarese,Match Report,,2020-2021,Udinese
+2021-05-16,15:00,Serie A,Matchweek 37,Sun,Home,L,0,1,Sampdoria,0.4,1.5,53.0,,Rodrigo De Paul,3-5-1-1,5-3-2,Matteo Gariglio,Match Report,,2020-2021,Udinese
+2021-05-23,15:00,Serie A,Matchweek 38,Sun,Away,L,1,5,Inter,1.3,3.0,52.0,1000.0,Rodrigo De Paul,3-5-1-1,3-5-2,Manuel Volpi,Match Report,,2020-2021,Udinese

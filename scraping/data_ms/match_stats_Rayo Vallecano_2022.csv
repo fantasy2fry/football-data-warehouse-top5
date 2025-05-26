@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-13,21:00,La Liga,Matchweek 1,Sat,Away,D,0,0,Barcelona,0.5,1.9,33,81104,Óscar Trejo,4-2-3-1,4-3-3,Alejandro Hernández,Match Report,,2022-2023,Rayo Vallecano
+2022-08-19,20:00,La Liga,Matchweek 2,Fri,Away,W,2,0,Espanyol,1.4,0.8,46,16071,Óscar Trejo,4-2-3-1,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Rayo Vallecano
+2022-08-27,19:30,La Liga,Matchweek 3,Sat,Home,L,0,2,Mallorca,0.7,0.8,65,10944,Óscar Trejo,4-2-3-1,5-3-2,José Sánchez,Match Report,,2022-2023,Rayo Vallecano
+2022-09-04,14:00,La Liga,Matchweek 4,Sun,Away,L,1,2,Osasuna,0.2,2.4,53,18745,Óscar Trejo,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,2022-2023,Rayo Vallecano
+2022-09-10,14:00,La Liga,Matchweek 5,Sat,Home,W,2,1,Valencia,1.7,1.7,46,12085,Óscar Trejo,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Rayo Vallecano
+2022-09-17,21:00,La Liga,Matchweek 6,Sat,Away,L,2,3,Athletic Club,0.7,1.9,61,43484,Óscar Trejo,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2022-2023,Rayo Vallecano
+2022-10-03,21:00,La Liga,Matchweek 7,Mon,Home,W,2,1,Elche,0.9,1.1,70,11662,Óscar Trejo,4-2-3-1,5-3-2,Jorge Figueroa,Match Report,,2022-2023,Rayo Vallecano
+2022-10-08,14:00,La Liga,Matchweek 8,Sat,Away,L,1,3,Almería,0.8,1.2,63,10783,Óscar Trejo,4-4-2,4-2-3-1,Pablo González,Match Report,,2022-2023,Rayo Vallecano
+2022-10-14,21:00,La Liga,Matchweek 9,Fri,Home,D,0,0,Getafe,1.6,0.4,65,13076,Óscar Trejo,4-2-3-1,5-3-2,Mario Melero,Match Report,,2022-2023,Rayo Vallecano
+2022-10-18,21:00,La Liga,Matchweek 10,Tue,Away,D,1,1,Atlético Madrid,1.8,1.1,48,46803,Catena,4-2-3-1,4-4-2,Javier Villanueva,Match Report,,2022-2023,Rayo Vallecano
+2022-10-22,14:00,La Liga,Matchweek 11,Sat,Home,W,5,1,Cádiz,3.7,0.2,62,12975,Óscar Trejo,4-4-2,4-4-2,Alejandro Muñíz,Match Report,,2022-2023,Rayo Vallecano
+2022-10-29,18:30,La Liga,Matchweek 12,Sat,Away,W,1,0,Sevilla,0.7,1.2,38,36601,Santi Comesaña,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2022-2023,Rayo Vallecano
+2022-11-07,21:00,La Liga,Matchweek 13,Mon,Home,W,3,2,Real Madrid,1.5,2.4,46,14216,Óscar Trejo,4-2-3-1,4-3-3,Juan Martínez,Match Report,,2022-2023,Rayo Vallecano
+2022-11-10,19:00,La Liga,Matchweek 14,Thu,Home,D,0,0,Celta Vigo,0.4,0.9,59,12419,Santi Comesaña,4-2-3-1,3-4-3,José Luis Munuera,Match Report,,2022-2023,Rayo Vallecano
+2022-11-13,12:00,Copa del Rey,First round,Sun,Away,W,3,1,CFJ Mollerussa,,,73,3800,Mario Suárez,4-4-2,5-3-2,César Soto,Match Report,,2022-2023,Rayo Vallecano
+2022-12-21,19:00,Copa del Rey,Second round,Wed,Away,D,0 (3),0 (1),Atlético Saguntino,,,77,2000,Óscar Trejo,4-2-3-1,4-3-3,Guillermo Cuadra,Match Report,Rayo Vallecano won on penalty kicks following extra time,2022-2023,Rayo Vallecano
+2022-12-29,17:00,La Liga,Matchweek 15,Thu,Away,D,2,2,Girona,1.0,2.3,41,11451,Óscar Trejo,4-2-3-1,4-1-4-1,Jorge Figueroa,Match Report,,2022-2023,Rayo Vallecano
+2023-01-03,21:00,Copa del Rey,Round of 32,Tue,Away,L,0,2,Sporting Gijón,,,61,17423,Catena,4-2-3-1,5-4-1,Juan Pulido,Match Report,,2022-2023,Rayo Vallecano
+2023-01-08,16:15,La Liga,Matchweek 16,Sun,Home,L,1,2,Betis,1.6,0.9,62,13119,Óscar Trejo,4-4-1-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Rayo Vallecano
+2023-01-14,14:00,La Liga,Matchweek 17,Sat,Away,W,1,0,Valladolid,1.1,0.6,55,19969,Santi Comesaña,4-2-3-1,4-3-3,Mario Melero,Match Report,,2022-2023,Rayo Vallecano
+2023-01-21,14:00,La Liga,Matchweek 18,Sat,Home,L,0,2,Real Sociedad,0.9,1.6,54,12874,Óscar Trejo,4-2-3-1,4-1-2-1-2,Antonio Matéu,Match Report,,2022-2023,Rayo Vallecano
+2023-01-30,21:00,La Liga,Matchweek 19,Mon,Away,W,1,0,Villarreal,1.0,0.8,38,14378,Óscar Trejo,4-2-3-1,4-1-4-1,Juan Pulido,Match Report,,2022-2023,Rayo Vallecano
+2023-02-06,21:00,La Liga,Matchweek 20,Mon,Home,W,2,0,Almería,1.1,1.2,49,11783,Óscar Trejo,4-2-3-1,4-3-3,César Soto,Match Report,,2022-2023,Rayo Vallecano
+2023-02-12,14:00,La Liga,Matchweek 21,Sun,Away,D,1,1,Getafe,2.2,1.4,57,12042,Óscar Trejo,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,2022-2023,Rayo Vallecano
+2023-02-19,16:15,La Liga,Matchweek 22,Sun,Home,D,1,1,Sevilla,1.3,0.5,58,13294,Óscar Trejo,4-1-4-1,5-4-1,Jesús Gil,Match Report,,2022-2023,Rayo Vallecano
+2023-02-25,16:15,La Liga,Matchweek 23,Sat,Away,L,0,1,Cádiz,0.6,0.8,58,16703,Santi Comesaña,4-4-2,4-4-2,Alejandro Muñíz,Match Report,,2022-2023,Rayo Vallecano
+2023-03-05,18:30,La Liga,Matchweek 24,Sun,Home,D,0,0,Athletic Club,1.1,1.3,55,12979,Óscar Trejo,4-2-3-1,4-2-3-1,Mario Melero,Match Report,,2022-2023,Rayo Vallecano
+2023-03-11,18:30,La Liga,Matchweek 25,Sat,Away,L,0,3,Celta Vigo,1.1,2.4,57,14451,Óscar Trejo,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2022-2023,Rayo Vallecano
+2023-03-18,16:15,La Liga,Matchweek 26,Sat,Home,D,2,2,Girona,1.9,1.8,47,12263,Óscar Trejo,4-2-3-1,4-1-4-1,Pablo González,Match Report,,2022-2023,Rayo Vallecano
+2023-04-03,21:00,La Liga,Matchweek 27,Mon,Away,D,1,1,Valencia,0.8,2.3,39,39769,Óscar Trejo,4-2-3-1,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Rayo Vallecano
+2023-04-09,21:00,La Liga,Matchweek 28,Sun,Home,L,1,2,Atlético Madrid,0.7,1.9,51,13512,Santi Comesaña,4-2-3-1,5-3-2,Ricardo de Burgos,Match Report,,2022-2023,Rayo Vallecano
+2023-04-14,21:00,La Liga,Matchweek 29,Fri,Home,W,2,1,Osasuna,0.9,0.6,46,12726,Óscar Trejo,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,2022-2023,Rayo Vallecano
+2023-04-22,18:30,La Liga,Matchweek 30,Sat,Away,L,1,2,Real Sociedad,0.5,0.6,40,32054,Óscar Trejo,4-2-3-1,4-1-3-2,Alejandro Muñíz,Match Report,,2022-2023,Rayo Vallecano
+2023-04-26,22:00,La Liga,Matchweek 31,Wed,Home,W,2,1,Barcelona,0.7,0.9,40,13657,Óscar Trejo,4-4-2,4-3-3,Jesús Gil,Match Report,,2022-2023,Rayo Vallecano
+2023-04-29,16:15,La Liga,Matchweek 32,Sat,Away,L,0,4,Elche,0.8,2.8,50,11259,Santi Comesaña,4-2-3-1,4-2-3-1,Mario Melero,Match Report,,2022-2023,Rayo Vallecano
+2023-05-04,22:00,La Liga,Matchweek 33,Thu,Home,W,2,1,Valladolid,1.4,0.6,52,11171,Óscar Trejo,4-2-3-1,3-4-1-2,Isidro Díaz de Mera,Match Report,,2022-2023,Rayo Vallecano
+2023-05-15,21:00,La Liga,Matchweek 34,Mon,Away,L,1,3,Betis,1.3,1.5,51,48143,Óscar Trejo,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2022-2023,Rayo Vallecano
+2023-05-21,14:00,La Liga,Matchweek 35,Sun,Home,L,1,2,Espanyol,2.0,1.6,64,12142,Óscar Trejo,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Rayo Vallecano
+2023-05-24,19:30,La Liga,Matchweek 36,Wed,Away,L,1,2,Real Madrid,0.7,1.3,39,45811,Santi Comesaña,4-2-3-1,4-1-4-1,Jesús Gil,Match Report,,2022-2023,Rayo Vallecano
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Home,W,2,1,Villarreal,1.4,0.4,33,11085,Santi Comesaña,4-2-3-1,4-2-3-1,Javier Villanueva,Match Report,,2022-2023,Rayo Vallecano
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Away,L,0,3,Mallorca,1.1,2.2,53,14521,Santi Comesaña,4-3-1-2,5-3-2,Antonio Matéu,Match Report,,2022-2023,Rayo Vallecano

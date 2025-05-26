@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-18,18:00,Serie A,Matchweek 1,Sat,Away,W,3,2,Chievo,3.1,1.1,72.0,29500,Giorgio Chiellini,4-2-3-1,4-3-3,Fabrizio Pasqua,Match Report,,2018-2019,Juventus
+2018-08-25,18:00,Serie A,Matchweek 2,Sat,Home,W,2,0,Lazio,1.6,0.3,55.0,40171,Giorgio Chiellini,4-3-3,3-5-1-1,Massimiliano Irrati,Match Report,,2018-2019,Juventus
+2018-09-01,20:30,Serie A,Matchweek 3,Sat,Away,W,2,1,Parma,2.3,1.9,65.0,20814,Giorgio Chiellini,4-3-3,4-3-3,Daniele Doveri,Match Report,,2018-2019,Juventus
+2018-09-16,15:00,Serie A,Matchweek 4,Sun,Home,W,2,1,Sassuolo,2.4,0.8,43.0,40563,Sami Khedira,4-3-1-2,4-3-3,Daniele Chiffi,Match Report,,2018-2019,Juventus
+2018-09-19,21:00,Champions Lg,Group stage,Wed,Away,W,2,0,es Valencia,3.7,2.0,46.0,46067,Giorgio Chiellini,4-3-3,4-4-2,Felix Brych,Match Report,,2018-2019,Juventus
+2018-09-23,20:30,Serie A,Matchweek 5,Sun,Away,W,2,0,Frosinone,3.0,0.1,72.0,16000,Giorgio Chiellini,4-3-3,5-3-2,Piero Giacomelli,Match Report,,2018-2019,Juventus
+2018-09-26,21:00,Serie A,Matchweek 6,Wed,Home,W,2,0,Bologna,1.1,0.3,76.0,38472,Andrea Barzagli,3-5-1-1,3-5-1-1,Maurizio Mariani,Match Report,,2018-2019,Juventus
+2018-09-29,18:00,Serie A,Matchweek 7,Sat,Home,W,3,1,Napoli,2.8,1.5,51.0,39252,Giorgio Chiellini,4-3-1-2,4-4-2,Luca Banti,Match Report,,2018-2019,Juventus
+2018-10-02,18:55,Champions Lg,Group stage,Tue,Home,W,3,0,ch Young Boys,3.3,0.2,60.0,40961,Andrea Barzagli,3-4-1-2,4-1-4-1,Sergey Karasev,Match Report,,2018-2019,Juventus
+2018-10-06,18:00,Serie A,Matchweek 8,Sat,Away,W,2,0,Udinese,2.3,0.7,60.0,25000,Giorgio Chiellini,4-3-3,4-1-4-1,Rosario Abisso,Match Report,,2018-2019,Juventus
+2018-10-20,18:00,Serie A,Matchweek 9,Sat,Home,D,1,1,Genoa,1.8,1.0,63.0,37735,Leonardo Bonucci,4-3-3,3-4-1-2,Federico La Penna,Match Report,,2018-2019,Juventus
+2018-10-23,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,eng Manchester Utd,1.3,0.3,60.0,73946,Giorgio Chiellini,4-4-2,4-2-3-1,Danilo Grujić,Match Report,,2018-2019,Juventus
+2018-10-27,18:00,Serie A,Matchweek 10,Sat,Away,W,2,1,Empoli,1.7,0.3,57.0,15889,Paulo Dybala,4-4-2,4-3-2-1,Giampaolo Calvarese,Match Report,,2018-2019,Juventus
+2018-11-03,20:30,Serie A,Matchweek 11,Sat,Home,W,3,1,Cagliari,1.8,0.7,53.0,40644,Paulo Dybala,4-3-3,4-3-1-2,Maurizio Mariani,Match Report,,2018-2019,Juventus
+2018-11-07,21:00,Champions Lg,Group stage,Wed,Home,L,1,2,eng Manchester Utd,1.9,0.8,55.0,41470,Giorgio Chiellini,4-4-2,4-3-3,Ovidiu Hațegan,Match Report,,2018-2019,Juventus
+2018-11-11,20:30,Serie A,Matchweek 12,Sun,Away,W,2,0,Milan,1.3,0.9,59.0,74729,Giorgio Chiellini,4-3-3,4-4-2,Paolo Mazzoleni,Match Report,,2018-2019,Juventus
+2018-11-24,18:00,Serie A,Matchweek 13,Sat,Home,W,2,0,SPAL,1.6,0.5,45.0,41052,Mario Mandžukić,4-4-2,5-3-2,Federico La Penna,Match Report,,2018-2019,Juventus
+2018-11-27,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,es Valencia,1.8,0.3,56.0,39070,Giorgio Chiellini,4-3-3,4-4-2,William Collum,Match Report,,2018-2019,Juventus
+2018-12-01,18:00,Serie A,Matchweek 14,Sat,Away,W,3,0,Fiorentina,1.7,1.3,54.0,40872,Giorgio Chiellini,4-2-3-1,4-3-3,Daniele Orsato,Match Report,,2018-2019,Juventus
+2018-12-07,20:30,Serie A,Matchweek 15,Fri,Home,W,1,0,Inter,1.5,1.0,50.0,41495,Giorgio Chiellini,4-3-3,4-3-3,Massimiliano Irrati,Match Report,,2018-2019,Juventus
+2018-12-12,21:00,Champions Lg,Group stage,Wed,Away,L,1,2,ch Young Boys,2.1,1.2,60.0,30114,Mario Mandžukić,4-3-3,5-3-2,Tobias Stieler,Match Report,,2018-2019,Juventus
+2018-12-15,20:30,Serie A,Matchweek 16,Sat,Away,W,1,0,Torino,1.6,0.5,58.0,26588,Giorgio Chiellini,4-3-3,3-1-4-2,Marco Guida,Match Report,,2018-2019,Juventus
+2018-12-22,20:30,Serie A,Matchweek 17,Sat,Home,W,1,0,Roma,1.5,0.4,50.0,40069,Giorgio Chiellini,4-3-3,5-3-2,Davide Massa,Match Report,,2018-2019,Juventus
+2018-12-26,15:00,Serie A,Matchweek 18,Wed,Away,D,2,2,Atalanta,1.1,1.4,49.0,19787,Giorgio Chiellini,4-3-3,3-4-1-2,Luca Banti,Match Report,,2018-2019,Juventus
+2018-12-29,12:30,Serie A,Matchweek 19,Sat,Home,W,2,1,Sampdoria,1.4,1.7,55.0,40641,Giorgio Chiellini,4-3-3,4-3-1-2,Paolo Valeri,Match Report,,2018-2019,Juventus
+2019-01-12,20:45,Coppa Italia,Round of 16,Sat,Away,W,2,0,Bologna,,,,15469,,,,Federico La Penna,Match Report,,2018-2019,Juventus
+2019-01-16,20:30,Supercoppa,Supercoppa Italiana,Wed,Neutral,W,1,0,Milan,,,62.0,61235,Giorgio Chiellini,4-3-3,4-3-3,Luca Banti,Match Report,,2018-2019,Juventus
+2019-01-21,20:30,Serie A,Matchweek 20,Mon,Home,W,3,0,Chievo,3.2,0.5,61.0,30239,Giorgio Chiellini,4-4-2,3-4-1-2,Marco Piccinini,Match Report,,2018-2019,Juventus
+2019-01-27,20:30,Serie A,Matchweek 21,Sun,Away,W,2,1,Lazio,1.2,1.6,53.0,60687,Paulo Dybala,4-3-2-1,3-1-4-2,Marco Guida,Match Report,,2018-2019,Juventus
+2019-01-30,20:45,Coppa Italia,Quarter-finals,Wed,Away,L,0,3,Atalanta,,,,18438,,,,Fabrizio Pasqua,Match Report,,2018-2019,Juventus
+2019-02-02,20:30,Serie A,Matchweek 22,Sat,Home,D,3,3,Parma,1.9,1.2,68.0,39548,Mario Mandžukić,4-3-3,4-3-3,Piero Giacomelli,Match Report,,2018-2019,Juventus
+2019-02-10,18:00,Serie A,Matchweek 23,Sun,Away,W,3,0,Sassuolo,1.6,0.4,51.0,21584,Mario Mandžukić,4-4-2,4-3-3,Paolo Mazzoleni,Match Report,,2018-2019,Juventus
+2019-02-15,20:30,Serie A,Matchweek 24,Fri,Home,W,3,0,Frosinone,1.7,0.8,60.0,10570,Giorgio Chiellini,4-3-1-2,3-5-2,Antonio Giua,Match Report,,2018-2019,Juventus
+2019-02-20,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,es Atlético Madrid,0.7,1.4,63.0,67193,Giorgio Chiellini,4-3-3,4-4-2,Felix Zwayer,Match Report,Leg 1 of 2,2018-2019,Juventus
+2019-02-24,15:00,Serie A,Matchweek 25,Sun,Away,W,1,0,Bologna,0.6,1.2,50.0,28934,Mario Mandžukić,4-3-3,4-2-3-1,Giampaolo Calvarese,Match Report,,2018-2019,Juventus
+2019-03-03,20:30,Serie A,Matchweek 26,Sun,Away,W,2,1,Napoli,0.3,2.1,37.0,42667,Giorgio Chiellini,4-4-2,4-4-2,Gianluca Rocchi,Match Report,,2018-2019,Juventus
+2019-03-08,20:30,Serie A,Matchweek 27,Fri,Home,W,4,1,Udinese,2.3,0.2,61.0,39987,Andrea Barzagli,3-4-3,3-5-2,Daniele Chiffi,Match Report,,2018-2019,Juventus
+2019-03-12,21:00,Champions Lg,Round of 16,Tue,Home,W,3,0,es Atlético Madrid,2.5,0.4,62.0,40884,Giorgio Chiellini,3-4-1-2,4-4-2,Björn Kuipers,Match Report,Leg 2 of 2; Juventus won,2018-2019,Juventus
+2019-03-17,12:30,Serie A,Matchweek 28,Sun,Away,L,0,2,Genoa,0.3,1.3,59.0,30695,Paulo Dybala,3-1-4-2,4-4-2,Marco Di Bello,Match Report,,2018-2019,Juventus
+2019-03-30,18:00,Serie A,Matchweek 29,Sat,Home,W,1,0,Empoli,1.5,0.3,43.0,39290,Giorgio Chiellini,4-4-2,3-5-2,Federico La Penna,Match Report,,2018-2019,Juventus
+2019-04-02,21:00,Serie A,Matchweek 30,Tue,Away,W,2,0,Cagliari,2.5,0.5,55.0,15958,Giorgio Chiellini,3-4-3,4-3-1-2,Piero Giacomelli,Match Report,,2018-2019,Juventus
+2019-04-06,18:00,Serie A,Matchweek 31,Sat,Home,W,2,1,Milan,1.9,1.3,47.0,40057,Mario Mandžukić,3-5-2,4-3-3,Michael Fabbri,Match Report,,2018-2019,Juventus
+2019-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,D,1,1,nl Ajax,0.7,1.2,39.0,50390,Mario Mandžukić,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,Leg 1 of 2,2018-2019,Juventus
+2019-04-13,15:00,Serie A,Matchweek 32,Sat,Away,L,1,2,SPAL,0.5,1.2,57.0,16000,Andrea Barzagli,3-5-2,3-5-2,Daniele Doveri,Match Report,,2018-2019,Juventus
+2019-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1,2,nl Ajax,0.8,2.2,51.0,41445,Paulo Dybala,4-4-2,4-2-3-1,Clément Turpin,Match Report,Leg 2 of 2; Ajax won,2018-2019,Juventus
+2019-04-20,18:00,Serie A,Matchweek 33,Sat,Home,W,2,1,Fiorentina,1.0,1.5,60.0,40339,Leonardo Bonucci,4-4-2,4-4-2,Fabrizio Pasqua,Match Report,,2018-2019,Juventus
+2019-04-27,20:30,Serie A,Matchweek 34,Sat,Away,D,1,1,Inter,0.6,1.1,46.0,73855,Giorgio Chiellini,4-4-2,4-2-3-1,Luca Banti,Match Report,,2018-2019,Juventus
+2019-05-03,20:30,Serie A,Matchweek 35,Fri,Home,D,1,1,Torino,1.5,0.6,58.0,38530,Giorgio Chiellini,4-4-2,3-5-2,Daniele Orsato,Match Report,,2018-2019,Juventus
+2019-05-12,20:30,Serie A,Matchweek 36,Sun,Away,L,0,2,Roma,1.0,1.4,63.0,50825,Giorgio Chiellini,4-4-2,4-3-3,Davide Massa,Match Report,,2018-2019,Juventus
+2019-05-19,20:30,Serie A,Matchweek 37,Sun,Home,D,1,1,Atalanta,1.0,1.3,63.0,39531,Andrea Barzagli,4-4-2,3-4-1-2,Gianluca Rocchi,Match Report,,2018-2019,Juventus
+2019-05-26,18:00,Serie A,Matchweek 38,Sun,Away,L,0,2,Sampdoria,0.5,0.7,47.0,22856,Giorgio Chiellini,4-4-2,4-3-1-2,Luigi Nasca,Match Report,,2018-2019,Juventus

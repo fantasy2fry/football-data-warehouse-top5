@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-15,22:00,Super Cup,UEFA Super Cup,Wed,Neutral,W,4,2,es Real Madrid,,,41,12424,Diego Godín,4-4-2,4-2-3-1,Szymon Marciniak,Match Report,Required Extra Time,2018-2019,Atletico Madrid
+2018-08-20,20:00,La Liga,Matchweek 1,Mon,Away,D,1,1,Valencia,0.9,1.1,49,46174,Diego Godín,4-4-2,4-4-2,Jesús Gil,Match Report,,2018-2019,Atletico Madrid
+2018-08-25,20:15,La Liga,Matchweek 2,Sat,Home,W,1,0,Rayo Vallecano,0.9,1.5,47,52693,Diego Godín,4-4-2,4-1-4-1,José González,Match Report,,2018-2019,Atletico Madrid
+2018-09-01,18:30,La Liga,Matchweek 3,Sat,Away,L,0,2,Celta Vigo,0.4,0.5,50,19013,Diego Godín,4-4-2,3-4-3,Antonio Matéu Lahoz,Match Report,,2018-2019,Atletico Madrid
+2018-09-15,13:00,La Liga,Matchweek 4,Sat,Home,D,1,1,Eibar,2.3,1.3,58,55674,Diego Godín,4-1-4-1,4-2-3-1,Juan Martínez,Match Report,,2018-2019,Atletico Madrid
+2018-09-18,21:00,Champions Lg,Group stage,Tue,Away,W,2,1,fr Monaco,0.9,0.7,59,10575,Diego Godín,4-4-2,4-1-4-1,William Collum,Match Report,,2018-2019,Atletico Madrid
+2018-09-22,18:30,La Liga,Matchweek 5,Sat,Away,W,2,0,Getafe,1.1,0.6,59,12756,Koke,4-4-2,4-4-2,José Sánchez,Match Report,,2018-2019,Atletico Madrid
+2018-09-25,22:00,La Liga,Matchweek 6,Tue,Home,W,3,0,Huesca,0.9,0.9,58,47023,Diego Godín,4-4-2,4-4-2,Pablo González,Match Report,,2018-2019,Atletico Madrid
+2018-09-29,20:45,La Liga,Matchweek 7,Sat,Away,D,0,0,Real Madrid,0.8,1.2,35,78642,Diego Godín,4-4-2,4-3-3,Juan Martínez,Match Report,,2018-2019,Atletico Madrid
+2018-10-03,21:00,Champions Lg,Group stage,Wed,Home,W,3,1,be Club Brugge,1.8,0.6,60,55742,Diego Godín,3-1-4-2,3-5-2,Filip Glova,Match Report,,2018-2019,Atletico Madrid
+2018-10-07,16:15,La Liga,Matchweek 8,Sun,Home,W,1,0,Betis,0.6,0.3,37,63786,Diego Godín,4-4-2,3-4-3,Alberto Undiano,Match Report,,2018-2019,Atletico Madrid
+2018-10-20,18:30,La Liga,Matchweek 9,Sat,Away,D,1,1,Villarreal,1.4,1.9,47,17518,Koke,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2018-2019,Atletico Madrid
+2018-10-24,21:00,Champions Lg,Group stage,Wed,Away,L,0,4,de Dortmund,0.6,2.0,51,66099,Diego Godín,4-2-2-2,4-2-3-1,Anthony Taylor,Match Report,,2018-2019,Atletico Madrid
+2018-10-27,20:45,La Liga,Matchweek 10,Sat,Home,W,2,0,Real Sociedad,1.4,0.3,61,57514,Diego Godín,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Atletico Madrid
+2018-10-30,21:30,Copa del Rey,Round of 32,Tue,Away,W,1,0,Sant Andreu,,,60,5995,Juanfran,4-4-2,4-4-2,Jesús Gil,Match Report,Leg 1 of 2,2018-2019,Atletico Madrid
+2018-11-03,13:00,La Liga,Matchweek 11,Sat,Away,D,1,1,Leganés,0.4,1.3,55,12319,Antoine Griezmann,4-4-2,3-4-3,Mario Melero,Match Report,,2018-2019,Atletico Madrid
+2018-11-06,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,de Dortmund,1.5,0.6,32,61023,Antoine Griezmann,4-4-2,4-2-3-1,Daniele Orsato,Match Report,,2018-2019,Atletico Madrid
+2018-11-10,18:30,La Liga,Matchweek 12,Sat,Home,W,3,2,Athletic Club,1.1,1.9,51,59321,Diego Godín,4-4-2,4-3-3,José Sánchez,Match Report,,2018-2019,Atletico Madrid
+2018-11-24,20:45,La Liga,Matchweek 13,Sat,Home,D,1,1,Barcelona,0.2,0.6,31,67204,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,2018-2019,Atletico Madrid
+2018-11-28,18:55,Champions Lg,Group stage,Wed,Home,W,2,0,fr Monaco,0.9,1.3,56,56314,Koke,4-4-2,4-4-2,Mattias Gestranius,Match Report,,2018-2019,Atletico Madrid
+2018-12-02,16:15,La Liga,Matchweek 14,Sun,Away,D,1,1,Girona,1.6,1.5,56,12104,Koke,4-4-2,3-4-3,Ricardo de Burgos,Match Report,,2018-2019,Atletico Madrid
+2018-12-05,19:30,Copa del Rey,Round of 32,Wed,Home,W,4,0,Sant Andreu,,,55,31414,Koke,4-4-2,4-4-2,Mario Melero,Match Report,Leg 2 of 2; Atlético Madrid won,2018-2019,Atletico Madrid
+2018-12-08,13:00,La Liga,Matchweek 15,Sat,Home,W,3,0,Alavés,2.7,1.4,48,55810,Antoine Griezmann,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2018-2019,Atletico Madrid
+2018-12-11,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,be Club Brugge,0.4,0.6,57,25645,Diego Godín,4-3-3,3-5-2,Davide Massa,Match Report,,2018-2019,Atletico Madrid
+2018-12-15,16:15,La Liga,Matchweek 16,Sat,Away,W,3,2,Valladolid,1.9,0.8,44,22585,Diego Godín,4-4-2,4-4-1-1,Alberto Undiano,Match Report,,2018-2019,Atletico Madrid
+2018-12-22,16:15,La Liga,Matchweek 17,Sat,Home,W,1,0,Espanyol,1.0,0.8,38,58069,Diego Godín,4-4-2,4-1-4-1,Mario Melero,Match Report,,2018-2019,Atletico Madrid
+2019-01-06,16:15,La Liga,Matchweek 18,Sun,Away,D,1,1,Sevilla,0.7,1.4,44,38603,Diego Godín,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Atletico Madrid
+2019-01-09,19:30,Copa del Rey,Round of 16,Wed,Away,D,1,1,Girona,,,52,7770,Diego Godín,4-4-2,3-4-1-2,Alejandro Hernández,Match Report,Leg 1 of 2,2018-2019,Atletico Madrid
+2019-01-13,12:00,La Liga,Matchweek 19,Sun,Home,W,1,0,Levante,2.5,0.7,58,57093,Diego Godín,4-4-2,3-5-2,Eduardo Prieto,Match Report,,2018-2019,Atletico Madrid
+2019-01-16,19:30,Copa del Rey,Round of 16,Wed,Home,D,3,3,Girona,,,57,45221,Diego Godín,4-4-2,3-4-1-2,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Girona won,2018-2019,Atletico Madrid
+2019-01-19,18:30,La Liga,Matchweek 20,Sat,Away,W,3,0,Huesca,2.5,1.3,49,7106,Diego Godín,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,2018-2019,Atletico Madrid
+2019-01-26,16:15,La Liga,Matchweek 21,Sat,Home,W,2,0,Getafe,1.1,0.3,65,55709,Diego Godín,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Atletico Madrid
+2019-02-03,16:15,La Liga,Matchweek 22,Sun,Away,L,0,1,Betis,0.7,1.0,46,50864,Antoine Griezmann,4-4-2,3-5-2,David Medié,Match Report,,2018-2019,Atletico Madrid
+2019-02-09,16:15,La Liga,Matchweek 23,Sat,Home,L,1,3,Real Madrid,1.1,1.6,35,67752,Diego Godín,4-4-2,4-3-3,Javier Estrada,Match Report,,2018-2019,Atletico Madrid
+2019-02-16,16:15,La Liga,Matchweek 24,Sat,Away,W,1,0,Rayo Vallecano,0.2,1.0,51,13880,Diego Godín,4-4-2,3-4-3,Jesús Gil,Match Report,,2018-2019,Atletico Madrid
+2019-02-20,21:00,Champions Lg,Round of 16,Wed,Home,W,2,0,it Juventus,1.4,0.7,38,67193,Diego Godín,4-4-2,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,2018-2019,Atletico Madrid
+2019-02-24,16:15,La Liga,Matchweek 25,Sun,Home,W,2,0,Villarreal,1.2,1.2,51,59114,Koke,4-4-2,3-5-2,Alberto Undiano,Match Report,,2018-2019,Atletico Madrid
+2019-03-03,18:30,La Liga,Matchweek 26,Sun,Away,W,2,0,Real Sociedad,1.4,0.9,39,26004,Diego Godín,4-4-2,4-1-4-1,José González,Match Report,,2018-2019,Atletico Madrid
+2019-03-09,16:15,La Liga,Matchweek 27,Sat,Home,W,1,0,Leganés,1.3,0.1,45,58321,Antoine Griezmann,4-4-2,3-1-4-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Atletico Madrid
+2019-03-12,21:00,Champions Lg,Round of 16,Tue,Away,L,0,3,it Juventus,0.4,2.5,38,40884,Diego Godín,4-4-2,3-4-1-2,Björn Kuipers,Match Report,Leg 2 of 2; Juventus won,2018-2019,Atletico Madrid
+2019-03-16,18:30,La Liga,Matchweek 28,Sat,Away,L,0,2,Athletic Club,0.9,1.3,53,39659,Diego Godín,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,2018-2019,Atletico Madrid
+2019-03-30,20:45,La Liga,Matchweek 29,Sat,Away,W,4,0,Alavés,1.5,0.8,55,19117,Diego Godín,4-4-2,4-4-2,Mario Melero,Match Report,,2018-2019,Atletico Madrid
+2019-04-02,19:30,La Liga,Matchweek 30,Tue,Home,W,2,0,Girona,2.5,0.8,49,40863,Diego Godín,3-1-4-2,4-1-4-1,Ignacio Iglesias,Match Report,,2018-2019,Atletico Madrid
+2019-04-06,20:45,La Liga,Matchweek 31,Sat,Away,L,0,2,Barcelona,0.8,2.6,36,92453,Diego Godín,4-4-2,4-3-3,Jesús Gil,Match Report,,2018-2019,Atletico Madrid
+2019-04-13,18:30,La Liga,Matchweek 32,Sat,Home,W,2,0,Celta Vigo,1.5,0.5,56,55269,Koke,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2018-2019,Atletico Madrid
+2019-04-20,16:15,La Liga,Matchweek 33,Sat,Away,W,1,0,Eibar,1.3,0.6,48,4750,Diego Godín,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,2018-2019,Atletico Madrid
+2019-04-24,19:30,La Liga,Matchweek 34,Wed,Home,W,3,2,Valencia,1.6,2.1,56,43531,Diego Godín,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Atletico Madrid
+2019-04-27,16:15,La Liga,Matchweek 35,Sat,Home,W,1,0,Valladolid,0.7,0.7,58,53123,Diego Godín,4-4-2,4-4-2,Mario Melero,Match Report,,2018-2019,Atletico Madrid
+2019-05-04,16:15,La Liga,Matchweek 36,Sat,Away,L,0,3,Espanyol,0.7,1.6,50,20207,Diego Godín,4-4-2,4-3-3,José Luis Munuera,Match Report,,2018-2019,Atletico Madrid
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,D,1,1,Sevilla,1.3,0.8,49,60234,Diego Godín,4-4-2,4-4-1-1,Ricardo de Burgos,Match Report,,2018-2019,Atletico Madrid
+2019-05-18,13:00,La Liga,Matchweek 38,Sat,Away,D,2,2,Levante,1.9,2.7,53,20575,Juanfran,4-4-2,3-5-2,Ignacio Iglesias,Match Report,,2018-2019,Atletico Madrid

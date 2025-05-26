@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-17,21:00,La Liga,Matchweek 1,Sat,Home,L,0,1,Osasuna,1.4,0.2,52.0,10020.0,Unai Bustinza,3-4-1-2,4-2-3-1,Alberola Rojas,Match Report,,2019-2020,Leganes
+2019-08-25,19:00,La Liga,Matchweek 2,Sun,Home,L,0,1,Atlético Madrid,0.4,1.8,42.0,11742.0,Rubén Pérez,5-3-2,3-1-4-2,Ricardo de Burgos,Match Report,,2019-2020,Leganes
+2019-08-31,21:00,La Liga,Matchweek 3,Sat,Away,L,1,2,Betis,1.4,2.1,32.0,47819.0,Dimitris Siovas,3-1-4-2,4-3-1-2,Guillermo Cuadra,Match Report,,2019-2020,Leganes
+2019-09-14,16:00,La Liga,Matchweek 4,Sat,Home,L,0,3,Villarreal,0.4,1.6,49.0,7670.0,Unai Bustinza,4-4-2,4-2-3-1,David Medié,Match Report,,2019-2020,Leganes
+2019-09-22,16:00,La Liga,Matchweek 5,Sun,Away,D,1,1,Valencia,1.2,1.5,38.0,39014.0,Unai Bustinza,3-1-4-2,4-4-2,Javier Estrada,Match Report,,2019-2020,Leganes
+2019-09-25,19:00,La Liga,Matchweek 6,Wed,Home,D,1,1,Athletic Club,0.5,1.2,40.0,11036.0,Unai Bustinza,3-1-4-2,4-2-3-1,José González,Match Report,,2019-2020,Leganes
+2019-09-28,18:30,La Liga,Matchweek 7,Sat,Away,L,0,1,Granada,1.2,0.7,49.0,15519.0,Rubén Pérez,3-1-4-2,4-2-3-1,Adrián Cordero,Match Report,,2019-2020,Leganes
+2019-10-05,13:00,La Liga,Matchweek 8,Sat,Home,L,1,2,Levante,2.8,1.2,59.0,10160.0,Unai Bustinza,3-5-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Leganes
+2019-10-19,18:30,La Liga,Matchweek 9,Sat,Away,L,0,2,Getafe,0.6,1.0,54.0,13.0,Unai Bustinza,3-1-4-2,4-4-2,Juan Martínez,Match Report,,2019-2020,Leganes
+2019-10-26,16:00,La Liga,Matchweek 10,Sat,Home,W,1,0,Mallorca,1.7,0.8,43.0,10058.0,Unai Bustinza,4-3-3,4-3-3,Eduardo Prieto,Match Report,,2019-2020,Leganes
+2019-10-30,21:15,La Liga,Matchweek 11,Wed,Away,L,0,5,Real Madrid,0.3,4.8,39.0,53870.0,Unai Bustinza,4-2-3-1,4-3-3,César Soto,Match Report,,2019-2020,Leganes
+2019-11-03,18:30,La Liga,Matchweek 12,Sun,Home,L,1,2,Eibar,1.4,0.9,54.0,9649.0,Unai Bustinza,4-3-3,4-4-2,Pablo González,Match Report,,2019-2020,Leganes
+2019-11-08,21:00,La Liga,Matchweek 13,Fri,Away,D,1,1,Real Sociedad,1.0,1.1,35.0,27684.0,Unai Bustinza,5-4-1,4-3-3,Juan Martínez,Match Report,,2019-2020,Leganes
+2019-11-23,13:00,La Liga,Matchweek 14,Sat,Home,L,1,2,Barcelona,0.4,1.7,24.0,12110.0,Unai Bustinza,5-4-1,4-2-3-1,Santiago Jaime,Match Report,,2019-2020,Leganes
+2019-12-01,12:00,La Liga,Matchweek 15,Sun,Away,L,0,1,Sevilla,0.7,2.1,38.0,33648.0,Unai Bustinza,5-3-2,4-3-3,Ricardo de Burgos,Match Report,,2019-2020,Leganes
+2019-12-08,18:30,La Liga,Matchweek 16,Sun,Home,W,3,2,Celta Vigo,1.0,0.5,34.0,7115.0,Unai Bustinza,3-4-3,4-3-3,José Sánchez,Match Report,,2019-2020,Leganes
+2019-12-13,21:00,La Liga,Matchweek 17,Fri,Away,D,1,1,Alavés,0.7,1.2,32.0,15567.0,Unai Bustinza,5-4-1,4-4-2,César Soto,Match Report,,2019-2020,Leganes
+2019-12-17,21:00,Copa del Rey,First round,Tue,Away,D,1 (6),1 (5),FC Andorra,,,,,,,,,Match Report,Leganés won on penalty kicks following extra time,2019-2020,Leganes
+2019-12-22,12:00,La Liga,Matchweek 18,Sun,Home,W,2,0,Espanyol,1.0,0.7,41.0,10183.0,Rubén Pérez,5-3-2,3-1-4-2,Alberola Rojas,Match Report,,2019-2020,Leganes
+2020-01-03,19:00,La Liga,Matchweek 19,Fri,Away,D,2,2,Valladolid,2.3,1.8,37.0,21492.0,Rubén Pérez,5-3-2,4-4-2,Juan Martínez,Match Report,,2019-2020,Leganes
+2020-01-11,16:00,Copa del Rey,Second round,Sat,Away,W,4,0,Real Murcia,,,,,,,,,Match Report,,2019-2020,Leganes
+2020-01-17,21:00,La Liga,Matchweek 20,Fri,Home,L,0,3,Getafe,0.4,1.3,60.0,11450.0,Unai Bustinza,5-3-2,4-4-2,Javier Estrada,Match Report,,2019-2020,Leganes
+2020-01-23,19:00,Copa del Rey,Round of 32,Thu,Away,W,1,0,Ebro,,,59.0,1800.0,Unai Bustinza,4-2-3-1,4-1-4-1,José González,Match Report,,2019-2020,Leganes
+2020-01-26,12:00,La Liga,Matchweek 21,Sun,Away,D,0,0,Atlético Madrid,0.4,1.0,45.0,52767.0,Unai Bustinza,5-4-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2019-2020,Leganes
+2020-01-30,19:00,Copa del Rey,Round of 16,Thu,Away,L,0,5,Barcelona,,,26.0,43216.0,Rubén Pérez,3-4-3,4-3-3,Guillermo Cuadra,Match Report,,2019-2020,Leganes
+2020-02-02,12:00,La Liga,Matchweek 22,Sun,Home,W,2,1,Real Sociedad,1.2,0.2,45.0,10842.0,Unai Bustinza,5-4-1,4-1-4-1,Mario Melero,Match Report,,2019-2020,Leganes
+2020-02-08,13:00,La Liga,Matchweek 23,Sat,Away,L,0,2,Levante,1.2,1.0,52.0,17110.0,Unai Bustinza,3-4-3,4-4-2,José González,Match Report,,2019-2020,Leganes
+2020-02-16,14:00,La Liga,Matchweek 24,Sun,Home,D,0,0,Betis,0.6,0.6,36.0,11160.0,Unai Bustinza,5-4-1,4-2-3-1,Javier Estrada,Match Report,,2019-2020,Leganes
+2020-02-22,13:00,La Liga,Matchweek 25,Sat,Away,L,0,1,Celta Vigo,0.4,0.2,57.0,19335.0,Unai Bustinza,3-4-3,4-4-2,José Luis Munuera,Match Report,,2019-2020,Leganes
+2020-02-29,18:30,La Liga,Matchweek 26,Sat,Home,D,1,1,Alavés,1.1,0.9,55.0,10043.0,Unai Bustinza,3-4-1-2,4-4-2,Juan Martínez,Match Report,,2019-2020,Leganes
+2020-03-08,18:30,La Liga,Matchweek 27,Sun,Away,W,2,1,Villarreal,1.9,2.1,36.0,16143.0,Dimitris Siovas,4-4-2,4-3-3,César Soto,Match Report,,2019-2020,Leganes
+2020-06-13,19:30,La Liga,Matchweek 28,Sat,Home,L,1,2,Valladolid,1.4,1.0,67.0,,Unai Bustinza,4-4-2,4-4-2,Mario Melero,Match Report,,2019-2020,Leganes
+2020-06-16,22:00,La Liga,Matchweek 29,Tue,Away,L,0,2,Barcelona,0.8,1.6,25.0,,Unai Bustinza,5-3-2,4-3-3,Juan Martínez,Match Report,,2019-2020,Leganes
+2020-06-19,19:30,La Liga,Matchweek 30,Fri,Away,D,1,1,Mallorca,1.3,0.4,61.0,,Unai Bustinza,3-4-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Leganes
+2020-06-22,22:00,La Liga,Matchweek 31,Mon,Home,D,0,0,Granada,1.2,0.1,60.0,,Unai Bustinza,5-3-2,4-2-3-1,Ricardo de Burgos,Match Report,,2019-2020,Leganes
+2020-06-27,19:30,La Liga,Matchweek 32,Sat,Away,L,1,2,Osasuna,1.6,1.0,49.0,,Rubén Pérez,3-5-2,4-4-2,Alberola Rojas,Match Report,,2019-2020,Leganes
+2020-06-30,21:00,La Liga,Matchweek 33,Tue,Home,L,0,3,Sevilla,0.8,0.6,42.0,,Unai Bustinza,4-3-3,4-3-3,César Soto,Match Report,,2019-2020,Leganes
+2020-07-05,17:00,La Liga,Matchweek 34,Sun,Away,W,1,0,Espanyol,0.4,0.8,37.0,,Unai Bustinza,5-4-1,4-4-2,Guillermo Cuadra,Match Report,,2019-2020,Leganes
+2020-07-09,19:30,La Liga,Matchweek 35,Thu,Away,D,0,0,Eibar,0.4,0.2,42.0,,Unai Bustinza,5-4-1,4-4-2,Eduardo Prieto,Match Report,,2019-2020,Leganes
+2020-07-12,19:30,La Liga,Matchweek 36,Sun,Home,W,1,0,Valencia,1.2,1.5,32.0,,Rubén Pérez,5-4-1,4-4-2,Mario Melero,Match Report,,2019-2020,Leganes
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Away,W,2,0,Athletic Club,2.0,0.7,39.0,,Unai Bustinza,5-4-1,4-2-3-1,Juan Martínez,Match Report,,2019-2020,Leganes
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Home,D,2,2,Real Madrid,1.4,0.8,36.0,,Unai Bustinza,5-4-1,4-3-3,Guillermo Cuadra,Match Report,,2019-2020,Leganes

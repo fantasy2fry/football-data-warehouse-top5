@@ -1,0 +1,59 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-12,21:00,La Liga,Matchweek 1,Fri,Away,L,1,2,Osasuna,0.9,1.5,65,18536.0,Jesús Navas,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2022-2023,Sevilla
+2022-08-19,22:00,La Liga,Matchweek 2,Fri,Home,D,1,1,Valladolid,2.0,0.5,61,33991.0,Fernando,4-3-3,4-3-3,Juan Pulido,Match Report,,2022-2023,Sevilla
+2022-08-27,22:00,La Liga,Matchweek 3,Sat,Away,L,1,2,Almería,1.0,2.3,67,13788.0,Jesús Navas,4-2-2-2,3-4-1-2,Jesús Gil,Match Report,,2022-2023,Sevilla
+2022-09-03,21:00,La Liga,Matchweek 4,Sat,Home,L,0,3,Barcelona,1.0,4.0,46,40233.0,Ivan Rakitić,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2022-2023,Sevilla
+2022-09-06,21:00,Champions Lg,Group stage,Tue,Home,L,0,4,eng Manchester City,0.3,3.6,39,38764.0,Jesús Navas,4-2-3-1,4-3-3,Davide Massa,Match Report,,2022-2023,Sevilla
+2022-09-10,16:15,La Liga,Matchweek 5,Sat,Away,W,3,2,Espanyol,2.0,2.5,42,20135.0,Fernando,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Sevilla
+2022-09-14,21:00,Champions Lg,Group stage,Wed,Away,D,0,0,dk FC Copenhagen,0.8,0.7,63,34910.0,Ivan Rakitić,4-3-3,4-5-1,Irfan Peljto,Match Report,,2022-2023,Sevilla
+2022-09-18,16:15,La Liga,Matchweek 6,Sun,Away,D,1,1,Villarreal,0.6,1.5,54,18292.0,Jesús Navas,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Sevilla
+2022-10-01,18:30,La Liga,Matchweek 7,Sat,Home,L,0,2,Atlético Madrid,0.5,2.2,60,37754.0,Nemanja Gudelj,4-2-3-1,4-1-4-1,Ricardo de Burgos,Match Report,,2022-2023,Sevilla
+2022-10-05,21:00,Champions Lg,Group stage,Wed,Home,L,1,4,de Dortmund,2.0,2.5,58,34598.0,Jesús Navas,3-4-3,4-2-3-1,Maurizio Mariani,Match Report,,2022-2023,Sevilla
+2022-10-08,18:30,La Liga,Matchweek 8,Sat,Home,D,1,1,Athletic Club,1.0,1.7,45,36502.0,Joan Jordán,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Sevilla
+2022-10-11,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,de Dortmund,0.8,0.4,48,81000.0,Jesús Navas,3-4-3,4-2-3-1,Srđan Jovanović,Match Report,,2022-2023,Sevilla
+2022-10-15,18:30,La Liga,Matchweek 9,Sat,Away,W,1,0,Mallorca,0.2,0.7,56,15300.0,Jesús Navas,3-4-3,5-4-1,Javier Villanueva,Match Report,,2022-2023,Sevilla
+2022-10-18,19:00,La Liga,Matchweek 10,Tue,Home,D,1,1,Valencia,1.1,1.8,64,37353.0,Nemanja Gudelj,5-4-1,5-4-1,César Soto,Match Report,,2022-2023,Sevilla
+2022-10-22,21:00,La Liga,Matchweek 11,Sat,Away,L,1,3,Real Madrid,0.5,3.0,44,59625.0,Jesús Navas,4-3-3,4-3-3,Alejandro Hernández,Match Report,,2022-2023,Sevilla
+2022-10-25,18:45,Champions Lg,Group stage,Tue,Home,W,3,0,dk FC Copenhagen,1.0,1.1,57,29884.0,Ivan Rakitić,4-3-3,4-3-3,Benoît Bastien,Match Report,,2022-2023,Sevilla
+2022-10-29,18:30,La Liga,Matchweek 12,Sat,Home,L,0,1,Rayo Vallecano,1.2,0.7,62,36601.0,Ivan Rakitić,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2022-2023,Sevilla
+2022-11-02,20:00,Champions Lg,Group stage,Wed,Away,L,1,3,eng Manchester City,0.4,2.0,39,51610.0,Ivan Rakitić,5-4-1,4-3-3,Orel Grinfeeld,Match Report,,2022-2023,Sevilla
+2022-11-06,21:00,La Liga,Matchweek 13,Sun,Away,D,1,1,Betis,1.5,1.0,63,54034.0,Ivan Rakitić,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,2022-2023,Sevilla
+2022-11-09,19:00,La Liga,Matchweek 14,Wed,Home,L,1,2,Real Sociedad,0.6,1.7,32,34814.0,Jesús Navas,4-2-3-1,4-3-1-2,Carlos del Cerro,Match Report,,2022-2023,Sevilla
+2022-11-13,16:00,Copa del Rey,First round,Sun,Away,W,2,0,Velarde CF,,,87,3000.0,Ivan Rakitić,4-3-3,4-4-2,Alejandro Muñíz,Match Report,,2022-2023,Sevilla
+2022-12-21,21:00,Copa del Rey,Second round,Wed,Away,W,3,0,Juventud Torremolinos CF,,,60,2500.0,Jesús Navas,4-3-3,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Sevilla
+2022-12-30,19:15,La Liga,Matchweek 15,Fri,Away,D,1,1,Celta Vigo,0.7,2.0,56,13653.0,Jesús Navas,3-4-3,5-3-2,Ricardo de Burgos,Match Report,,2022-2023,Sevilla
+2023-01-04,19:00,Copa del Rey,Round of 32,Wed,Away,W,5,0,Linares Dep,,,63,9500.0,Ivan Rakitić,4-3-3,4-2-3-1,Antonio Matéu,Match Report,,2022-2023,Sevilla
+2023-01-08,18:30,La Liga,Matchweek 16,Sun,Home,W,2,1,Getafe,1.2,0.7,58,35389.0,Jesús Navas,3-1-4-2,5-3-2,Juan Martínez,Match Report,,2022-2023,Sevilla
+2023-01-14,16:15,La Liga,Matchweek 17,Sat,Away,L,1,2,Girona,1.1,2.2,54,12035.0,Jesús Navas,5-3-2,4-4-2,Valentín Pizarro,Match Report,,2022-2023,Sevilla
+2023-01-17,21:00,Copa del Rey,Round of 16,Tue,Away,W,1,0,Alavés,,,53,12217.0,Ivan Rakitić,3-4-3,4-4-2,César Soto,Match Report,,2022-2023,Sevilla
+2023-01-21,21:00,La Liga,Matchweek 18,Sat,Home,W,1,0,Cádiz,1.7,0.1,75,37400.0,Jesús Navas,3-4-3,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Sevilla
+2023-01-25,22:00,Copa del Rey,Quarter-finals,Wed,Away,L,1,2,Osasuna,,,67,19724.0,Ivan Rakitić,4-1-4-1,4-3-3,Ricardo de Burgos,Match Report,Required Extra Time,2022-2023,Sevilla
+2023-01-28,18:30,La Liga,Matchweek 19,Sat,Home,W,3,0,Elche,3.2,0.4,80,35567.0,Jesús Navas,4-3-3,3-4-3,César Soto,Match Report,,2022-2023,Sevilla
+2023-02-05,21:00,La Liga,Matchweek 20,Sun,Away,L,0,3,Barcelona,0.1,2.7,35,77987.0,Ivan Rakitić,5-4-1,4-3-3,José Sánchez,Match Report,,2022-2023,Sevilla
+2023-02-11,18:30,La Liga,Matchweek 21,Sat,Home,W,2,0,Mallorca,2.1,0.3,64,35150.0,Jesús Navas,3-4-3,5-4-1,Javier Villanueva,Match Report,,2022-2023,Sevilla
+2023-02-16,21:00,Europa Lg,Knockout round play-offs,Thu,Home,W,3,0,nl PSV Eindhoven,0.8,0.9,55,29593.0,Jesús Navas,3-4-3,4-3-3,Radu Petrescu,Match Report,Leg 1 of 2,2022-2023,Sevilla
+2023-02-19,16:15,La Liga,Matchweek 22,Sun,Away,D,1,1,Rayo Vallecano,0.5,1.3,42,13294.0,Fernando,5-4-1,4-1-4-1,Jesús Gil,Match Report,,2022-2023,Sevilla
+2023-02-23,18:45,Europa Lg,Knockout round play-offs,Thu,Away,L,0,2,nl PSV Eindhoven,0.7,1.7,49,34000.0,Jesús Navas,3-4-3,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Sevilla won,2022-2023,Sevilla
+2023-02-26,21:00,La Liga,Matchweek 23,Sun,Home,L,2,3,Osasuna,1.7,0.9,67,34538.0,Jesús Navas,3-4-3,4-3-3,Juan Pulido,Match Report,,2022-2023,Sevilla
+2023-03-04,21:00,La Liga,Matchweek 24,Sat,Away,L,1,6,Atlético Madrid,1.5,3.2,53,57737.0,Ivan Rakitić,4-3-3,5-3-2,Guillermo Cuadra,Match Report,,2022-2023,Sevilla
+2023-03-09,21:00,Europa Lg,Round of 16,Thu,Home,W,2,0,tr Fenerbahçe,0.7,1.1,53,24480.0,Jesús Navas,3-4-3,5-3-2,François Letexier,Match Report,Leg 1 of 2,2022-2023,Sevilla
+2023-03-12,16:15,La Liga,Matchweek 25,Sun,Home,W,2,1,Almería,3.0,1.1,56,37848.0,Jesús Navas,3-4-3,4-2-3-1,Ricardo de Burgos,Match Report,,2022-2023,Sevilla
+2023-03-16,20:45,Europa Lg,Round of 16,Thu,Away,L,0,1,tr Fenerbahçe,0.1,1.7,36,44775.0,Ivan Rakitić,5-4-1,3-4-3,Michael Oliver,Match Report,Leg 2 of 2; Sevilla won,2022-2023,Sevilla
+2023-03-19,18:30,La Liga,Matchweek 26,Sun,Away,L,0,2,Getafe,1.0,1.7,63,12253.0,Jesús Navas,5-4-1,3-4-3,Antonio Matéu,Match Report,,2022-2023,Sevilla
+2023-04-01,18:30,La Liga,Matchweek 27,Sat,Away,W,2,0,Cádiz,1.1,1.1,49,19181.0,Jesús Navas,4-2-3-1,4-4-2,César Soto,Match Report,,2022-2023,Sevilla
+2023-04-07,21:00,La Liga,Matchweek 28,Fri,Home,D,2,2,Celta Vigo,0.4,0.6,31,30778.0,Jesús Navas,4-2-3-1,4-4-2,Valentín Pizarro,Match Report,,2022-2023,Sevilla
+2023-04-13,20:00,Europa Lg,Quarter-finals,Thu,Away,D,2,2,eng Manchester Utd,0.6,1.7,45,72825.0,Ivan Rakitić,4-2-3-1,4-2-3-1,Felix Zwayer,Match Report,Leg 1 of 2,2022-2023,Sevilla
+2023-04-16,21:00,La Liga,Matchweek 29,Sun,Away,W,2,0,Valencia,0.4,0.4,40,39654.0,Jesús Navas,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2022-2023,Sevilla
+2023-04-20,21:00,Europa Lg,Quarter-finals,Thu,Home,W,3,0,eng Manchester Utd,2.0,1.0,39,41974.0,Jesús Navas,4-2-3-1,4-2-3-1,Artur Dias,Match Report,Leg 2 of 2; Sevilla won,2022-2023,Sevilla
+2023-04-23,21:00,La Liga,Matchweek 30,Sun,Home,W,2,1,Villarreal,0.9,2.2,38,29635.0,Ivan Rakitić,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,2022-2023,Sevilla
+2023-04-27,22:00,La Liga,Matchweek 31,Thu,Away,W,1,0,Athletic Club,1.0,0.3,46,42716.0,Jesús Navas,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Sevilla
+2023-05-01,21:00,La Liga,Matchweek 32,Mon,Home,L,0,2,Girona,2.2,0.8,63,35560.0,Fernando,4-2-3-1,5-4-1,Alejandro Muñíz,Match Report,,2022-2023,Sevilla
+2023-05-04,19:30,La Liga,Matchweek 33,Thu,Home,W,3,2,Espanyol,2.6,1.0,63,35391.0,Jesús Navas,4-2-3-1,5-4-1,Alberola Rojas,Match Report,,2022-2023,Sevilla
+2023-05-11,21:00,Europa Lg,Semi-finals,Thu,Away,D,1,1,it Juventus,1.6,2.0,42,34816.0,Jesús Navas,4-2-3-1,3-5-1-1,Daniel Siebert,Match Report,Leg 1 of 2,2022-2023,Sevilla
+2023-05-14,18:30,La Liga,Matchweek 34,Sun,Away,W,3,0,Valladolid,2.5,2.0,45,21580.0,Ivan Rakitić,4-2-3-1,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Sevilla
+2023-05-18,21:00,Europa Lg,Semi-finals,Thu,Home,W,2,1,it Juventus,1.4,1.8,59,42186.0,Jesús Navas,4-2-3-1,3-5-1-1,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won; Required Extra Time,2022-2023,Sevilla
+2023-05-21,21:00,La Liga,Matchweek 35,Sun,Home,D,0,0,Betis,1.1,0.1,54,41392.0,Ivan Rakitić,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Sevilla
+2023-05-24,19:30,La Liga,Matchweek 36,Wed,Away,D,1,1,Elche,0.7,1.5,29,13263.0,Jesús Navas,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,2022-2023,Sevilla
+2023-05-27,19:00,La Liga,Matchweek 37,Sat,Home,L,1,2,Real Madrid,1.2,0.8,33,29856.0,Ivan Rakitić,4-2-3-1,4-3-3,César Soto,Match Report,,2022-2023,Sevilla
+2023-05-31,21:00,Europa Lg,Final,Wed,Neutral,D,1 (4),1 (1),it Roma,0.8,1.9,66,,Jesús Navas,4-2-3-1,3-4-3,Anthony Taylor,Match Report,Sevilla won on penalty kicks following extra time,2022-2023,Sevilla
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Away,L,1,2,Real Sociedad,0.4,1.8,45,35065.0,Nemanja Gudelj,4-2-3-1,4-1-4-1,Carlos del Cerro,Match Report,,2022-2023,Sevilla

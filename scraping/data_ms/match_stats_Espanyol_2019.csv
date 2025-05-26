@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-07-25,21:00,Europa Lg,Second qualifying round,Thu,Home,W,4,0,is Stjarnan,,,,19122.0,Javi López,4-4-2,5-4-1,Alain Durieux,Match Report,Leg 1 of 2,2019-2020,Espanyol
+2019-08-01,19:15,Europa Lg,Second qualifying round,Thu,Away,W,3,1,is Stjarnan,,,,1020.0,Javi López,4-4-2,4-3-3,Dumitru Muntean,Match Report,Leg 2 of 2; Espanyol won,2019-2020,Espanyol
+2019-08-08,21:00,Europa Lg,Third qualifying round,Thu,Away,W,3,0,ch Luzern,,,,9191.0,Javi López,4-4-2,4-3-3,Fran Jović,Match Report,Leg 1 of 2,2019-2020,Espanyol
+2019-08-15,21:00,Europa Lg,Third qualifying round,Thu,Home,W,3,0,ch Luzern,,,,13214.0,Esteban Granero,4-4-2,4-3-3,Jorge de Sousa,Match Report,Leg 2 of 2; Espanyol won,2019-2020,Espanyol
+2019-08-18,19:00,La Liga,Matchweek 1,Sun,Home,L,0,2,Sevilla,0.2,1.6,45.0,19832.0,Javi López,4-4-2,4-3-3,Juan Martínez,Match Report,,2019-2020,Espanyol
+2019-08-22,21:00,Europa Lg,Play-off round,Thu,Home,W,3,1,ua Zorya Luhansk,,,64.0,13686.0,Javi López,4-3-3,4-4-2,Tobias Stieler,Match Report,Leg 1 of 2,2019-2020,Espanyol
+2019-08-25,17:00,La Liga,Matchweek 2,Sun,Away,D,0,0,Alavés,0.2,0.8,63.0,14567.0,Víctor Sánchez,4-3-3,4-1-4-1,Eduardo Prieto,Match Report,,2019-2020,Espanyol
+2019-08-29,20:00,Europa Lg,Play-off round,Thu,Away,D,2,2,ua Zorya Luhansk,,,51.0,10181.0,Javi López,4-1-4-1,4-3-1-2,Radu Petrescu,Match Report,Leg 2 of 2; Espanyol won,2019-2020,Espanyol
+2019-09-01,19:00,La Liga,Matchweek 3,Sun,Home,L,0,3,Granada,1.4,1.4,67.0,20870.0,Víctor Sánchez,4-2-3-1,4-2-3-1,César Soto,Match Report,,2019-2020,Espanyol
+2019-09-15,12:00,La Liga,Matchweek 4,Sun,Away,W,2,1,Eibar,1.8,0.7,42.0,5410.0,Javi López,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2019-2020,Espanyol
+2019-09-19,21:00,Europa Lg,Group stage,Thu,Home,D,1,1,hu Ferencváros,1.7,0.2,67.0,18125.0,Javi López,4-4-2,4-3-3,Nikola Dabanović,Match Report,,2019-2020,Espanyol
+2019-09-22,14:00,La Liga,Matchweek 5,Sun,Home,L,1,3,Real Sociedad,0.9,1.3,56.0,19173.0,Víctor Sánchez,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2019-2020,Espanyol
+2019-09-26,20:00,La Liga,Matchweek 6,Thu,Away,D,1,1,Celta Vigo,1.2,1.1,36.0,16361.0,Javi López,4-4-2,4-4-2,José Sánchez,Match Report,,2019-2020,Espanyol
+2019-09-29,12:00,La Liga,Matchweek 7,Sun,Home,L,0,2,Valladolid,1.3,1.8,59.0,20911.0,Javi López,4-4-1-1,4-4-2,Guillermo Cuadra,Match Report,,2019-2020,Espanyol
+2019-10-03,19:55,Europa Lg,Group stage,Thu,Away,W,2,0,ru CSKA Moscow,1.9,0.7,49.0,22288.0,Víctor Sánchez,4-3-3,3-1-4-2,Ali Palabıyık,Match Report,,2019-2020,Espanyol
+2019-10-06,12:00,La Liga,Matchweek 8,Sun,Away,L,0,2,Mallorca,1.2,0.8,61.0,15052.0,Víctor Sánchez,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,2019-2020,Espanyol
+2019-10-20,16:00,La Liga,Matchweek 9,Sun,Home,L,0,1,Villarreal,1.0,1.6,51.0,20653.0,Víctor Sánchez,3-4-3,4-3-3,Carlos del Cerro,Match Report,,2019-2020,Espanyol
+2019-10-24,19:55,Europa Lg,Group stage,Thu,Away,W,1,0,bg Ludogorets,0.7,0.4,40.0,10334.0,Javi López,3-4-3,4-2-3-1,Əliyar Ağayev,Match Report,,2019-2020,Espanyol
+2019-10-27,16:00,La Liga,Matchweek 10,Sun,Away,W,1,0,Levante,1.0,0.3,48.0,18934.0,Víctor Sánchez,3-4-3,4-3-3,Pablo González,Match Report,,2019-2020,Espanyol
+2019-10-30,20:00,La Liga,Matchweek 11,Wed,Away,L,0,3,Athletic Club,0.9,0.3,54.0,37094.0,Víctor Sánchez,3-5-2,4-2-3-1,Juan Martínez,Match Report,,2019-2020,Espanyol
+2019-11-02,13:00,La Liga,Matchweek 12,Sat,Home,L,1,2,Valencia,1.3,1.9,46.0,18428.0,Víctor Sánchez,5-3-2,4-4-2,Valentín Pizarro,Match Report,,2019-2020,Espanyol
+2019-11-07,21:00,Europa Lg,Group stage,Thu,Home,W,6,0,bg Ludogorets,4.0,0.0,73.0,13963.0,Esteban Granero,3-4-3,4-3-3,François Letexier,Match Report,,2019-2020,Espanyol
+2019-11-10,16:00,La Liga,Matchweek 13,Sun,Away,L,1,3,Atlético Madrid,0.4,2.7,50.0,53069.0,Javi López,3-4-3,4-4-2,Jesús Gil,Match Report,,2019-2020,Espanyol
+2019-11-24,12:00,La Liga,Matchweek 14,Sun,Home,D,1,1,Getafe,1.1,0.7,54.0,22031.0,Víctor Sánchez,3-4-1-2,4-4-2,Pablo González,Match Report,,2019-2020,Espanyol
+2019-11-28,18:55,Europa Lg,Group stage,Thu,Away,D,2,2,hu Ferencváros,1.9,2.9,53.0,19111.0,Esteban Granero,3-5-2,4-2-3-1,Tiago Martins,Match Report,,2019-2020,Espanyol
+2019-12-01,16:00,La Liga,Matchweek 15,Sun,Home,L,2,4,Osasuna,1.6,2.7,53.0,21238.0,Víctor Sánchez,3-1-4-2,4-4-2,Mario Melero,Match Report,,2019-2020,Espanyol
+2019-12-07,13:00,La Liga,Matchweek 16,Sat,Away,L,0,2,Real Madrid,0.5,2.4,40.0,64125.0,David López,3-1-4-2,4-3-3,Santiago Jaime,Match Report,,2019-2020,Espanyol
+2019-12-12,21:00,Europa Lg,Group stage,Thu,Home,L,0,1,ru CSKA Moscow,1.3,1.3,49.0,10615.0,Javi López,3-5-2,3-1-4-2,Kevin Blom,Match Report,,2019-2020,Espanyol
+2019-12-15,16:00,La Liga,Matchweek 17,Sun,Home,D,2,2,Betis,1.4,0.9,39.0,22248.0,David López,3-4-1-2,4-1-4-1,Guillermo Cuadra,Match Report,,2019-2020,Espanyol
+2019-12-19,19:00,Copa del Rey,First round,Thu,Away,W,2,0,Lleida,,,,,,,,,Match Report,,2019-2020,Espanyol
+2019-12-22,12:00,La Liga,Matchweek 18,Sun,Away,L,0,2,Leganés,0.7,1.0,59.0,10183.0,David López,3-1-4-2,5-3-2,Alberola Rojas,Match Report,,2019-2020,Espanyol
+2020-01-04,21:00,La Liga,Matchweek 19,Sat,Home,D,2,2,Barcelona,0.7,2.2,31.0,33562.0,Javi López,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2019-2020,Espanyol
+2020-01-12,12:00,Copa del Rey,Second round,Sun,Away,W,2,0,UD Sanse,,,,,,,,,Match Report,,2019-2020,Espanyol
+2020-01-19,16:00,La Liga,Matchweek 20,Sun,Away,W,2,1,Villarreal,1.7,2.4,32.0,12053.0,Javi López,4-4-2,4-5-1,Pablo González,Match Report,,2019-2020,Espanyol
+2020-01-22,21:00,Copa del Rey,Round of 32,Wed,Away,L,0,2,Real Sociedad,,,38.0,21647.0,Javi López,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2019-2020,Espanyol
+2020-01-25,13:00,La Liga,Matchweek 21,Sat,Home,D,1,1,Athletic Club,0.6,0.8,50.0,27542.0,Víctor Sánchez,4-4-2,5-3-2,José Sánchez,Match Report,,2019-2020,Espanyol
+2020-02-01,13:00,La Liga,Matchweek 22,Sat,Away,L,1,2,Granada,3.0,1.0,55.0,15226.0,Javi López,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,2019-2020,Espanyol
+2020-02-09,12:00,La Liga,Matchweek 23,Sun,Home,W,1,0,Mallorca,1.6,0.6,38.0,32084.0,Javi López,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Espanyol
+2020-02-16,12:00,La Liga,Matchweek 24,Sun,Away,D,2,2,Sevilla,0.5,1.8,34.0,35661.0,Javi López,4-2-3-1,4-3-3,Adrián Cordero,Match Report,,2019-2020,Espanyol
+2020-02-20,20:00,Europa Lg,Round of 32,Thu,Away,L,0,4,eng Wolves,1.0,1.8,56.0,30435.0,Víctor Sánchez,4-4-2,3-4-3,Tobias Stieler,Match Report,Leg 1 of 2,2019-2020,Espanyol
+2020-02-23,16:00,La Liga,Matchweek 25,Sun,Away,L,1,2,Valladolid,1.2,1.1,36.0,19645.0,Javi López,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,2019-2020,Espanyol
+2020-02-27,18:55,Europa Lg,Round of 32,Thu,Home,W,3,2,eng Wolves,1.9,1.8,62.0,14525.0,Víctor Sánchez,4-2-3-1,3-5-2,Marco Guida,Match Report,Leg 2 of 2; Wolves won,2019-2020,Espanyol
+2020-03-01,16:00,La Liga,Matchweek 26,Sun,Home,D,1,1,Atlético Madrid,1.2,0.9,38.0,30360.0,Javi López,4-1-4-1,4-4-2,Alberola Rojas,Match Report,,2019-2020,Espanyol
+2020-03-08,12:00,La Liga,Matchweek 27,Sun,Away,L,0,1,Osasuna,0.3,2.4,49.0,15737.0,Javi López,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Espanyol
+2020-06-13,14:00,La Liga,Matchweek 28,Sat,Home,W,2,0,Alavés,2.5,0.1,68.0,,Javi López,4-4-2,4-4-2,Pablo González,Match Report,,2019-2020,Espanyol
+2020-06-16,19:30,La Liga,Matchweek 29,Tue,Away,D,0,0,Getafe,0.3,2.1,31.0,,David López,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Espanyol
+2020-06-20,14:00,La Liga,Matchweek 30,Sat,Home,L,1,3,Levante,0.6,1.9,47.0,,Javi López,4-4-2,4-4-2,Carlos del Cerro,Match Report,,2019-2020,Espanyol
+2020-06-25,22:00,La Liga,Matchweek 31,Thu,Away,L,0,1,Betis,1.1,0.9,36.0,,David López,4-4-2,3-4-3,Juan Martínez,Match Report,,2019-2020,Espanyol
+2020-06-28,22:00,La Liga,Matchweek 32,Sun,Home,L,0,1,Real Madrid,0.8,2.1,32.0,,David López,4-4-1-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2019-2020,Espanyol
+2020-07-02,19:30,La Liga,Matchweek 33,Thu,Away,L,1,2,Real Sociedad,0.2,1.5,37.0,,David López,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,2019-2020,Espanyol
+2020-07-05,17:00,La Liga,Matchweek 34,Sun,Home,L,0,1,Leganés,0.8,0.4,63.0,,Javi López,4-4-2,5-4-1,Guillermo Cuadra,Match Report,,2019-2020,Espanyol
+2020-07-08,22:00,La Liga,Matchweek 35,Wed,Away,L,0,1,Barcelona,0.9,1.0,26.0,,David López,5-3-2,4-3-1-2,José Luis Munuera,Match Report,,2019-2020,Espanyol
+2020-07-12,14:00,La Liga,Matchweek 36,Sun,Home,L,0,2,Eibar,0.7,2.0,72.0,,David López,4-4-2,4-1-4-1,Carlos del Cerro,Match Report,,2019-2020,Espanyol
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Away,L,0,1,Valencia,1.3,1.4,52.0,,David López,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,2019-2020,Espanyol
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Home,D,0,0,Celta Vigo,0.4,0.6,50.0,,David López,4-2-3-1,4-1-4-1,Adrián Cordero,Match Report,,2019-2020,Espanyol

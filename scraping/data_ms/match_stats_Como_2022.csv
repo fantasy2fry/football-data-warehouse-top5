@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-06,18:00,Coppa Italia,First round,Sat,Away,L,1,5,Spezia,,,44,5826,Alessandro Bellemo,3-5-2,3-5-2,Francesco Meraviglia,Match Report,,2022-2023,Como
+2022-08-13,20:45,Serie B,Matchweek 1,Sat,Home,D,1,1,Cagliari,1.4,0.5,44,4580,Alessandro Bellemo,4-4-2,4-3-3,Gianluca Manganiello,Match Report,,2022-2023,Como
+2022-08-21,20:45,Serie B,Matchweek 2,Sun,Away,D,2,2,Pisa,0.9,2.5,41,7342,Alessandro Bellemo,4-4-2,4-3-2-1,Daniele Doveri,Match Report,,2022-2023,Como
+2022-08-29,20:45,Serie B,Matchweek 3,Mon,Home,L,0,1,Brescia,1.4,1.5,42,4754,Filippo Scaglia,4-4-2,4-1-3-2,Gianpiero Miele,Match Report,,2022-2023,Como
+2022-09-03,14:00,Serie B,Matchweek 4,Sat,Away,L,0,2,Frosinone,0.5,1.3,51,6879,Filippo Scaglia,4-4-2,4-2-3-1,Davide Massa,Match Report,,2022-2023,Como
+2022-09-10,14:00,Serie B,Matchweek 5,Sat,Home,L,0,2,Südtirol,0.9,2.7,66,3568,Filippo Scaglia,4-4-2,3-5-2,Ermanno Feliciani,Match Report,,2022-2023,Como
+2022-09-17,14:00,Serie B,Matchweek 6,Sat,Home,D,3,3,SPAL,0.8,0.8,38,4008,Cesc Fàbregas,4-2-2-2,4-3-1-2,Daniele Rutella,Match Report,,2022-2023,Como
+2022-09-30,20:30,Serie B,Matchweek 7,Fri,Away,L,1,3,Cosenza,1.3,0.3,63,6076,Cesc Fàbregas,4-1-3-2,4-2-3-1,Ivan Pezzuto,Match Report,,2022-2023,Como
+2022-10-09,16:15,Serie B,Matchweek 8,Sun,Home,W,1,0,Perugia,0.7,0.6,46,2471,Cesc Fàbregas,4-1-3-2,4-2-3-1,Matteo Gariglio,Match Report,,2022-2023,Como
+2022-10-15,14:00,Serie B,Matchweek 9,Sat,Away,L,1,5,Modena,0.7,1.6,50,9625,Cesc Fàbregas,4-3-1-2,4-3-1-2,Federico La Penna,Match Report,,2022-2023,Como
+2022-10-22,14:00,Serie B,Matchweek 10,Sat,Home,W,2,1,Benevento,0.6,0.9,36,3633,Alessandro Bellemo,4-3-1-2,3-4-3,Davide Ghersini,Match Report,,2022-2023,Como
+2022-10-29,14:00,Serie B,Matchweek 11,Sat,Away,L,0,1,Parma,1.2,0.4,60,8957,Alessandro Bellemo,4-3-1-2,4-2-3-1,Alessandro Prontera,Match Report,,2022-2023,Como
+2022-11-06,16:15,Serie B,Matchweek 12,Sun,Home,W,1,0,Venezia,1.0,0.6,47,3942,Alessandro Bellemo,4-3-1-2,3-4-1-2,Gianpiero Miele,Match Report,,2022-2023,Como
+2022-11-13,16:15,Serie B,Matchweek 13,Sun,Away,D,1,1,Genoa,1.1,1.8,47,24747,Alessandro Bellemo,4-3-1-2,4-2-3-1,Luca Massimi,Match Report,,2022-2023,Como
+2022-11-27,15:00,Serie B,Matchweek 14,Sun,Home,D,1,1,Bari,2.6,1.1,47,4870,Alessandro Bellemo,4-3-1-2,4-3-1-2,Egidio Marchetti,Match Report,,2022-2023,Como
+2022-12-04,15:00,Serie B,Matchweek 15,Sun,Away,D,3,3,Ascoli,1.1,1.3,46,6240,Alessandro Bellemo,4-3-1-2,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Como
+2022-12-08,20:30,Serie B,Matchweek 16,Thu,Away,D,0,0,Palermo,1.1,1.1,49,16467,Alessandro Bellemo,4-3-1-2,4-4-2,Federico Dionisi,Match Report,,2022-2023,Como
+2022-12-11,15:00,Serie B,Matchweek 17,Sun,Home,L,0,1,US Reggina,1.4,1.7,50,5207,Alessandro Bellemo,4-3-1-2,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Como
+2022-12-18,14:00,Serie B,Matchweek 18,Sun,Away,W,3,0,Ternana,2.3,1.9,38,4105,Alessandro Bellemo,3-4-1-2,4-3-1-2,Daniele Rutella,Match Report,,2022-2023,Como
+2022-12-26,15:00,Serie B,Matchweek 19,Mon,Home,W,2,0,Cittadella,0.5,1.4,44,4631,Alessandro Bellemo,3-4-1-2,4-3-1-2,Marco Guida,Match Report,,2022-2023,Como
+2023-01-14,14:00,Serie B,Matchweek 20,Sat,Away,L,0,2,Cagliari,1.0,0.8,56,16150,Alessandro Bellemo,3-4-1-2,3-5-2,Francesco Meraviglia,Match Report,,2022-2023,Como
+2023-01-21,14:00,Serie B,Matchweek 21,Sat,Home,D,2,2,Pisa,2.5,0.7,51,4377,Alessandro Bellemo,3-4-1-2,4-3-2-1,Lorenzo Maggioni,Match Report,,2022-2023,Como
+2023-01-28,14:00,Serie B,Matchweek 22,Sat,Away,W,1,0,Brescia,2.7,0.7,56,4757,Alessandro Bellemo,3-4-1-2,4-3-2-1,Giacomo Camplone,Match Report,,2022-2023,Como
+2023-02-04,16:15,Serie B,Matchweek 23,Sat,Home,L,0,2,Frosinone,1.2,0.9,55,5045,Alessandro Bellemo,3-4-1-2,4-3-3,Gianluca Manganiello,Match Report,,2022-2023,Como
+2023-02-11,14:00,Serie B,Matchweek 24,Sat,Away,D,1,1,Südtirol,1.4,1.2,52,4193,Alessandro Bellemo,3-4-3,4-4-1-1,Alberto Santoro,Match Report,,2022-2023,Como
+2023-02-18,14:00,Serie B,Matchweek 25,Sat,Away,D,1,1,SPAL,1.0,1.4,41,7379,Alessandro Bellemo,3-4-3,3-4-1-2,Matteo Gariglio,Match Report,,2022-2023,Como
+2023-02-25,14:00,Serie B,Matchweek 26,Sat,Home,W,5,1,Cosenza,2.7,1.8,52,6076,Alessandro Bellemo,3-5-2,3-4-3,Matteo Gualtieri,Match Report,,2022-2023,Como
+2023-03-01,20:30,Serie B,Matchweek 27,Wed,Away,D,0,0,Perugia,0.7,1.2,55,4542,Alessandro Bellemo,3-5-2,3-4-1-2,Daniele Perenzoni,Match Report,,2022-2023,Como
+2023-03-05,15:00,Serie B,Matchweek 28,Sun,Home,W,1,0,Modena,1.3,0.9,37,5092,Alessandro Bellemo,3-4-1-2,4-3-2-1,Daniele Rutella,Match Report,,2022-2023,Como
+2023-03-11,14:00,Serie B,Matchweek 29,Sat,Away,D,0,0,Benevento,0.9,0.3,52,7806,Alessandro Bellemo,3-4-1-2,3-4-3,Alberto Santoro,Match Report,,2022-2023,Como
+2023-03-18,14:00,Serie B,Matchweek 30,Sat,Home,W,2,0,Parma,0.3,0.7,43,3191,Cesc Fàbregas,3-1-4-2,4-2-3-1,Francesco Meraviglia,Match Report,,2022-2023,Como
+2023-04-01,14:00,Serie B,Matchweek 31,Sat,Away,L,2,3,Venezia,1.0,3.1,49,6592,Alessandro Bellemo,3-4-1-2,3-5-2,Marco Serra,Match Report,,2022-2023,Como
+2023-04-10,15:00,Serie B,Matchweek 32,Mon,Home,D,2,2,Genoa,3.0,0.7,44,6526,Alessandro Bellemo,3-5-2,3-5-2,Luca Pairetto,Match Report,,2022-2023,Como
+2023-04-15,14:00,Serie B,Matchweek 33,Sat,Away,D,2,2,Bari,0.9,1.3,32,17599,Alessandro Bellemo,3-5-2,4-3-3,Daniele Chiffi,Match Report,,2022-2023,Como
+2023-04-22,14:00,Serie B,Matchweek 34,Sat,Home,D,1,1,Ascoli,2.8,1.2,50,5030,Alessandro Bellemo,3-4-1-2,4-3-1-2,Giovanni Ayroldi,Match Report,,2022-2023,Como
+2023-05-01,12:30,Serie B,Matchweek 35,Mon,Home,D,1,1,Palermo,1.8,1.7,42,16467,Alessandro Bellemo,3-5-2,3-5-2,Daniele Paterna,Match Report,,2022-2023,Como
+2023-05-06,14:00,Serie B,Matchweek 36,Sat,Away,L,1,2,US Reggina,0.5,1.9,57,8073,Alessandro Bellemo,3-4-3,3-5-2,Luca Massimi,Match Report,,2022-2023,Como
+2023-05-13,14:00,Serie B,Matchweek 37,Sat,Home,W,3,1,Ternana,1.5,1.1,48,5139,Alessandro Bellemo,3-5-2,3-5-2,Matteo Gariglio,Match Report,,2022-2023,Como
+2023-05-19,20:30,Serie B,Matchweek 38,Fri,Away,D,0,0,Cittadella,0.7,1.3,58,5942,Alessandro Bellemo,3-5-2,4-3-1-2,Gianluca Manganiello,Match Report,,2022-2023,Como

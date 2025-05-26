@@ -1,0 +1,50 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-30,15:30,DFB-Pokal,Round of 64,Sat,Away,L,3,4,Elversberg,,,61,7500,Lukáš Hrádecký,4-2-3-1,4-2-3-1,Martin Petersen,Match Report,,2022-2023,Leverkusen
+2022-08-06,18:30,Bundesliga,Matchweek 1,Sat,Away,L,0,1,Dortmund,1.3,1.8,55,81365,Lukáš Hrádecký,4-2-3-1,4-3-3,Felix Brych,Match Report,,2022-2023,Leverkusen
+2022-08-13,15:30,Bundesliga,Matchweek 2,Sat,Home,L,1,2,Augsburg,2.5,0.4,66,22903,Jonathan Tah,4-2-3-1,3-5-2,Benjamin Cortus,Match Report,,2022-2023,Leverkusen
+2022-08-20,15:30,Bundesliga,Matchweek 3,Sat,Home,L,0,3,Hoffenheim,1.2,1.5,56,26300,Lukáš Hrádecký,4-2-3-1,3-5-2,Tobias Reichel,Match Report,,2022-2023,Leverkusen
+2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Away,W,3,0,Mainz 05,1.9,1.4,39,28500,Lukáš Hrádecký,3-5-2,3-4-3,Christian Dingert,Match Report,,2022-2023,Leverkusen
+2022-09-03,15:30,Bundesliga,Matchweek 5,Sat,Home,L,2,3,Freiburg,1.8,1.9,50,26853,Lukáš Hrádecký,3-1-4-2,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Leverkusen
+2022-09-07,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,be Club Brugge,1.0,0.5,52,21235,Lukáš Hrádecký,4-2-3-1,4-3-3,Irfan Peljto,Match Report,,2022-2023,Leverkusen
+2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Away,D,2,2,Hertha BSC,1.3,1.9,58,40643,Lukáš Hrádecký,4-2-3-1,4-3-3,Benjamin Brand,Match Report,,2022-2023,Leverkusen
+2022-09-13,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,es Atlético Madrid,1.8,0.9,45,25825,Lukáš Hrádecký,4-2-3-1,5-3-2,Michael Oliver,Match Report,,2022-2023,Leverkusen
+2022-09-17,15:30,Bundesliga,Matchweek 7,Sat,Home,D,1,1,Werder Bremen,1.8,2.1,54,30210,Lukáš Hrádecký,4-2-3-1,3-5-2,Tobias Welz,Match Report,,2022-2023,Leverkusen
+2022-09-30,20:30,Bundesliga,Matchweek 8,Fri,Away,L,0,4,Bayern Munich,0.8,1.9,38,75000,Lukáš Hrádecký,4-2-3-1,4-2-3-1,Tobias Stieler,Match Report,,2022-2023,Leverkusen
+2022-10-04,20:00,Champions Lg,Group stage,Tue,Away,L,0,2,pt Porto,1.4,1.1,58,42399,Lukáš Hrádecký,4-2-3-1,4-4-2,Anthony Taylor,Match Report,,2022-2023,Leverkusen
+2022-10-08,15:30,Bundesliga,Matchweek 9,Sat,Home,W,4,0,Schalke 04,1.5,0.4,60,30210,Lukáš Hrádecký,3-4-3,4-4-2,Tobias Reichel,Match Report,,2022-2023,Leverkusen
+2022-10-12,21:00,Champions Lg,Group stage,Wed,Home,L,0,3,pt Porto,2.2,1.8,64,30210,Lukáš Hrádecký,4-2-3-1,4-4-2,István Kovács,Match Report,,2022-2023,Leverkusen
+2022-10-15,15:30,Bundesliga,Matchweek 10,Sat,Away,L,1,5,Eint Frankfurt,0.4,3.9,51,49700,Lukáš Hrádecký,3-4-3,3-4-3,Frank Willenborg,Match Report,,2022-2023,Leverkusen
+2022-10-22,15:30,Bundesliga,Matchweek 11,Sat,Home,D,2,2,Wolfsburg,2.2,1.2,57,26294,Lukáš Hrádecký,3-4-3,4-1-4-1,Felix Brych,Match Report,,2022-2023,Leverkusen
+2022-10-26,21:00,Champions Lg,Group stage,Wed,Away,D,2,2,es Atlético Madrid,1.5,2.6,36,63803,Lukáš Hrádecký,3-4-3,4-4-2,Clément Turpin,Match Report,,2022-2023,Leverkusen
+2022-10-29,15:30,Bundesliga,Matchweek 12,Sat,Away,L,0,2,RB Leipzig,0.1,1.2,54,45598,Lukáš Hrádecký,3-4-1-2,3-4-3,Sven Jablonski,Match Report,,2022-2023,Leverkusen
+2022-11-01,18:45,Champions Lg,Group stage,Tue,Home,D,0,0,be Club Brugge,1.1,0.5,53,30210,Lukáš Hrádecký,3-4-3,3-1-4-2,Maurizio Mariani,Match Report,,2022-2023,Leverkusen
+2022-11-06,15:30,Bundesliga,Matchweek 13,Sun,Home,W,5,0,Union Berlin,1.9,0.3,58,30210,Lukáš Hrádecký,3-4-3,3-5-2,Robert Schröder,Match Report,,2022-2023,Leverkusen
+2022-11-09,18:30,Bundesliga,Matchweek 14,Wed,Away,W,2,1,Köln,1.4,1.4,42,50000,Lukáš Hrádecký,3-4-3,4-2-3-1,Tobias Stieler,Match Report,,2022-2023,Leverkusen
+2022-11-12,15:30,Bundesliga,Matchweek 15,Sat,Home,W,2,0,Stuttgart,1.6,0.3,45,30210,Lukáš Hrádecký,3-4-3,3-4-3,Florian Badstübner,Match Report,,2022-2023,Leverkusen
+2023-01-22,17:30,Bundesliga,Matchweek 16,Sun,Away,W,3,2,Gladbach,2.0,1.0,39,53336,Lukáš Hrádecký,3-4-3,4-2-3-1,Harm Osmers,Match Report,,2022-2023,Leverkusen
+2023-01-25,20:30,Bundesliga,Matchweek 17,Wed,Home,W,2,0,Bochum,1.7,0.7,56,25820,Lukáš Hrádecký,4-2-3-1,4-1-2-1-2,Timo Gerach,Match Report,,2022-2023,Leverkusen
+2023-01-29,17:30,Bundesliga,Matchweek 18,Sun,Home,L,0,2,Dortmund,1.7,0.9,56,30210,Lukáš Hrádecký,4-3-3,4-5-1,Tobias Welz,Match Report,,2022-2023,Leverkusen
+2023-02-03,20:30,Bundesliga,Matchweek 19,Fri,Away,L,0,1,Augsburg,0.6,0.9,59,27318,Lukáš Hrádecký,3-4-3,4-4-2,Marco Fritz,Match Report,,2022-2023,Leverkusen
+2023-02-11,15:30,Bundesliga,Matchweek 20,Sat,Away,W,3,1,Hoffenheim,1.4,0.7,50,20619,Lukáš Hrádecký,3-4-3,3-4-3,Tobias Stieler,Match Report,,2022-2023,Leverkusen
+2023-02-16,21:00,Europa Lg,Knockout round play-offs,Thu,Home,L,2,3,fr Monaco,1.8,0.7,53,27864,Lukáš Hrádecký,4-2-3-1,4-4-2,Orel Grinfeeld,Match Report,Leg 1 of 2,2022-2023,Leverkusen
+2023-02-19,19:30,Bundesliga,Matchweek 21,Sun,Home,L,2,3,Mainz 05,2.2,1.6,66,27002,Lukáš Hrádecký,4-3-3,3-4-1-2,Robert Schröder,Match Report,,2022-2023,Leverkusen
+2023-02-23,18:45,Europa Lg,Knockout round play-offs,Thu,Away,W,3 (5),2 (3),fr Monaco,2.3,1.9,51,8504,Lukáš Hrádecký,3-4-3,4-4-2,Alejandro Hernández,Match Report,Leg 2 of 2; Leverkusen won; Leverkusen won on penalty kicks following extra time,2022-2023,Leverkusen
+2023-02-26,15:30,Bundesliga,Matchweek 22,Sun,Away,D,1,1,Freiburg,2.2,0.8,55,34000,Lukáš Hrádecký,3-4-3,4-4-2,Daniel Siebert,Match Report,,2022-2023,Leverkusen
+2023-03-05,15:30,Bundesliga,Matchweek 23,Sun,Home,W,4,1,Hertha BSC,1.6,1.1,61,30210,Lukáš Hrádecký,3-4-3,3-5-2,Patrick Ittrich,Match Report,,2022-2023,Leverkusen
+2023-03-09,18:45,Europa Lg,Round of 16,Thu,Home,W,2,0,hu Ferencváros,0.7,0.6,65,25001,Lukáš Hrádecký,3-4-3,4-3-3,Davide Massa,Match Report,Leg 1 of 2,2022-2023,Leverkusen
+2023-03-12,17:30,Bundesliga,Matchweek 24,Sun,Away,W,3,2,Werder Bremen,1.0,1.8,47,41000,Lukáš Hrádecký,3-4-3,3-1-4-2,Deniz Aytekin,Match Report,,2022-2023,Leverkusen
+2023-03-16,21:00,Europa Lg,Round of 16,Thu,Away,W,2,0,hu Ferencváros,2.7,1.0,55,50675,Lukáš Hrádecký,3-4-3,4-2-3-1,Artur Dias,Match Report,Leg 2 of 2; Leverkusen won,2022-2023,Leverkusen
+2023-03-19,17:30,Bundesliga,Matchweek 25,Sun,Home,W,2,1,Bayern Munich,2.0,1.0,40,30210,Lukáš Hrádecký,3-4-3,3-1-4-2,Tobias Stieler,Match Report,,2022-2023,Leverkusen
+2023-04-01,15:30,Bundesliga,Matchweek 26,Sat,Away,W,3,0,Schalke 04,2.7,1.1,52,62271,Lukáš Hrádecký,3-4-3,4-2-3-1,Deniz Aytekin,Match Report,,2022-2023,Leverkusen
+2023-04-08,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3,1,Eint Frankfurt,2.1,0.9,43,30210,Lukáš Hrádecký,3-4-1-2,3-4-3,Robert Hartmann,Match Report,,2022-2023,Leverkusen
+2023-04-13,21:00,Europa Lg,Quarter-finals,Thu,Home,D,1,1,be Union SG,1.4,0.6,63,30210,Lukáš Hrádecký,3-4-3,3-5-2,Ivan Kružliak,Match Report,Leg 1 of 2,2022-2023,Leverkusen
+2023-04-16,19:30,Bundesliga,Matchweek 28,Sun,Away,D,0,0,Wolfsburg,1.2,0.9,57,20137,Lukáš Hrádecký,3-4-3,5-3-2,Sascha Stegemann,Match Report,,2022-2023,Leverkusen
+2023-04-20,21:00,Europa Lg,Quarter-finals,Thu,Away,W,4,1,be Union SG,2.4,1.3,50,17069,Lukáš Hrádecký,3-4-3,3-5-2,Antonio Matéu,Match Report,Leg 2 of 2; Leverkusen won,2022-2023,Leverkusen
+2023-04-23,17:30,Bundesliga,Matchweek 29,Sun,Home,W,2,0,RB Leipzig,1.1,1.9,31,29085,Lukáš Hrádecký,3-4-3,3-4-3,Daniel Schlager,Match Report,,2022-2023,Leverkusen
+2023-04-29,15:30,Bundesliga,Matchweek 30,Sat,Away,D,0,0,Union Berlin,0.8,0.8,65,22012,Lukáš Hrádecký,3-4-3,3-5-2,Marco Fritz,Match Report,,2022-2023,Leverkusen
+2023-05-05,20:30,Bundesliga,Matchweek 31,Fri,Home,L,1,2,Köln,0.9,0.8,64,30210,Lukáš Hrádecký,3-4-3,4-2-3-1,Felix Zwayer,Match Report,,2022-2023,Leverkusen
+2023-05-11,21:00,Europa Lg,Semi-finals,Thu,Away,L,0,1,it Roma,1.0,1.3,62,62123,Lukáš Hrádecký,3-4-3,3-4-1-2,Michael Oliver,Match Report,Leg 1 of 2,2022-2023,Leverkusen
+2023-05-14,15:30,Bundesliga,Matchweek 32,Sun,Away,D,1,1,Stuttgart,1.8,1.3,48,47500,Lukáš Hrádecký,3-4-3,3-4-3,Frank Willenborg,Match Report,,2022-2023,Leverkusen
+2023-05-18,21:00,Europa Lg,Semi-finals,Thu,Home,D,0,0,it Roma,1.1,0.0,71,30210,Lukáš Hrádecký,3-4-3,3-5-2,Slavko Vinčič,Match Report,Leg 2 of 2; Roma won,2022-2023,Leverkusen
+2023-05-21,19:30,Bundesliga,Matchweek 33,Sun,Home,D,2,2,Gladbach,1.6,1.7,47,30210,Lukáš Hrádecký,3-4-3,3-4-3,Daniel Siebert,Match Report,,2022-2023,Leverkusen
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Away,L,0,3,Bochum,0.8,1.3,50,26000,Lukáš Hrádecký,4-3-3,4-3-3,Tobias Welz,Match Report,,2022-2023,Leverkusen

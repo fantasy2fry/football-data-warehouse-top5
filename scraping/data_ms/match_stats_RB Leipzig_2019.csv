@@ -1,0 +1,48 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-11,15:30,DFB-Pokal,First round,Sun,Away,W,3,2,Osnabrück,,,51,16667.0,Willi Orban,5-3-2,3-4-3,Tobias Stieler,Match Report,,2019-2020,RB Leipzig
+2019-08-18,18:00,Bundesliga,Matchweek 1,Sun,Away,W,4,0,Union Berlin,3.4,1.0,64,22467.0,Willi Orban,3-4-3,4-2-3-1,Markus Schmidt,Match Report,,2019-2020,RB Leipzig
+2019-08-25,15:30,Bundesliga,Matchweek 2,Sun,Home,W,2,1,Eint Frankfurt,1.4,1.0,44,40108.0,Willi Orban,3-4-3,3-4-1-2,Benjamin Cortus,Match Report,,2019-2020,RB Leipzig
+2019-08-30,20:30,Bundesliga,Matchweek 3,Fri,Away,W,3,1,Gladbach,2.9,1.6,51,47327.0,Willi Orban,4-4-2,4-2-3-1,Sven Jablonski,Match Report,,2019-2020,RB Leipzig
+2019-09-14,18:30,Bundesliga,Matchweek 4,Sat,Home,D,1,1,Bayern Munich,1.5,1.4,32,42146.0,Willi Orban,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2019-2020,RB Leipzig
+2019-09-17,20:00,Champions Lg,Group stage,Tue,Away,W,2,1,pt Benfica,1.0,1.8,52,46460.0,Willi Orban,4-4-2,4-4-2,Tasos Sidiropoulos,Match Report,,2019-2020,RB Leipzig
+2019-09-21,18:30,Bundesliga,Matchweek 5,Sat,Away,W,3,0,Werder Bremen,1.5,0.7,53,40550.0,Willi Orban,3-1-4-2,3-5-2,Tobias Stieler,Match Report,,2019-2020,RB Leipzig
+2019-09-28,15:30,Bundesliga,Matchweek 6,Sat,Home,L,1,3,Schalke 04,1.3,3.2,65,42146.0,Willi Orban,4-2-2-2,4-4-2,Manuel Gräfe,Match Report,,2019-2020,RB Leipzig
+2019-10-02,21:00,Champions Lg,Group stage,Wed,Home,L,0,2,fr Lyon,1.9,1.5,58,40194.0,Willi Orban,3-4-1-2,3-5-2,Antonio Matéu Lahoz,Match Report,,2019-2020,RB Leipzig
+2019-10-05,15:30,Bundesliga,Matchweek 7,Sat,Away,D,1,1,Leverkusen,2.7,1.8,36,26355.0,Willi Orban,4-4-2,3-4-3,Marco Fritz,Match Report,,2019-2020,RB Leipzig
+2019-10-19,15:30,Bundesliga,Matchweek 8,Sat,Home,D,1,1,Wolfsburg,1.2,1.3,56,39182.0,Willi Orban,4-4-2,3-4-3,Deniz Aytekin,Match Report,,2019-2020,RB Leipzig
+2019-10-23,18:55,Champions Lg,Group stage,Wed,Home,W,2,1,ru Zenit,2.2,0.7,64,41058.0,Willi Orban,4-4-2,4-4-2,Ali Palabıyık,Match Report,,2019-2020,RB Leipzig
+2019-10-26,15:30,Bundesliga,Matchweek 9,Sat,Away,L,1,2,Freiburg,2.5,2.1,59,24000.0,Willi Orban,3-5-2,3-4-3,Harm Osmers,Match Report,,2019-2020,RB Leipzig
+2019-10-30,18:30,DFB-Pokal,Second round,Wed,Away,W,6,1,Wolfsburg,,,55,17705.0,Willi Orban,4-4-2,3-4-3,Felix Zwayer,Match Report,,2019-2020,RB Leipzig
+2019-11-02,15:30,Bundesliga,Matchweek 10,Sat,Home,W,8,0,Mainz 05,3.3,0.6,67,38517.0,Diego Demme,4-4-2,4-1-2-1-2,Guido Winkmann,Match Report,,2019-2020,RB Leipzig
+2019-11-05,20:55,Champions Lg,Group stage,Tue,Away,W,2,0,ru Zenit,1.4,1.2,68,50452.0,Diego Demme,4-2-3-1,5-3-2,Orel Grinfeeld,Match Report,,2019-2020,RB Leipzig
+2019-11-09,15:30,Bundesliga,Matchweek 11,Sat,Away,W,4,2,Hertha BSC,2.0,0.6,61,48532.0,Diego Demme,4-2-2-2,3-4-3,Sören Storks,Match Report,,2019-2020,RB Leipzig
+2019-11-23,18:30,Bundesliga,Matchweek 12,Sat,Home,W,4,1,Köln,2.3,0.6,69,42036.0,Diego Demme,4-2-2-2,4-3-3,Robert Schröder,Match Report,,2019-2020,RB Leipzig
+2019-11-27,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,pt Benfica,3.2,0.9,66,38339.0,Diego Demme,3-5-2,4-4-2,Jesús Gil,Match Report,,2019-2020,RB Leipzig
+2019-11-30,15:30,Bundesliga,Matchweek 13,Sat,Away,W,3,2,Paderborn 07,1.8,1.6,48,13253.0,Diego Demme,4-2-2-2,4-2-2-2,Bibiana Steinhaus,Match Report,,2019-2020,RB Leipzig
+2019-12-07,15:30,Bundesliga,Matchweek 14,Sat,Home,W,3,1,Hoffenheim,3.6,1.5,41,38407.0,Diego Demme,4-4-2,4-2-3-1,Deniz Aytekin,Match Report,,2019-2020,RB Leipzig
+2019-12-10,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,fr Lyon,3.4,1.1,53,53288.0,Diego Demme,4-2-2-2,4-2-3-1,Anthony Taylor,Match Report,,2019-2020,RB Leipzig
+2019-12-14,18:30,Bundesliga,Matchweek 15,Sat,Away,W,3,0,Düsseldorf,3.6,0.2,69,35387.0,Diego Demme,4-4-2,5-4-1,Robert Hartmann,Match Report,,2019-2020,RB Leipzig
+2019-12-17,20:30,Bundesliga,Matchweek 16,Tue,Away,D,3,3,Dortmund,2.2,1.8,44,80200.0,Diego Demme,4-1-2-1-2◆,3-4-3,Tobias Stieler,Match Report,,2019-2020,RB Leipzig
+2019-12-21,15:30,Bundesliga,Matchweek 17,Sat,Home,W,3,1,Augsburg,3.8,0.7,74,40562.0,Diego Demme,4-2-2-2,4-2-2-2,Daniel Siebert,Match Report,,2019-2020,RB Leipzig
+2020-01-18,18:30,Bundesliga,Matchweek 18,Sat,Home,W,3,1,Union Berlin,1.7,0.9,65,42146.0,Marcel Sabitzer,4-2-3-1,3-4-3,Bastian Dankert,Match Report,,2019-2020,RB Leipzig
+2020-01-25,15:30,Bundesliga,Matchweek 19,Sat,Away,L,0,2,Eint Frankfurt,1.6,1.2,67,50300.0,Marcel Sabitzer,3-4-3,4-4-1-1,Daniel Siebert,Match Report,,2019-2020,RB Leipzig
+2020-02-01,18:30,Bundesliga,Matchweek 20,Sat,Home,D,2,2,Gladbach,1.5,0.9,63,42146.0,Marcel Sabitzer,4-2-3-1,3-4-1-2,Tobias Stieler,Match Report,,2019-2020,RB Leipzig
+2020-02-04,18:30,DFB-Pokal,Round of 16,Tue,Away,L,1,3,Eint Frankfurt,,,57,47400.0,Yussuf Poulsen,4-3-3,4-3-3,Felix Brych,Match Report,,2019-2020,RB Leipzig
+2020-02-09,18:00,Bundesliga,Matchweek 21,Sun,Away,D,0,0,Bayern Munich,1.5,1.3,31,75000.0,Marcel Sabitzer,3-4-3,4-2-3-1,Marco Fritz,Match Report,,2019-2020,RB Leipzig
+2020-02-15,15:30,Bundesliga,Matchweek 22,Sat,Home,W,3,0,Werder Bremen,2.1,0.3,51,41308.0,Marcel Sabitzer,3-4-1-2,3-4-3,Benjamin Cortus,Match Report,,2019-2020,RB Leipzig
+2020-02-19,20:00,Champions Lg,Round of 16,Wed,Away,W,1,0,eng Tottenham,2.1,1.1,56,60095.0,Marcel Sabitzer,3-4-3,4-4-2,Cüneyt Çakιr,Match Report,Leg 1 of 2,2019-2020,RB Leipzig
+2020-02-22,18:30,Bundesliga,Matchweek 23,Sat,Away,W,5,0,Schalke 04,2.5,0.2,47,61433.0,Marcel Sabitzer,3-1-4-2,4-1-2-1-2,Sascha Stegemann,Match Report,,2019-2020,RB Leipzig
+2020-03-01,15:30,Bundesliga,Matchweek 24,Sun,Home,D,1,1,Leverkusen,0.8,1.3,38,41216.0,Marcel Sabitzer,3-1-4-2,3-4-3,Felix Zwayer,Match Report,,2019-2020,RB Leipzig
+2020-03-07,15:30,Bundesliga,Matchweek 25,Sat,Away,D,0,0,Wolfsburg,1.2,0.7,61,27195.0,Marcel Sabitzer,3-1-4-2,4-4-2,Daniel Schlager,Match Report,,2019-2020,RB Leipzig
+2020-03-10,21:00,Champions Lg,Round of 16,Tue,Home,W,3,0,eng Tottenham,0.9,0.3,54,42146.0,Marcel Sabitzer,3-4-3,3-4-3,Carlos del Cerro,Match Report,Leg 2 of 2; RB Leipzig won,2019-2020,RB Leipzig
+2020-05-16,15:30,Bundesliga,Matchweek 26,Sat,Home,D,1,1,Freiburg,2.1,0.7,66,,Yussuf Poulsen,3-1-4-2,3-4-3,Manuel Gräfe,Match Report,,2019-2020,RB Leipzig
+2020-05-24,15:30,Bundesliga,Matchweek 27,Sun,Away,W,5,0,Mainz 05,4.4,0.3,65,,Yussuf Poulsen,4-4-2,3-4-3,Markus Schmidt,Match Report,,2019-2020,RB Leipzig
+2020-05-27,18:30,Bundesliga,Matchweek 28,Wed,Home,D,2,2,Hertha BSC,0.6,1.5,57,,Marcel Sabitzer,4-2-2-2,4-2-3-1,Bastian Dankert,Match Report,,2019-2020,RB Leipzig
+2020-06-01,20:30,Bundesliga,Matchweek 29,Mon,Away,W,4,2,Köln,2.9,1.1,52,,Marcel Sabitzer,4-2-2-2,4-2-3-1,Christian Dingert,Match Report,,2019-2020,RB Leipzig
+2020-06-06,15:30,Bundesliga,Matchweek 30,Sat,Home,D,1,1,Paderborn 07,1.4,1.1,51,,Péter Gulácsi,4-2-2-2,4-2-3-1,Deniz Aytekin,Match Report,,2019-2020,RB Leipzig
+2020-06-12,20:30,Bundesliga,Matchweek 31,Fri,Away,W,2,0,Hoffenheim,1.5,1.9,49,,Marcel Sabitzer,4-3-1-2,3-4-1-2,Tobias Welz,Match Report,,2019-2020,RB Leipzig
+2020-06-17,20:30,Bundesliga,Matchweek 32,Wed,Home,D,2,2,Düsseldorf,1.2,0.9,71,,Marcel Sabitzer,4-1-2-1-2◆,5-3-2,Manuel Gräfe,Match Report,,2019-2020,RB Leipzig
+2020-06-20,15:30,Bundesliga,Matchweek 33,Sat,Home,L,0,2,Dortmund,1.2,2.8,47,,Marcel Sabitzer,3-4-1-2,3-4-3,Felix Zwayer,Match Report,,2019-2020,RB Leipzig
+2020-06-27,15:30,Bundesliga,Matchweek 34,Sat,Away,W,2,1,Augsburg,1.8,0.2,65,,Marcel Halstenberg,3-4-3,4-2-3-1,Felix Brych,Match Report,,2019-2020,RB Leipzig
+2020-08-13,21:00,Champions Lg,Quarter-finals,Thu,Neutral,W,2,1,es Atlético Madrid,0.9,1.1,57,,Yussuf Poulsen,4-2-3-1,4-4-2,Szymon Marciniak,Match Report,,2019-2020,RB Leipzig
+2020-08-18,20:00,Champions Lg,Semi-finals,Tue,Neutral,L,0,3,fr Paris S-G,1.0,3.2,43,,Yussuf Poulsen,4-1-4-1,4-3-3,Björn Kuipers,Match Report,,2019-2020,RB Leipzig

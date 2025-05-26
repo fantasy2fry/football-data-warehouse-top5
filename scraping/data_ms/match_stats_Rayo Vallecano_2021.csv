@@ -1,0 +1,46 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,22:15,La Liga,Matchweek 1,Sun,Away,L,0,3,Sevilla,0.4,3.7,26,13962.0,Óscar Trejo,4-2-3-1,3-4-3,Isidro Díaz de Mera,Match Report,,2021-2022,Rayo Vallecano
+2021-08-22,17:00,La Liga,Matchweek 2,Sun,Away,L,0,1,Real Sociedad,0.5,1.9,39,7652.0,Óscar Trejo,4-2-3-1,4-1-4-1,Santiago Jaime,Match Report,,2021-2022,Rayo Vallecano
+2021-08-29,19:30,La Liga,Matchweek 3,Sun,Home,W,4,0,Granada,2.2,0.5,47,583.0,Óscar Trejo,4-2-3-1,4-3-3,Jesús Gil,Match Report,,2021-2022,Rayo Vallecano
+2021-09-11,18:30,La Liga,Matchweek 4,Sat,Away,D,1,1,Levante,2.2,1.0,55,12974.0,Óscar Trejo,4-2-3-1,4-3-3,Alberola Rojas,Match Report,,2021-2022,Rayo Vallecano
+2021-09-18,14:00,La Liga,Matchweek 5,Sat,Home,W,3,0,Getafe,2.2,1.1,50,3280.0,Óscar Trejo,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,2021-2022,Rayo Vallecano
+2021-09-21,22:00,La Liga,Matchweek 6,Tue,Away,W,2,1,Athletic Club,1.0,0.9,53,16236.0,Santi Comesaña,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2021-09-26,18:30,La Liga,Matchweek 7,Sun,Home,W,3,1,Cádiz,1.3,1.0,58,5903.0,Óscar Trejo,4-2-3-1,4-1-4-1,Ricardo de Burgos,Match Report,,2021-2022,Rayo Vallecano
+2021-10-02,14:00,La Liga,Matchweek 8,Sat,Away,L,0,1,Osasuna,0.2,0.5,49,19238.0,Óscar Trejo,4-4-2,4-3-3,Mario Melero,Match Report,,2021-2022,Rayo Vallecano
+2021-10-17,14:00,La Liga,Matchweek 9,Sun,Home,W,2,1,Elche,1.2,0.4,52,6989.0,Óscar Trejo,4-4-1-1,4-4-2,Santiago Jaime,Match Report,,2021-2022,Rayo Vallecano
+2021-10-24,18:30,La Liga,Matchweek 10,Sun,Away,L,2,3,Betis,1.0,1.4,54,45362.0,Óscar Trejo,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,2021-2022,Rayo Vallecano
+2021-10-27,19:00,La Liga,Matchweek 11,Wed,Home,W,1,0,Barcelona,0.8,2.5,32,9340.0,Óscar Trejo,4-2-3-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2021-2022,Rayo Vallecano
+2021-11-01,18:30,La Liga,Matchweek 12,Mon,Home,D,0,0,Celta Vigo,0.6,0.6,53,9580.0,Santi Comesaña,4-2-3-1,4-1-3-2,Adrián Cordero,Match Report,,2021-2022,Rayo Vallecano
+2021-11-06,21:00,La Liga,Matchweek 13,Sat,Away,L,1,2,Real Madrid,1.4,2.1,46,43283.0,Óscar Trejo,4-2-3-1,4-3-3,Pablo González,Match Report,,2021-2022,Rayo Vallecano
+2021-11-22,21:00,La Liga,Matchweek 14,Mon,Home,W,3,1,Mallorca,2.4,0.7,52,6708.0,Óscar Trejo,4-2-3-1,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Rayo Vallecano
+2021-11-27,16:15,La Liga,Matchweek 15,Sat,Away,D,1,1,Valencia,1.2,1.6,58,30030.0,Santi Comesaña,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Rayo Vallecano
+2021-12-02,19:00,Copa del Rey,First round,Thu,Away,D,1 (4),1 (3),Guijuelo,,,61,900.0,Mario Suárez,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,Rayo Vallecano won on penalty kicks following extra time,2021-2022,Rayo Vallecano
+2021-12-05,14:00,La Liga,Matchweek 16,Sun,Home,W,1,0,Espanyol,0.4,0.6,50,8679.0,Óscar Trejo,4-2-3-1,4-1-4-1,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2021-12-12,14:00,La Liga,Matchweek 17,Sun,Away,L,0,2,Villarreal,1.5,2.4,48,13133.0,Óscar Trejo,4-2-3-1,4-4-2,Mario Melero,Match Report,,2021-2022,Rayo Vallecano
+2021-12-15,19:00,Copa del Rey,Second round,Wed,Away,W,3,1,Bergantiños FC,,,52,,Mario Suárez,4-2-3-1,4-2-3-1,Pablo González,Match Report,,2021-2022,Rayo Vallecano
+2021-12-18,14:00,La Liga,Matchweek 18,Sat,Home,W,2,0,Alavés,1.8,0.2,61,7911.0,Óscar Trejo,4-2-3-1,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Rayo Vallecano
+2022-01-02,16:15,La Liga,Matchweek 19,Sun,Away,L,0,2,Atlético Madrid,0.1,1.7,50,43029.0,Santi Comesaña,4-2-3-1,4-4-2,Jorge Figueroa,Match Report,,2021-2022,Rayo Vallecano
+2022-01-05,20:00,Copa del Rey,Round of 32,Wed,Away,W,1,0,CD Mirandés,,,59,1807.0,Mario Suárez,4-1-4-1,5-4-1,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2022-01-09,14:00,La Liga,Matchweek 20,Sun,Home,D,1,1,Betis,1.2,1.3,58,8395.0,Óscar Trejo,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2021-2022,Rayo Vallecano
+2022-01-15,18:30,Copa del Rey,Round of 16,Sat,Away,W,2,1,Girona,,,54,6405.0,Mario Suárez,4-2-3-1,3-4-3,Adrián Cordero,Match Report,,2021-2022,Rayo Vallecano
+2022-01-23,18:30,La Liga,Matchweek 22,Sun,Home,L,0,1,Athletic Club,2.0,0.4,67,9034.0,Óscar Trejo,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,2021-2022,Rayo Vallecano
+2022-02-02,20:00,Copa del Rey,Quarter-finals,Wed,Home,W,1,0,Mallorca,,,55,,Óscar Trejo,4-2-3-1,4-4-2,César Soto,Match Report,,2021-2022,Rayo Vallecano
+2022-02-05,18:30,La Liga,Matchweek 23,Sat,Away,L,0,2,Celta Vigo,0.8,0.7,48,12546.0,Santi Comesaña,4-2-3-1,4-1-3-2,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2022-02-09,21:00,Copa del Rey,Semi-finals,Wed,Home,L,1,2,Betis,,,52,9034.0,Óscar Trejo,4-2-3-1,4-2-3-1,José Sánchez,Match Report,Leg 1 of 2,2021-2022,Rayo Vallecano
+2022-02-12,18:30,La Liga,Matchweek 24,Sat,Home,L,0,3,Osasuna,0.9,1.6,55,8596.0,Santi Comesaña,4-2-3-1,4-3-3,Jorge Figueroa,Match Report,,2021-2022,Rayo Vallecano
+2022-02-18,21:00,La Liga,Matchweek 25,Fri,Away,L,1,2,Elche,0.7,2.5,56,14742.0,Óscar Trejo,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,2021-2022,Rayo Vallecano
+2022-02-26,18:30,La Liga,Matchweek 26,Sat,Home,L,0,1,Real Madrid,0.9,2.1,34,9952.0,Óscar Trejo,4-2-3-1,4-3-3,Isidro Díaz de Mera,Match Report,,2021-2022,Rayo Vallecano
+2022-03-03,21:00,Copa del Rey,Semi-finals,Thu,Away,D,1,1,Betis,,,40,50916.0,Óscar Trejo,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,Leg 2 of 2; Betis won,2021-2022,Rayo Vallecano
+2022-03-06,14:00,La Liga,Matchweek 27,Sun,Away,L,0,2,Cádiz,1.1,1.1,53,15677.0,Mario Suárez,4-2-3-1,4-4-2,César Soto,Match Report,,2021-2022,Rayo Vallecano
+2022-03-13,14:00,La Liga,Matchweek 28,Sun,Home,D,1,1,Sevilla,0.4,0.3,44,9073.0,Óscar Trejo,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,2021-2022,Rayo Vallecano
+2022-03-19,21:00,La Liga,Matchweek 29,Sat,Home,L,0,1,Atlético Madrid,1.4,1.4,54,10349.0,Óscar Trejo,4-2-3-1,3-5-2,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2022-04-03,18:30,La Liga,Matchweek 30,Sun,Away,D,2,2,Granada,0.8,2.1,37,15823.0,Mario Suárez,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Rayo Vallecano
+2022-04-11,21:00,La Liga,Matchweek 31,Mon,Home,D,1,1,Valencia,0.6,0.5,55,9302.0,Óscar Trejo,4-2-3-1,4-1-4-1,Ricardo de Burgos,Match Report,,2021-2022,Rayo Vallecano
+2022-04-16,16:15,La Liga,Matchweek 32,Sat,Away,L,0,1,Alavés,1.0,0.5,62,10165.0,Santi Comesaña,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2021-2022,Rayo Vallecano
+2022-04-21,19:00,La Liga,Matchweek 33,Thu,Away,W,1,0,Espanyol,0.6,0.4,43,11873.0,Óscar Trejo,4-2-3-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2021-2022,Rayo Vallecano
+2022-04-24,21:00,La Liga,Matchweek 21,Sun,Away,W,1,0,Barcelona,0.3,1.7,30,57023.0,Santi Comesaña,4-2-3-1,4-3-3,Isidro Díaz de Mera,Match Report,,2021-2022,Rayo Vallecano
+2022-05-01,18:30,La Liga,Matchweek 34,Sun,Home,D,1,1,Real Sociedad,1.4,0.7,45,9395.0,Santi Comesaña,4-2-3-1,4-1-2-1-2,Alejandro Muñíz,Match Report,,2021-2022,Rayo Vallecano
+2022-05-08,14:00,La Liga,Matchweek 35,Sun,Away,D,0,0,Getafe,0.7,0.6,55,10125.0,Óscar Trejo,4-2-3-1,3-5-2,Mario Melero,Match Report,,2021-2022,Rayo Vallecano
+2022-05-12,20:00,La Liga,Matchweek 36,Thu,Home,L,1,5,Villarreal,1.8,2.4,56,7945.0,Santi Comesaña,4-2-3-1,4-3-3,Isidro Díaz de Mera,Match Report,,2021-2022,Rayo Vallecano
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Away,L,1,2,Mallorca,1.2,0.8,55,17930.0,Catena,4-2-3-1,5-3-2,José Luis Munuera,Match Report,,2021-2022,Rayo Vallecano
+2022-05-20,21:00,La Liga,Matchweek 38,Fri,Home,L,2,4,Levante,2.5,2.5,56,8446.0,Mario Suárez,4-2-3-1,4-4-2,Mario Melero,Match Report,,2021-2022,Rayo Vallecano

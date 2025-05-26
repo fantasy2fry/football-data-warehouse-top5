@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,21:15,Coppa Italia,Third round,Sat,Home,D,1 (4),1 (2),Palermo,,,,1126,,,,Paolo Valeri,Match Report,Cagliari won on penalty kicks following extra time,2017-2018,Cagliari
+2017-08-19,18:00,Serie A,Matchweek 1,Sat,Away,L,0,3,Juventus,1.4,1.1,38.0,39226,Diego Farias,4-3-1-2,4-2-3-1,Fabio Maresca,Match Report,,2017-2018,Cagliari
+2017-08-27,20:45,Serie A,Matchweek 2,Sun,Away,L,1,2,Milan,0.7,1.4,51.0,49525,Marco Sau,4-3-1-2,4-3-3,Luca Pairetto,Match Report,,2017-2018,Cagliari
+2017-09-10,15:00,Serie A,Matchweek 3,Sun,Home,W,1,0,Crotone,1.2,0.4,61.0,14076,Daniele Dessena,4-3-1-2,4-4-2,Daniele Doveri,Match Report,,2017-2018,Cagliari
+2017-09-17,15:00,Serie A,Matchweek 4,Sun,Away,W,2,0,SPAL,0.6,0.6,50.0,10979,Marco Sau,4-3-1-2,3-5-2,Eugenio Abbattista,Match Report,,2017-2018,Cagliari
+2017-09-20,20:45,Serie A,Matchweek 5,Wed,Home,L,0,1,Sassuolo,2.4,2.6,56.0,13898,João Pedro,4-3-1-2,3-1-4-2,Claudio Gavillucci,Match Report,,2017-2018,Cagliari
+2017-09-24,15:00,Serie A,Matchweek 6,Sun,Home,L,0,2,Chievo,1.5,1.1,54.0,14287,Daniele Dessena,4-3-1-2,4-3-1-2,Gianluca Aureliano,Match Report,,2017-2018,Cagliari
+2017-10-01,12:30,Serie A,Matchweek 7,Sun,Away,L,0,3,Napoli,0.2,2.7,28.0,42813,Marco Sau,4-3-1-2,4-3-3,Rosario Abisso,Match Report,,2017-2018,Cagliari
+2017-10-15,15:00,Serie A,Matchweek 8,Sun,Home,L,2,3,Genoa,1.4,2.5,59.0,13981,João Pedro,4-3-1-2,3-4-3,Davide Massa,Match Report,,2017-2018,Cagliari
+2017-10-22,20:45,Serie A,Matchweek 9,Sun,Away,L,0,3,Lazio,0.6,2.3,47.0,20000,Daniele Dessena,3-4-1-2,3-5-1-1,Luca Pairetto,Match Report,,2017-2018,Cagliari
+2017-10-25,20:45,Serie A,Matchweek 10,Wed,Home,W,2,1,Benevento,2.0,1.3,41.0,13630,Marco Sau,3-5-2,3-4-3,Massimiliano Irrati,Match Report,,2017-2018,Cagliari
+2017-10-29,20:45,Serie A,Matchweek 11,Sun,Away,L,1,2,Torino,0.6,2.8,46.0,18309,João Pedro,3-4-1-2,4-3-3,Giampaolo Calvarese,Match Report,,2017-2018,Cagliari
+2017-11-05,15:00,Serie A,Matchweek 12,Sun,Home,W,2,1,Hellas Verona,2.2,1.2,63.0,13213,Marco Sau,3-5-2,4-4-1-1,Marco Guida,Match Report,,2017-2018,Cagliari
+2017-11-19,15:00,Serie A,Matchweek 13,Sun,Away,W,1,0,Udinese,0.9,0.9,48.0,3830,Luca Ceppitelli,3-5-1-1,4-4-2,Gianluca Manganiello,Match Report,,2017-2018,Cagliari
+2017-11-25,20:45,Serie A,Matchweek 14,Sat,Home,L,1,3,Inter,1.4,1.2,44.0,15974,João Pedro,3-5-1-1,4-2-3-1,Luca Pairetto,Match Report,,2017-2018,Cagliari
+2017-11-28,15:00,Coppa Italia,Fourth round,Tue,Home,L,1,2,Pordenone,,,,5026,,,,Fabio Piscopo,Match Report,,2017-2018,Cagliari
+2017-12-03,15:00,Serie A,Matchweek 15,Sun,Away,D,1,1,Bologna,1.4,1.4,38.0,21940,João Pedro,3-5-1-1,4-3-3,Federico La Penna,Match Report,,2017-2018,Cagliari
+2017-12-09,18:00,Serie A,Matchweek 16,Sat,Home,D,2,2,Sampdoria,1.2,1.5,49.0,13424,Daniele Dessena,3-5-1-1,4-3-1-2,Fabrizio Pasqua,Match Report,,2017-2018,Cagliari
+2017-12-16,20:45,Serie A,Matchweek 17,Sat,Away,L,0,1,Roma,0.1,2.6,40.0,33133,João Pedro,3-5-1-1,4-3-3,Antonio Damato,Match Report,,2017-2018,Cagliari
+2017-12-22,20:45,Serie A,Matchweek 18,Fri,Home,L,0,1,Fiorentina,0.3,1.8,40.0,14297,Andrea Cossu,3-5-1-1,3-5-1-1,Marco Di Bello,Match Report,,2017-2018,Cagliari
+2017-12-30,15:00,Serie A,Matchweek 19,Sat,Away,W,2,1,Atalanta,0.9,2.8,32.0,17755,Luca Ceppitelli,3-5-1-1,3-4-3,Fabrizio Pasqua,Match Report,,2017-2018,Cagliari
+2018-01-06,20:45,Serie A,Matchweek 20,Sat,Home,L,0,1,Juventus,0.5,1.5,40.0,16233,Luca Ceppitelli,3-5-1-1,4-3-2-1,Giampaolo Calvarese,Match Report,,2017-2018,Cagliari
+2018-01-21,18:00,Serie A,Matchweek 21,Sun,Home,L,1,2,Milan,0.7,1.9,48.0,15235,Marco Sau,3-5-1-1,4-3-3,Marco Guida,Match Report,,2017-2018,Cagliari
+2018-01-28,15:00,Serie A,Matchweek 22,Sun,Away,D,1,1,Crotone,0.4,1.4,37.0,8987,Daniele Dessena,3-5-2,4-3-3,Paolo Tagliavento,Match Report,,2017-2018,Cagliari
+2018-02-04,15:00,Serie A,Matchweek 23,Sun,Home,W,2,0,SPAL,1.8,0.6,51.0,15986,João Pedro,3-5-1-1,3-5-2,Davide Massa,Match Report,,2017-2018,Cagliari
+2018-02-11,12:30,Serie A,Matchweek 24,Sun,Away,D,0,0,Sassuolo,0.2,1.3,51.0,9149,João Pedro,3-5-1-1,4-3-3,Paolo Mazzoleni,Match Report,,2017-2018,Cagliari
+2018-02-17,18:00,Serie A,Matchweek 25,Sat,Away,L,1,2,Chievo,0.5,0.5,46.0,8000,Daniele Dessena,3-5-2,4-3-1-2,Luigi Nasca,Match Report,,2017-2018,Cagliari
+2018-02-26,20:45,Serie A,Matchweek 26,Mon,Home,L,0,5,Napoli,0.5,3.2,36.0,13757,João Pedro,3-5-2,4-3-3,Piero Giacomelli,Match Report,,2017-2018,Cagliari
+2018-03-11,15:00,Serie A,Matchweek 28,Sun,Home,D,2,2,Lazio,1.6,0.7,39.0,14241,Luca Ceppitelli,3-1-4-2,3-5-1-1,Marco Guida,Match Report,,2017-2018,Cagliari
+2018-03-18,15:00,Serie A,Matchweek 29,Sun,Away,W,2,1,Benevento,2.0,1.8,45.0,9443,Luca Ceppitelli,3-5-2,4-2-3-1,Gianluca Manganiello,Match Report,,2017-2018,Cagliari
+2018-03-31,15:00,Serie A,Matchweek 30,Sat,Home,L,0,4,Torino,1.2,2.6,46.0,15959,Marco Sau,3-5-2,3-5-2,Federico La Penna,Match Report,,2017-2018,Cagliari
+2018-04-03,18:30,Serie A,Matchweek 27,Tue,Away,L,1,2,Genoa,1.2,0.9,51.0,18869,Daniele Dessena,3-5-2,3-5-1-1,Fabio Maresca,Match Report,,2017-2018,Cagliari
+2018-04-08,15:00,Serie A,Matchweek 31,Sun,Away,L,0,1,Hellas Verona,0.7,1.1,54.0,13918,Marco Sau,3-5-2,4-3-3,Paolo Valeri,Match Report,,2017-2018,Cagliari
+2018-04-14,15:00,Serie A,Matchweek 32,Sat,Home,W,2,1,Udinese,1.3,1.1,61.0,13755,Marco Sau,3-5-2,3-5-2,Piero Giacomelli,Match Report,,2017-2018,Cagliari
+2018-04-17,20:45,Serie A,Matchweek 33,Tue,Away,L,0,4,Inter,0.0,2.3,27.0,47467,Marco Sau,3-5-2,4-2-3-1,Fabrizio Pasqua,Match Report,,2017-2018,Cagliari
+2018-04-22,12:30,Serie A,Matchweek 34,Sun,Home,D,0,0,Bologna,1.4,0.6,53.0,15024,Marco Sau,3-5-2,3-5-2,Daniele Doveri,Match Report,,2017-2018,Cagliari
+2018-04-29,15:00,Serie A,Matchweek 35,Sun,Away,L,1,4,Sampdoria,1.1,2.9,41.0,20189,Marco Sau,3-5-2,4-3-1-2,Rosario Abisso,Match Report,,2017-2018,Cagliari
+2018-05-06,20:45,Serie A,Matchweek 36,Sun,Home,L,0,1,Roma,1.1,0.8,46.0,15157,Luca Ceppitelli,4-3-1-2,4-2-3-1,Marco Di Bello,Match Report,,2017-2018,Cagliari
+2018-05-13,15:00,Serie A,Matchweek 37,Sun,Away,W,1,0,Fiorentina,1.9,0.6,35.0,34690,Luca Ceppitelli,4-3-1-2,4-3-1-2,Paolo Valeri,Match Report,,2017-2018,Cagliari
+2018-05-20,18:00,Serie A,Matchweek 38,Sun,Home,W,1,0,Atalanta,0.4,1.3,31.0,16233,Luca Ceppitelli,4-3-1-2,3-4-1-2,Davide Massa,Match Report,,2017-2018,Cagliari

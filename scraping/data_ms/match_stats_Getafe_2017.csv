@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-20,18:15,La Liga,Matchweek 1,Sun,Away,D,0,0,Athletic Club,0.5,1.2,36.0,37884,Jorge Molina,4-4-2,4-2-3-1,Mario Melero,Match Report,,2017-2018,Getafe
+2017-08-27,20:15,La Liga,Matchweek 2,Sun,Home,L,0,1,Sevilla,1.8,1.2,44.0,10039,Jorge Molina,4-4-2,4-1-4-1,Alberto Undiano,Match Report,,2017-2018,Getafe
+2017-09-08,21:00,La Liga,Matchweek 3,Fri,Away,W,2,1,Leganés,0.4,1.6,39.0,11454,Jorge Molina,4-4-2,4-2-3-1,Alfonso Álvarez,Match Report,,2017-2018,Getafe
+2017-09-16,16:15,La Liga,Matchweek 4,Sat,Home,L,1,2,Barcelona,1.0,0.4,30.0,15164,Jorge Molina,4-2-3-1,4-3-3,David Fernández,Match Report,,2017-2018,Getafe
+2017-09-21,21:00,La Liga,Matchweek 5,Thu,Away,D,1,1,Celta Vigo,0.8,0.6,35.0,14700,Jorge Molina,4-2-3-1,4-3-3,Daniel Trujillo,Match Report,,2017-2018,Getafe
+2017-09-24,16:15,La Liga,Matchweek 6,Sun,Home,W,4,0,Villarreal,2.3,1.1,41.0,10874,Jorge Molina,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2017-2018,Getafe
+2017-09-30,13:00,La Liga,Matchweek 7,Sat,Away,L,1,2,La Coruña,1.3,2.3,38.0,19323,Jorge Molina,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2017-2018,Getafe
+2017-10-14,16:15,La Liga,Matchweek 8,Sat,Home,L,1,2,Real Madrid,1.0,2.0,32.0,15350,Jorge Molina,4-4-1-1,4-4-2,Juan Martínez,Match Report,,2017-2018,Getafe
+2017-10-21,13:00,La Liga,Matchweek 9,Sat,Away,D,1,1,Levante,0.8,0.5,50.0,18064,Jorge Molina,4-4-1-1,4-1-4-1,Ricardo de Burgos,Match Report,,2017-2018,Getafe
+2017-10-24,20:30,Copa del Rey,Round of 32,Tue,Home,L,0,1,Alavés,,,,7731,,,,David Fernández,Match Report,Leg 1 of 2,2017-2018,Getafe
+2017-10-29,12:00,La Liga,Matchweek 10,Sun,Home,W,2,1,Real Sociedad,2.2,1.2,45.0,11010,Jorge Molina,4-4-2,4-3-3,José Sánchez,Match Report,,2017-2018,Getafe
+2017-11-03,21:00,La Liga,Matchweek 11,Fri,Away,D,2,2,Betis,0.8,1.3,26.0,42323,Jorge Molina,4-4-2,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2017-2018,Getafe
+2017-11-18,13:00,La Liga,Matchweek 12,Sat,Home,W,4,1,Alavés,3.2,0.8,43.0,10014,Jorge Molina,4-4-2,5-3-2,Santiago Jaime,Match Report,,2017-2018,Getafe
+2017-11-27,21:00,La Liga,Matchweek 13,Mon,Away,L,0,1,Espanyol,0.8,0.9,49.0,11756,Jorge Molina,4-4-2,4-4-2,Juan Martínez,Match Report,,2017-2018,Getafe
+2017-11-30,19:00,Copa del Rey,Round of 32,Thu,Away,L,0,3,Alavés,,,,9128,,,,José González,Match Report,Leg 2 of 2; Alavés won,2017-2018,Getafe
+2017-12-03,16:15,La Liga,Matchweek 14,Sun,Home,W,1,0,Valencia,0.9,0.9,34.0,12480,Jorge Molina,4-4-2,4-4-2,David Medié,Match Report,,2017-2018,Getafe
+2017-12-09,13:00,La Liga,Matchweek 15,Sat,Home,D,0,0,Eibar,0.3,1.0,48.0,9317,Jorge Molina,4-4-2,4-4-2,Alberola Rojas,Match Report,,2017-2018,Getafe
+2017-12-17,12:00,La Liga,Matchweek 16,Sun,Away,L,0,1,Girona,0.2,0.3,55.0,10095,Jorge Molina,4-4-2,3-4-3,Alberto Undiano,Match Report,,2017-2018,Getafe
+2017-12-20,19:30,La Liga,Matchweek 17,Wed,Home,W,2,0,Las Palmas,2.7,2.1,34.0,9231,Jorge Molina,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2017-2018,Getafe
+2018-01-06,13:00,La Liga,Matchweek 18,Sat,Away,L,0,2,Atlético Madrid,0.7,1.4,39.0,47023,Jorge Molina,4-4-2,4-4-2,José Munuera,Match Report,,2017-2018,Getafe
+2018-01-12,21:00,La Liga,Matchweek 19,Fri,Home,W,1,0,Málaga,1.2,0.5,44.0,9513,Jorge Molina,4-4-2,4-2-3-1,Juan Martínez,Match Report,,2017-2018,Getafe
+2018-01-19,21:00,La Liga,Matchweek 20,Fri,Home,D,2,2,Athletic Club,3.9,1.4,51.0,11457,Jorge Molina,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2017-2018,Getafe
+2018-01-28,18:30,La Liga,Matchweek 21,Sun,Away,D,1,1,Sevilla,0.6,1.5,35.0,34011,Bruno González,4-2-3-1,4-2-3-1,Alberola Rojas,Match Report,,2017-2018,Getafe
+2018-02-04,12:00,La Liga,Matchweek 22,Sun,Home,D,0,0,Leganés,0.9,0.1,50.0,10657,Jorge Molina,4-4-2,4-4-1-1,Alfonso Álvarez,Match Report,,2017-2018,Getafe
+2018-02-11,16:15,La Liga,Matchweek 23,Sun,Away,D,0,0,Barcelona,0.4,1.0,21.0,75681,Bruno González,4-4-2,4-4-2,David Fernández,Match Report,,2017-2018,Getafe
+2018-02-19,21:00,La Liga,Matchweek 24,Mon,Home,W,3,0,Celta Vigo,1.4,0.1,33.0,8367,Jorge Molina,4-4-2,4-3-3,Pablo González,Match Report,,2017-2018,Getafe
+2018-02-25,12:00,La Liga,Matchweek 25,Sun,Away,L,0,1,Villarreal,1.6,0.9,47.0,16125,Francisco Molinero,4-2-3-1,4-4-2,José Sánchez,Match Report,,2017-2018,Getafe
+2018-02-28,19:30,La Liga,Matchweek 26,Wed,Home,W,3,0,La Coruña,1.8,0.4,42.0,5097,Jorge Molina,4-4-2,4-2-3-1,José Munuera,Match Report,,2017-2018,Getafe
+2018-03-03,20:45,La Liga,Matchweek 27,Sat,Away,L,1,3,Real Madrid,0.9,1.8,25.0,55106,Sergio Mora,4-4-1-1,4-4-2,Mario Melero,Match Report,,2017-2018,Getafe
+2018-03-10,18:30,La Liga,Matchweek 28,Sat,Home,L,0,1,Levante,1.7,1.0,45.0,8136,Jorge Molina,4-4-2,4-2-3-1,Daniel Trujillo,Match Report,,2017-2018,Getafe
+2018-03-17,18:30,La Liga,Matchweek 29,Sat,Away,W,2,1,Real Sociedad,0.8,0.4,34.0,17509,Jorge Molina,4-4-2,4-3-3,Javier Estrada,Match Report,,2017-2018,Getafe
+2018-04-02,21:00,La Liga,Matchweek 30,Mon,Home,L,0,1,Betis,1.7,0.8,35.0,10628,Jorge Molina,4-4-2,3-5-1-1,Alberto Undiano,Match Report,,2017-2018,Getafe
+2018-04-07,13:00,La Liga,Matchweek 31,Sat,Away,L,0,2,Alavés,0.9,1.2,52.0,18241,Jorge Molina,4-4-2,4-4-2,Santiago Jaime,Match Report,,2017-2018,Getafe
+2018-04-15,18:30,La Liga,Matchweek 32,Sun,Home,W,1,0,Espanyol,0.7,0.6,39.0,10593,Bruno González,4-4-2,4-2-3-1,Mario Melero,Match Report,,2017-2018,Getafe
+2018-04-18,19:30,La Liga,Matchweek 33,Wed,Away,W,2,1,Valencia,0.6,1.1,37.0,35829,Jorge Molina,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2017-2018,Getafe
+2018-04-21,13:00,La Liga,Matchweek 34,Sat,Away,W,1,0,Eibar,0.6,0.7,35.0,4860,Sergio Mora,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2017-2018,Getafe
+2018-04-29,12:00,La Liga,Matchweek 35,Sun,Home,D,1,1,Girona,2.5,1.8,40.0,8011,Jorge Molina,4-4-2,5-3-2,Alejandro Hernández,Match Report,,2017-2018,Getafe
+2018-05-06,17:30,La Liga,Matchweek 36,Sun,Away,W,1,0,Las Palmas,1.3,1.6,32.0,4624,Francisco Portillo,4-4-2,4-2-3-1,Alberto Undiano,Match Report,,2017-2018,Getafe
+2018-05-12,18:30,La Liga,Matchweek 37,Sat,Home,L,0,1,Atlético Madrid,1.2,0.8,52.0,12187,Jorge Molina,4-4-2,4-1-2-1-2,Alberola Rojas,Match Report,,2017-2018,Getafe
+2018-05-19,18:30,La Liga,Matchweek 38,Sat,Away,W,1,0,Málaga,1.6,1.2,60.0,9570,Jorge Molina,4-4-2,4-4-2,Daniel Trujillo,Match Report,,2017-2018,Getafe

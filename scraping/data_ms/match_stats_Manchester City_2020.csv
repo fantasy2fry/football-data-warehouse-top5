@@ -1,0 +1,62 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-21,20:15,Premier League,Matchweek 2,Mon,Away,W,3,1,Wolves,1.9,0.6,65,,Fernandinho,4-2-3-1,5-3-2,Andre Marriner,Match Report,,2020-2021,Manchester City
+2020-09-24,19:45,EFL Cup,Third round,Thu,Home,W,2,1,Bournemouth,,,73,,Kyle Walker,4-2-3-1,3-5-1-1,Jonathan Moss,Match Report,,2020-2021,Manchester City
+2020-09-27,16:30,Premier League,Matchweek 3,Sun,Home,L,2,5,Leicester City,0.9,2.9,72,,Fernandinho,4-2-3-1,5-4-1,Michael Oliver,Match Report,,2020-2021,Manchester City
+2020-09-30,19:00,EFL Cup,Fourth round,Wed,Away,W,3,0,Burnley,,,62,,Fernandinho,4-1-4-1,4-4-2,Andy Madley,Match Report,,2020-2021,Manchester City
+2020-10-03,17:30,Premier League,Matchweek 4,Sat,Away,D,1,1,Leeds United,1.2,2.4,49,,Kevin De Bruyne,4-3-3,4-1-4-1,Mike Dean,Match Report,,2020-2021,Manchester City
+2020-10-17,17:30,Premier League,Matchweek 5,Sat,Home,W,1,0,Arsenal,1.3,0.9,58,,Raheem Sterling,3-1-4-2,4-3-3,Chris Kavanagh,Match Report,,2020-2021,Manchester City
+2020-10-21,20:00,Champions Lg,Group stage,Wed,Home,W,3,1,pt Porto,1.5,0.2,68,,Raheem Sterling,4-3-3,5-4-1,Andris Treimanis,Match Report,,2020-2021,Manchester City
+2020-10-24,12:30,Premier League,Matchweek 6,Sat,Away,D,1,1,West Ham,1.0,0.3,69,,Raheem Sterling,4-3-3,5-4-1,Anthony Taylor,Match Report,,2020-2021,Manchester City
+2020-10-27,21:00,Champions Lg,Group stage,Tue,Away,W,3,0,fr Marseille,1.9,0.1,64,,Kevin De Bruyne,4-3-3,5-3-2,Tobias Stieler,Match Report,,2020-2021,Manchester City
+2020-10-31,12:30,Premier League,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,1.6,0.5,65,,Kevin De Bruyne,4-3-3,5-3-2,Michael Oliver,Match Report,,2020-2021,Manchester City
+2020-11-03,20:00,Champions Lg,Group stage,Tue,Home,W,3,0,gr Olympiacos,1.7,0.6,58,,Kevin De Bruyne,4-3-3,4-3-3,Carlos del Cerro,Match Report,,2020-2021,Manchester City
+2020-11-08,16:30,Premier League,Matchweek 8,Sun,Home,D,1,1,Liverpool,1.4,1.2,54,,Kevin De Bruyne,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2020-2021,Manchester City
+2020-11-21,17:30,Premier League,Matchweek 9,Sat,Away,L,0,2,Tottenham,1.4,0.7,66,,Kevin De Bruyne,4-3-3,4-2-3-1,Mike Dean,Match Report,,2020-2021,Manchester City
+2020-11-25,19:55,Champions Lg,Group stage,Wed,Away,W,1,0,gr Olympiacos,2.4,0.1,59,,Raheem Sterling,4-2-3-1,5-4-1,Davide Massa,Match Report,,2020-2021,Manchester City
+2020-11-28,15:00,Premier League,Matchweek 10,Sat,Home,W,5,0,Burnley,1.7,0.5,68,,Kevin De Bruyne,4-2-3-1,4-4-1-1,Lee Mason,Match Report,,2020-2021,Manchester City
+2020-12-01,20:00,Champions Lg,Group stage,Tue,Away,D,0,0,pt Porto,2.5,0.1,68,,Fernandinho,4-2-3-1,5-3-2,Björn Kuipers,Match Report,,2020-2021,Manchester City
+2020-12-05,15:00,Premier League,Matchweek 11,Sat,Home,W,2,0,Fulham,2.9,0.3,69,,Kevin De Bruyne,4-2-3-1,3-4-1-2,Jonathan Moss,Match Report,,2020-2021,Manchester City
+2020-12-09,20:00,Champions Lg,Group stage,Wed,Home,W,3,0,fr Marseille,2.4,0.5,53,,Fernandinho,4-2-3-1,4-1-4-1,Halil Umut Meler,Match Report,,2020-2021,Manchester City
+2020-12-12,17:30,Premier League,Matchweek 12,Sat,Away,D,0,0,Manchester Utd,1.3,0.6,54,,Fernandinho,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2020-2021,Manchester City
+2020-12-15,20:00,Premier League,Matchweek 13,Tue,Home,D,1,1,West Brom,2.2,0.4,77,,Kevin De Bruyne,4-2-3-1,4-1-4-1,Peter Bankes,Match Report,,2020-2021,Manchester City
+2020-12-19,15:00,Premier League,Matchweek 14,Sat,Away,W,1,0,Southampton,0.9,0.7,52,,Kevin De Bruyne,4-2-3-1,4-4-2,Mike Dean,Match Report,,2020-2021,Manchester City
+2020-12-22,20:00,EFL Cup,Quarter-finals,Tue,Away,W,4,1,Arsenal,,,57,,Fernandinho,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,2020-2021,Manchester City
+2020-12-26,20:00,Premier League,Matchweek 15,Sat,Home,W,2,0,Newcastle Utd,3.0,0.3,74,,Kevin De Bruyne,3-4-3◆,5-4-1,Andre Marriner,Match Report,,2020-2021,Manchester City
+2021-01-03,16:30,Premier League,Matchweek 17,Sun,Away,W,3,1,Chelsea,2.7,0.8,46,,Kevin De Bruyne,4-3-3,4-3-3,Anthony Taylor,Match Report,,2020-2021,Manchester City
+2021-01-06,19:45,EFL Cup,Semi-finals,Wed,Away,W,2,0,Manchester Utd,,,60,,Fernandinho,3-5-2,4-3-1-2,Martin Atkinson,Match Report,,2020-2021,Manchester City
+2021-01-10,13:30,FA Cup,Third round proper,Sun,Home,W,3,0,Birmingham City,,,74,,Kevin De Bruyne,4-1-4-1,4-2-3-1,Robert Jones,Match Report,,2020-2021,Manchester City
+2021-01-13,18:00,Premier League,Matchweek 18,Wed,Home,W,1,0,Brighton,2.0,0.2,65,,Kevin De Bruyne,4-3-3,4-1-2-1-2,Darren England,Match Report,,2020-2021,Manchester City
+2021-01-17,19:15,Premier League,Matchweek 19,Sun,Home,W,4,0,Crystal Palace,0.7,0.1,71,,Fernandinho,4-3-3,4-1-4-1,Lee Mason,Match Report,,2020-2021,Manchester City
+2021-01-20,18:00,Premier League,Matchweek 1,Wed,Home,W,2,0,Aston Villa,3.4,0.6,69,,Kevin De Bruyne,4-3-3,4-2-3-1,Jonathan Moss,Match Report,,2020-2021,Manchester City
+2021-01-23,17:30,FA Cup,Fourth round proper,Sat,Away,W,3,1,Cheltenham,,,72,,Fernandinho,4-4-2,3-5-2,Stuart Attwell,Match Report,,2020-2021,Manchester City
+2021-01-26,20:15,Premier League,Matchweek 20,Tue,Away,W,5,0,West Brom,1.8,0.5,77,,Raheem Sterling,4-3-3,4-4-1-1,Chris Kavanagh,Match Report,,2020-2021,Manchester City
+2021-01-30,15:00,Premier League,Matchweek 21,Sat,Home,W,1,0,Sheffield Utd,1.5,0.2,75,,Fernandinho,4-3-3,5-3-2,David Coote,Match Report,,2020-2021,Manchester City
+2021-02-03,18:00,Premier League,Matchweek 22,Wed,Away,W,2,0,Burnley,2.0,0.1,74,,Raheem Sterling,4-3-3,4-4-2,Martin Atkinson,Match Report,,2020-2021,Manchester City
+2021-02-07,16:30,Premier League,Matchweek 23,Sun,Away,W,4,1,Liverpool,3.5,1.2,44,,Raheem Sterling,4-3-3,4-3-3,Michael Oliver,Match Report,,2020-2021,Manchester City
+2021-02-10,17:30,FA Cup,Fifth round proper,Wed,Away,W,3,1,Swansea City,,,74,,Raheem Sterling,4-3-3,3-4-1-2,Peter Bankes,Match Report,,2020-2021,Manchester City
+2021-02-13,17:30,Premier League,Matchweek 24,Sat,Home,W,3,0,Tottenham,2.2,0.3,60,,Raheem Sterling,4-3-3,4-2-3-1,Paul Tierney,Match Report,,2020-2021,Manchester City
+2021-02-17,20:15,Premier League,Matchweek 16,Wed,Away,W,3,1,Everton,1.0,1.0,71,,Raheem Sterling,4-3-3,4-4-1-1,Andre Marriner,Match Report,,2020-2021,Manchester City
+2021-02-21,16:30,Premier League,Matchweek 25,Sun,Away,W,1,0,Arsenal,1.8,0.3,55,,Fernandinho,4-3-3,4-2-3-1,Jonathan Moss,Match Report,,2020-2021,Manchester City
+2021-02-24,21:00,Champions Lg,Round of 16,Wed,Neutral,W,2,0,de Gladbach,1.6,0.4,60,,Raheem Sterling,4-2-3-1,4-3-3,Artur Soares Dias,Match Report,Leg 1 of 2,2020-2021,Manchester City
+2021-02-27,12:30,Premier League,Matchweek 26,Sat,Home,W,2,1,West Ham,0.5,1.5,63,,Fernandinho,4-3-3,3-4-3,Michael Oliver,Match Report,,2020-2021,Manchester City
+2021-03-02,20:00,Premier League,Matchweek 29,Tue,Home,W,4,1,Wolves,3.3,0.3,72,,Kevin De Bruyne,4-3-3,3-4-3,Chris Kavanagh,Match Report,,2020-2021,Manchester City
+2021-03-07,16:30,Premier League,Matchweek 27,Sun,Home,L,0,2,Manchester Utd,1.3,1.7,66,,Kevin De Bruyne,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,2020-2021,Manchester City
+2021-03-10,18:00,Premier League,Matchweek 33,Wed,Home,W,5,2,Southampton,2.6,1.6,58,,Fernandinho,4-3-3,4-4-2,Jonathan Moss,Match Report,,2020-2021,Manchester City
+2021-03-13,20:00,Premier League,Matchweek 28,Sat,Away,W,3,0,Fulham,2.2,0.3,54,,Sergio Agüero,3-4-3,4-3-3,Andre Marriner,Match Report,,2020-2021,Manchester City
+2021-03-16,20:00,Champions Lg,Round of 16,Tue,Neutral,W,2,0,de Gladbach,1.4,0.3,67,,Kevin De Bruyne,4-2-3-1,4-2-3-1,Sergey Karasev,Match Report,Leg 2 of 2; Manchester City won,2020-2021,Manchester City
+2021-03-20,17:30,FA Cup,Quarter-finals,Sat,Away,W,2,0,Everton,,,74,,Fernandinho,4-3-3,5-3-2,Michael Oliver,Match Report,,2020-2021,Manchester City
+2021-04-03,17:30,Premier League,Matchweek 30,Sat,Away,W,2,0,Leicester City,1.4,0.3,56,,Fernandinho,4-2-3-1,3-5-2,Anthony Taylor,Match Report,,2020-2021,Manchester City
+2021-04-06,20:00,Champions Lg,Quarter-finals,Tue,Home,W,2,1,de Dortmund,2.1,1.1,61,,Kevin De Bruyne,4-2-3-1,4-3-3,Ovidiu Hațegan,Match Report,Leg 1 of 2,2020-2021,Manchester City
+2021-04-10,12:30,Premier League,Matchweek 31,Sat,Home,L,1,2,Leeds United,2.1,0.1,71,,Fernandinho,4-3-3,4-1-4-1,Andre Marriner,Match Report,,2020-2021,Manchester City
+2021-04-14,21:00,Champions Lg,Quarter-finals,Wed,Away,W,2,1,de Dortmund,2.5,0.5,61,,Kevin De Bruyne,4-3-3,4-3-3,Carlos del Cerro,Match Report,Leg 2 of 2; Manchester City won,2020-2021,Manchester City
+2021-04-17,17:30,FA Cup,Semi-finals,Sat,Away,L,0,1,Chelsea,,,55,,Fernandinho,4-2-3-1,3-4-3,Mike Dean,Match Report,,2020-2021,Manchester City
+2021-04-21,20:15,Premier League,Matchweek 32,Wed,Away,W,2,1,Aston Villa,1.2,0.7,72,,İlkay Gündoğan,4-3-3,4-1-4-1,Peter Bankes,Match Report,,2020-2021,Manchester City
+2021-04-25,16:30,EFL Cup,Final,Sun,Home,W,1,0,Tottenham,,,62,7773.0,Fernandinho,4-2-3-1,4-3-3,Paul Tierney,Match Report,,2020-2021,Manchester City
+2021-04-28,21:00,Champions Lg,Semi-finals,Wed,Away,W,2,1,fr Paris S-G,0.8,1.0,59,,Kevin De Bruyne,4-3-3,4-2-3-1,Felix Brych,Match Report,Leg 1 of 2,2020-2021,Manchester City
+2021-05-01,12:30,Premier League,Matchweek 34,Sat,Away,W,2,0,Crystal Palace,1.7,0.9,68,,Fernandinho,4-4-1-1,4-3-3,David Coote,Match Report,,2020-2021,Manchester City
+2021-05-04,20:00,Champions Lg,Semi-finals,Tue,Home,W,2,0,fr Paris S-G,1.4,0.8,44,,Fernandinho,4-4-2,4-3-3,Björn Kuipers,Match Report,Leg 2 of 2; Manchester City won,2020-2021,Manchester City
+2021-05-08,17:30,Premier League,Matchweek 35,Sat,Home,L,1,2,Chelsea,1.8,0.7,48,,Raheem Sterling,3-1-4-2,3-4-3,Anthony Taylor,Match Report,,2020-2021,Manchester City
+2021-05-14,20:00,Premier League,Matchweek 36,Fri,Away,W,4,3,Newcastle Utd,1.5,2.2,82,,Raheem Sterling,4-3-3,5-3-2,Kevin Friend,Match Report,,2020-2021,Manchester City
+2021-05-18,19:00,Premier League,Matchweek 37,Tue,Away,L,2,3,Brighton,0.9,1.1,37,7945.0,İlkay Gündoğan,4-3-3,3-5-2,Stuart Attwell,Match Report,,2020-2021,Manchester City
+2021-05-23,16:00,Premier League,Matchweek 38,Sun,Home,W,5,0,Everton,2.5,1.1,67,10000.0,Fernandinho,4-3-3,4-3-1-2,Michael Oliver,Match Report,,2020-2021,Manchester City
+2021-05-29,22:00,Champions Lg,Final,Sat,Neutral,L,0,1,eng Chelsea,0.5,1.4,60,14110.0,Kevin De Bruyne,4-3-3,3-4-3,Antonio Matéu Lahoz,Match Report,,2020-2021,Manchester City

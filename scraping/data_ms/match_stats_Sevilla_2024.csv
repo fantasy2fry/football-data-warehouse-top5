@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-16,20:30,La Liga,Matchweek 1,Fri,Away,D,2,2,Las Palmas,1.8,1.4,52.0,24843,Lucas Ocampos,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Sevilla
+2024-08-23,21:30,La Liga,Matchweek 2,Fri,Home,L,1,2,Villarreal,1.0,0.9,59.0,34004,Lucas Ocampos,4-3-3,4-4-2,,Match Report,,2024-2025,Sevilla
+2024-08-27,19:00,La Liga,Matchweek 3,Tue,Away,D,0,0,Mallorca,0.7,0.9,55.0,20470,Nemanja Gudelj,4-3-3,4-3-3,,Match Report,,2024-2025,Sevilla
+2024-09-01,19:00,La Liga,Matchweek 4,Sun,Home,L,0,2,Girona,0.9,1.9,50.0,35735,Marcão,4-2-3-1,4-3-3,José Sánchez,Match Report,,2024-2025,Sevilla
+2024-09-14,18:30,La Liga,Matchweek 5,Sat,Home,W,1,0,Getafe,1.4,1.0,60.0,32643,Jesús Navas,3-4-3,4-4-2,Mateo Busquets,Match Report,,2024-2025,Sevilla
+2024-09-20,21:00,La Liga,Matchweek 6,Fri,Away,L,1,2,Alavés,0.5,1.1,65.0,16538,Saúl Ñíguez,4-3-3,4-2-3-1,Javier Alberola,Match Report,,2024-2025,Sevilla
+2024-09-24,19:00,La Liga,Matchweek 7,Tue,Home,W,2,1,Valladolid,2.1,0.7,54.0,35292,Jesús Navas,4-2-3-1,4-3-3,Juan Pulido,Match Report,,2024-2025,Sevilla
+2024-09-29,16:15,La Liga,Matchweek 8,Sun,Away,D,1,1,Athletic Club,1.1,2.0,61.0,48288,Nemanja Gudelj,4-2-3-1,4-2-3-1,César Soto,Match Report,,2024-2025,Sevilla
+2024-10-06,18:30,La Liga,Matchweek 9,Sun,Home,W,1,0,Betis,1.4,0.6,51.0,42571,Nemanja Gudelj,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,2024-2025,Sevilla
+2024-10-20,21:00,La Liga,Matchweek 10,Sun,Away,L,1,5,Barcelona,1.0,3.8,33.0,47848,Nemanja Gudelj,4-2-3-1,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Sevilla
+2024-10-25,21:00,La Liga,Matchweek 11,Fri,Away,W,2,0,Espanyol,0.8,1.2,57.0,23656,Nemanja Gudelj,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Sevilla
+2024-10-30,19:00,Copa del Rey,First round,Wed,Away,W,3,0,Las Rozas CF,,,,968,Marcão,4-2-3-1,4-4-2,Pablo González,Match Report,,2024-2025,Sevilla
+2024-11-03,18:30,La Liga,Matchweek 12,Sun,Home,L,0,2,Real Sociedad,1.1,1.4,55.0,37619,Nemanja Gudelj,4-2-3-1,4-1-4-1,Alejandro Muñíz,Match Report,,2024-2025,Sevilla
+2024-11-09,21:00,La Liga,Matchweek 13,Sat,Away,L,0,1,Leganés,0.6,1.1,57.0,11167,Nemanja Gudelj,4-3-3,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Sevilla
+2024-11-24,16:15,La Liga,Matchweek 14,Sun,Home,W,1,0,Rayo Vallecano,1.1,0.8,53.0,35125,Nemanja Gudelj,4-2-3-1,4-3-3,Mateo Busquets,Match Report,,2024-2025,Sevilla
+2024-12-02,21:00,La Liga,Matchweek 15,Mon,Home,D,1,1,Osasuna,1.3,0.7,64.0,31536,Nemanja Gudelj,4-3-3,4-3-3,Juan Martínez,Match Report,,2024-2025,Sevilla
+2024-12-05,21:00,Copa del Rey,Second round,Thu,Away,W,3,1,UE Olot,,,58.0,2300,Jesús Navas,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Sevilla
+2024-12-08,21:00,La Liga,Matchweek 16,Sun,Away,L,3,4,Atlético Madrid,0.4,2.0,43.0,60065,Nemanja Gudelj,4-3-3,4-4-2,Javier Alberola,Match Report,,2024-2025,Sevilla
+2024-12-14,18:30,La Liga,Matchweek 17,Sat,Home,W,1,0,Celta Vigo,0.7,1.2,45.0,37295,Jesús Navas,4-3-3,3-4-3,Jesús Gil,Match Report,,2024-2025,Sevilla
+2024-12-22,16:15,La Liga,Matchweek 18,Sun,Away,L,2,4,Real Madrid,1.3,2.0,41.0,75227,Nemanja Gudelj,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2024-2025,Sevilla
+2025-01-04,17:30,Copa del Rey,Round of 32,Sat,Away,L,1,4,Almería,,,52.0,15067,Saúl Ñíguez,4-3-3,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Sevilla
+2025-01-11,21:00,La Liga,Matchweek 19,Sat,Home,D,1,1,Valencia,0.5,0.7,54.0,34297,Nemanja Gudelj,4-2-3-1,4-2-3-1,Francisco Hernández,Match Report,,2024-2025,Sevilla
+2025-01-18,14:00,La Liga,Matchweek 20,Sat,Away,W,2,1,Girona,2.6,1.0,40.0,12040,Nemanja Gudelj,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,2024-2025,Sevilla
+2025-01-25,18:30,La Liga,Matchweek 21,Sat,Home,D,1,1,Espanyol,1.2,0.7,74.0,33602,Nemanja Gudelj,4-3-3,4-4-2,Adrián Cordero,Match Report,,2024-2025,Sevilla
+2025-02-01,14:00,La Liga,Matchweek 22,Sat,Away,D,0,0,Getafe,0.9,1.0,55.0,11730,Nemanja Gudelj,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,2024-2025,Sevilla
+2025-02-09,21:00,La Liga,Matchweek 23,Sun,Home,L,1,4,Barcelona,0.7,1.9,40.0,38592,Nemanja Gudelj,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Sevilla
+2025-02-16,16:15,La Liga,Matchweek 24,Sun,Away,W,4,0,Valladolid,1.1,0.5,48.0,22123,Nemanja Gudelj,4-3-3,4-1-4-1,Javier Alberola,Match Report,,2024-2025,Sevilla
+2025-02-24,21:00,La Liga,Matchweek 25,Mon,Home,D,1,1,Mallorca,1.3,2.3,53.0,35424,Saúl Ñíguez,4-2-3-1,5-4-1,Alejandro Muñíz,Match Report,,2024-2025,Sevilla
+2025-03-01,16:15,La Liga,Matchweek 26,Sat,Away,D,1,1,Rayo Vallecano,0.6,2.8,36.0,11947,Saúl Ñíguez,4-2-3-1,4-2-3-1,Pablo González,Match Report,,2024-2025,Sevilla
+2025-03-09,21:00,La Liga,Matchweek 27,Sun,Away,W,1,0,Real Sociedad,0.6,0.7,39.0,25478,Saúl Ñíguez,4-2-3-1,4-1-4-1,Víctor García,Match Report,,2024-2025,Sevilla
+2025-03-16,16:15,La Liga,Matchweek 28,Sun,Home,L,0,1,Athletic Club,0.5,1.3,61.0,37016,Saúl Ñíguez,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Sevilla
+2025-03-30,21:00,La Liga,Matchweek 29,Sun,Away,L,1,2,Betis,0.7,1.1,45.0,58538,Nemanja Gudelj,4-1-4-1,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Sevilla
+2025-04-06,16:15,La Liga,Matchweek 30,Sun,Home,L,1,2,Atlético Madrid,0.9,1.3,44.0,34505,Loïc Bade,4-3-3,4-4-2,César Soto,Match Report,,2024-2025,Sevilla
+2025-04-11,21:00,La Liga,Matchweek 31,Fri,Away,L,0,1,Valencia,0.8,1.3,49.0,45618,Nemanja Gudelj,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,2024-2025,Sevilla
+2025-04-20,18:30,La Liga,Matchweek 32,Sun,Home,D,1,1,Alavés,1.6,1.0,44.0,36436,Nemanja Gudelj,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Sevilla
+2025-04-24,19:00,La Liga,Matchweek 33,Thu,Away,L,0,1,Osasuna,1.1,0.3,42.0,20555,Saúl Ñíguez,4-2-3-1,5-3-2,Adrián Cordero,Match Report,,2024-2025,Sevilla
+2025-05-04,16:15,La Liga,Matchweek 34,Sun,Home,D,2,2,Leganés,2.7,0.6,56.0,35495,Suso,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2024-2025,Sevilla
+2025-05-10,16:15,La Liga,Matchweek 35,Sat,Away,L,2,3,Celta Vigo,2.3,0.9,51.0,20281,Nemanja Gudelj,4-4-2,4-1-4-1,Pablo González,Match Report,,2024-2025,Sevilla
+2025-05-13,21:30,La Liga,Matchweek 36,Tue,Home,W,1,0,Las Palmas,1.3,0.5,44.0,37078,Suso,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2024-2025,Sevilla
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Home,L,0,2,Real Madrid,0.5,2.0,37.0,32500,Nemanja Gudelj,4-4-2,4-4-2,Mateo Busquets,Match Report,,2024-2025,Sevilla
+2025-05-25,16:15,La Liga,Matchweek 38,Sun,Away,L,2,4,Villarreal,1.5,1.1,49.0,17758,Nemanja Gudelj,4-2-3-1,4-4-2,Javier Alberola,Match Report,,2024-2025,Sevilla

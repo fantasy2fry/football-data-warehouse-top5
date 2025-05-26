@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,21:30,La Liga,Matchweek 1,Mon,Away,D,2,2,Villarreal,1.1,0.8,56,21566,Koke,3-4-3,4-4-2,,Match Report,,2024-2025,Atletico Madrid
+2024-08-25,21:30,La Liga,Matchweek 2,Sun,Home,W,3,0,Girona,1.2,0.7,43,60414,Jan Oblak,5-3-2,4-3-3,,Match Report,,2024-2025,Atletico Madrid
+2024-08-28,21:30,La Liga,Matchweek 3,Wed,Home,D,0,0,Espanyol,2.3,0.6,63,56669,Koke,5-3-2,5-3-2,,Match Report,,2024-2025,Atletico Madrid
+2024-08-31,19:00,La Liga,Matchweek 4,Sat,Away,W,1,0,Athletic Club,1.7,0.3,47,48617,Koke,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Atletico Madrid
+2024-09-15,21:00,La Liga,Matchweek 5,Sun,Home,W,3,0,Valencia,3.1,0.1,53,61752,Koke,5-3-2,4-4-2,César Soto,Match Report,,2024-2025,Atletico Madrid
+2024-09-19,21:00,Champions Lg,League phase,Thu,Home,W,2,1,de RB Leipzig,1.7,0.7,52,57856,Koke,3-4-3,4-4-2,Ivan Kružliak,Match Report,,2024-2025,Atletico Madrid
+2024-09-22,21:00,La Liga,Matchweek 6,Sun,Away,D,1,1,Rayo Vallecano,0.5,1.7,46,13646,Koke,5-3-2,4-2-3-1,Mario Melero,Match Report,,2024-2025,Atletico Madrid
+2024-09-26,21:00,La Liga,Matchweek 7,Thu,Away,W,1,0,Celta Vigo,0.6,1.5,42,21533,Koke,4-4-2,3-4-3,Víctor García,Match Report,,2024-2025,Atletico Madrid
+2024-09-29,21:00,La Liga,Matchweek 8,Sun,Home,D,1,1,Real Madrid,1.3,0.8,51,70112,Jan Oblak,4-4-2,4-4-2,Mateo Busquets,Match Report,,2024-2025,Atletico Madrid
+2024-10-02,20:00,Champions Lg,League phase,Wed,Away,L,0,4,pt Benfica,0.2,4.4,47,62028,Koke,3-4-3,4-3-3,Serdar Gözübüyük,Match Report,,2024-2025,Atletico Madrid
+2024-10-06,21:00,La Liga,Matchweek 9,Sun,Away,D,1,1,Real Sociedad,0.5,1.0,34,31983,Koke,5-4-1,4-1-4-1,Isidro Díaz de Mera,Match Report,,2024-2025,Atletico Madrid
+2024-10-20,16:15,La Liga,Matchweek 10,Sun,Home,W,3,1,Leganés,4.4,0.3,63,60122,Koke,4-1-2-1-2◆,4-4-1-1,José Luis Munuera,Match Report,,2024-2025,Atletico Madrid
+2024-10-23,21:00,Champions Lg,League phase,Wed,Home,L,1,3,fr Lille,2.3,1.3,61,61197,Koke,4-3-3,3-4-3,Marco Guida,Match Report,,2024-2025,Atletico Madrid
+2024-10-27,18:30,La Liga,Matchweek 11,Sun,Away,L,0,1,Betis,0.5,1.9,58,52621,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,2024-2025,Atletico Madrid
+2024-10-31,19:00,Copa del Rey,First round,Thu,Away,W,2,0,UE Vic,,,82,6300,Ángel Correa,3-4-3,4-3-3,Guillermo Cuadra,Match Report,,2024-2025,Atletico Madrid
+2024-11-03,14:00,La Liga,Matchweek 12,Sun,Home,W,2,0,Las Palmas,1.6,0.0,57,56610,Koke,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,2024-2025,Atletico Madrid
+2024-11-06,21:00,Champions Lg,League phase,Wed,Away,W,2,1,fr Paris S-G,0.7,2.1,29,47369,Jan Oblak,4-4-2,4-3-3,Szymon Marciniak,Match Report,,2024-2025,Atletico Madrid
+2024-11-10,16:15,La Liga,Matchweek 13,Sun,Away,W,1,0,Mallorca,0.6,0.6,47,19500,Koke,4-4-1-1,4-4-2,Jose Maria Sánchez,Match Report,,2024-2025,Atletico Madrid
+2024-11-23,16:15,La Liga,Matchweek 14,Sat,Home,W,2,1,Alavés,1.6,0.9,70,58910,Koke,4-4-2,4-2-3-1,Víctor García,Match Report,,2024-2025,Atletico Madrid
+2024-11-26,18:45,Champions Lg,League phase,Tue,Away,W,6,0,cz Sparta Prague,3.1,0.2,60,18110,Jan Oblak,4-4-2,3-4-3,Danny Makkelie,Match Report,,2024-2025,Atletico Madrid
+2024-11-30,21:00,La Liga,Matchweek 15,Sat,Away,W,5,0,Valladolid,4.0,0.6,55,23482,Jan Oblak,4-4-2,5-4-1,Guillermo Cuadra,Match Report,,2024-2025,Atletico Madrid
+2024-12-05,19:00,Copa del Rey,Second round,Thu,Away,W,3,1,Cacereño,,,71,9384,Koke,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2024-2025,Atletico Madrid
+2024-12-08,21:00,La Liga,Matchweek 16,Sun,Home,W,4,3,Sevilla,2.0,0.4,57,60065,Jan Oblak,4-4-2,4-3-3,Javier Alberola,Match Report,,2024-2025,Atletico Madrid
+2024-12-11,18:45,Champions Lg,League phase,Wed,Home,W,3,1,sk Slovan Bratislava,2.0,1.0,59,59134,Jan Oblak,4-4-2,3-4-3,Manfredas Lukjančukas,Match Report,,2024-2025,Atletico Madrid
+2024-12-15,14:00,La Liga,Matchweek 17,Sun,Home,W,1,0,Getafe,1.7,0.2,57,60169,Jan Oblak,4-4-2,4-5-1,César Soto,Match Report,,2024-2025,Atletico Madrid
+2024-12-21,21:00,La Liga,Matchweek 18,Sat,Away,W,2,1,Barcelona,0.7,2.7,38,46249,Jan Oblak,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Atletico Madrid
+2025-01-04,21:30,Copa del Rey,Round of 32,Sat,Away,W,1,0,Marbella,,,60,30044,Antoine Griezmann,4-4-2,4-4-2,Alejandro Muñíz,Match Report,,2024-2025,Atletico Madrid
+2025-01-12,16:15,La Liga,Matchweek 19,Sun,Home,W,1,0,Osasuna,2.5,0.3,50,64801,Jan Oblak,4-4-2,5-3-2,Isidro Díaz de Mera,Match Report,,2024-2025,Atletico Madrid
+2025-01-15,21:30,Copa del Rey,Round of 16,Wed,Away,W,4,0,Elche,,,47,26405,Koke,5-4-1,4-3-3,Guillermo Cuadra,Match Report,,2024-2025,Atletico Madrid
+2025-01-18,16:15,La Liga,Matchweek 20,Sat,Away,L,0,1,Leganés,2.4,0.5,67,12371,Jan Oblak,4-4-2,5-4-1,Mario Melero,Match Report,,2024-2025,Atletico Madrid
+2025-01-21,21:00,Champions Lg,League phase,Tue,Home,W,2,1,de Leverkusen,0.8,0.8,30,66820,Jan Oblak,5-4-1,4-2-3-1,Davide Massa,Match Report,,2024-2025,Atletico Madrid
+2025-01-25,16:15,La Liga,Matchweek 21,Sat,Home,D,1,1,Villarreal,1.7,2.2,59,63596,Koke,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,,2024-2025,Atletico Madrid
+2025-01-29,21:00,Champions Lg,League phase,Wed,Away,W,4,1,at RB Salzburg,2.1,0.6,50,23389,Koke,4-4-2,4-4-2,Anthony Taylor,Match Report,,2024-2025,Atletico Madrid
+2025-02-01,18:30,La Liga,Matchweek 22,Sat,Home,W,2,0,Mallorca,1.3,0.5,53,60710,Koke,4-4-2,5-3-2,Víctor García,Match Report,,2024-2025,Atletico Madrid
+2025-02-04,21:30,Copa del Rey,Quarter-finals,Tue,Home,W,5,0,Getafe,,,49,60000,Koke,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Atletico Madrid
+2025-02-08,21:00,La Liga,Matchweek 23,Sat,Away,D,1,1,Real Madrid,1.5,1.6,40,78082,Jan Oblak,4-4-2,4-2-3-1,César Soto,Match Report,,2024-2025,Atletico Madrid
+2025-02-15,18:30,La Liga,Matchweek 24,Sat,Home,D,1,1,Celta Vigo,0.6,1.7,34,64211,Jan Oblak,4-4-2,3-4-3,Juan Martínez,Match Report,,2024-2025,Atletico Madrid
+2025-02-22,18:30,La Liga,Matchweek 25,Sat,Away,W,3,0,Valencia,1.3,0.8,51,46297,Jan Oblak,4-4-2,3-4-3,Mateo Busquets,Match Report,,2024-2025,Atletico Madrid
+2025-02-25,21:30,Copa del Rey,Semi-finals,Tue,Away,D,4,4,Barcelona,,,33,40915,José María Giménez,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,Leg 1 of 2,2024-2025,Atletico Madrid
+2025-03-01,21:00,La Liga,Matchweek 26,Sat,Home,W,1,0,Athletic Club,2.2,1.1,50,63810,Jan Oblak,4-4-2,4-2-3-1,Jesús Gil,Match Report,,2024-2025,Atletico Madrid
+2025-03-04,21:00,Champions Lg,Round of 16,Tue,Away,L,1,2,es Real Madrid,0.2,0.7,48,77261,Jan Oblak,4-4-2,4-4-2,Clément Turpin,Match Report,Leg 1 of 2,2024-2025,Atletico Madrid
+2025-03-09,14:00,La Liga,Matchweek 27,Sun,Away,L,1,2,Getafe,0.9,1.2,61,12862,Jan Oblak,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,2024-2025,Atletico Madrid
+2025-03-12,21:00,Champions Lg,Round of 16,Wed,Home,W,1 (2),0 (4),es Real Madrid,1.4,1.1,38,69304,Jan Oblak,4-4-2,4-4-2,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won; Real Madrid won on penalty kicks following extra time,2024-2025,Atletico Madrid
+2025-03-16,21:00,La Liga,Matchweek 28,Sun,Home,L,2,4,Barcelona,1.4,1.3,35,67602,Jan Oblak,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Atletico Madrid
+2025-03-29,16:15,La Liga,Matchweek 29,Sat,Away,D,1,1,Espanyol,0.8,1.0,61,30559,Jan Oblak,4-4-2,4-2-3-1,Javier Alberola,Match Report,,2024-2025,Atletico Madrid
+2025-04-02,21:30,Copa del Rey,Semi-finals,Wed,Home,L,0,1,Barcelona,,,43,69014,José María Giménez,5-3-2,4-2-3-1,José Luis Munuera,Match Report,Leg 2 of 2; Barcelona won,2024-2025,Atletico Madrid
+2025-04-06,16:15,La Liga,Matchweek 30,Sun,Away,W,2,1,Sevilla,1.3,0.9,56,34505,Jan Oblak,4-4-2,4-3-3,César Soto,Match Report,,2024-2025,Atletico Madrid
+2025-04-14,21:00,La Liga,Matchweek 31,Mon,Home,W,4,2,Valladolid,3.4,1.2,54,55936,Koke,4-4-2,4-1-4-1,Isidro Díaz de Mera,Match Report,,2024-2025,Atletico Madrid
+2025-04-19,20:00,La Liga,Matchweek 32,Sat,Away,L,0,1,Las Palmas,0.8,0.6,59,27154,Koke,4-4-2,4-4-2,Víctor García,Match Report,,2024-2025,Atletico Madrid
+2025-04-24,21:30,La Liga,Matchweek 33,Thu,Home,W,3,0,Rayo Vallecano,2.3,0.7,42,49410,Jan Oblak,4-4-2,4-2-3-1,Pablo González,Match Report,,2024-2025,Atletico Madrid
+2025-05-03,14:00,La Liga,Matchweek 34,Sat,Away,D,0,0,Alavés,0.5,0.5,64,18117,Jan Oblak,4-4-2,4-2-3-1,Juan Martínez,Match Report,,2024-2025,Atletico Madrid
+2025-05-10,21:00,La Liga,Matchweek 35,Sat,Home,W,4,0,Real Sociedad,1.4,0.6,60,59612,Koke,4-3-3,4-1-4-1,Jose Maria Sánchez,Match Report,,2024-2025,Atletico Madrid
+2025-05-15,19:00,La Liga,Matchweek 36,Thu,Away,L,0,2,Osasuna,1.4,0.6,65,21171,Koke,4-4-2,4-2-3-1,Mario Melero,Match Report,,2024-2025,Atletico Madrid
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Home,W,4,1,Betis,4.8,0.9,45,62269,Koke,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2024-2025,Atletico Madrid
+2025-05-25,14:00,La Liga,Matchweek 38,Sun,Away,W,4,0,Girona,2.7,0.0,56,11546,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,2024-2025,Atletico Madrid

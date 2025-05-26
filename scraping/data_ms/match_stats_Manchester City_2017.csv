@@ -1,0 +1,58 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,17:30,Premier League,Matchweek 1,Sat,Away,W,2,0,Brighton,1.9,0.3,77,30415,Vincent Kompany,3-1-4-2,4-4-2,Michael Oliver,Match Report,,2017-2018,Manchester City
+2017-08-21,20:00,Premier League,Matchweek 2,Mon,Home,D,1,1,Everton,1.1,0.6,64,49108,Vincent Kompany,3-1-4-2,3-5-2,Robert Madley,Match Report,,2017-2018,Manchester City
+2017-08-26,12:30,Premier League,Matchweek 3,Sat,Away,W,2,1,Bournemouth,1.4,0.5,70,10419,Vincent Kompany,4-3-3,5-3-2,Mike Dean,Match Report,,2017-2018,Manchester City
+2017-09-09,12:30,Premier League,Matchweek 4,Sat,Home,W,5,0,Liverpool,2.4,0.7,66,54172,David Silva,3-1-4-2,4-3-3,Jonathan Moss,Match Report,,2017-2018,Manchester City
+2017-09-13,20:45,Champions Lg,Group stage,Wed,Away,W,4,0,nl Feyenoord,1.3,0.3,71,43500,David Silva,4-3-3,3-4-3,Szymon Marciniak,Match Report,,2017-2018,Manchester City
+2017-09-16,15:00,Premier League,Matchweek 5,Sat,Away,W,6,0,Watford,3.3,0.5,67,20305,David Silva,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2017-2018,Manchester City
+2017-09-20,20:00,EFL Cup,Third round,Wed,Away,W,2,1,West Brom,,,66,14953,Yaya Touré,4-2-3-1,5-3-2,Mike Jones,Match Report,,2017-2018,Manchester City
+2017-09-23,15:00,Premier League,Matchweek 6,Sat,Home,W,5,0,Crystal Palace,4.5,0.6,71,53526,David Silva,4-3-3,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Manchester City
+2017-09-26,19:45,Champions Lg,Group stage,Tue,Home,W,2,0,ua Shakhtar,3.2,0.5,56,45310,David Silva,4-3-3,4-2-3-1,Jorge de Sousa,Match Report,,2017-2018,Manchester City
+2017-09-30,17:30,Premier League,Matchweek 7,Sat,Away,W,1,0,Chelsea,0.9,0.5,61,41530,David Silva,4-3-3,3-5-1-1,Martin Atkinson,Match Report,,2017-2018,Manchester City
+2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,W,7,2,Stoke City,3.8,0.5,79,54128,David Silva,4-3-3,4-4-1-1,Craig Pawson,Match Report,,2017-2018,Manchester City
+2017-10-17,19:45,Champions Lg,Group stage,Tue,Home,W,2,1,it Napoli,2.7,2.2,53,48520,David Silva,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2017-2018,Manchester City
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,3,0,Burnley,3.1,0.2,77,54118,David Silva,4-3-3,4-4-1-1,Roger East,Match Report,,2017-2018,Manchester City
+2017-10-24,20:00,EFL Cup,Fourth round,Tue,Home,D,0 (4),0 (1),Wolves,,,73,50755,Sergio Agüero,3-4-3,3-4-3,Kevin Friend,Match Report,Manchester City won on penalty kicks following extra time,2017-2018,Manchester City
+2017-10-28,15:00,Premier League,Matchweek 10,Sat,Away,W,3,2,West Brom,2.3,1.5,77,24003,David Silva,4-3-3,3-5-2,Mike Jones,Match Report,,2017-2018,Manchester City
+2017-11-01,20:45,Champions Lg,Group stage,Wed,Away,W,4,2,it Napoli,1.4,2.1,51,44483,Fernandinho,4-3-3,4-3-3,Felix Brych,Match Report,,2017-2018,Manchester City
+2017-11-05,14:15,Premier League,Matchweek 11,Sun,Home,W,3,1,Arsenal,1.8,0.3,57,54286,David Silva,4-3-3,3-4-3,Michael Oliver,Match Report,,2017-2018,Manchester City
+2017-11-18,15:00,Premier League,Matchweek 12,Sat,Away,W,2,0,Leicester City,1.9,0.2,73,31908,Vincent Kompany,4-3-3,4-4-1-1,Graham Scott,Match Report,,2017-2018,Manchester City
+2017-11-21,19:45,Champions Lg,Group stage,Tue,Home,W,1,0,nl Feyenoord,1.3,0.3,75,43548,Sergio Agüero,4-3-3,4-3-3,Ivan Kružliak,Match Report,,2017-2018,Manchester City
+2017-11-26,16:00,Premier League,Matchweek 13,Sun,Away,W,2,1,Huddersfield,2.6,0.6,78,24121,Vincent Kompany,4-3-3,4-5-1,Craig Pawson,Match Report,,2017-2018,Manchester City
+2017-11-29,20:00,Premier League,Matchweek 14,Wed,Home,W,2,1,Southampton,1.4,1.3,74,53407,Vincent Kompany,4-3-3,5-4-1,Paul Tierney,Match Report,,2017-2018,Manchester City
+2017-12-03,16:00,Premier League,Matchweek 15,Sun,Home,W,2,1,West Ham,2.3,0.6,76,54203,David Silva,4-3-3,3-5-1-1,Mike Dean,Match Report,,2017-2018,Manchester City
+2017-12-06,21:45,Champions Lg,Group stage,Wed,Away,L,1,2,ua Shakhtar,1.7,1.7,67,33154,Fernandinho,3-4-3,4-2-3-1,Benoît Bastien,Match Report,,2017-2018,Manchester City
+2017-12-10,16:30,Premier League,Matchweek 16,Sun,Away,W,2,1,Manchester Utd,1.7,1.4,64,74847,Vincent Kompany,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Manchester City
+2017-12-13,19:45,Premier League,Matchweek 17,Wed,Away,W,4,0,Swansea City,2.7,0.6,78,20870,David Silva,4-3-3,4-5-1,Anthony Taylor,Match Report,,2017-2018,Manchester City
+2017-12-16,17:30,Premier League,Matchweek 18,Sat,Home,W,4,1,Tottenham,3.4,0.2,52,54214,Fernandinho,4-3-3,4-1-2-1-2,Craig Pawson,Match Report,,2017-2018,Manchester City
+2017-12-19,19:45,EFL Cup,Quarter-finals,Tue,Away,D,1 (4),1 (3),Leicester City,,,60,31562,Yaya Touré,4-3-3,4-4-1-1,Robert Madley,Match Report,Manchester City won on penalty kicks following extra time,2017-2018,Manchester City
+2017-12-23,15:00,Premier League,Matchweek 19,Sat,Home,W,4,0,Bournemouth,1.5,0.4,78,54270,Vincent Kompany,4-3-3,3-4-3,Mike Jones,Match Report,,2017-2018,Manchester City
+2017-12-27,19:45,Premier League,Matchweek 20,Wed,Away,W,1,0,Newcastle Utd,1.8,0.2,77,52311,Vincent Kompany,4-3-3,5-4-1,Andre Marriner,Match Report,,2017-2018,Manchester City
+2017-12-31,12:00,Premier League,Matchweek 21,Sun,Away,D,0,0,Crystal Palace,1.3,1.3,74,25804,Fernandinho,4-3-3,4-3-3,Jonathan Moss,Match Report,,2017-2018,Manchester City
+2018-01-02,20:00,Premier League,Matchweek 22,Tue,Home,W,3,1,Watford,2.1,1.0,76,53556,David Silva,4-3-3,4-2-3-1,Lee Mason,Match Report,,2017-2018,Manchester City
+2018-01-06,15:00,FA Cup,Third round,Sat,Home,W,4,1,Burnley,,,77,53356,David Silva,4-3-3,4-4-1-1,Graham Scott,Match Report,,2017-2018,Manchester City
+2018-01-09,19:45,EFL Cup,Semi-finals,Tue,Home,W,2,1,Bristol City,,,68,43426,Kevin De Bruyne,4-3-3,4-4-1-1,Anthony Taylor,Match Report,Leg 1 of 2,2017-2018,Manchester City
+2018-01-14,16:00,Premier League,Matchweek 23,Sun,Away,L,3,4,Liverpool,0.8,0.8,64,53285,Fernandinho,4-3-3,4-3-3,Andre Marriner,Match Report,,2017-2018,Manchester City
+2018-01-20,17:30,Premier League,Matchweek 24,Sat,Home,W,3,1,Newcastle Utd,2.1,1.0,80,54452,David Silva,4-3-3,5-4-1,Paul Tierney,Match Report,,2017-2018,Manchester City
+2018-01-23,19:45,EFL Cup,Semi-finals,Tue,Away,W,3,2,Bristol City,,,68,26003,David Silva,4-3-3,4-5-1,Graham Scott,Match Report,Leg 2 of 2; Manchester City won,2017-2018,Manchester City
+2018-01-28,16:00,FA Cup,Fourth round,Sun,Away,W,2,0,Cardiff City,,,77,32339,Vincent Kompany,4-3-3,4-2-3-1,Lee Mason,Match Report,,2017-2018,Manchester City
+2018-01-31,20:00,Premier League,Matchweek 25,Wed,Home,W,3,0,West Brom,2.3,0.2,73,53241,David Silva,4-3-3,4-4-1-1,Robert Madley,Match Report,,2017-2018,Manchester City
+2018-02-03,12:30,Premier League,Matchweek 26,Sat,Away,D,1,1,Burnley,1.8,0.9,70,21658,Vincent Kompany,4-3-3,4-4-2,Martin Atkinson,Match Report,,2017-2018,Manchester City
+2018-02-10,17:30,Premier League,Matchweek 27,Sat,Home,W,5,1,Leicester City,2.5,0.1,70,54416,Fernandinho,4-3-3,3-5-2,Mike Jones,Match Report,,2017-2018,Manchester City
+2018-02-13,20:45,Champions Lg,Round of 16,Tue,Away,W,4,0,ch Basel,0.7,1.0,73,36000,Vincent Kompany,4-3-3,3-4-3,Jonas Eriksson,Match Report,Leg 1 of 2,2017-2018,Manchester City
+2018-02-19,19:55,FA Cup,Fifth round,Mon,Away,L,0,1,Wigan Athletic,,,82,19242,David Silva,4-3-3,4-3-2-1,Anthony Taylor,Match Report,,2017-2018,Manchester City
+2018-02-25,16:30,EFL Cup,Final,Sun,Away,W,3,0,Arsenal,,,57,85671,Vincent Kompany,4-2-3-1,3-4-3,Craig Pawson,Match Report,,2017-2018,Manchester City
+2018-03-01,19:45,Premier League,Matchweek 28,Thu,Away,W,3,0,Arsenal,1.5,1.3,54,58420,Vincent Kompany,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Manchester City
+2018-03-04,16:00,Premier League,Matchweek 29,Sun,Home,W,1,0,Chelsea,0.9,0.1,71,54328,David Silva,4-3-3,3-4-3,Michael Oliver,Match Report,,2017-2018,Manchester City
+2018-03-07,19:45,Champions Lg,Round of 16,Wed,Home,L,1,2,ch Basel,1.6,0.6,77,49411,Yaya Touré,4-3-3,3-4-3,Pavel Královec,Match Report,Leg 2 of 2; Manchester City won,2017-2018,Manchester City
+2018-03-12,20:00,Premier League,Matchweek 30,Mon,Away,W,2,0,Stoke City,1.6,0.4,76,29138,Vincent Kompany,4-3-3,4-3-3,Jonathan Moss,Match Report,,2017-2018,Manchester City
+2018-03-31,17:30,Premier League,Matchweek 32,Sat,Away,W,3,1,Everton,1.5,0.9,81,39221,Vincent Kompany,3-5-2,4-2-3-1,Paul Tierney,Match Report,,2017-2018,Manchester City
+2018-04-04,19:45,Champions Lg,Quarter-finals,Wed,Away,L,0,3,eng Liverpool,0.6,1.6,66,50685,Vincent Kompany,4-2-3-1,4-3-3,Felix Brych,Match Report,Leg 1 of 2,2017-2018,Manchester City
+2018-04-07,17:30,Premier League,Matchweek 33,Sat,Home,L,2,3,Manchester Utd,2.6,1.1,64,54259,Vincent Kompany,4-3-3,4-3-3,Martin Atkinson,Match Report,,2017-2018,Manchester City
+2018-04-10,19:45,Champions Lg,Quarter-finals,Tue,Home,L,1,2,eng Liverpool,1.2,0.8,69,53461,David Silva,3-4-3◆,4-3-3,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Liverpool won,2017-2018,Manchester City
+2018-04-14,19:45,Premier League,Matchweek 34,Sat,Away,W,3,1,Tottenham,2.9,0.4,52,80811,Vincent Kompany,4-3-3,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Manchester City
+2018-04-22,16:30,Premier League,Matchweek 35,Sun,Home,W,5,0,Swansea City,3.2,0.3,82,54387,Vincent Kompany,4-3-3,5-4-1,Craig Pawson,Match Report,,2017-2018,Manchester City
+2018-04-29,14:15,Premier League,Matchweek 36,Sun,Away,W,4,1,West Ham,2.4,0.2,74,56904,Fernandinho,4-3-3,3-5-1-1,Niel Swarbrick,Match Report,,2017-2018,Manchester City
+2018-05-06,13:30,Premier League,Matchweek 37,Sun,Home,D,0,0,Huddersfield,0.8,0.2,78,54350,David Silva,4-3-3,5-3-2,Mike Dean,Match Report,,2017-2018,Manchester City
+2018-05-09,20:00,Premier League,Matchweek 31,Wed,Home,W,3,1,Brighton,1.6,1.2,73,54013,Yaya Touré,4-3-3,4-5-1,Paul Tierney,Match Report,,2017-2018,Manchester City
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,W,1,0,Southampton,0.8,0.5,69,31882,Fernandinho,4-3-3,5-4-1,Andre Marriner,Match Report,,2017-2018,Manchester City

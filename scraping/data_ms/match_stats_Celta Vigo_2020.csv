@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-12,16:00,La Liga,Matchweek 1,Sat,Away,D,0,0,Eibar,0.6,0.4,50.0,,Hugo Mallo,4-3-3,4-4-2,Valentín Pizarro,Match Report,,2020-2021,Celta Vigo
+2020-09-19,21:00,La Liga,Matchweek 2,Sat,Home,W,2,1,Valencia,2.0,0.5,51.0,,Hugo Mallo,4-4-2,4-4-2,Jesús Gil,Match Report,,2020-2021,Celta Vigo
+2020-09-27,18:30,La Liga,Matchweek 3,Sun,Away,D,1,1,Valladolid,1.3,1.5,46.0,,Hugo Mallo,4-2-3-1,4-4-2,José Sánchez,Match Report,,2020-2021,Celta Vigo
+2020-10-01,21:30,La Liga,Matchweek 4,Thu,Home,L,0,3,Barcelona,0.5,0.7,44.0,,Hugo Mallo,5-3-2,4-2-3-1,Carlos del Cerro,Match Report,,2020-2021,Celta Vigo
+2020-10-04,12:00,La Liga,Matchweek 5,Sun,Away,L,0,2,Osasuna,0.5,1.2,60.0,,Hugo Mallo,4-4-1-1,4-4-2,Ricardo de Burgos,Match Report,,2020-2021,Celta Vigo
+2020-10-17,16:00,La Liga,Matchweek 6,Sat,Home,L,0,2,Atlético Madrid,1.9,1.4,51.0,,Iago Aspas,5-3-2,4-4-2,Juan Martínez,Match Report,,2020-2021,Celta Vigo
+2020-10-26,21:00,La Liga,Matchweek 7,Mon,Away,D,1,1,Levante,0.8,1.2,42.0,,Iago Aspas,5-3-2,4-4-2,Mario Melero,Match Report,,2020-2021,Celta Vigo
+2020-11-01,16:00,La Liga,Matchweek 8,Sun,Home,L,1,4,Real Sociedad,1.6,2.0,46.0,,Iago Aspas,4-4-2,4-4-1-1,Adrián Cordero,Match Report,,2020-2021,Celta Vigo
+2020-11-06,21:00,La Liga,Matchweek 9,Fri,Away,D,1,1,Elche,2.1,1.5,49.0,,Iago Aspas,4-1-4-1,5-4-1,Ricardo de Burgos,Match Report,,2020-2021,Celta Vigo
+2020-11-21,18:30,La Liga,Matchweek 10,Sat,Away,L,2,4,Sevilla,2.1,2.6,43.0,,Hugo Mallo,4-1-2-1-2◆,4-3-3,César Soto,Match Report,,2020-2021,Celta Vigo
+2020-11-29,18:30,La Liga,Matchweek 11,Sun,Home,W,3,1,Granada,4.2,1.6,67.0,,Hugo Mallo,4-1-3-2,3-4-3,Isidro Díaz de Mera,Match Report,,2020-2021,Celta Vigo
+2020-12-04,21:00,La Liga,Matchweek 12,Fri,Away,W,2,0,Athletic Club,1.2,0.5,49.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Jorge Figueroa,Match Report,,2020-2021,Celta Vigo
+2020-12-14,21:00,La Liga,Matchweek 13,Mon,Home,W,4,0,Cádiz,1.5,0.6,61.0,,Hugo Mallo,4-1-3-2,4-4-2,Guillermo Cuadra,Match Report,,2020-2021,Celta Vigo
+2020-12-17,21:00,Copa del Rey,First round,Thu,Away,W,5,0,UD Llanera,,,,,Brais Méndez,4-1-3-2,4-4-2,César Soto,Match Report,,2020-2021,Celta Vigo
+2020-12-20,14:00,La Liga,Matchweek 14,Sun,Home,W,2,0,Alavés,1.6,0.7,54.0,,Hugo Mallo,4-1-3-2,4-4-2,Alberola Rojas,Match Report,,2020-2021,Celta Vigo
+2020-12-23,17:30,La Liga,Matchweek 15,Wed,Away,D,1,1,Getafe,0.8,0.3,61.0,,Hugo Mallo,4-1-3-2,4-1-4-1,Pablo González,Match Report,,2020-2021,Celta Vigo
+2020-12-30,19:15,La Liga,Matchweek 16,Wed,Home,W,2,1,Huesca,2.3,1.3,56.0,,Hugo Mallo,4-4-2,4-3-3,José Luis Munuera,Match Report,,2020-2021,Celta Vigo
+2021-01-02,21:00,La Liga,Matchweek 17,Sat,Away,L,0,2,Real Madrid,0.7,1.0,59.0,,Hugo Mallo,4-1-3-2,4-3-3,Ricardo de Burgos,Match Report,,2020-2021,Celta Vigo
+2021-01-05,17:00,Copa del Rey,Second round,Tue,Away,L,2,5,Ibiza,,,62.0,,Iván Villar,4-4-2,4-4-2,Juan Martínez,Match Report,,2020-2021,Celta Vigo
+2021-01-08,21:00,La Liga,Matchweek 18,Fri,Home,L,0,4,Villarreal,0.4,2.7,57.0,,Hugo Mallo,4-1-3-2,4-3-3,Javier Estrada,Match Report,,2020-2021,Celta Vigo
+2021-01-20,21:00,La Liga,Matchweek 19,Wed,Away,L,1,2,Betis,1.1,0.8,57.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Juan Martínez,Match Report,,2020-2021,Celta Vigo
+2021-01-24,18:30,La Liga,Matchweek 20,Sun,Home,D,1,1,Eibar,1.6,0.9,56.0,,Hugo Mallo,4-1-4-1,4-1-4-1,Pablo González,Match Report,,2020-2021,Celta Vigo
+2021-01-31,18:30,La Liga,Matchweek 21,Sun,Away,D,0,0,Granada,0.6,0.3,64.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Carlos del Cerro,Match Report,,2020-2021,Celta Vigo
+2021-02-08,21:00,La Liga,Matchweek 22,Mon,Away,D,2,2,Atlético Madrid,1.5,1.2,54.0,,Hugo Mallo,4-1-3-2,3-1-4-2,Guillermo Cuadra,Match Report,,2020-2021,Celta Vigo
+2021-02-12,21:00,La Liga,Matchweek 23,Fri,Home,W,3,1,Elche,2.1,1.1,50.0,,Hugo Mallo,4-1-3-2,4-4-2,Ricardo de Burgos,Match Report,,2020-2021,Celta Vigo
+2021-02-20,18:30,La Liga,Matchweek 24,Sat,Away,L,0,2,Valencia,0.7,1.2,43.0,,Hugo Mallo,4-1-3-2,4-4-2,Valentín Pizarro,Match Report,,2020-2021,Celta Vigo
+2021-02-28,14:00,La Liga,Matchweek 25,Sun,Home,D,1,1,Valladolid,0.9,0.7,65.0,,Hugo Mallo,4-1-3-2,4-4-2,David Medié,Match Report,,2020-2021,Celta Vigo
+2021-03-07,14:00,La Liga,Matchweek 26,Sun,Away,W,4,3,Huesca,0.9,2.2,49.0,,Hugo Mallo,4-1-2-1-2◆,3-4-1-2,José Luis Munuera,Match Report,,2020-2021,Celta Vigo
+2021-03-14,14:00,La Liga,Matchweek 27,Sun,Home,D,0,0,Athletic Club,1.2,0.7,65.0,,Iago Aspas,4-1-3-2,4-4-2,Santiago Jaime,Match Report,,2020-2021,Celta Vigo
+2021-03-20,16:15,La Liga,Matchweek 28,Sat,Home,L,1,3,Real Madrid,0.6,2.5,51.0,,Hugo Mallo,4-1-3-2,4-1-2-1-2,Mario Melero,Match Report,,2020-2021,Celta Vigo
+2021-04-04,14:00,La Liga,Matchweek 29,Sun,Away,W,3,1,Alavés,2.0,2.0,46.0,,Hugo Mallo,4-1-3-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2020-2021,Celta Vigo
+2021-04-12,21:00,La Liga,Matchweek 30,Mon,Home,L,3,4,Sevilla,2.6,1.6,42.0,,Hugo Mallo,4-1-3-2,4-3-3,Alejandro Hernández,Match Report,,2020-2021,Celta Vigo
+2021-04-18,18:30,La Liga,Matchweek 33,Sun,Away,D,0,0,Cádiz,0.5,0.4,76.0,,Hugo Mallo,4-1-3-2,4-4-2,Pablo González,Match Report,,2020-2021,Celta Vigo
+2021-04-22,21:00,La Liga,Matchweek 31,Thu,Away,L,1,2,Real Sociedad,0.6,2.2,59.0,,Hugo Mallo,4-1-3-2,4-4-1-1,Jesús Gil,Match Report,,2020-2021,Celta Vigo
+2021-04-25,18:30,La Liga,Matchweek 32,Sun,Home,W,2,1,Osasuna,0.7,1.4,49.0,,Hugo Mallo,4-1-3-2,4-3-3,César Soto,Match Report,,2020-2021,Celta Vigo
+2021-04-30,21:00,La Liga,Matchweek 34,Fri,Home,W,2,0,Levante,2.3,1.2,54.0,,Iago Aspas,4-1-2-1-2◆,3-5-2,Santiago Jaime,Match Report,,2020-2021,Celta Vigo
+2021-05-09,18:30,La Liga,Matchweek 35,Sun,Away,W,4,2,Villarreal,2.0,3.0,40.0,,Hugo Mallo,4-4-2,4-3-3,David Medié,Match Report,,2020-2021,Celta Vigo
+2021-05-12,20:00,La Liga,Matchweek 36,Wed,Home,W,1,0,Getafe,0.4,1.3,60.0,,Iago Aspas,4-1-3-2,4-4-2,Mario Melero,Match Report,,2020-2021,Celta Vigo
+2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,W,2,1,Barcelona,0.7,2.5,36.0,,Iago Aspas,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,2020-2021,Celta Vigo
+2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,L,2,3,Betis,1.3,2.3,64.0,1738.0,Iago Aspas,4-1-3-2,4-2-3-1,Jesús Gil,Match Report,,2020-2021,Celta Vigo

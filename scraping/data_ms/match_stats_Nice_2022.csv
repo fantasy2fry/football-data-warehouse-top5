@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,13:00,Ligue 1,Matchweek 1,Sun,Away,D,1,1,Toulouse,1.2,0.9,54.0,20567.0,Dante,4-3-3,4-2-3-1,Johan Hamel,Match Report,,2022-2023,Nice
+2022-08-14,17:05,Ligue 1,Matchweek 2,Sun,Home,D,1,1,Strasbourg,1.6,0.9,55.0,24707.0,Dante,4-2-3-1,3-5-2,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Nice
+2022-08-18,20:00,Conf Lg,Play-off round,Thu,Away,L,0,1,il Maccabi Tel Aviv,,,,26871.0,Dante,4-2-3-1,3-5-2,Allard Lindhout,Match Report,Leg 1 of 2,2022-2023,Nice
+2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Away,L,0,1,Clermont Foot,1.4,0.7,52.0,11500.0,Dante,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2022-2023,Nice
+2022-08-25,20:00,Conf Lg,Play-off round,Thu,Home,W,2,0,il Maccabi Tel Aviv,,,,20117.0,Dante,4-2-3-1,5-3-2,Sascha Stegemann,Match Report,Leg 2 of 2; Nice won; Required Extra Time,2022-2023,Nice
+2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Home,L,0,3,Marseille,1.0,1.4,49.0,31418.0,Dante,4-2-3-1,3-4-3,François Letexier,Match Report,,2022-2023,Nice
+2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,W,2,1,Lille,1.6,0.9,38.0,30254.0,Dante,3-5-2,4-2-3-1,Jeremy Stinat,Match Report,,2022-2023,Nice
+2022-09-04,20:45,Ligue 1,Matchweek 6,Sun,Home,L,0,1,Monaco,0.7,1.1,52.0,24125.0,Dante,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Nice
+2022-09-08,19:40,Conf Lg,Group stage,Thu,Home,D,1,1,de Köln,1.9,1.3,47.0,19000.0,Dante,4-4-2,4-1-2-1-2,Luís Godinho,Match Report,,2022-2023,Nice
+2022-09-11,15:00,Ligue 1,Matchweek 7,Sun,Away,W,1,0,Ajaccio,1.2,1.2,55.0,7068.0,Dante,4-4-2,4-4-2,Eric Wattellier,Match Report,,2022-2023,Nice
+2022-09-15,21:00,Conf Lg,Group stage,Thu,Away,D,1,1,rs Partizan,1.0,1.5,55.0,9126.0,Dante,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,2022-2023,Nice
+2022-09-18,15:00,Ligue 1,Matchweek 8,Sun,Home,L,0,1,Angers,1.3,1.5,50.0,18545.0,Dante,4-4-2,4-2-3-1,Bastien Dechepy,Match Report,,2022-2023,Nice
+2022-10-01,21:00,Ligue 1,Matchweek 9,Sat,Away,L,1,2,Paris S-G,0.5,1.0,43.0,47000.0,Dante,5-4-1,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Nice
+2022-10-06,18:45,Conf Lg,Group stage,Thu,Away,W,1,0,cz Slovácko,0.6,0.3,61.0,7447.0,Dante,4-4-2,4-2-3-1,Julian Weinberger,Match Report,,2022-2023,Nice
+2022-10-09,15:00,Ligue 1,Matchweek 10,Sun,Home,W,3,2,Troyes,2.6,1.5,61.0,18053.0,Dante,3-4-3,5-4-1,Johan Hamel,Match Report,,2022-2023,Nice
+2022-10-13,21:00,Conf Lg,Group stage,Thu,Home,L,1,2,cz Slovácko,1.9,0.8,63.0,,Dante,3-4-3,4-4-2,Iwan Griffith,Match Report,,2022-2023,Nice
+2022-10-16,15:00,Ligue 1,Matchweek 11,Sun,Away,D,1,1,Auxerre,1.6,0.8,55.0,14125.0,Mario Lemina,3-5-2,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Nice
+2022-10-23,17:05,Ligue 1,Matchweek 12,Sun,Home,D,1,1,Nantes,1.4,1.0,66.0,20166.0,Dante,3-4-3,4-2-3-1,François Letexier,Match Report,,2022-2023,Nice
+2022-10-27,18:45,Conf Lg,Group stage,Thu,Home,W,2,1,rs Partizan,1.4,0.6,60.0,11324.0,Dante,4-4-2,4-2-3-1,István Vad,Match Report,,2022-2023,Nice
+2022-10-30,17:05,Ligue 1,Matchweek 13,Sun,Away,W,2,1,Lorient,1.8,1.8,56.0,16034.0,Dante,4-4-2,4-1-4-1,Clément Turpin,Match Report,,2022-2023,Nice
+2022-11-03,21:00,Conf Lg,Group stage,Thu,Away,D,2,2,de Köln,1.0,1.6,44.0,47000.0,Dante,4-4-2,4-4-2,César Soto,Match Report,,2022-2023,Nice
+2022-11-06,15:00,Ligue 1,Matchweek 14,Sun,Home,W,1,0,Brest,1.1,1.1,56.0,19035.0,Dante,4-4-2,4-3-3,Jeremy Stinat,Match Report,,2022-2023,Nice
+2022-11-11,21:00,Ligue 1,Matchweek 15,Fri,Away,D,1,1,Lyon,1.6,1.3,37.0,57000.0,Dante,4-4-2,4-3-3,Eric Wattellier,Match Report,,2022-2023,Nice
+2022-12-29,21:00,Ligue 1,Matchweek 16,Thu,Home,D,0,0,Lens,1.0,1.0,41.0,24672.0,Dante,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Nice
+2023-01-02,21:00,Ligue 1,Matchweek 17,Mon,Away,L,1,2,Rennes,0.4,1.9,38.0,27427.0,Dante,3-4-3,4-4-2,Thomas Léonard,Match Report,,2022-2023,Nice
+2023-01-07,18:00,Coupe de France,Round of 64,Sat,Away,L,0,1,Le Puy Foot 43,,,62.0,3476.0,Dante,4-2-3-1,3-4-3,Clément Turpin,Match Report,,2022-2023,Nice
+2023-01-11,21:00,Ligue 1,Matchweek 18,Wed,Home,W,6,1,Montpellier,2.5,0.2,58.0,17500.0,Dante,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2022-2023,Nice
+2023-01-15,15:00,Ligue 1,Matchweek 19,Sun,Away,D,0,0,Reims,0.8,0.9,49.0,11383.0,Dante,4-3-3,4-2-3-1,François Letexier,Match Report,,2022-2023,Nice
+2023-01-29,13:00,Ligue 1,Matchweek 20,Sun,Home,W,1,0,Lille,1.6,1.6,44.0,22126.0,Dante,4-3-3,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Nice
+2023-02-01,21:00,Ligue 1,Matchweek 21,Wed,Away,W,1,0,Lens,2.1,0.6,45.0,37437.0,Dante,5-4-1,3-4-3,Thomas Léonard,Match Report,,2022-2023,Nice
+2023-02-05,20:45,Ligue 1,Matchweek 22,Sun,Away,W,3,1,Marseille,1.4,2.3,43.0,65234.0,Dante,4-3-3,3-4-3,Clément Turpin,Match Report,,2022-2023,Nice
+2023-02-10,21:00,Ligue 1,Matchweek 23,Fri,Home,W,3,0,Ajaccio,0.6,0.4,62.0,20163.0,Dante,4-3-3,4-1-4-1,Stéphanie Frappart,Match Report,,2022-2023,Nice
+2023-02-18,17:00,Ligue 1,Matchweek 24,Sat,Home,D,0,0,Reims,1.2,1.6,52.0,18102.0,Dante,4-3-3,4-2-3-1,Marc Bollengier,Match Report,,2022-2023,Nice
+2023-02-26,17:05,Ligue 1,Matchweek 25,Sun,Away,W,3,0,Monaco,2.3,1.0,44.0,9000.0,Dante,5-3-2,3-1-4-2,Benoît Bastien,Match Report,,2022-2023,Nice
+2023-03-03,21:00,Ligue 1,Matchweek 26,Fri,Home,D,1,1,Auxerre,1.6,0.5,64.0,21133.0,Dante,4-3-3,3-4-3,Bastien Dechepy,Match Report,,2022-2023,Nice
+2023-03-09,19:45,Conf Lg,Round of 16,Thu,Away,W,1,0,md Sheriff Tiraspol,0.3,1.3,53.0,5326.0,Dante,5-3-2,3-5-2,Aghayev Aliyev,Match Report,Leg 1 of 2,2022-2023,Nice
+2023-03-12,15:00,Ligue 1,Matchweek 27,Sun,Away,D,2,2,Nantes,1.2,1.6,55.0,33568.0,Dante,3-4-3,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Nice
+2023-03-16,21:00,Conf Lg,Round of 16,Thu,Home,W,3,1,md Sheriff Tiraspol,1.9,0.5,58.0,23070.0,Jean-Clair Todibo,4-3-3,5-3-2,Lawrence Visser,Match Report,Leg 2 of 2; Nice won,2022-2023,Nice
+2023-03-19,15:00,Ligue 1,Matchweek 28,Sun,Home,D,1,1,Lorient,1.2,0.7,53.0,20762.0,Dante,3-4-1-2,4-1-4-1,Ruddy Buquet,Match Report,,2022-2023,Nice
+2023-04-02,15:00,Ligue 1,Matchweek 29,Sun,Away,D,1,1,Angers,1.5,0.9,63.0,6649.0,Dante,4-3-3,5-3-2,Eric Wattellier,Match Report,,2022-2023,Nice
+2023-04-08,21:00,Ligue 1,Matchweek 30,Sat,Home,L,0,2,Paris S-G,1.5,1.2,45.0,34456.0,Dante,5-4-1,3-5-2,Jérémie Pignard,Match Report,,2022-2023,Nice
+2023-04-13,21:00,Conf Lg,Quarter-finals,Thu,Away,D,2,2,ch Basel,1.2,1.5,60.0,21277.0,Dante,4-3-3,4-4-2,Glenn Nyberg,Match Report,Leg 1 of 2,2022-2023,Nice
+2023-04-16,15:00,Ligue 1,Matchweek 31,Sun,Away,L,0,1,Brest,0.8,1.3,48.0,12615.0,Dante,3-4-1-2,4-2-3-1,Benoît Bastien,Match Report,,2022-2023,Nice
+2023-04-20,21:00,Conf Lg,Quarter-finals,Thu,Home,L,1,2,ch Basel,1.1,0.6,57.0,29716.0,Dante,3-5-2,3-1-4-2,Serdar Gözübüyük,Match Report,Leg 2 of 2; Basel won; Required Extra Time,2022-2023,Nice
+2023-04-23,15:00,Ligue 1,Matchweek 32,Sun,Home,L,1,2,Clermont Foot,1.3,1.0,56.0,20578.0,Dante,4-3-3,5-4-1,Benoît Millot,Match Report,,2022-2023,Nice
+2023-04-30,15:00,Ligue 1,Matchweek 33,Sun,Away,W,1,0,Troyes,3.3,0.7,64.0,8399.0,Dante,4-3-3,3-4-3,Eric Wattellier,Match Report,,2022-2023,Nice
+2023-05-06,17:00,Ligue 1,Matchweek 34,Sat,Home,W,2,1,Rennes,1.6,1.3,47.0,22601.0,Dante,4-3-3,4-1-4-1,Willy Delajod,Match Report,,2022-2023,Nice
+2023-05-13,17:00,Ligue 1,Matchweek 35,Sat,Away,L,0,2,Strasbourg,0.5,2.0,60.0,25147.0,Dante,4-3-3,3-4-3,Jeremy Stinat,Match Report,,2022-2023,Nice
+2023-05-21,15:00,Ligue 1,Matchweek 36,Sun,Home,D,0,0,Toulouse,2.2,0.8,51.0,20041.0,Dante,4-3-3,4-2-3-1,Jérémie Pignard,Match Report,,2022-2023,Nice
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Away,W,3,2,Montpellier,3.4,2.3,53.0,16340.0,Dante,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2022-2023,Nice
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Home,W,3,1,Lyon,2.3,1.8,43.0,25243.0,Dante,3-4-3,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Nice

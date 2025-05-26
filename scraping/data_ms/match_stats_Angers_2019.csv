@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,20:00,Ligue 1,Matchweek 1,Sat,Home,W,3.0,1.0,Bordeaux,1.6,1.0,48.0,10749.0,Ludovic Butelle,4-1-4-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Angers
+2019-08-16,20:45,Ligue 1,Matchweek 2,Fri,Away,L,0.0,6.0,Lyon,0.4,1.1,34.0,49871.0,Ludovic Butelle,4-1-4-1,4-3-3,Benoît Millot,Match Report,,2019-2020,Angers
+2019-08-24,20:00,Ligue 1,Matchweek 3,Sat,Home,W,3.0,0.0,Metz,1.9,0.2,38.0,9001.0,Ismaël Traoré,4-2-3-1,4-3-3,Stéphanie Frappart,Match Report,,2019-2020,Angers
+2019-08-31,20:00,Ligue 1,Matchweek 4,Sat,Home,W,2.0,0.0,Dijon,1.4,0.7,44.0,8988.0,Ismaël Traoré,4-5-1,3-5-2,Jérémie Pignard,Match Report,,2019-2020,Angers
+2019-09-13,19:00,Ligue 1,Matchweek 5,Fri,Away,L,1.0,2.0,Lille,0.7,1.4,44.0,32834.0,Ismaël Traoré,5-3-2,4-2-3-1,Ruddy Buquet,Match Report,,2019-2020,Angers
+2019-09-22,17:00,Ligue 1,Matchweek 6,Sun,Home,W,4.0,1.0,Saint-Étienne,2.0,0.8,50.0,9831.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Franck Schneider,Match Report,,2019-2020,Angers
+2019-09-25,19:00,Ligue 1,Matchweek 7,Wed,Away,W,2.0,0.0,Toulouse,1.6,0.3,43.0,10177.0,Romain Thomas,4-3-3,4-3-3,Olivier Thual,Match Report,,2019-2020,Angers
+2019-09-28,20:00,Ligue 1,Matchweek 8,Sat,Home,D,1.0,1.0,Amiens,1.4,1.2,60.0,9331.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Karim Abed,Match Report,,2019-2020,Angers
+2019-10-05,17:30,Ligue 1,Matchweek 9,Sat,Away,L,0.0,4.0,Paris S-G,0.6,3.4,28.0,47700.0,Ismaël Traoré,4-5-1,4-3-3,Willy Delajod,Match Report,,2019-2020,Angers
+2019-10-19,20:00,Ligue 1,Matchweek 10,Sat,Home,L,0.0,1.0,Brest,1.7,0.3,55.0,10369.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Eric Wattellier,Match Report,,2019-2020,Angers
+2019-10-26,20:00,Ligue 1,Matchweek 11,Sat,Away,D,0.0,0.0,Montpellier,1.0,1.2,40.0,12678.0,Ismaël Traoré,4-1-4-1,3-4-1-2,Benoît Millot,Match Report,,2019-2020,Angers
+2019-10-30,21:05,Coupe de la Ligue,Third round,Wed,Away,L,2.0,3.0,Amiens,,,44.0,5217.0,Mateo Pavlović,4-4-2,4-2-3-1,François Letexier,Match Report,,2019-2020,Angers
+2019-11-02,20:00,Ligue 1,Matchweek 12,Sat,Home,W,1.0,0.0,Strasbourg,1.2,1.2,36.0,9681.0,Ismaël Traoré,4-1-4-1,4-1-2-1-2,Florent Batta,Match Report,,2019-2020,Angers
+2019-11-09,20:00,Ligue 1,Matchweek 13,Sat,Away,D,0.0,0.0,Reims,1.0,0.5,48.0,10876.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Angers
+2019-11-23,20:00,Ligue 1,Matchweek 14,Sat,Home,W,1.0,0.0,Nîmes,1.1,0.6,42.0,8714.0,Ismaël Traoré,4-1-4-1,4-4-2,Thomas Léonard,Match Report,,2019-2020,Angers
+2019-11-30,20:00,Ligue 1,Matchweek 15,Sat,Away,L,1.0,3.0,Nice,0.6,1.2,47.0,15814.0,Thomas Mangani,4-1-4-1,4-3-3,Antony Gautier,Match Report,,2019-2020,Angers
+2019-12-03,19:00,Ligue 1,Matchweek 16,Tue,Home,L,0.0,2.0,Marseille,0.7,1.8,62.0,12455.0,Ismaël Traoré,4-1-4-1,4-3-3,Franck Schneider,Match Report,,2019-2020,Angers
+2019-12-07,20:00,Ligue 1,Matchweek 17,Sat,Away,L,1.0,2.0,Rennes,0.8,1.2,56.0,25656.0,Ismaël Traoré,4-1-4-1,4-4-2,Amaury Delerue,Match Report,,2019-2020,Angers
+2019-12-14,20:00,Ligue 1,Matchweek 18,Sat,Home,D,0.0,0.0,Monaco,1.1,0.4,34.0,9959.0,Ismaël Traoré,4-1-4-1,4-3-3,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Angers
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Away,W,2.0,1.0,Nantes,1.3,0.4,50.0,29807.0,Ismaël Traoré,4-1-4-1,4-4-1-1,Jérémie Pignard,Match Report,,2019-2020,Angers
+2020-01-05,17:15,Coupe de France,Round of 64,Sun,Away,W,3.0,1.0,Dieppois,,,,4457.0,Thomas Mangani,,,Bastien Dechepy,Match Report,,2019-2020,Angers
+2020-01-11,20:00,Ligue 1,Matchweek 20,Sat,Home,D,1.0,1.0,Nice,1.1,1.2,44.0,9105.0,Ismaël Traoré,4-1-4-1,4-3-3,Willy Delajod,Match Report,,2019-2020,Angers
+2020-01-19,17:15,Coupe de France,Round of 32,Sun,Away,W,4.0,1.0,FC Rouen,,,,9429.0,Thomas Mangani,4-1-4-1,5-3-1-1,Benoît Millot,Match Report,,2019-2020,Angers
+2020-01-25,17:30,Ligue 1,Matchweek 21,Sat,Away,D,0.0,0.0,Marseille,0.2,0.4,34.0,55761.0,Ismaël Traoré,4-1-4-1,4-1-4-1,Johan Hamel,Match Report,,2019-2020,Angers
+2020-01-28,18:30,Coupe de France,Round of 16,Tue,Home,L,4.0,5.0,Rennes,,,40.0,9821.0,Romain Thomas,4-3-3,4-4-2,Thomas Léonard,Match Report,Required Extra Time,2019-2020,Angers
+2020-02-01,20:00,Ligue 1,Matchweek 22,Sat,Home,L,1.0,4.0,Reims,1.3,1.4,49.0,8467.0,Ismaël Traoré,4-1-4-1,4-3-3,Amaury Delerue,Match Report,,2019-2020,Angers
+2020-02-04,19:00,Ligue 1,Matchweek 23,Tue,Away,L,0.0,1.0,Monaco,1.2,0.3,56.0,3585.0,Ismaël Traoré,4-1-4-1,4-3-1-2,Jeremy Stinat,Match Report,,2019-2020,Angers
+2020-02-07,20:45,Ligue 1,Matchweek 24,Fri,Home,L,0.0,2.0,Lille,0.6,1.6,50.0,9145.0,Ismaël Traoré,5-4-1,4-2-2-2,Benoît Bastien,Match Report,,2019-2020,Angers
+2020-02-15,20:00,Ligue 1,Matchweek 25,Sat,Away,L,0.0,1.0,Nîmes,0.5,1.2,50.0,12417.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Karim Abed,Match Report,,2019-2020,Angers
+2020-02-22,20:00,Ligue 1,Matchweek 26,Sat,Home,W,1.0,0.0,Montpellier,1.1,0.8,44.0,9453.0,Romain Thomas,5-3-2,3-4-3,Antony Gautier,Match Report,,2019-2020,Angers
+2020-02-29,20:00,Ligue 1,Matchweek 27,Sat,Away,W,1.0,0.0,Brest,0.3,1.2,35.0,13313.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Florent Batta,Match Report,,2019-2020,Angers
+2020-03-07,20:00,Ligue 1,Matchweek 28,Sat,Home,W,2.0,0.0,Nantes,0.8,1.4,46.0,12132.0,Ismaël Traoré,4-1-4-1,4-2-3-1,Stéphanie Frappart,Match Report,,2019-2020,Angers
+2020-03-14,20:00,Ligue 1,Matchweek 29,Sat,Away,,,,Amiens,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-03-21,20:00,Ligue 1,Matchweek 30,Sat,Home,,,,Toulouse,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-04-05,17:00,Ligue 1,Matchweek 31,Sun,Away,,,,Strasbourg,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Home,,,,Paris S-G,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Away,,,,Dijon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Away,,,,Saint-Étienne,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Home,,,,Rennes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Away,,,,Bordeaux,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Home,,,,Lyon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Away,,,,Metz,,,,,,,,,Match Report,Match Cancelled,2019-2020,Angers

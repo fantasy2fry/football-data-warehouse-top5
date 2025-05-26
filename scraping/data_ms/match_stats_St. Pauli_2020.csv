@@ -1,0 +1,36 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-13,15:30,DFB-Pokal,First round,Sun,Away,L,2,4,Elversberg,52,500.0,Christopher Avevor,5-3-2,4-4-2,Timo Gerach,Match Report,,2020-2021,St. Pauli
+2020-09-21,20:30,2. Bundesliga,Matchweek 1,Mon,Away,D,2,2,Bochum,48,3500.0,Christopher Avevor,3-4-3,4-2-3-1,Robert Schröder,Match Report,,2020-2021,St. Pauli
+2020-09-27,13:30,2. Bundesliga,Matchweek 2,Sun,Home,W,4,2,Heidenheim,37,2226.0,Christopher Avevor,4-2-3-1,4-4-2,Sven Jablonski,Match Report,,2020-2021,St. Pauli
+2020-10-02,18:30,2. Bundesliga,Matchweek 3,Fri,Away,L,0,1,Sandhausen,59,1393.0,Christopher Avevor,3-4-1-2,3-4-1-2,Sven Waschitzki,Match Report,,2020-2021,St. Pauli
+2020-10-19,20:30,2. Bundesliga,Matchweek 4,Mon,Home,D,2,2,Nürnberg,58,1000.0,Christopher Avevor,3-4-1-2,4-2-3-1,Florian Heft,Match Report,,2020-2021,St. Pauli
+2020-10-24,13:00,2. Bundesliga,Matchweek 5,Sat,Away,D,2,2,Darmstadt 98,42,,Marvin Knoll,3-5-2,4-5-1,Marco Fritz,Match Report,,2020-2021,St. Pauli
+2020-10-30,18:30,2. Bundesliga,Matchweek 6,Fri,Away,D,2,2,Hamburger SV,42,1000.0,Marvin Knoll,3-4-3,4-3-3,Manuel Gräfe,Match Report,,2020-2021,St. Pauli
+2020-11-08,13:30,2. Bundesliga,Matchweek 7,Sun,Home,L,0,3,Karlsruher,59,,Marvin Knoll,3-4-1-2,4-2-3-1,Alexander Sather,Match Report,,2020-2021,St. Pauli
+2020-11-21,13:00,2. Bundesliga,Matchweek 8,Sat,Away,L,0,2,Paderborn 07,42,,Christopher Avevor,4-2-3-1,4-3-3,Christian Dingert,Match Report,,2020-2021,St. Pauli
+2020-11-27,18:30,2. Bundesliga,Matchweek 9,Fri,Home,L,0,1,Osnabrück,54,,Philipp Ziereis,4-2-3-1,4-2-3-1,Matthias Jöllenbeck,Match Report,,2020-2021,St. Pauli
+2020-12-05,13:00,2. Bundesliga,Matchweek 10,Sat,Away,L,1,2,BTSV,52,,Philipp Ziereis,4-2-3-1,3-4-1-2,Timo Gerach,Match Report,,2020-2021,St. Pauli
+2020-12-13,13:30,2. Bundesliga,Matchweek 11,Sun,Home,D,2,2,Erzgebirge Aue,63,,Philipp Ziereis,4-2-3-1,4-2-3-1,Lasse Koslowski,Match Report,,2020-2021,St. Pauli
+2020-12-20,13:30,2. Bundesliga,Matchweek 13,Sun,Home,L,0,3,Düsseldorf,45,,Marvin Knoll,4-1-4-1,4-4-1-1,Robert Schröder,Match Report,,2020-2021,St. Pauli
+2021-01-03,13:30,2. Bundesliga,Matchweek 14,Sun,Away,L,1,2,Greuther Fürth,35,,Marvin Knoll,4-2-3-1,4-1-4-1,Tobias Reichel,Match Report,,2020-2021,St. Pauli
+2021-01-06,18:30,2. Bundesliga,Matchweek 12,Wed,Away,D,1,1,W'burg Kickers,55,,Marvin Knoll,4-5-1,4-2-3-1,Michael Bacher,Match Report,,2020-2021,St. Pauli
+2021-01-09,13:00,2. Bundesliga,Matchweek 15,Sat,Home,D,1,1,Holstein Kiel,48,,Philipp Ziereis,4-3-1-2,4-1-4-1,Frank Willenborg,Match Report,,2020-2021,St. Pauli
+2021-01-16,13:00,2. Bundesliga,Matchweek 16,Sat,Away,W,3,2,Hannover 96,47,,Philipp Ziereis,4-4-2◆,4-5-1,Sören Storks,Match Report,,2020-2021,St. Pauli
+2021-01-24,13:30,2. Bundesliga,Matchweek 17,Sun,Home,W,2,0,Jahn R'burg,44,,Philipp Ziereis,4-4-2◆,4-2-2-2,Bastian Dankert,Match Report,,2020-2021,St. Pauli
+2021-01-28,20:30,2. Bundesliga,Matchweek 18,Thu,Home,L,2,3,Bochum,41,,Philipp Ziereis,4-3-1-2,4-2-3-1,Harm Osmers,Match Report,,2020-2021,St. Pauli
+2021-01-31,13:30,2. Bundesliga,Matchweek 19,Sun,Away,W,4,3,Heidenheim,48,,Philipp Ziereis,4-4-2◆,4-4-2,Nicolas Winter,Match Report,,2020-2021,St. Pauli
+2021-02-05,18:30,2. Bundesliga,Matchweek 20,Fri,Home,W,2,1,Sandhausen,57,,Philipp Ziereis,4-4-2◆,3-4-3,Patrick Alt,Match Report,,2020-2021,St. Pauli
+2021-02-14,13:30,2. Bundesliga,Matchweek 21,Sun,Away,W,2,1,Nürnberg,46,,Philipp Ziereis,4-4-2◆,4-4-2,Alexander Sather,Match Report,,2020-2021,St. Pauli
+2021-02-20,13:00,2. Bundesliga,Matchweek 22,Sat,Home,W,3,2,Darmstadt 98,47,,Philipp Ziereis,4-4-2◆,4-2-3-1,Michael Bacher,Match Report,,2020-2021,St. Pauli
+2021-03-01,20:30,2. Bundesliga,Matchweek 23,Mon,Home,W,1,0,Hamburger SV,52,,Philipp Ziereis,4-4-2◆,4-2-3-1,Deniz Aytekin,Match Report,,2020-2021,St. Pauli
+2021-03-06,13:00,2. Bundesliga,Matchweek 24,Sat,Away,D,0,0,Karlsruher,48,,James Lawrence,4-3-1-2,4-2-3-1,Christian Dingert,Match Report,,2020-2021,St. Pauli
+2021-03-15,20:30,2. Bundesliga,Matchweek 25,Mon,Home,L,0,2,Paderborn 07,58,,James Lawrence,4-3-1-2,4-4-2,Robert Schröder,Match Report,,2020-2021,St. Pauli
+2021-03-21,13:30,2. Bundesliga,Matchweek 26,Sun,Away,W,2,1,Osnabrück,61,,Philipp Ziereis,4-4-2◆,3-1-4-2,Martin Thomsen,Match Report,,2020-2021,St. Pauli
+2021-04-05,20:30,2. Bundesliga,Matchweek 27,Mon,Home,W,2,0,BTSV,62,,Philipp Ziereis,4-4-2◆,3-5-2,Aarne Aarnink,Match Report,,2020-2021,St. Pauli
+2021-04-10,13:00,2. Bundesliga,Matchweek 28,Sat,Away,W,3,1,Erzgebirge Aue,63,,Philipp Ziereis,4-3-1-2,3-4-1-2,Florian Heft,Match Report,,2020-2021,St. Pauli
+2021-04-17,13:00,2. Bundesliga,Matchweek 29,Sat,Home,W,4,0,W'burg Kickers,65,,Philipp Ziereis,4-4-2◆,4-2-3-1,Christian Dingert,Match Report,,2020-2021,St. Pauli
+2021-04-21,18:30,2. Bundesliga,Matchweek 30,Wed,Away,L,0,2,Düsseldorf,61,,James Lawrence,4-4-2◆,4-3-3,Michael Bacher,Match Report,,2020-2021,St. Pauli
+2021-04-25,13:30,2. Bundesliga,Matchweek 31,Sun,Home,W,2,1,Greuther Fürth,45,,Philipp Ziereis,4-4-2◆,4-4-2,Timo Gerach,Match Report,,2020-2021,St. Pauli
+2021-05-07,18:30,2. Bundesliga,Matchweek 32,Fri,Away,L,0,4,Holstein Kiel,53,,Philipp Ziereis,4-4-2◆,4-1-4-1,Frank Willenborg,Match Report,,2020-2021,St. Pauli
+2021-05-16,15:30,2. Bundesliga,Matchweek 33,Sun,Home,L,1,2,Hannover 96,59,,Philipp Ziereis,4-3-1-2,4-4-2,Lasse Koslowski,Match Report,,2020-2021,St. Pauli
+2021-05-23,15:30,2. Bundesliga,Matchweek 34,Sun,Away,L,0,3,Jahn R'burg,54,,Philipp Ziereis,4-4-2◆,4-2-3-1,Martin Thomsen,Match Report,,2020-2021,St. Pauli

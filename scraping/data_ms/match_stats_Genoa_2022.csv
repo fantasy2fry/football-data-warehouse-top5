@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-08,17:45,Coppa Italia,First round,Mon,Home,W,3,2,Benevento,,,56,10366.0,Milan Badelj,4-2-3-1,4-5-1,Andrea Colombo,Match Report,,2022-2023,Genoa
+2022-08-14,20:45,Serie B,Matchweek 1,Sun,Away,W,2,1,Venezia,1.8,1.3,50,5263.0,Milan Badelj,4-4-2,4-3-3,Massimiliano Irrati,Match Report,,2022-2023,Genoa
+2022-08-20,20:45,Serie B,Matchweek 2,Sat,Home,D,0,0,Benevento,0.5,0.3,64,22800.0,Milan Badelj,4-4-2,3-5-2,Ivan Pezzuto,Match Report,,2022-2023,Genoa
+2022-08-28,20:45,Serie B,Matchweek 3,Sun,Away,W,1,0,Pisa,0.6,0.5,43,9842.0,Milan Badelj,4-4-2,4-3-2-1,Daniele Chiffi,Match Report,,2022-2023,Genoa
+2022-09-03,16:15,Serie B,Matchweek 4,Sat,Home,D,3,3,Parma,1.4,0.7,55,24153.0,Milan Badelj,4-4-2,4-2-3-1,Giacomo Camplone,Match Report,,2022-2023,Genoa
+2022-09-09,20:30,Serie B,Matchweek 5,Fri,Away,L,0,1,Palermo,2.0,1.0,65,23643.0,Milan Badelj,4-4-2,4-3-3,Francesco Cosso,Match Report,,2022-2023,Genoa
+2022-09-17,16:15,Serie B,Matchweek 6,Sat,Home,W,1,0,Modena,0.7,0.4,64,24000.0,Milan Badelj,4-3-2-1,4-3-2-1,Luca Zufferli,Match Report,,2022-2023,Genoa
+2022-10-01,14:00,Serie B,Matchweek 7,Sat,Away,W,2,0,SPAL,0.8,0.7,52,12257.0,Massimo Coda,4-2-3-1,4-3-1-2,Andrea Colombo,Match Report,,2022-2023,Genoa
+2022-10-07,20:30,Serie B,Matchweek 8,Fri,Home,D,0,0,Cagliari,0.9,0.3,59,26042.0,Mattia Bani,4-2-3-1,4-3-3,Matteo Marchetti,Match Report,,2022-2023,Genoa
+2022-10-15,14:00,Serie B,Matchweek 9,Sat,Away,W,2,1,Cosenza,2.3,0.9,54,7434.0,Mattia Bani,4-2-3-1,3-4-1-2,Niccolò Baroni,Match Report,,2022-2023,Genoa
+2022-10-18,18:00,Coppa Italia,Second round,Tue,Home,W,1,0,SPAL,,,56,,Milan Badelj,4-2-3-1,3-4-3,Alberto Santoro,Match Report,,2022-2023,Genoa
+2022-10-22,16:15,Serie B,Matchweek 10,Sat,Away,W,2,1,Ternana,1.8,1.2,66,11059.0,Milan Badelj,4-2-3-1,4-3-2-1,Daniele Doveri,Match Report,,2022-2023,Genoa
+2022-10-29,16:15,Serie B,Matchweek 11,Sat,Home,D,1,1,Brescia,0.6,1.1,62,27239.0,Milan Badelj,4-2-3-1,4-5-1,Andrea Colombo,Match Report,,2022-2023,Genoa
+2022-11-07,20:30,Serie B,Matchweek 12,Mon,Away,L,1,2,US Reggina,0.4,1.9,67,14005.0,Mattia Bani,4-2-3-1,4-3-3,Fabio Maresca,Match Report,,2022-2023,Genoa
+2022-11-13,16:15,Serie B,Matchweek 13,Sun,Home,D,1,1,Como,1.8,1.1,53,24747.0,Milan Badelj,4-2-3-1,4-3-1-2,Luca Massimi,Match Report,,2022-2023,Genoa
+2022-11-27,15:00,Serie B,Matchweek 14,Sun,Away,L,0,1,Perugia,1.2,1.2,65,7924.0,Mattia Bani,4-4-2,3-4-1-2,Federico La Penna,Match Report,,2022-2023,Genoa
+2022-12-04,15:00,Serie B,Matchweek 15,Sun,Home,L,0,1,Cittadella,1.2,1.0,67,6756.0,Mattia Bani,4-2-3-1,4-3-1-2,Luca Pairetto,Match Report,,2022-2023,Genoa
+2022-12-08,15:00,Serie B,Matchweek 16,Thu,Home,W,2,0,Südtirol,2.0,0.3,67,24000.0,Mattia Bani,4-2-3-1,4-1-4-1,Antonio Giua,Match Report,,2022-2023,Genoa
+2022-12-11,15:00,Serie B,Matchweek 17,Sun,Away,D,0,0,Ascoli,0.5,1.6,60,7072.0,Mattia Bani,4-3-3,3-5-2,Daniele Doveri,Match Report,,2022-2023,Genoa
+2022-12-18,20:45,Serie B,Matchweek 18,Sun,Home,W,1,0,Frosinone,1.6,1.4,48,23000.0,Mattia Bani,4-3-3,4-3-3,Simone Sozza,Match Report,,2022-2023,Genoa
+2022-12-26,20:30,Serie B,Matchweek 19,Mon,Away,W,2,1,Bari,0.8,1.8,45,48887.0,Mattia Bani,4-3-3,4-3-2-1,Maurizio Mariani,Match Report,,2022-2023,Genoa
+2023-01-12,21:00,Coppa Italia,Round of 16,Thu,Away,L,0,1,Roma,,,49,60000.0,Stefano Sturaro,3-5-2,3-4-1-2,Ermanno Feliciani,Match Report,,2022-2023,Genoa
+2023-01-16,18:45,Serie B,Matchweek 20,Mon,Home,W,1,0,Venezia,1.3,0.5,52,21999.0,Mattia Bani,4-3-3,3-5-2,Gianpiero Miele,Match Report,,2022-2023,Genoa
+2023-01-21,14:00,Serie B,Matchweek 21,Sat,Away,W,2,1,Benevento,1.9,0.6,52,7929.0,Milan Badelj,3-5-2,4-3-2-1,Marco Serra,Match Report,,2022-2023,Genoa
+2023-01-28,16:15,Serie B,Matchweek 22,Sat,Home,D,0,0,Pisa,1.7,0.2,65,29460.0,Milan Badelj,3-5-2,4-3-2-1,Manuel Volpi,Match Report,,2022-2023,Genoa
+2023-02-05,16:15,Serie B,Matchweek 23,Sun,Away,L,0,2,Parma,0.8,1.7,63,14281.0,Massimo Coda,3-4-3,4-2-3-1,Francesco Fourneau,Match Report,,2022-2023,Genoa
+2023-02-10,20:30,Serie B,Matchweek 24,Fri,Home,W,2,0,Palermo,1.0,0.8,48,25185.0,Stefano Sturaro,4-3-3,3-5-2,Livio Marinelli,Match Report,,2022-2023,Genoa
+2023-02-19,16:15,Serie B,Matchweek 25,Sun,Away,D,2,2,Modena,1.8,0.6,55,23500.0,Stefano Sturaro,4-2-3-1,4-3-2-1,Maurizio Mariani,Match Report,,2022-2023,Genoa
+2023-02-25,16:15,Serie B,Matchweek 26,Sat,Home,W,3,0,SPAL,1.4,0.2,59,12257.0,Stefano Sturaro,4-3-3,3-4-1-2,Ivan Pezzuto,Match Report,,2022-2023,Genoa
+2023-03-01,20:30,Serie B,Matchweek 27,Wed,Away,D,0,0,Cagliari,1.0,0.9,52,13520.0,Milan Badelj,3-4-3,3-4-1-2,Paolo Valeri,Match Report,,2022-2023,Genoa
+2023-03-06,20:30,Serie B,Matchweek 28,Mon,Home,W,4,0,Cosenza,2.2,0.3,66,25000.0,Stefano Sturaro,3-5-2,4-3-2-1,Antonio Giua,Match Report,,2022-2023,Genoa
+2023-03-12,16:15,Serie B,Matchweek 29,Sun,Home,W,1,0,Ternana,2.3,0.6,54,26470.0,Stefano Sturaro,3-5-2,3-4-1-2,Giacomo Camplone,Match Report,,2022-2023,Genoa
+2023-03-18,14:00,Serie B,Matchweek 30,Sat,Away,W,3,0,Brescia,2.4,0.7,49,6523.0,Milan Badelj,3-5-2,4-3-2-1,Simone Sozza,Match Report,,2022-2023,Genoa
+2023-03-31,20:30,Serie B,Matchweek 31,Fri,Home,W,1,0,US Reggina,2.3,0.5,52,31755.0,Stefano Sturaro,3-5-2,3-4-3,Gianluca Aureliano,Match Report,,2022-2023,Genoa
+2023-04-10,15:00,Serie B,Matchweek 32,Mon,Away,D,2,2,Como,0.7,3.0,56,6526.0,Milan Badelj,3-5-2,3-5-2,Luca Pairetto,Match Report,,2022-2023,Genoa
+2023-04-15,14:00,Serie B,Matchweek 33,Sat,Home,W,2,0,Perugia,1.7,0.4,62,28833.0,Milan Badelj,3-5-2,3-5-1-1,Livio Marinelli,Match Report,,2022-2023,Genoa
+2023-04-22,14:00,Serie B,Matchweek 34,Sat,Away,W,1,0,Cittadella,1.7,0.7,63,5962.0,Milan Badelj,3-5-2,4-3-1-2,Federico Dionisi,Match Report,,2022-2023,Genoa
+2023-05-01,15:00,Serie B,Matchweek 35,Mon,Away,D,0,0,Südtirol,0.7,1.1,65,22222.0,Stefano Sturaro,3-5-2,4-4-1-1,Marco Di Bello,Match Report,,2022-2023,Genoa
+2023-05-06,14:00,Serie B,Matchweek 36,Sat,Home,W,2,1,Ascoli,2.8,0.7,48,32464.0,Stefano Sturaro,3-5-2,4-3-1-2,Simone Sozza,Match Report,,2022-2023,Genoa
+2023-05-13,16:15,Serie B,Matchweek 37,Sat,Away,L,2,3,Frosinone,1.0,1.9,46,15937.0,Milan Badelj,3-4-1-2,4-3-3,Gianpiero Miele,Match Report,,2022-2023,Genoa
+2023-05-19,20:30,Serie B,Matchweek 38,Fri,Home,W,4,3,Bari,2.6,0.9,53,32258.0,Milan Badelj,4-3-1-2,4-3-1-2,Daniele Rutella,Match Report,,2022-2023,Genoa

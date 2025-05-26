@@ -1,0 +1,38 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-31,15:31,DFB-Pokal,Round of 64,Sun,Away,W,2,0,Rödinghausen,,,68,10000,Benjamin Hübner,3-1-4-2,5-3-2,Robin Braun,Match Report,Required Extra Time,2022-2023,Hoffenheim
+2022-08-06,15:30,Bundesliga,Matchweek 1,Sat,Away,L,1,3,Gladbach,0.1,1.9,39,49659,Oliver Baumann,3-5-2,4-2-3-1,Daniel Siebert,Match Report,,2022-2023,Hoffenheim
+2022-08-13,15:30,Bundesliga,Matchweek 2,Sat,Home,W,3,2,Bochum,2.6,1.5,59,17005,Oliver Baumann,3-5-2,3-4-1-2,Patrick Ittrich,Match Report,,2022-2023,Hoffenheim
+2022-08-20,15:30,Bundesliga,Matchweek 3,Sat,Away,W,3,0,Leverkusen,1.5,1.2,44,26300,Oliver Baumann,3-5-2,4-2-3-1,Tobias Reichel,Match Report,,2022-2023,Hoffenheim
+2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Home,W,1,0,Augsburg,1.9,0.6,50,17206,Oliver Baumann,3-5-2,3-4-1-2,Tobias Welz,Match Report,,2022-2023,Hoffenheim
+2022-09-02,20:30,Bundesliga,Matchweek 5,Fri,Away,L,0,1,Dortmund,0.5,2.0,51,79300,Oliver Baumann,3-5-2,4-5-1,Daniel Siebert,Match Report,,2022-2023,Hoffenheim
+2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Home,W,4,1,Mainz 05,4.2,0.7,64,20114,Oliver Baumann,3-1-4-2,3-4-3,Daniel Schlager,Match Report,,2022-2023,Hoffenheim
+2022-09-18,19:30,Bundesliga,Matchweek 7,Sun,Home,D,0,0,Freiburg,0.7,1.0,50,24233,Oliver Baumann,3-5-2,4-2-3-1,Deniz Aytekin,Match Report,,2022-2023,Hoffenheim
+2022-10-02,15:30,Bundesliga,Matchweek 8,Sun,Away,D,1,1,Hertha BSC,1.4,0.9,57,41653,Oliver Baumann,3-5-2,4-3-3,Christian Dingert,Match Report,,2022-2023,Hoffenheim
+2022-10-07,20:30,Bundesliga,Matchweek 9,Fri,Home,L,1,2,Werder Bremen,1.7,1.3,46,25410,Oliver Baumann,3-5-2,3-5-2,Benjamin Cortus,Match Report,,2022-2023,Hoffenheim
+2022-10-14,20:30,Bundesliga,Matchweek 10,Fri,Away,W,3,0,Schalke 04,3.2,0.7,49,59811,Oliver Baumann,3-5-2,4-5-1,Florian Badstübner,Match Report,,2022-2023,Hoffenheim
+2022-10-18,20:45,DFB-Pokal,Round of 32,Tue,Home,W,5,1,Schalke 04,,,62,15633,Oliver Baumann,3-5-2,3-4-1-2,Matthias Jöllenbeck,Match Report,,2022-2023,Hoffenheim
+2022-10-22,15:30,Bundesliga,Matchweek 11,Sat,Home,L,0,2,Bayern Munich,0.8,2.4,42,30150,Oliver Baumann,3-5-2,4-2-3-1,Sven Jablonski,Match Report,,2022-2023,Hoffenheim
+2022-10-30,19:30,Bundesliga,Matchweek 12,Sun,Away,D,1,1,Köln,0.9,1.2,64,49000,Oliver Baumann,3-5-2,4-4-2,Frank Willenborg,Match Report,,2022-2023,Hoffenheim
+2022-11-05,15:30,Bundesliga,Matchweek 13,Sat,Home,L,1,3,RB Leipzig,0.9,1.7,37,23127,Oliver Baumann,3-5-2,4-2-2-2,Martin Petersen,Match Report,,2022-2023,Hoffenheim
+2022-11-09,20:30,Bundesliga,Matchweek 14,Wed,Away,L,2,4,Eint Frankfurt,1.8,2.8,49,49000,Oliver Baumann,3-5-2,3-4-3,Felix Zwayer,Match Report,,2022-2023,Hoffenheim
+2022-11-12,15:30,Bundesliga,Matchweek 15,Sat,Home,L,1,2,Wolfsburg,1.4,0.7,60,18014,Oliver Baumann,3-4-1-2,4-5-1,Daniel Schlager,Match Report,,2022-2023,Hoffenheim
+2023-01-21,15:30,Bundesliga,Matchweek 16,Sat,Away,L,1,3,Union Berlin,1.0,2.9,48,21747,Oliver Baumann,3-4-3,3-5-2,Robert Hartmann,Match Report,,2022-2023,Hoffenheim
+2023-01-24,20:30,Bundesliga,Matchweek 17,Tue,Home,D,2,2,Stuttgart,2.0,0.8,49,23159,Oliver Baumann,3-4-3,4-3-3,Florian Badstübner,Match Report,,2022-2023,Hoffenheim
+2023-01-28,15:30,Bundesliga,Matchweek 18,Sat,Home,L,1,4,Gladbach,1.8,1.7,51,24119,Oliver Baumann,3-4-1-2,4-2-3-1,Benjamin Brand,Match Report,,2022-2023,Hoffenheim
+2023-02-01,18:00,DFB-Pokal,Round of 16,Wed,Away,L,1,3,RB Leipzig,,,35,34822,Oliver Baumann,5-4-1,4-2-2-2,Christian Dingert,Match Report,,2022-2023,Hoffenheim
+2023-02-04,15:30,Bundesliga,Matchweek 19,Sat,Away,L,2,5,Bochum,0.9,2.7,54,23700,Oliver Baumann,3-4-1-2,4-2-3-1,Bastian Dankert,Match Report,,2022-2023,Hoffenheim
+2023-02-11,15:30,Bundesliga,Matchweek 20,Sat,Home,L,1,3,Leverkusen,0.7,1.4,50,20619,Oliver Baumann,3-4-3,3-4-3,Tobias Stieler,Match Report,,2022-2023,Hoffenheim
+2023-02-17,20:30,Bundesliga,Matchweek 21,Fri,Away,L,0,1,Augsburg,0.6,1.6,54,25872,Oliver Baumann,3-4-1-2,4-4-2,Patrick Ittrich,Match Report,,2022-2023,Hoffenheim
+2023-02-25,15:30,Bundesliga,Matchweek 22,Sat,Home,L,0,1,Dortmund,1.3,2.3,44,30150,Oliver Baumann,3-4-1-2,4-3-3,Martin Petersen,Match Report,,2022-2023,Hoffenheim
+2023-03-04,15:30,Bundesliga,Matchweek 23,Sat,Away,L,0,1,Mainz 05,0.8,1.1,53,28100,Oliver Baumann,3-4-3,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Hoffenheim
+2023-03-12,15:30,Bundesliga,Matchweek 24,Sun,Away,L,1,2,Freiburg,1.0,0.6,41,33500,Oliver Baumann,3-5-2,4-4-2,Harm Osmers,Match Report,,2022-2023,Hoffenheim
+2023-03-18,15:30,Bundesliga,Matchweek 25,Sat,Home,W,3,1,Hertha BSC,2.6,1.0,48,25027,Oliver Baumann,3-4-3,3-5-2,Frank Willenborg,Match Report,,2022-2023,Hoffenheim
+2023-04-02,17:30,Bundesliga,Matchweek 26,Sun,Away,W,2,1,Werder Bremen,1.1,0.9,43,42000,Oliver Baumann,3-5-2,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Hoffenheim
+2023-04-09,19:30,Bundesliga,Matchweek 27,Sun,Home,W,2,0,Schalke 04,2.2,0.7,46,30150,Oliver Baumann,3-5-2,4-2-3-1,Matthias Jöllenbeck,Match Report,,2022-2023,Hoffenheim
+2023-04-15,15:30,Bundesliga,Matchweek 28,Sat,Away,D,1,1,Bayern Munich,0.4,1.6,34,75000,Oliver Baumann,3-5-2,4-2-3-1,Bastian Dankert,Match Report,,2022-2023,Hoffenheim
+2023-04-22,15:30,Bundesliga,Matchweek 29,Sat,Home,L,1,3,Köln,0.9,1.7,54,30150,Oliver Baumann,3-5-2,4-2-3-1,Robin Braun,Match Report,,2022-2023,Hoffenheim
+2023-04-29,15:30,Bundesliga,Matchweek 30,Sat,Away,L,0,1,RB Leipzig,0.3,1.4,41,45294,Oliver Baumann,3-5-2,3-4-3,Tobias Stieler,Match Report,,2022-2023,Hoffenheim
+2023-05-06,15:30,Bundesliga,Matchweek 31,Sat,Home,W,3,1,Eint Frankfurt,2.2,2.2,32,30000,Oliver Baumann,3-5-2,3-4-3,Harm Osmers,Match Report,,2022-2023,Hoffenheim
+2023-05-13,15:30,Bundesliga,Matchweek 32,Sat,Away,L,1,2,Wolfsburg,1.0,1.1,54,22617,Oliver Baumann,3-5-2,3-1-4-2,Tobias Stieler,Match Report,,2022-2023,Hoffenheim
+2023-05-20,15:30,Bundesliga,Matchweek 33,Sat,Home,W,4,2,Union Berlin,2.4,2.0,43,30000,Oliver Baumann,3-4-3,3-5-2,Christian Dingert,Match Report,,2022-2023,Hoffenheim
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Away,D,1,1,Stuttgart,0.8,2.5,43,47500,Oliver Baumann,3-5-2,3-4-3,Robert Schröder,Match Report,,2022-2023,Hoffenheim

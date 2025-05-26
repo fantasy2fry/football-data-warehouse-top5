@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-11,20:45,Coppa Italia,First round,Sun,Away,D,1 (3),1 (4),Sampdoria,,,57,14196.0,Alessio Iovine,4-2-3-1,3-4-1-2,,Match Report,Sampdoria won on penalty kicks following extra time,2024-2025,Como
+2024-08-19,20:45,Serie A,Matchweek 1,Mon,Away,L,0,3,Juventus,0.2,1.2,43,40696.0,Patrick Cutrone,4-4-2,4-2-3-1,Matteo Marcenaro,Match Report,,2024-2025,Como
+2024-08-26,18:30,Serie A,Matchweek 2,Mon,Away,D,1,1,Cagliari,1.5,0.8,53,16365.0,Alessio Iovine,4-2-2-2,3-5-2,Marco Di Bello,Match Report,,2024-2025,Como
+2024-09-01,20:45,Serie A,Matchweek 3,Sun,Away,L,0,1,Udinese,1.6,1.0,56,7020.0,Alessio Iovine,4-2-2-2,3-4-3,Alessandro Prontera,Match Report,,2024-2025,Como
+2024-09-14,15:00,Serie A,Matchweek 4,Sat,Home,D,2,2,Bologna,1.2,1.2,44,10584.0,Alessio Iovine,4-2-3-1,4-1-4-1,Marco Piccinini,Match Report,,2024-2025,Como
+2024-09-24,20:45,Serie A,Matchweek 5,Tue,Away,W,3,2,Atalanta,1.1,1.6,41,22977.0,Patrick Cutrone,4-2-3-1,3-4-1-2,Paride Tremolada,Match Report,,2024-2025,Como
+2024-09-29,15:00,Serie A,Matchweek 6,Sun,Home,W,3,2,Hellas Verona,2.2,1.1,71,9000.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Antonio Giua,Match Report,,2024-2025,Como
+2024-10-04,18:30,Serie A,Matchweek 7,Fri,Away,L,1,3,Napoli,0.4,1.9,59,50000.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Ermanno Feliciani,Match Report,,2024-2025,Como
+2024-10-19,15:00,Serie A,Matchweek 8,Sat,Home,D,1,1,Parma,1.3,0.5,61,7000.0,Patrick Cutrone,4-2-3-1,4-1-4-1,Michael Fabbri,Match Report,,2024-2025,Como
+2024-10-25,20:45,Serie A,Matchweek 9,Fri,Away,L,0,1,Torino,1.4,1.3,68,23571.0,Gabriel Strefezza,4-2-3-1,3-5-2,Giovanni Ayroldi,Match Report,,2024-2025,Como
+2024-10-31,20:45,Serie A,Matchweek 10,Thu,Home,L,1,5,Lazio,1.1,2.9,51,10750.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Luca Pairetto,Match Report,,2024-2025,Como
+2024-11-04,18:30,Serie A,Matchweek 11,Mon,Away,L,0,1,Empoli,0.4,0.6,58,8102.0,Pepe Reina,4-2-3-1,3-4-3,Marco Di Bello,Match Report,,2024-2025,Como
+2024-11-07,20:45,Serie A,Matchweek 12,Thu,Away,D,1,1,Genoa,1.4,0.9,58,30708.0,Patrick Cutrone,4-2-3-1,3-5-2,Antonio Rapuano,Match Report,,2024-2025,Como
+2024-11-24,15:00,Serie A,Matchweek 13,Sun,Home,L,0,2,Fiorentina,1.1,0.8,57,8500.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Matteo Marchetti,Match Report,,2024-2025,Como
+2024-11-30,15:00,Serie A,Matchweek 14,Sat,Home,D,1,1,Monza,1.3,1.3,55,9749.0,Patrick Cutrone,4-2-3-1,3-4-3,Juan Luca Sacchi,Match Report,,2024-2025,Como
+2024-12-08,18:00,Serie A,Matchweek 15,Sun,Away,D,2,2,Venezia,1.0,0.3,65,8026.0,Pepe Reina,4-2-3-1,3-4-3,Daniele Doveri,Match Report,,2024-2025,Como
+2024-12-15,18:00,Serie A,Matchweek 16,Sun,Home,W,2,0,Roma,1.2,0.3,38,13602.0,Pepe Reina,4-2-3-1,3-4-3,Antonio Rapuano,Match Report,,2024-2025,Como
+2024-12-23,20:45,Serie A,Matchweek 17,Mon,Away,L,0,2,Inter,0.3,1.6,38,73204.0,Pepe Reina,5-4-1,3-1-4-2,Antonio Giua,Match Report,,2024-2025,Como
+2024-12-30,18:30,Serie A,Matchweek 18,Mon,Home,W,2,0,Lecce,2.0,0.4,56,12000.0,Patrick Cutrone,4-2-3-1,4-3-3,Marco Piccinini,Match Report,,2024-2025,Como
+2025-01-10,20:45,Serie A,Matchweek 20,Fri,Away,D,1,1,Lazio,2.0,0.5,63,40000.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Paride Tremolada,Match Report,,2024-2025,Como
+2025-01-14,18:30,Serie A,Matchweek 19,Tue,Home,L,1,2,Milan,1.4,1.3,52,13602.0,Patrick Cutrone,3-4-3,4-2-3-1,Gianluca Manganiello,Match Report,,2024-2025,Como
+2025-01-20,20:45,Serie A,Matchweek 21,Mon,Home,W,4,1,Udinese,1.4,0.6,51,9566.0,Patrick Cutrone,4-2-3-1,3-5-2,Francesco Cosso,Match Report,,2024-2025,Como
+2025-01-25,15:00,Serie A,Matchweek 22,Sat,Home,L,1,2,Atalanta,0.8,1.0,54,10366.0,Lucas Da Cunha,4-2-3-1,3-4-1-2,Luca Pairetto,Match Report,,2024-2025,Como
+2025-02-01,20:45,Serie A,Matchweek 23,Sat,Away,L,0,2,Bologna,0.5,1.5,50,26492.0,Patrick Cutrone,4-1-4-1,4-2-3-1,Luca Massimi,Match Report,,2024-2025,Como
+2025-02-07,20:45,Serie A,Matchweek 24,Fri,Home,L,1,2,Juventus,0.9,1.1,52,10475.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Rosario Abisso,Match Report,,2024-2025,Como
+2025-02-16,12:30,Serie A,Matchweek 25,Sun,Away,W,2,0,Fiorentina,0.8,0.3,49,19000.0,Lucas Da Cunha,4-3-3,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Como
+2025-02-23,12:30,Serie A,Matchweek 26,Sun,Home,W,2,1,Napoli,0.7,1.2,42,10500.0,Lucas Da Cunha,4-3-2-1,3-5-2,Gianluca Manganiello,Match Report,,2024-2025,Como
+2025-03-02,18:00,Serie A,Matchweek 27,Sun,Away,L,1,2,Roma,1.2,1.6,52,62125.0,Lucas Da Cunha,4-3-3,3-4-3,Luca Pairetto,Match Report,,2024-2025,Como
+2025-03-08,15:00,Serie A,Matchweek 28,Sat,Home,D,1,1,Venezia,1.3,1.3,55,10080.0,Lucas Da Cunha,4-3-3,3-5-2,Giovanni Ayroldi,Match Report,,2024-2025,Como
+2025-03-15,18:00,Serie A,Matchweek 29,Sat,Away,L,1,2,Milan,1.0,1.3,58,74500.0,Patrick Cutrone,4-2-3-1,4-2-3-1,Matteo Marchetti,Match Report,,2024-2025,Como
+2025-03-29,15:00,Serie A,Matchweek 30,Sat,Home,D,1,1,Empoli,1.9,2.0,71,10118.0,Patrick Cutrone,4-2-3-1,3-4-3,Maurizio Mariani,Match Report,,2024-2025,Como
+2025-04-05,15:00,Serie A,Matchweek 31,Sat,Away,W,3,1,Monza,2.2,0.8,58,8649.0,Lucas Da Cunha,4-2-3-1,3-5-2,Giuseppe Collu,Match Report,,2024-2025,Como
+2025-04-13,18:00,Serie A,Matchweek 32,Sun,Home,W,1,0,Torino,1.3,1.2,57,10658.0,Lucas Da Cunha,4-3-3,4-1-3-2,Matteo Marcenaro,Match Report,,2024-2025,Como
+2025-04-19,15:00,Serie A,Matchweek 33,Sat,Away,W,3,0,Lecce,1.3,0.7,55,28181.0,Lucas Da Cunha,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Como
+2025-04-27,12:30,Serie A,Matchweek 34,Sun,Home,W,1,0,Genoa,1.3,1.3,53,10664.0,Patrick Cutrone,4-2-3-1,4-1-4-1,Alberto Arena,Match Report,,2024-2025,Como
+2025-05-03,15:00,Serie A,Matchweek 35,Sat,Away,W,1,0,Parma,0.8,1.8,61,20132.0,Patrick Cutrone,4-2-3-1,3-5-2,Marco Di Bello,Match Report,,2024-2025,Como
+2025-05-10,15:00,Serie A,Matchweek 36,Sat,Home,W,3,1,Cagliari,2.0,0.9,61,13602.0,Pepe Reina,4-2-3-1,4-4-1-1,Francesco Fourneau,Match Report,,2024-2025,Como
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Away,D,1,1,Hellas Verona,0.8,1.5,67,,Lucas Da Cunha,4-2-3-1,3-4-1-2,Rosario Abisso,Match Report,,2024-2025,Como
+2025-05-23,20:45,Serie A,Matchweek 38,Fri,Home,L,0,2,Inter,1.2,1.4,40,,Pepe Reina,4-2-3-1,3-4-3,Davide Massa,Match Report,,2024-2025,Como

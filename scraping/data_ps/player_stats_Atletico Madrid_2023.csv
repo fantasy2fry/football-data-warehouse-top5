@@ -1,0 +1,42 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Season,Team_Scraping
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,,
+Jan Oblak,si SVN,GK,30,54,54,4950.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2023-2024,Atletico Madrid
+Axel Witsel,be BEL,"DF,MF",34,51,45,4179.0,46.4,2.0,0.0,2.0,2.0,0.0,0.0,6.0,0.0,1.2,1.2,0.4,1.6,19.0,117.0,8.0,0.04,0.0,0.04,0.04,0.04,0.03,0.01,0.04,0.03,0.04,Matches,2023-2024,Atletico Madrid
+Antoine Griezmann,fr FRA,"FW,MF",32,48,45,3902.0,43.4,24.0,8.0,32.0,20.0,4.0,6.0,7.0,0.0,16.5,12.6,8.7,21.3,68.0,185.0,253.0,0.55,0.18,0.74,0.46,0.65,0.43,0.23,0.66,0.33,0.55,Matches,2023-2024,Atletico Madrid
+Mario Hermoso,es ESP,DF,28,45,42,3801.0,42.2,2.0,1.0,3.0,2.0,0.0,0.0,15.0,0.0,1.5,1.5,1.0,2.5,46.0,226.0,76.0,0.05,0.02,0.07,0.05,0.07,0.04,0.03,0.07,0.04,0.07,Matches,2023-2024,Atletico Madrid
+Koke,es ESP,MF,31,50,45,3776.0,42.0,0.0,6.0,6.0,0.0,0.0,0.0,9.0,0.0,0.5,0.5,4.8,5.3,32.0,258.0,36.0,0.0,0.14,0.14,0.0,0.14,0.01,0.13,0.15,0.01,0.15,Matches,2023-2024,Atletico Madrid
+Marcos Llorente,es ESP,"MF,DF",28,52,38,3595.0,39.9,6.0,6.0,12.0,6.0,0.0,0.0,6.0,0.0,4.4,4.4,7.8,12.2,88.0,135.0,230.0,0.15,0.15,0.3,0.15,0.3,0.12,0.22,0.34,0.12,0.34,Matches,2023-2024,Atletico Madrid
+Rodrigo De Paul,ar ARG,MF,29,48,38,3194.0,35.5,4.0,6.0,10.0,4.0,0.0,0.0,11.0,1.0,2.5,2.5,5.8,8.3,87.0,240.0,74.0,0.11,0.17,0.28,0.11,0.28,0.08,0.19,0.28,0.08,0.28,Matches,2023-2024,Atletico Madrid
+Nahuel Molina,ar ARG,DF,25,46,33,3013.0,33.5,2.0,5.0,7.0,2.0,0.0,0.0,5.0,1.0,1.4,1.4,3.7,5.0,58.0,108.0,228.0,0.06,0.15,0.21,0.06,0.21,0.05,0.13,0.17,0.05,0.17,Matches,2023-2024,Atletico Madrid
+Samuel Lino,br BRA,DF,23,46,36,2983.0,33.1,8.0,8.0,16.0,8.0,0.0,0.0,4.0,0.0,7.6,7.6,5.3,12.9,157.0,98.0,263.0,0.24,0.24,0.48,0.24,0.48,0.27,0.18,0.45,0.27,0.45,Matches,2023-2024,Atletico Madrid
+Álvaro Morata,es ESP,FW,30,48,33,2960.0,32.9,21.0,4.0,25.0,21.0,0.0,1.0,7.0,1.0,18.3,17.5,1.8,19.3,34.0,26.0,127.0,0.64,0.12,0.76,0.64,0.76,0.64,0.06,0.71,0.61,0.68,Matches,2023-2024,Atletico Madrid
+Stefan Savić,me MNE,DF,32,33,26,2348.0,26.1,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.0,0.4,0.4,0.2,0.6,15.0,81.0,2.0,0.0,0.0,0.0,0.0,0.0,0.02,0.01,0.02,0.02,0.02,Matches,2023-2024,Atletico Madrid
+José María Giménez,uy URU,DF,28,33,24,2227.0,24.7,0.0,1.0,1.0,0.0,0.0,0.0,8.0,0.0,0.5,0.5,1.0,1.5,2.0,30.0,3.0,0.0,0.04,0.04,0.0,0.04,0.03,0.05,0.08,0.03,0.08,Matches,2023-2024,Atletico Madrid
+Saúl Ñíguez,es ESP,MF,28,49,23,2078.0,23.1,2.0,4.0,6.0,2.0,0.0,0.0,11.0,1.0,1.9,1.9,3.3,5.2,23.0,46.0,55.0,0.09,0.17,0.26,0.09,0.26,0.09,0.17,0.26,0.09,0.26,Matches,2023-2024,Atletico Madrid
+Ángel Correa,ar ARG,"FW,MF",28,47,18,2023.0,22.5,11.0,3.0,14.0,10.0,1.0,1.0,4.0,0.0,10.0,9.2,4.4,13.6,47.0,82.0,162.0,0.49,0.13,0.62,0.44,0.58,0.49,0.22,0.71,0.45,0.67,Matches,2023-2024,Atletico Madrid
+Rodrigo Riquelme,es ESP,DF,23,47,20,2003.0,22.3,4.0,5.0,9.0,4.0,0.0,0.0,1.0,0.0,3.4,3.4,3.8,7.2,113.0,62.0,198.0,0.18,0.22,0.4,0.18,0.4,0.17,0.19,0.36,0.17,0.36,Matches,2023-2024,Atletico Madrid
+Pablo Barrios,es ESP,MF,20,35,20,1984.0,22.0,1.0,2.0,3.0,1.0,0.0,0.0,5.0,0.0,1.2,1.2,2.1,3.4,40.0,113.0,68.0,0.05,0.09,0.14,0.05,0.14,0.06,0.11,0.17,0.06,0.17,Matches,2023-2024,Atletico Madrid
+César Azpilicueta,es ESP,DF,33,34,18,1830.0,20.3,0.0,2.0,2.0,0.0,0.0,0.0,7.0,0.0,0.6,0.6,2.4,3.0,44.0,87.0,48.0,0.0,0.1,0.1,0.0,0.1,0.03,0.13,0.16,0.03,0.16,Matches,2023-2024,Atletico Madrid
+Memphis,nl NED,FW,29,31,11,1213.0,13.5,9.0,2.0,11.0,9.0,0.0,0.0,2.0,0.0,6.8,6.8,1.9,8.6,19.0,36.0,87.0,0.67,0.15,0.82,0.67,0.82,0.63,0.17,0.81,0.63,0.81,Matches,2023-2024,Atletico Madrid
+Reinildo Mandava,mz MOZ,DF,29,19,8,837.0,9.3,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,0.9,0.9,0.6,1.5,11.0,37.0,18.0,0.22,0.11,0.32,0.22,0.32,0.1,0.08,0.18,0.1,0.18,Matches,2023-2024,Atletico Madrid
+Gabriel Paulista,br BRA,DF,32,5,5,405.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1,0.3,1.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.02,0.06,0.04,0.06,Matches,2023-2024,Atletico Madrid
+Javi Galán,es ESP,DF,28,9,2,269.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.2,0.2,6.0,4.0,21.0,0.0,0.33,0.33,0.0,0.33,0.0,0.12,0.12,0.0,0.12,Matches,2023-2024,Atletico Madrid
+Yannick Carrasco,be BEL,DF,29,3,3,221.0,2.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2,0.3,9.0,6.0,17.0,0.0,0.41,0.41,0.0,0.41,0.03,0.1,0.12,0.03,0.12,Matches,2023-2024,Atletico Madrid
+Çağlar Söyüncü,tr TUR,DF,27,9,2,218.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.1,0.1,2.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2023-2024,Atletico Madrid
+Thomas Lemar,fr FRA,MF,27,3,3,164.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,5.0,13.0,9.0,0.0,0.0,0.0,0.0,0.0,0.09,0.01,0.1,0.09,0.1,Matches,2023-2024,Atletico Madrid
+Arthur Vermeeren,be BEL,MF,18,5,2,162.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.1,0.1,2.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.04,0.0,0.04,Matches,2023-2024,Atletico Madrid
+Salim El Jebari,ma MAR,MF,19,1,0,13.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2023-2024,Atletico Madrid
+Abdellah Raihani,ma MAR,FW,19,1,0,10.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2023-2024,Atletico Madrid
+Ilias Kostis,gr GRE,FW,20,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2023-2024,Atletico Madrid
+Mini,es ESP,MF,24,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Horaţiu Moldovan,ro ROU,GK,25,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Álex Calatrava,es ESP,MF,23,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Aitor Gismera,es ESP,MF,19,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Ivo Grbić,hr CRO,GK,27,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Javier Boñar Franco,es ESP,MF,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+João Félix,pt POR,"FW,MF",23,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Marco Moreno,es ESP,DF,22,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Rayane Belaid,es ESP,DF,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Sergio Mestre,es ESP,GK,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Antonio Gomis,es ESP,GK,20,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid
+Adrian Niño,es ESP,FW,19,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2023-2024,Atletico Madrid

@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-08-23,17:00,Ligue 1,Matchweek 1,Sun,Home,W,2,1,Lens,0.2,3.1,57.0,,Dante,4-3-3,3-4-1-2,Jérôme Miguelgorry,Match Report,,2020-2021,Nice
+2020-08-29,21:00,Ligue 1,Matchweek 2,Sat,Away,W,2,0,Strasbourg,1.3,0.3,55.0,,Dante,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Nice
+2020-09-12,17:00,Ligue 1,Matchweek 3,Sat,Away,L,1,3,Montpellier,0.7,1.7,61.0,,Dante,4-3-3,3-4-1-2,Antony Gautier,Match Report,,2020-2021,Nice
+2020-09-20,13:00,Ligue 1,Matchweek 4,Sun,Home,L,0,3,Paris S-G,1.0,3.3,50.0,,Dante,4-3-3,4-3-3,Benoît Bastien,Match Report,,2020-2021,Nice
+2020-09-27,13:00,Ligue 1,Matchweek 5,Sun,Away,D,0,0,Bordeaux,0.8,1.2,54.0,,Dante,4-4-1-1,4-2-3-1,François Letexier,Match Report,,2020-2021,Nice
+2020-10-03,21:00,Ligue 1,Matchweek 6,Sat,Home,W,2,1,Nantes,1.6,1.2,73.0,,Dante,4-1-4-1,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Nice
+2020-10-18,17:00,Ligue 1,Matchweek 7,Sun,Away,W,3,1,Saint-Étienne,2.3,0.8,54.0,,Dante,3-4-3,3-4-1-2,Amaury Delerue,Match Report,,2020-2021,Nice
+2020-10-22,18:55,Europa Lg,Group stage,Thu,Away,L,2,6,de Leverkusen,0.7,1.7,43.0,,Dante,3-5-1-1,4-1-4-1,Fran Jović,Match Report,,2020-2021,Nice
+2020-10-25,17:00,Ligue 1,Matchweek 8,Sun,Home,D,1,1,Lille,1.2,0.6,53.0,,Dante,5-3-2,4-4-2,Franck Schneider,Match Report,,2020-2021,Nice
+2020-10-29,21:00,Europa Lg,Group stage,Thu,Home,W,1,0,il Be'er Sheva,1.6,0.9,64.0,,Dante,3-4-3,5-4-1,Chris Kavanagh,Match Report,,2020-2021,Nice
+2020-11-01,15:00,Ligue 1,Matchweek 9,Sun,Away,W,3,0,Angers,2.3,0.4,48.0,,Dante,5-4-1,4-2-3-1,Jeremy Stinat,Match Report,,2020-2021,Nice
+2020-11-05,18:55,Europa Lg,Group stage,Thu,Away,L,2,3,cz Slavia Prague,1.2,1.8,54.0,,Pierre Lees-Melou,3-4-3,4-2-3-1,Jakob Kehlet,Match Report,,2020-2021,Nice
+2020-11-08,17:00,Ligue 1,Matchweek 10,Sun,Home,L,1,2,Monaco,1.0,2.0,63.0,,Pierre Lees-Melou,3-5-2,4-4-2,Karim Abed,Match Report,,2020-2021,Nice
+2020-11-26,21:00,Europa Lg,Group stage,Thu,Home,L,1,3,cz Slavia Prague,1.8,1.6,54.0,,Morgan Schneiderlin,4-3-3,4-5-1,Glenn Nyberg,Match Report,,2020-2021,Nice
+2020-11-29,17:00,Ligue 1,Matchweek 12,Sun,Home,L,1,3,Dijon,3.1,0.9,61.0,,Pierre Lees-Melou,4-3-3,4-2-3-1,François Letexier,Match Report,,2020-2021,Nice
+2020-12-03,21:00,Europa Lg,Group stage,Thu,Home,L,2,3,de Leverkusen,1.1,2.4,37.0,,Walter Benítez,5-4-1,4-4-2,Maurizio Mariani,Match Report,,2020-2021,Nice
+2020-12-06,17:00,Ligue 1,Matchweek 13,Sun,Away,D,0,0,Reims,0.7,0.5,65.0,,Morgan Schneiderlin,3-4-3,4-2-3-1,Stéphanie Frappart,Match Report,,2020-2021,Nice
+2020-12-10,19:55,Europa Lg,Group stage,Thu,Away,L,0,1,il Be'er Sheva,0.9,0.7,57.0,,Yoan Cardinale,4-2-3-1,5-4-1,Kristo Tohver,Match Report,,2020-2021,Nice
+2020-12-13,13:00,Ligue 1,Matchweek 14,Sun,Home,L,0,1,Rennes,0.9,1.3,54.0,,Morgan Schneiderlin,3-4-3,4-1-4-1,Amaury Delerue,Match Report,,2020-2021,Nice
+2020-12-16,19:00,Ligue 1,Matchweek 15,Wed,Away,W,2,0,Nîmes,1.8,1.1,55.0,,Morgan Schneiderlin,3-4-3,4-2-3-1,Ruddy Buquet,Match Report,,2020-2021,Nice
+2020-12-19,21:00,Ligue 1,Matchweek 16,Sat,Home,L,1,4,Lyon,0.9,3.3,55.0,,Walter Benítez,3-4-3,4-3-3,Antony Gautier,Match Report,,2020-2021,Nice
+2020-12-23,19:00,Ligue 1,Matchweek 17,Wed,Home,D,2,2,Lorient,0.6,2.6,43.0,,Morgan Schneiderlin,3-4-3,4-1-4-1,Aurélien Petit,Match Report,,2020-2021,Nice
+2021-01-06,19:00,Ligue 1,Matchweek 18,Wed,Away,L,0,2,Brest,1.5,1.2,61.0,,Morgan Schneiderlin,3-1-4-2,4-4-2,Jeremy Stinat,Match Report,,2020-2021,Nice
+2021-01-09,21:00,Ligue 1,Matchweek 19,Sat,Away,D,1,1,Metz,1.3,1.2,56.0,,Walter Benítez,3-1-4-2,5-4-1,Johan Hamel,Match Report,,2020-2021,Nice
+2021-01-17,15:00,Ligue 1,Matchweek 20,Sun,Home,L,0,3,Bordeaux,0.9,2.5,50.0,,Walter Benítez,3-1-4-2,4-1-4-1,Thomas Léonard,Match Report,,2020-2021,Nice
+2021-01-23,17:00,Ligue 1,Matchweek 21,Sat,Away,W,1,0,Lens,0.6,1.3,45.0,,Pierre Lees-Melou,3-1-4-2,3-4-1-2,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Nice
+2021-01-31,13:00,Ligue 1,Matchweek 22,Sun,Home,L,0,1,Saint-Étienne,0.5,1.4,46.0,,Pierre Lees-Melou,3-1-4-2,4-2-3-1,Franck Schneider,Match Report,,2020-2021,Nice
+2021-02-03,21:00,Ligue 1,Matchweek 23,Wed,Away,L,1,2,Monaco,0.4,2.6,58.0,,Pierre Lees-Melou,4-1-4-1,4-4-2,Jérôme Brisard,Match Report,,2020-2021,Nice
+2021-02-07,15:00,Ligue 1,Matchweek 24,Sun,Home,W,3,0,Angers,1.2,0.9,51.0,,Pierre Lees-Melou,4-3-3,4-2-3-1,Jérôme Miguelgorry,Match Report,,2020-2021,Nice
+2021-02-10,17:00,Coupe de France,Round of 64,Wed,Away,W,3,1,Nîmes,,,,,Pierre Lees-Melou,4-3-3,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Nice
+2021-02-13,17:00,Ligue 1,Matchweek 25,Sat,Away,L,1,2,Paris S-G,1.0,2.6,45.0,,Pierre Lees-Melou,4-1-4-1,4-2-3-1,Jérémie Pignard,Match Report,,2020-2021,Nice
+2021-02-17,21:00,Ligue 1,Matchweek 11,Wed,Away,L,2,3,Marseille,1.3,0.7,55.0,,Pierre Lees-Melou,4-1-4-1,4-2-3-1,Mikael Lesage,Match Report,,2020-2021,Nice
+2021-02-21,15:00,Ligue 1,Matchweek 26,Sun,Home,L,1,2,Metz,1.2,1.2,65.0,,Pierre Lees-Melou,4-3-3,3-4-3,Jeremy Stinat,Match Report,,2020-2021,Nice
+2021-02-26,21:00,Ligue 1,Matchweek 27,Fri,Away,W,2,1,Rennes,1.9,0.9,39.0,,Morgan Schneiderlin,4-4-2,4-3-3,Johan Hamel,Match Report,,2020-2021,Nice
+2021-03-03,19:00,Ligue 1,Matchweek 28,Wed,Home,W,2,1,Nîmes,1.4,2.4,54.0,,Morgan Schneiderlin,4-1-4-1,4-1-4-1,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Nice
+2021-03-08,21:00,Coupe de France,Round of 32,Mon,Home,L,0,2,Monaco,,,49.0,,Pierre Lees-Melou,4-1-4-1,4-2-3-1,Benoît Bastien,Match Report,,2020-2021,Nice
+2021-03-14,15:00,Ligue 1,Matchweek 29,Sun,Away,D,1,1,Lorient,0.5,2.2,51.0,,Pierre Lees-Melou,4-2-3-1,3-5-2,Ruddy Buquet,Match Report,,2020-2021,Nice
+2021-03-20,17:00,Ligue 1,Matchweek 30,Sat,Home,W,3,0,Marseille,2.4,0.4,43.0,,Morgan Schneiderlin,4-3-3,3-5-2,François Letexier,Match Report,,2020-2021,Nice
+2021-04-04,15:00,Ligue 1,Matchweek 31,Sun,Away,W,2,1,Nantes,2.5,1.5,50.0,,Pierre Lees-Melou,4-3-3,4-4-2,Stéphanie Frappart,Match Report,,2020-2021,Nice
+2021-04-11,15:00,Ligue 1,Matchweek 32,Sun,Home,D,0,0,Reims,0.6,0.5,54.0,,Morgan Schneiderlin,4-3-3,4-3-3,Jeremy Stinat,Match Report,,2020-2021,Nice
+2021-04-18,15:00,Ligue 1,Matchweek 33,Sun,Away,L,0,2,Dijon,0.7,1.6,57.0,,Pierre Lees-Melou,4-3-3,5-3-2,Johan Hamel,Match Report,,2020-2021,Nice
+2021-04-25,13:00,Ligue 1,Matchweek 34,Sun,Home,W,3,1,Montpellier,2.0,1.4,58.0,,Morgan Schneiderlin,4-1-4-1,4-2-3-1,Bastien Dechepy,Match Report,,2020-2021,Nice
+2021-05-01,21:00,Ligue 1,Matchweek 35,Sat,Away,L,0,2,Lille,0.0,0.8,45.0,,Morgan Schneiderlin,4-1-4-1,4-4-2,Amaury Delerue,Match Report,,2020-2021,Nice
+2021-05-09,15:00,Ligue 1,Matchweek 36,Sun,Home,W,3,2,Brest,2.9,0.9,63.0,,Pierre Lees-Melou,4-1-4-1,4-4-2,Thomas Léonard,Match Report,,2020-2021,Nice
+2021-05-16,21:00,Ligue 1,Matchweek 37,Sun,Home,L,0,2,Strasbourg,0.9,1.9,72.0,,Morgan Schneiderlin,4-1-4-1,5-3-2,Mikael Lesage,Match Report,,2020-2021,Nice
+2021-05-23,21:00,Ligue 1,Matchweek 38,Sun,Away,W,3,2,Lyon,1.6,1.4,45.0,,Pierre Lees-Melou,4-1-4-1,4-2-3-1,Benoît Millot,Match Report,,2020-2021,Nice

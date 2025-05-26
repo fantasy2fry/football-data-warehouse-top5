@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-07-27,15:30,2. Bundesliga,Matchweek 1,Sat,Home,D,1,1,Sandhausen,69,10103.0,Hauke Wahl,4-2-3-1,4-2-3-1,Tobias Stieler,Match Report,,2019-2020,Holstein Kiel
+2019-08-04,15:30,2. Bundesliga,Matchweek 2,Sun,Away,L,0,2,Darmstadt 98,71,13065.0,Hauke Wahl,4-3-3,4-3-3,Aarne Aarnink,Match Report,,2019-2020,Holstein Kiel
+2019-08-11,15:30,DFB-Pokal,First round,Sun,Away,W,6,0,Salmrohr,77,6500.0,Hauke Wahl,4-3-3,4-2-3-1,Thorben Siewer,Match Report,,2019-2020,Holstein Kiel
+2019-08-18,13:30,2. Bundesliga,Matchweek 3,Sun,Home,W,2,1,Karlsruher,61,11758.0,Hauke Wahl,3-4-3◆,4-4-2,Sascha Stegemann,Match Report,,2019-2020,Holstein Kiel
+2019-08-26,20:30,2. Bundesliga,Matchweek 4,Mon,Away,L,1,2,St. Pauli,55,29546.0,Hauke Wahl,4-2-3-1,3-4-1-2,Markus Schmidt,Match Report,,2019-2020,Holstein Kiel
+2019-09-01,13:30,2. Bundesliga,Matchweek 5,Sun,Home,D,1,1,Erzgebirge Aue,52,9465.0,Hauke Wahl,3-4-3,4-2-3-1,Lasse Koslowski,Match Report,,2019-2020,Holstein Kiel
+2019-09-14,13:00,2. Bundesliga,Matchweek 6,Sat,Away,L,0,3,Heidenheim,54,10800.0,Hauke Wahl,4-4-2◆,4-1-4-1,Nicolas Winter,Match Report,,2019-2020,Holstein Kiel
+2019-09-20,18:30,2. Bundesliga,Matchweek 7,Fri,Home,L,1,2,Hannover 96,49,15034.0,Hauke Wahl,4-3-3,4-3-3,Martin Thomsen,Match Report,,2019-2020,Holstein Kiel
+2019-09-29,13:30,2. Bundesliga,Matchweek 8,Sun,Away,W,3,0,Greuther Fürth,51,9350.0,Hauke Wahl,4-2-3-1,4-3-3,Aarne Aarnink,Match Report,,2019-2020,Holstein Kiel
+2019-10-06,13:30,2. Bundesliga,Matchweek 9,Sun,Home,L,1,2,Jahn R'burg,60,10065.0,Hauke Wahl,4-1-4-1,4-4-2,Sven Waschitzki,Match Report,,2019-2020,Holstein Kiel
+2019-10-20,13:30,2. Bundesliga,Matchweek 10,Sun,Away,W,1,0,Stuttgart,38,54176.0,Hauke Wahl,4-4-2◆,4-1-3-2,Benedikt Kempkes,Match Report,,2019-2020,Holstein Kiel
+2019-10-25,18:30,2. Bundesliga,Matchweek 11,Fri,Home,W,2,1,Bochum,49,12390.0,Hauke Wahl,4-4-2◆,4-2-3-1,Timo Gerach,Match Report,,2019-2020,Holstein Kiel
+2019-10-30,18:30,DFB-Pokal,Second round,Wed,Away,D,1 (7),1 (8),Verl,61,5153.0,Hauke Wahl,4-2-3-1,4-3-3,Christof Günsch,Match Report,Verl won on penalty kicks following extra time,2019-2020,Holstein Kiel
+2019-11-03,13:30,2. Bundesliga,Matchweek 12,Sun,Away,L,1,2,Arminia,57,19007.0,Hauke Wahl,4-3-1-2,4-2-3-1,Robert Kempter,Match Report,,2019-2020,Holstein Kiel
+2019-11-09,13:00,2. Bundesliga,Matchweek 13,Sat,Home,D,1,1,Hamburger SV,47,15034.0,Hauke Wahl,4-1-4-1,4-3-3,Christian Dingert,Match Report,,2019-2020,Holstein Kiel
+2019-11-23,13:00,2. Bundesliga,Matchweek 14,Sat,Away,W,6,3,Wehen,56,4053.0,Hauke Wahl,4-1-4-1,3-4-3,Thorben Siewer,Match Report,,2019-2020,Holstein Kiel
+2019-11-30,13:00,2. Bundesliga,Matchweek 15,Sat,Away,W,2,1,Dresden,47,24811.0,Hauke Wahl,4-3-3,3-4-1-2,Christof Günsch,Match Report,,2019-2020,Holstein Kiel
+2019-12-07,13:00,2. Bundesliga,Matchweek 16,Sat,Home,L,2,4,Osnabrück,64,11920.0,Hauke Wahl,4-3-3,4-2-3-1,Alexander Sather,Match Report,,2019-2020,Holstein Kiel
+2019-12-15,13:30,2. Bundesliga,Matchweek 17,Sun,Away,D,2,2,Nürnberg,67,25275.0,Hauke Wahl,4-3-3,4-2-2-2,Timo Gerach,Match Report,,2019-2020,Holstein Kiel
+2019-12-22,13:30,2. Bundesliga,Matchweek 18,Sun,Away,D,2,2,Sandhausen,47,4995.0,Hauke Wahl,3-4-3,4-3-1-2,Marco Fritz,Match Report,,2019-2020,Holstein Kiel
+2020-01-29,20:30,2. Bundesliga,Matchweek 19,Wed,Home,D,1,1,Darmstadt 98,58,9600.0,Hauke Wahl,4-3-3,4-2-3-1,Florian Heft,Match Report,,2019-2020,Holstein Kiel
+2020-02-01,13:00,2. Bundesliga,Matchweek 20,Sat,Away,W,2,0,Karlsruher,55,12403.0,Hauke Wahl,4-4-2◆,4-1-4-1,Johann Pfeifer,Match Report,,2019-2020,Holstein Kiel
+2020-02-10,20:30,2. Bundesliga,Matchweek 21,Mon,Home,W,2,1,St. Pauli,58,14129.0,Hauke Wahl,4-3-3,4-2-3-1,Aarne Aarnink,Match Report,,2019-2020,Holstein Kiel
+2020-02-16,13:30,2. Bundesliga,Matchweek 22,Sun,Away,W,2,1,Erzgebirge Aue,56,8700.0,Hauke Wahl,4-3-3,3-4-1-2,Robert Kampka,Match Report,,2019-2020,Holstein Kiel
+2020-02-22,13:00,2. Bundesliga,Matchweek 23,Sat,Home,L,0,1,Heidenheim,62,8000.0,Hauke Wahl,4-1-4-1,4-2-3-1,Robert Kempter,Match Report,,2019-2020,Holstein Kiel
+2020-03-02,20:30,2. Bundesliga,Matchweek 24,Mon,Away,L,1,3,Hannover 96,60,25200.0,Hauke Wahl,4-1-4-1,3-4-1-2,Sascha Stegemann,Match Report,,2019-2020,Holstein Kiel
+2020-03-08,13:30,2. Bundesliga,Matchweek 25,Sun,Home,D,1,1,Greuther Fürth,57,9390.0,Hauke Wahl,4-1-4-1,4-1-4-1,Frank Willenborg,Match Report,,2019-2020,Holstein Kiel
+2020-05-16,13:00,2. Bundesliga,Matchweek 26,Sat,Away,D,2,2,Jahn R'burg,56,,Hauke Wahl,4-1-4-1,4-4-1-1,Martin Petersen,Match Report,,2019-2020,Holstein Kiel
+2020-05-24,13:30,2. Bundesliga,Matchweek 27,Sun,Home,W,3,2,Stuttgart,40,,Hauke Wahl,4-1-4-1,4-2-3-1,Robert Schröder,Match Report,,2019-2020,Holstein Kiel
+2020-05-27,18:30,2. Bundesliga,Matchweek 28,Wed,Away,L,1,2,Bochum,49,,Hauke Wahl,4-1-4-1,4-2-3-1,Guido Winkmann,Match Report,,2019-2020,Holstein Kiel
+2020-05-30,13:00,2. Bundesliga,Matchweek 29,Sat,Home,L,1,2,Arminia,44,,Hauke Wahl,4-2-3-1,4-1-4-1,Patrick Ittrich,Match Report,,2019-2020,Holstein Kiel
+2020-06-08,20:30,2. Bundesliga,Matchweek 30,Mon,Away,D,3,3,Hamburger SV,52,,Hauke Wahl,4-2-3-1,4-1-4-1,Bastian Dankert,Match Report,,2019-2020,Holstein Kiel
+2020-06-13,13:00,2. Bundesliga,Matchweek 31,Sat,Home,L,1,2,Wehen,63,,Hauke Wahl,4-1-4-1,3-3-3-1,Sven Jablonski,Match Report,,2019-2020,Holstein Kiel
+2020-06-18,18:30,2. Bundesliga,Matchweek 32,Thu,Home,W,2,0,Dresden,67,,Hauke Wahl,4-1-4-1,4-2-3-1,Patrick Ittrich,Match Report,,2019-2020,Holstein Kiel
+2020-06-21,15:30,2. Bundesliga,Matchweek 33,Sun,Away,L,1,4,Osnabrück,41,,Hauke Wahl,4-1-4-1,4-3-1-2,Tobias Stieler,Match Report,,2019-2020,Holstein Kiel
+2020-06-28,15:30,2. Bundesliga,Matchweek 34,Sun,Home,D,1,1,Nürnberg,57,,Hauke Wahl,4-1-4-1,4-2-3-1,Sven Jablonski,Match Report,,2019-2020,Holstein Kiel

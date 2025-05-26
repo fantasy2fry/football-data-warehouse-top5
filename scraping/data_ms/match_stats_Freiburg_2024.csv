@@ -1,0 +1,38 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-17,15:30,DFB-Pokal,Round of 64,Sat,Away,W,4,0,Osnabrück,,,51,15500,Christian Günter,4-4-2,4-3-3,,Match Report,,2024-2025,Freiburg
+2024-08-24,15:30,Bundesliga,Matchweek 1,Sat,Home,W,3,1,Stuttgart,2.1,0.4,33,34700,Christian Günter,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Freiburg
+2024-09-01,17:30,Bundesliga,Matchweek 2,Sun,Away,L,0,2,Bayern Munich,1.0,1.5,34,75000,Christian Günter,4-2-3-1,4-1-4-1,Christian Dingert,Match Report,,2024-2025,Freiburg
+2024-09-14,15:30,Bundesliga,Matchweek 3,Sat,Home,W,2,1,Bochum,3.7,0.9,54,34100,Christian Günter,4-2-3-1,4-4-2,Daniel Siebert,Match Report,,2024-2025,Freiburg
+2024-09-21,15:30,Bundesliga,Matchweek 4,Sat,Away,W,3,0,Heidenheim,1.4,0.7,58,15000,Christian Günter,4-2-3-1,3-1-4-2,Benjamin Brand,Match Report,,2024-2025,Freiburg
+2024-09-28,15:30,Bundesliga,Matchweek 5,Sat,Home,L,0,3,St. Pauli,1.2,1.1,73,34700,Christian Günter,4-2-3-1,3-4-3,Timo Gerach,Match Report,,2024-2025,Freiburg
+2024-10-05,15:30,Bundesliga,Matchweek 6,Sat,Away,W,1,0,Werder Bremen,1.0,1.0,42,41200,Christian Günter,4-2-3-1,3-4-3,Tobias Welz,Match Report,,2024-2025,Freiburg
+2024-10-19,15:30,Bundesliga,Matchweek 7,Sat,Home,W,3,1,Augsburg,0.8,0.6,57,33500,Christian Günter,4-2-3-1,3-5-2,Bastian Dankert,Match Report,,2024-2025,Freiburg
+2024-10-26,15:30,Bundesliga,Matchweek 8,Sat,Away,L,1,3,RB Leipzig,1.7,1.8,57,45908,Christian Günter,4-2-3-1,4-2-2-2,Sven Jablonski,Match Report,,2024-2025,Freiburg
+2024-10-30,18:00,DFB-Pokal,Round of 32,Wed,Home,W,2,1,Hamburger SV,,,48,34500,Christian Günter,4-2-3-1,3-1-4-2,Felix Brych,Match Report,,2024-2025,Freiburg
+2024-11-03,15:30,Bundesliga,Matchweek 9,Sun,Home,D,0,0,Mainz 05,0.8,0.5,51,34400,Christian Günter,4-2-3-1,3-4-3,Benjamin Brand,Match Report,,2024-2025,Freiburg
+2024-11-08,20:30,Bundesliga,Matchweek 10,Fri,Away,D,0,0,Union Berlin,1.7,0.7,59,22012,Christian Günter,4-2-3-1,3-4-3,Tobias Reichel,Match Report,,2024-2025,Freiburg
+2024-11-23,15:30,Bundesliga,Matchweek 11,Sat,Away,L,0,4,Dortmund,0.8,1.3,41,81365,Christian Günter,4-2-3-1,4-1-4-1,Felix Brych,Match Report,,2024-2025,Freiburg
+2024-11-30,15:30,Bundesliga,Matchweek 12,Sat,Home,W,3,1,Gladbach,1.6,1.5,48,34700,Christian Günter,4-2-3-1,4-2-3-1,Robert Hartmann,Match Report,,2024-2025,Freiburg
+2024-12-03,18:00,DFB-Pokal,Round of 16,Tue,Away,L,1,3,Arminia,,,54,26311,Christian Günter,4-2-3-1,5-3-2,Frank Willenborg,Match Report,,2024-2025,Freiburg
+2024-12-08,17:30,Bundesliga,Matchweek 13,Sun,Away,D,1,1,Hoffenheim,1.0,1.4,50,22027,Christian Günter,4-4-2,4-2-3-1,Sven Jablonski,Match Report,,2024-2025,Freiburg
+2024-12-13,20:30,Bundesliga,Matchweek 14,Fri,Home,W,3,2,Wolfsburg,2.1,1.8,53,32600,Christian Günter,4-2-2-2,4-4-2,Sascha Stegemann,Match Report,,2024-2025,Freiburg
+2024-12-21,18:30,Bundesliga,Matchweek 15,Sat,Away,L,1,5,Leverkusen,0.7,2.8,33,30210,Christian Günter,4-2-3-1,3-4-3,Tobias Stieler,Match Report,,2024-2025,Freiburg
+2025-01-11,15:30,Bundesliga,Matchweek 16,Sat,Home,W,3,2,Holstein Kiel,0.7,1.8,51,33700,Christian Günter,4-2-3-1,3-4-3,Sören Storks,Match Report,,2024-2025,Freiburg
+2025-01-14,20:30,Bundesliga,Matchweek 17,Tue,Away,L,1,4,Eint Frankfurt,0.5,2.4,36,56500,Christian Günter,4-3-3,3-1-4-2,Sven Jablonski,Match Report,,2024-2025,Freiburg
+2025-01-18,15:30,Bundesliga,Matchweek 18,Sat,Away,L,0,4,Stuttgart,0.2,1.9,44,60000,Christian Günter,4-2-3-1,4-4-2,Felix Zwayer,Match Report,,2024-2025,Freiburg
+2025-01-25,15:30,Bundesliga,Matchweek 19,Sat,Home,L,1,2,Bayern Munich,0.3,1.0,35,34700,Maximilian Eggestein,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,,2024-2025,Freiburg
+2025-02-01,15:30,Bundesliga,Matchweek 20,Sat,Away,W,1,0,Bochum,1.7,1.0,42,25900,Christian Günter,4-2-3-1,4-2-3-1,Tobias Welz,Match Report,,2024-2025,Freiburg
+2025-02-08,15:30,Bundesliga,Matchweek 21,Sat,Home,W,1,0,Heidenheim,1.0,0.5,53,34000,Christian Günter,4-2-3-1,4-2-3-1,Timo Gerach,Match Report,,2024-2025,Freiburg
+2025-02-15,15:30,Bundesliga,Matchweek 22,Sat,Away,W,1,0,St. Pauli,1.3,0.2,46,29546,Christian Günter,4-2-3-1,3-4-3,Benjamin Brand,Match Report,,2024-2025,Freiburg
+2025-02-21,20:30,Bundesliga,Matchweek 23,Fri,Home,W,5,0,Werder Bremen,1.8,1.2,37,34700,Christian Günter,4-2-3-1,3-5-2,Max Burda,Match Report,,2024-2025,Freiburg
+2025-03-02,17:30,Bundesliga,Matchweek 24,Sun,Away,D,0,0,Augsburg,0.8,1.5,49,29651,Christian Günter,4-2-3-1,3-4-3,Harm Osmers,Match Report,,2024-2025,Freiburg
+2025-03-08,18:30,Bundesliga,Matchweek 25,Sat,Home,D,0,0,RB Leipzig,0.5,1.5,53,32900,Christian Günter,4-2-3-1,4-4-2,Sven Jablonski,Match Report,,2024-2025,Freiburg
+2025-03-15,15:30,Bundesliga,Matchweek 26,Sat,Away,D,2,2,Mainz 05,3.1,1.3,56,33305,Christian Günter,4-4-1-1,3-4-3,Benjamin Brand,Match Report,,2024-2025,Freiburg
+2025-03-30,15:30,Bundesliga,Matchweek 27,Sun,Home,L,1,2,Union Berlin,1.4,1.0,72,34300,Christian Günter,4-4-1-1,3-4-3,Sören Storks,Match Report,,2024-2025,Freiburg
+2025-04-05,15:30,Bundesliga,Matchweek 28,Sat,Home,L,1,4,Dortmund,1.8,3.3,54,34700,Vincenzo Grifo,4-2-3-1,3-5-2,Felix Zwayer,Match Report,,2024-2025,Freiburg
+2025-04-12,15:30,Bundesliga,Matchweek 29,Sat,Away,W,2,1,Gladbach,1.6,0.7,58,53981,Christian Günter,4-2-3-1,4-2-3-1,Deniz Aytekin,Match Report,,2024-2025,Freiburg
+2025-04-19,15:30,Bundesliga,Matchweek 30,Sat,Home,W,3,2,Hoffenheim,1.3,1.5,40,34100,Vincenzo Grifo,4-4-1-1,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Freiburg
+2025-04-26,15:30,Bundesliga,Matchweek 31,Sat,Away,W,1,0,Wolfsburg,1.6,0.3,56,23145,Vincenzo Grifo,4-4-1-1,3-5-2,Sven Jablonski,Match Report,,2024-2025,Freiburg
+2025-05-04,17:30,Bundesliga,Matchweek 32,Sun,Home,D,2,2,Leverkusen,0.9,0.3,33,34700,Vincenzo Grifo,4-4-1-1,3-4-3,Daniel Siebert,Match Report,,2024-2025,Freiburg
+2025-05-10,15:30,Bundesliga,Matchweek 33,Sat,Away,W,2,1,Holstein Kiel,1.4,1.0,40,15034,Vincenzo Grifo,4-4-1-1,3-4-1-2,Robert Schröder,Match Report,,2024-2025,Freiburg
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Home,L,1,3,Eint Frankfurt,0.7,2.0,59,34700,Vincenzo Grifo,4-4-1-1,3-4-3,Benjamin Brand,Match Report,,2024-2025,Freiburg

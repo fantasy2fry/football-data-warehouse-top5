@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-18,19:00,La Liga,Matchweek 1,Sun,Away,W,2.0,0.0,Espanyol,1.6,0.2,55.0,19832.0,Jesús Navas,4-3-3,4-4-2,Juan Martínez,Match Report,,2019-2020,Sevilla
+2019-08-23,20:00,La Liga,Matchweek 2,Fri,Away,W,1.0,0.0,Granada,1.1,0.5,54.0,15849.0,Jesús Navas,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,2019-2020,Sevilla
+2019-08-30,20:00,La Liga,Matchweek 3,Fri,Home,D,1.0,1.0,Celta Vigo,1.5,0.4,63.0,37787.0,Jesús Navas,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2019-2020,Sevilla
+2019-09-15,14:00,La Liga,Matchweek 4,Sun,Away,W,1.0,0.0,Alavés,1.1,0.8,61.0,16309.0,Jesús Navas,4-3-3,4-4-2,Alejandro Hernández,Match Report,,2019-2020,Sevilla
+2019-09-19,20:55,Europa Lg,Group stage,Thu,Away,W,3.0,0.0,az Qarabağ,1.7,0.7,70.0,30826.0,Sergio Escudero,4-3-3,4-1-4-1,Yevhen Aranovskyi,Match Report,,2019-2020,Sevilla
+2019-09-22,21:00,La Liga,Matchweek 5,Sun,Home,L,0.0,1.0,Real Madrid,0.5,1.2,55.0,42354.0,Jesús Navas,4-3-3,4-2-3-1,Juan Martínez,Match Report,,2019-2020,Sevilla
+2019-09-26,19:00,La Liga,Matchweek 6,Thu,Away,L,2.0,3.0,Eibar,1.4,1.5,53.0,5434.0,Jesús Navas,4-3-3,4-2-3-1,Pablo González,Match Report,,2019-2020,Sevilla
+2019-09-29,21:00,La Liga,Matchweek 7,Sun,Home,W,3.0,2.0,Real Sociedad,1.7,0.8,52.0,37414.0,Jesús Navas,4-3-3,4-3-3,Alberola Rojas,Match Report,,2019-2020,Sevilla
+2019-10-03,21:00,Europa Lg,Group stage,Thu,Home,W,1.0,0.0,cy APOEL,2.2,0.1,77.0,30008.0,Sergio Escudero,4-3-3,5-4-1,Bas Nijhuis,Match Report,,2019-2020,Sevilla
+2019-10-06,21:00,La Liga,Matchweek 8,Sun,Away,L,0.0,4.0,Barcelona,2.5,2.1,44.0,81331.0,Jesús Navas,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2019-2020,Sevilla
+2019-10-20,21:00,La Liga,Matchweek 9,Sun,Home,W,1.0,0.0,Levante,2.7,0.5,59.0,34612.0,Jesús Navas,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,2019-2020,Sevilla
+2019-10-24,21:00,Europa Lg,Group stage,Thu,Home,W,3.0,0.0,lu F91 Dudelange,2.4,0.1,73.0,26165.0,Sergio Escudero,4-4-2,4-3-3,Anastasios Papapetrou,Match Report,,2019-2020,Sevilla
+2019-10-27,18:30,La Liga,Matchweek 10,Sun,Home,W,2.0,0.0,Getafe,2.0,0.7,63.0,38181.0,Jesús Navas,4-3-3,4-4-2,José Sánchez,Match Report,,2019-2020,Sevilla
+2019-10-30,19:00,La Liga,Matchweek 11,Wed,Away,D,1.0,1.0,Valencia,0.6,0.8,54.0,37881.0,Jesús Navas,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2019-2020,Sevilla
+2019-11-02,18:30,La Liga,Matchweek 12,Sat,Home,D,1.0,1.0,Atlético Madrid,0.7,2.8,55.0,39957.0,Jesús Navas,3-1-4-2,4-4-2,José González,Match Report,,2019-2020,Sevilla
+2019-11-07,18:55,Europa Lg,Group stage,Thu,Away,W,5.0,2.0,lu F91 Dudelange,4.5,1.6,72.0,2848.0,Sergio Escudero,4-2-3-1,4-2-3-1,Vilhjálmur Thórarinsson,Match Report,,2019-2020,Sevilla
+2019-11-10,21:00,La Liga,Matchweek 13,Sun,Away,W,2.0,1.0,Betis,0.9,1.9,46.0,52123.0,Jesús Navas,4-3-3,3-5-1-1,Alejandro Hernández,Match Report,,2019-2020,Sevilla
+2019-11-24,21:00,La Liga,Matchweek 14,Sun,Away,W,1.0,0.0,Valladolid,1.4,0.5,54.0,18169.0,Jesús Navas,4-3-3,4-4-2,Eduardo Prieto,Match Report,,2019-2020,Sevilla
+2019-11-28,21:00,Europa Lg,Group stage,Thu,Home,W,2.0,0.0,az Qarabağ,0.8,0.2,72.0,19803.0,Daniel Carriço,4-2-3-1,5-4-1,Mohammed Al Hakim,Match Report,,2019-2020,Sevilla
+2019-12-01,12:00,La Liga,Matchweek 15,Sun,Home,W,1.0,0.0,Leganés,2.1,0.7,62.0,33648.0,Jesús Navas,4-3-3,5-3-2,Ricardo de Burgos,Match Report,,2019-2020,Sevilla
+2019-12-08,21:00,La Liga,Matchweek 16,Sun,Away,D,1.0,1.0,Osasuna,1.5,0.8,60.0,15045.0,Jesús Navas,4-3-3,4-4-2,Javier Estrada,Match Report,,2019-2020,Sevilla
+2019-12-12,19:55,Europa Lg,Group stage,Thu,Away,L,0.0,1.0,cy APOEL,1.5,1.1,74.0,5608.0,Sergio Escudero,4-2-3-1,4-5-1,Nikola Dabanović,Match Report,,2019-2020,Sevilla
+2019-12-15,18:30,La Liga,Matchweek 17,Sun,Home,L,1.0,2.0,Villarreal,1.7,1.5,72.0,36521.0,Jesús Navas,4-3-3,4-1-4-1,Adrián Cordero,Match Report,,2019-2020,Sevilla
+2019-12-18,18:00,Copa del Rey,First round,Wed,Away,W,1.0,0.0,Bergantiños FC,,,,,,,,,Match Report,,2019-2020,Sevilla
+2019-12-21,13:00,La Liga,Matchweek 18,Sat,Away,W,2.0,0.0,Mallorca,1.6,0.8,60.0,14321.0,Jesús Navas,4-3-3,4-4-1-1,Jesús Gil,Match Report,,2019-2020,Sevilla
+2020-01-03,21:00,La Liga,Matchweek 19,Fri,Home,D,1.0,1.0,Athletic Club,1.3,0.2,65.0,37972.0,Jesús Navas,4-3-3,3-5-2,José González,Match Report,,2019-2020,Sevilla
+2020-01-12,12:00,Copa del Rey,Second round,Sun,Away,W,5.0,0.0,UM Escobedo,,,,,,,,,Match Report,,2019-2020,Sevilla
+2020-01-18,16:00,La Liga,Matchweek 20,Sat,Away,L,1.0,2.0,Real Madrid,0.4,1.3,48.0,72512.0,Jesús Navas,4-3-3,4-3-3,Juan Martínez,Match Report,,2019-2020,Sevilla
+2020-01-21,21:00,Copa del Rey,Round of 32,Tue,Home,W,3.0,1.0,Levante,,,73.0,28104.0,Jesús Navas,4-3-3,4-4-2,José Sánchez,Match Report,,2019-2020,Sevilla
+2020-01-25,21:00,La Liga,Matchweek 21,Sat,Home,W,2.0,0.0,Granada,0.8,0.6,59.0,33533.0,Jesús Navas,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,2019-2020,Sevilla
+2020-01-30,21:00,Copa del Rey,Round of 16,Thu,Away,L,1.0,3.0,CD Mirandés,,,67.0,4500.0,Jesús Navas,4-3-3,4-2-3-1,Santiago Jaime,Match Report,,2019-2020,Sevilla
+2020-02-02,18:30,La Liga,Matchweek 22,Sun,Home,D,1.0,1.0,Alavés,1.7,0.7,73.0,36286.0,Jesús Navas,4-3-3,5-3-2,Carlos del Cerro,Match Report,,2019-2020,Sevilla
+2020-02-09,18:30,La Liga,Matchweek 23,Sun,Away,L,1.0,2.0,Celta Vigo,1.2,1.6,55.0,20375.0,Jesús Navas,4-3-3,4-3-3,Santiago Jaime,Match Report,,2019-2020,Sevilla
+2020-02-16,12:00,La Liga,Matchweek 24,Sun,Home,D,2.0,2.0,Espanyol,1.8,0.5,66.0,35661.0,Jesús Navas,4-3-3,4-2-3-1,Adrián Cordero,Match Report,,2019-2020,Sevilla
+2020-02-20,19:55,Europa Lg,Round of 32,Thu,Away,D,1.0,1.0,ro CFR Cluj,1.3,1.2,68.0,14820.0,Jesús Navas,4-3-3,4-4-2,Deniz Aytekin,Match Report,Leg 1 of 2,2019-2020,Sevilla
+2020-02-23,18:30,La Liga,Matchweek 25,Sun,Away,W,3.0,0.0,Getafe,2.5,0.5,50.0,13438.0,Jesús Navas,3-4-3,4-4-2,Javier Estrada,Match Report,,2019-2020,Sevilla
+2020-02-27,21:00,Europa Lg,Round of 32,Thu,Home,D,0.0,0.0,ro CFR Cluj,1.6,0.8,71.0,31338.0,Jesús Navas,4-3-3,4-2-3-1,Andris Treimanis,Match Report,Leg 2 of 2; Sevilla won,2019-2020,Sevilla
+2020-03-01,12:00,La Liga,Matchweek 26,Sun,Home,W,3.0,2.0,Osasuna,2.4,1.7,63.0,31382.0,Jesús Navas,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2019-2020,Sevilla
+2020-03-07,16:00,La Liga,Matchweek 27,Sat,Away,D,2.0,2.0,Atlético Madrid,1.7,2.0,55.0,60422.0,Jesús Navas,4-1-4-1,4-4-2,Alejandro Hernández,Match Report,,2019-2020,Sevilla
+2020-03-19,21:00,Europa Lg,Round of 16,Thu,Away,,,,it Roma,,,,,,,,,Match Report,Leg 1 of 2; Match Cancelled,2019-2020,Sevilla
+2020-06-11,22:00,La Liga,Matchweek 28,Thu,Home,W,2.0,0.0,Betis,1.7,0.5,46.0,,Jesús Navas,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2019-2020,Sevilla
+2020-06-15,19:30,La Liga,Matchweek 29,Mon,Away,D,1.0,1.0,Levante,0.9,0.9,58.0,,Jesús Navas,4-3-3,4-4-2,Alejandro Hernández,Match Report,,2019-2020,Sevilla
+2020-06-19,22:00,La Liga,Matchweek 30,Fri,Home,D,0.0,0.0,Barcelona,0.8,0.8,36.0,,Jesús Navas,4-3-3,4-4-2,José González,Match Report,,2019-2020,Sevilla
+2020-06-22,19:30,La Liga,Matchweek 31,Mon,Away,D,2.0,2.0,Villarreal,0.9,0.9,58.0,,Sergio Escudero,4-3-3,4-4-2,José Sánchez,Match Report,,2019-2020,Sevilla
+2020-06-26,22:00,La Liga,Matchweek 32,Fri,Home,D,1.0,1.0,Valladolid,1.7,0.6,74.0,,Jesús Navas,4-3-3,4-4-2,Valentín Pizarro,Match Report,,2019-2020,Sevilla
+2020-06-30,21:00,La Liga,Matchweek 33,Tue,Away,W,3.0,0.0,Leganés,0.6,0.8,58.0,,Jesús Navas,4-3-3,4-3-3,César Soto,Match Report,,2019-2020,Sevilla
+2020-07-06,22:00,La Liga,Matchweek 34,Mon,Home,W,1.0,0.0,Eibar,1.3,1.5,62.0,,Jesús Navas,4-3-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Sevilla
+2020-07-09,22:00,La Liga,Matchweek 35,Thu,Away,W,2.0,1.0,Athletic Club,1.7,0.9,66.0,,Jesús Navas,4-3-3,4-2-3-1,David Medié,Match Report,,2019-2020,Sevilla
+2020-07-12,22:00,La Liga,Matchweek 36,Sun,Home,W,2.0,0.0,Mallorca,1.7,0.4,63.0,,Jesús Navas,4-3-3,4-3-3,Adrián Cordero,Match Report,,2019-2020,Sevilla
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Away,D,0.0,0.0,Real Sociedad,0.7,0.8,62.0,,Jesús Navas,4-2-3-1,5-3-2,Carlos del Cerro,Match Report,,2019-2020,Sevilla
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Home,W,1.0,0.0,Valencia,0.8,0.3,62.0,,Jesús Navas,4-3-3,4-4-2,José González,Match Report,,2019-2020,Sevilla
+2020-08-06,18:55,Europa Lg,Round of 16,Thu,Neutral,W,2.0,0.0,it Roma,2.4,0.5,56.0,,Jesús Navas,4-3-3,3-4-3,Björn Kuipers,Match Report,Leg 2 of 2; Roma won,2019-2020,Sevilla
+2020-08-11,21:00,Europa Lg,Quarter-finals,Tue,Neutral,W,1.0,0.0,eng Wolves,1.5,1.0,75.0,,Jesús Navas,4-3-3,5-3-2,Daniele Orsato,Match Report,,2019-2020,Sevilla
+2020-08-16,21:00,Europa Lg,Semi-finals,Sun,Neutral,W,2.0,1.0,eng Manchester Utd,1.2,2.4,53.0,,Jesús Navas,4-3-3,4-2-3-1,Felix Brych,Match Report,,2019-2020,Sevilla
+2020-08-21,21:00,Europa Lg,Final,Fri,Neutral,W,3.0,2.0,it Inter,0.9,1.5,48.0,,Jesús Navas,4-3-3,3-5-2,Danny Makkelie,Match Report,,2019-2020,Sevilla

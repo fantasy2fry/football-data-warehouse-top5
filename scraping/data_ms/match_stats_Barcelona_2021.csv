@@ -1,0 +1,54 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,20:00,La Liga,Matchweek 1,Sun,Home,W,4,2,Real Sociedad,2.8,0.8,62,20384.0,Sergio Busquets,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,2021-2022,Barcelona
+2021-08-21,22:00,La Liga,Matchweek 2,Sat,Away,D,1,1,Athletic Club,1.0,1.4,67,9394.0,Sergio Busquets,4-3-3,4-4-2,Juan Martínez,Match Report,,2021-2022,Barcelona
+2021-08-29,17:00,La Liga,Matchweek 3,Sun,Home,W,2,1,Getafe,1.1,0.4,66,26543.0,Sergio Busquets,4-3-3,4-4-2,Pablo González,Match Report,,2021-2022,Barcelona
+2021-09-14,21:00,Champions Lg,Group stage,Tue,Home,L,0,3,de Bayern Munich,0.2,2.7,49,39737.0,Sergio Busquets,3-1-4-2,4-2-3-1,Michael Oliver,Match Report,,2021-2022,Barcelona
+2021-09-20,21:00,La Liga,Matchweek 5,Mon,Home,D,1,1,Granada,1.8,0.8,76,27097.0,Sergio Busquets,4-3-3,4-1-4-1,Santiago Jaime,Match Report,,2021-2022,Barcelona
+2021-09-23,22:00,La Liga,Matchweek 6,Thu,Away,D,0,0,Cádiz,0.4,1.3,67,12180.0,Sergio Busquets,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Barcelona
+2021-09-26,16:15,La Liga,Matchweek 7,Sun,Home,W,3,0,Levante,2.9,0.8,70,35334.0,Sergio Busquets,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Barcelona
+2021-09-29,20:00,Champions Lg,Group stage,Wed,Away,L,0,3,pt Benfica,1.2,1.9,59,29454.0,Sergio Busquets,3-4-1-2,3-4-3,Daniele Orsato,Match Report,,2021-2022,Barcelona
+2021-10-02,21:00,La Liga,Matchweek 8,Sat,Away,L,0,2,Atlético Madrid,0.7,1.2,70,60594.0,Sergio Busquets,4-2-3-1,3-1-4-2,César Soto,Match Report,,2021-2022,Barcelona
+2021-10-17,21:00,La Liga,Matchweek 9,Sun,Home,W,3,1,Valencia,1.9,0.4,60,47317.0,Sergio Busquets,4-3-3,4-1-4-1,Jesús Gil,Match Report,,2021-2022,Barcelona
+2021-10-20,18:45,Champions Lg,Group stage,Wed,Home,W,1,0,ua Dynamo Kyiv,2.2,0.1,62,45968.0,Sergio Busquets,4-3-3,4-4-1-1,Clément Turpin,Match Report,,2021-2022,Barcelona
+2021-10-24,16:15,La Liga,Matchweek 10,Sun,Home,L,1,2,Real Madrid,1.6,1.5,51,86422.0,Sergio Busquets,4-3-3,4-3-3,José Sánchez,Match Report,,2021-2022,Barcelona
+2021-10-27,19:00,La Liga,Matchweek 11,Wed,Away,L,0,1,Rayo Vallecano,2.5,0.8,68,9340.0,Sergio Busquets,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Barcelona
+2021-10-30,21:00,La Liga,Matchweek 12,Sat,Home,D,1,1,Alavés,1.3,0.9,79,37278.0,Sergio Busquets,4-3-3,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Barcelona
+2021-11-02,22:00,Champions Lg,Group stage,Tue,Away,W,1,0,ua Dynamo Kyiv,1.1,1.1,64,31378.0,Sergio Busquets,4-3-3,4-2-3-1,Ovidiu Hațegan,Match Report,,2021-2022,Barcelona
+2021-11-06,16:15,La Liga,Matchweek 13,Sat,Away,D,3,3,Celta Vigo,0.9,1.5,48,13146.0,Sergio Busquets,4-3-3,4-1-3-2,Alejandro Hernández,Match Report,,2021-2022,Barcelona
+2021-11-20,21:00,La Liga,Matchweek 14,Sat,Home,W,1,0,Espanyol,1.4,1.0,65,74418.0,Sergio Busquets,4-3-3,4-1-4-1,Carlos del Cerro,Match Report,,2021-2022,Barcelona
+2021-11-23,21:00,Champions Lg,Group stage,Tue,Home,D,0,0,pt Benfica,1.4,1.2,65,49572.0,Sergio Busquets,3-4-3,3-4-3,Sergey Karasev,Match Report,,2021-2022,Barcelona
+2021-11-27,21:00,La Liga,Matchweek 15,Sat,Away,W,3,1,Villarreal,3.2,1.1,50,19050.0,Sergio Busquets,4-3-3,4-4-2,César Soto,Match Report,,2021-2022,Barcelona
+2021-12-04,16:15,La Liga,Matchweek 16,Sat,Home,L,0,1,Betis,1.0,0.6,63,66529.0,Sergio Busquets,4-3-3,4-2-3-1,Pablo González,Match Report,,2021-2022,Barcelona
+2021-12-08,21:00,Champions Lg,Group stage,Wed,Away,L,0,3,de Bayern Munich,0.4,2.4,48,,Sergio Busquets,4-3-3,4-2-3-1,Ovidiu Hațegan,Match Report,,2021-2022,Barcelona
+2021-12-12,16:15,La Liga,Matchweek 17,Sun,Away,D,2,2,Osasuna,0.9,0.3,61,21427.0,Sergio Busquets,3-3-3-1,4-1-4-1,Juan Martínez,Match Report,,2021-2022,Barcelona
+2021-12-18,18:30,La Liga,Matchweek 18,Sat,Home,W,3,2,Elche,2.7,1.3,72,41664.0,Sergio Busquets,3-4-3◆,4-4-2,Alberola Rojas,Match Report,,2021-2022,Barcelona
+2021-12-21,21:30,La Liga,Matchweek 4,Tue,Away,D,1,1,Sevilla,1.8,0.3,58,31358.0,Sergio Busquets,4-3-3,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Barcelona
+2022-01-02,21:00,La Liga,Matchweek 19,Sun,Away,W,1,0,Mallorca,1.3,0.8,64,14654.0,Gerard Piqué,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Barcelona
+2022-01-05,19:30,Copa del Rey,Round of 32,Wed,Away,W,2,1,Linares Dep,,,81,10000.0,Sergio Busquets,3-1-4-2,4-4-2,Guillermo Cuadra,Match Report,,2021-2022,Barcelona
+2022-01-08,18:30,La Liga,Matchweek 20,Sat,Away,D,1,1,Granada,0.6,0.9,64,14442.0,Sergio Busquets,4-3-3,4-4-2,Pablo González,Match Report,,2021-2022,Barcelona
+2022-01-12,22:00,Supercopa de España,Semi-finals,Wed,Home,L,2,3,Real Madrid,,,53,,Sergio Busquets,4-3-3,4-3-3,José Luis Munuera,Match Report,Required Extra Time,2021-2022,Barcelona
+2022-01-20,21:30,Copa del Rey,Round of 16,Thu,Away,L,2,3,Athletic Club,,,67,37287.0,Sergio Busquets,4-3-3,4-4-2,José Luis Munuera,Match Report,Required Extra Time,2021-2022,Barcelona
+2022-01-23,21:00,La Liga,Matchweek 22,Sun,Away,W,1,0,Alavés,1.5,0.6,75,14056.0,Sergio Busquets,4-3-3,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Barcelona
+2022-02-06,16:15,La Liga,Matchweek 23,Sun,Home,W,4,2,Atlético Madrid,1.0,1.3,56,74221.0,Sergio Busquets,4-3-3,4-3-3,Jesús Gil,Match Report,,2021-2022,Barcelona
+2022-02-13,21:00,La Liga,Matchweek 24,Sun,Away,D,2,2,Espanyol,1.5,1.1,64,25049.0,Sergio Busquets,4-3-3,4-1-4-1,Alejandro Hernández,Match Report,,2021-2022,Barcelona
+2022-02-17,18:45,Europa Lg,Knockout round play-offs,Thu,Home,D,1,1,it Napoli,2.4,0.8,66,73525.0,Gerard Piqué,4-3-3,4-2-3-1,István Kovács,Match Report,Leg 1 of 2,2021-2022,Barcelona
+2022-02-20,16:15,La Liga,Matchweek 25,Sun,Away,W,4,1,Valencia,2.0,0.8,64,38315.0,Sergio Busquets,4-3-3,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Barcelona
+2022-02-24,21:00,Europa Lg,Knockout round play-offs,Thu,Away,W,4,2,it Napoli,1.9,1.3,56,37858.0,Sergio Busquets,4-3-3,4-2-3-1,Sergey Karasev,Match Report,Leg 2 of 2; Barcelona won,2021-2022,Barcelona
+2022-02-27,21:00,La Liga,Matchweek 26,Sun,Home,W,4,0,Athletic Club,3.1,0.3,71,69770.0,Sergio Busquets,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,2021-2022,Barcelona
+2022-03-06,16:15,La Liga,Matchweek 27,Sun,Away,W,2,1,Elche,4.1,1.1,67,30146.0,Sergio Busquets,4-3-3,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Barcelona
+2022-03-10,21:00,Europa Lg,Round of 16,Thu,Home,D,0,0,tr Galatasaray,1.6,0.2,68,61740.0,Jordi Alba,4-3-3,4-2-3-1,Benoît Bastien,Match Report,Leg 1 of 2,2021-2022,Barcelona
+2022-03-13,21:00,La Liga,Matchweek 28,Sun,Home,W,4,0,Osasuna,3.6,0.2,72,54507.0,Sergio Busquets,4-3-3,4-4-1-1,Ricardo de Burgos,Match Report,,2021-2022,Barcelona
+2022-03-17,20:45,Europa Lg,Round of 16,Thu,Away,W,2,1,tr Galatasaray,2.4,0.7,67,50110.0,Sergio Busquets,4-3-3,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Barcelona won,2021-2022,Barcelona
+2022-03-20,21:00,La Liga,Matchweek 29,Sun,Away,W,4,0,Real Madrid,3.4,0.8,60,60017.0,Sergio Busquets,4-3-3,4-2-4-0,Juan Martínez,Match Report,,2021-2022,Barcelona
+2022-04-03,21:00,La Liga,Matchweek 30,Sun,Home,W,1,0,Sevilla,1.9,0.6,55,76112.0,Sergio Busquets,4-3-3,4-2-3-1,José Sánchez,Match Report,,2021-2022,Barcelona
+2022-04-07,21:00,Europa Lg,Quarter-finals,Thu,Away,D,1,1,de Eint Frankfurt,0.9,1.4,65,48000.0,Sergio Busquets,4-3-3,3-4-3,Srđan Jovanović,Match Report,Leg 1 of 2,2021-2022,Barcelona
+2022-04-10,21:00,La Liga,Matchweek 31,Sun,Away,W,3,2,Levante,1.2,3.4,63,20785.0,Sergio Busquets,4-3-3,5-3-2,José Luis Munuera,Match Report,,2021-2022,Barcelona
+2022-04-14,21:00,Europa Lg,Quarter-finals,Thu,Home,L,2,3,de Eint Frankfurt,2.6,2.0,74,79468.0,Sergio Busquets,4-3-3,3-4-3,Artur Dias,Match Report,Leg 2 of 2; Eint Frankfurt won,2021-2022,Barcelona
+2022-04-18,21:00,La Liga,Matchweek 32,Mon,Home,L,0,1,Cádiz,1.2,1.7,74,57495.0,Sergio Busquets,4-3-3,4-2-3-1,Santiago Jaime,Match Report,,2021-2022,Barcelona
+2022-04-21,21:30,La Liga,Matchweek 33,Thu,Away,W,1,0,Real Sociedad,1.1,0.8,45,35128.0,Sergio Busquets,4-3-3,4-1-3-2,Carlos del Cerro,Match Report,,2021-2022,Barcelona
+2022-04-24,21:00,La Liga,Matchweek 21,Sun,Home,L,0,1,Rayo Vallecano,1.7,0.3,70,57023.0,Sergio Busquets,4-3-3,4-2-3-1,Isidro Díaz de Mera,Match Report,,2021-2022,Barcelona
+2022-05-01,21:00,La Liga,Matchweek 34,Sun,Home,W,2,1,Mallorca,1.2,1.0,70,62789.0,Sergio Busquets,4-3-3,3-4-1-2,Pablo González,Match Report,,2021-2022,Barcelona
+2022-05-07,21:00,La Liga,Matchweek 35,Sat,Away,W,2,1,Betis,1.2,0.7,57,46132.0,Sergio Busquets,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Barcelona
+2022-05-10,21:30,La Liga,Matchweek 36,Tue,Home,W,3,1,Celta Vigo,1.1,0.7,54,55899.0,Jordi Alba,4-2-3-1,4-1-3-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Barcelona
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Away,D,0,0,Getafe,0.2,0.3,71,13072.0,Sergio Busquets,4-3-3,5-3-2,Jesús Gil,Match Report,,2021-2022,Barcelona
+2022-05-22,22:00,La Liga,Matchweek 38,Sun,Home,L,0,2,Villarreal,0.6,0.8,69,54850.0,Sergio Busquets,4-3-3,4-4-2,José Luis Munuera,Match Report,,2021-2022,Barcelona

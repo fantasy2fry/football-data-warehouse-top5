@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-03,19:30,Trophée des Champions,Trophée des Champions,Sat,Neutral,W,2,1,Rennes,,,67.0,22045.0,Marquinhos,4-3-3,5-3-2,Benoît Bastien,Match Report,,2019-2020,Paris S-G
+2019-08-11,21:00,Ligue 1,Matchweek 1,Sun,Home,W,3,0,Nîmes,3.5,0.3,74.0,47151.0,Thiago Silva,4-3-3,4-5-1,Clément Turpin,Match Report,,2019-2020,Paris S-G
+2019-08-18,21:00,Ligue 1,Matchweek 2,Sun,Away,L,1,2,Rennes,1.0,1.2,62.0,28596.0,Thiago Silva,4-3-3,5-3-2,Antony Gautier,Match Report,,2019-2020,Paris S-G
+2019-08-25,21:00,Ligue 1,Matchweek 3,Sun,Home,W,4,0,Toulouse,4.1,0.4,71.0,47325.0,Marquinhos,4-3-3,5-4-1,Jérôme Brisard,Match Report,,2019-2020,Paris S-G
+2019-08-30,20:45,Ligue 1,Matchweek 4,Fri,Away,W,2,0,Metz,1.6,0.4,68.0,20685.0,Thiago Silva,4-3-3,4-3-3,Franck Schneider,Match Report,,2019-2020,Paris S-G
+2019-09-14,17:30,Ligue 1,Matchweek 5,Sat,Home,W,1,0,Strasbourg,0.8,0.5,62.0,47505.0,Thiago Silva,4-2-3-1,5-3-2,Amaury Delerue,Match Report,,2019-2020,Paris S-G
+2019-09-18,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,es Real Madrid,1.7,0.6,52.0,46361.0,Thiago Silva,4-3-3,4-3-3,Anthony Taylor,Match Report,,2019-2020,Paris S-G
+2019-09-22,21:00,Ligue 1,Matchweek 6,Sun,Away,W,1,0,Lyon,1.5,0.5,63.0,54583.0,Thiago Silva,4-3-3,3-5-2,Ruddy Buquet,Match Report,,2019-2020,Paris S-G
+2019-09-25,21:00,Ligue 1,Matchweek 7,Wed,Home,L,0,2,Reims,0.6,1.0,72.0,47376.0,Presnel Kimpembe,4-3-3,4-4-1-1,François Letexier,Match Report,,2019-2020,Paris S-G
+2019-09-28,17:30,Ligue 1,Matchweek 8,Sat,Away,W,1,0,Bordeaux,2.8,0.1,64.0,39215.0,Thiago Silva,4-3-3,3-4-3,Jérôme Brisard,Match Report,,2019-2020,Paris S-G
+2019-10-01,22:00,Champions Lg,Group stage,Tue,Away,W,1,0,tr Galatasaray,2.6,0.5,50.0,46532.0,Thiago Silva,4-3-3,3-4-1-2,Szymon Marciniak,Match Report,,2019-2020,Paris S-G
+2019-10-05,17:30,Ligue 1,Matchweek 9,Sat,Home,W,4,0,Angers,3.4,0.6,72.0,47700.0,Thiago Silva,4-3-3,4-5-1,Willy Delajod,Match Report,,2019-2020,Paris S-G
+2019-10-18,20:45,Ligue 1,Matchweek 10,Fri,Away,W,4,1,Nice,3.5,0.8,61.0,32705.0,Thiago Silva,4-2-2-2,4-3-3,François Letexier,Match Report,,2019-2020,Paris S-G
+2019-10-22,21:00,Champions Lg,Group stage,Tue,Away,W,5,0,be Club Brugge,3.5,0.3,54.0,26946.0,Thiago Silva,4-3-3,3-1-4-2,Daniel Siebert,Match Report,,2019-2020,Paris S-G
+2019-10-27,21:00,Ligue 1,Matchweek 11,Sun,Home,W,4,0,Marseille,3.0,0.6,61.0,47926.0,Thiago Silva,4-3-3,4-3-3,Benoît Bastien,Match Report,,2019-2020,Paris S-G
+2019-11-01,20:45,Ligue 1,Matchweek 12,Fri,Away,L,1,2,Dijon,3.2,1.0,66.0,14859.0,Marquinhos,4-3-3,4-4-2,Ruddy Buquet,Match Report,,2019-2020,Paris S-G
+2019-11-06,21:00,Champions Lg,Group stage,Wed,Home,W,1,0,be Club Brugge,1.9,1.8,64.0,47418.0,Thiago Silva,4-3-3,4-1-4-1,Bobby Madden,Match Report,,2019-2020,Paris S-G
+2019-11-09,17:30,Ligue 1,Matchweek 13,Sat,Away,W,2,1,Brest,2.4,1.1,59.0,15144.0,Thiago Silva,4-2-3-1,4-2-3-1,Mikael Lesage,Match Report,,2019-2020,Paris S-G
+2019-11-22,20:45,Ligue 1,Matchweek 14,Fri,Home,W,2,0,Lille,2.6,1.0,59.0,47476.0,Thiago Silva,4-3-3,5-3-2,Willy Delajod,Match Report,,2019-2020,Paris S-G
+2019-11-26,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,es Real Madrid,2.4,3.9,47.0,75534.0,Thiago Silva,4-3-3,4-3-1-2,Artur Soares Dias,Match Report,,2019-2020,Paris S-G
+2019-12-04,21:05,Ligue 1,Matchweek 16,Wed,Home,W,2,0,Nantes,1.9,0.6,63.0,47485.0,Thiago Silva,4-3-3,4-4-2,Amaury Delerue,Match Report,,2019-2020,Paris S-G
+2019-12-07,17:30,Ligue 1,Matchweek 17,Sat,Away,W,3,1,Montpellier,1.2,0.4,67.0,20197.0,Thiago Silva,4-2-2-2,3-5-2,Antony Gautier,Match Report,,2019-2020,Paris S-G
+2019-12-11,21:00,Champions Lg,Group stage,Wed,Home,W,5,0,tr Galatasaray,4.4,0.3,60.0,46509.0,Marquinhos,4-2-2-2,5-4-1,István Kovács,Match Report,,2019-2020,Paris S-G
+2019-12-15,21:00,Ligue 1,Matchweek 18,Sun,Away,W,4,0,Saint-Étienne,4.3,1.1,66.0,36391.0,Thiago Silva,4-2-2-2,5-3-2,Ruddy Buquet,Match Report,,2019-2020,Paris S-G
+2019-12-18,21:05,Coupe de la Ligue,Round of 16,Wed,Away,W,4,1,Le Mans,,,66.0,24425.0,Marquinhos,4-2-2-2,4-3-3,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Paris S-G
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Home,W,4,1,Amiens,4.6,0.6,66.0,47693.0,Thiago Silva,4-2-2-2,4-2-3-1,Eric Wattellier,Match Report,,2019-2020,Paris S-G
+2020-01-05,20:55,Coupe de France,Round of 64,Sun,Away,W,6,0,Linas-Montl.,,,,14987.0,Edinson Cavani,4-2-3-1,4-3-3,Franck Schneider,Match Report,,2019-2020,Paris S-G
+2020-01-08,21:05,Coupe de la Ligue,Quarter-finals,Wed,Home,W,6,1,Saint-Étienne,,,71.0,46677.0,Marquinhos,4-2-2-2,4-3-3,Clément Turpin,Match Report,,2019-2020,Paris S-G
+2020-01-12,21:00,Ligue 1,Matchweek 20,Sun,Home,D,3,3,Monaco,2.5,2.3,61.0,47580.0,Thiago Silva,4-2-2-2,4-4-2,Antony Gautier,Match Report,,2019-2020,Paris S-G
+2020-01-15,21:00,Ligue 1,Matchweek 15,Wed,Away,W,4,1,Monaco,3.6,1.1,58.0,11214.0,Thiago Silva,4-2-2-2,4-2-3-1,François Letexier,Match Report,,2019-2020,Paris S-G
+2020-01-19,20:55,Coupe de France,Round of 32,Sun,Away,W,1,0,Lorient,,,73.0,14000.0,Thiago Silva,4-2-2-2,5-4-1,Karim Abed,Match Report,,2019-2020,Paris S-G
+2020-01-22,21:00,Coupe de la Ligue,Semi-finals,Wed,Away,W,3,0,Reims,,,60.0,20437.0,Marquinhos,4-2-2-2,4-1-4-1,Mikael Lesage,Match Report,,2019-2020,Paris S-G
+2020-01-26,21:00,Ligue 1,Matchweek 21,Sun,Away,W,2,0,Lille,2.0,0.5,58.0,49132.0,Thiago Silva,4-2-2-2,4-2-3-1,Amaury Delerue,Match Report,,2019-2020,Paris S-G
+2020-01-29,18:30,Coupe de France,Round of 16,Wed,Away,W,2,0,Pau FC,,,,16707.0,Ander Herrera,4-4-2,4-3-3,Florent Batta,Match Report,,2019-2020,Paris S-G
+2020-02-01,17:30,Ligue 1,Matchweek 22,Sat,Home,W,5,0,Montpellier,2.9,0.2,67.0,47701.0,Presnel Kimpembe,4-2-2-2,3-4-1-2,Jérôme Brisard,Match Report,,2019-2020,Paris S-G
+2020-02-04,21:05,Ligue 1,Matchweek 23,Tue,Away,W,2,1,Nantes,3.6,2.7,65.0,34307.0,Presnel Kimpembe,4-2-2-2,4-4-2,Franck Schneider,Match Report,,2019-2020,Paris S-G
+2020-02-09,21:00,Ligue 1,Matchweek 24,Sun,Home,W,4,2,Lyon,1.7,1.0,69.0,47000.0,Presnel Kimpembe,4-2-2-2,4-2-3-1,Clément Turpin,Match Report,,2019-2020,Paris S-G
+2020-02-12,18:30,Coupe de France,Quarter-finals,Wed,Away,W,6,1,Dijon,,,65.0,14593.0,Thiago Silva,4-2-2-2,4-2-3-1,Benoît Bastien,Match Report,,2019-2020,Paris S-G
+2020-02-15,17:30,Ligue 1,Matchweek 25,Sat,Away,D,4,4,Amiens,3.2,1.3,71.0,12964.0,Thiago Silva,4-2-2-2,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Paris S-G
+2020-02-18,21:00,Champions Lg,Round of 16,Tue,Away,L,1,2,de Dortmund,1.5,1.3,53.0,66099.0,Thiago Silva,3-4-3,3-4-3,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2019-2020,Paris S-G
+2020-02-23,21:00,Ligue 1,Matchweek 26,Sun,Home,W,4,3,Bordeaux,5.1,1.5,66.0,47771.0,Thiago Silva,4-2-2-2,5-4-1,Willy Delajod,Match Report,,2019-2020,Paris S-G
+2020-02-29,17:30,Ligue 1,Matchweek 27,Sat,Home,W,4,0,Dijon,3.6,0.4,70.0,47542.0,Marquinhos,4-2-2-2,3-4-3,Karim Abed,Match Report,,2019-2020,Paris S-G
+2020-03-04,21:10,Coupe de France,Semi-finals,Wed,Away,W,5,1,Lyon,,,58.0,45754.0,Marquinhos,4-2-2-2,4-1-4-1,Ruddy Buquet,Match Report,,2019-2020,Paris S-G
+2020-03-11,21:00,Champions Lg,Round of 16,Wed,Home,W,2,0,de Dortmund,1.2,0.5,47.0,,Marquinhos,4-2-2-2,3-4-3,Anthony Taylor,Match Report,Leg 2 of 2; Paris S-G won,2019-2020,Paris S-G
+2020-03-15,21:00,Ligue 1,Matchweek 29,Sun,Home,,,,Nice,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-03-18,,Ligue 1,Matchweek 28,Wed,Away,,,,Strasbourg,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-03-22,21:00,Ligue 1,Matchweek 30,Sun,Away,,,,Marseille,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-04-05,,Ligue 1,Matchweek 31,Sun,Home,,,,Metz,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Away,,,,Angers,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Home,,,,Saint-Étienne,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Away,,,,Reims,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Home,,,,Brest,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Away,,,,Toulouse,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Home,,,,Rennes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Away,,,,Nîmes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Paris S-G
+2020-07-24,21:10,Coupe de France,Final,Fri,Neutral,W,1,0,Saint-Étienne,,,59.0,2805.0,Thiago Silva,4-4-2,4-2-3-1,Amaury Delerue,Match Report,,2019-2020,Paris S-G
+2020-07-31,21:10,Coupe de la Ligue,Final stage,Fri,Neutral,D,0 (6),0 (5),Lyon,,,58.0,,Thiago Silva,4-3-3,3-1-4-2,Jérôme Brisard,Match Report,Paris S-G won on penalty kicks following extra time,2019-2020,Paris S-G
+2020-08-12,21:00,Champions Lg,Quarter-finals,Wed,Neutral,W,2,1,it Atalanta,2.8,0.5,62.0,,Thiago Silva,4-3-3,3-4-1-2,Anthony Taylor,Match Report,,2019-2020,Paris S-G
+2020-08-18,20:00,Champions Lg,Semi-finals,Tue,Neutral,W,3,0,de RB Leipzig,3.2,1.0,57.0,,Thiago Silva,4-3-3,4-1-4-1,Björn Kuipers,Match Report,,2019-2020,Paris S-G
+2020-08-23,20:00,Champions Lg,Final,Sun,Neutral,L,0,1,de Bayern Munich,1.1,1.5,39.0,,Thiago Silva,4-3-3,4-2-3-1,Daniele Orsato,Match Report,,2019-2020,Paris S-G

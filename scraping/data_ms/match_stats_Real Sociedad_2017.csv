@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-19,18:15,La Liga,Matchweek 1,Sat,Away,W,3,2,Celta Vigo,2.1,1.8,47.0,16961,Xabi Prieto,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2017-2018,Real Sociedad
+2017-08-25,20:15,La Liga,Matchweek 2,Fri,Home,W,3,0,Villarreal,2.0,0.2,60.0,19931,Xabi Prieto,4-3-3,4-4-2,Javier Estrada,Match Report,,2017-2018,Real Sociedad
+2017-09-10,12:00,La Liga,Matchweek 3,Sun,Away,W,4,2,La Coruña,2.0,1.0,57.0,21942,Xabi Prieto,4-3-3,4-4-2,José Munuera,Match Report,,2017-2018,Real Sociedad
+2017-09-14,21:05,Europa Lg,Group stage,Thu,Home,W,4,0,no Rosenborg,3.1,0.4,65.0,21479,Xabi Prieto,4-3-3,4-3-3,Paolo Mazzoleni,Match Report,,2017-2018,Real Sociedad
+2017-09-17,20:45,La Liga,Matchweek 4,Sun,Home,L,1,3,Real Madrid,0.5,2.8,50.0,24966,Xabi Prieto,4-3-3,4-3-3,Ignacio Iglesias,Match Report,,2017-2018,Real Sociedad
+2017-09-21,22:00,La Liga,Matchweek 5,Thu,Away,L,0,3,Levante,0.7,1.9,67.0,17415,Xabi Prieto,4-2-3-1,4-1-4-1,Jesús Gil,Match Report,,2017-2018,Real Sociedad
+2017-09-24,20:45,La Liga,Matchweek 6,Sun,Home,L,2,3,Valencia,1.1,1.8,58.0,20266,Xabi Prieto,4-1-4-1,4-4-2,Santiago Jaime,Match Report,,2017-2018,Real Sociedad
+2017-09-28,20:00,Europa Lg,Group stage,Thu,Away,L,1,3,ru Zenit,0.7,1.5,68.0,50487,Xabi Prieto,4-3-3,4-3-3,Andre Marriner,Match Report,,2017-2018,Real Sociedad
+2017-10-01,12:00,La Liga,Matchweek 7,Sun,Home,D,4,4,Betis,1.7,2.1,56.0,19669,Xabi Prieto,4-3-3,4-3-3,Alfonso Álvarez,Match Report,,2017-2018,Real Sociedad
+2017-10-14,18:30,La Liga,Matchweek 8,Sat,Away,W,2,0,Alavés,0.8,0.6,73.0,19840,Xabi Prieto,4-3-3,4-5-1,Alberola Rojas,Match Report,,2017-2018,Real Sociedad
+2017-10-19,20:00,Europa Lg,Group stage,Thu,Away,W,6,0,mk FK Vardar,7.1,0.7,71.0,20368,Xabi Prieto,4-3-3,4-2-3-1,Əliyar Ağayev,Match Report,,2017-2018,Real Sociedad
+2017-10-23,20:00,La Liga,Matchweek 9,Mon,Home,D,1,1,Espanyol,1.3,0.5,61.0,18515,Xabi Prieto,4-3-3,4-4-2,Mario Melero,Match Report,,2017-2018,Real Sociedad
+2017-10-26,19:30,Copa del Rey,Round of 32,Thu,Away,W,1,0,Lleida,,,,9872,,,,Santiago Jaime,Match Report,Leg 1 of 2,2017-2018,Real Sociedad
+2017-10-29,12:00,La Liga,Matchweek 10,Sun,Away,L,1,2,Getafe,1.2,2.2,55.0,11010,Iñigo Martínez,4-3-3,4-4-2,José Sánchez,Match Report,,2017-2018,Real Sociedad
+2017-11-02,21:05,Europa Lg,Group stage,Thu,Home,W,3,0,mk FK Vardar,2.4,0.0,77.0,17242,Iñigo Martínez,4-3-3,4-4-2,Robert Schörgenhofer,Match Report,,2017-2018,Real Sociedad
+2017-11-05,18:30,La Liga,Matchweek 11,Sun,Home,W,3,1,Eibar,2.4,0.3,51.0,20387,Xabi Prieto,4-3-3,5-3-2,Daniel Trujillo,Match Report,,2017-2018,Real Sociedad
+2017-11-17,21:00,La Liga,Matchweek 12,Fri,Away,D,1,1,Girona,1.4,1.2,46.0,10136,Xabi Prieto,4-3-3,3-4-3,Ignacio Iglesias,Match Report,,2017-2018,Real Sociedad
+2017-11-23,19:00,Europa Lg,Group stage,Thu,Away,W,1,0,no Rosenborg,1.8,0.5,71.0,18307,Xabi Prieto,4-3-3,4-3-3,Daniel Stefański,Match Report,,2017-2018,Real Sociedad
+2017-11-26,16:15,La Liga,Matchweek 13,Sun,Home,D,2,2,Las Palmas,2.2,1.9,52.0,19780,Xabi Prieto,4-3-3,4-3-3,Pablo González,Match Report,,2017-2018,Real Sociedad
+2017-11-29,19:30,Copa del Rey,Round of 32,Wed,Home,L,2,3,Lleida,,,,8819,,,,Juan Martínez,Match Report,Leg 2 of 2; Lleida won,2017-2018,Real Sociedad
+2017-12-02,16:15,La Liga,Matchweek 14,Sat,Away,L,1,2,Atlético Madrid,1.7,3.6,45.0,57394,Xabi Prieto,4-3-3,4-4-2,Santiago Jaime,Match Report,,2017-2018,Real Sociedad
+2017-12-07,21:05,Europa Lg,Group stage,Thu,Home,L,1,3,ru Zenit,3.2,1.1,72.0,20609,Xabi Prieto,4-3-3,4-1-4-1,Liran Liany,Match Report,,2017-2018,Real Sociedad
+2017-12-10,12:00,La Liga,Matchweek 15,Sun,Home,L,0,2,Málaga,1.8,1.8,67.0,16834,Xabi Prieto,4-3-3,4-4-1-1,Carlos del Cerro,Match Report,,2017-2018,Real Sociedad
+2017-12-16,16:15,La Liga,Matchweek 16,Sat,Away,D,0,0,Athletic Club,0.5,0.7,61.0,45504,Xabi Prieto,4-3-3,4-4-1-1,David Fernández,Match Report,,2017-2018,Real Sociedad
+2017-12-20,21:30,La Liga,Matchweek 17,Wed,Home,W,3,1,Sevilla,1.6,0.4,50.0,17205,Xabi Prieto,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,2017-2018,Real Sociedad
+2018-01-07,12:00,La Liga,Matchweek 18,Sun,Away,L,0,1,Leganés,0.6,1.1,68.0,7523,Xabi Prieto,4-3-3,4-2-3-1,Javier Estrada,Match Report,,2017-2018,Real Sociedad
+2018-01-14,20:45,La Liga,Matchweek 19,Sun,Home,L,2,4,Barcelona,0.8,1.3,50.0,23277,Xabi Prieto,4-4-1-1,4-4-2,José González,Match Report,,2017-2018,Real Sociedad
+2018-01-21,18:30,La Liga,Matchweek 20,Sun,Home,L,1,2,Celta Vigo,1.7,1.5,55.0,19081,Xabi Prieto,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,,2017-2018,Real Sociedad
+2018-01-27,20:45,La Liga,Matchweek 21,Sat,Away,L,2,4,Villarreal,1.1,1.8,63.0,15052,Xabi Prieto,3-2-4-1,4-1-2-1-2,Carlos del Cerro,Match Report,,2017-2018,Real Sociedad
+2018-02-02,21:00,La Liga,Matchweek 22,Fri,Home,W,5,0,La Coruña,2.7,0.2,63.0,15626,Xabi Prieto,4-3-3,4-2-3-1,Alberto Undiano,Match Report,,2017-2018,Real Sociedad
+2018-02-10,20:45,La Liga,Matchweek 23,Sat,Away,L,2,5,Real Madrid,0.7,4.1,47.0,63811,Xabi Prieto,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2017-2018,Real Sociedad
+2018-02-15,19:00,Europa Lg,Round of 32,Thu,Home,D,2,2,at RB Salzburg,1.5,1.0,61.0,19790,Xabi Prieto,4-4-2,4-4-2,Bobby Madden,Match Report,Leg 1 of 2,2017-2018,Real Sociedad
+2018-02-18,12:00,La Liga,Matchweek 24,Sun,Home,W,3,0,Levante,1.8,0.6,67.0,18189,Xabi Prieto,4-3-3,4-3-3,Santiago Jaime,Match Report,,2017-2018,Real Sociedad
+2018-02-22,21:05,Europa Lg,Round of 32,Thu,Away,L,1,2,at RB Salzburg,0.6,2.0,50.0,13912,Imanol Agirretxe,4-2-3-1,4-4-2,Sergey Karasev,Match Report,Leg 2 of 2; RB Salzburg won,2017-2018,Real Sociedad
+2018-02-25,18:30,La Liga,Matchweek 25,Sun,Away,L,1,2,Valencia,1.1,1.6,65.0,37195,Asier Illarramendi,4-3-3,4-4-2,Pablo González,Match Report,,2017-2018,Real Sociedad
+2018-03-01,19:30,La Liga,Matchweek 26,Thu,Away,D,0,0,Betis,0.6,0.5,51.0,40288,Asier Illarramendi,4-3-3,3-4-1-2,José González,Match Report,,2017-2018,Real Sociedad
+2018-03-04,18:30,La Liga,Matchweek 27,Sun,Home,W,2,1,Alavés,1.9,0.5,60.0,21445,Asier Illarramendi,4-3-3,4-4-2,Juan Martínez,Match Report,,2017-2018,Real Sociedad
+2018-03-11,12:00,La Liga,Matchweek 28,Sun,Away,L,1,2,Espanyol,0.8,2.2,52.0,20314,Asier Illarramendi,4-3-3,4-4-2,Antonio Matéu Lahoz,Match Report,,2017-2018,Real Sociedad
+2018-03-17,18:30,La Liga,Matchweek 29,Sat,Home,L,1,2,Getafe,0.4,0.8,66.0,17509,Asier Illarramendi,4-3-3,4-4-2,Javier Estrada,Match Report,,2017-2018,Real Sociedad
+2018-04-01,18:30,La Liga,Matchweek 30,Sun,Away,D,0,0,Eibar,0.6,0.9,49.0,6233,Asier Illarramendi,4-2-3-1,4-4-2,José Sánchez,Match Report,,2017-2018,Real Sociedad
+2018-04-08,18:30,La Liga,Matchweek 31,Sun,Home,W,5,0,Girona,3.3,0.7,50.0,18027,Rubén Pardo,4-2-3-1,3-4-3,José Munuera,Match Report,,2017-2018,Real Sociedad
+2018-04-14,17:30,La Liga,Matchweek 32,Sat,Away,W,1,0,Las Palmas,2.9,0.8,51.0,10531,Asier Illarramendi,4-2-3-1,4-2-3-1,Alfonso Álvarez,Match Report,,2017-2018,Real Sociedad
+2018-04-19,19:30,La Liga,Matchweek 33,Thu,Home,W,3,0,Atlético Madrid,0.9,0.6,57.0,21404,Asier Illarramendi,4-3-3,4-4-2,Alberola Rojas,Match Report,,2017-2018,Real Sociedad
+2018-04-22,16:15,La Liga,Matchweek 34,Sun,Away,L,0,2,Málaga,1.2,0.9,66.0,14102,Imanol Agirretxe,4-2-3-1,4-4-1-1,Javier Estrada,Match Report,,2017-2018,Real Sociedad
+2018-04-28,16:15,La Liga,Matchweek 35,Sat,Home,W,3,1,Athletic Club,1.3,1.2,52.0,23972,Asier Illarramendi,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,2017-2018,Real Sociedad
+2018-05-04,21:00,La Liga,Matchweek 36,Fri,Away,L,0,1,Sevilla,0.8,1.8,59.0,34733,Asier Illarramendi,4-2-3-1,4-2-3-1,Santiago Jaime,Match Report,,2017-2018,Real Sociedad
+2018-05-12,16:15,La Liga,Matchweek 37,Sat,Home,W,3,2,Leganés,2.7,1.3,60.0,19981,Asier Illarramendi,4-4-2,4-2-3-1,David Medié,Match Report,,2017-2018,Real Sociedad
+2018-05-20,20:45,La Liga,Matchweek 38,Sun,Away,L,0,1,Barcelona,0.6,1.1,39.0,84168,Asier Illarramendi,4-2-3-1,4-3-3,José Munuera,Match Report,,2017-2018,Real Sociedad

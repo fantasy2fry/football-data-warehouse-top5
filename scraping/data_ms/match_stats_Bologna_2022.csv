@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-08,21:15,Coppa Italia,First round,Mon,Home,W,1,0,Cosenza,,,65,10706,Roberto Soriano,3-1-4-2,4-3-3,Giacomo Camplone,Match Report,,2022-2023,Bologna
+2022-08-14,18:30,Serie A,Matchweek 1,Sun,Away,L,1,2,Lazio,1.5,0.7,58,45000,Roberto Soriano,3-4-1-2,4-3-3,Luca Massimi,Match Report,,2022-2023,Bologna
+2022-08-21,20:45,Serie A,Matchweek 2,Sun,Home,D,1,1,Hellas Verona,0.8,1.9,52,17725,Roberto Soriano,3-4-1-2,3-5-2,Matteo Marcenaro,Match Report,,2022-2023,Bologna
+2022-08-27,20:45,Serie A,Matchweek 3,Sat,Away,L,0,2,Milan,0.5,1.9,52,70430,Gary Medel,3-5-2,4-2-3-1,Gianluca Manganiello,Match Report,,2022-2023,Bologna
+2022-09-01,20:45,Serie A,Matchweek 4,Thu,Home,D,1,1,Salernitana,1.8,1.4,47,19787,Gary Medel,3-5-2,3-5-2,Davide Ghersini,Match Report,,2022-2023,Bologna
+2022-09-04,15:00,Serie A,Matchweek 5,Sun,Away,D,2,2,Spezia,0.9,0.9,55,7555,Lorenzo De Silvestri,3-4-1-2,3-5-2,Antonio Giua,Match Report,,2022-2023,Bologna
+2022-09-11,15:00,Serie A,Matchweek 6,Sun,Home,W,2,1,Fiorentina,0.6,1.3,39,18901,Roberto Soriano,3-5-2,4-3-3,Daniele Orsato,Match Report,,2022-2023,Bologna
+2022-09-17,15:00,Serie A,Matchweek 7,Sat,Home,L,0,1,Empoli,1.6,1.6,61,15670,Roberto Soriano,4-2-3-1,4-3-1-2,Manuel Volpi,Match Report,,2022-2023,Bologna
+2022-10-02,20:45,Serie A,Matchweek 8,Sun,Away,L,0,3,Juventus,0.4,1.8,52,34662,Roberto Soriano,4-2-3-1,4-4-2,Rosario Abisso,Match Report,,2022-2023,Bologna
+2022-10-08,20:45,Serie A,Matchweek 9,Sat,Home,D,1,1,Sampdoria,0.8,0.6,51,20871,Gary Medel,4-2-3-1,4-1-4-1,Marco Piccinini,Match Report,,2022-2023,Bologna
+2022-10-16,18:00,Serie A,Matchweek 10,Sun,Away,L,2,3,Napoli,1.3,2.6,51,50000,Gary Medel,4-3-3,4-3-3,Francesco Cosso,Match Report,,2022-2023,Bologna
+2022-10-20,21:00,Coppa Italia,Second round,Thu,Home,W,1,0,Cagliari,,,57,6400,Kevin Bonifazi,4-2-3-1,4-3-3,Giacomo Camplone,Match Report,,2022-2023,Bologna
+2022-10-23,15:00,Serie A,Matchweek 11,Sun,Home,W,2,0,Lecce,1.8,0.4,54,24206,Gary Medel,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2022-2023,Bologna
+2022-10-31,20:45,Serie A,Matchweek 12,Mon,Away,W,2,1,Monza,1.3,1.2,44,11388,Gary Medel,3-4-3,3-4-1-2,Luca Pairetto,Match Report,,2022-2023,Bologna
+2022-11-06,12:30,Serie A,Matchweek 13,Sun,Home,W,2,1,Torino,2.0,1.0,56,23168,Gary Medel,3-4-3,3-4-3,Antonio Giua,Match Report,,2022-2023,Bologna
+2022-11-09,20:45,Serie A,Matchweek 14,Wed,Away,L,1,6,Inter,0.7,2.6,43,69312,Gary Medel,4-2-3-1,3-5-2,Andrea Colombo,Match Report,,2022-2023,Bologna
+2022-11-12,20:45,Serie A,Matchweek 15,Sat,Home,W,3,0,Sassuolo,0.8,0.8,51,20811,Roberto Soriano,4-2-3-1,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Bologna
+2023-01-04,16:30,Serie A,Matchweek 16,Wed,Away,L,0,1,Roma,0.7,1.5,61,62092,Roberto Soriano,4-2-3-1,3-4-1-2,Alberto Santoro,Match Report,,2022-2023,Bologna
+2023-01-09,20:45,Serie A,Matchweek 17,Mon,Home,L,1,2,Atalanta,0.5,0.5,51,16953,Roberto Soriano,4-2-3-1,3-4-1-2,Marco Di Bello,Match Report,,2022-2023,Bologna
+2023-01-15,15:00,Serie A,Matchweek 18,Sun,Away,W,2,1,Udinese,2.0,1.9,49,20486,Adama Soumaoro,4-3-3,3-5-2,Manuel Volpi,Match Report,,2022-2023,Bologna
+2023-01-19,18:00,Coppa Italia,Round of 16,Thu,Away,L,0,1,Lazio,,,46,30000,Adama Soumaoro,4-1-4-1,4-3-3,Niccolò Baroni,Match Report,,2022-2023,Bologna
+2023-01-23,18:30,Serie A,Matchweek 19,Mon,Home,D,1,1,Cremonese,1.1,1.7,68,15587,Roberto Soriano,4-3-3,3-5-2,Matteo Marchetti,Match Report,,2022-2023,Bologna
+2023-01-27,18:30,Serie A,Matchweek 20,Fri,Home,W,2,0,Spezia,1.6,0.5,57,17213,Roberto Soriano,4-2-3-1,3-4-1-2,Luca Massimi,Match Report,,2022-2023,Bologna
+2023-02-05,18:00,Serie A,Matchweek 21,Sun,Away,W,2,1,Fiorentina,1.8,1.3,38,30546,Roberto Soriano,4-2-3-1,4-3-3,Luca Pairetto,Match Report,,2022-2023,Bologna
+2023-02-12,15:00,Serie A,Matchweek 22,Sun,Home,L,0,1,Monza,0.9,0.6,63,21692,Riccardo Orsolini,4-2-3-1,3-4-3,Luca Zufferli,Match Report,,2022-2023,Bologna
+2023-02-18,15:00,Serie A,Matchweek 23,Sat,Away,W,2,1,Sampdoria,0.9,2.3,59,18269,Roberto Soriano,4-2-3-1,3-4-1-2,Massimiliano Irrati,Match Report,,2022-2023,Bologna
+2023-02-26,12:30,Serie A,Matchweek 24,Sun,Home,W,1,0,Inter,1.2,1.0,48,28317,Roberto Soriano,4-2-3-1,3-1-4-2,Daniele Orsato,Match Report,,2022-2023,Bologna
+2023-03-06,20:45,Serie A,Matchweek 25,Mon,Away,L,0,1,Torino,0.5,0.9,56,18592,Roberto Soriano,4-2-3-1,3-4-3,Antonio Rapuano,Match Report,,2022-2023,Bologna
+2023-03-11,20:45,Serie A,Matchweek 26,Sat,Home,D,0,0,Lazio,0.9,0.8,54,27369,Jhon Lucumí,4-2-3-1,4-3-3,Fabio Maresca,Match Report,,2022-2023,Bologna
+2023-03-18,18:00,Serie A,Matchweek 27,Sat,Away,D,2,2,Salernitana,0.4,0.9,58,18600,Jhon Lucumí,4-2-3-1,3-4-3,Luca Pairetto,Match Report,,2022-2023,Bologna
+2023-04-02,12:30,Serie A,Matchweek 28,Sun,Home,W,3,0,Udinese,0.7,0.8,52,25562,Jhon Lucumí,4-3-3,3-5-2,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Bologna
+2023-04-08,16:30,Serie A,Matchweek 29,Sat,Away,W,2,0,Atalanta,1.3,1.3,51,18950,Roberto Soriano,4-1-4-1,3-4-1-2,Daniele Orsato,Match Report,,2022-2023,Bologna
+2023-04-15,15:00,Serie A,Matchweek 30,Sat,Home,D,1,1,Milan,0.6,1.4,51,29024,Nicolás Domínguez,4-3-3,4-2-3-1,Davide Massa,Match Report,,2022-2023,Bologna
+2023-04-21,20:45,Serie A,Matchweek 31,Fri,Away,L,1,2,Hellas Verona,1.3,1.4,73,21031,Nicolás Domínguez,4-3-3,4-2-3-1,Maurizio Mariani,Match Report,,2022-2023,Bologna
+2023-04-30,20:45,Serie A,Matchweek 32,Sun,Home,D,1,1,Juventus,1.9,2.7,54,30071,Nicolás Domínguez,4-3-3,4-3-3,Simone Sozza,Match Report,,2022-2023,Bologna
+2023-05-04,20:45,Serie A,Matchweek 33,Thu,Away,L,1,3,Empoli,2.0,1.0,72,8349,Nicolás Domínguez,4-3-3,4-3-1-2,Federico La Penna,Match Report,,2022-2023,Bologna
+2023-05-08,20:45,Serie A,Matchweek 34,Mon,Away,D,1,1,Sassuolo,0.5,0.3,52,13664,Nicolás Domínguez,4-2-3-1,4-3-3,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Bologna
+2023-05-14,18:00,Serie A,Matchweek 35,Sun,Home,D,0,0,Roma,0.4,1.2,71,23824,Nicolás Domínguez,4-2-3-1,3-5-2,Daniele Orsato,Match Report,,2022-2023,Bologna
+2023-05-20,15:00,Serie A,Matchweek 36,Sat,Away,W,5,1,Cremonese,2.6,1.3,63,11140,Nicolás Domínguez,4-2-3-1,4-2-3-1,Paolo Valeri,Match Report,,2022-2023,Bologna
+2023-05-28,15:00,Serie A,Matchweek 37,Sun,Home,D,2,2,Napoli,1.9,1.4,52,27209,Nicolás Domínguez,4-2-3-1,4-3-3,Matteo Marcenaro,Match Report,,2022-2023,Bologna
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Away,W,3,2,Lecce,1.1,1.4,61,25816,Gary Medel,4-2-3-1,4-3-3,Marco Piccinini,Match Report,,2022-2023,Bologna

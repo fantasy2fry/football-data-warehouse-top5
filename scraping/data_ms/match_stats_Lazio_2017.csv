@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-13,20:45,Supercoppa,Supercoppa Italiana,Sun,Neutral,W,3,2,Juventus,,,41,52000,Ștefan Radu,3-5-2,4-2-3-1,Davide Massa,Match Report,,2017-2018,Lazio
+2017-08-20,20:45,Serie A,Matchweek 1,Sun,Home,D,0,0,SPAL,0.8,0.6,53,25000,Senad Lulić,3-5-2,3-5-2,Rosario Abisso,Match Report,,2017-2018,Lazio
+2017-08-27,20:45,Serie A,Matchweek 2,Sun,Away,W,2,1,Chievo,1.5,0.9,51,10000,Senad Lulić,3-5-1-1,4-3-1-2,Gianluca Manganiello,Match Report,,2017-2018,Lazio
+2017-09-10,16:00,Serie A,Matchweek 3,Sun,Home,W,4,1,Milan,2.0,1.0,40,30000,Senad Lulić,3-4-3,4-3-3,Gianluca Rocchi,Match Report,,2017-2018,Lazio
+2017-09-14,21:05,Europa Lg,Group stage,Thu,Away,W,3,2,nl Vitesse,1.5,2.3,59,19867,Marco Parolo,3-5-1-1,4-3-3,Liran Liany,Match Report,,2017-2018,Lazio
+2017-09-17,20:45,Serie A,Matchweek 4,Sun,Away,W,3,2,Genoa,2.9,0.5,54,19065,Senad Lulić,3-4-3,3-4-3,Daniele Orsato,Match Report,,2017-2018,Lazio
+2017-09-20,20:45,Serie A,Matchweek 5,Wed,Home,L,1,4,Napoli,0.2,2.5,37,28000,Senad Lulić,3-4-3,4-3-3,Antonio Damato,Match Report,,2017-2018,Lazio
+2017-09-24,15:00,Serie A,Matchweek 6,Sun,Away,W,3,0,Hellas Verona,2.0,0.6,57,16316,Senad Lulić,3-5-1-1,4-3-3,Massimiliano Irrati,Match Report,,2017-2018,Lazio
+2017-09-28,19:00,Europa Lg,Group stage,Thu,Home,W,2,0,be Zulte Waregem,2.3,0.6,46,300,Marco Parolo,3-5-2,5-3-2,Harald Lechner,Match Report,,2017-2018,Lazio
+2017-10-01,15:00,Serie A,Matchweek 7,Sun,Home,W,6,1,Sassuolo,3.4,1.7,56,25000,Senad Lulić,3-5-1-1,3-1-4-2,Fabio Maresca,Match Report,,2017-2018,Lazio
+2017-10-14,18:00,Serie A,Matchweek 8,Sat,Away,W,2,1,Juventus,1.6,2.3,40,39145,Senad Lulić,3-5-1-1,4-3-3,Paolo Mazzoleni,Match Report,,2017-2018,Lazio
+2017-10-19,19:00,Europa Lg,Group stage,Thu,Away,W,3,1,fr Nice,2.3,0.7,36,21386,Senad Lulić,3-5-2,3-5-1-1,Craig Thomson,Match Report,,2017-2018,Lazio
+2017-10-22,20:45,Serie A,Matchweek 9,Sun,Home,W,3,0,Cagliari,2.3,0.6,53,20000,Senad Lulić,3-5-1-1,3-4-1-2,Luca Pairetto,Match Report,,2017-2018,Lazio
+2017-10-25,20:45,Serie A,Matchweek 10,Wed,Away,W,2,1,Bologna,2.9,0.8,50,20070,Senad Lulić,3-5-1-1,4-3-3,Davide Massa,Match Report,,2017-2018,Lazio
+2017-10-29,12:30,Serie A,Matchweek 11,Sun,Away,W,5,1,Benevento,2.8,0.8,53,12413,Senad Lulić,3-5-1-1,3-4-3,Piero Giacomelli,Match Report,,2017-2018,Lazio
+2017-11-02,21:05,Europa Lg,Group stage,Thu,Home,W,1,0,fr Nice,0.3,0.5,43,21327,Stefan de Vrij,3-5-2,4-2-3-1,Jesús Gil,Match Report,,2017-2018,Lazio
+2017-11-18,18:00,Serie A,Matchweek 13,Sat,Away,L,1,2,Roma,1.2,1.6,46,55775,Senad Lulić,3-5-1-1,4-3-3,Gianluca Rocchi,Match Report,,2017-2018,Lazio
+2017-11-23,19:00,Europa Lg,Group stage,Thu,Home,D,1,1,nl Vitesse,0.6,0.7,51,8226,Dušan Basta,3-5-1-1,4-2-3-1,Ali Palabıyık,Match Report,,2017-2018,Lazio
+2017-11-26,18:00,Serie A,Matchweek 14,Sun,Home,D,1,1,Fiorentina,1.3,1.4,51,25000,Senad Lulić,3-5-1-1,4-3-3,Davide Massa,Match Report,,2017-2018,Lazio
+2017-12-03,20:45,Serie A,Matchweek 15,Sun,Away,W,2,1,Sampdoria,1.9,1.2,55,18050,Senad Lulić,3-5-1-1,4-3-1-2,Paolo Mazzoleni,Match Report,,2017-2018,Lazio
+2017-12-07,21:05,Europa Lg,Group stage,Thu,Away,L,2,3,be Zulte Waregem,2.1,0.8,57,8845,Dušan Basta,3-5-2,3-4-1-2,Charalambos Kalogeropoulos,Match Report,,2017-2018,Lazio
+2017-12-11,21:00,Serie A,Matchweek 16,Mon,Home,L,1,3,Torino,1.7,1.0,50,20000,Senad Lulić,3-5-1-1,4-3-3,Piero Giacomelli,Match Report,,2017-2018,Lazio
+2017-12-14,21:00,Coppa Italia,Round of 16,Thu,Home,W,4,1,Cittadella,,,62,5000,,,,Riccardo Pinzani,Match Report,,2017-2018,Lazio
+2017-12-17,20:45,Serie A,Matchweek 17,Sun,Away,D,3,3,Atalanta,1.6,2.3,50,16692,Senad Lulić,3-5-1-1,3-4-3,Massimiliano Irrati,Match Report,,2017-2018,Lazio
+2017-12-23,12:30,Serie A,Matchweek 18,Sat,Home,W,4,0,Crotone,3.6,0.5,59,25000,Marco Parolo,3-4-3,4-3-3,Giampaolo Calvarese,Match Report,,2017-2018,Lazio
+2017-12-26,21:00,Coppa Italia,Quarter-finals,Tue,Home,W,1,0,Fiorentina,,,37,25000,,,,Antonio Damato,Match Report,,2017-2018,Lazio
+2017-12-30,18:00,Serie A,Matchweek 19,Sat,Away,D,0,0,Inter,0.9,0.7,47,61852,Senad Lulić,3-5-1-1,4-2-3-1,Gianluca Rocchi,Match Report,,2017-2018,Lazio
+2018-01-06,15:00,Serie A,Matchweek 20,Sat,Away,W,5,2,SPAL,2.1,2.4,45,12057,Lucas Leiva,3-5-1-1,3-5-2,Paolo Tagliavento,Match Report,,2017-2018,Lazio
+2018-01-21,15:00,Serie A,Matchweek 21,Sun,Home,W,5,1,Chievo,1.0,0.5,51,22000,Marco Parolo,3-5-1-1,4-3-1-2,Rosario Abisso,Match Report,,2017-2018,Lazio
+2018-01-24,18:30,Serie A,Matchweek 12,Wed,Home,W,3,0,Udinese,1.4,0.8,46,23000,Ștefan Radu,3-5-2,3-5-2,Luca Banti,Match Report,,2017-2018,Lazio
+2018-01-28,18:00,Serie A,Matchweek 22,Sun,Away,L,1,2,Milan,0.7,1.2,51,50822,Senad Lulić,3-5-1-1,4-3-3,Massimiliano Irrati,Match Report,,2017-2018,Lazio
+2018-01-31,20:45,Coppa Italia,Semi-finals,Wed,Away,D,0,0,Milan,,,49,17724,,,,Marco Guida,Match Report,Leg 1 of 2,2017-2018,Lazio
+2018-02-05,20:45,Serie A,Matchweek 23,Mon,Home,L,1,2,Genoa,1.0,0.7,64,30000,Marco Parolo,3-5-2,3-5-2,Fabio Maresca,Match Report,,2017-2018,Lazio
+2018-02-10,20:45,Serie A,Matchweek 24,Sat,Away,L,1,4,Napoli,0.9,2.3,32,32940,Marco Parolo,3-5-2,4-3-3,Luca Banti,Match Report,,2017-2018,Lazio
+2018-02-15,22:05,Europa Lg,Round of 32,Thu,Away,L,0,1,ro FCSB,2.1,0.7,60,33455,Dušan Basta,3-5-2,4-2-3-1,Deniz Aytekin,Match Report,Leg 1 of 2,2017-2018,Lazio
+2018-02-19,20:45,Serie A,Matchweek 25,Mon,Home,W,2,0,Hellas Verona,2.2,0.2,58,25000,Senad Lulić,3-5-1-1,3-4-3,Giampaolo Calvarese,Match Report,,2017-2018,Lazio
+2018-02-22,19:00,Europa Lg,Round of 32,Thu,Home,W,5,1,ro FCSB,3.2,1.1,49,27597,Senad Lulić,3-5-1-1,4-2-3-1,Slavko Vinčić,Match Report,Leg 2 of 2; Lazio won,2017-2018,Lazio
+2018-02-25,15:00,Serie A,Matchweek 26,Sun,Away,W,3,0,Sassuolo,1.3,0.7,59,8582,Lucas Leiva,3-5-1-1,4-3-3,Gianluca Manganiello,Match Report,,2017-2018,Lazio
+2018-02-28,20:45,Coppa Italia,Semi-finals,Wed,Home,D,0 (4),0 (5),Milan,,,47,40000,,,,Gianluca Rocchi,Match Report,Leg 2 of 2; Milan won; Milan won on penalty kicks following extra time,2017-2018,Lazio
+2018-03-03,18:00,Serie A,Matchweek 27,Sat,Home,L,0,1,Juventus,0.2,0.8,41,50000,Lucas Leiva,3-5-1-1,3-5-2,Luca Banti,Match Report,,2017-2018,Lazio
+2018-03-08,21:05,Europa Lg,Round of 16,Thu,Home,D,2,2,ua Dynamo Kyiv,1.1,1.6,51,21562,Ciro Immobile,3-5-1-1,4-2-3-1,Ivan Kružliak,Match Report,Leg 1 of 2,2017-2018,Lazio
+2018-03-11,15:00,Serie A,Matchweek 28,Sun,Away,D,2,2,Cagliari,0.7,1.6,61,14241,Senad Lulić,3-5-1-1,3-1-4-2,Marco Guida,Match Report,,2017-2018,Lazio
+2018-03-15,20:00,Europa Lg,Round of 16,Thu,Away,W,2,0,ua Dynamo Kyiv,3.4,0.4,58,52639,Senad Lulić,3-5-1-1,4-2-3-1,Jesús Gil,Match Report,Leg 2 of 2; Lazio won,2017-2018,Lazio
+2018-03-18,20:45,Serie A,Matchweek 29,Sun,Home,D,1,1,Bologna,1.2,1.2,56,23000,Marco Parolo,3-5-2,3-5-2,Antonio Damato,Match Report,,2017-2018,Lazio
+2018-03-31,15:00,Serie A,Matchweek 30,Sat,Home,W,6,2,Benevento,3.9,0.3,68,30000,Marco Parolo,3-5-2,3-4-3,Giampaolo Calvarese,Match Report,,2017-2018,Lazio
+2018-04-05,21:05,Europa Lg,Quarter-finals,Thu,Home,W,4,2,at RB Salzburg,2.5,1.7,47,42538,Senad Lulić,3-5-2,4-4-2,Ovidiu Hațegan,Match Report,Leg 1 of 2,2017-2018,Lazio
+2018-04-08,18:00,Serie A,Matchweek 31,Sun,Away,W,2,1,Udinese,1.1,0.7,63,21676,Senad Lulić,3-5-1-1,3-5-2,Gianluca Rocchi,Match Report,,2017-2018,Lazio
+2018-04-12,21:05,Europa Lg,Quarter-finals,Thu,Away,L,1,4,at RB Salzburg,1.0,0.8,44,29520,Senad Lulić,3-5-1-1,4-1-2-1-2,Damir Skomina,Match Report,Leg 2 of 2; RB Salzburg won,2017-2018,Lazio
+2018-04-15,20:45,Serie A,Matchweek 32,Sun,Home,D,0,0,Roma,0.4,0.7,43,55000,Senad Lulić,3-5-1-1,3-4-3,Paolo Mazzoleni,Match Report,,2017-2018,Lazio
+2018-04-18,20:45,Serie A,Matchweek 33,Wed,Away,W,4,3,Fiorentina,1.3,1.4,62,24008,Ciro Immobile,3-5-1-1,4-3-3,Antonio Damato,Match Report,,2017-2018,Lazio
+2018-04-22,15:00,Serie A,Matchweek 34,Sun,Home,W,4,0,Sampdoria,2.4,0.3,47,40000,Senad Lulić,3-5-1-1,4-3-1-2,Daniele Orsato,Match Report,,2017-2018,Lazio
+2018-04-29,20:45,Serie A,Matchweek 35,Sun,Away,W,1,0,Torino,2.4,0.5,46,17060,Senad Lulić,3-5-1-1,3-4-3,Massimiliano Irrati,Match Report,,2017-2018,Lazio
+2018-05-06,15:00,Serie A,Matchweek 36,Sun,Home,D,1,1,Atalanta,1.4,2.8,43,46337,Senad Lulić,3-5-1-1,3-4-3,Luca Banti,Match Report,,2017-2018,Lazio
+2018-05-13,15:00,Serie A,Matchweek 37,Sun,Away,D,2,2,Crotone,2.6,1.3,65,14983,Senad Lulić,3-5-1-1,4-3-3,Paolo Mazzoleni,Match Report,,2017-2018,Lazio
+2018-05-20,20:45,Serie A,Matchweek 38,Sun,Home,L,2,3,Inter,1.2,2.4,40,68000,Senad Lulić,3-5-1-1,4-2-3-1,Gianluca Rocchi,Match Report,,2017-2018,Lazio

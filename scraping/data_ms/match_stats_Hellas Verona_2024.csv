@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-10,18:30,Coppa Italia,First round,Sat,Home,L,1,2,Cesena,,,50,7048.0,Darko Lazović,4-2-3-1,3-5-2,,Match Report,,2024-2025,Hellas Verona
+2024-08-18,18:30,Serie A,Matchweek 1,Sun,Home,W,3,0,Napoli,1.7,1.0,33,20027.0,Darko Lazović,3-4-3,3-4-3,Matteo Marchetti,Match Report,,2024-2025,Hellas Verona
+2024-08-26,20:45,Serie A,Matchweek 2,Mon,Home,L,0,3,Juventus,0.5,1.2,40,29575.0,Darko Lazović,3-4-3,4-2-3-1,Antonio Giua,Match Report,,2024-2025,Hellas Verona
+2024-09-01,18:30,Serie A,Matchweek 3,Sun,Away,W,2,0,Genoa,1.5,1.5,42,30747.0,Darko Lazović,3-4-3,3-5-2,Giovanni Ayroldi,Match Report,,2024-2025,Hellas Verona
+2024-09-16,20:45,Serie A,Matchweek 4,Mon,Away,L,1,2,Lazio,0.8,1.2,45,,Darko Lazović,3-4-3,4-2-3-1,Luca Zufferli,Match Report,,2024-2025,Hellas Verona
+2024-09-20,20:45,Serie A,Matchweek 5,Fri,Home,L,2,3,Torino,0.5,2.2,30,23000.0,Darko Lazović,3-4-1-2,3-5-2,Livio Marinelli,Match Report,,2024-2025,Hellas Verona
+2024-09-29,15:00,Serie A,Matchweek 6,Sun,Away,L,2,3,Como,1.1,2.2,29,9000.0,Darko Lazović,4-2-3-1,4-2-3-1,Antonio Giua,Match Report,,2024-2025,Hellas Verona
+2024-10-04,20:45,Serie A,Matchweek 7,Fri,Home,W,2,1,Venezia,2.3,0.9,51,25979.0,Darko Lazović,4-2-3-1,3-5-2,Marco Guida,Match Report,,2024-2025,Hellas Verona
+2024-10-21,20:45,Serie A,Matchweek 8,Mon,Home,L,0,3,Monza,0.9,1.4,59,24854.0,Darko Lazović,4-4-2,3-4-3,Federico Dionisi,Match Report,,2024-2025,Hellas Verona
+2024-10-26,20:45,Serie A,Matchweek 9,Sat,Away,L,1,6,Atalanta,0.2,2.4,31,23015.0,Giangiacomo Magnani,3-4-3,3-4-3,Ermanno Feliciani,Match Report,,2024-2025,Hellas Verona
+2024-10-29,18:30,Serie A,Matchweek 10,Tue,Away,L,0,1,Lecce,0.3,1.7,42,23698.0,Darko Lazović,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,,2024-2025,Hellas Verona
+2024-11-03,18:00,Serie A,Matchweek 11,Sun,Home,W,3,2,Roma,1.1,1.7,34,28185.0,Darko Lazović,4-2-3-1,3-4-3,Matteo Marcenaro,Match Report,,2024-2025,Hellas Verona
+2024-11-10,15:00,Serie A,Matchweek 12,Sun,Away,L,1,3,Fiorentina,0.4,1.9,39,22495.0,Darko Lazović,4-2-3-1,4-2-3-1,Luca Zufferli,Match Report,,2024-2025,Hellas Verona
+2024-11-23,15:00,Serie A,Matchweek 13,Sat,Home,L,0,5,Inter,0.5,3.2,31,27000.0,Giangiacomo Magnani,3-5-2,3-5-2,Andrea Colombo,Match Report,,2024-2025,Hellas Verona
+2024-11-29,20:45,Serie A,Matchweek 14,Fri,Away,L,0,1,Cagliari,0.7,1.8,37,16162.0,Darko Lazović,4-4-2,3-4-1-2,Maurizio Mariani,Match Report,,2024-2025,Hellas Verona
+2024-12-08,15:00,Serie A,Matchweek 15,Sun,Home,L,1,4,Empoli,0.9,1.3,50,23949.0,Darko Lazović,4-2-3-1,3-4-3,Marco Di Bello,Match Report,,2024-2025,Hellas Verona
+2024-12-15,15:00,Serie A,Matchweek 16,Sun,Away,W,3,2,Parma,2.6,1.9,44,17003.0,Darko Lazović,3-4-3,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Hellas Verona
+2024-12-20,20:45,Serie A,Matchweek 17,Fri,Home,L,0,1,Milan,0.7,0.8,36,24000.0,Darko Lazović,3-4-1-2,4-2-3-1,Livio Marinelli,Match Report,,2024-2025,Hellas Verona
+2024-12-30,20:45,Serie A,Matchweek 18,Mon,Away,W,3,2,Bologna,0.8,2.2,33,26454.0,Darko Lazović,5-3-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2024-2025,Hellas Verona
+2025-01-04,20:45,Serie A,Matchweek 19,Sat,Home,D,0,0,Udinese,1.0,0.8,37,23663.0,Paweł Dawidowicz,3-4-1-2,3-5-2,Federico Dionisi,Match Report,,2024-2025,Hellas Verona
+2025-01-12,20:45,Serie A,Matchweek 20,Sun,Away,L,0,2,Napoli,0.3,1.1,31,48750.0,Darko Lazović,3-4-1-2,4-3-3,Luca Zufferli,Match Report,,2024-2025,Hellas Verona
+2025-01-19,18:00,Serie A,Matchweek 21,Sun,Home,L,0,3,Lazio,1.3,1.5,36,37000.0,Paweł Dawidowicz,3-4-1-2,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Hellas Verona
+2025-01-27,18:30,Serie A,Matchweek 22,Mon,Away,D,1,1,Venezia,1.6,0.6,50,9481.0,Lorenzo Montipò,3-4-1-2,3-5-2,Gianluca Manganiello,Match Report,,2024-2025,Hellas Verona
+2025-02-01,15:00,Serie A,Matchweek 23,Sat,Away,W,1,0,Monza,0.9,0.4,34,11723.0,Lorenzo Montipò,3-4-1-2,3-4-3,Davide Massa,Match Report,,2024-2025,Hellas Verona
+2025-02-08,15:00,Serie A,Matchweek 24,Sat,Home,L,0,5,Atalanta,1.6,2.2,38,20872.0,Lorenzo Montipò,3-4-1-2,3-4-3,Simone Sozza,Match Report,,2024-2025,Hellas Verona
+2025-02-15,20:45,Serie A,Matchweek 25,Sat,Away,L,0,1,Milan,0.4,2.1,27,69578.0,Paweł Dawidowicz,3-5-1-1,4-2-3-1,Francesco Fourneau,Match Report,,2024-2025,Hellas Verona
+2025-02-23,15:00,Serie A,Matchweek 26,Sun,Home,W,1,0,Fiorentina,1.2,1.4,43,26496.0,Davide Faraoni,3-4-3,4-2-3-1,Marco Di Bello,Match Report,,2024-2025,Hellas Verona
+2025-03-03,20:45,Serie A,Matchweek 27,Mon,Away,L,0,2,Juventus,0.2,2.0,25,36215.0,Davide Faraoni,5-3-2,4-2-3-1,Matteo Marchetti,Match Report,,2024-2025,Hellas Verona
+2025-03-09,12:30,Serie A,Matchweek 28,Sun,Home,L,1,2,Bologna,1.2,1.3,33,24612.0,Paweł Dawidowicz,3-4-3,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Hellas Verona
+2025-03-15,15:00,Serie A,Matchweek 29,Sat,Away,W,1,0,Udinese,0.4,0.5,36,20754.0,Paweł Dawidowicz,3-4-1-2,4-4-2,Giovanni Ayroldi,Match Report,,2024-2025,Hellas Verona
+2025-03-31,18:30,Serie A,Matchweek 30,Mon,Home,D,0,0,Parma,0.4,0.5,42,22706.0,Paweł Dawidowicz,3-5-2,4-1-4-1,Juan Luca Sacchi,Match Report,,2024-2025,Hellas Verona
+2025-04-06,15:00,Serie A,Matchweek 31,Sun,Away,D,1,1,Torino,0.9,1.1,39,25479.0,Paweł Dawidowicz,3-5-2,4-2-3-1,Kevin Bonacina,Match Report,,2024-2025,Hellas Verona
+2025-04-13,15:00,Serie A,Matchweek 32,Sun,Home,D,0,0,Genoa,1.2,0.2,47,27724.0,Paweł Dawidowicz,3-5-2,3-4-3,Matteo Marchetti,Match Report,,2024-2025,Hellas Verona
+2025-04-19,20:45,Serie A,Matchweek 33,Sat,Away,L,0,1,Roma,0.5,1.2,45,62714.0,Paweł Dawidowicz,3-5-2,3-4-3,Luca Pairetto,Match Report,,2024-2025,Hellas Verona
+2025-04-28,20:45,Serie A,Matchweek 34,Mon,Home,L,0,2,Cagliari,0.3,1.9,55,20741.0,Ondrej Duda,3-1-4-2,3-5-2,Rosario Abisso,Match Report,,2024-2025,Hellas Verona
+2025-05-03,20:45,Serie A,Matchweek 35,Sat,Away,L,0,1,Inter,0.2,1.3,31,70222.0,Ondrej Duda,3-5-1-1,3-5-2,Gianluca Manganiello,Match Report,,2024-2025,Hellas Verona
+2025-05-11,15:00,Serie A,Matchweek 36,Sun,Home,D,1,1,Lecce,0.3,1.1,51,27709.0,Ondrej Duda,3-4-1-2,4-2-3-1,Fabio Maresca,Match Report,,2024-2025,Hellas Verona
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Home,D,1,1,Como,1.5,0.8,33,,Paweł Dawidowicz,3-4-1-2,4-2-3-1,Rosario Abisso,Match Report,,2024-2025,Hellas Verona
+2025-05-25,20:45,Serie A,Matchweek 38,Sun,Away,W,2,1,Empoli,0.8,0.9,31,,Paweł Dawidowicz,3-5-1-1,3-4-3,Daniele Doveri,Match Report,,2024-2025,Hellas Verona

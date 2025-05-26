@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-18,20:30,Serie A,Matchweek 1,Sat,Away,W,2,1,Lazio,1.4,1.0,65.0,32000,Marek Hamšík,4-3-3,3-5-2,Luca Banti,Match Report,,2018-2019,Napoli
+2018-08-25,20:30,Serie A,Matchweek 2,Sat,Home,W,3,2,Milan,1.4,0.7,50.0,34474,Marek Hamšík,4-3-3,4-3-3,Paolo Valeri,Match Report,,2018-2019,Napoli
+2018-09-02,20:30,Serie A,Matchweek 3,Sun,Away,L,0,3,Sampdoria,1.2,0.8,52.0,19835,Lorenzo Insigne,4-3-3,4-3-1-2,Davide Massa,Match Report,,2018-2019,Napoli
+2018-09-15,18:00,Serie A,Matchweek 4,Sat,Home,W,1,0,Fiorentina,1.4,0.3,57.0,20131,Marek Hamšík,4-3-3,4-3-3,Michael Fabbri,Match Report,,2018-2019,Napoli
+2018-09-18,21:00,Champions Lg,Group stage,Tue,Away,D,0,0,rs Red Star,1.6,0.2,73.0,49112,Lorenzo Insigne,4-4-1-1,4-2-3-1,Tomasz Musiał,Match Report,,2018-2019,Napoli
+2018-09-23,12:30,Serie A,Matchweek 5,Sun,Away,W,3,1,Torino,2.0,1.2,53.0,22655,Marek Hamšík,4-2-3-1,3-5-2,Massimiliano Irrati,Match Report,,2018-2019,Napoli
+2018-09-26,21:00,Serie A,Matchweek 6,Wed,Home,W,3,0,Parma,2.6,0.1,66.0,29354,Lorenzo Insigne,4-4-2,4-3-3,Daniele Doveri,Match Report,,2018-2019,Napoli
+2018-09-29,18:00,Serie A,Matchweek 7,Sat,Away,L,1,3,Juventus,1.5,2.8,49.0,39252,Marek Hamšík,4-4-2,4-3-1-2,Luca Banti,Match Report,,2018-2019,Napoli
+2018-10-03,21:00,Champions Lg,Group stage,Wed,Home,W,1,0,eng Liverpool,1.9,0.1,57.0,37057,Marek Hamšík,4-4-2,4-3-3,Sándor Andó-Szabó,Match Report,,2018-2019,Napoli
+2018-10-07,18:00,Serie A,Matchweek 8,Sun,Home,W,2,0,Sassuolo,1.5,1.0,45.0,29647,Raúl Albiol,4-3-3,3-4-3,Marco Di Bello,Match Report,,2018-2019,Napoli
+2018-10-20,20:30,Serie A,Matchweek 9,Sat,Away,W,3,0,Udinese,1.8,2.0,60.0,21449,José Callejón,4-4-2,3-5-2,Maurizio Mariani,Match Report,,2018-2019,Napoli
+2018-10-24,21:00,Champions Lg,Group stage,Wed,Away,D,2,2,fr Paris S-G,1.7,1.1,47.0,46274,Marek Hamšík,4-4-2,4-2-3-1,Tobias Stieler,Match Report,,2018-2019,Napoli
+2018-10-28,20:30,Serie A,Matchweek 10,Sun,Home,D,1,1,Roma,2.1,0.6,63.0,30037,Marek Hamšík,4-4-2,4-2-3-1,Davide Massa,Match Report,,2018-2019,Napoli
+2018-11-02,20:30,Serie A,Matchweek 11,Fri,Home,W,5,1,Empoli,2.0,1.2,47.0,31370,Lorenzo Insigne,4-4-2,4-3-2-1,Luca Pairetto,Match Report,,2018-2019,Napoli
+2018-11-06,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,fr Paris S-G,2.0,1.3,44.0,55489,Marek Hamšík,4-4-2,3-5-2,Björn Kuipers,Match Report,,2018-2019,Napoli
+2018-11-10,20:30,Serie A,Matchweek 12,Sat,Away,W,2,1,Genoa,1.7,0.7,67.0,25365,Marek Hamšík,4-4-2,3-1-4-2,Rosario Abisso,Match Report,,2018-2019,Napoli
+2018-11-25,15:00,Serie A,Matchweek 13,Sun,Home,D,0,0,Chievo,1.5,0.4,70.0,44468,Lorenzo Insigne,4-4-2,4-1-2-1-2,Daniele Chiffi,Match Report,,2018-2019,Napoli
+2018-11-28,21:00,Champions Lg,Group stage,Wed,Home,W,3,1,rs Red Star,2.4,0.8,65.0,44470,Marek Hamšík,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2018-2019,Napoli
+2018-12-03,20:30,Serie A,Matchweek 14,Mon,Away,W,2,1,Atalanta,1.6,1.3,45.0,19871,Marek Hamšík,4-4-2,3-4-1-2,Piero Giacomelli,Match Report,,2018-2019,Napoli
+2018-12-08,15:00,Serie A,Matchweek 15,Sat,Home,W,4,0,Frosinone,2.2,0.6,66.0,34631,Marek Hamšík,4-4-2,3-4-3,Gianluca Manganiello,Match Report,,2018-2019,Napoli
+2018-12-11,20:00,Champions Lg,Group stage,Tue,Away,L,0,1,eng Liverpool,1.2,3.0,52.0,52015,Marek Hamšík,4-4-2,4-3-3,Damir Skomina,Match Report,,2018-2019,Napoli
+2018-12-16,18:00,Serie A,Matchweek 16,Sun,Away,W,1,0,Cagliari,1.0,0.6,61.0,15081,Kalidou Koulibaly,4-2-3-1,4-3-1-2,Daniele Doveri,Match Report,,2018-2019,Napoli
+2018-12-22,15:00,Serie A,Matchweek 17,Sat,Home,W,1,0,SPAL,2.2,0.6,62.0,37093,Marek Hamšík,4-4-2,3-5-2,Federico La Penna,Match Report,,2018-2019,Napoli
+2018-12-26,20:30,Serie A,Matchweek 18,Wed,Away,L,0,1,Inter,0.8,1.3,50.0,63946,Marek Hamšík,4-4-2,4-3-3,Paolo Mazzoleni,Match Report,,2018-2019,Napoli
+2018-12-29,18:00,Serie A,Matchweek 19,Sat,Home,W,3,2,Bologna,2.0,0.7,64.0,46585,José Callejón,4-4-2,3-5-2,Giampaolo Calvarese,Match Report,,2018-2019,Napoli
+2019-01-13,20:45,Coppa Italia,Round of 16,Sun,Home,W,2,0,Sassuolo,,,,14908,,,,Daniele Chiffi,Match Report,,2018-2019,Napoli
+2019-01-20,20:30,Serie A,Matchweek 20,Sun,Home,W,2,1,Lazio,1.8,1.4,56.0,19448,José Callejón,4-4-2,3-5-1-1,Gianluca Rocchi,Match Report,,2018-2019,Napoli
+2019-01-26,20:30,Serie A,Matchweek 21,Sat,Away,D,0,0,Milan,0.7,1.0,54.0,56729,Lorenzo Insigne,4-4-2,4-3-3,Daniele Doveri,Match Report,,2018-2019,Napoli
+2019-01-29,20:45,Coppa Italia,Quarter-finals,Tue,Away,L,0,2,Milan,,,,22289,,,,Piero Giacomelli,Match Report,,2018-2019,Napoli
+2019-02-02,18:00,Serie A,Matchweek 22,Sat,Home,W,3,0,Sampdoria,1.7,1.0,57.0,19455,Marek Hamšík,4-4-2,4-3-1-2,Luca Pairetto,Match Report,,2018-2019,Napoli
+2019-02-09,18:00,Serie A,Matchweek 23,Sat,Away,D,0,0,Fiorentina,2.9,0.7,60.0,29377,Lorenzo Insigne,4-4-2,3-4-3,Giampaolo Calvarese,Match Report,,2018-2019,Napoli
+2019-02-14,21:00,Europa Lg,Round of 32,Thu,Away,W,3,1,ch Zürich,2.2,2.1,65.0,24000,Lorenzo Insigne,4-4-2,4-1-4-1,Danilo Grujić,Match Report,Leg 1 of 2,2018-2019,Napoli
+2019-02-17,20:30,Serie A,Matchweek 24,Sun,Home,D,0,0,Torino,2.4,0.5,64.0,21830,Lorenzo Insigne,4-4-2,3-5-1-1,Michael Fabbri,Match Report,,2018-2019,Napoli
+2019-02-21,18:55,Europa Lg,Round of 32,Thu,Home,W,2,0,ch Zürich,3.3,0.7,64.0,17579,Lorenzo Insigne,4-4-2,4-4-2,Tasos Sidiropoulos,Match Report,Leg 2 of 2; Napoli won,2018-2019,Napoli
+2019-02-24,18:00,Serie A,Matchweek 25,Sun,Away,W,4,0,Parma,1.1,0.5,66.0,18478,José Callejón,4-4-2,4-3-3,Daniele Chiffi,Match Report,,2018-2019,Napoli
+2019-03-03,20:30,Serie A,Matchweek 26,Sun,Home,L,1,2,Juventus,2.1,0.3,63.0,42667,Lorenzo Insigne,4-4-2,4-4-2,Gianluca Rocchi,Match Report,,2018-2019,Napoli
+2019-03-07,21:00,Europa Lg,Round of 16,Thu,Home,W,3,0,at RB Salzburg,2.4,1.6,54.0,32579,José Callejón,4-4-2,4-1-2-1-2,Aliaksei Kulbakou,Match Report,Leg 1 of 2,2018-2019,Napoli
+2019-03-10,18:00,Serie A,Matchweek 27,Sun,Away,D,1,1,Sassuolo,0.8,1.2,57.0,14969,Lorenzo Insigne,4-4-2,3-4-3,Gianluca Manganiello,Match Report,,2018-2019,Napoli
+2019-03-14,18:55,Europa Lg,Round of 16,Thu,Away,L,1,3,at RB Salzburg,1.1,2.0,43.0,29520,Lorenzo Insigne,4-4-2,4-1-2-1-2,Ricardo de Burgos,Match Report,Leg 2 of 2; Napoli won,2018-2019,Napoli
+2019-03-17,18:00,Serie A,Matchweek 28,Sun,Home,W,4,2,Udinese,1.0,0.8,66.0,25718,José Callejón,4-4-2,3-5-2,Paolo Valeri,Match Report,,2018-2019,Napoli
+2019-03-31,15:00,Serie A,Matchweek 29,Sun,Away,W,4,1,Roma,1.7,2.0,60.0,36525,José Callejón,4-4-2,4-3-3,Giampaolo Calvarese,Match Report,,2018-2019,Napoli
+2019-04-03,19:00,Serie A,Matchweek 30,Wed,Away,L,1,2,Empoli,0.7,1.2,62.0,10911,José Callejón,4-2-3-1,5-3-2,Daniele Doveri,Match Report,,2018-2019,Napoli
+2019-04-07,20:30,Serie A,Matchweek 31,Sun,Home,D,1,1,Genoa,1.7,1.1,74.0,22935,José Callejón,4-4-2,5-3-2,Fabrizio Pasqua,Match Report,,2018-2019,Napoli
+2019-04-11,20:00,Europa Lg,Quarter-finals,Thu,Away,L,0,2,eng Arsenal,0.8,2.0,58.0,59738,Lorenzo Insigne,4-4-2,3-4-1-2,Alberto Undiano,Match Report,Leg 1 of 2,2018-2019,Napoli
+2019-04-14,18:00,Serie A,Matchweek 32,Sun,Away,W,3,1,Chievo,1.1,0.2,68.0,13500,Lorenzo Insigne,4-4-2,4-3-1-2,Federico La Penna,Match Report,,2018-2019,Napoli
+2019-04-18,21:00,Europa Lg,Quarter-finals,Thu,Home,L,0,1,eng Arsenal,1.4,0.7,69.0,39438,Lorenzo Insigne,4-4-2,3-4-1-2,Ovidiu Hațegan,Match Report,Leg 2 of 2; Arsenal won,2018-2019,Napoli
+2019-04-22,19:00,Serie A,Matchweek 33,Mon,Home,L,1,2,Atalanta,1.6,1.4,46.0,19604,José Callejón,4-4-2,3-4-3,Daniele Orsato,Match Report,,2018-2019,Napoli
+2019-04-28,12:30,Serie A,Matchweek 34,Sun,Away,W,2,0,Frosinone,1.8,1.3,66.0,13600,José Callejón,4-4-2,3-5-2,Federico La Penna,Match Report,,2018-2019,Napoli
+2019-05-05,20:30,Serie A,Matchweek 35,Sun,Home,W,2,1,Cagliari,1.9,0.3,63.0,16171,Lorenzo Insigne,4-4-2,4-3-1-2,Daniele Chiffi,Match Report,,2018-2019,Napoli
+2019-05-12,18:00,Serie A,Matchweek 36,Sun,Away,W,2,1,SPAL,1.7,2.1,61.0,14175,José Callejón,4-2-3-1,3-5-2,Eugenio Abbattista,Match Report,,2018-2019,Napoli
+2019-05-19,20:30,Serie A,Matchweek 37,Sun,Home,W,4,1,Inter,1.2,2.2,43.0,25445,José Callejón,4-4-2,4-2-3-1,Daniele Doveri,Match Report,,2018-2019,Napoli
+2019-05-25,20:30,Serie A,Matchweek 38,Sat,Away,L,2,3,Bologna,1.9,1.0,67.0,19351,Lorenzo Insigne,4-4-2,4-2-3-1,Aleandro Di Paolo,Match Report,,2018-2019,Napoli

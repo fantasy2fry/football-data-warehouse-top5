@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-15,19:00,La Liga,Matchweek 1,Thu,Home,D,1,1,Getafe,0.3,0.8,68,47845,Iñaki Williams,4-2-3-1,4-1-4-1,,Match Report,,2024-2025,Athletic Club
+2024-08-24,19:00,La Liga,Matchweek 2,Sat,Away,L,1,2,Barcelona,1.0,1.8,36,46448,Iñaki Williams,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Athletic Club
+2024-08-28,19:00,La Liga,Matchweek 3,Wed,Home,W,1,0,Valencia,1.4,0.1,50,48644,Óscar de Marcos,4-2-3-1,4-4-2,,Match Report,,2024-2025,Athletic Club
+2024-08-31,19:00,La Liga,Matchweek 4,Sat,Home,L,0,1,Atlético Madrid,0.3,1.7,53,48617,Iñaki Williams,4-2-3-1,3-4-3,Alejandro Hernández,Match Report,,2024-2025,Athletic Club
+2024-09-15,17:30,La Liga,Matchweek 5,Sun,Away,W,3,2,Las Palmas,1.7,1.4,36,25908,Óscar de Marcos,4-2-3-1,4-5-1,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Athletic Club
+2024-09-19,19:00,La Liga,Matchweek 7,Thu,Away,W,2,0,Leganés,1.3,0.9,52,8304,Yuri Berchiche,4-2-3-1,5-3-2,Francisco Hernández,Match Report,,2024-2025,Athletic Club
+2024-09-22,16:15,La Liga,Matchweek 6,Sun,Home,W,3,1,Celta Vigo,0.7,1.3,33,48737,Óscar de Marcos,4-2-3-1,3-4-3,José Sánchez,Match Report,,2024-2025,Athletic Club
+2024-09-26,21:00,Europa Lg,League phase,Thu,Away,D,1,1,it Roma,1.0,0.5,40,63072,Iñaki Williams,4-2-3-1,3-5-2,Georgi Kabakov,Match Report,,2024-2025,Athletic Club
+2024-09-29,16:15,La Liga,Matchweek 8,Sun,Home,D,1,1,Sevilla,2.0,1.1,39,48288,Óscar de Marcos,4-2-3-1,4-2-3-1,César Soto,Match Report,,2024-2025,Athletic Club
+2024-10-03,21:00,Europa Lg,League phase,Thu,Home,W,2,0,nl AZ Alkmaar,1.4,0.4,55,40328,Iñaki Williams,4-2-3-1,4-2-3-1,Balázs Berke,Match Report,,2024-2025,Athletic Club
+2024-10-06,14:00,La Liga,Matchweek 9,Sun,Away,L,1,2,Girona,3.1,1.9,34,13396,Óscar de Marcos,4-3-3,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Athletic Club
+2024-10-19,14:00,La Liga,Matchweek 10,Sat,Home,W,4,1,Espanyol,1.3,0.2,56,46713,Óscar de Marcos,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Athletic Club
+2024-10-24,21:00,Europa Lg,League phase,Thu,Home,W,1,0,cz Slavia Prague,0.2,1.1,40,47776,Óscar de Marcos,4-2-3-1,4-2-3-1,Morten Krogh,Match Report,,2024-2025,Athletic Club
+2024-10-28,21:00,La Liga,Matchweek 11,Mon,Away,D,0,0,Mallorca,0.6,0.5,67,19797,Iñaki Williams,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2024-2025,Athletic Club
+2024-11-03,21:00,La Liga,Matchweek 12,Sun,Home,D,1,1,Betis,4.0,0.9,50,46898,Óscar de Marcos,4-2-3-1,4-4-2,Javier Alberola,Match Report,,2024-2025,Athletic Club
+2024-11-07,19:45,Europa Lg,League phase,Thu,Away,W,2,1,bg Ludogorets,1.6,0.8,59,9725,Iñaki Williams,4-2-3-1,4-2-3-1,Anastasios Papapetrou,Match Report,,2024-2025,Athletic Club
+2024-11-10,18:30,La Liga,Matchweek 13,Sun,Away,D,1,1,Valladolid,1.2,0.6,66,23515,Óscar de Marcos,4-2-3-1,5-4-1,Adrián Cordero,Match Report,,2024-2025,Athletic Club
+2024-11-24,21:00,La Liga,Matchweek 14,Sun,Home,W,1,0,Real Sociedad,1.3,0.5,41,50719,Óscar de Marcos,4-2-3-1,4-1-4-1,Jesús Gil,Match Report,,2024-2025,Athletic Club
+2024-11-28,18:45,Europa Lg,League phase,Thu,Home,W,3,0,se Elfsborg,1.4,0.3,70,46325,Iñaki Williams,4-2-3-1,3-4-3,Giorgi Kruashvili,Match Report,,2024-2025,Athletic Club
+2024-12-01,18:30,La Liga,Matchweek 15,Sun,Away,W,2,1,Rayo Vallecano,0.7,0.2,52,13639,Iñaki Williams,4-2-3-1,4-4-2,Mario Melero,Match Report,,2024-2025,Athletic Club
+2024-12-04,21:00,La Liga,Matchweek 19,Wed,Home,W,2,1,Real Madrid,1.8,1.7,37,51364,Iñaki Williams,4-2-3-1,4-4-2,Jose Maria Sánchez,Match Report,,2024-2025,Athletic Club
+2024-12-08,16:15,La Liga,Matchweek 16,Sun,Home,W,2,0,Villarreal,1.2,0.8,42,47203,Óscar de Marcos,4-2-3-1,4-4-2,Víctor García,Match Report,,2024-2025,Athletic Club
+2024-12-11,18:30,Europa Lg,League phase,Wed,Away,W,2,0,tr Fenerbahçe,1.5,0.4,47,35263,Iñaki Williams,4-2-3-1,4-2-3-1,Irfan Peljto,Match Report,,2024-2025,Athletic Club
+2024-12-15,16:15,La Liga,Matchweek 17,Sun,Away,D,1,1,Alavés,0.7,0.9,48,19239,Óscar de Marcos,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,2024-2025,Athletic Club
+2024-12-21,18:30,La Liga,Matchweek 18,Sat,Away,W,2,1,Osasuna,1.2,0.6,47,22030,Iñaki Williams,4-2-3-1,4-3-3,Alejandro Quintero,Match Report,,2024-2025,Athletic Club
+2025-01-04,21:30,Copa del Rey,Round of 32,Sat,Away,D,0 (4),0 (3),UD Logroñés,,,62,15577,Óscar de Marcos,4-2-3-1,4-4-2,Mario Melero,Match Report,Athletic Club won on penalty kicks following extra time,2024-2025,Athletic Club
+2025-01-08,22:00,Supercopa de España,Semi-finals,Wed,Neutral,L,0,2,Barcelona,,,44,42000,Iñaki Williams,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Athletic Club
+2025-01-16,19:30,Copa del Rey,Round of 16,Thu,Home,L,2,3,Osasuna,,,60,48230,Óscar de Marcos,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Athletic Club
+2025-01-19,14:00,La Liga,Matchweek 20,Sun,Away,W,2,1,Celta Vigo,1.8,0.6,41,22279,Iñaki Williams,4-4-2,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Athletic Club
+2025-01-22,18:30,Europa Lg,League phase,Wed,Away,L,1,4,tr Beşiktaş,1.0,2.8,53,35980,Óscar de Marcos,4-2-3-1,4-2-3-1,Julian Weinberger,Match Report,,2024-2025,Athletic Club
+2025-01-26,18:30,La Liga,Matchweek 21,Sun,Home,D,0,0,Leganés,2.1,1.0,68,47612,Iñaki Williams,4-2-3-1,5-4-1,Alejandro Hernández,Match Report,,2024-2025,Athletic Club
+2025-01-30,21:00,Europa Lg,League phase,Thu,Home,W,3,1,cz Viktoria Plzeň,2.2,0.6,57,45471,Óscar de Marcos,4-2-3-1,3-5-2,Matej Jug,Match Report,,2024-2025,Athletic Club
+2025-02-02,21:00,La Liga,Matchweek 22,Sun,Away,D,2,2,Betis,1.4,1.1,47,49292,Iñaki Williams,4-4-2,4-2-3-1,Juan Martínez,Match Report,,2024-2025,Athletic Club
+2025-02-08,16:15,La Liga,Matchweek 23,Sat,Home,W,3,0,Girona,3.6,0.1,45,48261,Óscar de Marcos,4-2-3-1,4-2-3-1,Jose Maria Sánchez,Match Report,,2024-2025,Athletic Club
+2025-02-16,14:00,La Liga,Matchweek 24,Sun,Away,D,1,1,Espanyol,1.0,0.8,61,26645,Iñaki Williams,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,2024-2025,Athletic Club
+2025-02-23,14:00,La Liga,Matchweek 25,Sun,Home,W,7,1,Valladolid,3.8,0.5,57,47715,Óscar de Marcos,4-2-3-1,5-4-1,César Soto,Match Report,,2024-2025,Athletic Club
+2025-03-01,21:00,La Liga,Matchweek 26,Sat,Away,L,0,1,Atlético Madrid,1.1,2.2,50,63810,Iñaki Williams,4-2-3-1,4-4-2,Jesús Gil,Match Report,,2024-2025,Athletic Club
+2025-03-06,21:00,Europa Lg,Round of 16,Thu,Away,L,1,2,it Roma,1.2,1.2,42,62540,Óscar de Marcos,4-2-3-1,3-4-3,Sandro Schärer,Match Report,Leg 1 of 2,2024-2025,Athletic Club
+2025-03-09,18:30,La Liga,Matchweek 27,Sun,Home,D,1,1,Mallorca,0.7,0.5,55,48203,Yeray Álvarez,4-2-3-1,5-4-1,Alejandro Hernández,Match Report,,2024-2025,Athletic Club
+2025-03-13,18:45,Europa Lg,Round of 16,Thu,Home,W,3,1,it Roma,1.8,1.1,69,50666,Óscar de Marcos,4-2-3-1,3-4-3,Clément Turpin,Match Report,Leg 2 of 2; Athletic Club won,2024-2025,Athletic Club
+2025-03-16,16:15,La Liga,Matchweek 28,Sun,Away,W,1,0,Sevilla,1.3,0.5,39,37016,Iñaki Williams,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Athletic Club
+2025-03-30,18:30,La Liga,Matchweek 29,Sun,Home,D,0,0,Osasuna,0.7,0.4,61,49671,Óscar de Marcos,4-2-3-1,5-4-1,Guillermo Cuadra,Match Report,,2024-2025,Athletic Club
+2025-04-06,21:00,La Liga,Matchweek 30,Sun,Away,D,0,0,Villarreal,0.8,2.1,44,19158,Iñaki Williams,4-2-3-1,4-4-2,Mario Melero,Match Report,,2024-2025,Athletic Club
+2025-04-10,20:00,Europa Lg,Quarter-finals,Thu,Away,D,0,0,sct Rangers,2.3,0.2,71,49922,Óscar de Marcos,4-2-3-1,3-4-3,István Kovács,Match Report,Leg 1 of 2,2024-2025,Athletic Club
+2025-04-13,21:00,La Liga,Matchweek 31,Sun,Home,W,3,1,Rayo Vallecano,1.6,1.6,54,47584,Unai Simón,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,2024-2025,Athletic Club
+2025-04-17,21:00,Europa Lg,Quarter-finals,Thu,Home,W,2,0,sct Rangers,2.6,0.5,56,52114,Óscar de Marcos,4-2-3-1,3-4-3,Irfan Peljto,Match Report,Leg 2 of 2; Athletic Club won,2024-2025,Athletic Club
+2025-04-20,21:00,La Liga,Matchweek 32,Sun,Away,L,0,1,Real Madrid,0.2,1.5,27,72535,Unai Simón,4-2-3-1,4-3-1-2,Juan Martínez,Match Report,,2024-2025,Athletic Club
+2025-04-23,19:00,La Liga,Matchweek 33,Wed,Home,W,1,0,Las Palmas,2.1,1.0,50,47724,Óscar de Marcos,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,2024-2025,Athletic Club
+2025-05-01,21:00,Europa Lg,Semi-finals,Thu,Home,L,0,3,eng Manchester Utd,1.1,2.5,28,51980,Óscar de Marcos,4-2-3-1,3-4-3,Espen Eskås,Match Report,Leg 1 of 2,2024-2025,Athletic Club
+2025-05-04,21:00,La Liga,Matchweek 34,Sun,Away,D,0,0,Real Sociedad,0.2,0.9,41,36058,Iñaki Williams,4-2-3-1,4-1-4-1,César Soto,Match Report,,2024-2025,Athletic Club
+2025-05-08,20:00,Europa Lg,Semi-finals,Thu,Away,L,1,4,eng Manchester Utd,0.8,2.2,49,73298,Yeray Álvarez,4-2-3-1,3-4-3,Daniel Siebert,Match Report,Leg 2 of 2; Manchester Utd won,2024-2025,Athletic Club
+2025-05-11,18:30,La Liga,Matchweek 35,Sun,Home,W,1,0,Alavés,1.3,0.4,59,47947,Óscar de Marcos,4-2-3-1,4-1-4-1,José Luis Munuera,Match Report,,2024-2025,Athletic Club
+2025-05-15,21:30,La Liga,Matchweek 36,Thu,Away,W,2,0,Getafe,1.2,0.4,65,11564,Yeray Álvarez,3-4-3,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Athletic Club
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Away,W,1,0,Valencia,1.1,0.4,45,45641,Iñigo Lekue,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,2024-2025,Athletic Club
+2025-05-25,21:00,La Liga,Matchweek 38,Sun,Home,L,0,3,Barcelona,1.2,3.5,25,50231,Óscar de Marcos,4-2-3-1,4-2-3-1,Pablo González,Match Report,,2024-2025,Athletic Club

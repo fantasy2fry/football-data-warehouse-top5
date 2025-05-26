@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-17,21:00,La Liga,Matchweek 1,Sat,Away,W,1,0,Leganés,0.2,1.4,48.0,10020.0,Oier Sanjurjo,4-2-3-1,3-4-1-2,Alberola Rojas,Match Report,,2019-2020,Osasuna
+2019-08-24,17:00,La Liga,Matchweek 2,Sat,Home,D,0,0,Eibar,0.5,0.8,49.0,13978.0,Roberto Torres,4-4-2,4-4-2,David Medié,Match Report,,2019-2020,Osasuna
+2019-08-31,17:00,La Liga,Matchweek 3,Sat,Home,D,2,2,Barcelona,1.8,0.4,27.0,16742.0,Oier Sanjurjo,4-4-2,4-3-3,Juan Martínez,Match Report,,2019-2020,Osasuna
+2019-09-15,18:30,La Liga,Matchweek 4,Sun,Away,D,1,1,Valladolid,2.5,0.7,50.0,20670.0,Oier Sanjurjo,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Osasuna
+2019-09-20,21:00,La Liga,Matchweek 5,Fri,Home,D,0,0,Betis,2.1,0.4,50.0,15569.0,Oier Sanjurjo,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2019-2020,Osasuna
+2019-09-25,21:00,La Liga,Matchweek 6,Wed,Away,L,0,2,Real Madrid,0.2,1.6,45.0,57520.0,Fran Mérida,4-4-2,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Osasuna
+2019-09-29,18:30,La Liga,Matchweek 7,Sun,Away,D,1,1,Levante,1.1,1.6,52.0,19362.0,Oier Sanjurjo,4-4-2,4-4-2,César Soto,Match Report,,2019-2020,Osasuna
+2019-10-05,21:00,La Liga,Matchweek 8,Sat,Home,W,2,1,Villarreal,1.3,2.4,53.0,15349.0,Oier Sanjurjo,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2019-2020,Osasuna
+2019-10-18,21:00,La Liga,Matchweek 9,Fri,Away,L,0,1,Granada,0.6,0.6,56.0,16986.0,Oier Sanjurjo,4-2-3-1,4-2-3-1,Javier Estrada,Match Report,,2019-2020,Osasuna
+2019-10-27,21:00,La Liga,Matchweek 10,Sun,Home,W,3,1,Valencia,2.8,0.9,65.0,14976.0,Oier Sanjurjo,4-4-1-1,4-4-2,Santiago Jaime,Match Report,,2019-2020,Osasuna
+2019-10-31,19:00,La Liga,Matchweek 11,Thu,Away,D,2,2,Mallorca,1.0,2.4,54.0,12641.0,Roberto Torres,4-4-2,4-3-3,Adrián Cordero,Match Report,,2019-2020,Osasuna
+2019-11-03,16:00,La Liga,Matchweek 12,Sun,Home,W,4,2,Alavés,3.7,1.5,58.0,15954.0,Oier Sanjurjo,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Osasuna
+2019-11-10,18:30,La Liga,Matchweek 13,Sun,Away,D,0,0,Getafe,0.1,1.3,46.0,10558.0,Oier Sanjurjo,4-2-3-1,4-4-2,César Soto,Match Report,,2019-2020,Osasuna
+2019-11-24,14:00,La Liga,Matchweek 14,Sun,Home,L,1,2,Athletic Club,1.3,1.1,59.0,16145.0,Roberto Torres,4-4-2,4-2-3-1,José Sánchez,Match Report,,2019-2020,Osasuna
+2019-12-01,16:00,La Liga,Matchweek 15,Sun,Away,W,4,2,Espanyol,2.7,1.6,47.0,21238.0,Oier Sanjurjo,4-4-2,3-1-4-2,Mario Melero,Match Report,,2019-2020,Osasuna
+2019-12-08,21:00,La Liga,Matchweek 16,Sun,Home,D,1,1,Sevilla,0.8,1.5,40.0,15045.0,Oier Sanjurjo,4-4-2,4-3-3,Javier Estrada,Match Report,,2019-2020,Osasuna
+2019-12-14,21:00,La Liga,Matchweek 17,Sat,Away,L,0,2,Atlético Madrid,0.7,2.5,53.0,46033.0,Oier Sanjurjo,4-5-1,4-4-2,José Luis Munuera,Match Report,,2019-2020,Osasuna
+2019-12-19,21:00,Copa del Rey,First round,Thu,Away,W,3,0,Lorca Deportiva,,,,,,,,,Match Report,,2019-2020,Osasuna
+2019-12-22,14:00,La Liga,Matchweek 18,Sun,Home,L,3,4,Real Sociedad,3.4,2.2,48.0,16197.0,Oier Sanjurjo,4-4-2,4-1-4-1,David Medié,Match Report,,2019-2020,Osasuna
+2020-01-05,21:00,La Liga,Matchweek 19,Sun,Away,D,1,1,Celta Vigo,0.7,1.6,40.0,11932.0,Oier Sanjurjo,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,2019-2020,Osasuna
+2020-01-11,12:00,Copa del Rey,Second round,Sat,Away,W,2,1,Haro Deportivo,,,,,,,,,Match Report,,2019-2020,Osasuna
+2020-01-18,18:30,La Liga,Matchweek 20,Sat,Home,D,0,0,Valladolid,1.9,0.5,55.0,15382.0,Oier Sanjurjo,4-4-2,5-3-2,Alberola Rojas,Match Report,,2019-2020,Osasuna
+2020-01-21,19:00,Copa del Rey,Round of 32,Tue,Away,W,3,2,Recreativo,,,68.0,5000.0,Roberto Torres,4-4-2,4-2-3-1,Jesús Gil,Match Report,Required Extra Time,2019-2020,Osasuna
+2020-01-24,21:00,La Liga,Matchweek 21,Fri,Home,W,2,0,Levante,1.9,0.6,55.0,14667.0,Roberto Torres,4-4-2,5-3-2,César Soto,Match Report,,2019-2020,Osasuna
+2020-01-29,21:00,Copa del Rey,Round of 16,Wed,Away,L,1,3,Real Sociedad,,,41.0,31236.0,Unai García,3-5-1-1,4-3-3,José Luis Munuera,Match Report,,2019-2020,Osasuna
+2020-02-02,18:30,La Liga,Matchweek 22,Sun,Away,L,1,3,Villarreal,0.9,2.1,45.0,17081.0,Roberto Torres,4-2-3-1,4-1-4-1,Valentín Pizarro,Match Report,,2019-2020,Osasuna
+2020-02-09,16:00,La Liga,Matchweek 23,Sun,Home,L,1,4,Real Madrid,0.9,2.6,45.0,17000.0,Roberto Torres,4-4-2,4-3-3,Jesús Gil,Match Report,,2019-2020,Osasuna
+2020-02-16,18:30,La Liga,Matchweek 24,Sun,Away,W,1,0,Athletic Club,0.6,0.8,35.0,44222.0,Oier Sanjurjo,5-3-2,3-5-2,Pablo González,Match Report,,2019-2020,Osasuna
+2020-02-23,12:00,La Liga,Matchweek 25,Sun,Home,L,0,3,Granada,0.9,1.3,61.0,14866.0,Oier Sanjurjo,4-1-4-1,5-3-2,José Sánchez,Match Report,,2019-2020,Osasuna
+2020-03-01,12:00,La Liga,Matchweek 26,Sun,Away,L,2,3,Sevilla,1.7,2.4,37.0,31382.0,Oier Sanjurjo,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2019-2020,Osasuna
+2020-03-08,12:00,La Liga,Matchweek 27,Sun,Home,W,1,0,Espanyol,2.4,0.3,51.0,15737.0,Oier Sanjurjo,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Osasuna
+2020-06-14,22:00,La Liga,Matchweek 28,Sun,Away,D,1,1,Real Sociedad,1.1,1.0,35.0,,Oier Sanjurjo,5-3-2,4-2-3-1,Adrián Cordero,Match Report,,2019-2020,Osasuna
+2020-06-17,22:00,La Liga,Matchweek 29,Wed,Home,L,0,5,Atlético Madrid,1.0,1.7,47.0,,Roberto Torres,4-1-4-1,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Osasuna
+2020-06-21,19:30,La Liga,Matchweek 30,Sun,Away,L,0,2,Valencia,1.5,1.5,45.0,,Oier Sanjurjo,5-3-2,4-4-2,David Medié,Match Report,,2019-2020,Osasuna
+2020-06-24,19:30,La Liga,Matchweek 31,Wed,Away,W,1,0,Alavés,1.1,0.9,47.0,,Oier Sanjurjo,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2019-2020,Osasuna
+2020-06-27,19:30,La Liga,Matchweek 32,Sat,Home,W,2,1,Leganés,1.0,1.6,51.0,,Roberto Torres,4-4-2,3-5-2,Alberola Rojas,Match Report,,2019-2020,Osasuna
+2020-07-02,19:30,La Liga,Matchweek 33,Thu,Away,W,2,0,Eibar,0.9,0.9,45.0,,Oier Sanjurjo,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Osasuna
+2020-07-05,19:30,La Liga,Matchweek 34,Sun,Home,D,0,0,Getafe,0.6,0.3,48.0,,Oier Sanjurjo,4-4-2,4-4-2,Mario Melero,Match Report,,2019-2020,Osasuna
+2020-07-08,20:30,La Liga,Matchweek 35,Wed,Away,L,0,3,Betis,0.4,1.8,44.0,,Roberto Torres,4-5-1,4-4-2,Alejandro Hernández,Match Report,,2019-2020,Osasuna
+2020-07-11,17:00,La Liga,Matchweek 36,Sat,Home,W,2,1,Celta Vigo,1.4,0.9,53.0,,Oier Sanjurjo,4-4-2,3-5-2,Valentín Pizarro,Match Report,,2019-2020,Osasuna
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Away,W,2,1,Barcelona,0.8,1.1,21.0,,David García,5-3-2,4-3-3,José Sánchez,Match Report,,2019-2020,Osasuna
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Home,D,2,2,Mallorca,0.9,0.8,43.0,,Oier Sanjurjo,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2019-2020,Osasuna

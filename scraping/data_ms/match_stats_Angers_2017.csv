@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-06,17:00,Ligue 1,Matchweek 1,Sun,Home,D,2,2,Bordeaux,1.2,1.7,44.0,11767,Ismaël Traoré,4-1-4-1,4-3-3,Sébastien Desiage,Match Report,,2017-2018,Angers
+2017-08-12,20:00,Ligue 1,Matchweek 2,Sat,Away,W,2,0,Amiens,1.4,0.9,41.0,7772,Romain Thomas,4-1-4-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2017-2018,Angers
+2017-08-20,17:00,Ligue 1,Matchweek 3,Sun,Away,D,1,1,Marseille,0.6,1.3,41.0,51966,Thomas Mangani,4-1-4-1,4-2-3-1,Jérôme Miguelgorry,Match Report,,2017-2018,Angers
+2017-08-27,17:00,Ligue 1,Matchweek 4,Sun,Home,D,1,1,Lille,0.8,0.8,44.0,10284,Thomas Mangani,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2017-2018,Angers
+2017-09-10,15:00,Ligue 1,Matchweek 5,Sun,Away,D,1,1,Saint-Étienne,2.4,0.7,47.0,29740,Ismaël Traoré,4-1-4-1,4-3-3,Karim Abed,Match Report,,2017-2018,Angers
+2017-09-17,17:00,Ligue 1,Matchweek 6,Sun,Home,L,0,1,Metz,2.2,1.9,53.0,9163,Ismaël Traoré,4-1-4-1,4-2-3-1,Stéphane Jochem,Match Report,,2017-2018,Angers
+2017-09-22,19:00,Ligue 1,Matchweek 7,Fri,Away,D,2,2,Nice,1.5,2.1,36.0,18023,Ismaël Traoré,5-4-1,4-4-2,François Letexier,Match Report,,2017-2018,Angers
+2017-10-01,17:00,Ligue 1,Matchweek 8,Sun,Home,D,3,3,Lyon,1.1,1.4,60.0,11432,Ismaël Traoré,4-1-4-1,4-2-3-1,Mikael Lesage,Match Report,,2017-2018,Angers
+2017-10-14,20:00,Ligue 1,Matchweek 9,Sat,Away,W,2,0,Caen,1.8,1.7,53.0,16736,Ismaël Traoré,4-4-2,4-4-2,Benoît Millot,Match Report,,2017-2018,Angers
+2017-10-21,20:00,Ligue 1,Matchweek 10,Sat,Home,L,0,1,Toulouse,1.5,0.2,50.0,11001,Ismaël Traoré,4-1-4-1,4-2-3-1,Johan Hamel,Match Report,,2017-2018,Angers
+2017-10-25,21:05,Coupe de la Ligue,Third round,Wed,Home,W,3,2,Nancy,,,,9802,Romain Thomas,4-4-2,4-3-3,Jérôme Miguelgorry,Match Report,,2017-2018,Angers
+2017-10-28,20:00,Ligue 1,Matchweek 11,Sat,Away,D,2,2,Strasbourg,0.7,2.0,46.0,25011,Ismaël Traoré,3-5-1-1,4-1-2-1-2,Amaury Delerue,Match Report,,2017-2018,Angers
+2017-11-04,17:00,Ligue 1,Matchweek 12,Sat,Home,L,0,5,Paris S-G,0.5,2.5,31.0,12381,Ismaël Traoré,5-3-2,4-3-3,Benoît Bastien,Match Report,,2017-2018,Angers
+2017-11-18,20:00,Ligue 1,Matchweek 13,Sat,Away,D,1,1,Guingamp,0.5,1.2,60.0,13849,Thomas Mangani,4-1-4-1,4-2-3-1,Jérôme Brisard,Match Report,,2017-2018,Angers
+2017-11-25,20:00,Ligue 1,Matchweek 14,Sat,Away,L,0,3,Troyes,0.4,1.2,61.0,8906,Thomas Mangani,4-1-4-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2017-2018,Angers
+2017-11-29,19:00,Ligue 1,Matchweek 15,Wed,Home,L,1,2,Rennes,0.5,1.0,41.0,10364,Ismaël Traoré,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2017-2018,Angers
+2017-12-02,20:00,Ligue 1,Matchweek 16,Sat,Away,L,0,1,Monaco,0.8,0.3,42.0,6545,Ismaël Traoré,4-1-4-1,4-2-3-1,Antony Gautier,Match Report,,2017-2018,Angers
+2017-12-09,20:00,Ligue 1,Matchweek 17,Sat,Home,D,1,1,Montpellier,1.4,1.2,56.0,8756,Ismaël Traoré,4-1-2-1-2◆,5-3-2,Stéphane Jochem,Match Report,,2017-2018,Angers
+2017-12-12,21:05,Coupe de la Ligue,Round of 16,Tue,Home,W,1,0,Metz,,,,4109,Thomas Mangani,4-4-2◆,4-2-3-1,Olivier Thual,Match Report,,2017-2018,Angers
+2017-12-17,15:00,Ligue 1,Matchweek 18,Sun,Away,L,0,1,Nantes,0.3,1.3,61.0,24285,Ismaël Traoré,4-1-2-1-2◆,4-4-2,Karim Abed,Match Report,,2017-2018,Angers
+2017-12-20,20:50,Ligue 1,Matchweek 19,Wed,Home,W,2,1,Dijon,2.8,1.3,49.0,8017,Ismaël Traoré,4-1-2-1-2◆,4-4-2,Amaury Delerue,Match Report,,2017-2018,Angers
+2018-01-07,14:15,Coupe de France,Round of 64,Sun,Home,L,0,2,Lorient,,,,8733,Romain Thomas,,,Nicolas Rainville,Match Report,,2017-2018,Angers
+2018-01-10,21:05,Coupe de la Ligue,Quarter-finals,Wed,Home,L,0,1,Montpellier,,,,4705,Thomas Mangani,4-4-2◆,5-4-1,Ruddy Buquet,Match Report,,2017-2018,Angers
+2018-01-14,17:00,Ligue 1,Matchweek 20,Sun,Away,D,1,1,Lyon,1.2,1.2,27.0,36691,Ismaël Traoré,4-1-4-1,4-2-3-1,Franck Schneider,Match Report,,2017-2018,Angers
+2018-01-17,19:00,Ligue 1,Matchweek 21,Wed,Home,W,3,1,Troyes,1.5,0.4,47.0,8046,Ismaël Traoré,4-1-4-1,4-1-4-1,Amaury Delerue,Match Report,,2017-2018,Angers
+2018-01-20,20:00,Ligue 1,Matchweek 22,Sat,Away,L,0,1,Rennes,0.4,1.1,30.0,21186,Ismaël Traoré,4-1-4-1,4-2-3-1,Sébastien Moreira,Match Report,,2017-2018,Angers
+2018-01-27,20:00,Ligue 1,Matchweek 23,Sat,Home,W,1,0,Amiens,1.4,0.1,44.0,8914,Ismaël Traoré,4-1-4-1,4-2-3-1,Olivier Thual,Match Report,,2017-2018,Angers
+2018-02-03,20:00,Ligue 1,Matchweek 24,Sat,Away,L,1,2,Montpellier,1.1,0.4,38.0,9549,Ismaël Traoré,4-5-1,3-4-3,Stéphane Jochem,Match Report,,2017-2018,Angers
+2018-02-10,20:00,Ligue 1,Matchweek 25,Sat,Home,L,0,4,Monaco,0.6,1.8,44.0,12759,Ismaël Traoré,4-1-4-1,4-2-3-1,Thomas Léonard,Match Report,,2017-2018,Angers
+2018-02-17,20:00,Ligue 1,Matchweek 26,Sat,Home,L,0,1,Saint-Étienne,2.0,0.6,40.0,11166,Ismaël Traoré,4-1-4-1,4-2-3-1,Antony Gautier,Match Report,,2017-2018,Angers
+2018-02-24,20:00,Ligue 1,Matchweek 27,Sat,Away,W,2,1,Lille,1.6,0.8,33.0,28629,Ismaël Traoré,4-1-4-1,4-2-3-1,François Letexier,Match Report,,2017-2018,Angers
+2018-03-03,20:00,Ligue 1,Matchweek 28,Sat,Home,W,3,0,Guingamp,2.0,1.0,36.0,9842,Ismaël Traoré,4-1-4-1,4-2-3-1,Clément Turpin,Match Report,,2017-2018,Angers
+2018-03-10,20:00,Ligue 1,Matchweek 29,Sat,Away,D,0,0,Bordeaux,0.6,1.0,37.0,17194,Ismaël Traoré,4-1-4-1,4-3-3,Johan Hamel,Match Report,,2017-2018,Angers
+2018-03-14,17:00,Ligue 1,Matchweek 31,Wed,Away,L,1,2,Paris S-G,2.0,1.7,35.0,46757,Thomas Mangani,4-1-4-1,4-3-3,Sébastien Desiage,Match Report,,2017-2018,Angers
+2018-03-17,20:00,Ligue 1,Matchweek 30,Sat,Home,W,3,0,Caen,1.9,0.4,42.0,10342,Ismaël Traoré,4-1-4-1,3-5-2,Olivier Thual,Match Report,,2017-2018,Angers
+2018-04-07,20:00,Ligue 1,Matchweek 32,Sat,Home,D,1,1,Strasbourg,0.9,1.7,43.0,11893,Ismaël Traoré,4-1-4-1,4-2-3-1,Stéphane Jochem,Match Report,,2017-2018,Angers
+2018-04-13,20:45,Ligue 1,Matchweek 33,Fri,Home,D,1,1,Nice,1.4,1.3,37.0,12754,Ismaël Traoré,4-1-4-1,4-3-3,Clément Turpin,Match Report,,2017-2018,Angers
+2018-04-21,20:00,Ligue 1,Matchweek 34,Sat,Away,L,0,2,Toulouse,0.7,2.6,59.0,14414,Ismaël Traoré,4-1-4-1,4-2-3-1,Jérôme Brisard,Match Report,,2017-2018,Angers
+2018-04-29,17:00,Ligue 1,Matchweek 35,Sun,Home,D,1,1,Marseille,1.1,2.0,44.0,15794,Ismaël Traoré,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2017-2018,Angers
+2018-05-06,17:00,Ligue 1,Matchweek 36,Sun,Away,W,2,1,Metz,1.9,1.4,63.0,13295,Ismaël Traoré,4-1-4-1,4-2-3-1,Olivier Thual,Match Report,,2017-2018,Angers
+2018-05-12,21:00,Ligue 1,Matchweek 37,Sat,Home,L,0,2,Nantes,0.7,1.0,50.0,15567,Ismaël Traoré,4-1-4-1,4-3-1-2,Benoît Millot,Match Report,,2017-2018,Angers
+2018-05-19,21:00,Ligue 1,Matchweek 38,Sat,Away,L,1,2,Dijon,2.1,0.7,49.0,14270,Ismaël Traoré,5-4-1,5-3-2,Thomas Léonard,Match Report,,2017-2018,Angers

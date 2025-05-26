@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-13,18:30,Serie A,Matchweek 1,Sat,Home,W,4,2,Udinese,2.3,0.5,59,70197.0,Davide Calabria,4-2-3-1,3-5-2,Livio Marinelli,Match Report,,2022-2023,Milan
+2022-08-21,20:45,Serie A,Matchweek 2,Sun,Away,D,1,1,Atalanta,1.3,0.5,60,19216.0,Davide Calabria,4-2-3-1,3-4-3,Fabio Maresca,Match Report,,2022-2023,Milan
+2022-08-27,20:45,Serie A,Matchweek 3,Sat,Home,W,2,0,Bologna,1.9,0.5,48,70430.0,Davide Calabria,4-2-3-1,3-5-2,Gianluca Manganiello,Match Report,,2022-2023,Milan
+2022-08-30,18:30,Serie A,Matchweek 4,Tue,Away,D,0,0,Sassuolo,0.7,1.1,62,18053.0,Theo Hernández,4-2-3-1,4-3-3,Giovanni Ayroldi,Match Report,,2022-2023,Milan
+2022-09-03,18:00,Serie A,Matchweek 5,Sat,Home,W,3,2,Inter,1.3,1.8,47,75475.0,Davide Calabria,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Milan
+2022-09-06,21:00,Champions Lg,Group stage,Tue,Away,D,1,1,at RB Salzburg,0.9,1.3,65,29520.0,Davide Calabria,4-2-3-1,4-3-1-2,Srđan Jovanović,Match Report,,2022-2023,Milan
+2022-09-10,20:45,Serie A,Matchweek 6,Sat,Away,W,2,1,Sampdoria,1.7,0.7,43,23049.0,Davide Calabria,4-2-3-1,4-1-4-1,Michael Fabbri,Match Report,,2022-2023,Milan
+2022-09-14,18:45,Champions Lg,Group stage,Wed,Home,W,3,1,hr Dinamo Zagreb,2.2,0.4,57,61341.0,Davide Calabria,4-2-3-1,5-3-2,Jesús Gil,Match Report,,2022-2023,Milan
+2022-09-18,20:45,Serie A,Matchweek 7,Sun,Home,L,1,2,Napoli,2.6,1.4,51,72573.0,Davide Calabria,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,,2022-2023,Milan
+2022-10-01,20:45,Serie A,Matchweek 8,Sat,Away,W,3,1,Empoli,2.3,1.1,57,15497.0,Davide Calabria,4-2-3-1,4-3-1-2,Gianluca Aureliano,Match Report,,2022-2023,Milan
+2022-10-05,20:00,Champions Lg,Group stage,Wed,Away,L,0,3,eng Chelsea,0.4,1.1,49,39537.0,Ismaël Bennacer,4-2-3-1,3-4-3,Danny Makkelie,Match Report,,2022-2023,Milan
+2022-10-08,18:00,Serie A,Matchweek 9,Sat,Home,W,2,0,Juventus,2.2,0.8,40,75530.0,Theo Hernández,4-3-2-1,4-4-2,Daniele Orsato,Match Report,,2022-2023,Milan
+2022-10-11,21:00,Champions Lg,Group stage,Tue,Home,L,0,2,eng Chelsea,0.4,2.2,31,75051.0,Theo Hernández,4-2-3-1,3-4-3,Daniel Siebert,Match Report,,2022-2023,Milan
+2022-10-16,20:45,Serie A,Matchweek 10,Sun,Away,W,2,1,Hellas Verona,1.9,2.1,54,22904.0,Theo Hernández,4-2-3-1,3-4-3,Davide Massa,Match Report,,2022-2023,Milan
+2022-10-22,18:00,Serie A,Matchweek 11,Sat,Home,W,4,1,Monza,1.1,1.2,49,72938.0,Theo Hernández,4-2-3-1,3-4-3,Livio Marinelli,Match Report,,2022-2023,Milan
+2022-10-25,21:00,Champions Lg,Group stage,Tue,Away,W,4,0,hr Dinamo Zagreb,3.2,0.7,45,20572.0,Theo Hernández,4-2-3-1,3-1-4-2,Szymon Marciniak,Match Report,,2022-2023,Milan
+2022-10-30,20:45,Serie A,Matchweek 12,Sun,Away,L,1,2,Torino,1.1,0.6,56,26133.0,Theo Hernández,4-2-3-1,3-4-3,Rosario Abisso,Match Report,,2022-2023,Milan
+2022-11-02,21:00,Champions Lg,Group stage,Wed,Home,W,4,0,at RB Salzburg,1.8,1.6,48,74292.0,Theo Hernández,4-2-3-1,4-1-2-1-2,Antonio Matéu,Match Report,,2022-2023,Milan
+2022-11-05,20:45,Serie A,Matchweek 13,Sat,Home,W,2,1,Spezia,2.2,1.6,58,71099.0,Theo Hernández,4-2-3-1,3-5-2,Michael Fabbri,Match Report,,2022-2023,Milan
+2022-11-08,20:45,Serie A,Matchweek 14,Tue,Away,D,0,0,Cremonese,1.0,0.3,71,14610.0,Ismaël Bennacer,3-4-1-2,3-5-2,Antonio Rapuano,Match Report,,2022-2023,Milan
+2022-11-13,18:00,Serie A,Matchweek 15,Sun,Home,W,2,1,Fiorentina,1.5,0.5,50,73007.0,Theo Hernández,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2022-2023,Milan
+2023-01-04,12:30,Serie A,Matchweek 16,Wed,Away,W,2,1,Salernitana,2.7,0.7,56,29541.0,Davide Calabria,4-2-3-1,3-5-2,Francesco Fourneau,Match Report,,2022-2023,Milan
+2023-01-08,20:45,Serie A,Matchweek 17,Sun,Home,D,2,2,Roma,0.9,1.2,60,74103.0,Davide Calabria,4-2-3-1,3-4-3,Davide Massa,Match Report,,2022-2023,Milan
+2023-01-11,21:00,Coppa Italia,Round of 16,Wed,Home,L,0,1,Torino,,,59,58000.0,Sandro Tonali,3-5-1-1,3-4-3,Antonio Rapuano,Match Report,Required Extra Time,2022-2023,Milan
+2023-01-14,18:00,Serie A,Matchweek 18,Sat,Away,D,2,2,Lecce,1.4,1.4,65,25942.0,Davide Calabria,4-2-3-1,4-3-3,Daniele Orsato,Match Report,,2022-2023,Milan
+2023-01-18,22:00,Supercoppa,Supercoppa Italiana,Wed,Home,L,0,3,Inter,,,66,,Davide Calabria,4-2-3-1,3-5-2,Fabio Maresca,Match Report,,2022-2023,Milan
+2023-01-24,20:45,Serie A,Matchweek 19,Tue,Away,L,0,4,Lazio,0.7,3.1,50,47000.0,Davide Calabria,4-2-3-1,4-3-3,Marco Di Bello,Match Report,,2022-2023,Milan
+2023-01-29,12:30,Serie A,Matchweek 20,Sun,Home,L,2,5,Sassuolo,0.6,2.2,60,70428.0,Davide Calabria,4-2-3-1,4-2-3-1,Antonio Giua,Match Report,,2022-2023,Milan
+2023-02-05,20:45,Serie A,Matchweek 21,Sun,Away,L,0,1,Inter,0.3,0.9,36,75584.0,Davide Calabria,3-5-2,3-5-2,Davide Massa,Match Report,,2022-2023,Milan
+2023-02-10,20:45,Serie A,Matchweek 22,Fri,Home,W,1,0,Torino,1.3,0.8,46,68268.0,Theo Hernández,3-4-3,3-4-3,Giovanni Ayroldi,Match Report,,2022-2023,Milan
+2023-02-14,21:00,Champions Lg,Round of 16,Tue,Home,W,1,0,eng Tottenham,1.7,0.4,47,74320.0,Theo Hernández,3-4-3,3-4-3,Sandro Schärer,Match Report,Leg 1 of 2,2022-2023,Milan
+2023-02-18,18:00,Serie A,Matchweek 23,Sat,Away,W,1,0,Monza,2.1,0.5,41,14012.0,Theo Hernández,3-4-3,3-4-3,Antonio Rapuano,Match Report,,2022-2023,Milan
+2023-02-26,20:45,Serie A,Matchweek 24,Sun,Home,W,2,0,Atalanta,1.8,0.1,48,72203.0,Theo Hernández,3-4-3,3-5-2,Maurizio Mariani,Match Report,,2022-2023,Milan
+2023-03-04,20:45,Serie A,Matchweek 25,Sat,Away,L,1,2,Fiorentina,0.9,2.1,52,40410.0,Theo Hernández,3-4-3,4-3-3,Marco Di Bello,Match Report,,2022-2023,Milan
+2023-03-08,20:00,Champions Lg,Round of 16,Wed,Away,D,0,0,eng Tottenham,1.4,0.5,46,61602.0,Theo Hernández,3-4-3,3-4-3,Clément Turpin,Match Report,Leg 2 of 2; Milan won,2022-2023,Milan
+2023-03-13,20:45,Serie A,Matchweek 26,Mon,Home,D,1,1,Salernitana,2.2,0.8,64,71870.0,Theo Hernández,3-4-3,3-4-3,Federico La Penna,Match Report,,2022-2023,Milan
+2023-03-18,20:45,Serie A,Matchweek 27,Sat,Away,L,1,3,Udinese,1.5,1.8,64,24992.0,Zlatan Ibrahimović,3-4-3,3-5-2,Daniele Doveri,Match Report,,2022-2023,Milan
+2023-04-02,20:45,Serie A,Matchweek 28,Sun,Away,W,4,0,Napoli,2.1,1.2,40,51466.0,Davide Calabria,4-2-3-1,4-3-3,Antonio Rapuano,Match Report,,2022-2023,Milan
+2023-04-07,21:00,Serie A,Matchweek 29,Fri,Home,D,0,0,Empoli,1.9,0.1,70,70286.0,Davide Calabria,4-2-3-1,4-3-1-2,Matteo Marcenaro,Match Report,,2022-2023,Milan
+2023-04-12,21:00,Champions Lg,Quarter-finals,Wed,Home,W,1,0,it Napoli,1.1,1.3,47,74742.0,Davide Calabria,4-2-3-1,4-3-3,István Kovács,Match Report,Leg 1 of 2,2022-2023,Milan
+2023-04-15,15:00,Serie A,Matchweek 30,Sat,Away,D,1,1,Bologna,1.4,0.6,49,29024.0,Ante Rebić,4-2-3-1,4-3-3,Davide Massa,Match Report,,2022-2023,Milan
+2023-04-18,21:00,Champions Lg,Quarter-finals,Tue,Away,D,1,1,it Napoli,2.0,2.2,27,52728.0,Davide Calabria,4-2-3-1,4-3-3,Szymon Marciniak,Match Report,Leg 2 of 2; Milan won,2022-2023,Milan
+2023-04-23,18:00,Serie A,Matchweek 31,Sun,Home,W,2,0,Lecce,0.8,1.2,68,72614.0,Theo Hernández,4-2-3-1,4-3-3,Daniele Chiffi,Match Report,,2022-2023,Milan
+2023-04-29,18:00,Serie A,Matchweek 32,Sat,Away,D,1,1,Roma,1.0,1.0,63,64191.0,Davide Calabria,4-2-3-1,3-4-1-2,Daniele Orsato,Match Report,,2022-2023,Milan
+2023-05-03,21:00,Serie A,Matchweek 33,Wed,Home,D,1,1,Cremonese,1.6,1.2,73,68136.0,Davide Calabria,4-2-3-1,4-2-3-1,Luca Pairetto,Match Report,,2022-2023,Milan
+2023-05-06,15:00,Serie A,Matchweek 34,Sat,Home,W,2,0,Lazio,0.8,1.2,52,72365.0,Davide Calabria,4-2-3-1,4-3-3,Antonio Rapuano,Match Report,,2022-2023,Milan
+2023-05-10,21:00,Champions Lg,Semi-finals,Wed,Home,L,0,2,it Inter,0.9,2.0,58,75532.0,Davide Calabria,4-2-3-1,3-5-2,Jesús Gil,Match Report,Leg 1 of 2,2022-2023,Milan
+2023-05-13,18:00,Serie A,Matchweek 35,Sat,Away,L,0,2,Spezia,1.0,1.8,59,11366.0,Theo Hernández,4-2-3-1,3-5-2,Daniele Doveri,Match Report,,2022-2023,Milan
+2023-05-16,21:00,Champions Lg,Semi-finals,Tue,Away,L,0,1,it Inter,0.5,1.0,56,75567.0,Davide Calabria,4-2-3-1,3-5-2,Clément Turpin,Match Report,Leg 2 of 2; Inter won,2022-2023,Milan
+2023-05-20,20:45,Serie A,Matchweek 36,Sat,Home,W,5,1,Sampdoria,3.8,0.6,62,72105.0,Davide Calabria,4-2-3-1,4-1-4-1,Francesco Fourneau,Match Report,,2022-2023,Milan
+2023-05-28,20:45,Serie A,Matchweek 37,Sun,Away,W,1,0,Juventus,0.5,0.9,52,40231.0,Davide Calabria,4-2-3-1,3-4-1-2,Maurizio Mariani,Match Report,,2022-2023,Milan
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Home,W,3,1,Hellas Verona,2.4,0.8,77,72102.0,Davide Calabria,4-2-3-1,3-5-2,Paolo Valeri,Match Report,,2022-2023,Milan

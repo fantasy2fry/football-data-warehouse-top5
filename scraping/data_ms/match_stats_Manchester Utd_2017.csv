@@ -1,0 +1,57 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-08,20:45,Super Cup,UEFA Super Cup,Tue,Neutral,L,1,2,es Real Madrid,,,37,30421,Antonio Valencia,3-5-2,4-4-2,Gianluca Rocchi,Match Report,,2017-2018,Manchester Utd
+2017-08-13,16:00,Premier League,Matchweek 1,Sun,Home,W,4,0,West Ham,2.1,0.5,55,74928,Antonio Valencia,4-2-3-1,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Manchester Utd
+2017-08-19,12:30,Premier League,Matchweek 2,Sat,Away,W,4,0,Swansea City,3.0,0.4,58,20862,Antonio Valencia,4-2-3-1,3-1-4-2,Jonathan Moss,Match Report,,2017-2018,Manchester Utd
+2017-08-26,17:30,Premier League,Matchweek 3,Sat,Home,W,2,0,Leicester City,2.8,0.9,69,75021,Antonio Valencia,4-2-3-1,4-4-1-1,Michael Oliver,Match Report,,2017-2018,Manchester Utd
+2017-09-09,17:30,Premier League,Matchweek 4,Sat,Away,D,2,2,Stoke City,2.1,1.2,63,29320,Antonio Valencia,4-3-3,3-4-3,Niel Swarbrick,Match Report,,2017-2018,Manchester Utd
+2017-09-12,19:45,Champions Lg,Group stage,Tue,Home,W,3,0,ch Basel,3.4,0.6,60,73854,Paul Pogba,4-2-3-1,3-4-3,Ruddy Buquet,Match Report,,2017-2018,Manchester Utd
+2017-09-17,16:00,Premier League,Matchweek 5,Sun,Home,W,4,0,Everton,2.9,1.1,49,75042,Antonio Valencia,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2017-2018,Manchester Utd
+2017-09-20,20:00,EFL Cup,Third round,Wed,Home,W,4,1,Burton Albion,,,69,54256,Michael Carrick,4-2-3-1,5-3-2,Graham Scott,Match Report,,2017-2018,Manchester Utd
+2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,W,1,0,Southampton,1.2,1.0,40,31930,Antonio Valencia,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2017-09-28,00:45,Champions Lg,Group stage,Thu,Away,W,4,1,ru CSKA Moscow,4.3,0.6,62,29073,Ashley Young,3-4-3,3-1-4-2,Jonas Eriksson,Match Report,,2017-2018,Manchester Utd
+2017-09-30,15:00,Premier League,Matchweek 7,Sat,Home,W,4,0,Crystal Palace,2.8,0.4,59,75118,David de Gea,4-2-3-1,4-3-3,Mike Dean,Match Report,,2017-2018,Manchester Utd
+2017-10-14,12:30,Premier League,Matchweek 8,Sat,Away,D,0,0,Liverpool,0.2,1.5,38,52912,Antonio Valencia,4-2-3-1,4-3-3,Martin Atkinson,Match Report,,2017-2018,Manchester Utd
+2017-10-18,19:45,Champions Lg,Group stage,Wed,Away,W,1,0,pt Benfica,0.6,0.5,64,57684,Antonio Valencia,4-2-3-1,4-1-4-1,Felix Zwayer,Match Report,,2017-2018,Manchester Utd
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Away,L,1,2,Huddersfield,0.8,1.2,77,24426,Antonio Valencia,4-2-3-1,4-2-3-1,Lee Mason,Match Report,,2017-2018,Manchester Utd
+2017-10-24,19:45,EFL Cup,Fourth round,Tue,Away,W,2,0,Swansea City,,,57,20083,Chris Smalling,3-4-1-2,4-2-3-1,Robert Madley,Match Report,,2017-2018,Manchester Utd
+2017-10-28,12:30,Premier League,Matchweek 10,Sat,Home,W,1,0,Tottenham,0.8,1.2,45,75034,Antonio Valencia,3-4-1-2,3-5-1-1,Jonathan Moss,Match Report,,2017-2018,Manchester Utd
+2017-10-31,19:45,Champions Lg,Group stage,Tue,Home,W,2,0,pt Benfica,2.7,0.9,51,74437,Chris Smalling,4-2-3-1,4-3-3,Gediminas Mažeika,Match Report,,2017-2018,Manchester Utd
+2017-11-05,16:30,Premier League,Matchweek 11,Sun,Away,L,0,1,Chelsea,0.7,1.6,46,41615,Antonio Valencia,3-4-1-2,3-1-4-2,Anthony Taylor,Match Report,,2017-2018,Manchester Utd
+2017-11-18,17:30,Premier League,Matchweek 12,Sat,Home,W,4,1,Newcastle Utd,3.1,1.1,65,75035,Antonio Valencia,4-2-3-1,4-4-2,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2017-11-22,20:45,Champions Lg,Group stage,Wed,Away,L,0,1,ch Basel,1.5,1.1,68,36000,Paul Pogba,4-3-3,3-4-3,Daniele Orsato,Match Report,,2017-2018,Manchester Utd
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Home,W,1,0,Brighton,1.2,0.5,58,75018,Antonio Valencia,4-2-3-1,4-5-1,Niel Swarbrick,Match Report,,2017-2018,Manchester Utd
+2017-11-28,20:00,Premier League,Matchweek 14,Tue,Away,W,4,2,Watford,1.2,1.4,41,20552,Antonio Valencia,3-4-3,3-5-2,Jonathan Moss,Match Report,,2017-2018,Manchester Utd
+2017-12-02,17:30,Premier League,Matchweek 15,Sat,Away,W,3,1,Arsenal,1.8,4.7,25,59547,Antonio Valencia,3-4-1-2,3-4-3,Andre Marriner,Match Report,,2017-2018,Manchester Utd
+2017-12-05,19:45,Champions Lg,Group stage,Tue,Home,W,2,1,ru CSKA Moscow,2.9,0.8,56,74669,Antonio Valencia,3-4-1-2,3-4-3,Gianluca Rocchi,Match Report,,2017-2018,Manchester Utd
+2017-12-10,16:30,Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester City,1.4,1.7,36,74847,Antonio Valencia,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2017-2018,Manchester Utd
+2017-12-13,20:00,Premier League,Matchweek 17,Wed,Home,W,1,0,Bournemouth,1.1,0.8,57,74798,Antonio Valencia,4-2-3-1,4-4-1-1,Graham Scott,Match Report,,2017-2018,Manchester Utd
+2017-12-17,14:15,Premier League,Matchweek 18,Sun,Away,W,2,1,West Brom,0.7,1.1,56,24782,Antonio Valencia,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2017-2018,Manchester Utd
+2017-12-20,20:00,EFL Cup,Quarter-finals,Wed,Away,L,1,2,Bristol City,,,55,26088,Zlatan Ibrahimović,4-3-3,4-4-1-1,Mike Dean,Match Report,,2017-2018,Manchester Utd
+2017-12-23,19:45,Premier League,Matchweek 19,Sat,Away,D,2,2,Leicester City,1.9,1.4,51,32202,Paul Pogba,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Manchester Utd
+2017-12-26,15:00,Premier League,Matchweek 20,Tue,Home,D,2,2,Burnley,2.0,0.5,71,75046,Paul Pogba,4-2-3-1,4-1-4-1,Martin Atkinson,Match Report,,2017-2018,Manchester Utd
+2017-12-30,17:30,Premier League,Matchweek 21,Sat,Home,D,0,0,Southampton,1.7,0.6,54,75051,Paul Pogba,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2018-01-01,17:30,Premier League,Matchweek 22,Mon,Away,W,2,0,Everton,1.4,1.2,60,39188,Paul Pogba,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Manchester Utd
+2018-01-05,20:00,FA Cup,Third round,Fri,Home,W,2,0,Derby County,,,66,73899,Paul Pogba,4-1-4-1,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Manchester Utd
+2018-01-15,20:00,Premier League,Matchweek 23,Mon,Home,W,3,0,Stoke City,1.5,1.3,60,74726,Antonio Valencia,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,2017-2018,Manchester Utd
+2018-01-20,15:00,Premier League,Matchweek 24,Sat,Away,W,1,0,Burnley,0.8,1.0,52,21841,Antonio Valencia,4-3-3,4-4-1-1,Mike Dean,Match Report,,2017-2018,Manchester Utd
+2018-01-26,19:55,FA Cup,Fourth round,Fri,Away,W,4,0,Yeovil Town,,,74,9195,Michael Carrick,4-3-3,4-4-2,Paul Tierney,Match Report,,2017-2018,Manchester Utd
+2018-01-31,20:00,Premier League,Matchweek 25,Wed,Away,L,0,2,Tottenham,1.0,1.5,48,81978,Antonio Valencia,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Manchester Utd
+2018-02-03,15:00,Premier League,Matchweek 26,Sat,Home,W,2,0,Huddersfield,1.6,0.2,74,74742,Antonio Valencia,4-2-3-1,4-1-4-1,Stuart Attwell,Match Report,,2017-2018,Manchester Utd
+2018-02-11,14:15,Premier League,Matchweek 27,Sun,Away,L,0,1,Newcastle Utd,1.9,0.5,64,52309,Antonio Valencia,4-2-3-1,4-4-1-1,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2018-02-17,17:30,FA Cup,Fifth round,Sat,Away,W,2,0,Huddersfield,,,46,17861,Michael Carrick,4-3-3,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Manchester Utd
+2018-02-21,20:45,Champions Lg,Round of 16,Wed,Away,D,0,0,es Sevilla,0.7,2.0,43,39725,Antonio Valencia,4-3-3,4-2-3-1,Clément Turpin,Match Report,Leg 1 of 2,2017-2018,Manchester Utd
+2018-02-25,14:05,Premier League,Matchweek 28,Sun,Home,W,2,1,Chelsea,1.2,1.7,44,75060,Antonio Valencia,4-1-2-1-2◆,3-4-3,Martin Atkinson,Match Report,,2017-2018,Manchester Utd
+2018-03-05,20:00,Premier League,Matchweek 29,Mon,Away,W,3,2,Crystal Palace,1.2,0.6,69,25840,Antonio Valencia,4-3-3,4-4-2,Niel Swarbrick,Match Report,,2017-2018,Manchester Utd
+2018-03-10,12:30,Premier League,Matchweek 30,Sat,Home,W,2,1,Liverpool,0.7,0.7,33,74855,Antonio Valencia,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2018-03-13,19:45,Champions Lg,Round of 16,Tue,Home,L,1,2,es Sevilla,1.9,1.7,51,74909,Antonio Valencia,4-1-4-1,4-2-3-1,Danny Makkelie,Match Report,Leg 2 of 2; Sevilla won,2017-2018,Manchester Utd
+2018-03-17,19:45,FA Cup,Quarter-finals,Sat,Home,W,2,0,Brighton,,,61,74241,Antonio Valencia,4-2-3-1,4-3-3,Andre Marriner,Match Report,,2017-2018,Manchester Utd
+2018-03-31,15:00,Premier League,Matchweek 32,Sat,Home,W,2,0,Swansea City,2.2,0.2,66,75038,Antonio Valencia,4-2-3-1,5-4-1,Robert Madley,Match Report,,2017-2018,Manchester Utd
+2018-04-07,17:30,Premier League,Matchweek 33,Sat,Away,W,3,2,Manchester City,1.1,2.6,36,54259,Antonio Valencia,4-3-3,4-3-3,Martin Atkinson,Match Report,,2017-2018,Manchester Utd
+2018-04-15,16:00,Premier League,Matchweek 34,Sun,Home,L,0,1,West Brom,0.7,0.7,70,75095,Antonio Valencia,4-3-3,4-4-1-1,Paul Tierney,Match Report,,2017-2018,Manchester Utd
+2018-04-18,19:45,Premier League,Matchweek 35,Wed,Away,W,2,0,Bournemouth,1.3,1.2,55,10952,David de Gea,4-3-3,4-4-1-1,Graham Scott,Match Report,,2017-2018,Manchester Utd
+2018-04-21,17:15,FA Cup,Semi-finals,Sat,Home,W,2,1,Tottenham,,,36,84667,Antonio Valencia,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2017-2018,Manchester Utd
+2018-04-29,16:30,Premier League,Matchweek 36,Sun,Home,W,2,1,Arsenal,1.7,0.5,59,75035,Antonio Valencia,4-3-3,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Manchester Utd
+2018-05-04,20:00,Premier League,Matchweek 37,Fri,Away,L,0,1,Brighton,0.8,1.0,68,30611,Ashley Young,4-3-3,4-3-3,Craig Pawson,Match Report,,2017-2018,Manchester Utd
+2018-05-10,19:45,Premier League,Matchweek 31,Thu,Away,D,0,0,West Ham,0.8,0.6,56,56902,Antonio Valencia,5-3-2,3-4-3,Jonathan Moss,Match Report,,2017-2018,Manchester Utd
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,W,1,0,Watford,0.4,0.6,52,75049,Michael Carrick,4-3-3,4-1-4-1,Lee Mason,Match Report,,2017-2018,Manchester Utd
+2018-05-19,17:15,FA Cup,Final,Sat,Away,L,0,1,Chelsea,,,67,87647,Antonio Valencia,4-4-2◆,3-5-1-1,Michael Oliver,Match Report,,2017-2018,Manchester Utd

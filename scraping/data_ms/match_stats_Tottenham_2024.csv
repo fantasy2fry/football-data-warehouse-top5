@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,20:00,Premier League,Matchweek 1,Mon,Away,D,1,1,Leicester City,1.2,1.0,70,31977.0,Son Heung-min,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,2024-2025,Tottenham
+2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,W,4,0,Everton,2.4,1.0,70,61357.0,Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2024-2025,Tottenham
+2024-09-01,13:30,Premier League,Matchweek 3,Sun,Away,L,1,2,Newcastle Utd,1.2,1.8,65,52211.0,Son Heung-min,4-2-3-1,4-3-3,Robert Jones,Match Report,,2024-2025,Tottenham
+2024-09-15,14:00,Premier League,Matchweek 4,Sun,Home,L,0,1,Arsenal,0.7,0.7,63,61645.0,Son Heung-min,4-3-3,4-4-2,Jarred Gillett,Match Report,,2024-2025,Tottenham
+2024-09-18,20:00,EFL Cup,Third round,Wed,Away,W,2,1,Coventry City,,,70,24616.0,Ben Davies,4-3-3,4-2-3-1,Darren England,Match Report,,2024-2025,Tottenham
+2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,1,Brentford,3.5,0.8,48,61246.0,Son Heung-min,4-3-3,5-3-2,John Brooks,Match Report,,2024-2025,Tottenham
+2024-09-26,20:00,Europa Lg,League phase,Thu,Home,W,3,0,az Qarabağ,1.4,2.2,49,51757.0,Son Heung-min,4-3-3,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Tottenham
+2024-09-29,16:30,Premier League,Matchweek 6,Sun,Away,W,3,0,Manchester Utd,4.4,1.0,61,73587.0,Cristian Romero,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,2024-2025,Tottenham
+2024-10-03,18:45,Europa Lg,League phase,Thu,Away,W,2,1,hu Ferencváros,1.3,1.3,58,20795.0,Cristian Romero,4-3-3,4-2-3-1,Igor Pajač,Match Report,,2024-2025,Tottenham
+2024-10-06,16:30,Premier League,Matchweek 7,Sun,Away,L,2,3,Brighton,1.3,1.8,59,31487.0,Cristian Romero,4-3-3,4-2-3-1,David Coote,Match Report,,2024-2025,Tottenham
+2024-10-19,12:30,Premier League,Matchweek 8,Sat,Home,W,4,1,West Ham,1.9,0.8,57,61381.0,Son Heung-min,4-3-3,4-1-4-1,Andy Madley,Match Report,,2024-2025,Tottenham
+2024-10-24,20:00,Europa Lg,League phase,Thu,Home,W,1,0,nl AZ Alkmaar,1.9,0.4,59,53438.0,James Maddison,4-3-3,4-3-3,Manfredas Lukjančukas,Match Report,,2024-2025,Tottenham
+2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,L,0,1,Crystal Palace,0.7,0.8,66,25108.0,Cristian Romero,4-3-3,3-4-3,Darren Bond,Match Report,,2024-2025,Tottenham
+2024-10-30,20:15,EFL Cup,Fourth round,Wed,Home,W,2,1,Manchester City,,,32,60797.0,Cristian Romero,4-3-3,4-1-4-1,Robert Jones,Match Report,,2024-2025,Tottenham
+2024-11-03,14:00,Premier League,Matchweek 10,Sun,Home,W,4,1,Aston Villa,2.4,1.8,51,61253.0,Son Heung-min,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2024-2025,Tottenham
+2024-11-07,20:45,Europa Lg,League phase,Thu,Away,L,2,3,tr Galatasaray,1.9,2.9,46,51739.0,Son Heung-min,4-3-3,3-4-1-2,Lawrence Visser,Match Report,,2024-2025,Tottenham
+2024-11-10,14:00,Premier League,Matchweek 11,Sun,Home,L,1,2,Ipswich Town,1.5,1.6,66,61505.0,Son Heung-min,4-3-3,4-2-3-1,Darren England,Match Report,,2024-2025,Tottenham
+2024-11-23,17:30,Premier League,Matchweek 12,Sat,Away,W,4,0,Manchester City,2.5,2.1,42,52478.0,Son Heung-min,4-3-3,4-3-3,John Brooks,Match Report,,2024-2025,Tottenham
+2024-11-28,20:00,Europa Lg,League phase,Thu,Home,D,2,2,it Roma,3.2,2.1,49,53378.0,Son Heung-min,4-3-3,3-4-3,Glenn Nyberg,Match Report,,2024-2025,Tottenham
+2024-12-01,13:30,Premier League,Matchweek 13,Sun,Home,D,1,1,Fulham,0.8,1.5,51,61141.0,Son Heung-min,4-3-3,4-2-3-1,Darren Bond,Match Report,,2024-2025,Tottenham
+2024-12-05,20:15,Premier League,Matchweek 14,Thu,Away,L,0,1,Bournemouth,0.9,3.5,65,11234.0,James Maddison,4-3-3,4-2-3-1,Simon Hooper,Match Report,,2024-2025,Tottenham
+2024-12-08,16:30,Premier League,Matchweek 15,Sun,Home,L,3,4,Chelsea,2.8,2.8,39,61184.0,Son Heung-min,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2024-2025,Tottenham
+2024-12-12,20:00,Europa Lg,League phase,Thu,Away,D,1,1,sct Rangers,1.0,1.3,58,48064.0,Son Heung-min,4-2-3-1,4-2-3-1,Sandro Schärer,Match Report,,2024-2025,Tottenham
+2024-12-15,19:00,Premier League,Matchweek 16,Sun,Away,W,5,0,Southampton,2.3,0.8,58,31090.0,Son Heung-min,4-2-3-1,4-3-1-2,Darren England,Match Report,,2024-2025,Tottenham
+2024-12-19,20:00,EFL Cup,Quarter-finals,Thu,Home,W,4,3,Manchester Utd,,,46,57409.0,Son Heung-min,4-2-3-1,3-4-3,John Brooks,Match Report,,2024-2025,Tottenham
+2024-12-22,16:30,Premier League,Matchweek 17,Sun,Home,L,3,6,Liverpool,1.3,5.6,52,61439.0,Son Heung-min,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,2024-2025,Tottenham
+2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,L,0,1,Nott'ham Forest,0.9,1.1,70,30200.0,Son Heung-min,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2024-2025,Tottenham
+2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,D,2,2,Wolves,2.2,0.7,48,61284.0,Son Heung-min,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,,2024-2025,Tottenham
+2025-01-04,12:30,Premier League,Matchweek 20,Sat,Home,L,1,2,Newcastle Utd,0.9,2.5,56,61293.0,Dejan Kulusevski,4-2-3-1,4-3-3,Andy Madley,Match Report,,2024-2025,Tottenham
+2025-01-08,20:00,EFL Cup,Semi-finals,Wed,Home,W,1,0,Liverpool,,,40,,Son Heung-min,4-3-3,4-2-3-1,Stuart Attwell,Match Report,Leg 1 of 2,2024-2025,Tottenham
+2025-01-12,12:30,FA Cup,Third round proper,Sun,Away,W,3,0,Tamworth,,,77,3720.0,James Maddison,4-3-3,4-2-3-1,Peter Bankes,Match Report,Required Extra Time,2024-2025,Tottenham
+2025-01-15,20:00,Premier League,Matchweek 21,Wed,Away,L,1,2,Arsenal,0.8,1.4,47,60287.0,Son Heung-min,4-3-3,4-3-3,Simon Hooper,Match Report,,2024-2025,Tottenham
+2025-01-19,14:00,Premier League,Matchweek 22,Sun,Away,L,2,3,Everton,1.1,1.8,64,39326.0,Son Heung-min,3-4-3,4-2-3-1,Darren England,Match Report,,2024-2025,Tottenham
+2025-01-23,18:45,Europa Lg,League phase,Thu,Away,W,3,2,de Hoffenheim,1.8,2.5,44,30150.0,Son Heung-min,4-3-3,4-2-2-2,Morten Krogh,Match Report,,2024-2025,Tottenham
+2025-01-26,14:00,Premier League,Matchweek 23,Sun,Home,L,1,2,Leicester City,1.0,1.6,61,61295.0,Son Heung-min,4-3-3,4-2-3-1,Robert Jones,Match Report,,2024-2025,Tottenham
+2025-01-30,20:00,Europa Lg,League phase,Thu,Home,W,3,0,se Elfsborg,1.5,0.4,80,57337.0,Son Heung-min,4-3-3,3-4-3,Sebastian Gishamer,Match Report,,2024-2025,Tottenham
+2025-02-02,14:00,Premier League,Matchweek 24,Sun,Away,W,2,0,Brentford,0.8,2.1,46,17154.0,Son Heung-min,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,,2024-2025,Tottenham
+2025-02-06,20:00,EFL Cup,Semi-finals,Thu,Away,L,0,4,Liverpool,,,36,60395.0,Son Heung-min,4-3-3,4-2-3-1,Craig Pawson,Match Report,Leg 2 of 2; Liverpool won,2024-2025,Tottenham
+2025-02-09,17:35,FA Cup,Fourth round proper,Sun,Away,L,1,2,Aston Villa,,,49,40773.0,Son Heung-min,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,2024-2025,Tottenham
+2025-02-16,16:30,Premier League,Matchweek 25,Sun,Home,W,1,0,Manchester Utd,2.2,1.5,55,61383.0,Son Heung-min,4-3-3,3-4-3,Peter Bankes,Match Report,,2024-2025,Tottenham
+2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,W,4,1,Ipswich Town,1.7,1.1,58,30003.0,Son Heung-min,4-3-3,4-2-3-1,Tim Robinson,Match Report,,2024-2025,Tottenham
+2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,L,0,1,Manchester City,1.3,2.1,55,60820.0,James Maddison,4-3-3,4-2-3-1,Jarred Gillett,Match Report,,2024-2025,Tottenham
+2025-03-06,18:45,Europa Lg,Round of 16,Thu,Away,L,0,1,nl AZ Alkmaar,0.5,1.6,61,18281.0,Son Heung-min,4-3-3,4-2-3-1,Rade Obrenović,Match Report,Leg 1 of 2,2024-2025,Tottenham
+2025-03-09,14:00,Premier League,Matchweek 28,Sun,Home,D,2,2,Bournemouth,1.5,2.2,61,61178.0,Cristian Romero,4-3-3,4-2-3-1,John Brooks,Match Report,,2024-2025,Tottenham
+2025-03-13,20:00,Europa Lg,Round of 16,Thu,Home,W,3,1,nl AZ Alkmaar,2.1,1.2,59,58302.0,Son Heung-min,4-3-3,4-2-3-1,João Pinheiro,Match Report,Leg 2 of 2; Tottenham won,2024-2025,Tottenham
+2025-03-16,13:30,Premier League,Matchweek 29,Sun,Away,L,0,2,Fulham,0.9,1.0,43,27182.0,Cristian Romero,4-3-3,4-2-3-1,Andy Madley,Match Report,,2024-2025,Tottenham
+2025-04-03,20:00,Premier League,Matchweek 30,Thu,Away,L,0,1,Chelsea,0.9,1.0,49,39852.0,Son Heung-min,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2024-2025,Tottenham
+2025-04-06,14:00,Premier League,Matchweek 31,Sun,Home,W,3,1,Southampton,2.1,1.0,51,60984.0,Son Heung-min,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,2024-2025,Tottenham
+2025-04-10,20:00,Europa Lg,Quarter-finals,Thu,Home,D,1,1,de Eint Frankfurt,0.9,0.3,56,57849.0,Son Heung-min,4-3-3,4-2-3-1,Szymon Marciniak,Match Report,Leg 1 of 2,2024-2025,Tottenham
+2025-04-13,14:00,Premier League,Matchweek 32,Sun,Away,L,2,4,Wolves,2.0,2.4,63,31463.0,Cristian Romero,4-3-3,3-4-3,Anthony Taylor,Match Report,,2024-2025,Tottenham
+2025-04-17,21:00,Europa Lg,Quarter-finals,Thu,Away,W,1,0,de Eint Frankfurt,1.5,0.9,39,57500.0,Cristian Romero,4-3-3,4-2-3-1,Davide Massa,Match Report,Leg 2 of 2; Tottenham won,2024-2025,Tottenham
+2025-04-21,20:00,Premier League,Matchweek 33,Mon,Home,L,1,2,Nott'ham Forest,2.1,0.5,69,59314.0,Cristian Romero,4-3-3,4-2-2-2,Peter Bankes,Match Report,,2024-2025,Tottenham
+2025-04-27,16:30,Premier League,Matchweek 34,Sun,Away,L,1,5,Liverpool,0.5,2.2,39,60415.0,James Maddison,4-3-3,4-2-3-1,Thomas Bramall,Match Report,,2024-2025,Tottenham
+2025-05-01,20:00,Europa Lg,Semi-finals,Thu,Home,W,3,1,no Bodø/Glimt,3.0,0.3,42,61327.0,Cristian Romero,4-3-3,4-3-3,Jose Maria Sánchez,Match Report,Leg 1 of 2,2024-2025,Tottenham
+2025-05-04,14:00,Premier League,Matchweek 35,Sun,Away,D,1,1,West Ham,0.8,0.8,45,62468.0,Guglielmo Vicario,4-3-3,3-4-3,Michael Oliver,Match Report,,2024-2025,Tottenham
+2025-05-08,21:00,Europa Lg,Semi-finals,Thu,Away,W,2,0,no Bodø/Glimt,0.7,0.5,33,8030.0,Cristian Romero,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,Leg 2 of 2; Tottenham won,2024-2025,Tottenham
+2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,L,0,2,Crystal Palace,0.7,3.4,47,60254.0,Rodrigo Bentancur,4-3-3,3-4-3,Chris Kavanagh,Match Report,,2024-2025,Tottenham
+2025-05-16,19:30,Premier League,Matchweek 37,Fri,Away,L,0,2,Aston Villa,0.5,1.4,33,42239.0,Son Heung-min,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,2024-2025,Tottenham
+2025-05-21,21:00,Europa Lg,Final,Wed,Neutral,W,1,0,eng Manchester Utd,1.0,1.0,28,49924.0,Cristian Romero,4-2-3-1,3-4-3,Felix Zwayer,Match Report,,2024-2025,Tottenham
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,L,1,4,Brighton,2.0,2.2,34,61449.0,Guglielmo Vicario,4-3-3,4-4-2,Robert Jones,Match Report,,2024-2025,Tottenham

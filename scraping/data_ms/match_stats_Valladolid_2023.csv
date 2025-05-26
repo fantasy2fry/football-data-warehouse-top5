@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-11,21:30,La Liga 2,Matchweek 1,Fri,Home,W,2,0,Sporting Gijón,47,16912,Jordi Masip,4-2-3-1,4-2-3-1,Jon González,Match Report,,2023-2024,Valladolid
+2023-08-18,21:30,La Liga 2,Matchweek 2,Fri,Away,L,0,1,Zaragoza,58,21023,Jordi Masip,4-2-3-1,4-4-2,Rubén Ávalos,Match Report,,2023-2024,Valladolid
+2023-08-26,21:30,La Liga 2,Matchweek 3,Sat,Home,L,0,2,Alcorcón,72,16301,Sergio Escudero,4-3-3,4-4-2,Andrés Fuentes,Match Report,,2023-2024,Valladolid
+2023-09-01,21:30,La Liga 2,Matchweek 4,Fri,Away,L,0,2,Albacete,56,11453,Sergio Escudero,4-4-2,4-4-2,José Guzmán,Match Report,,2023-2024,Valladolid
+2023-09-10,21:00,La Liga 2,Matchweek 5,Sun,Home,D,1,1,Elche,52,16768,Sergio Escudero,3-5-2,4-4-2,Alejandro Quintero,Match Report,,2023-2024,Valladolid
+2023-09-16,18:30,La Liga 2,Matchweek 6,Sat,Home,W,1,0,Cartagena,58,16138,Sergio Escudero,3-5-2,5-3-2,Raúl González,Match Report,,2023-2024,Valladolid
+2023-09-24,16:15,La Liga 2,Matchweek 7,Sun,Away,W,1,0,Oviedo,51,16955,Sergio Escudero,4-1-3-2,4-2-3-1,Jon González,Match Report,,2023-2024,Valladolid
+2023-10-01,18:30,La Liga 2,Matchweek 8,Sun,Home,W,3,0,Burgos,50,20493,Sergio Escudero,4-1-3-2,4-2-3-1,José López,Match Report,,2023-2024,Valladolid
+2023-10-04,19:00,La Liga 2,Matchweek 9,Wed,Away,W,1,0,Eldense,46,3584,Iván Sánchez,4-1-4-1,5-4-1,Miguel Sesma,Match Report,,2023-2024,Valladolid
+2023-10-08,16:15,La Liga 2,Matchweek 10,Sun,Home,W,3,2,CD Mirandés,71,18473,Sergio Escudero,4-4-2,5-3-2,Salvador Lax,Match Report,,2023-2024,Valladolid
+2023-10-14,21:00,La Liga 2,Matchweek 11,Sat,Away,L,0,2,Espanyol,67,21439,Sergio Escudero,4-1-4-1,4-4-1-1,Iván Caparrós,Match Report,,2023-2024,Valladolid
+2023-10-22,21:00,La Liga 2,Matchweek 12,Sun,Home,W,2,0,FC Andorra,26,14753,Sergio Escudero,4-3-3,4-3-3,Manuel Orellana,Match Report,,2023-2024,Valladolid
+2023-10-27,21:00,La Liga 2,Matchweek 13,Fri,Away,L,1,5,Eibar,55,5690,Iván Sánchez,3-4-3,4-2-3-1,Dámaso Arcediano,Match Report,,2023-2024,Valladolid
+2023-11-01,12:00,Copa del Rey,First round,Wed,Away,W,5,1,Peña Deportiva,75,550,Jordi Masip,4-1-4-1,3-4-3,Rubén Ávalos,Match Report,,2023-2024,Valladolid
+2023-11-04,18:30,La Liga 2,Matchweek 14,Sat,Home,W,2,0,Tenerife,51,16409,Jordi Masip,4-1-4-1,4-4-2,Jon González,Match Report,,2023-2024,Valladolid
+2023-11-11,16:15,La Liga 2,Matchweek 15,Sat,Away,W,3,2,Racing Sant,66,16095,Jordi Masip,4-1-4-1,4-2-3-1,Daniel Trujillo,Match Report,,2023-2024,Valladolid
+2023-11-17,21:00,La Liga 2,Matchweek 16,Fri,Home,D,1,1,Leganés,66,19914,Jordi Masip,4-4-2,5-4-1,José López,Match Report,,2023-2024,Valladolid
+2023-11-24,21:00,La Liga 2,Matchweek 17,Fri,Away,W,1,0,Huesca,56,5214,Jordi Masip,4-1-4-1,5-4-1,Saúl Ais,Match Report,,2023-2024,Valladolid
+2023-12-02,21:00,La Liga 2,Matchweek 18,Sat,Away,L,1,2,Levante,60,12978,Jordi Masip,4-4-2,4-1-3-2,José Guzmán,Match Report,,2023-2024,Valladolid
+2023-12-05,21:00,Copa del Rey,Second round,Tue,Away,L,1,3,Espanyol,59,15464,Sergio Escudero,4-1-4-1,4-4-2,Jose Lax Franco,Match Report,,2023-2024,Valladolid
+2023-12-09,16:15,La Liga 2,Matchweek 19,Sat,Home,W,2,1,Amorebieta,66,15467,Jordi Masip,4-4-2,3-4-3,Rafael Sánchez,Match Report,,2023-2024,Valladolid
+2023-12-18,20:30,La Liga 2,Matchweek 20,Mon,Away,L,0,1,Villarreal B,64,1196,Jordi Masip,4-4-2,4-4-2,Raúl González,Match Report,,2023-2024,Valladolid
+2023-12-21,21:30,La Liga 2,Matchweek 21,Thu,Home,L,0,1,Racing Ferrol,57,13711,Jordi Masip,4-2-3-1,4-2-3-1,Andrés Fuentes,Match Report,,2023-2024,Valladolid
+2024-01-13,21:00,La Liga 2,Matchweek 22,Sat,Away,L,0,1,Burgos,69,10742,Jordi Masip,4-4-2,4-4-2,José López,Match Report,,2023-2024,Valladolid
+2024-01-21,21:00,La Liga 2,Matchweek 23,Sun,Away,D,0,0,Elche,43,12334,Jordi Masip,4-4-2,5-4-1,Salvador Lax,Match Report,,2023-2024,Valladolid
+2024-01-29,20:30,La Liga 2,Matchweek 24,Mon,Home,W,3,1,Racing Sant,53,16685,Jordi Masip,4-2-3-1,4-2-3-1,Daniel Trujillo,Match Report,,2023-2024,Valladolid
+2024-02-03,18:30,La Liga 2,Matchweek 25,Sat,Away,D,0,0,Leganés,57,10880,Jordi Masip,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2023-2024,Valladolid
+2024-02-12,20:30,La Liga 2,Matchweek 26,Mon,Home,D,0,0,Albacete,73,17414,Jordi Masip,4-4-2,5-4-1,Manuel Orellana,Match Report,,2023-2024,Valladolid
+2024-02-17,18:30,La Liga 2,Matchweek 27,Sat,Away,D,1,1,Sporting Gijón,52,21130,Jordi Masip,4-4-2,4-4-2,Iosu Galech,Match Report,,2023-2024,Valladolid
+2024-02-23,20:30,La Liga 2,Matchweek 28,Fri,Home,W,3,0,Oviedo,48,19163,Jordi Masip,4-1-4-1,4-4-2,Rubén Ávalos,Match Report,,2023-2024,Valladolid
+2024-03-03,14:00,La Liga 2,Matchweek 29,Sun,Away,L,1,2,FC Andorra,46,2014,Jordi Masip,4-3-3,5-3-2,Raúl González,Match Report,,2023-2024,Valladolid
+2024-03-09,18:30,La Liga 2,Matchweek 30,Sat,Home,W,2,0,Zaragoza,51,15787,Jordi Masip,4-3-3,4-4-2,Alejandro Quintero,Match Report,,2023-2024,Valladolid
+2024-03-17,16:15,La Liga 2,Matchweek 31,Sun,Away,L,0,2,Racing Ferrol,50,6824,Jordi Masip,4-3-3,4-2-3-1,Luis Milla,Match Report,,2023-2024,Valladolid
+2024-03-24,16:15,La Liga 2,Matchweek 32,Sun,Home,W,3,1,Eibar,66,20286,Jordi Masip,4-3-3,4-2-3-1,Salvador Lax,Match Report,,2023-2024,Valladolid
+2024-03-30,14:00,La Liga 2,Matchweek 33,Sat,Home,D,0,0,Levante,59,14218,Jordi Masip,4-3-3,4-4-2,Álvaro Moreno,Match Report,,2023-2024,Valladolid
+2024-04-07,21:00,La Liga 2,Matchweek 34,Sun,Away,W,2,0,Cartagena,39,8758,Jordi Masip,4-3-3,4-3-3,Raúl González,Match Report,,2023-2024,Valladolid
+2024-04-13,18:30,La Liga 2,Matchweek 35,Sat,Home,W,1,0,Eldense,64,18009,Jordi Masip,4-3-3,3-4-3,Iosu Galech,Match Report,,2023-2024,Valladolid
+2024-04-20,14:00,La Liga 2,Matchweek 36,Sat,Away,W,3,0,Amorebieta,64,1846,Jordi Masip,4-3-3,5-4-1,Manuel Orellana,Match Report,,2023-2024,Valladolid
+2024-04-28,18:30,La Liga 2,Matchweek 37,Sun,Home,W,1,0,Huesca,49,19225,Jordi Masip,4-3-3,4-4-2,Iván Caparrós,Match Report,,2023-2024,Valladolid
+2024-05-04,14:00,La Liga 2,Matchweek 38,Sat,Away,W,1,0,CD Mirandés,54,4042,Jordi Masip,4-3-3,3-4-3,José Guzmán,Match Report,,2023-2024,Valladolid
+2024-05-11,18:30,La Liga 2,Matchweek 39,Sat,Home,D,0,0,Espanyol,58,23450,Jordi Masip,4-3-3,4-4-2,Adrián Cordero,Match Report,,2023-2024,Valladolid
+2024-05-19,16:15,La Liga 2,Matchweek 40,Sun,Away,D,1,1,Alcorcón,61,4177,Jordi Masip,4-3-3,4-4-2,Raúl González,Match Report,,2023-2024,Valladolid
+2024-05-26,18:30,La Liga 2,Matchweek 41,Sun,Home,W,3,2,Villarreal B,54,24765,Jordi Masip,4-3-3,4-2-3-1,Miguel Sesma,Match Report,,2023-2024,Valladolid
+2024-06-02,17:30,La Liga 2,Matchweek 42,Sun,Away,L,1,2,Tenerife,49,11142,Jordi Masip,4-3-3,4-4-2,Rubén Ávalos,Match Report,,2023-2024,Valladolid

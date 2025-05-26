@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,3,2,Troyes,1.7,2.0,54,12003,Téji Savanier,4-2-3-1,5-4-1,Pierre Gaillouste,Match Report,,2022-2023,Montpellier
+2022-08-13,21:00,Ligue 1,Matchweek 2,Sat,Away,L,2,5,Paris S-G,0.9,3.2,41,46000,Téji Savanier,4-1-4-1,3-4-1-2,Willy Delajod,Match Report,,2022-2023,Montpellier
+2022-08-21,15:00,Ligue 1,Matchweek 3,Sun,Home,L,1,2,Auxerre,1.0,1.3,64,13137,Téji Savanier,4-1-4-1,4-1-4-1,Mathieu Vernice,Match Report,,2022-2023,Montpellier
+2022-08-28,15:00,Ligue 1,Matchweek 4,Sun,Away,W,7,0,Brest,2.5,0.3,48,11546,Jordan Ferri,4-2-3-1,4-3-3,Marc Bollengier,Match Report,,2022-2023,Montpellier
+2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,W,2,0,Ajaccio,1.7,1.2,38,10051,Jordan Ferri,4-2-3-1,4-4-2,Bastien Dechepy,Match Report,,2022-2023,Montpellier
+2022-09-04,13:00,Ligue 1,Matchweek 6,Sun,Home,L,1,3,Lille,0.5,1.6,25,12215,Jordan Ferri,4-3-2-1,4-2-3-1,Jérôme Brisard,Match Report,,2022-2023,Montpellier
+2022-09-11,15:00,Ligue 1,Matchweek 7,Sun,Away,L,1,2,Angers,0.7,2.5,55,6165,Téji Savanier,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2022-2023,Montpellier
+2022-09-17,17:00,Ligue 1,Matchweek 8,Sat,Home,W,2,1,Strasbourg,1.8,0.6,50,10780,Téji Savanier,4-2-3-1,3-5-2,Jeremy Stinat,Match Report,,2022-2023,Montpellier
+2022-10-02,15:00,Ligue 1,Matchweek 9,Sun,Away,L,2,4,Toulouse,1.2,1.7,57,21820,Téji Savanier,4-2-3-1,4-3-3,Jérémie Pignard,Match Report,,2022-2023,Montpellier
+2022-10-09,13:00,Ligue 1,Matchweek 10,Sun,Home,L,0,2,Monaco,0.7,1.2,50,13048,Téji Savanier,4-2-3-1,4-4-2,Benoît Millot,Match Report,,2022-2023,Montpellier
+2022-10-15,21:00,Ligue 1,Matchweek 11,Sat,Away,L,0,1,Lens,0.7,1.8,35,37320,Téji Savanier,4-2-3-1,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Montpellier
+2022-10-22,17:00,Ligue 1,Matchweek 12,Sat,Home,L,1,2,Lyon,1.1,2.7,38,15339,Téji Savanier,4-2-3-1,3-4-1-2,Thomas Léonard,Match Report,,2022-2023,Montpellier
+2022-10-30,15:00,Ligue 1,Matchweek 13,Sun,Away,L,0,3,Rennes,0.9,1.2,45,26617,Téji Savanier,5-3-2,4-4-2,Bastien Dechepy,Match Report,,2022-2023,Montpellier
+2022-11-06,15:00,Ligue 1,Matchweek 14,Sun,Away,D,1,1,Clermont Foot,1.2,3.4,46,10990,Téji Savanier,5-3-2,3-4-1-2,Marc Bollengier,Match Report,,2022-2023,Montpellier
+2022-11-13,15:00,Ligue 1,Matchweek 15,Sun,Home,D,1,1,Reims,1.7,2.1,49,11778,Téji Savanier,5-3-2,4-2-3-1,Florent Batta,Match Report,,2022-2023,Montpellier
+2022-12-29,17:00,Ligue 1,Matchweek 16,Thu,Away,W,2,0,Lorient,1.7,1.0,52,15963,Téji Savanier,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Montpellier
+2023-01-02,19:00,Ligue 1,Matchweek 17,Mon,Home,L,1,2,Marseille,1.4,1.4,41,18971,Téji Savanier,4-2-3-1,3-4-3,Ruddy Buquet,Match Report,,2022-2023,Montpellier
+2023-01-06,18:00,Coupe de France,Round of 64,Fri,Away,L,1,2,Pau FC,,,65,3349,Mamadou Sakho,4-3-3,3-5-2,Mathieu Vernice,Match Report,,2022-2023,Montpellier
+2023-01-11,21:00,Ligue 1,Matchweek 18,Wed,Away,L,1,6,Nice,0.2,2.5,42,17500,Téji Savanier,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2022-2023,Montpellier
+2023-01-15,15:00,Ligue 1,Matchweek 19,Sun,Home,L,0,3,Nantes,0.9,0.6,47,10947,Téji Savanier,4-2-3-1,5-3-2,Thomas Léonard,Match Report,,2022-2023,Montpellier
+2023-01-29,15:00,Ligue 1,Matchweek 20,Sun,Away,W,2,0,Auxerre,0.7,1.8,42,14206,Téji Savanier,4-2-3-1,4-3-3,Jeremy Stinat,Match Report,,2022-2023,Montpellier
+2023-02-01,21:00,Ligue 1,Matchweek 21,Wed,Home,L,1,3,Paris S-G,0.5,4.4,34,17454,Téji Savanier,3-5-2,4-1-3-2,Jérémie Pignard,Match Report,,2022-2023,Montpellier
+2023-02-05,15:00,Ligue 1,Matchweek 22,Sun,Away,L,0,2,Strasbourg,0.9,0.9,67,25028,Jordan Ferri,4-3-3,5-4-1,Stéphanie Frappart,Match Report,,2022-2023,Montpellier
+2023-02-12,15:00,Ligue 1,Matchweek 23,Sun,Home,W,3,0,Brest,2.5,0.8,44,12901,Téji Savanier,4-2-3-1,4-1-4-1,Florent Batta,Match Report,,2022-2023,Montpellier
+2023-02-19,15:00,Ligue 1,Matchweek 24,Sun,Away,W,1,0,Troyes,1.6,0.1,49,7745,Téji Savanier,4-2-3-1,3-4-3,Benoît Bastien,Match Report,,2022-2023,Montpellier
+2023-02-25,21:00,Ligue 1,Matchweek 25,Sat,Home,D,1,1,Lens,0.6,1.9,39,17074,Jordan Ferri,3-4-3,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Montpellier
+2023-03-05,15:00,Ligue 1,Matchweek 26,Sun,Home,W,5,0,Angers,2.9,0.9,60,11664,Téji Savanier,4-2-3-1,4-3-3,Benoît Millot,Match Report,,2022-2023,Montpellier
+2023-03-12,15:00,Ligue 1,Matchweek 27,Sun,Away,W,1,0,Ajaccio,1.0,0.2,52,6889,Téji Savanier,4-2-3-1,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Montpellier
+2023-03-19,15:00,Ligue 1,Matchweek 28,Sun,Home,W,2,1,Clermont Foot,3.3,1.8,56,13166,Téji Savanier,4-2-3-1,3-4-3,Pierre Gaillouste,Match Report,,2022-2023,Montpellier
+2023-03-31,21:00,Ligue 1,Matchweek 29,Fri,Away,D,1,1,Marseille,0.9,1.3,32,58231,Téji Savanier,4-2-3-1,3-4-3,Thomas Léonard,Match Report,,2022-2023,Montpellier
+2023-04-09,15:00,Ligue 1,Matchweek 30,Sun,Home,L,1,2,Toulouse,1.9,2.1,51,17283,Téji Savanier,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2022-2023,Montpellier
+2023-04-16,13:00,Ligue 1,Matchweek 31,Sun,Away,L,1,2,Lille,0.4,2.1,32,34200,Téji Savanier,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2022-2023,Montpellier
+2023-04-23,17:05,Ligue 1,Matchweek 32,Sun,Home,W,1,0,Rennes,0.9,1.1,31,15537,Téji Savanier,4-2-3-1,4-1-4-1,Ruddy Buquet,Match Report,,2022-2023,Montpellier
+2023-04-30,13:00,Ligue 1,Matchweek 33,Sun,Away,W,4,0,Monaco,1.9,1.1,45,6069,Jordan Ferri,4-2-3-1,4-4-2,Marc Bollengier,Match Report,,2022-2023,Montpellier
+2023-05-07,17:05,Ligue 1,Matchweek 34,Sun,Away,L,4,5,Lyon,1.8,2.9,31,49531,Jordan Ferri,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2022-2023,Montpellier
+2023-05-14,15:00,Ligue 1,Matchweek 35,Sun,Home,D,1,1,Lorient,1.6,0.6,43,12595,Jordan Ferri,4-3-3,3-4-3,Mathieu Vernice,Match Report,,2022-2023,Montpellier
+2023-05-20,17:00,Ligue 1,Matchweek 36,Sat,Away,W,3,0,Nantes,1.8,0.9,56,30170,Téji Savanier,4-2-3-1,3-4-3,Ruddy Buquet,Match Report,,2022-2023,Montpellier
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Home,L,2,3,Nice,2.3,3.4,47,16340,Téji Savanier,4-2-3-1,4-3-3,Benoît Millot,Match Report,,2022-2023,Montpellier
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Away,W,3,1,Reims,2.3,1.5,51,15036,Téji Savanier,4-2-3-1,4-2-3-1,Pierre Gaillouste,Match Report,,2022-2023,Montpellier

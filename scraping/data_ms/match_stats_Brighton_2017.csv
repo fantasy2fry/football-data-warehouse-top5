@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,17:30,Premier League,Matchweek 1,Sat,Home,L,0,2,Manchester City,0.3,1.9,23,30415,Bruno,4-4-2,3-1-4-2,Michael Oliver,Match Report,,2017-2018,Brighton
+2017-08-19,15:00,Premier League,Matchweek 2,Sat,Away,L,0,2,Leicester City,0.2,2.0,55,31902,Bruno,4-4-1-1,4-4-1-1,Lee Probert,Match Report,,2017-2018,Brighton
+2017-08-22,19:45,EFL Cup,Second round,Tue,Home,W,1,0,Barnet,,,62,11414,Liam Rosenior,4-4-1-1,3-4-3,Steve Martin,Match Report,,2017-2018,Brighton
+2017-08-26,15:00,Premier League,Matchweek 3,Sat,Away,D,0,0,Watford,1.1,0.3,57,20181,Bruno,4-4-1-1,4-3-3,Graham Scott,Match Report,,2017-2018,Brighton
+2017-09-09,15:00,Premier League,Matchweek 4,Sat,Home,W,3,1,West Brom,0.4,1.0,48,30381,Bruno,4-4-1-1,4-1-4-1,Chris Kavanagh,Match Report,,2017-2018,Brighton
+2017-09-15,20:00,Premier League,Matchweek 5,Fri,Away,L,1,2,Bournemouth,0.9,1.2,38,10369,Lewis Dunk,4-4-1-1,4-4-1-1,Craig Pawson,Match Report,,2017-2018,Brighton
+2017-09-19,19:45,EFL Cup,Third round,Tue,Away,L,0,1,Bournemouth,,,40,10372,Liam Rosenior,3-4-3,4-4-1-1,Kevin Friend,Match Report,Required Extra Time,2017-2018,Brighton
+2017-09-24,16:00,Premier League,Matchweek 6,Sun,Home,W,1,0,Newcastle Utd,1.0,1.5,49,30468,Bruno,4-4-1-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Brighton
+2017-10-01,12:00,Premier League,Matchweek 7,Sun,Away,L,0,2,Arsenal,0.4,2.4,36,59378,Bruno,4-5-1,3-4-3,Kevin Friend,Match Report,,2017-2018,Brighton
+2017-10-15,13:30,Premier League,Matchweek 8,Sun,Home,D,1,1,Everton,1.0,1.5,47,30565,Bruno,4-4-2,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Brighton
+2017-10-20,20:00,Premier League,Matchweek 9,Fri,Away,W,3,0,West Ham,1.4,0.7,35,56977,Bruno,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Brighton
+2017-10-29,13:30,Premier League,Matchweek 10,Sun,Home,D,1,1,Southampton,1.2,0.3,52,30564,Bruno,4-4-1-1,4-1-4-1,Niel Swarbrick,Match Report,,2017-2018,Brighton
+2017-11-04,15:00,Premier League,Matchweek 11,Sat,Away,W,1,0,Swansea City,0.9,1.3,44,20822,Bruno,4-4-2,4-3-3,Mike Dean,Match Report,,2017-2018,Brighton
+2017-11-20,20:00,Premier League,Matchweek 12,Mon,Home,D,2,2,Stoke City,0.5,1.0,53,29676,Bruno,4-4-1-1,3-4-3,Lee Mason,Match Report,,2017-2018,Brighton
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Away,L,0,1,Manchester Utd,0.5,1.2,42,75018,Bruno,4-5-1,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Brighton
+2017-11-28,19:45,Premier League,Matchweek 14,Tue,Home,D,0,0,Crystal Palace,0.6,0.5,54,29889,Bruno,4-4-1-1,4-4-2,Andre Marriner,Match Report,,2017-2018,Brighton
+2017-12-02,15:00,Premier League,Matchweek 15,Sat,Home,L,1,5,Liverpool,1.7,1.8,43,30634,Bruno,4-4-1-1,3-5-1-1,Graham Scott,Match Report,,2017-2018,Brighton
+2017-12-09,15:00,Premier League,Matchweek 16,Sat,Away,L,0,2,Huddersfield,0.3,2.2,42,24018,Bruno,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Brighton
+2017-12-13,20:00,Premier League,Matchweek 17,Wed,Away,L,0,2,Tottenham,0.4,1.5,26,46438,Lewis Dunk,4-5-1,4-2-3-1,Robert Madley,Match Report,,2017-2018,Brighton
+2017-12-16,15:00,Premier League,Matchweek 18,Sat,Home,D,0,0,Burnley,1.5,1.2,58,29921,Bruno,4-2-3-1,4-4-1-1,Chris Kavanagh,Match Report,,2017-2018,Brighton
+2017-12-23,15:00,Premier League,Matchweek 19,Sat,Home,W,1,0,Watford,1.1,1.5,51,30473,Bruno,4-4-1-1,4-2-3-1,Paul Tierney,Match Report,,2017-2018,Brighton
+2017-12-26,15:00,Premier League,Matchweek 20,Tue,Away,L,0,2,Chelsea,0.5,2.1,33,41568,Lewis Dunk,4-5-1,3-5-1-1,Mike Dean,Match Report,,2017-2018,Brighton
+2017-12-30,15:00,Premier League,Matchweek 21,Sat,Away,D,0,0,Newcastle Utd,0.5,0.5,54,52209,Bruno,4-4-1-1,4-4-2,Anthony Taylor,Match Report,,2017-2018,Brighton
+2018-01-01,12:30,Premier League,Matchweek 22,Mon,Home,D,2,2,Bournemouth,2.4,1.5,49,30152,Lewis Dunk,4-4-1-1,4-4-2,Michael Oliver,Match Report,,2017-2018,Brighton
+2018-01-08,19:45,FA Cup,Third round,Mon,Home,W,2,1,Crystal Palace,,,56,14507,Dale Stephens,4-4-2,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Brighton
+2018-01-13,15:00,Premier League,Matchweek 23,Sat,Away,L,0,2,West Brom,0.6,1.0,56,25240,Bruno,4-4-1-1,4-4-2,Martin Atkinson,Match Report,,2017-2018,Brighton
+2018-01-20,12:30,Premier League,Matchweek 24,Sat,Home,L,0,4,Chelsea,0.8,1.3,42,30600,Lewis Dunk,5-3-2,3-4-3,Jonathan Moss,Match Report,,2017-2018,Brighton
+2018-01-27,15:00,FA Cup,Fourth round,Sat,Away,W,1,0,Middlesbrough,,,53,20475,Liam Rosenior,4-4-2,4-2-3-1,Anthony Taylor,Match Report,,2017-2018,Brighton
+2018-01-31,19:45,Premier League,Matchweek 25,Wed,Away,D,1,1,Southampton,1.1,1.4,34,30034,Lewis Dunk,4-4-1-1,4-2-3-1,Mike Dean,Match Report,,2017-2018,Brighton
+2018-02-03,15:00,Premier League,Matchweek 26,Sat,Home,W,3,1,West Ham,1.7,0.4,55,30589,Lewis Dunk,4-4-1-1,3-4-3,Roger East,Match Report,,2017-2018,Brighton
+2018-02-10,15:00,Premier League,Matchweek 27,Sat,Away,D,1,1,Stoke City,1.1,1.4,42,29876,Lewis Dunk,4-4-1-1,4-3-3,Robert Madley,Match Report,,2017-2018,Brighton
+2018-02-17,15:00,FA Cup,Fifth round,Sat,Home,W,3,1,Coventry City,,,68,26966,Bruno,4-4-2,4-4-2,Craig Pawson,Match Report,,2017-2018,Brighton
+2018-02-24,15:00,Premier League,Matchweek 28,Sat,Home,W,4,1,Swansea City,3.0,0.6,47,30523,Lewis Dunk,4-4-1-1,5-4-1,Mike Dean,Match Report,,2017-2018,Brighton
+2018-03-04,13:30,Premier League,Matchweek 29,Sun,Home,W,2,1,Arsenal,1.2,1.2,33,30620,Lewis Dunk,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Brighton
+2018-03-10,15:00,Premier League,Matchweek 30,Sat,Away,L,0,2,Everton,0.3,1.5,41,39199,Lewis Dunk,4-4-1-1,4-2-3-1,Roger East,Match Report,,2017-2018,Brighton
+2018-03-17,19:45,FA Cup,Quarter-finals,Sat,Away,L,0,2,Manchester Utd,,,39,74241,Lewis Dunk,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Brighton
+2018-03-31,15:00,Premier League,Matchweek 32,Sat,Home,L,0,2,Leicester City,1.8,1.2,48,30629,Lewis Dunk,4-1-4-1,4-4-1-1,Chris Kavanagh,Match Report,,2017-2018,Brighton
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Home,D,1,1,Huddersfield,1.5,1.5,42,30501,Lewis Dunk,4-4-1-1,4-4-1-1,Anthony Taylor,Match Report,,2017-2018,Brighton
+2018-04-14,15:00,Premier League,Matchweek 34,Sat,Away,L,2,3,Crystal Palace,1.5,2.1,51,24656,Lewis Dunk,4-3-3,4-4-2,Andre Marriner,Match Report,,2017-2018,Brighton
+2018-04-17,19:45,Premier League,Matchweek 35,Tue,Home,D,1,1,Tottenham,1.1,1.3,37,30440,Bruno,4-4-1-1,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Brighton
+2018-04-28,15:00,Premier League,Matchweek 36,Sat,Away,D,0,0,Burnley,0.4,1.5,55,19459,Bruno,4-4-1-1,4-4-2,Roger East,Match Report,,2017-2018,Brighton
+2018-05-04,20:00,Premier League,Matchweek 37,Fri,Home,W,1,0,Manchester Utd,1.0,0.8,32,30611,Bruno,4-3-3,4-3-3,Craig Pawson,Match Report,,2017-2018,Brighton
+2018-05-09,20:00,Premier League,Matchweek 31,Wed,Away,L,1,3,Manchester City,1.2,1.6,27,54013,Bruno,4-5-1,4-3-3,Paul Tierney,Match Report,,2017-2018,Brighton
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,L,0,4,Liverpool,0.1,2.8,28,50752,Lewis Dunk,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Brighton

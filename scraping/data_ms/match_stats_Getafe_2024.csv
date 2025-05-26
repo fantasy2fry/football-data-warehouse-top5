@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-15,19:00,La Liga,Matchweek 1,Thu,Away,D,1,1,Athletic Club,0.8,0.3,32.0,47845,Djené,4-1-4-1,4-2-3-1,,Match Report,,2024-2025,Getafe
+2024-08-24,21:30,La Liga,Matchweek 2,Sat,Home,D,0,0,Rayo Vallecano,0.5,0.2,48.0,9529,Djené,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Getafe
+2024-09-01,19:15,La Liga,Matchweek 4,Sun,Home,D,0,0,Real Sociedad,0.6,0.0,53.0,10929,Djené,4-2-3-1,4-4-1-1,José Luis Munuera,Match Report,,2024-2025,Getafe
+2024-09-14,18:30,La Liga,Matchweek 5,Sat,Away,L,0,1,Sevilla,1.0,1.4,40.0,32643,Djené,4-4-2,3-4-3,Mateo Busquets,Match Report,,2024-2025,Getafe
+2024-09-18,19:00,La Liga,Matchweek 3,Wed,Away,L,1,2,Betis,0.6,2.6,35.0,48547,Djené,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Getafe
+2024-09-22,14:00,La Liga,Matchweek 6,Sun,Home,D,1,1,Leganés,1.5,0.6,59.0,13060,Djené,5-3-2,3-4-3,Adrián Cordero,Match Report,,2024-2025,Getafe
+2024-09-25,21:00,La Liga,Matchweek 7,Wed,Away,L,0,1,Barcelona,0.7,1.9,24.0,44407,Djené,4-1-4-1,4-2-3-1,Pablo González,Match Report,,2024-2025,Getafe
+2024-09-28,14:00,La Liga,Matchweek 8,Sat,Home,W,2,0,Alavés,2.1,0.5,46.0,10006,Djené,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2024-2025,Getafe
+2024-10-05,16:15,La Liga,Matchweek 9,Sat,Home,D,1,1,Osasuna,0.8,0.3,41.0,10670,Djené,4-4-2,4-3-3,Jose Maria Sánchez,Match Report,,2024-2025,Getafe
+2024-10-20,18:30,La Liga,Matchweek 10,Sun,Away,D,1,1,Villarreal,1.9,0.9,44.0,19355,Djené,4-4-2,4-2-3-1,Víctor García,Match Report,,2024-2025,Getafe
+2024-10-27,16:15,La Liga,Matchweek 11,Sun,Home,D,1,1,Valencia,2.2,0.7,64.0,12412,Djené,4-4-2,5-4-1,Guillermo Cuadra,Match Report,,2024-2025,Getafe
+2024-11-04,21:00,La Liga,Matchweek 12,Mon,Away,L,0,1,Celta Vigo,0.5,1.9,43.0,19502,Djené,4-2-3-1,3-4-3,Jesús Gil,Match Report,,2024-2025,Getafe
+2024-11-10,18:30,La Liga,Matchweek 13,Sun,Home,L,0,1,Girona,0.6,0.2,47.0,10923,David Soria,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,2024-2025,Getafe
+2024-11-22,21:00,La Liga,Matchweek 14,Fri,Home,W,2,0,Valladolid,0.6,1.1,57.0,9991,Djené,4-4-2,5-4-1,Pablo González,Match Report,,2024-2025,Getafe
+2024-11-26,19:00,Copa del Rey,First round,Tue,Away,W,3,0,Manises CF,,,,4000,Iglesias,4-3-3,4-4-2,César Soto,Match Report,,2024-2025,Getafe
+2024-12-01,16:15,La Liga,Matchweek 15,Sun,Away,L,0,2,Real Madrid,0.5,3.2,31.0,74341,David Soria,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2024-2025,Getafe
+2024-12-05,19:00,Copa del Rey,Second round,Thu,Away,D,0 (3),0 (0),Orihuela,,,66.0,7000,Djené,4-4-2,4-5-1,José Luis Munuera,Match Report,Getafe won on penalty kicks following extra time,2024-2025,Getafe
+2024-12-09,21:00,La Liga,Matchweek 16,Mon,Home,W,1,0,Espanyol,0.4,0.7,43.0,7559,Djené,4-4-2,4-1-4-1,Mateo Busquets,Match Report,,2024-2025,Getafe
+2024-12-15,14:00,La Liga,Matchweek 17,Sun,Away,L,0,1,Atlético Madrid,0.2,1.7,43.0,60169,Djené,4-5-1,4-4-2,César Soto,Match Report,,2024-2025,Getafe
+2024-12-21,14:00,La Liga,Matchweek 18,Sat,Home,L,0,1,Mallorca,0.8,2.3,54.0,9747,Djené,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,2024-2025,Getafe
+2025-01-03,19:00,Copa del Rey,Round of 32,Fri,Away,W,1,0,Granada,,,46.0,16616,Djené,4-4-2,4-4-2,Jose Maria Sánchez,Match Report,Required Extra Time,2024-2025,Getafe
+2025-01-12,13:00,La Liga,Matchweek 19,Sun,Away,W,2,1,Las Palmas,1.1,1.3,37.0,23698,Djené,4-4-2,4-2-3-1,Javier Alberola,Match Report,,2024-2025,Getafe
+2025-01-15,19:30,Copa del Rey,Round of 16,Wed,Away,W,1,0,Pontevedra,,,16.0,10497,Mauro Arambarri,4-4-2,3-5-2,Alejandro Quintero,Match Report,,2024-2025,Getafe
+2025-01-18,21:00,La Liga,Matchweek 20,Sat,Home,D,1,1,Barcelona,1.3,2.3,23.0,15134,Djené,4-1-4-1,4-2-3-1,Pablo González,Match Report,,2024-2025,Getafe
+2025-01-26,16:15,La Liga,Matchweek 21,Sun,Away,W,3,0,Real Sociedad,1.4,0.9,44.0,30004,Djené,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,2024-2025,Getafe
+2025-02-01,14:00,La Liga,Matchweek 22,Sat,Home,D,0,0,Sevilla,1.0,0.9,45.0,11730,Djené,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,2024-2025,Getafe
+2025-02-04,21:30,Copa del Rey,Quarter-finals,Tue,Away,L,0,5,Atlético Madrid,,,51.0,60000,Iglesias,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Getafe
+2025-02-09,14:00,La Liga,Matchweek 23,Sun,Away,W,1,0,Alavés,0.9,1.4,35.0,16236,Djené,4-4-2,4-2-2-2,Isidro Díaz de Mera,Match Report,,2024-2025,Getafe
+2025-02-14,21:00,La Liga,Matchweek 24,Fri,Away,W,2,1,Girona,0.6,0.9,29.0,10354,Djené,4-4-2,3-4-3,Alejandro Quintero,Match Report,,2024-2025,Getafe
+2025-02-23,18:30,La Liga,Matchweek 25,Sun,Home,L,1,2,Betis,1.2,2.0,49.0,13964,Djené,4-4-2,4-2-3-1,Javier Alberola,Match Report,,2024-2025,Getafe
+2025-03-02,14:00,La Liga,Matchweek 26,Sun,Away,L,0,1,Leganés,0.3,1.0,43.0,10311,Djené,4-4-2,5-4-1,Alejandro Muñíz,Match Report,,2024-2025,Getafe
+2025-03-09,14:00,La Liga,Matchweek 27,Sun,Home,W,2,1,Atlético Madrid,1.2,0.9,39.0,12862,Djené,4-1-4-1,4-4-2,Guillermo Cuadra,Match Report,,2024-2025,Getafe
+2025-03-16,18:30,La Liga,Matchweek 28,Sun,Away,W,2,1,Osasuna,0.5,1.9,39.0,19611,Djené,4-2-3-1,4-3-3,Alejandro Hernández,Match Report,,2024-2025,Getafe
+2025-03-30,14:00,La Liga,Matchweek 29,Sun,Home,L,1,2,Villarreal,1.0,1.2,55.0,11406,Djené,4-1-4-1,4-4-2,Isidro Díaz de Mera,Match Report,,2024-2025,Getafe
+2025-04-06,18:30,La Liga,Matchweek 30,Sun,Away,W,4,0,Valladolid,1.9,0.6,49.0,17737,David Soria,4-2-3-1,4-4-2,Alejandro Quintero,Match Report,,2024-2025,Getafe
+2025-04-12,16:15,La Liga,Matchweek 31,Sat,Home,L,1,3,Las Palmas,1.4,1.3,42.0,8370,David Soria,4-4-2,4-4-2,Javier Alberola,Match Report,,2024-2025,Getafe
+2025-04-18,21:00,La Liga,Matchweek 32,Fri,Away,L,0,1,Espanyol,0.4,0.4,38.0,25003,Djené,4-1-4-1,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Getafe
+2025-04-23,21:30,La Liga,Matchweek 33,Wed,Home,L,0,1,Real Madrid,2.3,1.5,37.0,15184,Djené,5-4-1,4-4-2,Jose Maria Sánchez,Match Report,,2024-2025,Getafe
+2025-05-02,21:00,La Liga,Matchweek 34,Fri,Away,L,0,1,Rayo Vallecano,0.9,1.2,41.0,11648,Djené,4-4-2,4-2-3-1,Víctor García,Match Report,,2024-2025,Getafe
+2025-05-10,14:00,La Liga,Matchweek 35,Sat,Away,L,0,3,Valencia,0.5,2.7,42.0,43357,David Soria,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2024-2025,Getafe
+2025-05-15,21:30,La Liga,Matchweek 36,Thu,Home,L,0,2,Athletic Club,0.4,1.2,35.0,11564,David Soria,4-4-2,3-4-3,Guillermo Cuadra,Match Report,,2024-2025,Getafe
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Away,W,2,1,Mallorca,1.6,0.4,28.0,18124,David Soria,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Getafe
+2025-05-24,21:00,La Liga,Matchweek 38,Sat,Home,L,1,2,Celta Vigo,0.4,1.5,35.0,12862,Djené,4-4-2,3-4-3,Juan Martínez,Match Report,,2024-2025,Getafe

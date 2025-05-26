@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-11,21:15,Coppa Italia,First round,Sun,Home,W,2,0,Cosenza,,,60,12035.0,Duván Zapata,3-5-2,3-5-2,,Match Report,,2024-2025,Torino
+2024-08-17,20:45,Serie A,Matchweek 1,Sat,Away,D,2,2,Milan,1.0,2.1,44,70742.0,Duván Zapata,3-5-2,4-2-3-1,Fabio Maresca,Match Report,,2024-2025,Torino
+2024-08-25,18:30,Serie A,Matchweek 2,Sun,Home,W,2,1,Atalanta,2.4,3.0,42,20451.0,Duván Zapata,3-5-2,3-4-3,Antonio Rapuano,Match Report,,2024-2025,Torino
+2024-08-30,18:30,Serie A,Matchweek 3,Fri,Away,W,1,0,Venezia,1.0,0.8,58,10652.0,Duván Zapata,3-5-2,3-4-3,Matteo Marcenaro,Match Report,,2024-2025,Torino
+2024-09-15,15:00,Serie A,Matchweek 4,Sun,Home,D,0,0,Lecce,0.4,1.6,53,24277.0,Duván Zapata,3-5-2,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Torino
+2024-09-20,20:45,Serie A,Matchweek 5,Fri,Away,W,3,2,Hellas Verona,2.2,0.5,70,23000.0,Duván Zapata,3-5-2,3-4-1-2,Livio Marinelli,Match Report,,2024-2025,Torino
+2024-09-24,21:00,Coppa Italia,Second round,Tue,Home,L,1,2,Empoli,,,56,12334.0,Karol Linetty,3-4-3,3-4-3,Davide Ghersini,Match Report,,2024-2025,Torino
+2024-09-29,12:30,Serie A,Matchweek 6,Sun,Home,L,2,3,Lazio,0.7,2.0,57,23130.0,Duván Zapata,3-5-2,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Torino
+2024-10-05,20:45,Serie A,Matchweek 7,Sat,Away,L,2,3,Inter,1.6,2.4,20,73348.0,Duván Zapata,3-5-2,3-5-2,Matteo Marcenaro,Match Report,,2024-2025,Torino
+2024-10-20,18:00,Serie A,Matchweek 8,Sun,Away,L,2,3,Cagliari,1.4,1.6,59,16000.0,Karol Linetty,3-5-2,3-4-3,Gianluca Aureliano,Match Report,,2024-2025,Torino
+2024-10-25,20:45,Serie A,Matchweek 9,Fri,Home,W,1,0,Como,1.3,1.4,32,23571.0,Karol Linetty,3-5-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2024-2025,Torino
+2024-10-31,20:45,Serie A,Matchweek 10,Thu,Away,L,0,1,Roma,0.2,0.6,43,60920.0,Karol Linetty,3-5-2,3-4-3,Michael Fabbri,Match Report,,2024-2025,Torino
+2024-11-03,15:00,Serie A,Matchweek 11,Sun,Home,L,0,1,Fiorentina,0.6,0.6,54,23326.0,Antonio Sanabria,3-5-2,4-2-3-1,Federico La Penna,Match Report,,2024-2025,Torino
+2024-11-09,20:45,Serie A,Matchweek 12,Sat,Away,L,0,2,Juventus,0.4,1.7,46,41066.0,Karol Linetty,3-5-2,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Torino
+2024-11-24,15:00,Serie A,Matchweek 13,Sun,Home,D,1,1,Monza,1.0,0.9,54,22000.0,Antonio Sanabria,3-5-2,3-4-3,Rosario Abisso,Match Report,,2024-2025,Torino
+2024-12-01,15:00,Serie A,Matchweek 14,Sun,Home,L,0,1,Napoli,0.3,1.4,48,25060.0,Karol Linetty,3-5-2,4-3-3,Michael Fabbri,Match Report,,2024-2025,Torino
+2024-12-07,15:00,Serie A,Matchweek 15,Sat,Away,D,0,0,Genoa,0.6,0.5,48,32363.0,Karol Linetty,3-5-2,4-2-3-1,Livio Marinelli,Match Report,,2024-2025,Torino
+2024-12-13,20:45,Serie A,Matchweek 16,Fri,Away,W,1,0,Empoli,1.0,0.6,41,7832.0,Karol Linetty,3-5-2,3-4-3,Kevin Bonacina,Match Report,,2024-2025,Torino
+2024-12-21,15:00,Serie A,Matchweek 17,Sat,Home,L,0,2,Bologna,0.3,1.7,42,19860.0,Karol Linetty,3-5-2,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Torino
+2024-12-29,12:30,Serie A,Matchweek 18,Sun,Away,D,2,2,Udinese,0.6,0.7,56,23082.0,Samuele Ricci,3-5-2,3-5-2,Francesco Fourneau,Match Report,,2024-2025,Torino
+2025-01-05,18:00,Serie A,Matchweek 19,Sun,Home,D,0,0,Parma,1.1,0.4,62,19744.0,Samuele Ricci,3-4-3,4-3-3,Ermanno Feliciani,Match Report,,2024-2025,Torino
+2025-01-11,18:00,Serie A,Matchweek 20,Sat,Home,D,1,1,Juventus,0.6,0.9,41,27014.0,Samuele Ricci,4-4-2,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Torino
+2025-01-19,12:30,Serie A,Matchweek 21,Sun,Away,D,1,1,Fiorentina,0.4,1.5,47,19313.0,Samuele Ricci,4-4-2,4-2-3-1,Livio Marinelli,Match Report,,2024-2025,Torino
+2025-01-24,20:45,Serie A,Matchweek 22,Fri,Home,W,2,0,Cagliari,1.5,0.3,50,18992.0,Samuele Ricci,4-4-2,4-4-1-1,Kevin Bonacina,Match Report,,2024-2025,Torino
+2025-02-01,18:00,Serie A,Matchweek 23,Sat,Away,D,1,1,Atalanta,0.6,2.9,35,22547.0,Samuele Ricci,5-4-1,3-4-1-2,Marco Piccinini,Match Report,,2024-2025,Torino
+2025-02-08,20:45,Serie A,Matchweek 24,Sat,Home,D,1,1,Genoa,0.7,0.3,57,22359.0,Samuele Ricci,3-4-3,4-4-2,Ermanno Feliciani,Match Report,,2024-2025,Torino
+2025-02-14,20:45,Serie A,Matchweek 25,Fri,Away,L,2,3,Bologna,1.0,2.3,35,24274.0,Nikola Vlašić,4-2-3-1,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Torino
+2025-02-22,18:00,Serie A,Matchweek 26,Sat,Home,W,2,1,Milan,0.3,2.4,36,26868.0,Samuele Ricci,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Torino
+2025-03-02,12:30,Serie A,Matchweek 27,Sun,Away,W,2,0,Monza,1.2,1.0,47,11053.0,Samuele Ricci,4-2-3-1,3-5-2,Antonio Rapuano,Match Report,,2024-2025,Torino
+2025-03-08,15:00,Serie A,Matchweek 28,Sat,Away,D,2,2,Parma,0.7,1.6,47,18938.0,Samuele Ricci,4-2-3-1,4-3-3,Francesco Fourneau,Match Report,,2024-2025,Torino
+2025-03-15,20:45,Serie A,Matchweek 29,Sat,Home,W,1,0,Empoli,0.6,0.9,50,20402.0,Samuele Ricci,4-3-3,3-4-3,Daniele Chiffi,Match Report,,2024-2025,Torino
+2025-03-31,20:45,Serie A,Matchweek 30,Mon,Away,D,1,1,Lazio,0.4,1.2,42,37000.0,Samuele Ricci,4-2-3-1,4-2-3-1,Davide Massa,Match Report,,2024-2025,Torino
+2025-04-06,15:00,Serie A,Matchweek 31,Sun,Home,D,1,1,Hellas Verona,1.1,0.9,61,25479.0,Samuele Ricci,4-2-3-1,3-5-2,Kevin Bonacina,Match Report,,2024-2025,Torino
+2025-04-13,18:00,Serie A,Matchweek 32,Sun,Away,L,0,1,Como,1.2,1.3,43,10658.0,Antonio Sanabria,4-1-3-2,4-3-3,Matteo Marcenaro,Match Report,,2024-2025,Torino
+2025-04-23,18:30,Serie A,Matchweek 33,Wed,Home,W,2,0,Udinese,0.9,1.1,44,27958.0,Samuele Ricci,4-4-2,4-4-1-1,Giuseppe Collu,Match Report,,2024-2025,Torino
+2025-04-27,20:45,Serie A,Matchweek 34,Sun,Away,L,0,2,Napoli,0.8,1.1,42,51144.0,Karol Linetty,3-5-2,4-3-3,Maurizio Mariani,Match Report,,2024-2025,Torino
+2025-05-02,20:45,Serie A,Matchweek 35,Fri,Home,D,1,1,Venezia,2.1,0.6,55,21931.0,Nikola Vlašić,4-3-2-1,3-5-2,Simone Sozza,Match Report,,2024-2025,Torino
+2025-05-11,18:00,Serie A,Matchweek 36,Sun,Home,L,0,2,Inter,1.5,2.5,42,26537.0,Samuele Ricci,4-2-3-1,3-4-3,Federico La Penna,Match Report,,2024-2025,Torino
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Away,L,0,1,Lecce,0.5,0.8,57,,Samuele Ricci,4-2-3-1,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Torino
+2025-05-25,20:45,Serie A,Matchweek 38,Sun,Home,L,0,2,Roma,0.5,1.9,46,,Samuele Ricci,4-2-3-1,4-1-4-1,Marco Di Bello,Match Report,,2024-2025,Torino

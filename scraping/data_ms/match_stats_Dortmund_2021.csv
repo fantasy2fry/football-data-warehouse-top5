@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-07,20:45,DFB-Pokal,Round of 64,Sat,Away,W,3,0,Wehen,,,64,4882.0,Marco Reus,4-4-2◆,3-4-1-2,Benjamin Cortus,Match Report,,2021-2022,Dortmund
+2021-08-14,18:30,Bundesliga,Matchweek 1,Sat,Home,W,5,2,Eint Frankfurt,2.7,1.3,60,25000.0,Marco Reus,4-2-3-1,3-4-3,Tobias Stieler,Match Report,,2021-2022,Dortmund
+2021-08-17,20:30,DFL-Supercup,DFL-Supercup,Tue,Home,L,1,3,Bayern Munich,,,49,,Marco Reus,4-3-3,4-2-3-1,Sascha Stegemann,Match Report,,2021-2022,Dortmund
+2021-08-21,15:30,Bundesliga,Matchweek 2,Sat,Away,L,1,2,Freiburg,1.6,1.3,76,10100.0,Marco Reus,4-1-2-1-2◆,4-4-2,Robert Schröder,Match Report,,2021-2022,Dortmund
+2021-08-27,20:30,Bundesliga,Matchweek 3,Fri,Home,W,3,2,Hoffenheim,3.4,2.2,59,25000.0,Marco Reus,4-1-2-1-2◆,4-2-3-1,Felix Zwayer,Match Report,,2021-2022,Dortmund
+2021-09-11,15:30,Bundesliga,Matchweek 4,Sat,Away,W,4,3,Leverkusen,1.8,0.7,58,17605.0,Marco Reus,4-3-2-1,4-2-3-1,Daniel Siebert,Match Report,,2021-2022,Dortmund
+2021-09-15,19:45,Champions Lg,Group stage,Wed,Away,W,2,1,tr Beşiktaş,3.0,1.2,43,22445.0,Marco Reus,4-2-3-1,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Dortmund
+2021-09-19,17:30,Bundesliga,Matchweek 5,Sun,Home,W,4,2,Union Berlin,0.9,1.6,63,25000.0,Marco Reus,4-3-3,3-4-1-2,Sven Jablonski,Match Report,,2021-2022,Dortmund
+2021-09-25,18:30,Bundesliga,Matchweek 6,Sat,Away,L,0,1,Gladbach,0.4,1.6,45,25000.0,Mats Hummels,3-5-2,3-4-3,Deniz Aytekin,Match Report,,2021-2022,Dortmund
+2021-09-28,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,pt Sporting CP,0.3,0.4,58,25000.0,Marco Reus,4-2-3-1,3-4-3,Srdjan Stojanovic,Match Report,,2021-2022,Dortmund
+2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,W,2,1,Augsburg,3.0,0.8,69,41000.0,Marco Reus,4-2-3-1,3-4-1-2,Tobias Welz,Match Report,,2021-2022,Dortmund
+2021-10-16,15:30,Bundesliga,Matchweek 8,Sat,Home,W,3,1,Mainz 05,2.3,0.8,67,63812.0,Marco Reus,4-3-3,3-4-1-2,Daniel Schlager,Match Report,,2021-2022,Dortmund
+2021-10-19,21:00,Champions Lg,Group stage,Tue,Away,L,0,4,nl Ajax,1.2,2.1,45,54029.0,Marco Reus,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2021-2022,Dortmund
+2021-10-23,15:30,Bundesliga,Matchweek 9,Sat,Away,W,3,1,Arminia,2.4,1.4,69,25000.0,Marco Reus,3-4-3,3-4-1-2,Benjamin Brand,Match Report,,2021-2022,Dortmund
+2021-10-26,20:00,DFB-Pokal,Round of 32,Tue,Home,W,2,0,Ingolstadt 04,,,83,28000.0,Mats Hummels,3-4-3,5-4-1,Matthias Jöllenbeck,Match Report,,2021-2022,Dortmund
+2021-10-30,15:30,Bundesliga,Matchweek 10,Sat,Home,W,2,0,Köln,1.4,1.3,42,66709.0,Marco Reus,3-4-3,4-1-3-2,Martin Petersen,Match Report,,2021-2022,Dortmund
+2021-11-03,21:00,Champions Lg,Group stage,Wed,Home,L,1,3,nl Ajax,1.7,2.0,31,54820.0,Marco Reus,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2021-2022,Dortmund
+2021-11-06,18:30,Bundesliga,Matchweek 11,Sat,Away,L,1,2,RB Leipzig,0.9,2.6,46,43429.0,Marco Reus,3-4-3,3-4-3,Felix Zwayer,Match Report,,2021-2022,Dortmund
+2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,2,1,Stuttgart,2.2,1.6,64,57900.0,Marco Reus,4-2-3-1,3-1-4-2,Harm Osmers,Match Report,,2021-2022,Dortmund
+2021-11-24,20:00,Champions Lg,Group stage,Wed,Away,L,1,3,pt Sporting CP,1.6,1.9,64,41341.0,Marco Reus,4-2-3-1,3-4-3,Carlos del Cerro,Match Report,,2021-2022,Dortmund
+2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,W,3,1,Wolfsburg,2.3,1.9,58,13281.0,Marco Reus,4-2-3-1,3-4-3,Sven Jablonski,Match Report,,2021-2022,Dortmund
+2021-12-04,18:30,Bundesliga,Matchweek 14,Sat,Home,L,2,3,Bayern Munich,1.2,3.1,47,15000.0,Marco Reus,4-1-3-2,4-2-3-1,Felix Zwayer,Match Report,,2021-2022,Dortmund
+2021-12-07,21:00,Champions Lg,Group stage,Tue,Home,W,5,0,tr Beşiktaş,3.5,0.1,70,15000.0,Marco Reus,4-3-3,4-2-3-1,François Letexier,Match Report,,2021-2022,Dortmund
+2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,D,1,1,Bochum,2.3,0.9,67,13799.0,Marco Reus,4-2-3-1,4-1-4-1,Matthias Jöllenbeck,Match Report,,2021-2022,Dortmund
+2021-12-15,20:30,Bundesliga,Matchweek 16,Wed,Home,W,3,0,Greuther Fürth,1.8,0.4,68,15000.0,Marco Reus,4-2-3-1,4-3-3,Daniel Schlager,Match Report,,2021-2022,Dortmund
+2021-12-18,18:30,Bundesliga,Matchweek 17,Sat,Away,L,2,3,Hertha BSC,1.3,1.2,59,5000.0,Marco Reus,4-2-3-1,4-2-2-2,Marco Fritz,Match Report,,2021-2022,Dortmund
+2022-01-08,18:30,Bundesliga,Matchweek 18,Sat,Away,W,3,2,Eint Frankfurt,2.0,1.4,64,250.0,Marco Reus,4-3-3,3-4-3,Robert Schröder,Match Report,,2021-2022,Dortmund
+2022-01-14,20:30,Bundesliga,Matchweek 19,Fri,Home,W,5,1,Freiburg,2.4,0.9,66,750.0,Marco Reus,4-3-3,4-4-2,Florian Badstübner,Match Report,,2021-2022,Dortmund
+2022-01-18,20:45,DFB-Pokal,Round of 16,Tue,Away,L,1,2,St. Pauli,,,69,2000.0,Marco Reus,4-3-3,4-3-1-2,Harm Osmers,Match Report,,2021-2022,Dortmund
+2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,W,3,2,Hoffenheim,1.6,1.7,42,500.0,Marco Reus,4-3-3,3-4-1-2,Deniz Aytekin,Match Report,,2021-2022,Dortmund
+2022-02-06,15:30,Bundesliga,Matchweek 21,Sun,Home,L,2,5,Leverkusen,1.7,2.0,64,10000.0,Marco Reus,4-3-3,4-2-3-1,Daniel Siebert,Match Report,,2021-2022,Dortmund
+2022-02-13,15:30,Bundesliga,Matchweek 22,Sun,Away,W,3,0,Union Berlin,2.2,1.2,60,10000.0,Marco Reus,4-3-3,5-3-2,Matthias Jöllenbeck,Match Report,,2021-2022,Dortmund
+2022-02-17,18:45,Europa Lg,Knockout round play-offs,Thu,Home,L,2,4,sct Rangers,1.5,2.1,64,10000.0,Marco Reus,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,Leg 1 of 2,2021-2022,Dortmund
+2022-02-20,17:30,Bundesliga,Matchweek 23,Sun,Home,W,6,0,Gladbach,3.8,0.9,50,10000.0,Marco Reus,3-4-3,3-4-3,Marco Fritz,Match Report,,2021-2022,Dortmund
+2022-02-24,20:00,Europa Lg,Knockout round play-offs,Thu,Away,D,2,2,sct Rangers,3.6,1.7,65,47709.0,Marco Reus,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Rangers won,2021-2022,Dortmund
+2022-02-27,17:30,Bundesliga,Matchweek 24,Sun,Away,D,1,1,Augsburg,0.6,0.8,64,15330.0,Mats Hummels,3-5-2,3-4-1-2,Deniz Aytekin,Match Report,,2021-2022,Dortmund
+2022-03-13,17:30,Bundesliga,Matchweek 26,Sun,Home,W,1,0,Arminia,2.0,0.7,59,33000.0,Axel Witsel,4-2-3-1,4-2-3-1,Bastian Dankert,Match Report,,2021-2022,Dortmund
+2022-03-16,18:30,Bundesliga,Matchweek 25,Wed,Away,W,1,0,Mainz 05,0.8,0.9,59,25000.0,Axel Witsel,4-2-3-1,3-4-3,Sascha Stegemann,Match Report,,2021-2022,Dortmund
+2022-03-20,19:30,Bundesliga,Matchweek 27,Sun,Away,D,1,1,Köln,1.2,1.1,46,50000.0,Axel Witsel,4-1-4-1,4-1-3-2,Daniel Siebert,Match Report,,2021-2022,Dortmund
+2022-04-02,18:30,Bundesliga,Matchweek 28,Sat,Home,L,1,4,RB Leipzig,0.7,1.1,64,81365.0,Marco Reus,3-4-3,3-5-2,Marco Fritz,Match Report,,2021-2022,Dortmund
+2022-04-08,20:30,Bundesliga,Matchweek 29,Fri,Away,W,2,0,Stuttgart,1.9,1.7,58,58248.0,Marco Reus,4-2-3-1,4-3-3,Harm Osmers,Match Report,,2021-2022,Dortmund
+2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Home,W,6,1,Wolfsburg,3.0,1.5,60,79200.0,Marco Reus,3-4-3,3-4-3,Robert Schröder,Match Report,,2021-2022,Dortmund
+2022-04-23,18:30,Bundesliga,Matchweek 31,Sat,Away,L,1,3,Bayern Munich,1.3,1.7,42,75000.0,Marco Reus,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,,2021-2022,Dortmund
+2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,L,3,4,Bochum,4.0,1.6,69,81365.0,Marco Reus,4-2-3-1,4-3-3,Robert Hartmann,Match Report,,2021-2022,Dortmund
+2022-05-07,15:30,Bundesliga,Matchweek 33,Sat,Away,W,3,1,Greuther Fürth,1.5,1.3,57,16600.0,Marco Reus,3-4-3,3-1-4-2,Christian Dingert,Match Report,,2021-2022,Dortmund
+2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,W,2,1,Hertha BSC,1.3,1.0,73,80500.0,Marco Reus,3-4-3,4-2-3-1,Tobias Stieler,Match Report,,2021-2022,Dortmund

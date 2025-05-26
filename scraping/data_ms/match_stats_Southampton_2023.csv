@@ -1,0 +1,55 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-04,20:00,Championship,Matchweek 1,Fri,Away,W,2,1,Sheffield Weds,1.4,0.5,80,28558,James Ward-Prowse,4-3-3,4-2-3-1,Robert Madley,Match Report,,2023-2024,Southampton
+2023-08-08,19:45,EFL Cup,First round,Tue,Away,L,1,3,Gillingham,,,72,7775,Che Adams,4-4-2,4-2-3-1,Carl Brook,Match Report,,2023-2024,Southampton
+2023-08-12,15:00,Championship,Matchweek 2,Sat,Home,D,4,4,Norwich City,3.7,2.0,69,30113,Jack Stephens,4-3-3,4-3-1-2,Darren England,Match Report,,2023-2024,Southampton
+2023-08-19,12:30,Championship,Matchweek 3,Sat,Away,W,2,1,Plymouth Argyle,2.0,1.4,62,16392,Jack Stephens,4-3-3,4-3-3,David Webb,Match Report,,2023-2024,Southampton
+2023-08-26,15:00,Championship,Matchweek 4,Sat,Home,W,2,1,QPR,0.4,0.6,73,30401,Jack Stephens,4-3-3,5-4-1,James Bell,Match Report,,2023-2024,Southampton
+2023-09-02,12:30,Championship,Matchweek 5,Sat,Away,L,0,5,Sunderland,0.8,1.9,67,41459,Adam Armstrong,4-3-3,4-2-3-1,David Coote,Match Report,,2023-2024,Southampton
+2023-09-15,20:00,Championship,Matchweek 6,Fri,Home,L,1,4,Leicester City,1.6,4.1,55,28877,Adam Armstrong,4-4-2,4-3-3,Robert Madley,Match Report,,2023-2024,Southampton
+2023-09-19,19:45,Championship,Matchweek 7,Tue,Home,L,0,1,Ipswich Town,0.8,0.7,58,27265,Adam Armstrong,4-3-3,4-2-3-1,Joshua Smith,Match Report,,2023-2024,Southampton
+2023-09-23,15:00,Championship,Matchweek 8,Sat,Away,L,1,2,Middlesbrough,1.4,3.0,49,26141,Adam Armstrong,4-3-3,4-2-3-1,Tim Robinson,Match Report,,2023-2024,Southampton
+2023-09-30,12:30,Championship,Matchweek 9,Sat,Home,W,3,1,Leeds United,1.5,0.9,47,30372,Adam Armstrong,4-3-3,4-2-3-1,John Brooks,Match Report,,2023-2024,Southampton
+2023-10-03,20:00,Championship,Matchweek 10,Tue,Away,W,1,0,Stoke City,0.9,0.7,57,20002,Adam Armstrong,4-3-3,4-1-2-1-2,James Bell,Match Report,,2023-2024,Southampton
+2023-10-07,15:00,Championship,Matchweek 11,Sat,Home,D,1,1,Rotherham Utd,3.1,0.1,80,28404,Adam Armstrong,4-3-3,4-5-1,John Busby,Match Report,,2023-2024,Southampton
+2023-10-21,15:00,Championship,Matchweek 12,Sat,Away,W,2,1,Hull City,1.5,1.2,57,21524,Adam Armstrong,4-3-3,4-2-3-1,Geoff Eltringham,Match Report,,2023-2024,Southampton
+2023-10-25,19:45,Championship,Matchweek 13,Wed,Away,D,2,2,Preston,0.8,0.8,71,15346,Adam Armstrong,4-3-3,3-4-3,Jeremy Simpson,Match Report,,2023-2024,Southampton
+2023-10-28,12:30,Championship,Matchweek 14,Sat,Home,W,3,1,Birmingham City,2.3,0.6,70,28924,Adam Armstrong,4-3-3,4-2-3-1,David Webb,Match Report,,2023-2024,Southampton
+2023-11-04,15:00,Championship,Matchweek 15,Sat,Away,W,1,0,Millwall,1.1,0.5,72,18905,Adam Armstrong,4-3-3,4-4-2,James Linington,Match Report,,2023-2024,Southampton
+2023-11-11,15:00,Championship,Matchweek 16,Sat,Home,W,2,1,West Brom,1.1,2.0,52,30160,Adam Armstrong,4-4-2,4-4-2,Tom Nield,Match Report,,2023-2024,Southampton
+2023-11-25,15:00,Championship,Matchweek 17,Sat,Away,D,1,1,Huddersfield,1.5,0.5,77,19387,Adam Armstrong,4-3-3,3-4-3,David Webb,Match Report,,2023-2024,Southampton
+2023-11-29,19:45,Championship,Matchweek 18,Wed,Home,W,1,0,Bristol City,0.7,0.8,66,28047,Adam Armstrong,4-3-2-1,3-4-3,Keith Stroud,Match Report,,2023-2024,Southampton
+2023-12-02,15:00,Championship,Matchweek 19,Sat,Home,W,2,0,Cardiff City,2.5,0.8,64,28659,Adam Armstrong,4-3-2-1,4-2-3-1,James Bell,Match Report,,2023-2024,Southampton
+2023-12-09,15:00,Championship,Matchweek 20,Sat,Away,D,1,1,Watford,0.8,0.6,60,19797,Adam Armstrong,4-3-2-1,4-2-3-1,Geoff Eltringham,Match Report,,2023-2024,Southampton
+2023-12-13,19:45,Championship,Matchweek 21,Wed,Away,D,1,1,Coventry City,0.7,0.6,71,23996,Adam Armstrong,4-3-2-1,4-4-2,Ben Toner,Match Report,,2023-2024,Southampton
+2023-12-16,15:00,Championship,Matchweek 22,Sat,Home,W,4,0,Blackburn,3.9,0.7,73,27545,Adam Armstrong,4-3-2-1,4-3-3,Graham Scott,Match Report,,2023-2024,Southampton
+2023-12-23,15:00,Championship,Matchweek 23,Sat,Away,W,1,0,QPR,1.6,0.4,61,17745,Adam Armstrong,4-3-2-1,4-1-4-1,Oliver Langford,Match Report,,2023-2024,Southampton
+2023-12-26,15:00,Championship,Matchweek 24,Tue,Home,W,5,0,Swansea City,2.0,0.4,60,30279,Jack Stephens,4-3-2-1,4-2-3-1,Keith Stroud,Match Report,,2023-2024,Southampton
+2023-12-29,18:00,Championship,Matchweek 25,Fri,Home,W,2,1,Plymouth Argyle,2.9,0.5,77,30559,Adam Armstrong,4-3-2-1,5-4-1,James Linington,Match Report,,2023-2024,Southampton
+2024-01-01,15:00,Championship,Matchweek 26,Mon,Away,D,1,1,Norwich City,2.5,0.8,75,26467,Jack Stephens,3-4-3,5-4-1,Darren England,Match Report,,2023-2024,Southampton
+2024-01-06,15:00,FA Cup,Third round proper,Sat,Home,W,4,0,Walsall,,,66,22627,Jack Stephens,4-3-3,3-5-2,David Webb,Match Report,,2023-2024,Southampton
+2024-01-13,15:00,Championship,Matchweek 27,Sat,Home,W,4,0,Sheffield Weds,2.4,0.6,70,30189,Adam Armstrong,4-3-3,4-2-3-1,Lewis Smith,Match Report,,2023-2024,Southampton
+2024-01-20,12:30,Championship,Matchweek 28,Sat,Away,W,3,1,Swansea City,3.3,2.2,65,17356,Adam Armstrong,4-3-3,4-3-2-1,Oliver Langford,Match Report,,2023-2024,Southampton
+2024-01-28,14:00,FA Cup,Fourth round proper,Sun,Away,D,1,1,Watford,,,69,16688,Jack Stephens,4-3-3,4-1-4-1,Michael Salisbury,Match Report,,2023-2024,Southampton
+2024-02-03,15:00,Championship,Matchweek 30,Sat,Away,W,2,0,Rotherham Utd,1.5,0.3,73,11179,Adam Armstrong,4-3-3,5-4-1,Sunny Gill,Match Report,,2023-2024,Southampton
+2024-02-06,19:45,FA Cup,Fourth round proper,Tue,Home,W,3,0,Watford,,,59,17844,Jack Stephens,4-3-3,4-1-4-1,Darren Bond,Match Report,,2023-2024,Southampton
+2024-02-10,15:00,Championship,Matchweek 31,Sat,Home,W,5,3,Huddersfield,1.5,1.2,70,29863,Adam Armstrong,4-3-3,3-4-3,David Webb,Match Report,,2023-2024,Southampton
+2024-02-13,20:00,Championship,Matchweek 32,Tue,Away,L,1,3,Bristol City,1.8,1.2,67,24661,Adam Armstrong,4-3-3,4-2-3-1,Matt Donohue,Match Report,,2023-2024,Southampton
+2024-02-16,20:00,Championship,Matchweek 33,Fri,Away,W,2,0,West Brom,1.5,0.7,62,25066,Jack Stephens,4-3-3,4-2-3-1,Samuel Allison,Match Report,,2023-2024,Southampton
+2024-02-20,19:45,Championship,Matchweek 29,Tue,Home,L,1,2,Hull City,1.5,1.8,58,26834,Adam Armstrong,4-4-2,4-4-2,Oliver Langford,Match Report,,2023-2024,Southampton
+2024-02-24,15:00,Championship,Matchweek 34,Sat,Home,L,1,2,Millwall,1.5,1.1,80,30629,Jack Stephens,4-3-3,4-4-2,Thomas Bramall,Match Report,,2023-2024,Southampton
+2024-02-28,20:00,FA Cup,Fifth round proper,Wed,Away,L,0,3,Liverpool,,,48,59782,Jack Stephens,4-3-3,4-3-3,Craig Pawson,Match Report,,2023-2024,Southampton
+2024-03-02,15:00,Championship,Matchweek 35,Sat,Away,W,4,3,Birmingham City,2.4,0.8,77,21611,Jack Stephens,4-3-3,4-2-3-1,James Bell,Match Report,,2023-2024,Southampton
+2024-03-09,15:00,Championship,Matchweek 37,Sat,Home,W,4,2,Sunderland,3.2,0.6,59,30869,Jack Stephens,4-3-3,4-1-4-1,Stuart Attwell,Match Report,,2023-2024,Southampton
+2024-03-29,15:00,Championship,Matchweek 39,Fri,Home,D,1,1,Middlesbrough,2.0,0.5,62,30470,Jack Stephens,4-3-3,4-2-3-1,Matt Donohue,Match Report,,2023-2024,Southampton
+2024-04-01,17:30,Championship,Matchweek 40,Mon,Away,L,2,3,Ipswich Town,1.3,0.9,64,29393,Jack Stephens,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,2023-2024,Southampton
+2024-04-06,15:00,Championship,Matchweek 41,Sat,Away,D,0,0,Blackburn,1.1,1.0,68,15679,Jack Stephens,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2023-2024,Southampton
+2024-04-09,19:45,Championship,Matchweek 42,Tue,Home,W,2,1,Coventry City,1.4,1.5,60,28564,Jack Stephens,4-3-3,4-2-3-1,James Linington,Match Report,,2023-2024,Southampton
+2024-04-13,15:00,Championship,Matchweek 43,Sat,Home,W,3,2,Watford,1.8,0.8,62,30347,Jack Stephens,4-3-3,4-2-3-1,Joshua Smith,Match Report,,2023-2024,Southampton
+2024-04-16,20:00,Championship,Matchweek 36,Tue,Home,W,3,0,Preston,2.8,0.1,77,27636,Adam Armstrong,4-3-3,3-4-1-2,Samuel Barrott,Match Report,,2023-2024,Southampton
+2024-04-20,15:00,Championship,Matchweek 44,Sat,Away,L,1,2,Cardiff City,2.0,1.6,62,22372,Adam Armstrong,4-3-3,4-2-3-1,Oliver Langford,Match Report,,2023-2024,Southampton
+2024-04-23,20:00,Championship,Matchweek 38,Tue,Away,L,0,5,Leicester City,0.3,2.0,66,31872,Adam Armstrong,4-3-3,4-3-3,Robert Madley,Match Report,,2023-2024,Southampton
+2024-04-27,15:00,Championship,Matchweek 45,Sat,Home,L,0,1,Stoke City,1.7,1.9,65,30584,Jack Stephens,4-3-3,4-2-3-1,David Webb,Match Report,,2023-2024,Southampton
+2024-05-04,12:30,Championship,Matchweek 46,Sat,Away,W,2,1,Leeds United,1.1,0.9,43,36766,Jack Stephens,5-3-2,4-2-3-1,Matt Donohue,Match Report,,2023-2024,Southampton
+2024-05-12,14:15,Championship,Semi-finals,Sun,Away,D,0,0,West Brom,1.0,1.0,63,25367,Jack Stephens,3-5-2,4-2-3-1,Samuel Barrott,Match Report,Leg 1 of 2,2023-2024,Southampton
+2024-05-17,20:00,Championship,Semi-finals,Fri,Home,W,3,1,West Brom,1.3,0.8,64,30712,Jack Stephens,4-3-3,4-2-3-1,Tim Robinson,Match Report,Leg 2 of 2; Southampton won,2023-2024,Southampton
+2024-05-26,15:00,Championship,Final,Sun,Neutral,W,1,0,Leeds United,0.4,0.6,43,85862,Jack Stephens,3-5-2,4-2-3-1,John Brooks,Match Report,,2023-2024,Southampton

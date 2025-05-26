@@ -1,0 +1,46 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-13,15:30,DFB-Pokal,First round,Sun,Away,W,7,0,Eintracht Norderstedt,,,77,300.0,Charles Aránguiz,4-1-4-1,4-1-4-1,Sören Storks,Match Report,,2020-2021,Leverkusen
+2020-09-20,18:00,Bundesliga,Matchweek 1,Sun,Away,D,0,0,Wolfsburg,0.5,0.9,59,,Charles Aránguiz,4-1-4-1,4-3-3,Sven Jablonski,Match Report,,2020-2021,Leverkusen
+2020-09-26,15:30,Bundesliga,Matchweek 2,Sat,Home,D,1,1,RB Leipzig,0.9,0.9,59,6042.0,Charles Aránguiz,4-1-4-1,3-4-3,Harm Osmers,Match Report,,2020-2021,Leverkusen
+2020-10-03,15:30,Bundesliga,Matchweek 3,Sat,Away,D,1,1,Stuttgart,1.5,0.8,52,9500.0,Charles Aránguiz,4-1-4-1,3-1-4-2,Robert Hartmann,Match Report,,2020-2021,Leverkusen
+2020-10-17,15:30,Bundesliga,Matchweek 4,Sat,Away,W,1,0,Mainz 05,0.5,0.3,61,250.0,Charles Aránguiz,4-1-4-1,4-2-3-1,Bastian Dankert,Match Report,,2020-2021,Leverkusen
+2020-10-22,18:55,Europa Lg,Group stage,Thu,Home,W,6,2,fr Nice,1.7,0.7,57,,Lars Bender,4-1-4-1,3-5-1-1,Fran Jović,Match Report,,2020-2021,Leverkusen
+2020-10-26,20:30,Bundesliga,Matchweek 5,Mon,Home,W,3,1,Augsburg,2.4,0.3,66,,Lars Bender,4-3-3,4-4-2,Sören Storks,Match Report,,2020-2021,Leverkusen
+2020-10-29,21:00,Europa Lg,Group stage,Thu,Away,L,0,1,cz Slavia Prague,0.8,1.4,50,,Julian Baumgartlinger,4-2-3-1,4-5-1,William Collum,Match Report,,2020-2021,Leverkusen
+2020-11-01,15:30,Bundesliga,Matchweek 6,Sun,Away,W,4,2,Freiburg,1.2,1.2,60,,Lars Bender,4-3-3,4-2-2-2,Benjamin Cortus,Match Report,,2020-2021,Leverkusen
+2020-11-05,19:55,Europa Lg,Group stage,Thu,Away,W,4,2,il Be'er Sheva,1.6,1.6,66,,Jonathan Tah,4-2-3-1,3-4-3,Radu Petrescu,Match Report,,2020-2021,Leverkusen
+2020-11-08,18:00,Bundesliga,Matchweek 7,Sun,Home,W,4,3,Gladbach,1.3,2.7,59,,Lars Bender,4-3-3,4-2-3-1,Harm Osmers,Match Report,,2020-2021,Leverkusen
+2020-11-21,15:30,Bundesliga,Matchweek 8,Sat,Away,W,2,1,Arminia,1.2,0.0,69,,Lars Bender,4-3-3,4-1-4-1,Felix Brych,Match Report,,2020-2021,Leverkusen
+2020-11-26,21:00,Europa Lg,Group stage,Thu,Home,W,4,1,il Be'er Sheva,2.9,0.3,79,,Jonathan Tah,3-1-4-2,5-4-1,Paweł Gil,Match Report,,2020-2021,Leverkusen
+2020-11-29,15:30,Bundesliga,Matchweek 9,Sun,Home,D,0,0,Hertha BSC,1.2,0.6,58,,Lars Bender,4-3-3,4-4-2,Daniel Schlager,Match Report,,2020-2021,Leverkusen
+2020-12-03,21:00,Europa Lg,Group stage,Thu,Away,W,3,2,fr Nice,2.4,1.1,63,,Lars Bender,4-4-2,5-4-1,Maurizio Mariani,Match Report,,2020-2021,Leverkusen
+2020-12-06,18:00,Bundesliga,Matchweek 10,Sun,Away,W,3,0,Schalke 04,2.5,1.4,63,,Lars Bender,4-3-3,4-2-3-1,Benjamin Cortus,Match Report,,2020-2021,Leverkusen
+2020-12-10,18:55,Europa Lg,Group stage,Thu,Home,W,4,0,cz Slavia Prague,4.3,0.3,54,,Julian Baumgartlinger,4-2-3-1,4-5-1,Anastasios Sidiropoulos,Match Report,,2020-2021,Leverkusen
+2020-12-13,18:00,Bundesliga,Matchweek 11,Sun,Home,W,4,1,Hoffenheim,2.2,1.6,60,,Lars Bender,4-3-3,4-1-3-2,Martin Petersen,Match Report,,2020-2021,Leverkusen
+2020-12-16,20:30,Bundesliga,Matchweek 12,Wed,Away,W,4,0,Köln,1.6,0.4,66,,Lars Bender,4-2-3-1,3-1-4-2,Tobias Stieler,Match Report,,2020-2021,Leverkusen
+2020-12-19,18:30,Bundesliga,Matchweek 13,Sat,Home,L,1,2,Bayern Munich,0.3,1.1,51,,Julian Baumgartlinger,4-3-3,4-2-3-1,Felix Zwayer,Match Report,,2020-2021,Leverkusen
+2021-01-02,15:30,Bundesliga,Matchweek 14,Sat,Away,L,1,2,Eint Frankfurt,0.8,1.5,65,,Julian Baumgartlinger,4-3-3,3-4-3,Felix Brych,Match Report,,2020-2021,Leverkusen
+2021-01-09,15:30,Bundesliga,Matchweek 15,Sat,Home,D,1,1,Werder Bremen,0.7,0.3,73,,Julian Baumgartlinger,4-3-3,3-5-2,Benjamin Cortus,Match Report,,2020-2021,Leverkusen
+2021-01-12,20:45,DFB-Pokal,Second round,Tue,Home,W,4,1,Eint Frankfurt,,,52,,Lars Bender,4-3-3,3-4-3,Christian Dingert,Match Report,,2020-2021,Leverkusen
+2021-01-15,20:30,Bundesliga,Matchweek 16,Fri,Away,L,0,1,Union Berlin,0.9,1.4,67,,Julian Baumgartlinger,4-3-3,3-1-4-2,Florian Badstübner,Match Report,,2020-2021,Leverkusen
+2021-01-19,20:30,Bundesliga,Matchweek 17,Tue,Home,W,2,1,Dortmund,1.9,1.6,48,,Charles Aránguiz,4-3-3,4-2-3-1,Felix Zwayer,Match Report,,2020-2021,Leverkusen
+2021-01-23,15:30,Bundesliga,Matchweek 18,Sat,Home,L,0,1,Wolfsburg,1.3,1.0,64,,Charles Aránguiz,4-3-3,4-2-3-1,Marco Fritz,Match Report,,2020-2021,Leverkusen
+2021-01-30,18:30,Bundesliga,Matchweek 19,Sat,Away,L,0,1,RB Leipzig,0.7,1.4,54,,Charles Aránguiz,4-3-3,3-1-4-2,Harm Osmers,Match Report,,2020-2021,Leverkusen
+2021-02-02,18:30,DFB-Pokal,Round of 16,Tue,Away,L,1,2,Rot-Weiss Essen,,,69,,Charles Aránguiz,3-4-1-2,5-3-2,Daniel Schlager,Match Report,Required Extra Time,2020-2021,Leverkusen
+2021-02-06,15:30,Bundesliga,Matchweek 20,Sat,Home,W,5,2,Stuttgart,4.1,1.7,55,,Charles Aránguiz,4-3-3,3-4-3,Sven Jablonski,Match Report,,2020-2021,Leverkusen
+2021-02-13,15:30,Bundesliga,Matchweek 21,Sat,Home,D,2,2,Mainz 05,1.4,2.6,69,,Charles Aránguiz,4-3-3,3-4-1-2,Guido Winkmann,Match Report,,2020-2021,Leverkusen
+2021-02-18,18:55,Europa Lg,Round of 32,Thu,Away,L,3,4,ch Young Boys,2.7,2.4,59,,Jonathan Tah,4-3-3,4-4-2,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2020-2021,Leverkusen
+2021-02-21,13:30,Bundesliga,Matchweek 22,Sun,Away,D,1,1,Augsburg,0.5,1.0,73,,Charles Aránguiz,4-3-3,4-2-3-1,Christian Dingert,Match Report,,2020-2021,Leverkusen
+2021-02-25,21:00,Europa Lg,Round of 32,Thu,Home,L,0,2,ch Young Boys,1.1,1.9,69,,Charles Aránguiz,3-4-1-2,4-4-2,Davide Massa,Match Report,Leg 2 of 2; Young Boys won,2020-2021,Leverkusen
+2021-02-28,18:00,Bundesliga,Matchweek 23,Sun,Home,L,1,2,Freiburg,1.3,1.3,66,,Charles Aránguiz,4-3-3,4-2-2-2,Felix Zwayer,Match Report,,2020-2021,Leverkusen
+2021-03-06,15:30,Bundesliga,Matchweek 24,Sat,Away,W,1,0,Gladbach,1.4,0.5,57,,Charles Aránguiz,4-3-3,4-2-3-1,Daniel Siebert,Match Report,,2020-2021,Leverkusen
+2021-03-14,13:30,Bundesliga,Matchweek 25,Sun,Home,L,1,2,Arminia,2.2,1.7,75,,Charles Aránguiz,4-3-3,4-4-2,Sascha Stegemann,Match Report,,2020-2021,Leverkusen
+2021-03-21,15:30,Bundesliga,Matchweek 26,Sun,Away,L,0,3,Hertha BSC,1.9,2.0,70,,Charles Aránguiz,4-2-3-1,3-4-1-2,Felix Brych,Match Report,,2020-2021,Leverkusen
+2021-04-03,15:30,Bundesliga,Matchweek 27,Sat,Home,W,2,1,Schalke 04,1.0,1.0,64,,Charles Aránguiz,3-5-1-1,3-5-2,Sven Jablonski,Match Report,,2020-2021,Leverkusen
+2021-04-12,20:30,Bundesliga,Matchweek 28,Mon,Away,D,0,0,Hoffenheim,0.3,0.1,54,,Charles Aránguiz,3-4-3,3-1-4-2,Matthias Jöllenbeck,Match Report,,2020-2021,Leverkusen
+2021-04-17,18:30,Bundesliga,Matchweek 29,Sat,Home,W,3,0,Köln,1.6,1.0,43,,Charles Aránguiz,3-4-3,4-2-3-1,Sören Storks,Match Report,,2020-2021,Leverkusen
+2021-04-20,20:30,Bundesliga,Matchweek 30,Tue,Away,L,0,2,Bayern Munich,0.6,1.7,40,,Charles Aránguiz,3-4-3,4-2-3-1,Guido Winkmann,Match Report,,2020-2021,Leverkusen
+2021-04-24,18:30,Bundesliga,Matchweek 31,Sat,Home,W,3,1,Eint Frankfurt,2.0,2.2,51,,Jonathan Tah,4-2-3-1,3-4-3,Felix Zwayer,Match Report,,2020-2021,Leverkusen
+2021-05-08,15:30,Bundesliga,Matchweek 32,Sat,Away,D,0,0,Werder Bremen,1.1,0.7,62,,Jonathan Tah,4-2-3-1,4-3-2-1,Markus Schmidt,Match Report,,2020-2021,Leverkusen
+2021-05-15,15:30,Bundesliga,Matchweek 33,Sat,Home,D,1,1,Union Berlin,1.5,1.3,49,,Charles Aránguiz,3-4-3,3-5-2,Patrick Ittrich,Match Report,,2020-2021,Leverkusen
+2021-05-22,15:30,Bundesliga,Matchweek 34,Sat,Away,L,1,3,Dortmund,1.8,1.1,47,,Charles Aránguiz,4-2-3-1,4-2-3-1,Manuel Gräfe,Match Report,,2020-2021,Leverkusen

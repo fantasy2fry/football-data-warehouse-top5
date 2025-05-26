@@ -1,0 +1,61 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-06,14:00,Community Shield,FA Community Shield,Sun,Neutral,D,1 (4),1 (1),Chelsea,,,,83325,Per Mertesacker,3-4-3,3-4-3,Robert Madley,Match Report,,2017-2018,Arsenal
+2017-08-11,19:45,Premier League,Matchweek 1,Fri,Home,W,4,3,Leicester City,2.5,1.5,68.0,59387,Petr Čech,3-4-3,4-4-1-1,Mike Dean,Match Report,,2017-2018,Arsenal
+2017-08-19,17:30,Premier League,Matchweek 2,Sat,Away,L,0,1,Stoke City,1.5,0.7,76.0,29459,Petr Čech,3-4-3,3-4-3,Andre Marriner,Match Report,,2017-2018,Arsenal
+2017-08-27,16:00,Premier League,Matchweek 3,Sun,Away,L,0,4,Liverpool,0.6,3.1,52.0,53206,Laurent Koscielny,3-4-3,4-3-3,Craig Pawson,Match Report,,2017-2018,Arsenal
+2017-09-09,15:00,Premier League,Matchweek 4,Sat,Home,W,3,0,Bournemouth,2.2,0.6,58.0,59262,Laurent Koscielny,3-4-3,3-5-1-1,Anthony Taylor,Match Report,,2017-2018,Arsenal
+2017-09-14,21:05,Europa Lg,Group stage,Thu,Home,W,3,1,de Köln,1.4,0.4,71.0,59359,Per Mertesacker,3-4-3,4-1-4-1,Javier Estrada,Match Report,,2017-2018,Arsenal
+2017-09-17,13:30,Premier League,Matchweek 5,Sun,Away,D,0,0,Chelsea,1.4,0.8,49.0,41478,Laurent Koscielny,3-4-3,3-4-3,Michael Oliver,Match Report,,2017-2018,Arsenal
+2017-09-20,19:45,EFL Cup,Third round,Wed,Home,W,1,0,Doncaster,,,57.0,44064,Per Mertesacker,3-4-3,5-4-1,Scott Duncan,Match Report,,2017-2018,Arsenal
+2017-09-25,20:00,Premier League,Matchweek 6,Mon,Home,W,2,0,West Brom,2.2,0.9,69.0,59134,Laurent Koscielny,3-4-3,3-5-2,Robert Madley,Match Report,,2017-2018,Arsenal
+2017-09-28,20:00,Europa Lg,Group stage,Thu,Away,W,4,2,by BATE Borisov,3.8,1.8,61.0,13100,Per Mertesacker,3-4-3,4-2-3-1,Daniel Stefański,Match Report,,2017-2018,Arsenal
+2017-10-01,12:00,Premier League,Matchweek 7,Sun,Home,W,2,0,Brighton,2.4,0.4,64.0,59378,Petr Čech,3-4-3,4-5-1,Kevin Friend,Match Report,,2017-2018,Arsenal
+2017-10-14,17:30,Premier League,Matchweek 8,Sat,Away,L,1,2,Watford,1.0,1.6,54.0,20384,Per Mertesacker,3-4-3,3-4-3,Niel Swarbrick,Match Report,,2017-2018,Arsenal
+2017-10-19,19:00,Europa Lg,Group stage,Thu,Away,W,1,0,rs Red Star,1.5,0.7,60.0,50327,Petr Čech,3-4-3,4-5-1,Benoît Bastien,Match Report,,2017-2018,Arsenal
+2017-10-22,13:30,Premier League,Matchweek 9,Sun,Away,W,5,2,Everton,3.5,1.0,67.0,39189,Per Mertesacker,3-4-3,3-4-3,Craig Pawson,Match Report,,2017-2018,Arsenal
+2017-10-24,19:45,EFL Cup,Fourth round,Tue,Home,W,2,1,Norwich City,,,57.0,58444,Theo Walcott,3-4-3,4-2-3-1,Andy Madley,Match Report,Required Extra Time,2017-2018,Arsenal
+2017-10-28,15:00,Premier League,Matchweek 10,Sat,Home,W,2,1,Swansea City,2.0,0.9,72.0,59493,Per Mertesacker,3-4-3,3-5-2,Lee Mason,Match Report,,2017-2018,Arsenal
+2017-11-02,20:05,Europa Lg,Group stage,Thu,Home,D,0,0,rs Red Star,0.8,1.1,63.0,58285,Theo Walcott,3-4-3,4-2-3-1,Luca Banti,Match Report,,2017-2018,Arsenal
+2017-11-05,14:15,Premier League,Matchweek 11,Sun,Away,L,1,3,Manchester City,0.3,1.8,43.0,54286,Laurent Koscielny,3-4-3,4-3-3,Michael Oliver,Match Report,,2017-2018,Arsenal
+2017-11-18,12:30,Premier League,Matchweek 12,Sat,Home,W,2,0,Tottenham,2.1,0.7,43.0,59530,Laurent Koscielny,3-4-3,3-5-2,Mike Dean,Match Report,,2017-2018,Arsenal
+2017-11-23,19:00,Europa Lg,Group stage,Thu,Away,L,0,1,de Köln,1.3,0.9,69.0,45300,Per Mertesacker,3-4-3,3-4-3,Vladislav Bezborodov,Match Report,,2017-2018,Arsenal
+2017-11-26,14:00,Premier League,Matchweek 13,Sun,Away,W,1,0,Burnley,1.8,0.4,64.0,21722,Laurent Koscielny,3-4-3,4-4-1-1,Lee Mason,Match Report,,2017-2018,Arsenal
+2017-11-29,19:45,Premier League,Matchweek 14,Wed,Home,W,5,0,Huddersfield,4.0,0.5,69.0,59285,Laurent Koscielny,3-4-3,3-4-3,Graham Scott,Match Report,,2017-2018,Arsenal
+2017-12-02,17:30,Premier League,Matchweek 15,Sat,Home,L,1,3,Manchester Utd,4.7,1.8,75.0,59547,Laurent Koscielny,3-4-3,3-4-1-2,Andre Marriner,Match Report,,2017-2018,Arsenal
+2017-12-07,20:05,Europa Lg,Group stage,Thu,Home,W,6,0,by BATE Borisov,3.1,0.5,70.0,25909,Theo Walcott,4-2-3-1,4-2-3-1,Robert Schörgenhofer,Match Report,,2017-2018,Arsenal
+2017-12-10,12:00,Premier League,Matchweek 16,Sun,Away,D,1,1,Southampton,0.7,1.3,67.0,31643,Per Mertesacker,3-4-3,4-2-3-1,Robert Madley,Match Report,,2017-2018,Arsenal
+2017-12-13,20:00,Premier League,Matchweek 17,Wed,Away,D,0,0,West Ham,1.0,0.4,69.0,56921,Laurent Koscielny,4-3-3,5-3-2,Jonathan Moss,Match Report,,2017-2018,Arsenal
+2017-12-16,15:00,Premier League,Matchweek 18,Sat,Home,W,1,0,Newcastle Utd,1.8,0.3,71.0,59379,Laurent Koscielny,4-3-3,4-4-2,Stuart Attwell,Match Report,,2017-2018,Arsenal
+2017-12-19,19:45,EFL Cup,Quarter-finals,Tue,Home,W,1,0,West Ham,,,67.0,44741,Theo Walcott,4-3-3,5-3-2,Kevin Friend,Match Report,,2017-2018,Arsenal
+2017-12-22,19:45,Premier League,Matchweek 19,Fri,Home,D,3,3,Liverpool,1.2,2.0,54.0,59409,Laurent Koscielny,4-2-3-1,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Arsenal
+2017-12-28,20:00,Premier League,Matchweek 20,Thu,Away,W,3,2,Crystal Palace,1.8,1.3,64.0,25762,Laurent Koscielny,3-4-3,4-4-2,Michael Oliver,Match Report,,2017-2018,Arsenal
+2017-12-31,16:30,Premier League,Matchweek 21,Sun,Away,D,1,1,West Brom,0.9,1.5,65.0,26223,Laurent Koscielny,3-4-3,5-3-2,Mike Dean,Match Report,,2017-2018,Arsenal
+2018-01-03,19:45,Premier League,Matchweek 22,Wed,Home,D,2,2,Chelsea,1.2,3.0,58.0,59379,Petr Čech,3-4-3,3-5-1-1,Anthony Taylor,Match Report,,2017-2018,Arsenal
+2018-01-07,16:00,FA Cup,Third round,Sun,Away,L,2,4,Nott'ham Forest,,,69.0,27182,Per Mertesacker,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Arsenal
+2018-01-10,20:00,EFL Cup,Semi-finals,Wed,Away,D,0,0,Chelsea,,,46.0,40097,Jack Wilshere,3-4-3,3-5-1-1,Martin Atkinson,Match Report,Leg 1 of 2,2017-2018,Arsenal
+2018-01-14,13:30,Premier League,Matchweek 23,Sun,Away,L,1,2,Bournemouth,1.1,0.8,59.0,10836,Petr Čech,3-4-3,3-4-3,Kevin Friend,Match Report,,2017-2018,Arsenal
+2018-01-20,15:00,Premier League,Matchweek 24,Sat,Home,W,4,1,Crystal Palace,2.9,0.6,63.0,59386,Laurent Koscielny,4-1-4-1,4-4-2,Chris Kavanagh,Match Report,,2017-2018,Arsenal
+2018-01-24,20:00,EFL Cup,Semi-finals,Wed,Home,W,2,1,Chelsea,,,52.0,58964,Laurent Koscielny,4-3-3,3-4-3,Michael Oliver,Match Report,Leg 2 of 2; Arsenal won,2017-2018,Arsenal
+2018-01-30,19:45,Premier League,Matchweek 25,Tue,Away,L,1,3,Swansea City,1.3,2.1,74.0,20819,Laurent Koscielny,4-3-3,5-4-1,Lee Mason,Match Report,,2017-2018,Arsenal
+2018-02-03,17:30,Premier League,Matchweek 26,Sat,Home,W,5,1,Everton,2.6,1.2,57.0,59306,Laurent Koscielny,4-2-3-1,3-4-3,Niel Swarbrick,Match Report,,2017-2018,Arsenal
+2018-02-10,12:30,Premier League,Matchweek 27,Sat,Away,L,0,1,Tottenham,0.6,2.6,50.0,83222,Laurent Koscielny,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2017-2018,Arsenal
+2018-02-15,19:00,Europa Lg,Round of 32,Thu,Away,W,3,0,se Östersund,1.5,1.2,61.0,7665,David Ospina,4-2-3-1,3-5-2,David Fernández,Match Report,Leg 1 of 2,2017-2018,Arsenal
+2018-02-22,20:05,Europa Lg,Round of 32,Thu,Home,L,1,2,se Östersund,1.4,0.7,56.0,58405,Jack Wilshere,4-2-3-1,4-4-2,Ivan Kružliak,Match Report,Leg 2 of 2; Arsenal won,2017-2018,Arsenal
+2018-02-25,16:30,EFL Cup,Final,Sun,Home,L,0,3,Manchester City,,,44.0,85671,Laurent Koscielny,3-4-3,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Arsenal
+2018-03-01,19:45,Premier League,Matchweek 28,Thu,Home,L,0,3,Manchester City,1.3,1.5,46.0,58420,Laurent Koscielny,4-2-3-1,4-3-3,Andre Marriner,Match Report,,2017-2018,Arsenal
+2018-03-04,13:30,Premier League,Matchweek 29,Sun,Away,L,1,2,Brighton,1.2,1.2,67.0,30620,Laurent Koscielny,4-2-3-1,4-4-1-1,Stuart Attwell,Match Report,,2017-2018,Arsenal
+2018-03-08,19:00,Europa Lg,Round of 16,Thu,Away,W,2,0,it Milan,1.4,1.3,49.0,72821,Laurent Koscielny,4-2-3-1,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,2017-2018,Arsenal
+2018-03-11,13:30,Premier League,Matchweek 30,Sun,Home,W,3,0,Watford,2.2,1.4,59.0,59131,Petr Čech,4-2-3-1,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Arsenal
+2018-03-15,20:05,Europa Lg,Round of 16,Thu,Home,W,3,1,it Milan,2.6,1.1,57.0,58973,Laurent Koscielny,4-2-3-1,4-4-2,Jonas Eriksson,Match Report,Leg 2 of 2; Arsenal won,2017-2018,Arsenal
+2018-04-01,13:30,Premier League,Matchweek 32,Sun,Home,W,3,0,Stoke City,3.3,0.4,69.0,59371,Jack Wilshere,4-2-3-1,4-4-1-1,Craig Pawson,Match Report,,2017-2018,Arsenal
+2018-04-05,20:05,Europa Lg,Quarter-finals,Thu,Home,W,4,1,ru CSKA Moscow,3.9,1.0,57.0,58285,Laurent Koscielny,4-3-3,3-4-3,Pavel Královec,Match Report,Leg 1 of 2,2017-2018,Arsenal
+2018-04-08,14:15,Premier League,Matchweek 33,Sun,Home,W,3,2,Southampton,1.6,2.0,64.0,59374,Petr Čech,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2017-2018,Arsenal
+2018-04-12,22:05,Europa Lg,Quarter-finals,Thu,Away,D,2,2,ru CSKA Moscow,2.1,1.6,47.0,29284,Laurent Koscielny,4-3-3,3-1-4-2,Felix Zwayer,Match Report,Leg 2 of 2; Arsenal won,2017-2018,Arsenal
+2018-04-15,13:30,Premier League,Matchweek 34,Sun,Away,L,1,2,Newcastle Utd,1.2,0.8,71.0,52210,Petr Čech,4-3-3,4-4-1-1,Anthony Taylor,Match Report,,2017-2018,Arsenal
+2018-04-22,13:30,Premier League,Matchweek 35,Sun,Home,W,4,1,West Ham,1.8,0.8,67.0,59422,Laurent Koscielny,4-3-3,3-4-3,Lee Mason,Match Report,,2017-2018,Arsenal
+2018-04-26,20:05,Europa Lg,Semi-finals,Thu,Home,D,1,1,es Atlético Madrid,2.6,1.0,75.0,59066,Laurent Koscielny,4-3-2-1,4-4-2,Clément Turpin,Match Report,Leg 1 of 2,2017-2018,Arsenal
+2018-04-29,16:30,Premier League,Matchweek 36,Sun,Away,L,1,2,Manchester Utd,0.5,1.7,41.0,75035,Granit Xhaka,4-2-3-1,4-3-3,Kevin Friend,Match Report,,2017-2018,Arsenal
+2018-05-03,21:05,Europa Lg,Semi-finals,Thu,Away,L,0,1,es Atlético Madrid,0.3,1.9,54.0,64196,Laurent Koscielny,4-3-2-1,4-4-2,Gianluca Rocchi,Match Report,Leg 2 of 2; Atlético Madrid won,2017-2018,Arsenal
+2018-05-06,16:30,Premier League,Matchweek 37,Sun,Home,W,5,0,Burnley,2.6,0.3,63.0,59540,Petr Čech,4-3-3,4-4-1-1,Andre Marriner,Match Report,,2017-2018,Arsenal
+2018-05-09,19:45,Premier League,Matchweek 31,Wed,Away,L,1,3,Leicester City,1.4,2.2,59.0,32095,Petr Čech,4-3-3,4-4-2,Graham Scott,Match Report,,2017-2018,Arsenal
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,W,1,0,Huddersfield,2.0,1.7,55.0,24122,Aaron Ramsey,4-3-3,5-3-2,Michael Oliver,Match Report,,2017-2018,Arsenal

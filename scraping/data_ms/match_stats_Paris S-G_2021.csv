@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-01,21:00,Trophée des Champions,Trophée des Champions,Sun,Neutral,L,0,1,Lille,,,71,29000,Presnel Kimpembe,4-3-3,4-4-2,Igal Frid,Match Report,,2021-2022,Paris S-G
+2021-08-07,21:00,Ligue 1,Matchweek 1,Sat,Away,W,2,1,Troyes,1.2,0.9,56,15248,Presnel Kimpembe,4-4-2,5-4-1,Amaury Delerue,Match Report,,2021-2022,Paris S-G
+2021-08-14,21:00,Ligue 1,Matchweek 2,Sat,Home,W,4,2,Strasbourg,3.1,0.7,65,46962,Presnel Kimpembe,4-3-3,5-3-2,Willy Delajod,Match Report,,2021-2022,Paris S-G
+2021-08-20,21:00,Ligue 1,Matchweek 3,Fri,Away,W,4,2,Brest,0.9,1.1,74,14586,Presnel Kimpembe,4-1-2-1-2◆,4-2-3-1,Eric Wattellier,Match Report,,2021-2022,Paris S-G
+2021-08-29,20:45,Ligue 1,Matchweek 4,Sun,Away,W,2,0,Reims,1.3,0.7,67,20525,Marquinhos,4-3-3,3-1-4-2,François Letexier,Match Report,,2021-2022,Paris S-G
+2021-09-11,17:00,Ligue 1,Matchweek 5,Sat,Home,W,4,0,Clermont Foot,2.5,0.9,51,47329,Marquinhos,4-3-3,4-2-3-1,Mikael Lesage,Match Report,,2021-2022,Paris S-G
+2021-09-15,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,be Club Brugge,1.4,1.3,64,27546,Marquinhos,4-3-3,4-4-1-1,Sandro Schärer,Match Report,,2021-2022,Paris S-G
+2021-09-19,20:45,Ligue 1,Matchweek 6,Sun,Home,W,2,1,Lyon,2.0,0.8,54,47611,Marquinhos,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2021-2022,Paris S-G
+2021-09-22,21:00,Ligue 1,Matchweek 7,Wed,Away,W,2,1,Metz,1.3,0.9,74,2661,Marquinhos,4-1-2-1-2◆,4-5-1,Jérémie Pignard,Match Report,,2021-2022,Paris S-G
+2021-09-25,21:00,Ligue 1,Matchweek 8,Sat,Home,W,2,0,Montpellier,2.1,0.2,53,47408,Marquinhos,4-3-3,4-2-3-1,Antony Gautier,Match Report,,2021-2022,Paris S-G
+2021-09-28,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,eng Manchester City,0.4,1.9,46,37350,Marquinhos,4-3-3,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Paris S-G
+2021-10-03,13:00,Ligue 1,Matchweek 9,Sun,Away,L,0,2,Rennes,1.5,1.0,67,28092,Marquinhos,4-2-3-1,4-4-2,Ruddy Buquet,Match Report,,2021-2022,Paris S-G
+2021-10-15,21:00,Ligue 1,Matchweek 10,Fri,Home,W,2,1,Angers,2.0,1.1,72,47646,Presnel Kimpembe,4-3-3,3-4-1-2,Bastien Dechepy,Match Report,,2021-2022,Paris S-G
+2021-10-19,21:00,Champions Lg,Group stage,Tue,Home,W,3,2,de RB Leipzig,3.0,2.1,64,47359,Marquinhos,4-3-3,3-5-2,Marco Guida,Match Report,,2021-2022,Paris S-G
+2021-10-24,20:45,Ligue 1,Matchweek 11,Sun,Away,D,0,0,Marseille,1.4,1.1,52,65121,Marquinhos,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2021-2022,Paris S-G
+2021-10-29,21:00,Ligue 1,Matchweek 12,Fri,Home,W,2,1,Lille,2.1,1.8,59,47874,Marquinhos,4-3-3,4-4-2,Amaury Delerue,Match Report,,2021-2022,Paris S-G
+2021-11-03,21:00,Champions Lg,Group stage,Wed,Away,D,2,2,de RB Leipzig,2.1,3.3,46,39794,Marquinhos,4-3-3,3-4-3,Andreas Ekberg,Match Report,,2021-2022,Paris S-G
+2021-11-06,21:00,Ligue 1,Matchweek 13,Sat,Away,W,3,2,Bordeaux,1.5,1.4,56,41172,Marquinhos,4-3-3,4-4-1-1,Ruddy Buquet,Match Report,,2021-2022,Paris S-G
+2021-11-20,17:00,Ligue 1,Matchweek 14,Sat,Home,W,3,1,Nantes,1.8,1.4,66,47777,Marco Verratti,4-3-3,4-2-3-1,Jeremy Stinat,Match Report,,2021-2022,Paris S-G
+2021-11-24,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,eng Manchester City,1.0,2.1,46,52030,Marquinhos,4-3-3,4-3-3,Daniele Orsato,Match Report,,2021-2022,Paris S-G
+2021-11-28,13:00,Ligue 1,Matchweek 15,Sun,Away,W,3,1,Saint-Étienne,2.7,0.8,71,24586,Marquinhos,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2021-2022,Paris S-G
+2021-12-01,21:00,Ligue 1,Matchweek 16,Wed,Home,D,0,0,Nice,1.9,1.0,70,47502,Marquinhos,4-3-3,4-4-2,Clément Turpin,Match Report,,2021-2022,Paris S-G
+2021-12-04,21:00,Ligue 1,Matchweek 17,Sat,Away,D,1,1,Lens,1.9,1.1,64,36685,Marquinhos,4-3-3,3-4-3,François Letexier,Match Report,,2021-2022,Paris S-G
+2021-12-07,18:45,Champions Lg,Group stage,Tue,Home,W,4,1,be Club Brugge,3.6,1.1,60,47492,Marquinhos,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2021-2022,Paris S-G
+2021-12-12,20:45,Ligue 1,Matchweek 18,Sun,Home,W,2,0,Monaco,1.6,0.7,53,41154,Marquinhos,4-3-3,4-2-3-1,Benoît Bastien,Match Report,,2021-2022,Paris S-G
+2021-12-19,21:10,Coupe de France,Round of 64,Sun,Away,W,3,0,SC Feignies,,,76,22471,Presnel Kimpembe,4-3-3,4-2-3-1,Florent Batta,Match Report,,2021-2022,Paris S-G
+2021-12-22,21:00,Ligue 1,Matchweek 19,Wed,Away,D,1,1,Lorient,1.8,1.6,77,16603,Marquinhos,4-2-2-2,4-4-2,Jérémie Pignard,Match Report,,2021-2022,Paris S-G
+2022-01-03,21:10,Coupe de France,Round of 32,Mon,Away,W,4,0,Vannes,,,66,4952,Presnel Kimpembe,4-3-3,4-3-3,Jeremy Stinat,Match Report,,2021-2022,Paris S-G
+2022-01-09,20:45,Ligue 1,Matchweek 20,Sun,Away,D,1,1,Lyon,1.0,1.0,68,4977,Marquinhos,4-3-3,3-4-3,François Letexier,Match Report,,2021-2022,Paris S-G
+2022-01-15,21:00,Ligue 1,Matchweek 21,Sat,Home,W,2,0,Brest,2.0,1.0,68,4925,Marquinhos,4-3-3,4-4-2,Mikael Lesage,Match Report,,2021-2022,Paris S-G
+2022-01-23,20:45,Ligue 1,Matchweek 22,Sun,Home,W,4,0,Reims,2.3,0.5,68,5000,Marquinhos,4-3-3,5-4-1,Eric Wattellier,Match Report,,2021-2022,Paris S-G
+2022-01-31,21:15,Coupe de France,Round of 16,Mon,Home,D,0 (5),0 (6),Nice,,,68,5000,Presnel Kimpembe,4-3-3,4-4-2,Jérémie Pignard,Match Report,Nice won on penalty kicks following extra time,2021-2022,Paris S-G
+2022-02-06,20:45,Ligue 1,Matchweek 23,Sun,Away,W,5,1,Lille,3.9,1.0,59,48437,Marquinhos,4-3-3,4-4-2,François Letexier,Match Report,,2021-2022,Paris S-G
+2022-02-11,21:00,Ligue 1,Matchweek 24,Fri,Home,W,1,0,Rennes,0.9,0.8,63,47000,Marquinhos,4-3-3,4-3-3,Benoît Bastien,Match Report,,2021-2022,Paris S-G
+2022-02-15,21:00,Champions Lg,Round of 16,Tue,Home,W,1,0,es Real Madrid,2.0,0.2,57,47443,Marquinhos,4-3-3,4-3-3,Daniele Orsato,Match Report,Leg 1 of 2,2021-2022,Paris S-G
+2022-02-19,21:00,Ligue 1,Matchweek 25,Sat,Away,L,1,3,Nantes,3.4,2.4,72,35500,Marquinhos,4-3-3,5-3-2,Mikael Lesage,Match Report,,2021-2022,Paris S-G
+2022-02-26,21:00,Ligue 1,Matchweek 26,Sat,Home,W,3,1,Saint-Étienne,2.1,0.8,62,45000,Marquinhos,4-3-3,5-4-1,Pierre Gaillouste,Match Report,,2021-2022,Paris S-G
+2022-03-05,21:00,Ligue 1,Matchweek 27,Sat,Away,L,0,1,Nice,0.4,0.9,57,31949,Marquinhos,4-3-3,4-4-2,Willy Delajod,Match Report,,2021-2022,Paris S-G
+2022-03-09,21:00,Champions Lg,Round of 16,Wed,Away,L,1,3,es Real Madrid,0.8,2.0,56,59895,Marquinhos,4-3-3,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Real Madrid won,2021-2022,Paris S-G
+2022-03-13,13:00,Ligue 1,Matchweek 28,Sun,Home,W,3,0,Bordeaux,1.2,0.8,57,44000,Marquinhos,4-3-3,3-4-3,François Letexier,Match Report,,2021-2022,Paris S-G
+2022-03-20,13:00,Ligue 1,Matchweek 29,Sun,Away,L,0,3,Monaco,1.0,1.9,60,16642,Marquinhos,4-3-3,4-1-4-1,Benoît Bastien,Match Report,,2021-2022,Paris S-G
+2022-04-03,20:45,Ligue 1,Matchweek 30,Sun,Home,W,5,1,Lorient,1.9,0.6,66,40000,Marquinhos,4-4-2,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2021-2022,Paris S-G
+2022-04-09,21:00,Ligue 1,Matchweek 31,Sat,Away,W,6,1,Clermont Foot,3.7,1.4,63,12264,Presnel Kimpembe,4-3-3,4-2-3-1,Eric Wattellier,Match Report,,2021-2022,Paris S-G
+2022-04-17,20:45,Ligue 1,Matchweek 32,Sun,Home,W,2,1,Marseille,1.5,0.9,43,46000,Marquinhos,4-3-3,4-3-3,François Letexier,Match Report,,2021-2022,Paris S-G
+2022-04-20,21:00,Ligue 1,Matchweek 33,Wed,Away,W,3,0,Angers,1.7,0.8,58,13000,Marquinhos,3-5-2,5-3-2,Johan Hamel,Match Report,,2021-2022,Paris S-G
+2022-04-23,21:00,Ligue 1,Matchweek 34,Sat,Home,D,1,1,Lens,2.0,0.8,66,47000,Marquinhos,3-4-3,3-4-3,Amaury Delerue,Match Report,,2021-2022,Paris S-G
+2022-04-29,21:00,Ligue 1,Matchweek 35,Fri,Away,D,3,3,Strasbourg,2.3,1.7,56,26052,Marquinhos,3-4-3,5-3-2,Ruddy Buquet,Match Report,,2021-2022,Paris S-G
+2022-05-08,20:45,Ligue 1,Matchweek 36,Sun,Home,D,2,2,Troyes,2.4,1.7,63,45000,Marquinhos,4-2-3-1,5-4-1,Jérôme Brisard,Match Report,,2021-2022,Paris S-G
+2022-05-14,21:00,Ligue 1,Matchweek 37,Sat,Away,W,4,0,Montpellier,2.7,0.7,69,19586,Marquinhos,4-3-3,5-4-1,Jeremy Stinat,Match Report,,2021-2022,Paris S-G
+2022-05-21,21:00,Ligue 1,Matchweek 38,Sat,Home,W,5,0,Metz,5.4,0.7,75,45000,Marquinhos,4-2-3-1,5-4-1,Antony Gautier,Match Report,,2021-2022,Paris S-G

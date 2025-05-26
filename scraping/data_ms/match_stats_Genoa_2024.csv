@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-09,20:45,Coppa Italia,First round,Fri,Home,W,1,0,Reggiana,,,54,25000.0,Milan Badelj,3-5-2,4-5-1,,Match Report,,2024-2025,Genoa
+2024-08-17,18:30,Serie A,Matchweek 1,Sat,Home,D,2,2,Inter,2.1,1.9,32,33300.0,Milan Badelj,3-5-2,3-5-2,Ermanno Feliciani,Match Report,,2024-2025,Genoa
+2024-08-24,20:45,Serie A,Matchweek 2,Sat,Away,W,1,0,Monza,0.7,0.4,31,10394.0,Milan Badelj,3-5-2,3-4-3,Maurizio Mariani,Match Report,,2024-2025,Genoa
+2024-09-01,18:30,Serie A,Matchweek 3,Sun,Home,L,0,2,Hellas Verona,1.5,1.5,58,30747.0,Milan Badelj,3-5-2,3-4-3,Giovanni Ayroldi,Match Report,,2024-2025,Genoa
+2024-09-15,12:30,Serie A,Matchweek 4,Sun,Home,D,1,1,Roma,1.2,2.2,48,33009.0,Milan Badelj,3-5-2,3-5-1-1,Antonio Giua,Match Report,,2024-2025,Genoa
+2024-09-21,15:00,Serie A,Matchweek 5,Sat,Away,L,0,2,Venezia,0.5,1.7,51,10502.0,Milan Badelj,3-5-2,3-5-2,Matteo Marchetti,Match Report,,2024-2025,Genoa
+2024-09-25,21:00,Coppa Italia,Second round,Wed,Home,D,1 (5),1 (6),Sampdoria,,,35,28575.0,Milan Badelj,3-5-2,3-5-2,Federico La Penna,Match Report,Sampdoria won on penalty kicks following extra time,2024-2025,Genoa
+2024-09-28,18:00,Serie A,Matchweek 6,Sat,Home,L,0,3,Juventus,0.4,2.6,35,26599.0,Milan Badelj,3-5-2,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Genoa
+2024-10-05,18:00,Serie A,Matchweek 7,Sat,Away,L,1,5,Atalanta,0.7,3.6,37,23138.0,Mattia Bani,3-5-2,3-4-3,Daniele Chiffi,Match Report,,2024-2025,Genoa
+2024-10-19,15:00,Serie A,Matchweek 8,Sat,Home,D,2,2,Bologna,0.4,0.7,39,30000.0,Morten Frendrup,3-5-1-1,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Genoa
+2024-10-27,15:00,Serie A,Matchweek 9,Sun,Away,L,0,3,Lazio,0.3,2.1,39,40000.0,Alessandro Vogliacco,4-2-3-1,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Genoa
+2024-10-31,18:30,Serie A,Matchweek 10,Thu,Home,L,0,1,Fiorentina,0.9,0.5,33,30254.0,Milan Badelj,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2024-2025,Genoa
+2024-11-04,18:30,Serie A,Matchweek 11,Mon,Away,W,1,0,Parma,1.4,1.1,45,16151.0,Milan Badelj,3-5-2,4-3-3,Marco Guida,Match Report,,2024-2025,Genoa
+2024-11-07,20:45,Serie A,Matchweek 12,Thu,Home,D,1,1,Como,0.9,1.4,42,30708.0,Milan Badelj,3-5-2,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Genoa
+2024-11-24,12:30,Serie A,Matchweek 13,Sun,Home,D,2,2,Cagliari,1.7,3.0,52,31070.0,Milan Badelj,4-5-1,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Genoa
+2024-12-01,12:30,Serie A,Matchweek 14,Sun,Away,W,2,0,Udinese,1.6,0.2,54,21995.0,Milan Badelj,4-1-4-1,4-4-2,Gianluca Aureliano,Match Report,,2024-2025,Genoa
+2024-12-07,15:00,Serie A,Matchweek 15,Sat,Home,D,0,0,Torino,0.5,0.6,52,32363.0,Milan Badelj,4-2-3-1,3-5-2,Livio Marinelli,Match Report,,2024-2025,Genoa
+2024-12-15,20:45,Serie A,Matchweek 16,Sun,Away,D,0,0,Milan,0.3,1.1,43,70078.0,Milan Badelj,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,2024-2025,Genoa
+2024-12-21,18:00,Serie A,Matchweek 17,Sat,Home,L,1,2,Napoli,1.0,1.2,38,33435.0,Milan Badelj,4-2-3-1,4-3-3,Federico La Penna,Match Report,,2024-2025,Genoa
+2024-12-28,15:00,Serie A,Matchweek 18,Sat,Away,W,2,1,Empoli,1.8,1.3,42,12657.0,Milan Badelj,4-2-3-1,4-4-2,Antonio Rapuano,Match Report,,2024-2025,Genoa
+2025-01-05,15:00,Serie A,Matchweek 19,Sun,Away,D,0,0,Lecce,1.1,0.6,37,26436.0,Milan Badelj,4-1-4-1,4-3-3,Livio Marinelli,Match Report,,2024-2025,Genoa
+2025-01-12,12:30,Serie A,Matchweek 20,Sun,Home,W,1,0,Parma,1.2,0.4,61,31689.0,Milan Badelj,4-1-4-1,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Genoa
+2025-01-17,20:45,Serie A,Matchweek 21,Fri,Away,L,1,3,Roma,0.5,1.6,48,62217.0,Mattia Bani,4-2-3-1,3-5-2,Luca Zufferli,Match Report,,2024-2025,Genoa
+2025-01-27,20:45,Serie A,Matchweek 22,Mon,Home,W,2,0,Monza,2.6,0.4,50,29976.0,Morten Frendrup,4-2-3-1,3-4-3,Daniele Doveri,Match Report,,2024-2025,Genoa
+2025-02-02,15:00,Serie A,Matchweek 23,Sun,Away,L,1,2,Fiorentina,1.6,0.7,59,19088.0,Morten Frendrup,4-2-3-1,4-2-3-1,Giuseppe Collu,Match Report,,2024-2025,Genoa
+2025-02-08,20:45,Serie A,Matchweek 24,Sat,Away,D,1,1,Torino,0.3,0.7,43,22359.0,Milan Badelj,4-4-2,3-4-3,Ermanno Feliciani,Match Report,,2024-2025,Genoa
+2025-02-17,20:45,Serie A,Matchweek 25,Mon,Home,W,2,0,Venezia,1.5,0.5,51,30478.0,Mattia Bani,4-4-2,3-5-2,Livio Marinelli,Match Report,,2024-2025,Genoa
+2025-02-22,20:45,Serie A,Matchweek 26,Sat,Away,L,0,1,Inter,1.3,1.5,38,68271.0,Mattia Bani,4-2-3-1,3-1-4-2,Marco Piccinini,Match Report,,2024-2025,Genoa
+2025-03-02,15:00,Serie A,Matchweek 27,Sun,Home,D,1,1,Empoli,0.3,0.9,60,31295.0,Mattia Bani,3-4-3,3-4-3,Davide Massa,Match Report,,2024-2025,Genoa
+2025-03-07,20:45,Serie A,Matchweek 28,Fri,Away,D,1,1,Cagliari,0.9,0.7,53,15827.0,Milan Badelj,4-2-3-1,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Genoa
+2025-03-14,20:45,Serie A,Matchweek 29,Fri,Home,W,2,1,Lecce,1.0,1.2,44,31495.0,Morten Frendrup,4-2-3-1,4-2-3-1,Fabio Maresca,Match Report,,2024-2025,Genoa
+2025-03-29,18:00,Serie A,Matchweek 30,Sat,Away,L,0,1,Juventus,0.4,0.9,51,40219.0,Morten Frendrup,4-2-3-1,3-4-3,Antonio Rapuano,Match Report,,2024-2025,Genoa
+2025-04-04,20:45,Serie A,Matchweek 31,Fri,Home,W,1,0,Udinese,1.3,1.1,54,31243.0,Morten Frendrup,3-4-3,4-4-2,Daniele Perenzoni,Match Report,,2024-2025,Genoa
+2025-04-13,15:00,Serie A,Matchweek 32,Sun,Away,D,0,0,Hellas Verona,0.2,1.2,53,27724.0,Milan Badelj,3-4-3,3-5-2,Matteo Marchetti,Match Report,,2024-2025,Genoa
+2025-04-23,18:30,Serie A,Matchweek 33,Wed,Home,L,0,2,Lazio,0.6,1.1,38,32038.0,Morten Frendrup,4-4-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2024-2025,Genoa
+2025-04-27,12:30,Serie A,Matchweek 34,Sun,Away,L,0,1,Como,1.3,1.3,47,10664.0,Morten Frendrup,4-1-4-1,4-2-3-1,Alberto Arena,Match Report,,2024-2025,Genoa
+2025-05-05,20:45,Serie A,Matchweek 35,Mon,Home,L,1,2,Milan,0.6,1.0,40,32081.0,Morten Frendrup,4-2-3-1,3-4-3,Giuseppe Collu,Match Report,,2024-2025,Genoa
+2025-05-11,20:45,Serie A,Matchweek 36,Sun,Away,D,2,2,Napoli,0.6,1.7,41,51426.0,Morten Frendrup,4-2-3-1,3-5-2,Marco Piccinini,Match Report,,2024-2025,Genoa
+2025-05-17,20:45,Serie A,Matchweek 37,Sat,Home,L,2,3,Atalanta,1.2,2.0,55,31929.0,Milan Badelj,4-3-3,3-4-3,Davide Ghersini,Match Report,,2024-2025,Genoa
+2025-05-24,18:00,Serie A,Matchweek 38,Sat,Away,W,3,1,Bologna,0.9,0.7,40,,Mattia Bani,4-2-3-1,4-2-3-1,Marco Monaldi,Match Report,,2024-2025,Genoa

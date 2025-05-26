@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-13,17:00,La Liga,Matchweek 1,Sat,Home,D,2,2,Espanyol,0.4,1.1,60,13859,Hugo Mallo,4-1-3-2,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Celta Vigo
+2022-08-20,22:00,La Liga,Matchweek 2,Sat,Home,L,1,4,Real Madrid,1.4,3.7,51,15681,Hugo Mallo,4-1-3-2,4-3-3,Jesús Gil,Match Report,,2022-2023,Celta Vigo
+2022-08-26,20:00,La Liga,Matchweek 3,Fri,Away,W,1,0,Girona,1.0,1.0,47,11329,Hugo Mallo,4-1-3-2,4-4-2,Carlos del Cerro,Match Report,,2022-2023,Celta Vigo
+2022-09-02,21:00,La Liga,Matchweek 4,Fri,Home,W,3,0,Cádiz,0.7,0.3,58,14510,Hugo Mallo,4-1-3-2,4-1-4-1,Juan Pulido,Match Report,,2022-2023,Celta Vigo
+2022-09-10,21:00,La Liga,Matchweek 5,Sat,Away,L,1,4,Atlético Madrid,1.7,0.7,54,52247,Hugo Mallo,4-1-3-2,5-3-2,Alejandro Hernández,Match Report,,2022-2023,Celta Vigo
+2022-09-17,18:30,La Liga,Matchweek 6,Sat,Away,L,0,3,Valencia,0.5,1.7,35,40965,Hugo Mallo,4-1-3-2,4-3-3,Pablo González,Match Report,,2022-2023,Celta Vigo
+2022-10-02,16:15,La Liga,Matchweek 7,Sun,Home,W,1,0,Betis,0.9,0.9,46,14344,Hugo Mallo,4-1-3-2,4-2-3-1,César Soto,Match Report,,2022-2023,Celta Vigo
+2022-10-09,21:00,La Liga,Matchweek 8,Sun,Away,L,0,1,Barcelona,1.5,2.0,43,81525,Hugo Mallo,4-1-3-2,4-3-3,José Luis Munuera,Match Report,,2022-2023,Celta Vigo
+2022-10-16,14:00,La Liga,Matchweek 9,Sun,Home,L,1,2,Real Sociedad,0.5,0.8,53,13101,Hugo Mallo,4-1-3-2,4-4-2,Guillermo Cuadra,Match Report,,2022-2023,Celta Vigo
+2022-10-19,19:00,La Liga,Matchweek 10,Wed,Away,L,1,4,Valladolid,2.6,1.5,62,16547,Hugo Mallo,4-1-3-2,5-3-2,Valentín Pizarro,Match Report,,2022-2023,Celta Vigo
+2022-10-24,21:00,La Liga,Matchweek 11,Mon,Home,D,1,1,Getafe,0.7,0.2,71,9774,Hugo Mallo,4-1-3-2,5-3-2,Pablo González,Match Report,,2022-2023,Celta Vigo
+2022-10-29,14:00,La Liga,Matchweek 12,Sat,Away,L,1,3,Almería,0.3,2.3,39,11080,Iago Aspas,4-1-3-2,4-1-4-1,Carlos del Cerro,Match Report,,2022-2023,Celta Vigo
+2022-11-05,18:30,La Liga,Matchweek 13,Sat,Home,L,1,2,Osasuna,0.7,0.4,61,14209,Iago Aspas,4-4-2,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Celta Vigo
+2022-11-10,19:00,La Liga,Matchweek 14,Thu,Away,D,0,0,Rayo Vallecano,0.9,0.4,41,12419,Kevin Vázquez,3-4-3,4-2-3-1,José Luis Munuera,Match Report,,2022-2023,Celta Vigo
+2022-11-13,16:00,Copa del Rey,First round,Sun,Away,W,6,1,CD Algar,,,79,4500,Fran Beltrán,4-4-2,5-4-1,Dámaso Arcediano,Match Report,,2022-2023,Celta Vigo
+2022-12-22,19:00,Copa del Rey,Second round,Thu,Away,W,3,0,Gernika Club,,,66,2857,Iván Villar,4-4-2,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Celta Vigo
+2022-12-30,19:15,La Liga,Matchweek 15,Fri,Home,D,1,1,Sevilla,2.0,0.7,44,13653,Hugo Mallo,5-3-2,3-4-3,Ricardo de Burgos,Match Report,,2022-2023,Celta Vigo
+2023-01-03,19:00,Copa del Rey,Round of 32,Tue,Away,L,1,3,Espanyol,,,53,20050,Kevin Vázquez,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,Required Extra Time,2022-2023,Celta Vigo
+2023-01-06,18:30,La Liga,Matchweek 16,Fri,Away,W,1,0,Elche,2.0,1.0,43,20121,Hugo Mallo,5-3-2,3-4-3,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Celta Vigo
+2023-01-13,21:00,La Liga,Matchweek 17,Fri,Home,D,1,1,Villarreal,2.1,0.1,51,13931,Hugo Mallo,3-4-3,4-1-4-1,Alberola Rojas,Match Report,,2022-2023,Celta Vigo
+2023-01-20,21:00,La Liga,Matchweek 18,Fri,Away,L,0,1,Mallorca,0.5,0.5,58,12253,Hugo Mallo,5-3-2,5-4-1,Juan Pulido,Match Report,,2022-2023,Celta Vigo
+2023-01-29,18:30,La Liga,Matchweek 19,Sun,Home,W,1,0,Athletic Club,0.7,0.4,49,14754,Iago Aspas,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Celta Vigo
+2023-02-04,21:00,La Liga,Matchweek 20,Sat,Away,W,4,3,Betis,1.9,3.4,45,46595,Iago Aspas,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Celta Vigo
+2023-02-12,16:15,La Liga,Matchweek 21,Sun,Home,L,0,1,Atlético Madrid,0.9,0.9,47,15842,Iago Aspas,4-4-2,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Celta Vigo
+2023-02-18,14:00,La Liga,Matchweek 22,Sat,Away,D,1,1,Real Sociedad,1.4,1.4,46,29312,Iago Aspas,4-4-2,4-1-3-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Celta Vigo
+2023-02-26,16:15,La Liga,Matchweek 23,Sun,Home,W,3,0,Valladolid,1.8,0.5,52,14755,Hugo Mallo,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2022-2023,Celta Vigo
+2023-03-06,21:00,La Liga,Matchweek 24,Mon,Away,D,0,0,Osasuna,1.1,0.8,36,17684,Hugo Mallo,4-4-2,4-3-3,José Sánchez,Match Report,,2022-2023,Celta Vigo
+2023-03-11,18:30,La Liga,Matchweek 25,Sat,Home,W,3,0,Rayo Vallecano,2.4,1.1,43,14451,Iago Aspas,4-4-2,4-2-3-1,Juan Pulido,Match Report,,2022-2023,Celta Vigo
+2023-03-18,18:30,La Liga,Matchweek 26,Sat,Away,W,3,1,Espanyol,1.6,1.2,43,26231,Hugo Mallo,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Celta Vigo
+2023-04-02,14:00,La Liga,Matchweek 27,Sun,Home,D,2,2,Almería,2.0,1.0,57,14011,Hugo Mallo,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2022-2023,Celta Vigo
+2023-04-07,21:00,La Liga,Matchweek 28,Fri,Away,D,2,2,Sevilla,0.6,0.4,69,30778,Hugo Mallo,4-4-2,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Celta Vigo
+2023-04-17,21:00,La Liga,Matchweek 29,Mon,Home,L,0,1,Mallorca,0.8,1.0,72,13557,Hugo Mallo,4-4-2,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Celta Vigo
+2023-04-22,21:00,La Liga,Matchweek 30,Sat,Away,L,0,2,Real Madrid,0.9,1.5,34,60386,Iago Aspas,4-4-2,4-3-3,Antonio Matéu,Match Report,,2022-2023,Celta Vigo
+2023-04-26,22:00,La Liga,Matchweek 31,Wed,Home,W,1,0,Elche,1.3,1.1,49,11649,Hugo Mallo,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,2022-2023,Celta Vigo
+2023-04-30,16:15,La Liga,Matchweek 32,Sun,Away,L,1,3,Villarreal,0.9,2.4,49,16123,Kevin Vázquez,4-4-2,4-2-3-1,Pablo González,Match Report,,2022-2023,Celta Vigo
+2023-05-03,22:00,La Liga,Matchweek 33,Wed,Away,L,0,1,Getafe,0.3,2.7,65,11022,Hugo Mallo,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,2022-2023,Celta Vigo
+2023-05-14,14:00,La Liga,Matchweek 34,Sun,Home,L,1,2,Valencia,0.7,1.2,64,14517,Hugo Mallo,4-4-2,4-2-3-1,César Soto,Match Report,,2022-2023,Celta Vigo
+2023-05-20,16:15,La Liga,Matchweek 35,Sat,Away,L,1,2,Athletic Club,0.5,1.0,51,40759,Kevin Vázquez,4-2-2-2,4-1-4-1,Mario Melero,Match Report,,2022-2023,Celta Vigo
+2023-05-23,19:30,La Liga,Matchweek 36,Tue,Home,D,1,1,Girona,1.2,1.2,40,14117,Hugo Mallo,4-3-3,4-4-1-1,Antonio Matéu,Match Report,,2022-2023,Celta Vigo
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,L,0,1,Cádiz,0.6,1.7,51,19725,Hugo Mallo,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,2022-2023,Celta Vigo
+2023-06-04,21:00,La Liga,Matchweek 38,Sun,Home,W,2,1,Barcelona,0.7,1.2,29,23365,Iván Villar,4-3-3,4-3-3,Juan Pulido,Match Report,,2022-2023,Celta Vigo

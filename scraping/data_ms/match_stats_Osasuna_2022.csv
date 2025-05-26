@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-12,21:00,La Liga,Matchweek 1,Fri,Home,W,2,1,Sevilla,1.5,0.9,35.0,18536,David García,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Osasuna
+2022-08-20,17:30,La Liga,Matchweek 2,Sat,Home,W,2,0,Cádiz,2.7,1.0,55.0,18587,Unai García,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2022-2023,Osasuna
+2022-08-26,22:00,La Liga,Matchweek 3,Fri,Away,L,0,1,Betis,1.3,0.5,45.0,52580,David García,4-4-1-1,4-2-3-1,Juan Martínez,Match Report,,2022-2023,Osasuna
+2022-09-04,14:00,La Liga,Matchweek 4,Sun,Home,W,2,1,Rayo Vallecano,2.4,0.2,47.0,18745,Unai García,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,2022-2023,Osasuna
+2022-09-12,21:00,La Liga,Matchweek 5,Mon,Away,W,1,0,Almería,2.0,0.2,39.0,12397,David García,4-2-3-1,4-3-3,Javier Villanueva,Match Report,,2022-2023,Osasuna
+2022-09-18,14:00,La Liga,Matchweek 6,Sun,Home,L,0,2,Getafe,0.5,0.8,55.0,18255,Unai García,4-2-3-1,5-3-2,Isidro Díaz de Mera,Match Report,,2022-2023,Osasuna
+2022-10-02,21:00,La Liga,Matchweek 7,Sun,Away,D,1,1,Real Madrid,0.5,2.5,36.0,55410,David García,4-1-4-1,4-3-3,Guillermo Cuadra,Match Report,,2022-2023,Osasuna
+2022-10-07,21:00,La Liga,Matchweek 8,Fri,Home,L,1,2,Valencia,1.6,2.1,44.0,20260,Unai García,4-5-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Osasuna
+2022-10-17,21:00,La Liga,Matchweek 9,Mon,Away,L,0,2,Villarreal,0.5,1.5,42.0,9699,David García,4-1-4-1,4-4-2,Pablo González,Match Report,,2022-2023,Osasuna
+2022-10-20,20:00,La Liga,Matchweek 10,Thu,Home,W,1,0,Espanyol,1.0,1.0,64.0,17832,Unai García,4-1-4-1,4-4-2,Mario Melero,Match Report,,2022-2023,Osasuna
+2022-10-23,18:30,La Liga,Matchweek 11,Sun,Away,D,1,1,Girona,0.6,0.4,50.0,10032,Unai García,4-1-4-1,4-4-1-1,Juan Pulido,Match Report,,2022-2023,Osasuna
+2022-10-30,14:00,La Liga,Matchweek 12,Sun,Home,W,2,0,Valladolid,2.5,0.5,48.0,19429,David García,4-3-3,3-5-2,Guillermo Cuadra,Match Report,,2022-2023,Osasuna
+2022-11-05,18:30,La Liga,Matchweek 13,Sat,Away,W,2,1,Celta Vigo,0.4,0.7,39.0,14209,Unai García,4-3-3,4-4-2,Jorge Figueroa,Match Report,,2022-2023,Osasuna
+2022-11-08,21:30,La Liga,Matchweek 14,Tue,Home,L,1,2,Barcelona,1.0,0.8,47.0,21603,David García,4-4-1-1,4-3-3,Jesús Gil,Match Report,,2022-2023,Osasuna
+2022-11-12,16:00,Copa del Rey,First round,Sat,Away,W,4,1,CD Fuentes,,,,3000,Roberto Torres,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,2022-2023,Osasuna
+2022-12-21,21:00,Copa del Rey,Second round,Wed,Away,W,3,1,CD Arnedo,,,67.0,4000,Roberto Torres,4-2-3-1,4-3-3,Mario Melero,Match Report,,2022-2023,Osasuna
+2022-12-31,16:15,La Liga,Matchweek 15,Sat,Away,L,0,2,Real Sociedad,0.4,1.4,49.0,34847,Unai García,5-3-2,4-1-3-2,Valentín Pizarro,Match Report,,2022-2023,Osasuna
+2023-01-05,16:00,Copa del Rey,Round of 32,Thu,Away,W,2,1,Gimnàstic,,,68.0,8282,David García,4-2-3-1,4-2-3-1,Isidro Díaz de Mera,Match Report,Required Extra Time,2022-2023,Osasuna
+2023-01-09,21:00,La Liga,Matchweek 16,Mon,Away,D,0,0,Athletic Club,0.4,1.0,41.0,39216,David García,4-3-3,4-2-3-1,Mario Melero,Match Report,,2022-2023,Osasuna
+2023-01-14,18:30,La Liga,Matchweek 17,Sat,Home,W,1,0,Mallorca,1.6,0.5,61.0,19887,David García,4-3-3,5-4-1,César Soto,Match Report,,2022-2023,Osasuna
+2023-01-18,21:00,Copa del Rey,Round of 16,Wed,Away,D,2 (4),2 (2),Betis,,,46.0,35817,David García,4-2-3-1,4-2-3-1,Alberola Rojas,Match Report,Osasuna won on penalty kicks following extra time,2022-2023,Osasuna
+2023-01-22,16:15,La Liga,Matchweek 18,Sun,Away,D,1,1,Elche,0.5,1.2,56.0,17589,David García,4-3-3,3-4-3,Alejandro Muñíz,Match Report,,2022-2023,Osasuna
+2023-01-25,22:00,Copa del Rey,Quarter-finals,Wed,Home,W,2,1,Sevilla,,,33.0,19724,David García,4-3-3,4-1-4-1,Ricardo de Burgos,Match Report,Required Extra Time,2022-2023,Osasuna
+2023-01-29,16:15,La Liga,Matchweek 19,Sun,Home,L,0,1,Atlético Madrid,0.9,1.6,52.0,20902,David García,4-3-3,4-4-2,Alberola Rojas,Match Report,,2022-2023,Osasuna
+2023-02-04,14:00,La Liga,Matchweek 20,Sat,Away,D,1,1,Espanyol,0.9,1.4,59.0,22438,Unai García,4-1-4-1,4-4-2,Jesús Gil,Match Report,,2022-2023,Osasuna
+2023-02-12,18:30,La Liga,Matchweek 21,Sun,Away,D,0,0,Valladolid,0.7,1.6,49.0,21044,Kike Barja,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Osasuna
+2023-02-18,21:00,La Liga,Matchweek 22,Sat,Home,L,0,2,Real Madrid,0.5,1.3,47.0,21668,David García,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,2022-2023,Osasuna
+2023-02-26,21:00,La Liga,Matchweek 23,Sun,Away,W,3,2,Sevilla,0.9,1.7,33.0,34538,David García,4-3-3,3-4-3,Juan Pulido,Match Report,,2022-2023,Osasuna
+2023-03-01,21:00,Copa del Rey,Semi-finals,Wed,Home,W,1,0,Athletic Club,,,45.0,23026,David García,4-3-3,4-2-3-1,Jesús Gil,Match Report,Leg 1 of 2,2022-2023,Osasuna
+2023-03-06,21:00,La Liga,Matchweek 24,Mon,Home,D,0,0,Celta Vigo,0.8,1.1,64.0,17684,David García,4-3-3,4-4-2,José Sánchez,Match Report,,2022-2023,Osasuna
+2023-03-11,21:00,La Liga,Matchweek 25,Sat,Away,L,0,1,Valencia,0.3,1.7,45.0,37762,David García,4-3-3,4-3-3,Javier Villanueva,Match Report,,2022-2023,Osasuna
+2023-03-19,16:15,La Liga,Matchweek 26,Sun,Home,L,0,3,Villarreal,0.9,1.8,55.0,20128,David García,4-3-3,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Osasuna
+2023-03-31,21:00,La Liga,Matchweek 27,Fri,Away,D,0,0,Mallorca,0.5,0.5,58.0,14132,Unai García,4-3-3,5-4-1,Isidro Díaz de Mera,Match Report,,2022-2023,Osasuna
+2023-04-04,21:00,Copa del Rey,Semi-finals,Tue,Away,D,1,1,Athletic Club,,,38.0,51544,David García,4-2-3-1,4-1-4-1,Carlos del Cerro,Match Report,Leg 2 of 2; Osasuna won; Required Extra Time,2022-2023,Osasuna
+2023-04-08,14:00,La Liga,Matchweek 28,Sat,Home,W,2,1,Elche,1.2,0.7,61.0,16925,Unai García,4-3-3,4-3-3,Pablo González,Match Report,,2022-2023,Osasuna
+2023-04-14,21:00,La Liga,Matchweek 29,Fri,Away,L,1,2,Rayo Vallecano,0.6,0.9,54.0,12726,David García,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,2022-2023,Osasuna
+2023-04-22,14:00,La Liga,Matchweek 30,Sat,Home,W,3,2,Betis,1.5,2.0,38.0,19723,David García,4-3-3,4-2-3-1,Alberola Rojas,Match Report,,2022-2023,Osasuna
+2023-04-25,19:30,La Liga,Matchweek 31,Tue,Away,W,1,0,Cádiz,1.0,1.4,44.0,18008,Unai García,4-1-4-1,4-4-2,Carlos del Cerro,Match Report,,2022-2023,Osasuna
+2023-04-28,21:00,La Liga,Matchweek 32,Fri,Home,L,0,2,Real Sociedad,1.4,1.4,51.0,21570,Kike Barja,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,,2022-2023,Osasuna
+2023-05-02,19:30,La Liga,Matchweek 33,Tue,Away,L,0,1,Barcelona,0.4,2.8,24.0,76061,Unai García,4-2-3-1,4-2-3-1,Javier Villanueva,Match Report,,2022-2023,Osasuna
+2023-05-06,22:00,Copa del Rey,Final,Sat,Away,L,1,2,Real Madrid,,,41.0,55579,David García,4-2-3-1,4-3-3,José Sánchez,Match Report,,2022-2023,Osasuna
+2023-05-13,16:15,La Liga,Matchweek 34,Sat,Home,W,3,1,Almería,1.9,0.5,56.0,19747,David García,4-3-3,4-3-3,Antonio Matéu,Match Report,,2022-2023,Osasuna
+2023-05-21,16:15,La Liga,Matchweek 35,Sun,Away,L,0,3,Atlético Madrid,0.8,1.9,46.0,57012,David García,4-3-3,5-3-2,Pablo González,Match Report,,2022-2023,Osasuna
+2023-05-25,21:30,La Liga,Matchweek 36,Thu,Home,W,2,0,Athletic Club,0.8,0.8,49.0,19830,David García,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2022-2023,Osasuna
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,L,1,2,Getafe,0.5,2.5,50.0,13510,David García,4-2-3-1,4-3-3,Antonio Matéu,Match Report,,2022-2023,Osasuna
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Home,W,2,1,Girona,1.8,0.9,37.0,22128,David García,4-3-3,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Osasuna

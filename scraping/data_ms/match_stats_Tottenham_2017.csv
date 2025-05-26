@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-13,13:30,Premier League,Matchweek 1,Sun,Away,W,2,0,Newcastle Utd,2.5,0.8,72,52077,Hugo Lloris,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Tottenham
+2017-08-20,16:00,Premier League,Matchweek 2,Sun,Home,L,1,2,Chelsea,0.7,0.7,68,73587,Hugo Lloris,4-3-2-1,3-5-1-1,Anthony Taylor,Match Report,,2017-2018,Tottenham
+2017-08-27,16:00,Premier League,Matchweek 3,Sun,Home,D,1,1,Burnley,2.3,0.9,66,67862,Hugo Lloris,4-2-3-1,4-4-1-1,Lee Mason,Match Report,,2017-2018,Tottenham
+2017-09-09,15:00,Premier League,Matchweek 4,Sat,Away,W,3,0,Everton,1.8,0.9,49,38835,Hugo Lloris,3-5-1-1,4-2-3-1,Graham Scott,Match Report,,2017-2018,Tottenham
+2017-09-13,19:45,Champions Lg,Group stage,Wed,Home,W,3,1,de Dortmund,1.2,0.8,33,67343,Hugo Lloris,5-4-1,4-3-3,Gianluca Rocchi,Match Report,,2017-2018,Tottenham
+2017-09-16,17:30,Premier League,Matchweek 5,Sat,Home,D,0,0,Swansea City,1.1,0.2,75,65366,Hugo Lloris,3-5-1-1,3-5-2,Mike Dean,Match Report,,2017-2018,Tottenham
+2017-09-19,20:00,EFL Cup,Third round,Tue,Home,W,1,0,Barnsley,,,73,23826,Jan Vertonghen,4-2-3-1,4-3-3,Tim Robinson,Match Report,,2017-2018,Tottenham
+2017-09-23,12:30,Premier League,Matchweek 6,Sat,Away,W,3,2,West Ham,1.2,0.6,51,56988,Hugo Lloris,3-5-1-1,3-4-3,Michael Oliver,Match Report,,2017-2018,Tottenham
+2017-09-26,21:45,Champions Lg,Group stage,Tue,Away,W,3,0,cy APOEL FC,1.8,1.0,58,16324,Hugo Lloris,5-3-2,4-4-2,Pavel Královec,Match Report,,2017-2018,Tottenham
+2017-09-30,12:30,Premier League,Matchweek 7,Sat,Away,W,4,0,Huddersfield,1.5,0.2,59,24169,Hugo Lloris,3-4-3,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Tottenham
+2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,W,1,0,Bournemouth,1.8,0.2,72,73502,Hugo Lloris,4-2-3-1,3-5-1-1,Robert Madley,Match Report,,2017-2018,Tottenham
+2017-10-17,20:45,Champions Lg,Group stage,Tue,Away,D,1,1,es Real Madrid,0.9,2.9,34,76589,Hugo Lloris,5-3-2,4-3-1-2,Szymon Marciniak,Match Report,,2017-2018,Tottenham
+2017-10-22,16:00,Premier League,Matchweek 9,Sun,Home,W,4,1,Liverpool,2.0,0.6,37,80827,Hugo Lloris,3-5-2,4-3-3,Andre Marriner,Match Report,,2017-2018,Tottenham
+2017-10-25,20:00,EFL Cup,Fourth round,Wed,Home,L,2,3,West Ham,,,61,36168,Michel Vorm,3-5-2,3-4-1-2,Mike Dean,Match Report,,2017-2018,Tottenham
+2017-10-28,12:30,Premier League,Matchweek 10,Sat,Away,L,0,1,Manchester Utd,1.2,0.8,55,75034,Hugo Lloris,3-5-1-1,3-4-1-2,Jonathan Moss,Match Report,,2017-2018,Tottenham
+2017-11-01,19:45,Champions Lg,Group stage,Wed,Home,W,3,1,es Real Madrid,2.3,2.2,37,83782,Hugo Lloris,3-5-1-1,4-1-2-1-2,Cüneyt Çakιr,Match Report,,2017-2018,Tottenham
+2017-11-05,12:00,Premier League,Matchweek 11,Sun,Home,W,1,0,Crystal Palace,0.9,0.8,68,65270,Harry Kane,3-5-1-1,4-4-2,Kevin Friend,Match Report,,2017-2018,Tottenham
+2017-11-18,12:30,Premier League,Matchweek 12,Sat,Away,L,0,2,Arsenal,0.7,2.1,57,59530,Hugo Lloris,3-5-2,3-4-3,Mike Dean,Match Report,,2017-2018,Tottenham
+2017-11-21,20:45,Champions Lg,Group stage,Tue,Away,W,2,1,de Dortmund,1.1,1.1,51,65849,Hugo Lloris,3-4-1-2,4-1-4-1,Clément Turpin,Match Report,,2017-2018,Tottenham
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Home,D,1,1,West Brom,1.8,0.7,72,65905,Hugo Lloris,3-5-2,3-5-2,Mike Jones,Match Report,,2017-2018,Tottenham
+2017-11-28,19:45,Premier League,Matchweek 14,Tue,Away,L,1,2,Leicester City,2.4,0.6,62,31950,Hugo Lloris,3-5-2,4-4-1-1,Anthony Taylor,Match Report,,2017-2018,Tottenham
+2017-12-02,15:00,Premier League,Matchweek 15,Sat,Away,D,1,1,Watford,0.8,0.4,50,20278,Hugo Lloris,4-2-3-1,3-4-3,Martin Atkinson,Match Report,,2017-2018,Tottenham
+2017-12-06,19:45,Champions Lg,Group stage,Wed,Home,W,3,0,cy APOEL FC,2.3,0.6,65,42679,Michel Vorm,4-1-4-1,4-2-3-1,Slavko Vinčić,Match Report,,2017-2018,Tottenham
+2017-12-09,15:00,Premier League,Matchweek 16,Sat,Home,W,5,1,Stoke City,3.6,0.5,71,62202,Hugo Lloris,4-2-3-1,3-4-3,Roger East,Match Report,,2017-2018,Tottenham
+2017-12-13,20:00,Premier League,Matchweek 17,Wed,Home,W,2,0,Brighton,1.5,0.4,74,46438,Hugo Lloris,4-2-3-1,4-5-1,Robert Madley,Match Report,,2017-2018,Tottenham
+2017-12-16,17:30,Premier League,Matchweek 18,Sat,Away,L,1,4,Manchester City,0.2,3.4,48,54214,Hugo Lloris,4-1-2-1-2◆,4-3-3,Craig Pawson,Match Report,,2017-2018,Tottenham
+2017-12-23,17:30,Premier League,Matchweek 19,Sat,Away,W,3,0,Burnley,3.1,0.2,59,21650,Hugo Lloris,4-2-3-1,4-4-1-1,Michael Oliver,Match Report,,2017-2018,Tottenham
+2017-12-26,12:30,Premier League,Matchweek 20,Tue,Home,W,5,2,Southampton,3.0,0.8,57,55412,Hugo Lloris,4-2-3-1,4-1-4-1,Graham Scott,Match Report,,2017-2018,Tottenham
+2018-01-02,19:45,Premier League,Matchweek 22,Tue,Away,W,2,0,Swansea City,1.3,0.4,67,20615,Hugo Lloris,4-2-3-1,5-3-2,Robert Madley,Match Report,,2017-2018,Tottenham
+2018-01-04,20:00,Premier League,Matchweek 21,Thu,Home,D,1,1,West Ham,1.8,0.5,70,50034,Hugo Lloris,4-2-3-1,3-5-1-1,Mike Dean,Match Report,,2017-2018,Tottenham
+2018-01-07,15:00,FA Cup,Third round,Sun,Home,W,3,0,AFC Wimbledon,,,81,47527,Harry Kane,4-4-2,4-5-1,David Coote,Match Report,,2017-2018,Tottenham
+2018-01-13,17:30,Premier League,Matchweek 23,Sat,Home,W,4,0,Everton,3.8,0.3,61,76251,Hugo Lloris,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Tottenham
+2018-01-21,16:00,Premier League,Matchweek 24,Sun,Away,D,1,1,Southampton,1.2,0.8,59,31361,Harry Kane,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Tottenham
+2018-01-27,17:30,FA Cup,Fourth round,Sat,Away,D,1,1,Newport County,,,71,9836,Harry Kane,3-1-4-2,4-5-1,Roger East,Match Report,,2017-2018,Tottenham
+2018-01-31,20:00,Premier League,Matchweek 25,Wed,Home,W,2,0,Manchester Utd,1.5,1.0,52,81978,Hugo Lloris,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Tottenham
+2018-02-04,16:30,Premier League,Matchweek 26,Sun,Away,D,2,2,Liverpool,2.6,1.2,66,53213,Hugo Lloris,4-1-2-1-2◆,4-3-3,Jonathan Moss,Match Report,,2017-2018,Tottenham
+2018-02-07,19:45,FA Cup,Fourth round,Wed,Home,W,2,0,Newport County,,,74,38947,Michel Vorm,4-2-3-1,4-5-1,Stuart Attwell,Match Report,,2017-2018,Tottenham
+2018-02-10,12:30,Premier League,Matchweek 27,Sat,Home,W,1,0,Arsenal,2.6,0.6,50,83222,Hugo Lloris,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2017-2018,Tottenham
+2018-02-13,20:45,Champions Lg,Round of 16,Tue,Away,D,2,2,it Juventus,1.8,2.5,66,41232,Hugo Lloris,4-2-3-1,4-2-3-1,Felix Brych,Match Report,Leg 1 of 2,2017-2018,Tottenham
+2018-02-18,16:00,FA Cup,Fifth round,Sun,Away,D,2,2,Rochdale,,,65,8480,Michel Vorm,4-1-4-1,3-5-2,Robert Madley,Match Report,,2017-2018,Tottenham
+2018-02-25,12:00,Premier League,Matchweek 28,Sun,Away,W,1,0,Crystal Palace,1.7,0.2,75,25287,Hugo Lloris,4-2-3-1,4-3-3,Kevin Friend,Match Report,,2017-2018,Tottenham
+2018-02-28,19:45,FA Cup,Fifth round,Wed,Home,W,6,1,Rochdale,,,63,24627,Michel Vorm,4-2-3-1,5-3-2,Paul Tierney,Match Report,,2017-2018,Tottenham
+2018-03-03,15:00,Premier League,Matchweek 29,Sat,Home,W,2,0,Huddersfield,1.6,0.1,74,68311,Hugo Lloris,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Tottenham
+2018-03-07,19:45,Champions Lg,Round of 16,Wed,Home,L,1,2,it Juventus,1.7,1.5,55,84010,Hugo Lloris,4-2-3-1,4-1-2-1-2,Szymon Marciniak,Match Report,Leg 2 of 2; Juventus won,2017-2018,Tottenham
+2018-03-11,16:00,Premier League,Matchweek 30,Sun,Away,W,4,1,Bournemouth,2.4,1.2,63,10623,Hugo Lloris,4-2-3-1,4-4-1-1,Mike Dean,Match Report,,2017-2018,Tottenham
+2018-03-17,12:15,FA Cup,Quarter-finals,Sat,Away,W,3,0,Swansea City,,,75,17498,Jan Vertonghen,4-2-3-1,5-4-1,Kevin Friend,Match Report,,2017-2018,Tottenham
+2018-04-01,16:00,Premier League,Matchweek 32,Sun,Away,W,3,1,Chelsea,1.4,1.0,51,41364,Hugo Lloris,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2017-2018,Tottenham
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,W,2,1,Stoke City,1.7,1.4,65,29515,Hugo Lloris,4-2-3-1,4-4-1-1,Graham Scott,Match Report,,2017-2018,Tottenham
+2018-04-14,19:45,Premier League,Matchweek 34,Sat,Home,L,1,3,Manchester City,0.4,2.9,48,80811,Hugo Lloris,4-2-3-1,4-3-3,Jonathan Moss,Match Report,,2017-2018,Tottenham
+2018-04-17,19:45,Premier League,Matchweek 35,Tue,Away,D,1,1,Brighton,1.3,1.1,63,30440,Hugo Lloris,4-2-3-1,4-4-1-1,Kevin Friend,Match Report,,2017-2018,Tottenham
+2018-04-21,17:15,FA Cup,Semi-finals,Sat,Away,L,1,2,Manchester Utd,,,64,84667,Harry Kane,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2017-2018,Tottenham
+2018-04-30,20:00,Premier League,Matchweek 36,Mon,Home,W,2,0,Watford,1.4,1.3,61,52675,Hugo Lloris,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Tottenham
+2018-05-05,15:00,Premier League,Matchweek 37,Sat,Away,L,0,1,West Brom,1.2,1.6,74,23685,Hugo Lloris,3-4-3,4-4-1-1,Mike Jones,Match Report,,2017-2018,Tottenham
+2018-05-09,20:00,Premier League,Matchweek 31,Wed,Home,W,1,0,Newcastle Utd,0.8,1.0,63,54923,Hugo Lloris,4-2-3-1,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Tottenham
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,W,5,4,Leicester City,1.8,1.4,64,77841,Hugo Lloris,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Tottenham

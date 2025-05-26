@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-06,21:15,Coppa Italia,First round,Sat,Home,W,3,0,Palermo,,,68,6803,Saša Lukić,3-4-3,4-2-3-1,Davide Ghersini,Match Report,,2022-2023,Torino
+2022-08-13,20:45,Serie A,Matchweek 1,Sat,Away,W,2,1,Monza,2.1,1.4,46,10739,Ricardo Rodríguez,3-4-3,3-5-2,Maurizio Mariani,Match Report,,2022-2023,Torino
+2022-08-20,18:30,Serie A,Matchweek 2,Sat,Home,D,0,0,Lazio,0.7,0.8,54,16530,Ricardo Rodríguez,3-4-3,4-3-3,Marco Piccinini,Match Report,,2022-2023,Torino
+2022-08-27,18:30,Serie A,Matchweek 3,Sat,Away,W,2,1,Cremonese,1.7,0.8,47,11572,Ricardo Rodríguez,3-4-3,3-4-1-2,Paolo Valeri,Match Report,,2022-2023,Torino
+2022-09-01,20:45,Serie A,Matchweek 4,Thu,Away,L,1,3,Atalanta,0.4,2.9,59,17928,Ricardo Rodríguez,3-4-3,3-4-3,Marco Di Bello,Match Report,,2022-2023,Torino
+2022-09-05,20:45,Serie A,Matchweek 5,Mon,Home,W,1,0,Lecce,1.1,0.3,59,19087,Ricardo Rodríguez,3-4-1-2,4-1-4-1,Manuel Volpi,Match Report,,2022-2023,Torino
+2022-09-10,18:00,Serie A,Matchweek 6,Sat,Away,L,0,1,Inter,0.7,1.5,43,69134,Ricardo Rodríguez,3-4-3,3-5-2,Giovanni Ayroldi,Match Report,,2022-2023,Torino
+2022-09-17,20:45,Serie A,Matchweek 7,Sat,Home,L,0,1,Sassuolo,0.7,0.4,57,14822,Alessandro Buongiorno,3-4-1-2,4-3-3,Niccolò Baroni,Match Report,,2022-2023,Torino
+2022-10-01,15:00,Serie A,Matchweek 8,Sat,Away,L,1,3,Napoli,1.0,1.6,51,35953,Ricardo Rodríguez,3-4-3,4-3-3,Luca Massimi,Match Report,,2022-2023,Torino
+2022-10-09,12:30,Serie A,Matchweek 9,Sun,Home,D,1,1,Empoli,2.4,0.2,66,16793,Ricardo Rodríguez,3-4-3,4-3-1-2,Francesco Fourneau,Match Report,,2022-2023,Torino
+2022-10-15,18:00,Serie A,Matchweek 10,Sat,Home,L,0,1,Juventus,0.6,2.1,53,22269,Ricardo Rodríguez,3-4-3,3-5-2,Maurizio Mariani,Match Report,,2022-2023,Torino
+2022-10-18,21:00,Coppa Italia,Second round,Tue,Home,W,4,0,Cittadella,,,61,3297,Alessandro Buongiorno,3-4-3,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Torino
+2022-10-23,12:30,Serie A,Matchweek 11,Sun,Away,W,2,1,Udinese,1.5,2.0,44,20711,Alessandro Buongiorno,3-4-3,3-5-2,Matteo Marchetti,Match Report,,2022-2023,Torino
+2022-10-30,20:45,Serie A,Matchweek 12,Sun,Home,W,2,1,Milan,0.6,1.1,44,26133,Alessandro Buongiorno,3-4-3,4-2-3-1,Rosario Abisso,Match Report,,2022-2023,Torino
+2022-11-06,12:30,Serie A,Matchweek 13,Sun,Away,L,1,2,Bologna,1.0,2.0,44,23168,Alessandro Buongiorno,3-4-3,3-4-3,Antonio Giua,Match Report,,2022-2023,Torino
+2022-11-09,20:45,Serie A,Matchweek 14,Wed,Home,W,2,0,Sampdoria,0.5,0.5,51,15593,Ricardo Rodríguez,3-4-3,3-5-2,Davide Massa,Match Report,,2022-2023,Torino
+2022-11-13,15:00,Serie A,Matchweek 15,Sun,Away,D,1,1,Roma,0.9,1.7,52,61168,Alessandro Buongiorno,3-4-3,3-4-3,Antonio Rapuano,Match Report,,2022-2023,Torino
+2023-01-04,14:30,Serie A,Matchweek 16,Wed,Home,D,1,1,Hellas Verona,0.4,0.9,67,15000,Ricardo Rodríguez,3-4-3,3-4-3,Federico Dionisi,Match Report,,2022-2023,Torino
+2023-01-08,12:30,Serie A,Matchweek 17,Sun,Away,D,1,1,Salernitana,2.2,0.8,62,16300,Alessandro Buongiorno,3-4-3,3-1-4-2,Andrea Colombo,Match Report,,2022-2023,Torino
+2023-01-11,21:00,Coppa Italia,Round of 16,Wed,Away,W,1,0,Milan,,,42,58000,Ricardo Rodríguez,3-4-3,3-5-1-1,Antonio Rapuano,Match Report,Required Extra Time,2022-2023,Torino
+2023-01-15,15:00,Serie A,Matchweek 18,Sun,Home,L,0,1,Spezia,1.0,1.5,67,15113,Alessandro Buongiorno,3-4-3,3-5-2,Davide Ghersini,Match Report,,2022-2023,Torino
+2023-01-21,20:45,Serie A,Matchweek 19,Sat,Away,W,1,0,Fiorentina,0.6,1.2,38,29281,Ricardo Rodríguez,3-4-3,4-2-3-1,Federico Dionisi,Match Report,,2022-2023,Torino
+2023-01-28,15:00,Serie A,Matchweek 20,Sat,Away,D,2,2,Empoli,1.0,0.6,53,8029,Ricardo Rodríguez,3-4-1-2,4-3-1-2,Matteo Marcenaro,Match Report,,2022-2023,Torino
+2023-02-01,18:00,Coppa Italia,Quarter-finals,Wed,Away,L,1,2,Fiorentina,,,42,18600,Ricardo Rodríguez,3-4-3,4-3-3,Daniele Doveri,Match Report,,2022-2023,Torino
+2023-02-05,15:00,Serie A,Matchweek 21,Sun,Home,W,1,0,Udinese,1.7,0.5,56,16820,Alessandro Buongiorno,3-4-3,3-5-2,Alessandro Prontera,Match Report,,2022-2023,Torino
+2023-02-10,20:45,Serie A,Matchweek 22,Fri,Away,L,0,1,Milan,0.8,1.3,54,68268,Ricardo Rodríguez,3-4-3,3-4-3,Giovanni Ayroldi,Match Report,,2022-2023,Torino
+2023-02-20,20:45,Serie A,Matchweek 23,Mon,Home,D,2,2,Cremonese,2.4,0.6,63,19095,Ricardo Rodríguez,3-4-3,3-5-2,Giacomo Camplone,Match Report,,2022-2023,Torino
+2023-02-28,20:45,Serie A,Matchweek 24,Tue,Away,L,2,4,Juventus,1.2,1.5,58,37806,Ricardo Rodríguez,3-4-3,3-5-1-1,Daniele Chiffi,Match Report,,2022-2023,Torino
+2023-03-06,20:45,Serie A,Matchweek 25,Mon,Home,W,1,0,Bologna,0.9,0.5,44,18592,Ricardo Rodríguez,3-4-3,4-2-3-1,Antonio Rapuano,Match Report,,2022-2023,Torino
+2023-03-12,12:30,Serie A,Matchweek 26,Sun,Away,W,2,0,Lecce,0.1,0.5,45,24413,Ricardo Rodríguez,3-4-3,4-3-3,Juan Sacchi,Match Report,,2022-2023,Torino
+2023-03-19,15:00,Serie A,Matchweek 27,Sun,Home,L,0,4,Napoli,1.3,2.3,48,26058,Ricardo Rodríguez,3-4-3,4-3-3,Matteo Marchetti,Match Report,,2022-2023,Torino
+2023-04-03,20:45,Serie A,Matchweek 28,Mon,Away,D,1,1,Sassuolo,1.7,1.1,52,12896,Ricardo Rodríguez,3-4-3,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Torino
+2023-04-08,18:30,Serie A,Matchweek 29,Sat,Home,L,0,1,Roma,0.3,1.1,55,22142,Ricardo Rodríguez,3-4-3,3-4-3,Andrea Colombo,Match Report,,2022-2023,Torino
+2023-04-16,15:00,Serie A,Matchweek 30,Sun,Home,D,1,1,Salernitana,1.7,0.7,63,21122,Ricardo Rodríguez,3-4-3,3-4-3,Gianluca Aureliano,Match Report,,2022-2023,Torino
+2023-04-22,18:00,Serie A,Matchweek 31,Sat,Away,W,1,0,Lazio,0.6,0.6,47,50000,Ricardo Rodríguez,3-4-3,4-3-3,Davide Ghersini,Match Report,,2022-2023,Torino
+2023-04-29,20:45,Serie A,Matchweek 32,Sat,Home,L,1,2,Atalanta,0.3,0.5,62,20196,Ricardo Rodríguez,3-4-3,3-4-3,Juan Sacchi,Match Report,,2022-2023,Torino
+2023-05-03,18:00,Serie A,Matchweek 33,Wed,Away,W,2,0,Sampdoria,2.0,0.3,59,16865,Ricardo Rodríguez,3-4-3,3-4-1-2,Giacomo Camplone,Match Report,,2022-2023,Torino
+2023-05-07,15:00,Serie A,Matchweek 34,Sun,Home,D,1,1,Monza,0.9,0.9,53,19517,Ricardo Rodríguez,3-4-3,3-4-3,Luca Zufferli,Match Report,,2022-2023,Torino
+2023-05-14,12:30,Serie A,Matchweek 35,Sun,Away,W,1,0,Hellas Verona,1.8,0.5,58,19658,Ricardo Rodríguez,3-4-3,3-4-3,Marco Di Bello,Match Report,,2022-2023,Torino
+2023-05-21,15:00,Serie A,Matchweek 36,Sun,Home,D,1,1,Fiorentina,1.1,0.8,56,20403,Ricardo Rodríguez,3-4-3,4-2-3-1,Luca Massimi,Match Report,,2022-2023,Torino
+2023-05-27,15:00,Serie A,Matchweek 37,Sat,Away,W,4,0,Spezia,1.0,0.9,49,10776,Ricardo Rodríguez,3-4-3,3-5-2,Marco Guida,Match Report,,2022-2023,Torino
+2023-06-03,18:30,Serie A,Matchweek 38,Sat,Home,L,0,1,Inter,1.1,1.0,41,24528,Ricardo Rodríguez,3-4-3,3-5-2,Michael Fabbri,Match Report,,2022-2023,Torino

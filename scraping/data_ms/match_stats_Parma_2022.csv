@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,21:00,Coppa Italia,First round,Sun,Away,W,2,0,Salernitana,,,48,10205,Roberto Inglese,4-3-1-2,3-5-2,Ivan Pezzuto,Match Report,,2022-2023,Parma
+2022-08-12,20:45,Serie B,Matchweek 1,Fri,Home,D,2,2,Bari,1.2,1.2,56,11459,Franco Vázquez,4-2-3-1,4-3-3,Davide Massa,Match Report,,2022-2023,Parma
+2022-08-20,20:45,Serie B,Matchweek 2,Sat,Away,D,0,0,Perugia,1.4,0.9,62,5543,Franco Vázquez,4-2-3-1,3-5-2,Marco Serra,Match Report,,2022-2023,Parma
+2022-08-28,20:45,Serie B,Matchweek 3,Sun,Home,W,1,0,Cosenza,0.9,0.2,53,9880,Franco Vázquez,4-2-3-1,4-2-3-1,Daniele Perenzoni,Match Report,,2022-2023,Parma
+2022-09-03,16:15,Serie B,Matchweek 4,Sat,Away,D,3,3,Genoa,0.7,1.4,45,24153,Franco Vázquez,4-2-3-1,4-4-2,Giacomo Camplone,Match Report,,2022-2023,Parma
+2022-09-10,14:00,Serie B,Matchweek 5,Sat,Home,L,2,3,Ternana,2.1,1.6,60,8867,Gianluigi Buffon,4-2-3-1,5-4-1,Daniele Paterna,Match Report,,2022-2023,Parma
+2022-09-17,14:00,Serie B,Matchweek 6,Sat,Away,W,3,1,Ascoli,0.7,1.2,44,6494,Gianluigi Buffon,4-2-3-1,4-3-3,Alessandro Prontera,Match Report,,2022-2023,Parma
+2022-10-01,14:00,Serie B,Matchweek 7,Sat,Home,W,2,1,Frosinone,1.9,0.9,46,8919,Gianluigi Buffon,4-2-3-1,4-3-3,Federico Dionisi,Match Report,,2022-2023,Parma
+2022-10-08,14:00,Serie B,Matchweek 8,Sat,Away,D,0,0,Pisa,1.2,0.6,54,8107,Franco Vázquez,4-2-3-1,4-2-3-1,Luca Pairetto,Match Report,,2022-2023,Parma
+2022-10-15,14:00,Serie B,Matchweek 9,Sat,Home,W,2,0,US Reggina,1.2,1.0,43,12146,Franco Vázquez,4-2-3-1,4-3-3,Michael Fabbri,Match Report,,2022-2023,Parma
+2022-10-19,18:00,Coppa Italia,Second round,Wed,Home,W,1,0,Bari,,,48,4690,Enrico Del Prato,4-4-2,4-3-1-2,Marco Serra,Match Report,,2022-2023,Parma
+2022-10-22,14:00,Serie B,Matchweek 10,Sat,Away,L,0,1,Südtirol,0.8,0.1,71,5500,Franco Vázquez,4-2-3-1,4-4-2,Matteo Gualtieri,Match Report,,2022-2023,Parma
+2022-10-29,14:00,Serie B,Matchweek 11,Sat,Home,W,1,0,Como,0.4,1.2,40,8957,Franco Vázquez,4-2-3-1,4-3-1-2,Alessandro Prontera,Match Report,,2022-2023,Parma
+2022-11-05,16:15,Serie B,Matchweek 12,Sat,Away,L,0,1,Palermo,1.1,0.6,61,15720,Franco Vázquez,4-3-1-2,4-3-3,Lorenzo Maggioni,Match Report,,2022-2023,Parma
+2022-11-12,14:00,Serie B,Matchweek 13,Sat,Home,W,3,1,Cittadella,1.5,0.7,52,9094,Franco Vázquez,4-3-1-2,4-3-1-2,Manuel Volpi,Match Report,,2022-2023,Parma
+2022-11-26,15:00,Serie B,Matchweek 14,Sat,Home,L,1,2,Modena,1.8,0.6,67,12830,Franco Vázquez,4-4-1-1,4-3-1-2,Marco Serra,Match Report,,2022-2023,Parma
+2022-12-03,18:00,Serie B,Matchweek 15,Sat,Away,D,1,1,Cagliari,1.6,1.2,57,12648,Franco Vázquez,4-2-3-1,4-3-1-2,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Parma
+2022-12-08,12:30,Serie B,Matchweek 16,Thu,Home,L,0,1,Benevento,1.6,0.9,60,8769,Franco Vázquez,4-2-3-1,4-3-2-1,Matteo Gariglio,Match Report,,2022-2023,Parma
+2022-12-12,20:30,Serie B,Matchweek 17,Mon,Away,W,2,0,Brescia,1.2,0.5,45,3505,Franco Vázquez,4-3-3,4-4-2,Lorenzo Maggioni,Match Report,,2022-2023,Parma
+2022-12-18,14:00,Serie B,Matchweek 18,Sun,Home,L,0,1,SPAL,1.1,1.4,59,8660,Franco Vázquez,4-5-1,3-4-3,Luca Massimi,Match Report,,2022-2023,Parma
+2022-12-26,15:00,Serie B,Matchweek 19,Mon,Away,D,2,2,Venezia,2.5,1.1,47,4671,Franco Vázquez,4-5-1,3-5-2,Daniele Minelli,Match Report,,2022-2023,Parma
+2023-01-10,21:00,Coppa Italia,Round of 16,Tue,Away,L,1,2,Inter,,,28,40032,Gianluigi Buffon,4-2-3-1,3-5-2,Alessandro Prontera,Match Report,Required Extra Time,2022-2023,Parma
+2023-01-14,14:00,Serie B,Matchweek 20,Sat,Away,L,0,4,Bari,1.0,2.5,64,17322,Gianluigi Buffon,4-4-2,4-3-1-2,Niccolò Baroni,Match Report,,2022-2023,Parma
+2023-01-21,14:00,Serie B,Matchweek 21,Sat,Home,W,2,0,Perugia,0.5,0.7,45,8715,Franco Vázquez,4-2-3-1,3-4-1-2,Giovanni Ayroldi,Match Report,,2022-2023,Parma
+2023-01-28,14:00,Serie B,Matchweek 22,Sat,Away,L,0,1,Cosenza,1.1,0.7,65,2621,Franco Vázquez,4-2-3-1,4-3-1-2,Ivan Pezzuto,Match Report,,2022-2023,Parma
+2023-02-05,16:15,Serie B,Matchweek 23,Sun,Home,W,2,0,Genoa,1.7,0.8,37,14281,Gianluigi Buffon,4-2-3-1,3-4-3,Francesco Fourneau,Match Report,,2022-2023,Parma
+2023-02-11,16:15,Serie B,Matchweek 24,Sat,Away,D,1,1,Ternana,0.5,0.6,54,4229,Gianluigi Buffon,4-2-3-1,3-4-1-2,Francesco Meraviglia,Match Report,,2022-2023,Parma
+2023-02-18,14:00,Serie B,Matchweek 25,Sat,Home,L,0,1,Ascoli,1.2,1.4,56,9059,Gianluigi Buffon,4-2-3-1,4-3-1-2,Niccolò Baroni,Match Report,,2022-2023,Parma
+2023-02-24,20:30,Serie B,Matchweek 26,Fri,Away,W,4,3,Frosinone,1.0,2.1,40,13667,Gianluigi Buffon,4-1-4-1,4-3-3,Lorenzo Maggioni,Match Report,,2022-2023,Parma
+2023-02-28,20:30,Serie B,Matchweek 27,Tue,Home,L,0,1,Pisa,0.2,1.0,59,9889,Franco Vázquez,4-3-3,4-3-2-1,Gianluca Aureliano,Match Report,,2022-2023,Parma
+2023-03-04,16:15,Serie B,Matchweek 28,Sat,Away,W,1,0,US Reggina,1.9,0.5,52,8702,Gianluigi Buffon,4-1-4-1,4-3-3,Massimiliano Irrati,Match Report,,2022-2023,Parma
+2023-03-11,14:00,Serie B,Matchweek 29,Sat,Home,D,0,0,Südtirol,1.0,0.1,75,9749,Gianluigi Buffon,4-1-4-1,4-4-2,Luca Zufferli,Match Report,,2022-2023,Parma
+2023-03-18,14:00,Serie B,Matchweek 30,Sat,Away,L,0,2,Como,0.7,0.3,57,3191,Gianluigi Buffon,4-2-3-1,3-1-4-2,Francesco Meraviglia,Match Report,,2022-2023,Parma
+2023-04-01,14:00,Serie B,Matchweek 31,Sat,Home,W,2,1,Palermo,1.0,0.9,55,14839,Gianluigi Buffon,4-3-3,3-5-2,Luca Massimi,Match Report,,2022-2023,Parma
+2023-04-10,15:00,Serie B,Matchweek 32,Mon,Away,W,1,0,Cittadella,0.7,0.6,48,2613,Franco Vázquez,4-2-3-1,4-3-1-2,Niccolò Baroni,Match Report,,2022-2023,Parma
+2023-04-14,20:30,Serie B,Matchweek 33,Fri,Away,D,1,1,Modena,0.4,0.7,60,12930,Gianluigi Buffon,4-2-3-1,4-3-2-1,Marco Serra,Match Report,,2022-2023,Parma
+2023-04-22,14:00,Serie B,Matchweek 34,Sat,Home,W,2,1,Cagliari,2.4,1.1,49,12051,Gianluigi Buffon,4-2-3-1,4-3-2-1,Matteo Gariglio,Match Report,,2022-2023,Parma
+2023-05-01,15:00,Serie B,Matchweek 35,Mon,Away,D,2,2,Benevento,3.1,1.7,44,8769,Gianluigi Buffon,4-2-3-1,3-5-2,Ermanno Feliciani,Match Report,,2022-2023,Parma
+2023-05-07,16:15,Serie B,Matchweek 36,Sun,Home,W,2,0,Brescia,2.0,0.8,40,14132,Gianluigi Buffon,4-2-3-1,4-3-1-2,Antonio Giua,Match Report,,2022-2023,Parma
+2023-05-13,14:00,Serie B,Matchweek 37,Sat,Away,W,1,0,SPAL,1.7,1.9,51,9095,Franco Vázquez,4-2-3-1,4-4-2,Massimiliano Irrati,Match Report,,2022-2023,Parma
+2023-05-19,20:30,Serie B,Matchweek 38,Fri,Home,W,2,1,Venezia,3.1,0.6,51,11984,Gianluigi Buffon,4-2-3-1,3-5-2,Juan Sacchi,Match Report,,2022-2023,Parma
+2023-05-30,20:30,Serie B,Semi-finals,Tue,Away,L,2,3,Cagliari,0.8,1.7,47,16110,Gianluigi Buffon,4-2-3-1,4-2-3-1,Andrea Colombo,Match Report,Leg 1 of 2,2022-2023,Parma
+2023-06-03,20:30,Serie B,Semi-finals,Sat,Home,D,0,0,Cagliari,0.6,0.9,64,17437,Franco Vázquez,4-2-3-1,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Cagliari won,2022-2023,Parma

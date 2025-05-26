@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-12,20:30,Coppa Italia,Third round,Sun,Home,W,2,1,Palermo,,,,7000,,,,Paolo Valeri,Match Report,,2018-2019,Cagliari
+2018-08-19,20:30,Serie A,Matchweek 1,Sun,Away,L,0,2,Empoli,0.9,1.3,54.0,7335,Luca Ceppitelli,4-3-1-2,4-3-1-2,Daniele Chiffi,Match Report,,2018-2019,Cagliari
+2018-08-26,20:30,Serie A,Matchweek 2,Sun,Home,D,2,2,Sassuolo,1.3,1.8,41.0,14432,Daniele Dessena,4-3-1-2,4-3-3,Luca Pairetto,Match Report,,2018-2019,Cagliari
+2018-09-02,20:30,Serie A,Matchweek 3,Sun,Away,W,1,0,Atalanta,0.3,0.4,47.0,17709,Marco Sau,4-3-1-2,3-4-1-2,Fabio Maresca,Match Report,,2018-2019,Cagliari
+2018-09-16,20:30,Serie A,Matchweek 4,Sun,Home,D,1,1,Milan,0.5,2.1,36.0,16201,Nicolò Barella,4-3-1-2,4-3-3,Rosario Abisso,Match Report,,2018-2019,Cagliari
+2018-09-22,15:00,Serie A,Matchweek 5,Sat,Away,L,0,2,Parma,0.9,2.3,72.0,14852,Marco Sau,4-3-1-2,4-3-3,Giampaolo Calvarese,Match Report,,2018-2019,Cagliari
+2018-09-26,21:00,Serie A,Matchweek 6,Wed,Home,D,0,0,Sampdoria,1.0,2.1,47.0,14038,Nicolò Barella,4-3-1-2,4-3-1-2,Gianluca Rocchi,Match Report,,2018-2019,Cagliari
+2018-09-29,20:30,Serie A,Matchweek 7,Sat,Away,L,0,2,Inter,0.2,1.0,50.0,55486,Daniele Dessena,4-3-1-2,4-2-3-1,Davide Massa,Match Report,,2018-2019,Cagliari
+2018-10-06,15:00,Serie A,Matchweek 8,Sat,Home,W,2,0,Bologna,1.7,0.4,52.0,15019,Nicolò Barella,4-3-1-2,3-1-4-2,Fabrizio Pasqua,Match Report,,2018-2019,Cagliari
+2018-10-21,18:00,Serie A,Matchweek 9,Sun,Away,D,1,1,Fiorentina,1.0,1.6,43.0,31567,Luca Ceppitelli,4-3-1-2,4-3-3,Piero Giacomelli,Match Report,,2018-2019,Cagliari
+2018-10-28,15:00,Serie A,Matchweek 10,Sun,Home,W,2,1,Chievo,1.5,1.2,49.0,15805,Luca Ceppitelli,4-3-1-2,5-3-2,Marco Piccinini,Match Report,,2018-2019,Cagliari
+2018-11-03,20:30,Serie A,Matchweek 11,Sat,Away,L,1,3,Juventus,0.7,1.8,47.0,40644,Luca Ceppitelli,4-3-1-2,4-3-3,Maurizio Mariani,Match Report,,2018-2019,Cagliari
+2018-11-10,18:00,Serie A,Matchweek 12,Sat,Away,D,2,2,SPAL,1.2,1.7,53.0,13250,Luca Ceppitelli,4-3-1-2,3-5-2,Daniele Doveri,Match Report,,2018-2019,Cagliari
+2018-11-26,20:30,Serie A,Matchweek 13,Mon,Home,D,0,0,Torino,0.2,0.7,50.0,15804,Daniele Dessena,4-3-1-2,3-5-2,Fabrizio Pasqua,Match Report,,2018-2019,Cagliari
+2018-12-02,15:00,Serie A,Matchweek 14,Sun,Away,D,1,1,Frosinone,1.9,1.9,61.0,12377,Marco Sau,4-3-1-2,3-4-3,Marco Serra,Match Report,,2018-2019,Cagliari
+2018-12-05,20:45,Coppa Italia,Fourth round,Wed,Away,W,2,1,Chievo,,,,1000,,,,Luigi Nasca,Match Report,,2018-2019,Cagliari
+2018-12-08,18:00,Serie A,Matchweek 15,Sat,Home,D,2,2,Roma,1.8,1.8,56.0,14938,Luca Ceppitelli,4-3-1-2,4-2-3-1,Paolo Mazzoleni,Match Report,,2018-2019,Cagliari
+2018-12-16,18:00,Serie A,Matchweek 16,Sun,Home,L,0,1,Napoli,0.6,1.0,39.0,15081,Nicolò Barella,4-3-1-2,4-2-3-1,Daniele Doveri,Match Report,,2018-2019,Cagliari
+2018-12-22,12:30,Serie A,Matchweek 17,Sat,Away,L,1,3,Lazio,1.8,2.7,50.0,20000,Nicolò Barella,4-3-1-2,3-4-1-2,Gianluca Manganiello,Match Report,,2018-2019,Cagliari
+2018-12-26,15:00,Serie A,Matchweek 18,Wed,Home,W,1,0,Genoa,1.2,0.6,49.0,15777,Luca Ceppitelli,4-3-1-2,3-2-4-1,Daniele Orsato,Match Report,,2018-2019,Cagliari
+2018-12-29,15:00,Serie A,Matchweek 19,Sat,Away,L,0,2,Udinese,0.4,2.2,52.0,20000,Luca Ceppitelli,4-3-1-2,3-5-2,Maurizio Mariani,Match Report,,2018-2019,Cagliari
+2019-01-14,17:30,Coppa Italia,Round of 16,Mon,Home,L,0,2,Atalanta,,,,10119,,,,Marco Piccinini,Match Report,,2018-2019,Cagliari
+2019-01-20,18:00,Serie A,Matchweek 20,Sun,Home,D,2,2,Empoli,0.9,1.2,56.0,13796,Nicolò Barella,4-3-1-2,5-3-2,Fabrizio Pasqua,Match Report,,2018-2019,Cagliari
+2019-01-26,15:00,Serie A,Matchweek 21,Sat,Away,L,0,3,Sassuolo,0.6,4.1,56.0,9970,Luca Ceppitelli,4-3-1-2,4-3-3,Massimiliano Irrati,Match Report,,2018-2019,Cagliari
+2019-02-04,21:00,Serie A,Matchweek 22,Mon,Home,L,0,1,Atalanta,1.1,0.9,40.0,14821,Luca Ceppitelli,4-3-1-2,3-4-1-2,Paolo Valeri,Match Report,,2018-2019,Cagliari
+2019-02-10,20:30,Serie A,Matchweek 23,Sun,Away,L,0,3,Milan,1.3,2.1,47.0,45576,Luca Ceppitelli,4-4-2,4-3-3,Federico La Penna,Match Report,,2018-2019,Cagliari
+2019-02-16,18:00,Serie A,Matchweek 24,Sat,Home,W,2,1,Parma,2.2,0.5,58.0,16119,Luca Ceppitelli,4-3-1-2,4-3-3,Gianluca Manganiello,Match Report,,2018-2019,Cagliari
+2019-02-24,12:30,Serie A,Matchweek 25,Sun,Away,L,0,1,Sampdoria,0.7,2.3,40.0,18840,Luca Ceppitelli,4-3-1-2,4-3-1-2,Luca Massimi,Match Report,,2018-2019,Cagliari
+2019-03-01,20:30,Serie A,Matchweek 26,Fri,Home,W,2,1,Inter,1.8,2.1,40.0,16223,Luca Ceppitelli,4-3-1-2,4-2-3-1,Luca Banti,Match Report,,2018-2019,Cagliari
+2019-03-10,12:30,Serie A,Matchweek 27,Sun,Away,L,0,2,Bologna,0.8,3.3,54.0,20557,Luca Ceppitelli,4-3-1-2,4-2-3-1,Massimiliano Irrati,Match Report,,2018-2019,Cagliari
+2019-03-15,20:30,Serie A,Matchweek 28,Fri,Home,W,2,1,Fiorentina,1.8,0.7,49.0,14735,Luca Ceppitelli,4-3-1-2,3-1-4-2,Daniele Doveri,Match Report,,2018-2019,Cagliari
+2019-03-29,20:30,Serie A,Matchweek 29,Fri,Away,W,3,0,Chievo,1.0,0.9,50.0,10000,Luca Ceppitelli,4-3-1-2,4-3-1-2,Rosario Abisso,Match Report,,2018-2019,Cagliari
+2019-04-02,21:00,Serie A,Matchweek 30,Tue,Home,L,0,2,Juventus,0.5,2.5,45.0,15958,Luca Ceppitelli,4-3-1-2,3-4-3,Piero Giacomelli,Match Report,,2018-2019,Cagliari
+2019-04-07,15:00,Serie A,Matchweek 31,Sun,Home,W,2,1,SPAL,2.2,1.4,54.0,16121,Luca Ceppitelli,4-3-1-2,3-5-2,Luca Banti,Match Report,,2018-2019,Cagliari
+2019-04-14,12:30,Serie A,Matchweek 32,Sun,Away,D,1,1,Torino,0.9,1.3,55.0,23869,Nicolò Barella,4-3-1-2,3-4-3,Massimiliano Irrati,Match Report,,2018-2019,Cagliari
+2019-04-20,15:00,Serie A,Matchweek 33,Sat,Home,W,1,0,Frosinone,1.4,0.9,54.0,16095,Luca Ceppitelli,4-3-1-2,3-5-2,Rosario Abisso,Match Report,,2018-2019,Cagliari
+2019-04-27,18:00,Serie A,Matchweek 34,Sat,Away,L,0,3,Roma,0.6,2.7,57.0,35964,Luca Ceppitelli,4-3-1-2,4-2-3-1,Gianluca Manganiello,Match Report,,2018-2019,Cagliari
+2019-05-05,20:30,Serie A,Matchweek 35,Sun,Away,L,1,2,Napoli,0.3,1.9,37.0,16171,Luca Ceppitelli,4-3-1-2,4-4-2,Daniele Chiffi,Match Report,,2018-2019,Cagliari
+2019-05-11,18:00,Serie A,Matchweek 36,Sat,Home,L,1,2,Lazio,1.4,1.7,49.0,16179,Nicolò Barella,4-3-1-2,3-5-2,Michael Fabbri,Match Report,,2018-2019,Cagliari
+2019-05-18,18:00,Serie A,Matchweek 37,Sat,Away,D,1,1,Genoa,0.4,2.2,48.0,22768,Nicolò Barella,5-3-2,3-1-4-2,Paolo Valeri,Match Report,,2018-2019,Cagliari
+2019-05-26,20:30,Serie A,Matchweek 38,Sun,Home,L,1,2,Udinese,3.1,0.6,57.0,15378,Nicolò Barella,4-3-1-2,3-5-2,Manuel Volpi,Match Report,,2018-2019,Cagliari

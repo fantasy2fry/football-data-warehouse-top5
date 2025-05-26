@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-05,15:00,Championship,Matchweek 1,Sat,Home,W,1,0,Middlesbrough,48,29692,Conor Coady,3-4-3,4-3-1-2,Darren Bond,Match Report,,2017-2018,Wolves
+2017-08-08,19:45,EFL Cup,First round,Tue,Home,W,1,0,Yeovil Town,81,9478,Danny Batth,3-4-3,3-4-3,Rob Lewis,Match Report,,2017-2018,Wolves
+2017-08-12,15:00,Championship,Matchweek 2,Sat,Away,W,2,0,Derby County,48,27757,Conor Coady,3-4-3,4-3-3,Lee Probert,Match Report,,2017-2018,Wolves
+2017-08-15,19:45,Championship,Matchweek 3,Tue,Away,W,3,2,Hull City,58,17145,Conor Coady,3-4-3,4-4-2,Jeremy Simpson,Match Report,,2017-2018,Wolves
+2017-08-19,15:00,Championship,Matchweek 4,Sat,Home,L,1,2,Cardiff City,64,27068,Conor Coady,3-4-3,4-2-3-1,Scott Duncan,Match Report,,2017-2018,Wolves
+2017-08-23,19:45,EFL Cup,Second round,Wed,Away,W,2,0,Southampton,42,17931,Danny Batth,3-4-3,4-2-3-1,James Linington,Match Report,,2017-2018,Wolves
+2017-08-26,15:00,Championship,Matchweek 5,Sat,Away,D,0,0,Brentford,47,10351,Conor Coady,3-4-3,4-2-3-1,Tim Robinson,Match Report,,2017-2018,Wolves
+2017-09-09,15:00,Championship,Matchweek 6,Sat,Home,W,1,0,Millwall,68,24426,Danny Batth,3-4-3,4-4-2,Robert Madley,Match Report,,2017-2018,Wolves
+2017-09-12,19:45,Championship,Matchweek 7,Tue,Home,D,3,3,Bristol City,54,23045,Danny Batth,3-4-3,4-4-2,Steve Martin,Match Report,,2017-2018,Wolves
+2017-09-16,15:00,Championship,Matchweek 8,Sat,Away,W,2,1,Nott'ham Forest,44,25756,Danny Batth,3-4-3,4-2-3-1,Geoff Eltringham,Match Report,,2017-2018,Wolves
+2017-09-19,19:45,EFL Cup,Third round,Tue,Home,W,1,0,Bristol Rovers,55,12740,Danny Batth,3-4-3,4-3-3,Tony Harrington,Match Report,Required Extra Time,2017-2018,Wolves
+2017-09-23,15:00,Championship,Matchweek 9,Sat,Home,W,2,1,Barnsley,50,28154,Danny Batth,3-4-3,4-1-4-1,Jeremy Simpson,Match Report,,2017-2018,Wolves
+2017-09-27,19:45,Championship,Matchweek 10,Wed,Away,L,0,2,Sheffield Utd,45,25893,Danny Batth,3-4-3,3-5-1-1,Peter Bankes,Match Report,,2017-2018,Wolves
+2017-09-30,15:00,Championship,Matchweek 11,Sat,Away,W,4,0,Burton Albion,53,5080,Danny Batth,3-4-3,3-5-2,Tony Harrington,Match Report,,2017-2018,Wolves
+2017-10-14,17:30,Championship,Matchweek 12,Sat,Home,W,2,0,Aston Villa,56,30239,Danny Batth,3-4-3,4-4-2,Andrew Davies,Match Report,,2017-2018,Wolves
+2017-10-21,15:00,Championship,Matchweek 13,Sat,Home,W,3,2,Preston,44,27352,Danny Batth,3-4-3,4-2-3-1,Steve Martin,Match Report,,2017-2018,Wolves
+2017-10-24,20:00,EFL Cup,Fourth round,Tue,Away,D,0 (1),0 (4),Manchester City,27,50755,Danny Batth,3-4-3,3-4-3,Kevin Friend,Match Report,Manchester City won on penalty kicks following extra time,2017-2018,Wolves
+2017-10-28,15:00,Championship,Matchweek 14,Sat,Away,L,1,2,QPR,52,16004,Danny Batth,3-4-3,3-5-2,Tony Harrington,Match Report,,2017-2018,Wolves
+2017-10-31,19:45,Championship,Matchweek 15,Tue,Away,W,2,0,Norwich City,47,26554,Conor Coady,3-4-3,4-2-3-1,Darren England,Match Report,,2017-2018,Wolves
+2017-11-03,19:45,Championship,Matchweek 16,Fri,Home,W,2,0,Fulham,46,24388,Conor Coady,3-4-3,4-3-3,David Coote,Match Report,,2017-2018,Wolves
+2017-11-18,15:00,Championship,Matchweek 17,Sat,Away,W,2,0,Reading,39,20708,Conor Coady,3-4-3,3-4-3,Roger East,Match Report,,2017-2018,Wolves
+2017-11-22,19:45,Championship,Matchweek 18,Wed,Home,W,4,1,Leeds United,54,28914,Conor Coady,3-4-3,4-2-3-1,Geoff Eltringham,Match Report,,2017-2018,Wolves
+2017-11-25,15:00,Championship,Matchweek 19,Sat,Home,W,5,1,Bolton,62,27894,Conor Coady,3-4-3,4-2-3-1,Keith Stroud,Match Report,,2017-2018,Wolves
+2017-12-04,19:45,Championship,Matchweek 20,Mon,Away,W,1,0,Birmingham City,56,19641,Conor Coady,3-4-3,3-4-3,Simon Hooper,Match Report,,2017-2018,Wolves
+2017-12-09,15:00,Championship,Matchweek 21,Sat,Home,D,0,0,Sunderland,72,28488,Conor Coady,3-4-3,5-4-1,Jeremy Simpson,Match Report,,2017-2018,Wolves
+2017-12-15,19:45,Championship,Matchweek 22,Fri,Away,W,1,0,Sheffield Weds,49,23809,Conor Coady,3-4-3,4-2-3-1,Darren Bond,Match Report,,2017-2018,Wolves
+2017-12-23,15:00,Championship,Matchweek 23,Sat,Home,W,1,0,Ipswich Town,64,30218,Conor Coady,3-4-3,4-2-3-1,David Coote,Match Report,,2017-2018,Wolves
+2017-12-26,13:00,Championship,Matchweek 24,Tue,Away,D,2,2,Millwall,63,13121,Conor Coady,3-4-3,4-4-2,Tim Robinson,Match Report,,2017-2018,Wolves
+2017-12-30,17:30,Championship,Matchweek 25,Sat,Away,W,2,1,Bristol City,39,25540,Danny Batth,3-4-3,4-4-1-1,Peter Bankes,Match Report,,2017-2018,Wolves
+2018-01-02,19:45,Championship,Matchweek 26,Tue,Home,W,3,0,Brentford,47,28475,Conor Coady,3-4-3,4-2-3-1,Andy Madley,Match Report,,2017-2018,Wolves
+2018-01-06,15:00,FA Cup,Third round,Sat,Home,D,0,0,Swansea City,47,22976,Conor Coady,3-4-3,3-5-2,Anthony Taylor,Match Report,,2017-2018,Wolves
+2018-01-13,15:00,Championship,Matchweek 27,Sat,Away,D,0,0,Barnsley,59,16050,Conor Coady,3-4-3,4-1-4-1,Keith Stroud,Match Report,,2017-2018,Wolves
+2018-01-17,19:45,FA Cup,Third round,Wed,Away,L,1,2,Swansea City,45,8294,Danny Batth,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,,2017-2018,Wolves
+2018-01-20,15:00,Championship,Matchweek 28,Sat,Home,L,0,2,Nott'ham Forest,63,29050,Conor Coady,3-4-3,4-1-4-1,Robert Madley,Match Report,,2017-2018,Wolves
+2018-01-27,15:00,Championship,Matchweek 29,Sat,Away,W,1,0,Ipswich Town,44,15971,Conor Coady,3-4-3,4-4-2,Simon Hooper,Match Report,,2017-2018,Wolves
+2018-02-03,17:30,Championship,Matchweek 30,Sat,Home,W,3,0,Sheffield Utd,53,29311,Conor Coady,3-4-3,3-4-1-2,Darren Bond,Match Report,,2017-2018,Wolves
+2018-02-10,15:00,Championship,Matchweek 31,Sat,Home,W,2,1,QPR,53,30168,Conor Coady,3-4-3,3-5-1-1,Geoff Eltringham,Match Report,,2017-2018,Wolves
+2018-02-17,15:00,Championship,Matchweek 32,Sat,Away,D,1,1,Preston,61,18570,Conor Coady,3-4-3,4-2-3-1,Robert Jones,Match Report,,2017-2018,Wolves
+2018-02-21,19:45,Championship,Matchweek 33,Wed,Home,D,2,2,Norwich City,44,29100,Conor Coady,3-4-3,3-4-1-2,James Linington,Match Report,,2017-2018,Wolves
+2018-02-24,17:30,Championship,Matchweek 34,Sat,Away,L,0,2,Fulham,47,23510,Conor Coady,3-4-3,4-3-3,Peter Bankes,Match Report,,2017-2018,Wolves
+2018-03-07,19:45,Championship,Matchweek 36,Wed,Away,W,3,0,Leeds United,54,26434,Danny Batth,3-4-3,4-2-3-1,Tim Robinson,Match Report,,2017-2018,Wolves
+2018-03-10,17:30,Championship,Matchweek 37,Sat,Away,L,1,4,Aston Villa,60,37836,Danny Batth,3-4-3,4-1-4-1,David Coote,Match Report,,2017-2018,Wolves
+2018-03-13,19:45,Championship,Matchweek 35,Tue,Home,W,3,0,Reading,57,27341,Conor Coady,3-4-3,4-3-3,Robert Jones,Match Report,,2017-2018,Wolves
+2018-03-17,15:00,Championship,Matchweek 38,Sat,Home,W,3,1,Burton Albion,71,29977,Conor Coady,3-4-3,5-4-1,Geoff Eltringham,Match Report,,2017-2018,Wolves
+2018-03-30,17:30,Championship,Matchweek 39,Fri,Away,W,2,1,Middlesbrough,45,27658,Conor Coady,3-4-3,4-3-3,Stuart Attwell,Match Report,,2017-2018,Wolves
+2018-04-03,19:45,Championship,Matchweek 40,Tue,Home,D,2,2,Hull City,59,29718,Conor Coady,3-4-3,4-4-1-1,Darren England,Match Report,,2017-2018,Wolves
+2018-04-06,19:45,Championship,Matchweek 41,Fri,Away,W,1,0,Cardiff City,61,29317,Conor Coady,3-4-1-2,5-3-2,Mike Dean,Match Report,,2017-2018,Wolves
+2018-04-11,19:45,Championship,Matchweek 42,Wed,Home,W,2,0,Derby County,57,28503,Conor Coady,3-4-3,4-2-3-1,Tim Robinson,Match Report,,2017-2018,Wolves
+2018-04-15,12:00,Championship,Matchweek 43,Sun,Home,W,2,0,Birmingham City,77,29536,Conor Coady,3-4-3,4-4-1-1,Andrew Davies,Match Report,,2017-2018,Wolves
+2018-04-21,15:00,Championship,Matchweek 44,Sat,Away,W,4,0,Bolton,62,19092,Danny Batth,3-4-3,4-2-3-1,Keith Stroud,Match Report,,2017-2018,Wolves
+2018-04-28,15:00,Championship,Matchweek 45,Sat,Home,D,0,0,Sheffield Weds,48,29794,Danny Batth,3-4-3,3-4-3,Simon Hooper,Match Report,,2017-2018,Wolves
+2018-05-06,12:30,Championship,Matchweek 46,Sun,Away,L,0,3,Sunderland,59,28452,Danny Batth,3-4-3,4-1-4-1,Jeremy Simpson,Match Report,,2017-2018,Wolves

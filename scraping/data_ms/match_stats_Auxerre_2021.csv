@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-07-24,19:00,Ligue 2,Matchweek 1,Sat,Away,W,2,1,Amiens,53.0,5562,Birama Touré,4-1-4-1,4-3-3,Mathieu Vernice,Match Report,,2021-2022,Auxerre
+2021-08-02,20:45,Ligue 2,Matchweek 2,Mon,Home,W,3,0,Grenoble,58.0,4660,Birama Touré,4-1-4-1,4-2-3-1,Romain Lissorgue,Match Report,,2021-2022,Auxerre
+2021-08-07,19:00,Ligue 2,Matchweek 3,Sat,Home,D,0,0,Ajaccio,69.0,4942,Birama Touré,4-1-4-1,4-4-2,Olivier Thual,Match Report,,2021-2022,Auxerre
+2021-08-16,20:45,Ligue 2,Matchweek 4,Mon,Away,D,1,1,Paris FC,62.0,3253,Birama Touré,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2021-2022,Auxerre
+2021-08-23,20:45,Ligue 2,Matchweek 5,Mon,Home,L,1,2,Guingamp,67.0,6516,Quentin Bernard,4-1-4-1,4-2-3-1,Aurélien Petit,Match Report,,2021-2022,Auxerre
+2021-08-28,19:00,Ligue 2,Matchweek 6,Sat,Away,W,4,1,Nancy,46.0,5977,Birama Touré,4-3-3,4-2-3-1,Gaël Angoula,Match Report,,2021-2022,Auxerre
+2021-09-11,19:00,Ligue 2,Matchweek 7,Sat,Home,W,4,0,Niort,61.0,7802,Birama Touré,4-3-3,4-2-3-1,Abdelatif Kherradji,Match Report,,2021-2022,Auxerre
+2021-09-18,19:00,Ligue 2,Matchweek 8,Sat,Away,D,0,0,Quevilly-Rouen,71.0,3549,Birama Touré,4-3-3,4-1-4-1,Olivier Thual,Match Report,,2021-2022,Auxerre
+2021-09-21,20:00,Ligue 2,Matchweek 9,Tue,Home,W,1,0,Rodez Aveyron,58.0,7445,Quentin Bernard,4-3-3,3-4-1-2,Bartolomeu Varela,Match Report,,2021-2022,Auxerre
+2021-09-24,21:00,Ligue 2,Matchweek 10,Fri,Away,D,0,0,Sochaux,49.0,9185,Birama Touré,4-3-3,4-2-3-1,Remi Landry,Match Report,,2021-2022,Auxerre
+2021-10-02,15:00,Ligue 2,Matchweek 11,Sat,Home,D,2,2,Nîmes,44.0,9479,Birama Touré,4-1-4-1,4-1-4-1,Romain Lissorgue,Match Report,,2021-2022,Auxerre
+2021-10-16,15:00,Ligue 2,Matchweek 12,Sat,Away,L,0,6,Toulouse,46.0,10302,Birama Touré,4-2-3-1,4-2-3-1,Franck Schneider,Match Report,,2021-2022,Auxerre
+2021-10-25,20:45,Ligue 2,Matchweek 13,Mon,Home,W,1,0,Bastia,55.0,8559,Birama Touré,4-2-3-1,4-2-3-1,Pierre Legat,Match Report,,2021-2022,Auxerre
+2021-11-01,20:45,Ligue 2,Matchweek 14,Mon,Away,W,2,1,Valenciennes,52.0,6574,Birama Touré,4-3-3,4-4-2,Aurélien Petit,Match Report,,2021-2022,Auxerre
+2021-11-06,15:00,Ligue 2,Matchweek 15,Sat,Home,W,4,1,Pau FC,59.0,10308,Birama Touré,4-1-4-1,4-2-3-1,Guillaume Paradis,Match Report,,2021-2022,Auxerre
+2021-11-13,18:00,Coupe de France,Seventh round,Sat,Away,W,4,2,Limonest,,1155,Birama Touré,,,Arnaud Baert,Match Report,,2021-2022,Auxerre
+2021-11-22,20:45,Ligue 2,Matchweek 16,Mon,Away,L,1,3,Dijon,65.0,11301,Birama Touré,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2021-2022,Auxerre
+2021-11-27,15:00,Coupe de France,Eighth round,Sat,Away,W,6,4,SO Chambéry Foot,,2271,Rémy Dugimont,,,Mathieu Vernice,Match Report,,2021-2022,Auxerre
+2021-12-04,15:00,Ligue 2,Matchweek 17,Sat,Home,D,2,2,Caen,57.0,6366,Birama Touré,4-1-4-1,3-4-3,Jérôme Miguelgorry,Match Report,,2021-2022,Auxerre
+2021-12-11,19:00,Ligue 2,Matchweek 18,Sat,Away,W,2,0,Dunkerque,59.0,1925,Birama Touré,4-1-4-1,4-5-1,Guillaume Paradis,Match Report,,2021-2022,Auxerre
+2021-12-18,18:30,Coupe de France,Round of 64,Sat,Away,L,1,3,Lille,52.0,12093,Rémy Dugimont,4-1-4-1,4-4-2,Eric Wattellier,Match Report,,2021-2022,Auxerre
+2021-12-21,20:45,Ligue 2,Matchweek 19,Tue,Home,L,2,3,Le Havre,68.0,6985,Birama Touré,4-1-4-1,3-4-3,Pierre Legat,Match Report,,2021-2022,Auxerre
+2022-01-08,19:00,Ligue 2,Matchweek 20,Sat,Away,W,1,0,Grenoble,48.0,3881,Birama Touré,4-2-3-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2021-2022,Auxerre
+2022-01-28,19:00,Ligue 2,Matchweek 21,Fri,Away,D,0,0,Ajaccio,63.0,3300,Birama Touré,4-1-4-1,4-4-2,Mathieu Vernice,Match Report,,2021-2022,Auxerre
+2022-02-01,19:00,Ligue 2,Matchweek 22,Tue,Home,L,1,2,Paris FC,63.0,4331,Birama Touré,4-1-4-1,4-2-3-1,Gaël Angoula,Match Report,,2021-2022,Auxerre
+2022-02-05,19:00,Ligue 2,Matchweek 23,Sat,Away,D,1,1,Guingamp,58.0,7422,Birama Touré,4-1-4-1,3-4-3,Abdelatif Kherradji,Match Report,,2021-2022,Auxerre
+2022-02-12,19:00,Ligue 2,Matchweek 24,Sat,Home,D,1,1,Nancy,70.0,5003,Birama Touré,4-1-4-1,5-3-2,Marc Bollengier,Match Report,,2021-2022,Auxerre
+2022-02-19,19:00,Ligue 2,Matchweek 25,Sat,Away,W,1,0,Niort,56.0,2128,Birama Touré,4-1-4-1,4-2-3-1,Franck Schneider,Match Report,,2021-2022,Auxerre
+2022-02-26,19:00,Ligue 2,Matchweek 26,Sat,Home,W,1,0,Quevilly-Rouen,59.0,5214,Birama Touré,4-4-2,3-4-3,Remi Landry,Match Report,,2021-2022,Auxerre
+2022-03-05,19:00,Ligue 2,Matchweek 27,Sat,Away,W,3,1,Rodez Aveyron,67.0,1393,Birama Touré,4-4-2,3-1-4-2,Jérôme Miguelgorry,Match Report,,2021-2022,Auxerre
+2022-03-12,15:00,Ligue 2,Matchweek 28,Sat,Home,W,3,2,Sochaux,48.0,10091,Birama Touré,4-1-4-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2021-2022,Auxerre
+2022-03-15,19:00,Ligue 2,Matchweek 29,Tue,Away,W,2,1,Nîmes,60.0,1838,Birama Touré,4-1-4-1,4-2-3-1,Pierre Gaillouste,Match Report,,2021-2022,Auxerre
+2022-03-19,15:00,Ligue 2,Matchweek 30,Sat,Home,L,1,2,Toulouse,41.0,14360,Birama Touré,4-1-4-1,4-3-3,Stéphanie Frappart,Match Report,,2021-2022,Auxerre
+2022-04-02,19:00,Ligue 2,Matchweek 31,Sat,Away,D,1,1,Bastia,58.0,3000,Birama Touré,4-1-4-1,3-5-2,Franck Schneider,Match Report,,2021-2022,Auxerre
+2022-04-09,19:00,Ligue 2,Matchweek 32,Sat,Home,W,1,0,Valenciennes,57.0,11447,Birama Touré,4-1-4-1,3-4-1-2,Gaël Angoula,Match Report,,2021-2022,Auxerre
+2022-04-16,15:00,Ligue 2,Matchweek 33,Sat,Away,W,4,1,Pau FC,61.0,3406,Birama Touré,4-1-4-1,4-2-3-1,Aurélien Petit,Match Report,,2021-2022,Auxerre
+2022-04-19,20:00,Ligue 2,Matchweek 34,Tue,Home,W,2,1,Dijon,56.0,13614,Birama Touré,4-1-4-1,3-5-2,Marc Bollengier,Match Report,,2021-2022,Auxerre
+2022-04-23,15:00,Ligue 2,Matchweek 35,Sat,Away,D,1,1,Caen,41.0,14935,Birama Touré,4-1-4-1,3-5-2,Pierre Legat,Match Report,,2021-2022,Auxerre
+2022-04-30,15:00,Ligue 2,Matchweek 36,Sat,Home,W,1,0,Dunkerque,71.0,10714,Birama Touré,4-1-4-1,4-4-1-1,Benjamin Lepaysant,Match Report,,2021-2022,Auxerre
+2022-05-07,19:00,Ligue 2,Matchweek 37,Sat,Away,W,2,1,Le Havre,55.0,8058,Birama Touré,4-1-4-1,4-3-1-2,Nicolas Rainville,Match Report,,2021-2022,Auxerre
+2022-05-14,19:00,Ligue 2,Matchweek 38,Sat,Home,W,2,1,Amiens,61.0,17051,Birama Touré,4-1-4-1,3-5-2,Aurélien Petit,Match Report,,2021-2022,Auxerre
+2022-05-26,19:00,Rel/Pro play-offs,French 1/2 Relegation/Promotion play-offs,Thu,Home,D,1,1,Saint-Étienne,,17479,,,,,Match Report,Leg 1 of 2,2021-2022,Auxerre
+2022-05-29,19:00,Rel/Pro play-offs,French 1/2 Relegation/Promotion play-offs,Sun,Away,D,1 (5),1 (4),Saint-Étienne,,24489,,,,,Match Report,Leg 2 of 2; Auxerre won; Auxerre won on penalty kicks following extra time,2021-2022,Auxerre

@@ -19,8 +19,7 @@ LEAGUE_URLS = {
     "Ligue 1": "/en/comps/13/Ligue-1-Stats"
 }
 
-SEASONS = list(range(2017, 2024))  # 2017–2024
-SEASONS = list(range(2017, 2024))
+SEASONS = list(range(2017, 2025))
 
 def remove_accents(input_string):
     nfkd_form = unicodedata.normalize('NFKD', input_string)

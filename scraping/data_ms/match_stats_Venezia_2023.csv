@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-14,21:00,Coppa Italia,First round,Mon,Away,D,2 (3),2 (4),Spezia,,,44,626.0,Joel Pohjanpalo,4-3-1-2,4-3-3,Niccolò Baroni,Match Report,Spezia won on penalty kicks following extra time,2023-2024,Venezia
+2023-08-20,20:30,Serie B,Matchweek 1,Sun,Home,W,3,0,Como,2.5,0.4,46,4894.0,Joel Pohjanpalo,4-3-2-1,4-3-3,Ivan Pezzuto,Match Report,,2023-2024,Venezia
+2023-08-26,18:00,Serie B,Matchweek 2,Sat,Home,D,1,1,Cosenza,2.0,0.1,62,4962.0,Joel Pohjanpalo,4-3-2-1,4-2-3-1,Kevin Bonacina,Match Report,,2023-2024,Venezia
+2023-08-30,20:30,Serie B,Matchweek 3,Wed,Away,W,2,1,Sampdoria,1.1,1.6,54,21438.0,Joel Pohjanpalo,4-3-2-1,4-3-3,Daniele Minelli,Match Report,,2023-2024,Venezia
+2023-09-03,20:45,Serie B,Matchweek 4,Sun,Away,D,0,0,Cittadella,0.7,0.8,57,5283.0,Joel Pohjanpalo,4-4-2,4-3-1-2,Marco Monaldi,Match Report,,2023-2024,Venezia
+2023-09-15,20:30,Serie B,Matchweek 5,Fri,Home,W,1,0,Spezia,1.0,1.6,40,5334.0,Joel Pohjanpalo,4-3-3,4-3-3,Francesco Fourneau,Match Report,,2023-2024,Venezia
+2023-09-23,14:00,Serie B,Matchweek 6,Sat,Away,D,0,0,Brescia,0.5,0.8,56,,Joel Pohjanpalo,4-3-3,3-4-1-2,Luca Zufferli,Match Report,,2023-2024,Venezia
+2023-09-26,20:30,Serie B,Matchweek 7,Tue,Home,L,1,3,Palermo,1.2,2.2,57,6748.0,Joel Pohjanpalo,4-2-3-1,4-3-3,Niccolò Baroni,Match Report,,2023-2024,Venezia
+2023-09-30,14:00,Serie B,Matchweek 8,Sat,Away,W,3,1,Modena,0.3,0.8,58,9151.0,Joel Pohjanpalo,4-4-2,4-3-1-2,Paride Tremolada,Match Report,,2023-2024,Venezia
+2023-10-07,16:15,Serie B,Matchweek 9,Sat,Home,W,3,2,Parma,1.6,1.6,50,9360.0,Joel Pohjanpalo,4-4-2,4-2-3-1,Daniele Minelli,Match Report,,2023-2024,Venezia
+2023-10-22,18:30,Serie B,Matchweek 10,Sun,Away,L,0,1,Reggiana,1.3,0.6,54,8791.0,Marco Modolo,4-4-2,3-4-3,Daniele Rutella,Match Report,,2023-2024,Venezia
+2023-10-29,16:15,Serie B,Matchweek 11,Sun,Home,W,2,1,Pisa,1.4,1.2,45,6990.0,Marco Modolo,4-4-2,4-2-3-1,Davide Ghersini,Match Report,,2023-2024,Venezia
+2023-11-04,14:00,Serie B,Matchweek 12,Sat,Away,W,1,0,Ternana,0.5,0.9,58,3838.0,Marco Modolo,3-4-3,3-5-2,Maurizio Mariani,Match Report,,2023-2024,Venezia
+2023-11-10,20:30,Serie B,Matchweek 13,Fri,Home,W,2,1,Catanzaro,2.4,0.4,29,7765.0,Marco Modolo,4-4-2,4-4-2,Alberto Santoro,Match Report,,2023-2024,Venezia
+2023-11-25,14:00,Serie B,Matchweek 14,Sat,Away,W,3,0,Bari,1.4,0.7,54,16458.0,Francesco Zampano,4-3-3,3-4-1-2,Giuseppe Collu,Match Report,,2023-2024,Venezia
+2023-12-02,14:00,Serie B,Matchweek 15,Sat,Home,W,3,1,Ascoli,2.4,1.1,59,5660.0,Marco Modolo,4-3-3,3-4-1-2,Giovanni Ayroldi,Match Report,,2023-2024,Venezia
+2023-12-09,14:00,Serie B,Matchweek 16,Sat,Away,L,0,1,Cremonese,1.0,1.0,54,8286.0,Marco Modolo,4-3-3,3-5-2,Antonio Giua,Match Report,,2023-2024,Venezia
+2023-12-16,14:00,Serie B,Matchweek 17,Sat,Home,L,2,3,Südtirol,1.5,2.1,62,4988.0,Marco Modolo,4-3-3,4-4-2,Paride Tremolada,Match Report,,2023-2024,Venezia
+2023-12-23,14:00,Serie B,Matchweek 18,Sat,Home,D,2,2,Calcio Lecco 1912,1.3,1.2,61,5142.0,Francesco Zampano,4-3-1-2,4-3-3,Francesco Cosso,Match Report,,2023-2024,Venezia
+2023-12-26,15:00,Serie B,Matchweek 19,Tue,Away,D,2,2,FeralpiSalò,1.5,1.1,68,,Joel Pohjanpalo,4-2-3-1,3-5-2,Alberto Santoro,Match Report,,2023-2024,Venezia
+2024-01-14,16:15,Serie B,Matchweek 20,Sun,Home,W,5,3,Sampdoria,3.0,0.6,55,9030.0,Joel Pohjanpalo,4-3-3,4-3-2-1,Federico Dionisi,Match Report,,2023-2024,Venezia
+2024-01-20,16:15,Serie B,Matchweek 21,Sat,Away,L,2,4,Cosenza,2.0,1.8,57,2256.0,Joel Pohjanpalo,4-4-2,4-2-3-1,Manuel Volpi,Match Report,,2023-2024,Venezia
+2024-01-27,14:00,Serie B,Matchweek 22,Sat,Home,W,1,0,Ternana,2.2,0.3,62,4300.0,Joel Pohjanpalo,4-4-2,3-5-2,Michael Fabbri,Match Report,,2023-2024,Venezia
+2024-02-03,14:00,Serie B,Matchweek 23,Sat,Away,L,1,2,Parma,1.0,1.5,52,13289.0,Joel Pohjanpalo,3-5-2,4-2-3-1,Matteo Marchetti,Match Report,,2023-2024,Venezia
+2024-02-10,14:00,Serie B,Matchweek 24,Sat,Away,W,3,0,Südtirol,1.9,0.7,51,3160.0,Joel Pohjanpalo,3-5-2,3-5-2,Daniele Minelli,Match Report,,2023-2024,Venezia
+2024-02-18,16:15,Serie B,Matchweek 25,Sun,Home,D,2,2,Modena,2.1,1.2,57,6629.0,Joel Pohjanpalo,3-5-2,3-5-2,Livio Marinelli,Match Report,,2023-2024,Venezia
+2024-02-24,16:15,Serie B,Matchweek 26,Sat,Away,W,2,1,Pisa,1.8,1.2,49,6328.0,Joel Pohjanpalo,3-5-2,3-4-3,Francesco Cosso,Match Report,,2023-2024,Venezia
+2024-02-28,20:30,Serie B,Matchweek 27,Wed,Home,W,2,0,Cittadella,1.2,1.0,51,4613.0,Joel Pohjanpalo,3-5-2,4-1-2-1-2,Daniele Perenzoni,Match Report,,2023-2024,Venezia
+2024-03-03,16:15,Serie B,Matchweek 28,Sun,Away,L,1,2,Como,0.8,0.4,54,6744.0,Joel Pohjanpalo,3-5-2,4-2-3-1,Luca Zufferli,Match Report,,2023-2024,Venezia
+2024-03-10,16:15,Serie B,Matchweek 29,Sun,Home,W,3,1,Bari,1.9,1.3,51,5314.0,Joel Pohjanpalo,3-5-2,3-4-1-2,Luca Massimi,Match Report,,2023-2024,Venezia
+2024-03-15,20:30,Serie B,Matchweek 30,Fri,Away,W,3,0,Palermo,1.6,0.6,46,27058.0,Joel Pohjanpalo,3-5-2,4-2-3-1,Daniele Doveri,Match Report,,2023-2024,Venezia
+2024-04-01,15:00,Serie B,Matchweek 31,Mon,Home,L,2,3,Reggiana,2.2,1.5,52,5602.0,Joel Pohjanpalo,3-5-2,3-4-3,Davide Di Marco,Match Report,,2023-2024,Venezia
+2024-04-07,16:15,Serie B,Matchweek 32,Sun,Away,D,0,0,Ascoli,0.6,0.4,59,6896.0,Francesco Zampano,3-5-2,3-5-2,Ivan Pezzuto,Match Report,,2023-2024,Venezia
+2024-04-14,16:15,Serie B,Matchweek 33,Sun,Home,W,2,0,Brescia,2.2,0.4,45,9508.0,Joel Pohjanpalo,3-5-2,4-4-2,Niccolò Baroni,Match Report,,2023-2024,Venezia
+2024-04-20,16:15,Serie B,Matchweek 34,Sat,Away,W,2,1,Calcio Lecco 1912,2.3,1.0,59,3845.0,Joel Pohjanpalo,3-5-2,4-3-3,Matteo Marcenaro,Match Report,,2023-2024,Venezia
+2024-04-26,20:30,Serie B,Matchweek 35,Fri,Home,W,2,1,Cremonese,1.0,1.0,41,10869.0,Joel Pohjanpalo,3-5-2,3-5-1-1,Livio Marinelli,Match Report,,2023-2024,Venezia
+2024-05-01,15:00,Serie B,Matchweek 36,Wed,Away,L,2,3,Catanzaro,2.1,1.7,33,11466.0,Joel Pohjanpalo,3-5-2,3-5-2,Giovanni Ayroldi,Match Report,,2023-2024,Venezia
+2024-05-05,15:00,Serie B,Matchweek 37,Sun,Home,W,2,1,FeralpiSalò,1.8,1.0,56,8991.0,Joel Pohjanpalo,3-5-2,3-4-3,Michael Fabbri,Match Report,,2023-2024,Venezia
+2024-05-10,20:30,Serie B,Matchweek 38,Fri,Away,L,1,2,Spezia,0.7,3.0,54,5334.0,Joel Pohjanpalo,3-5-2,3-5-2,Federico La Penna,Match Report,,2023-2024,Venezia
+2024-05-20,20:30,Serie B,Semi-finals,Mon,Away,W,1,0,Palermo,0.4,0.8,50,27058.0,Joel Pohjanpalo,3-2-4-1,5-3-2,Antonio Giua,Match Report,Leg 1 of 2,2023-2024,Venezia
+2024-05-24,20:30,Serie B,Semi-finals,Fri,Home,W,2,1,Palermo,1.8,1.1,44,6748.0,Joel Pohjanpalo,3-5-2,3-4-3,Luca Pairetto,Match Report,Leg 2 of 2; Venezia won,2023-2024,Venezia
+2024-05-30,20:30,Serie B,Finals,Thu,Away,D,0,0,Cremonese,0.4,0.9,41,12890.0,Joel Pohjanpalo,3-5-1-1,3-5-1-1,Andrea Colombo,Match Report,Leg 1 of 2,2023-2024,Venezia
+2024-06-02,20:30,Serie B,Finals,Sun,Home,W,1,0,Cremonese,0.5,0.8,37,11150.0,Joel Pohjanpalo,3-5-2,3-5-2,Simone Sozza,Match Report,Leg 2 of 2; Venezia won,2023-2024,Venezia

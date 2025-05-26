@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-26,20:45,Serie A,Matchweek 2,Sat,Home,W,4,3,Fiorentina,2.3,2.4,67,1000.0,Samir Handanović,3-4-1-2,3-5-2,Giampaolo Calvarese,Match Report,,2020-2021,Inter
+2020-09-30,18:00,Serie A,Matchweek 1,Wed,Away,W,5,2,Benevento,3.6,1.5,66,1000.0,Samir Handanović,3-4-1-2,4-3-3,Marco Piccinini,Match Report,,2020-2021,Inter
+2020-10-04,15:00,Serie A,Matchweek 3,Sun,Away,D,1,1,Lazio,0.6,1.2,60,1000.0,Samir Handanović,3-4-1-2,3-5-2,Marco Guida,Match Report,,2020-2021,Inter
+2020-10-17,18:00,Serie A,Matchweek 4,Sat,Home,L,1,2,Milan,2.8,2.1,55,1000.0,Samir Handanović,3-1-4-2,4-2-3-1,Maurizio Mariani,Match Report,,2020-2021,Inter
+2020-10-21,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,de Gladbach,2.8,1.4,57,1000.0,Samir Handanović,3-4-1-2,4-2-3-1,Björn Kuipers,Match Report,,2020-2021,Inter
+2020-10-24,18:00,Serie A,Matchweek 5,Sat,Away,W,2,0,Genoa,1.7,0.0,60,1000.0,Samir Handanović,3-4-1-2,3-5-2,Davide Massa,Match Report,,2020-2021,Inter
+2020-10-27,19:55,Champions Lg,Group stage,Tue,Away,D,0,0,ua Shakhtar,1.7,0.1,59,10178.0,Samir Handanović,3-5-2,4-1-4-1,Georgi Kabakov,Match Report,,2020-2021,Inter
+2020-10-31,18:00,Serie A,Matchweek 6,Sat,Home,D,2,2,Parma,2.9,0.9,68,,Samir Handanović,3-4-1-2,5-3-2,Marco Piccinini,Match Report,,2020-2021,Inter
+2020-11-03,21:00,Champions Lg,Group stage,Tue,Away,L,2,3,es Real Madrid,0.7,1.2,45,,Samir Handanović,3-5-2,4-3-3,Clément Turpin,Match Report,,2020-2021,Inter
+2020-11-08,15:00,Serie A,Matchweek 7,Sun,Away,D,1,1,Atalanta,0.9,1.0,48,,Samir Handanović,3-5-2,3-4-3,Daniele Doveri,Match Report,,2020-2021,Inter
+2020-11-22,15:00,Serie A,Matchweek 8,Sun,Home,W,4,2,Torino,4.0,2.1,56,,Samir Handanović,3-5-2,3-5-2,Federico La Penna,Match Report,,2020-2021,Inter
+2020-11-25,21:00,Champions Lg,Group stage,Wed,Home,L,0,2,es Real Madrid,0.2,2.0,38,,Samir Handanović,3-5-2,4-2-3-1,Anthony Taylor,Match Report,,2020-2021,Inter
+2020-11-28,15:00,Serie A,Matchweek 9,Sat,Away,W,3,0,Sassuolo,1.2,0.7,35,,Samir Handanović,3-5-2,4-2-3-1,Massimiliano Irrati,Match Report,,2020-2021,Inter
+2020-12-01,21:00,Champions Lg,Group stage,Tue,Away,W,3,2,de Gladbach,1.6,1.3,46,,Samir Handanović,3-5-2,4-2-3-1,Danny Makkelie,Match Report,,2020-2021,Inter
+2020-12-05,20:45,Serie A,Matchweek 10,Sat,Home,W,3,1,Bologna,2.0,1.4,46,,Samir Handanović,3-5-2,3-4-3,Paolo Valeri,Match Report,,2020-2021,Inter
+2020-12-09,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,ua Shakhtar,1.3,0.4,57,,Samir Handanović,3-5-2,5-3-2,Slavko Vinčič,Match Report,,2020-2021,Inter
+2020-12-13,12:45,Serie A,Matchweek 11,Sun,Away,W,3,1,Cagliari,2.8,1.6,58,,Samir Handanović,3-5-2,4-2-3-1,Fabrizio Pasqua,Match Report,,2020-2021,Inter
+2020-12-16,20:45,Serie A,Matchweek 12,Wed,Home,W,1,0,Napoli,1.2,2.2,41,,Samir Handanović,3-5-2,4-2-3-1,Davide Massa,Match Report,,2020-2021,Inter
+2020-12-20,15:00,Serie A,Matchweek 13,Sun,Home,W,2,1,Spezia,1.2,1.0,42,,Samir Handanović,3-5-2,4-3-3,Michael Fabbri,Match Report,,2020-2021,Inter
+2020-12-23,18:30,Serie A,Matchweek 14,Wed,Away,W,2,1,Hellas Verona,1.8,1.5,59,,Samir Handanović,3-4-3,3-4-3,Piero Giacomelli,Match Report,,2020-2021,Inter
+2021-01-03,12:30,Serie A,Matchweek 15,Sun,Home,W,6,2,Crotone,2.4,1.4,48,,Samir Handanović,3-5-2,3-5-2,Gianluca Aureliano,Match Report,,2020-2021,Inter
+2021-01-06,15:00,Serie A,Matchweek 16,Wed,Away,L,1,2,Sampdoria,2.7,1.3,63,,Samir Handanović,3-5-2,4-4-2,Paolo Valeri,Match Report,,2020-2021,Inter
+2021-01-10,12:30,Serie A,Matchweek 17,Sun,Away,D,2,2,Roma,1.6,0.7,50,,Marcelo Brozović,3-5-2,3-4-3,Marco Di Bello,Match Report,,2020-2021,Inter
+2021-01-13,15:00,Coppa Italia,Round of 16,Wed,Away,W,2,1,Fiorentina,,,55,,,,,Davide Massa,Match Report,Required Extra Time,2020-2021,Inter
+2021-01-17,20:45,Serie A,Matchweek 18,Sun,Home,W,2,0,Juventus,1.6,0.5,49,,Samir Handanović,3-5-2,4-4-2,Daniele Doveri,Match Report,,2020-2021,Inter
+2021-01-23,18:00,Serie A,Matchweek 19,Sat,Away,D,0,0,Udinese,0.7,0.3,61,,Samir Handanović,3-5-2,3-5-2,Fabio Maresca,Match Report,,2020-2021,Inter
+2021-01-26,20:45,Coppa Italia,Quarter-finals,Tue,Home,W,2,1,Milan,,,66,,,,,Paolo Valeri,Match Report,,2020-2021,Inter
+2021-01-30,20:45,Serie A,Matchweek 20,Sat,Home,W,4,0,Benevento,1.4,0.0,61,,Samir Handanović,3-5-2,5-3-2,Fabrizio Pasqua,Match Report,,2020-2021,Inter
+2021-02-02,20:45,Coppa Italia,Semi-finals,Tue,Home,L,1,2,Juventus,,,48,,Samir Handanović,3-5-2,4-4-2,Giampaolo Calvarese,Match Report,Leg 1 of 2,2020-2021,Inter
+2021-02-05,20:45,Serie A,Matchweek 21,Fri,Away,W,2,0,Fiorentina,2.2,0.6,55,,Samir Handanović,3-5-2,5-3-2,Federico La Penna,Match Report,,2020-2021,Inter
+2021-02-09,20:45,Coppa Italia,Semi-finals,Tue,Away,D,0,0,Juventus,,,51,,Samir Handanović,3-5-2,4-4-2,Maurizio Mariani,Match Report,Leg 2 of 2; Juventus won,2020-2021,Inter
+2021-02-14,20:45,Serie A,Matchweek 22,Sun,Home,W,3,1,Lazio,2.2,0.7,36,,Samir Handanović,3-5-2,3-5-2,Michael Fabbri,Match Report,,2020-2021,Inter
+2021-02-21,15:00,Serie A,Matchweek 23,Sun,Away,W,3,0,Milan,2.6,0.8,40,,Samir Handanović,3-5-2,4-2-3-1,Daniele Doveri,Match Report,,2020-2021,Inter
+2021-02-28,15:00,Serie A,Matchweek 24,Sun,Home,W,3,0,Genoa,2.7,0.1,51,,Samir Handanović,3-5-2,3-5-2,Daniele Chiffi,Match Report,,2020-2021,Inter
+2021-03-04,20:45,Serie A,Matchweek 25,Thu,Away,W,2,1,Parma,2.9,0.8,47,,Samir Handanović,3-5-2,4-3-1-2,Fabrizio Pasqua,Match Report,,2020-2021,Inter
+2021-03-08,20:45,Serie A,Matchweek 26,Mon,Home,W,1,0,Atalanta,0.2,0.9,44,,Samir Handanović,3-5-2,3-4-3,Maurizio Mariani,Match Report,,2020-2021,Inter
+2021-03-14,15:00,Serie A,Matchweek 27,Sun,Away,W,2,1,Torino,2.5,0.9,68,,Samir Handanović,3-5-2,3-5-2,Paolo Valeri,Match Report,,2020-2021,Inter
+2021-04-03,20:45,Serie A,Matchweek 29,Sat,Away,W,1,0,Bologna,1.9,1.1,44,,Samir Handanović,3-5-2,4-2-3-1,Piero Giacomelli,Match Report,,2020-2021,Inter
+2021-04-07,18:45,Serie A,Matchweek 28,Wed,Home,W,2,1,Sassuolo,1.1,0.7,30,,Samir Handanović,3-5-2,4-2-3-1,Massimiliano Irrati,Match Report,,2020-2021,Inter
+2021-04-11,12:30,Serie A,Matchweek 30,Sun,Home,W,1,0,Cagliari,1.2,0.3,53,,Samir Handanović,3-5-2,3-5-2,Luca Pairetto,Match Report,,2020-2021,Inter
+2021-04-18,20:45,Serie A,Matchweek 31,Sun,Away,D,1,1,Napoli,0.9,0.7,44,,Samir Handanović,3-5-2,4-2-3-1,Daniele Doveri,Match Report,,2020-2021,Inter
+2021-04-21,20:45,Serie A,Matchweek 32,Wed,Away,D,1,1,Spezia,3.1,0.0,64,,Samir Handanović,3-5-2,4-3-3,Daniele Chiffi,Match Report,,2020-2021,Inter
+2021-04-25,15:00,Serie A,Matchweek 33,Sun,Home,W,1,0,Hellas Verona,0.9,1.3,49,,Samir Handanović,3-5-2,3-4-3,Rosario Abisso,Match Report,,2020-2021,Inter
+2021-05-01,18:00,Serie A,Matchweek 34,Sat,Away,W,2,0,Crotone,2.4,0.8,62,,Samir Handanović,3-5-2,3-5-2,Alessandro Prontera,Match Report,,2020-2021,Inter
+2021-05-08,18:00,Serie A,Matchweek 35,Sat,Home,W,5,1,Sampdoria,1.9,1.5,55,,Samir Handanović,3-5-2,4-4-1-1,Giovanni Ayroldi,Match Report,,2020-2021,Inter
+2021-05-12,20:45,Serie A,Matchweek 36,Wed,Home,W,3,1,Roma,1.7,0.9,52,,Andrea Ranocchia,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2020-2021,Inter
+2021-05-15,18:00,Serie A,Matchweek 37,Sat,Away,L,2,3,Juventus,1.4,2.8,59,,Samir Handanović,3-5-2,4-4-2,Giampaolo Calvarese,Match Report,,2020-2021,Inter
+2021-05-23,15:00,Serie A,Matchweek 38,Sun,Home,W,5,1,Udinese,3.0,1.3,48,1000.0,Samir Handanović,3-5-2,3-5-1-1,Manuel Volpi,Match Report,,2020-2021,Inter

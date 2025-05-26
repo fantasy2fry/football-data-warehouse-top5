@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-08-22,17:00,Ligue 1,Matchweek 1,Sat,Away,W,1,0,Dijon,1.5,0.9,46.0,,Ismaël Traoré,4-1-4-1,4-3-3,Eric Wattellier,Match Report,,2020-2021,Angers
+2020-08-30,15:00,Ligue 1,Matchweek 2,Sun,Home,L,0,2,Bordeaux,0.8,2.0,57.0,,Ismaël Traoré,4-1-4-1,4-2-3-1,Karim Abed,Match Report,,2020-2021,Angers
+2020-09-13,15:00,Ligue 1,Matchweek 3,Sun,Home,W,1,0,Reims,2.0,0.4,58.0,,Ismaël Traoré,4-1-4-1,4-4-2,Benoît Bastien,Match Report,,2020-2021,Angers
+2020-09-20,15:00,Ligue 1,Matchweek 4,Sun,Away,L,1,4,Montpellier,1.1,1.6,50.0,,Ismaël Traoré,3-4-3,3-4-1-2,Stéphanie Frappart,Match Report,,2020-2021,Angers
+2020-09-27,15:00,Ligue 1,Matchweek 5,Sun,Home,W,3,2,Brest,1.1,3.0,53.0,,Ismaël Traoré,4-3-3,4-2-3-1,Jeremy Stinat,Match Report,,2020-2021,Angers
+2020-10-02,21:00,Ligue 1,Matchweek 6,Fri,Away,L,1,6,Paris S-G,1.0,2.4,43.0,,Ismaël Traoré,5-4-1,4-4-2,Franck Schneider,Match Report,,2020-2021,Angers
+2020-10-18,15:00,Ligue 1,Matchweek 7,Sun,Home,D,1,1,Metz,1.1,1.1,47.0,,Ismaël Traoré,4-1-4-1,4-2-3-1,Aurélien Petit,Match Report,,2020-2021,Angers
+2020-10-23,21:00,Ligue 1,Matchweek 8,Fri,Away,W,2,1,Rennes,1.2,1.4,37.0,,Ismaël Traoré,4-2-3-1,4-1-4-1,Jérémie Pignard,Match Report,,2020-2021,Angers
+2020-11-01,15:00,Ligue 1,Matchweek 9,Sun,Home,L,0,3,Nice,0.4,2.3,52.0,,Ismaël Traoré,4-2-3-1,5-4-1,Jeremy Stinat,Match Report,,2020-2021,Angers
+2020-11-08,15:00,Ligue 1,Matchweek 10,Sun,Away,W,5,1,Nîmes,2.8,1.9,41.0,,Ismaël Traoré,4-2-3-1,4-3-3,Franck Schneider,Match Report,,2020-2021,Angers
+2020-11-22,17:00,Ligue 1,Matchweek 11,Sun,Home,L,0,1,Lyon,1.1,1.0,50.0,,Ismaël Traoré,4-2-3-1,4-3-3,Amaury Delerue,Match Report,,2020-2021,Angers
+2020-11-29,15:00,Ligue 1,Matchweek 12,Sun,Away,W,3,1,Lens,2.3,1.4,36.0,,Ismaël Traoré,4-2-3-1,3-4-1-2,Aurélien Petit,Match Report,,2020-2021,Angers
+2020-12-06,15:00,Ligue 1,Matchweek 13,Sun,Home,W,2,0,Lorient,2.0,0.6,48.0,,Ismaël Traoré,4-2-3-1,4-3-3,Thomas Léonard,Match Report,,2020-2021,Angers
+2020-12-11,21:00,Ligue 1,Matchweek 14,Fri,Away,D,0,0,Saint-Étienne,0.7,1.3,38.0,,Ismaël Traoré,4-2-3-1,4-2-3-1,Jérôme Miguelgorry,Match Report,,2020-2021,Angers
+2020-12-16,19:00,Ligue 1,Matchweek 15,Wed,Home,L,0,2,Strasbourg,0.4,0.6,57.0,,Ismaël Traoré,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2020-2021,Angers
+2020-12-20,15:00,Ligue 1,Matchweek 16,Sun,Away,D,1,1,Nantes,1.1,0.5,40.0,,Ismaël Traoré,4-2-3-1,4-1-4-1,Willy Delajod,Match Report,,2020-2021,Angers
+2020-12-23,21:00,Ligue 1,Matchweek 17,Wed,Home,W,2,1,Marseille,0.6,1.5,31.0,,Ismaël Traoré,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Angers
+2021-01-06,21:00,Ligue 1,Matchweek 18,Wed,Away,W,2,1,Lille,0.6,0.4,35.0,,Ismaël Traoré,4-2-3-1,4-4-2,Thomas Léonard,Match Report,,2020-2021,Angers
+2021-01-09,21:00,Ligue 1,Matchweek 19,Sat,Away,L,0,3,Monaco,0.7,2.1,44.0,,Ismaël Traoré,4-2-3-1,4-4-2,Benoît Bastien,Match Report,,2020-2021,Angers
+2021-01-16,21:00,Ligue 1,Matchweek 20,Sat,Home,L,0,1,Paris S-G,0.9,1.4,39.0,,Ismaël Traoré,4-4-2,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Angers
+2021-01-24,13:00,Ligue 1,Matchweek 21,Sun,Away,L,1,2,Bordeaux,1.8,1.3,54.0,,Ismaël Traoré,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2020-2021,Angers
+2021-01-31,15:00,Ligue 1,Matchweek 22,Sun,Home,W,3,1,Nîmes,1.5,1.1,40.0,,Ismaël Traoré,4-2-3-1,4-1-4-1,Ruddy Buquet,Match Report,,2020-2021,Angers
+2021-02-03,19:00,Ligue 1,Matchweek 23,Wed,Away,D,0,0,Reims,0.3,0.5,43.0,,Thomas Mangani,4-2-3-1,4-1-4-1,Aurélien Petit,Match Report,,2020-2021,Angers
+2021-02-07,15:00,Ligue 1,Matchweek 24,Sun,Away,L,0,3,Nice,0.9,1.2,49.0,,Ismaël Traoré,4-2-3-1,4-3-3,Jérôme Miguelgorry,Match Report,,2020-2021,Angers
+2021-02-11,21:00,Coupe de France,Round of 64,Thu,Home,W,2,1,Rennes,,,,,Romain Thomas,4-4-1-1,3-4-3,Benoît Bastien,Match Report,,2020-2021,Angers
+2021-02-14,15:00,Ligue 1,Matchweek 25,Sun,Home,L,1,3,Nantes,1.5,2.0,65.0,,Ismaël Traoré,4-2-3-1,4-4-2,François Letexier,Match Report,,2020-2021,Angers
+2021-02-21,15:00,Ligue 1,Matchweek 26,Sun,Away,D,0,0,Strasbourg,0.3,1.2,43.0,,Ismaël Traoré,4-2-3-1,4-1-2-1-2,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Angers
+2021-02-28,15:00,Ligue 1,Matchweek 27,Sun,Home,D,2,2,Lens,1.6,1.3,40.0,,Ismaël Traoré,4-2-3-1,3-4-1-2,Bastien Dechepy,Match Report,,2020-2021,Angers
+2021-03-03,19:00,Ligue 1,Matchweek 28,Wed,Away,W,1,0,Metz,1.1,0.8,35.0,,Ismaël Traoré,5-4-1,3-4-1-2,Johan Hamel,Match Report,,2020-2021,Angers
+2021-03-07,18:30,Coupe de France,Round of 32,Sun,Home,W,5,0,C. Franciscain,,,70.0,,Thomas Mangani,4-2-3-1,4-2-3-1,Jérôme Miguelgorry,Match Report,,2020-2021,Angers
+2021-03-13,13:00,Ligue 1,Matchweek 29,Sat,Home,L,0,1,Saint-Étienne,0.2,0.8,54.0,,Ismaël Traoré,4-2-3-1,3-4-1-2,Benoît Millot,Match Report,,2020-2021,Angers
+2021-03-21,15:00,Ligue 1,Matchweek 30,Sun,Away,D,0,0,Brest,0.8,0.6,48.0,,Ismaël Traoré,4-4-1-1,4-4-2,Aurélien Petit,Match Report,,2020-2021,Angers
+2021-04-04,13:00,Ligue 1,Matchweek 31,Sun,Home,D,1,1,Montpellier,1.1,2.2,62.0,,Ismaël Traoré,4-4-1-1,4-2-3-1,Florent Batta,Match Report,,2020-2021,Angers
+2021-04-07,16:45,Coupe de France,Round of 16,Wed,Away,W,1,0,Sedan,,,54.0,,Thomas Mangani,4-4-1-1,4-1-4-1,Eric Wattellier,Match Report,,2020-2021,Angers
+2021-04-11,21:00,Ligue 1,Matchweek 32,Sun,Away,L,0,3,Lyon,1.2,2.6,47.0,,Ismaël Traoré,5-3-2,4-2-3-1,Mikael Lesage,Match Report,,2020-2021,Angers
+2021-04-17,12:45,Ligue 1,Matchweek 33,Sat,Home,L,0,3,Rennes,0.6,1.3,41.0,,Ismaël Traoré,4-3-3,4-3-3,Thomas Léonard,Match Report,,2020-2021,Angers
+2021-04-21,18:45,Coupe de France,Quarter-finals,Wed,Away,L,0,5,Paris S-G,,,34.0,,Thomas Mangani,4-2-3-1,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Angers
+2021-04-25,17:05,Ligue 1,Matchweek 34,Sun,Home,L,0,1,Monaco,0.1,1.6,42.0,,Ismaël Traoré,5-3-2,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Angers
+2021-05-02,15:00,Ligue 1,Matchweek 35,Sun,Away,L,0,2,Lorient,0.8,1.7,50.0,,Ismaël Traoré,5-3-2,5-3-2,Willy Delajod,Match Report,,2020-2021,Angers
+2021-05-09,15:00,Ligue 1,Matchweek 36,Sun,Home,W,3,0,Dijon,1.9,0.3,44.0,,Thomas Mangani,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Angers
+2021-05-16,21:00,Ligue 1,Matchweek 37,Sun,Away,L,2,3,Marseille,1.7,2.4,47.0,,Thomas Mangani,4-2-3-1,4-4-2,Franck Schneider,Match Report,,2020-2021,Angers
+2021-05-23,21:00,Ligue 1,Matchweek 38,Sun,Home,L,1,2,Lille,0.6,1.6,57.0,,Romain Thomas,4-2-3-1,4-4-2,Benoît Bastien,Match Report,,2020-2021,Angers

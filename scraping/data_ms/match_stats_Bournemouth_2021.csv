@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-07-31,15:00,EFL Cup,First round,Sat,Home,W,5,0,MK Dons,,,57,5746.0,Lloyd Kelly,4-3-3,3-5-2,Sam Purkiss,Match Report,,2021-2022,Bournemouth
+2021-08-06,19:45,Championship,Matchweek 1,Fri,Home,D,2,2,West Brom,0.7,2.1,56,9254.0,Lloyd Kelly,4-3-3,3-4-3,Dean Whitestone,Match Report,,2021-2022,Bournemouth
+2021-08-14,15:00,Championship,Matchweek 2,Sat,Away,W,2,1,Nott'ham Forest,0.6,0.8,45,25035.0,Lloyd Kelly,4-3-3,4-2-3-1,Geoff Eltringham,Match Report,,2021-2022,Bournemouth
+2021-08-18,19:45,Championship,Matchweek 3,Wed,Away,W,2,0,Birmingham City,0.6,0.6,64,9922.0,Lloyd Kelly,4-3-3,3-4-3,Andrew Davies,Match Report,,2021-2022,Bournemouth
+2021-08-21,15:00,Championship,Matchweek 4,Sat,Home,D,2,2,Blackpool,1.4,2.0,61,9187.0,Lloyd Kelly,4-3-3,4-4-2,Steve Martin,Match Report,,2021-2022,Bournemouth
+2021-08-24,19:00,EFL Cup,Second round,Tue,Away,L,0,6,Norwich City,,,51,20090.0,Steve Cook,4-3-3,4-3-3,Charles Breakspear,Match Report,,2021-2022,Bournemouth
+2021-08-28,15:00,Championship,Matchweek 5,Sat,Away,D,0,0,Hull City,1.7,0.3,57,10199.0,Lloyd Kelly,4-4-2,4-2-3-1,Geoff Eltringham,Match Report,,2021-2022,Bournemouth
+2021-09-11,15:00,Championship,Matchweek 6,Sat,Home,W,3,0,Barnsley,2.2,0.1,62,,Lloyd Kelly,4-2-3-1,3-4-3,James Linington,Match Report,,2021-2022,Bournemouth
+2021-09-14,19:45,Championship,Matchweek 7,Tue,Home,W,2,1,QPR,1.5,1.3,41,10495.0,Lloyd Kelly,4-3-3,3-4-1-2,Keith Stroud,Match Report,,2021-2022,Bournemouth
+2021-09-18,15:00,Championship,Matchweek 8,Sat,Away,W,1,0,Cardiff City,1.2,0.6,63,19090.0,Lloyd Kelly,4-3-3,5-4-1,Joshua Smith,Match Report,,2021-2022,Bournemouth
+2021-09-25,15:00,Championship,Matchweek 9,Sat,Home,W,2,1,Luton Town,0.6,1.4,59,9737.0,Lloyd Kelly,4-3-3,4-3-3,Tim Robinson,Match Report,,2021-2022,Bournemouth
+2021-09-29,19:45,Championship,Matchweek 10,Wed,Away,D,0,0,P'borough Utd,1.5,0.1,61,8971.0,Lloyd Kelly,4-1-4-1,4-4-1-1,Andy Woolmer,Match Report,,2021-2022,Bournemouth
+2021-10-02,15:00,Championship,Matchweek 11,Sat,Home,W,2,1,Sheffield Utd,1.9,1.2,39,9349.0,Lloyd Kelly,4-3-3,4-2-3-1,Robert Jones,Match Report,,2021-2022,Bournemouth
+2021-10-16,15:00,Championship,Matchweek 12,Sat,Away,W,2,0,Bristol City,2.5,1.0,72,20828.0,Lloyd Kelly,4-1-4-1,4-4-2,Gavin Ward,Match Report,,2021-2022,Bournemouth
+2021-10-19,19:45,Championship,Matchweek 13,Tue,Away,W,1,0,Stoke City,1.2,1.7,52,18427.0,Lloyd Kelly,4-3-3,3-5-2,Dean Whitestone,Match Report,,2021-2022,Bournemouth
+2021-10-23,15:00,Championship,Matchweek 14,Sat,Home,W,3,0,Huddersfield,2.6,0.3,61,9253.0,Lloyd Kelly,4-3-3,3-4-3,John Brooks,Match Report,,2021-2022,Bournemouth
+2021-10-30,20:00,Championship,Matchweek 15,Sat,Away,W,2,0,Reading,1.0,1.0,51,13551.0,Lloyd Kelly,4-3-3,4-2-3-1,Oliver Langford,Match Report,,2021-2022,Bournemouth
+2021-11-03,19:45,Championship,Matchweek 16,Wed,Home,L,1,2,Preston,1.1,0.9,62,9345.0,Lloyd Kelly,4-3-3,3-4-1-2,David Webb,Match Report,,2021-2022,Bournemouth
+2021-11-06,15:00,Championship,Matchweek 17,Sat,Home,W,4,0,Swansea City,3.2,0.2,40,9725.0,Lloyd Kelly,4-2-3-1,3-4-3,Tony Harrington,Match Report,,2021-2022,Bournemouth
+2021-11-21,12:00,Championship,Matchweek 18,Sun,Away,L,2,3,Derby County,1.7,1.9,52,20764.0,Gary Cahill,4-2-3-1,4-5-1,Gavin Ward,Match Report,,2021-2022,Bournemouth
+2021-11-24,19:45,Championship,Matchweek 19,Wed,Away,D,1,1,Millwall,1.1,0.7,51,12237.0,Gary Cahill,4-2-3-1,3-4-3,Dean Whitestone,Match Report,,2021-2022,Bournemouth
+2021-11-27,15:00,Championship,Matchweek 20,Sat,Home,D,2,2,Coventry City,1.7,0.9,56,11094.0,Steve Cook,3-5-2,3-4-3,David Coote,Match Report,,2021-2022,Bournemouth
+2021-12-03,19:45,Championship,Matchweek 21,Fri,Away,D,1,1,Fulham,0.9,3.0,37,19020.0,Steve Cook,4-1-2-1-2◆,4-2-3-1,Tim Robinson,Match Report,,2021-2022,Bournemouth
+2021-12-11,15:00,Championship,Matchweek 22,Sat,Home,L,0,2,Blackburn,1.6,1.9,67,10064.0,Steve Cook,4-3-3,3-4-1-2,Simon Hooper,Match Report,,2021-2022,Bournemouth
+2021-12-18,12:30,Championship,Matchweek 23,Sat,Away,L,0,1,Middlesbrough,1.3,2.9,58,18323.0,Lloyd Kelly,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,,2021-2022,Bournemouth
+2021-12-27,17:30,Championship,Matchweek 24,Mon,Away,W,1,0,QPR,2.2,0.3,44,16308.0,Gary Cahill,4-2-3-1,3-4-3,Keith Stroud,Match Report,,2021-2022,Bournemouth
+2021-12-30,19:45,Championship,Matchweek 25,Thu,Home,W,3,0,Cardiff City,3.2,0.8,71,8942.0,Lloyd Kelly,4-3-3,3-4-3,James Linington,Match Report,,2021-2022,Bournemouth
+2022-01-08,17:45,FA Cup,Third round proper,Sat,Away,W,3,1,Yeovil Town,,,64,7818.0,Chris Mepham,4-3-3,4-4-2,Jeremy Simpson,Match Report,,2021-2022,Bournemouth
+2022-01-15,12:30,Championship,Matchweek 27,Sat,Away,L,2,3,Luton Town,1.4,1.7,63,9649.0,Lloyd Kelly,4-3-3,3-5-2,Leigh Doughty,Match Report,,2021-2022,Bournemouth
+2022-01-22,15:00,Championship,Matchweek 28,Sat,Home,L,0,1,Hull City,1.7,0.5,68,8823.0,Lloyd Kelly,4-3-3,3-4-1-2,Matt Donohue,Match Report,,2021-2022,Bournemouth
+2022-01-29,15:00,Championship,Matchweek 29,Sat,Away,W,1,0,Barnsley,1.8,1.7,69,11972.0,Lloyd Kelly,4-3-3,3-5-2,Andre Marriner,Match Report,,2021-2022,Bournemouth
+2022-02-06,18:30,FA Cup,Fourth round proper,Sun,Home,L,0,1,Boreham Wood,,,82,9548.0,Lewis Cook,4-3-3,3-4-1-2,Graham Scott,Match Report,,2021-2022,Bournemouth
+2022-02-09,19:45,Championship,Matchweek 31,Wed,Home,W,3,1,Birmingham City,1.3,1.2,53,8708.0,Lloyd Kelly,4-3-3,3-4-1-2,James Linington,Match Report,,2021-2022,Bournemouth
+2022-02-12,15:00,Championship,Matchweek 32,Sat,Away,W,2,1,Blackpool,1.9,1.1,69,11141.0,Lloyd Kelly,4-3-3,4-4-2,Dean Whitestone,Match Report,,2021-2022,Bournemouth
+2022-02-26,15:00,Championship,Matchweek 35,Sat,Home,W,2,1,Stoke City,2.7,0.7,67,9613.0,Lloyd Kelly,4-3-3,3-5-2,Tim Robinson,Match Report,,2021-2022,Bournemouth
+2022-03-05,15:00,Championship,Matchweek 36,Sat,Away,L,1,2,Preston,1.2,0.7,60,12173.0,Lloyd Kelly,4-3-3,3-4-1-2,Matt Donohue,Match Report,,2021-2022,Bournemouth
+2022-03-08,19:45,Championship,Matchweek 26,Tue,Home,D,1,1,P'borough Utd,1.8,0.8,66,8293.0,Lloyd Kelly,4-3-3,3-4-1-2,Gavin Ward,Match Report,,2021-2022,Bournemouth
+2022-03-12,15:00,Championship,Matchweek 37,Sat,Home,W,2,0,Derby County,1.7,0.7,47,9834.0,Lloyd Kelly,4-3-3,4-2-3-1,Andy Madley,Match Report,,2021-2022,Bournemouth
+2022-03-15,19:45,Championship,Matchweek 38,Tue,Home,D,1,1,Reading,0.9,0.5,49,9085.0,Lloyd Kelly,4-3-3,4-2-3-1,Leigh Doughty,Match Report,,2021-2022,Bournemouth
+2022-03-19,15:00,Championship,Matchweek 39,Sat,Away,W,3,0,Huddersfield,1.7,0.5,62,20336.0,Lloyd Kelly,4-3-3,4-4-2,Simon Hooper,Match Report,,2021-2022,Bournemouth
+2022-04-02,15:00,Championship,Matchweek 40,Sat,Home,W,3,2,Bristol City,3.2,1.5,67,9937.0,Lloyd Kelly,4-3-3,3-4-1-2,Steve Martin,Match Report,,2021-2022,Bournemouth
+2022-04-06,20:00,Championship,Matchweek 30,Wed,Away,L,0,2,West Brom,1.1,0.6,67,20501.0,Lloyd Kelly,4-3-3,3-5-2,Keith Stroud,Match Report,,2021-2022,Bournemouth
+2022-04-09,12:45,Championship,Matchweek 41,Sat,Away,D,0,0,Sheffield Utd,0.4,1.2,50,26769.0,Lloyd Kelly,4-2-3-1,3-5-2,Dean Whitestone,Match Report,,2021-2022,Bournemouth
+2022-04-15,15:00,Championship,Matchweek 42,Fri,Home,D,0,0,Middlesbrough,0.8,0.3,51,9903.0,Lloyd Kelly,4-2-3-1,3-5-2,Tim Robinson,Match Report,,2021-2022,Bournemouth
+2022-04-18,15:00,Championship,Matchweek 43,Mon,Away,W,3,0,Coventry City,1.2,0.8,43,24492.0,Lloyd Kelly,4-2-3-1,3-5-1-1,Matt Donohue,Match Report,,2021-2022,Bournemouth
+2022-04-23,15:00,Championship,Matchweek 44,Sat,Home,D,1,1,Fulham,1.2,0.6,52,10352.0,Lloyd Kelly,4-1-3-2,4-2-3-1,Graham Scott,Match Report,,2021-2022,Bournemouth
+2022-04-26,19:45,Championship,Matchweek 34,Tue,Away,D,3,3,Swansea City,3.8,0.6,52,17780.0,Lloyd Kelly,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,2021-2022,Bournemouth
+2022-04-30,15:00,Championship,Matchweek 45,Sat,Away,W,3,0,Blackburn,2.7,0.8,39,21396.0,Lloyd Kelly,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2021-2022,Bournemouth
+2022-05-03,19:00,Championship,Matchweek 33,Tue,Home,W,1,0,Nott'ham Forest,0.5,1.2,59,10563.0,Lloyd Kelly,4-2-3-1,3-4-1-2,Stuart Attwell,Match Report,,2021-2022,Bournemouth
+2022-05-07,12:30,Championship,Matchweek 46,Sat,Home,W,1,0,Millwall,2.6,0.5,60,10244.0,Lloyd Kelly,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2021-2022,Bournemouth

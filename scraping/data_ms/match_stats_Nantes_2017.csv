@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-06,15:00,Ligue 1,Matchweek 1,Sun,Away,L,0,3,Lille,1.3,1.9,38.0,30683,Leo Dubois,4-4-2,5-4-1,Benoît Millot,Match Report,,2017-2018,Nantes
+2017-08-12,17:00,Ligue 1,Matchweek 2,Sat,Home,L,0,1,Marseille,1.3,1.6,38.0,33654,Valentin Rongier,4-4-2,4-2-3-1,Ruddy Buquet,Match Report,,2017-2018,Nantes
+2017-08-19,20:00,Ligue 1,Matchweek 3,Sat,Away,W,1,0,Troyes,0.9,0.8,36.0,11035,Koffi Djidji,4-2-3-1,4-2-3-1,Sébastien Desiage,Match Report,,2017-2018,Nantes
+2017-08-26,17:15,Ligue 1,Matchweek 4,Sat,Home,D,0,0,Lyon,0.3,1.1,38.0,30718,Leo Dubois,4-4-2,4-2-3-1,Antony Gautier,Match Report,,2017-2018,Nantes
+2017-09-09,20:00,Ligue 1,Matchweek 5,Sat,Away,W,1,0,Montpellier,0.7,0.5,39.0,10298,Leo Dubois,4-2-3-1,4-4-2,Jérôme Miguelgorry,Match Report,,2017-2018,Nantes
+2017-09-16,20:00,Ligue 1,Matchweek 6,Sat,Home,W,1,0,Caen,0.4,0.3,45.0,20245,Leo Dubois,4-2-3-1,4-4-2,Olivier Thual,Match Report,,2017-2018,Nantes
+2017-09-24,17:00,Ligue 1,Matchweek 7,Sun,Away,W,2,1,Strasbourg,0.5,1.5,32.0,23408,Leo Dubois,4-4-2,4-1-2-1-2,Sébastien Desiage,Match Report,,2017-2018,Nantes
+2017-09-30,20:00,Ligue 1,Matchweek 8,Sat,Home,W,1,0,Metz,1.9,1.4,53.0,22104,Leo Dubois,4-4-2,4-2-3-1,Johan Hamel,Match Report,,2017-2018,Nantes
+2017-10-15,15:00,Ligue 1,Matchweek 9,Sun,Away,D,1,1,Bordeaux,1.1,1.1,44.0,31048,Leo Dubois,4-2-3-1,4-3-3,Karim Abed,Match Report,,2017-2018,Nantes
+2017-10-21,20:00,Ligue 1,Matchweek 10,Sat,Home,W,2,1,Guingamp,0.7,0.9,45.0,27711,Leo Dubois,4-2-3-1,4-3-3,Amaury Delerue,Match Report,,2017-2018,Nantes
+2017-10-25,21:05,Coupe de la Ligue,Third round,Wed,Away,L,1,3,Tours,,,,9477,Valentin Rongier,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2017-2018,Nantes
+2017-10-28,20:00,Ligue 1,Matchweek 11,Sat,Away,L,0,1,Dijon,1.1,0.4,48.0,11764,Leo Dubois,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2017-2018,Nantes
+2017-11-04,20:00,Ligue 1,Matchweek 12,Sat,Home,W,2,1,Toulouse,0.7,0.8,41.0,21390,Leo Dubois,4-4-1-1,4-4-2,Antony Gautier,Match Report,,2017-2018,Nantes
+2017-11-18,17:00,Ligue 1,Matchweek 13,Sat,Away,L,1,4,Paris S-G,1.0,1.9,27.0,47680,Leo Dubois,4-4-1-1,4-3-3,Nicolas Rainville,Match Report,,2017-2018,Nantes
+2017-11-25,17:00,Ligue 1,Matchweek 14,Sat,Away,L,1,2,Rennes,1.2,1.3,48.0,26151,Leo Dubois,4-4-2,4-2-3-1,Ruddy Buquet,Match Report,,2017-2018,Nantes
+2017-11-29,19:00,Ligue 1,Matchweek 15,Wed,Home,W,1,0,Monaco,0.8,0.5,52.0,24800,Leo Dubois,4-1-4-1,4-2-3-1,Benoît Millot,Match Report,,2017-2018,Nantes
+2017-12-03,15:00,Ligue 1,Matchweek 16,Sun,Away,D,1,1,Saint-Étienne,1.8,0.9,52.0,24085,Leo Dubois,4-1-4-1,4-3-3,François Letexier,Match Report,,2017-2018,Nantes
+2017-12-10,17:00,Ligue 1,Matchweek 17,Sun,Home,L,1,2,Nice,2.0,0.7,39.0,19723,Leo Dubois,4-1-4-1,4-3-3,Jérôme Miguelgorry,Match Report,,2017-2018,Nantes
+2017-12-17,15:00,Ligue 1,Matchweek 18,Sun,Home,W,1,0,Angers,1.3,0.3,39.0,24285,Leo Dubois,4-4-2,4-1-2-1-2,Karim Abed,Match Report,,2017-2018,Nantes
+2017-12-20,20:50,Ligue 1,Matchweek 19,Wed,Away,W,1,0,Amiens,1.1,0.9,53.0,8865,Leo Dubois,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2017-2018,Nantes
+2018-01-07,17:30,Coupe de France,Round of 64,Sun,Away,W,4,0,Senlis,,,,4528,Valentin Rongier,,,Bastien Dechepy,Match Report,,2017-2018,Nantes
+2018-01-14,21:00,Ligue 1,Matchweek 20,Sun,Home,L,0,1,Paris S-G,0.9,2.1,33.0,34486,Leo Dubois,4-4-2,4-3-3,Tony Chapron,Match Report,,2017-2018,Nantes
+2018-01-17,19:00,Ligue 1,Matchweek 21,Wed,Away,D,1,1,Toulouse,0.5,1.6,39.0,13742,Abdoulaye Touré,4-4-2,4-2-3-1,Thomas Léonard,Match Report,,2017-2018,Nantes
+2018-01-20,17:00,Ligue 1,Matchweek 22,Sat,Home,L,0,1,Bordeaux,0.7,0.4,55.0,26076,Leo Dubois,4-2-3-1,4-2-3-1,Johan Hamel,Match Report,,2017-2018,Nantes
+2018-01-23,18:30,Coupe de France,Round of 32,Tue,Home,L,3,4,Auxerre,,,,13618,Leo Dubois,,,Amaury Delerue,Match Report,,2017-2018,Nantes
+2018-01-27,20:00,Ligue 1,Matchweek 23,Sat,Away,W,3,0,Guingamp,1.8,0.4,45.0,13761,Leo Dubois,4-2-3-1,4-2-3-1,Benoît Millot,Match Report,,2017-2018,Nantes
+2018-02-04,17:00,Ligue 1,Matchweek 24,Sun,Away,L,2,3,Caen,0.9,1.6,50.0,16121,Leo Dubois,4-2-3-1,4-1-2-1-2,Karim Abed,Match Report,,2017-2018,Nantes
+2018-02-11,17:00,Ligue 1,Matchweek 25,Sun,Home,D,2,2,Lille,2.1,0.4,40.0,22655,Leo Dubois,4-2-3-1,4-2-3-1,Mikael Lesage,Match Report,,2017-2018,Nantes
+2018-02-18,15:00,Ligue 1,Matchweek 26,Sun,Away,D,1,1,Nice,1.3,1.0,34.0,20966,Leo Dubois,4-2-3-1,4-3-3,Clément Turpin,Match Report,,2017-2018,Nantes
+2018-02-24,20:00,Ligue 1,Matchweek 27,Sat,Home,L,0,1,Amiens,1.4,0.5,65.0,18830,Leo Dubois,4-2-3-1,4-2-3-1,Stéphane Jochem,Match Report,,2017-2018,Nantes
+2018-03-04,21:00,Ligue 1,Matchweek 28,Sun,Away,D,1,1,Marseille,1.1,1.8,21.0,44203,Leo Dubois,4-2-3-1,4-2-3-1,Antony Gautier,Match Report,,2017-2018,Nantes
+2018-03-10,20:00,Ligue 1,Matchweek 29,Sat,Home,W,1,0,Troyes,1.4,0.4,58.0,17776,Leo Dubois,4-2-3-1,4-4-1-1,Jérôme Brisard,Match Report,,2017-2018,Nantes
+2018-03-18,15:00,Ligue 1,Matchweek 30,Sun,Away,D,1,1,Metz,1.1,1.0,54.0,13058,Leo Dubois,4-2-3-1,4-2-3-1,Benoît Millot,Match Report,,2017-2018,Nantes
+2018-04-01,17:00,Ligue 1,Matchweek 31,Sun,Home,L,0,3,Saint-Étienne,2.1,1.6,53.0,31043,Leo Dubois,4-2-3-1,4-2-3-1,Stephan Klossner,Match Report,,2017-2018,Nantes
+2018-04-07,17:00,Ligue 1,Matchweek 32,Sat,Away,L,1,2,Monaco,0.4,0.3,37.0,8557,Leo Dubois,4-1-4-1,4-2-3-1,François Letexier,Match Report,,2017-2018,Nantes
+2018-04-14,20:00,Ligue 1,Matchweek 33,Sat,Home,D,1,1,Dijon,1.4,0.5,41.0,19209,Leo Dubois,4-4-2,4-2-3-1,Olivier Thual,Match Report,,2017-2018,Nantes
+2018-04-20,19:30,Ligue 1,Matchweek 34,Fri,Home,D,1,1,Rennes,1.5,0.9,40.0,32431,Koffi Djidji,4-4-2,4-3-3,Benoît Bastien,Match Report,,2017-2018,Nantes
+2018-04-28,17:00,Ligue 1,Matchweek 35,Sat,Away,L,0,2,Lyon,0.5,2.7,40.0,50443,Leo Dubois,4-2-3-1,4-1-2-1-2,Antony Gautier,Match Report,,2017-2018,Nantes
+2018-05-06,17:00,Ligue 1,Matchweek 36,Sun,Home,L,0,2,Montpellier,1.2,0.5,56.0,19895,Leo Dubois,3-4-1-2,3-4-1-2,Franck Schneider,Match Report,,2017-2018,Nantes
+2018-05-12,21:00,Ligue 1,Matchweek 37,Sat,Away,W,2,0,Angers,1.0,0.7,50.0,15567,Leo Dubois,4-3-1-2,4-1-4-1,Benoît Millot,Match Report,,2017-2018,Nantes
+2018-05-19,21:00,Ligue 1,Matchweek 38,Sat,Home,W,1,0,Strasbourg,0.6,0.5,44.0,19595,Leo Dubois,4-3-1-2,5-3-2,Ruddy Buquet,Match Report,,2017-2018,Nantes

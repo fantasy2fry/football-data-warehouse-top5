@@ -1,0 +1,50 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-01,20:46,DFB-Pokal,Round of 64,Mon,Away,W,4,0,Magdeburg,,,45,26350,Kevin Trapp,3-4-3,4-3-3,Felix Zwayer,Match Report,,2022-2023,Eint Frankfurt
+2022-08-05,20:30,Bundesliga,Matchweek 1,Fri,Home,L,1,6,Bayern Munich,0.9,4.0,37,51500,Sebastian Rode,3-4-3,4-4-2,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2022-08-10,22:00,Super Cup,UEFA Super Cup,Wed,Away,L,0,2,es Real Madrid,,,42,31042,Sebastian Rode,3-4-3,4-3-3,Michael Oliver,Match Report,,2022-2023,Eint Frankfurt
+2022-08-13,15:30,Bundesliga,Matchweek 2,Sat,Away,D,1,1,Hertha BSC,1.6,1.7,61,45000,Kevin Trapp,3-4-3,4-3-3,Frank Willenborg,Match Report,,2022-2023,Eint Frankfurt
+2022-08-21,15:30,Bundesliga,Matchweek 3,Sun,Home,D,1,1,Köln,0.9,0.3,54,50800,Sebastian Rode,4-2-3-1,4-1-2-1-2,Martin Petersen,Match Report,,2022-2023,Eint Frankfurt
+2022-08-28,17:30,Bundesliga,Matchweek 4,Sun,Away,W,4,3,Werder Bremen,1.8,1.8,46,41000,Sebastian Rode,4-2-3-1,3-5-2,Patrick Ittrich,Match Report,,2022-2023,Eint Frankfurt
+2022-09-03,18:30,Bundesliga,Matchweek 5,Sat,Home,W,4,0,RB Leipzig,3.1,0.2,44,49700,Sebastian Rode,4-2-3-1,3-4-1-2,Felix Brych,Match Report,,2022-2023,Eint Frankfurt
+2022-09-07,18:45,Champions Lg,Group stage,Wed,Home,L,0,3,pt Sporting CP,0.8,0.9,45,50500,Kevin Trapp,4-2-3-1,3-4-3,Orel Grinfeeld,Match Report,,2022-2023,Eint Frankfurt
+2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Home,L,0,1,Wolfsburg,0.7,1.0,62,49000,Kevin Trapp,4-2-3-1,4-3-3,Tobias Reichel,Match Report,,2022-2023,Eint Frankfurt
+2022-09-13,21:00,Champions Lg,Group stage,Tue,Away,W,1,0,fr Marseille,1.2,0.9,39,62500,Kevin Trapp,3-4-3,3-4-3,José Sánchez,Match Report,,2022-2023,Eint Frankfurt
+2022-09-17,15:30,Bundesliga,Matchweek 7,Sat,Away,W,3,1,Stuttgart,1.0,1.0,44,47500,Sebastian Rode,3-4-3,3-5-2,Daniel Siebert,Match Report,,2022-2023,Eint Frankfurt
+2022-10-01,15:30,Bundesliga,Matchweek 8,Sat,Home,W,2,0,Union Berlin,0.8,1.0,47,50500,Sebastian Rode,3-4-3,3-5-2,Sascha Stegemann,Match Report,,2022-2023,Eint Frankfurt
+2022-10-04,21:00,Champions Lg,Group stage,Tue,Home,D,0,0,eng Tottenham,1.0,1.5,44,50500,Sebastian Rode,3-4-3,3-4-3,Daniele Orsato,Match Report,,2022-2023,Eint Frankfurt
+2022-10-08,15:30,Bundesliga,Matchweek 9,Sat,Away,L,0,3,Bochum,0.9,0.6,54,24850,Kevin Trapp,4-2-2-2,4-2-3-1,Martin Petersen,Match Report,,2022-2023,Eint Frankfurt
+2022-10-12,20:00,Champions Lg,Group stage,Wed,Away,L,2,3,eng Tottenham,1.2,3.0,49,55180,Sebastian Rode,3-4-3,3-4-3,Carlos del Cerro,Match Report,,2022-2023,Eint Frankfurt
+2022-10-15,15:30,Bundesliga,Matchweek 10,Sat,Home,W,5,1,Leverkusen,3.9,0.4,49,49700,Kevin Trapp,3-4-3,3-4-3,Frank Willenborg,Match Report,,2022-2023,Eint Frankfurt
+2022-10-18,18:00,DFB-Pokal,Round of 32,Tue,Away,W,2,0,S'gart Kickers,,,63,10000,Sebastian Rode,3-4-3,4-3-3,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2022-10-22,18:30,Bundesliga,Matchweek 11,Sat,Away,W,3,1,Gladbach,1.9,1.0,40,53019,Kevin Trapp,3-4-3,4-2-3-1,Daniel Siebert,Match Report,,2022-2023,Eint Frankfurt
+2022-10-26,21:00,Champions Lg,Group stage,Wed,Home,W,2,1,fr Marseille,1.1,0.7,44,48700,Kevin Trapp,3-4-3,3-4-3,Jesús Gil,Match Report,,2022-2023,Eint Frankfurt
+2022-10-29,18:30,Bundesliga,Matchweek 12,Sat,Home,L,1,2,Dortmund,1.9,0.6,58,50000,Sebastian Rode,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2022-2023,Eint Frankfurt
+2022-11-01,20:00,Champions Lg,Group stage,Tue,Away,W,2,1,pt Sporting CP,1.2,0.5,54,41744,Kevin Trapp,3-4-3,3-4-3,Slavko Vinčič,Match Report,,2022-2023,Eint Frankfurt
+2022-11-05,15:30,Bundesliga,Matchweek 13,Sat,Away,W,2,1,Augsburg,1.2,1.2,58,30087,Sebastian Rode,3-4-3,4-2-2-2,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2022-11-09,20:30,Bundesliga,Matchweek 14,Wed,Home,W,4,2,Hoffenheim,2.8,1.8,51,49000,Kevin Trapp,3-4-3,3-5-2,Felix Zwayer,Match Report,,2022-2023,Eint Frankfurt
+2022-11-13,15:30,Bundesliga,Matchweek 15,Sun,Away,D,1,1,Mainz 05,1.8,1.5,60,33305,Kevin Trapp,3-4-3,3-4-3,Robert Schröder,Match Report,,2022-2023,Eint Frankfurt
+2023-01-21,15:30,Bundesliga,Matchweek 16,Sat,Home,W,3,0,Schalke 04,1.2,1.8,43,50000,Kevin Trapp,3-4-3,4-2-3-1,Marco Fritz,Match Report,,2022-2023,Eint Frankfurt
+2023-01-25,20:30,Bundesliga,Matchweek 17,Wed,Away,D,1,1,Freiburg,0.2,1.9,56,34700,Djibril Sow,3-4-3,3-4-3,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2023-01-28,18:30,Bundesliga,Matchweek 18,Sat,Away,D,1,1,Bayern Munich,0.6,1.6,33,75000,Sebastian Rode,3-4-3,4-1-4-1,Sven Jablonski,Match Report,,2022-2023,Eint Frankfurt
+2023-02-04,15:30,Bundesliga,Matchweek 19,Sat,Home,W,3,0,Hertha BSC,2.2,0.9,62,49500,Makoto Hasebe,3-4-3,4-1-4-1,Robert Hartmann,Match Report,,2022-2023,Eint Frankfurt
+2023-02-07,20:45,DFB-Pokal,Round of 16,Tue,Home,W,4,2,Darmstadt 98,,,60,49500,Sebastian Rode,3-4-3,3-4-3,Felix Zwayer,Match Report,,2022-2023,Eint Frankfurt
+2023-02-12,17:30,Bundesliga,Matchweek 20,Sun,Away,L,0,3,Köln,0.3,1.2,57,50000,Makoto Hasebe,3-4-3,4-2-3-1,Daniel Siebert,Match Report,,2022-2023,Eint Frankfurt
+2023-02-18,18:30,Bundesliga,Matchweek 21,Sat,Home,W,2,0,Werder Bremen,2.1,0.3,45,50000,Kevin Trapp,3-4-3,3-1-4-2,Bastian Dankert,Match Report,,2022-2023,Eint Frankfurt
+2023-02-21,21:00,Champions Lg,Round of 16,Tue,Home,L,0,2,it Napoli,0.4,2.8,31,47500,Kevin Trapp,3-4-3,4-3-3,Artur Dias,Match Report,Leg 1 of 2,2022-2023,Eint Frankfurt
+2023-02-25,15:30,Bundesliga,Matchweek 22,Sat,Away,L,1,2,RB Leipzig,0.8,1.7,47,47069,Sebastian Rode,3-4-3,4-2-2-2,Felix Brych,Match Report,,2022-2023,Eint Frankfurt
+2023-03-05,17:30,Bundesliga,Matchweek 23,Sun,Away,D,2,2,Wolfsburg,0.6,1.9,48,27853,Sebastian Rode,3-4-3,4-3-3,Daniel Schlager,Match Report,,2022-2023,Eint Frankfurt
+2023-03-11,15:30,Bundesliga,Matchweek 24,Sat,Home,D,1,1,Stuttgart,0.7,0.8,52,50000,Sebastian Rode,3-4-3,4-3-3,Robert Hartmann,Match Report,,2022-2023,Eint Frankfurt
+2023-03-15,21:00,Champions Lg,Round of 16,Wed,Away,L,0,3,it Napoli,1.1,2.7,40,49082,Sebastian Rode,4-2-3-1,4-3-3,Anthony Taylor,Match Report,Leg 2 of 2; Napoli won,2022-2023,Eint Frankfurt
+2023-03-19,15:30,Bundesliga,Matchweek 25,Sun,Away,L,0,2,Union Berlin,2.7,1.3,63,22012,Kevin Trapp,3-4-3,3-5-2,Christian Dingert,Match Report,,2022-2023,Eint Frankfurt
+2023-03-31,20:30,Bundesliga,Matchweek 26,Fri,Home,D,1,1,Bochum,3.1,1.1,73,51500,Sebastian Rode,3-4-3,4-1-2-1-2,Harm Osmers,Match Report,,2022-2023,Eint Frankfurt
+2023-04-04,18:00,DFB-Pokal,Quarter-finals,Tue,Home,W,2,0,Union Berlin,,,61,50000,Sebastian Rode,3-4-3,3-5-2,Bastian Dankert,Match Report,,2022-2023,Eint Frankfurt
+2023-04-08,15:30,Bundesliga,Matchweek 27,Sat,Away,L,1,3,Leverkusen,0.9,2.1,57,30210,Sebastian Rode,3-4-3,3-4-1-2,Robert Hartmann,Match Report,,2022-2023,Eint Frankfurt
+2023-04-15,18:30,Bundesliga,Matchweek 28,Sat,Home,D,1,1,Gladbach,2.2,1.2,59,50000,Sebastian Rode,3-4-3,4-2-3-1,Sven Jablonski,Match Report,,2022-2023,Eint Frankfurt
+2023-04-22,18:30,Bundesliga,Matchweek 29,Sat,Away,L,0,4,Dortmund,0.6,1.1,45,81365,Sebastian Rode,3-4-3,4-3-3,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2023-04-29,15:30,Bundesliga,Matchweek 30,Sat,Home,D,1,1,Augsburg,0.6,0.7,59,50000,Sebastian Rode,3-4-3,4-4-2,Frank Willenborg,Match Report,,2022-2023,Eint Frankfurt
+2023-05-03,20:45,DFB-Pokal,Semi-finals,Wed,Away,W,3,2,Stuttgart,,,46,47500,Sebastian Rode,3-4-3,3-4-3,Daniel Schlager,Match Report,,2022-2023,Eint Frankfurt
+2023-05-06,15:30,Bundesliga,Matchweek 31,Sat,Away,L,1,3,Hoffenheim,2.2,2.2,68,30000,Makoto Hasebe,3-4-3,3-5-2,Harm Osmers,Match Report,,2022-2023,Eint Frankfurt
+2023-05-13,15:30,Bundesliga,Matchweek 32,Sat,Home,W,3,0,Mainz 05,2.2,1.0,55,50000,Sebastian Rode,3-4-3,3-4-3,Felix Brych,Match Report,,2022-2023,Eint Frankfurt
+2023-05-20,15:30,Bundesliga,Matchweek 33,Sat,Away,D,2,2,Schalke 04,1.6,1.0,50,61575,Sebastian Rode,3-4-3,4-2-3-1,Daniel Schlager,Match Report,,2022-2023,Eint Frankfurt
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Home,W,2,1,Freiburg,2.1,1.6,61,50500,Makoto Hasebe,3-4-3,3-4-3,Deniz Aytekin,Match Report,,2022-2023,Eint Frankfurt
+2023-06-03,20:00,DFB-Pokal,Final,Sat,Away,L,0,2,RB Leipzig,,,42,74322,Sebastian Rode,3-4-3,4-2-2-2,Daniel Siebert,Match Report,,2022-2023,Eint Frankfurt

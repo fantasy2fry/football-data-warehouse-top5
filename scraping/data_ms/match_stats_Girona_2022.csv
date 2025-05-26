@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-14,19:30,La Liga,Matchweek 1,Sun,Away,L,0,1,Valencia,0.1,1.6,54,39359,Juanpe,3-4-3,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Girona
+2022-08-22,22:00,La Liga,Matchweek 2,Mon,Home,W,3,1,Getafe,1.1,0.6,66,10460,Cristhian Stuani,3-1-4-2,5-3-2,Alejandro Muñíz,Match Report,,2022-2023,Girona
+2022-08-26,20:00,La Liga,Matchweek 3,Fri,Home,L,0,1,Celta Vigo,1.0,1.0,53,11329,Cristhian Stuani,4-4-2,4-1-3-2,Carlos del Cerro,Match Report,,2022-2023,Girona
+2022-09-03,14:00,La Liga,Matchweek 4,Sat,Away,D,1,1,Mallorca,1.2,0.7,49,13390,Juanpe,3-4-3,5-3-2,Isidro Díaz de Mera,Match Report,,2022-2023,Girona
+2022-09-09,21:00,La Liga,Matchweek 5,Fri,Home,W,2,1,Valladolid,1.9,0.5,45,10053,Juanpe,3-4-3,4-1-4-1,César Soto,Match Report,,2022-2023,Girona
+2022-09-18,18:30,La Liga,Matchweek 6,Sun,Away,L,1,2,Betis,1.3,1.6,56,52229,Juanpe,3-4-3,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Girona
+2022-10-02,18:30,La Liga,Matchweek 7,Sun,Home,L,3,5,Real Sociedad,1.0,2.1,41,12217,Juanpe,5-3-2,4-4-2,Mario Melero,Match Report,,2022-2023,Girona
+2022-10-08,16:15,La Liga,Matchweek 8,Sat,Away,L,1,2,Atlético Madrid,0.8,1.9,55,54069,Bernardo Espinosa,5-3-2,5-4-1,Juan Martínez,Match Report,,2022-2023,Girona
+2022-10-15,14:00,La Liga,Matchweek 9,Sat,Home,D,1,1,Cádiz,2.3,1.1,65,9927,Bernardo Espinosa,5-3-2,4-4-2,Ricardo de Burgos,Match Report,,2022-2023,Girona
+2022-10-20,19:00,La Liga,Matchweek 10,Thu,Away,L,2,3,Almería,2.8,1.8,65,11194,Cristhian Stuani,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Girona
+2022-10-23,18:30,La Liga,Matchweek 11,Sun,Home,D,1,1,Osasuna,0.4,0.6,50,10032,Aleix García,4-4-1-1,4-1-4-1,Juan Pulido,Match Report,,2022-2023,Girona
+2022-10-30,16:15,La Liga,Matchweek 12,Sun,Away,D,1,1,Real Madrid,1.4,2.9,42,58367,Valery Fernández,4-1-4-1,4-3-3,Mario Melero,Match Report,,2022-2023,Girona
+2022-11-04,21:00,La Liga,Matchweek 13,Fri,Home,W,2,1,Athletic Club,1.0,0.7,42,11420,Valery Fernández,4-1-4-1,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Girona
+2022-11-08,19:00,La Liga,Matchweek 14,Tue,Away,W,2,1,Elche,2.3,0.6,55,17339,Valery Fernández,4-1-4-1,4-2-3-1,Pablo González,Match Report,,2022-2023,Girona
+2022-11-13,12:00,Copa del Rey,First round,Sun,Away,W,2,1,Quintanar del Rey,,,65,2500,Cristhian Stuani,4-3-3,4-4-2,Carlos del Cerro,Match Report,Required Extra Time,2022-2023,Girona
+2022-12-22,19:00,Copa del Rey,Second round,Thu,Away,L,1,2,Cacereño,,,66,5234,Juan Carlos,4-1-4-1,4-1-4-1,Alberola Rojas,Match Report,,2022-2023,Girona
+2022-12-29,17:00,La Liga,Matchweek 15,Thu,Home,D,2,2,Rayo Vallecano,2.3,1.0,59,11451,Aleix García,4-1-4-1,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Girona
+2023-01-07,21:00,La Liga,Matchweek 16,Sat,Away,D,2,2,Espanyol,1.2,1.5,56,21429,Aleix García,4-1-4-1,4-3-3,Carlos del Cerro,Match Report,,2022-2023,Girona
+2023-01-14,16:15,La Liga,Matchweek 17,Sat,Home,W,2,1,Sevilla,2.2,1.1,46,12035,Cristhian Stuani,4-4-2,5-3-2,Valentín Pizarro,Match Report,,2022-2023,Girona
+2023-01-22,14:00,La Liga,Matchweek 18,Sun,Away,L,0,1,Villarreal,0.6,2.5,32,15129,Cristhian Stuani,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,2022-2023,Girona
+2023-01-28,16:15,La Liga,Matchweek 19,Sat,Home,L,0,1,Barcelona,1.1,1.1,41,13402,Juanpe,4-4-2,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Girona
+2023-02-05,16:15,La Liga,Matchweek 20,Sun,Home,W,1,0,Valencia,2.3,1.0,51,10732,Bernardo Espinosa,4-4-2,4-1-4-1,Javier Villanueva,Match Report,,2022-2023,Girona
+2023-02-10,21:00,La Liga,Matchweek 21,Fri,Away,L,0,2,Cádiz,0.2,0.7,57,14873,Bernardo Espinosa,4-4-2,4-4-2,Juan Pulido,Match Report,,2022-2023,Girona
+2023-02-17,21:00,La Liga,Matchweek 22,Fri,Home,W,6,2,Almería,3.0,1.8,52,8879,Juanpe,4-4-2,4-3-3,Valentín Pizarro,Match Report,,2022-2023,Girona
+2023-02-26,14:00,La Liga,Matchweek 23,Sun,Away,W,3,2,Athletic Club,1.1,1.6,40,42816,Juanpe,4-1-4-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Girona
+2023-03-04,14:00,La Liga,Matchweek 24,Sat,Away,L,2,3,Getafe,0.8,1.5,61,9802,Juanpe,4-1-4-1,5-3-2,Juan Martínez,Match Report,,2022-2023,Girona
+2023-03-13,21:00,La Liga,Matchweek 25,Mon,Home,L,0,1,Atlético Madrid,0.4,1.9,50,12499,Borja García,4-1-4-1,5-3-2,Mario Melero,Match Report,,2022-2023,Girona
+2023-03-18,16:15,La Liga,Matchweek 26,Sat,Away,D,2,2,Rayo Vallecano,1.8,1.9,53,12263,Borja García,4-1-4-1,4-2-3-1,Pablo González,Match Report,,2022-2023,Girona
+2023-04-01,14:00,La Liga,Matchweek 27,Sat,Home,W,2,1,Espanyol,1.6,1.0,62,12841,Borja García,4-1-4-1,4-4-1-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Girona
+2023-04-10,21:00,La Liga,Matchweek 28,Mon,Away,D,0,0,Barcelona,0.6,1.3,41,78425,Borja García,4-1-4-1,4-3-3,Antonio Matéu,Match Report,,2022-2023,Girona
+2023-04-16,14:00,La Liga,Matchweek 29,Sun,Home,W,2,0,Elche,1.3,0.7,49,11114,Juanpe,4-1-4-1,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Girona
+2023-04-22,18:30,La Liga,Matchweek 30,Sat,Away,L,0,1,Valladolid,1.0,1.1,62,21033,Cristhian Stuani,4-1-4-1,4-3-3,Mario Melero,Match Report,,2022-2023,Girona
+2023-04-25,19:30,La Liga,Matchweek 31,Tue,Home,W,4,2,Real Madrid,2.3,1.8,29,13306,Juanpe,4-1-4-1,4-3-3,Javier Villanueva,Match Report,,2022-2023,Girona
+2023-05-01,21:00,La Liga,Matchweek 32,Mon,Away,W,2,0,Sevilla,0.8,2.2,37,35560,Juanpe,5-4-1,4-2-3-1,Alejandro Muñíz,Match Report,,2022-2023,Girona
+2023-05-04,19:30,La Liga,Matchweek 33,Thu,Home,W,2,1,Mallorca,1.7,1.4,62,11767,Bernardo Espinosa,4-1-4-1,5-4-1,Juan Martínez,Match Report,,2022-2023,Girona
+2023-05-13,14:00,La Liga,Matchweek 34,Sat,Away,D,2,2,Real Sociedad,1.2,2.7,49,30027,Cristhian Stuani,4-1-4-1,4-4-2,Jorge Figueroa,Match Report,,2022-2023,Girona
+2023-05-20,14:00,La Liga,Matchweek 35,Sat,Home,L,1,2,Villarreal,1.2,1.9,46,11649,Juanpe,4-2-3-1,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Girona
+2023-05-23,19:30,La Liga,Matchweek 36,Tue,Away,D,1,1,Celta Vigo,1.2,1.2,60,14117,Cristhian Stuani,4-4-1-1,4-3-3,Antonio Matéu,Match Report,,2022-2023,Girona
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Home,L,1,2,Betis,1.0,2.5,54,12833,Juanpe,4-1-4-1,4-2-3-1,Isidro Díaz de Mera,Match Report,,2022-2023,Girona
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Away,L,1,2,Osasuna,0.9,1.8,63,22128,Bernardo Espinosa,4-1-4-1,4-3-3,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Girona

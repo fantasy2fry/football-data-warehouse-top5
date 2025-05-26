@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-13,13:30,Premier League,Matchweek 1,Sun,Home,L,0,2,Tottenham,0.8,2.5,28,52077,Jonjo Shelvey,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Newcastle Utd
+2017-08-20,13:30,Premier League,Matchweek 2,Sun,Away,L,0,1,Huddersfield,0.7,0.3,48,24128,Jamaal Lascelles,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Newcastle Utd
+2017-08-23,19:45,EFL Cup,Second round,Wed,Home,L,2,3,Nott'ham Forest,,,49,27709,Karl Darlow,4-4-1-1,4-3-3,Darren England,Match Report,Required Extra Time,2017-2018,Newcastle Utd
+2017-08-26,15:00,Premier League,Matchweek 3,Sat,Home,W,3,0,West Ham,2.3,0.6,37,52093,Jamaal Lascelles,4-2-3-1,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Newcastle Utd
+2017-09-10,16:00,Premier League,Matchweek 4,Sun,Away,W,1,0,Swansea City,1.0,1.2,38,20872,Jamaal Lascelles,4-2-3-1,4-3-1-2,Mike Jones,Match Report,,2017-2018,Newcastle Utd
+2017-09-16,15:00,Premier League,Matchweek 5,Sat,Home,W,2,1,Stoke City,2.0,0.7,42,51795,Jamaal Lascelles,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,2017-2018,Newcastle Utd
+2017-09-24,16:00,Premier League,Matchweek 6,Sun,Away,L,0,1,Brighton,1.5,1.0,51,30468,Jamaal Lascelles,4-2-3-1,4-4-1-1,Andre Marriner,Match Report,,2017-2018,Newcastle Utd
+2017-10-01,16:30,Premier League,Matchweek 7,Sun,Home,D,1,1,Liverpool,0.3,1.3,33,52303,Jamaal Lascelles,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2017-2018,Newcastle Utd
+2017-10-15,16:00,Premier League,Matchweek 8,Sun,Away,D,2,2,Southampton,1.2,1.5,38,31437,Jamaal Lascelles,4-4-2,4-4-2,Kevin Friend,Match Report,,2017-2018,Newcastle Utd
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,1,0,Crystal Palace,0.3,0.5,54,52251,Jamaal Lascelles,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,2017-2018,Newcastle Utd
+2017-10-30,20:00,Premier League,Matchweek 10,Mon,Away,L,0,1,Burnley,0.5,0.9,53,21031,Jamaal Lascelles,4-2-3-1,4-4-1-1,Mike Dean,Match Report,,2017-2018,Newcastle Utd
+2017-11-04,15:00,Premier League,Matchweek 11,Sat,Home,L,0,1,Bournemouth,0.7,1.5,48,52237,Jamaal Lascelles,4-4-2,4-4-2,Paul Tierney,Match Report,,2017-2018,Newcastle Utd
+2017-11-18,17:30,Premier League,Matchweek 12,Sat,Away,L,1,4,Manchester Utd,1.1,3.1,35,75035,Jonjo Shelvey,4-4-2,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Newcastle Utd
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Home,L,0,3,Watford,0.9,2.0,53,52188,Jonjo Shelvey,4-4-2,3-4-3,Chris Kavanagh,Match Report,,2017-2018,Newcastle Utd
+2017-11-28,20:00,Premier League,Matchweek 14,Tue,Away,D,2,2,West Brom,0.9,1.5,52,25534,Ciaran Clark,4-2-3-1,3-5-2,Lee Probert,Match Report,,2017-2018,Newcastle Utd
+2017-12-02,12:30,Premier League,Matchweek 15,Sat,Away,L,1,3,Chelsea,0.6,3.2,35,41538,Ciaran Clark,3-4-3,3-5-1-1,Kevin Friend,Match Report,,2017-2018,Newcastle Utd
+2017-12-09,17:30,Premier League,Matchweek 16,Sat,Home,L,2,3,Leicester City,0.9,0.5,38,52117,Ciaran Clark,4-4-1-1,4-4-1-1,Niel Swarbrick,Match Report,,2017-2018,Newcastle Utd
+2017-12-13,19:45,Premier League,Matchweek 17,Wed,Home,L,0,1,Everton,0.8,1.2,55,51042,Jamaal Lascelles,4-2-3-1,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Newcastle Utd
+2017-12-16,15:00,Premier League,Matchweek 18,Sat,Away,L,0,1,Arsenal,0.3,1.8,29,59379,Jamaal Lascelles,4-4-2,4-3-3,Stuart Attwell,Match Report,,2017-2018,Newcastle Utd
+2017-12-23,15:00,Premier League,Matchweek 19,Sat,Away,W,3,2,West Ham,1.7,2.1,36,56955,Jamaal Lascelles,4-4-2,3-4-3,Lee Mason,Match Report,,2017-2018,Newcastle Utd
+2017-12-27,19:45,Premier League,Matchweek 20,Wed,Home,L,0,1,Manchester City,0.2,1.8,23,52311,Jamaal Lascelles,5-4-1,4-3-3,Andre Marriner,Match Report,,2017-2018,Newcastle Utd
+2017-12-30,15:00,Premier League,Matchweek 21,Sat,Home,D,0,0,Brighton,0.5,0.5,46,52209,Jamaal Lascelles,4-4-2,4-4-1-1,Anthony Taylor,Match Report,,2017-2018,Newcastle Utd
+2018-01-01,15:00,Premier League,Matchweek 22,Mon,Away,W,1,0,Stoke City,1.7,1.5,41,28471,Jamaal Lascelles,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,2017-2018,Newcastle Utd
+2018-01-06,15:00,FA Cup,Third round,Sat,Home,W,3,1,Luton Town,,,65,47069,Jamaal Lascelles,4-2-3-1,4-3-1-2,Niel Swarbrick,Match Report,,2017-2018,Newcastle Utd
+2018-01-13,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Swansea City,1.4,1.3,42,51444,Jamaal Lascelles,4-2-3-1,4-4-2,Graham Scott,Match Report,,2017-2018,Newcastle Utd
+2018-01-20,17:30,Premier League,Matchweek 24,Sat,Away,L,1,3,Manchester City,1.0,2.1,20,54452,Jamaal Lascelles,5-4-1,4-3-3,Paul Tierney,Match Report,,2017-2018,Newcastle Utd
+2018-01-28,13:30,FA Cup,Fourth round,Sun,Away,L,0,3,Chelsea,,,39,41049,Jamaal Lascelles,5-3-2,3-4-3,Kevin Friend,Match Report,,2017-2018,Newcastle Utd
+2018-01-31,19:45,Premier League,Matchweek 25,Wed,Home,D,1,1,Burnley,2.2,1.0,52,50174,Jamaal Lascelles,4-4-1-1,4-4-1-1,Simon Hooper,Match Report,,2017-2018,Newcastle Utd
+2018-02-04,14:15,Premier League,Matchweek 26,Sun,Away,D,1,1,Crystal Palace,0.9,3.0,45,25746,Jamaal Lascelles,4-4-1-1,4-4-2,Andre Marriner,Match Report,,2017-2018,Newcastle Utd
+2018-02-11,14:15,Premier League,Matchweek 27,Sun,Home,W,1,0,Manchester Utd,0.5,1.9,36,52309,Jamaal Lascelles,4-4-1-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Newcastle Utd
+2018-02-24,15:00,Premier League,Matchweek 28,Sat,Away,D,2,2,Bournemouth,3.0,1.7,37,10808,Jamaal Lascelles,4-4-1-1,4-4-1-1,Roger East,Match Report,,2017-2018,Newcastle Utd
+2018-03-03,17:30,Premier League,Matchweek 29,Sat,Away,L,0,2,Liverpool,0.3,1.5,30,53287,Jamaal Lascelles,3-4-3,4-3-3,Graham Scott,Match Report,,2017-2018,Newcastle Utd
+2018-03-10,15:00,Premier League,Matchweek 30,Sat,Home,W,3,0,Southampton,1.3,0.3,37,52246,Jamaal Lascelles,4-4-1-1,4-2-3-1,Andre Marriner,Match Report,,2017-2018,Newcastle Utd
+2018-03-31,15:00,Premier League,Matchweek 32,Sat,Home,W,1,0,Huddersfield,2.4,0.1,63,52261,Jamaal Lascelles,4-4-1-1,4-4-2,Martin Atkinson,Match Report,,2017-2018,Newcastle Utd
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,W,2,1,Leicester City,0.4,1.4,35,32066,Jamaal Lascelles,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Newcastle Utd
+2018-04-15,13:30,Premier League,Matchweek 34,Sun,Home,W,2,1,Arsenal,0.8,1.2,29,52210,Jamaal Lascelles,4-4-1-1,4-3-3,Anthony Taylor,Match Report,,2017-2018,Newcastle Utd
+2018-04-23,20:00,Premier League,Matchweek 35,Mon,Away,L,0,1,Everton,0.8,0.7,44,39061,Jamaal Lascelles,4-4-1-1,4-3-3,Robert Madley,Match Report,,2017-2018,Newcastle Utd
+2018-04-28,15:00,Premier League,Matchweek 36,Sat,Home,L,0,1,West Brom,1.8,0.7,62,52283,Jamaal Lascelles,4-4-1-1,4-4-1-1,David Coote,Match Report,,2017-2018,Newcastle Utd
+2018-05-05,15:00,Premier League,Matchweek 37,Sat,Away,L,1,2,Watford,0.7,2.5,61,20375,Jamaal Lascelles,4-4-1-1,4-4-2,Roger East,Match Report,,2017-2018,Newcastle Utd
+2018-05-09,20:00,Premier League,Matchweek 31,Wed,Away,L,0,1,Tottenham,1.0,0.8,37,54923,Jamaal Lascelles,4-2-3-1,4-2-3-1,Niel Swarbrick,Match Report,,2017-2018,Newcastle Utd
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,W,3,0,Chelsea,2.2,1.0,42,52294,Jamaal Lascelles,4-2-3-1,3-5-1-1,Martin Atkinson,Match Report,,2017-2018,Newcastle Utd

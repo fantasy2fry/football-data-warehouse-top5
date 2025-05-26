@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-19,15:30,DFB-Pokal,First round,Sun,Away,W,2,1,TSV Steinbach,,,59,4204,Daniel Baier,4-2-3-1,4-2-3-1,Martin Thomsen,Match Report,,2018-2019,Augsburg
+2018-08-25,15:30,Bundesliga,Matchweek 1,Sat,Away,W,2,1,Düsseldorf,1.0,0.9,49,40996,Daniel Baier,4-2-3-1,4-2-3-1,Markus Schmidt,Match Report,,2018-2019,Augsburg
+2018-09-01,15:30,Bundesliga,Matchweek 2,Sat,Home,D,1,1,Gladbach,2.0,1.2,39,29580,Daniel Baier,4-3-3,4-3-3,Frank Willenborg,Match Report,,2018-2019,Augsburg
+2018-09-15,15:30,Bundesliga,Matchweek 3,Sat,Away,L,1,2,Mainz 05,0.7,3.3,47,21105,Daniel Baier,3-4-3,4-4-1-1,Martin Petersen,Match Report,,2018-2019,Augsburg
+2018-09-22,15:30,Bundesliga,Matchweek 4,Sat,Home,L,2,3,Werder Bremen,2.1,1.4,50,28434,Daniel Baier,3-4-3,4-3-3,Felix Zwayer,Match Report,,2018-2019,Augsburg
+2018-09-25,20:30,Bundesliga,Matchweek 5,Tue,Away,D,1,1,Bayern Munich,1.4,1.6,36,75000,Daniel Baier,3-4-3,4-3-3,Sören Storks,Match Report,,2018-2019,Augsburg
+2018-09-30,18:00,Bundesliga,Matchweek 6,Sun,Home,W,4,1,Freiburg,3.6,1.9,50,26488,Daniel Baier,4-2-3-1,4-4-1-1,Robert Kampka,Match Report,,2018-2019,Augsburg
+2018-10-06,15:30,Bundesliga,Matchweek 7,Sat,Away,L,3,4,Dortmund,2.5,2.1,35,81365,Daniel Baier,4-2-2-2,4-2-3-1,Markus Schmidt,Match Report,,2018-2019,Augsburg
+2018-10-20,15:30,Bundesliga,Matchweek 8,Sat,Home,D,0,0,RB Leipzig,0.3,1.1,52,28703,Daniel Baier,3-4-3◆,4-3-3,Tobias Welz,Match Report,,2018-2019,Augsburg
+2018-10-27,15:30,Bundesliga,Matchweek 9,Sat,Away,W,2,1,Hannover 96,1.7,0.8,38,37600,Daniel Baier,4-2-3-1,3-4-3,Robert Kampka,Match Report,,2018-2019,Augsburg
+2018-10-30,20:45,DFB-Pokal,Second round,Tue,Home,W,3,2,Mainz 05,,,61,15561,Jeffrey Gouweleeuw,3-4-3,4-3-1-2,Manuel Gräfe,Match Report,Required Extra Time,2018-2019,Augsburg
+2018-11-03,15:30,Bundesliga,Matchweek 10,Sat,Home,D,2,2,Nürnberg,2.1,1.3,57,30660,Daniel Baier,4-2-3-1,4-4-1-1,Patrick Ittrich,Match Report,,2018-2019,Augsburg
+2018-11-10,15:30,Bundesliga,Matchweek 11,Sat,Away,L,1,2,Hoffenheim,1.4,1.9,50,27009,Daniel Baier,3-4-3,4-3-3,Robert Schröder,Match Report,,2018-2019,Augsburg
+2018-11-24,15:30,Bundesliga,Matchweek 12,Sat,Home,L,1,3,Eint Frankfurt,1.6,3.2,59,30660,Daniel Baier,4-1-4-1,3-4-1-2,Felix Zwayer,Match Report,,2018-2019,Augsburg
+2018-12-01,15:30,Bundesliga,Matchweek 13,Sat,Away,L,0,1,Stuttgart,1.7,0.9,63,52739,Daniel Baier,3-4-3,3-4-3,Harm Osmers,Match Report,,2018-2019,Augsburg
+2018-12-08,15:30,Bundesliga,Matchweek 14,Sat,Away,L,0,1,Leverkusen,0.8,1.6,38,25558,Daniel Baier,4-1-4-1,4-2-3-1,Bastian Dankert,Match Report,,2018-2019,Augsburg
+2018-12-15,15:30,Bundesliga,Matchweek 15,Sat,Home,D,1,1,Schalke 04,1.8,0.7,49,27233,Daniel Baier,4-1-4-1,3-4-3,Manuel Gräfe,Match Report,,2018-2019,Augsburg
+2018-12-18,20:30,Bundesliga,Matchweek 16,Tue,Away,D,2,2,Hertha BSC,0.8,1.5,54,27939,Daniel Baier,4-1-4-1,4-4-1-1,Frank Willenborg,Match Report,,2018-2019,Augsburg
+2018-12-23,15:30,Bundesliga,Matchweek 17,Sun,Home,L,2,3,Wolfsburg,0.5,2.1,44,28152,Daniel Baier,4-2-3-1,4-3-1-2,Sören Storks,Match Report,,2018-2019,Augsburg
+2019-01-19,15:30,Bundesliga,Matchweek 18,Sat,Home,L,1,2,Düsseldorf,0.7,1.1,49,27568,Daniel Baier,4-2-3-1,4-4-2,Christian Dingert,Match Report,,2018-2019,Augsburg
+2019-01-26,15:30,Bundesliga,Matchweek 19,Sat,Away,L,0,2,Gladbach,0.8,1.9,38,42509,Daniel Baier,4-3-3,4-3-3,Harm Osmers,Match Report,,2018-2019,Augsburg
+2019-02-03,15:30,Bundesliga,Matchweek 20,Sun,Home,W,3,0,Mainz 05,3.3,0.2,52,25733,Daniel Baier,4-4-1-1,4-3-1-2,Sören Storks,Match Report,,2018-2019,Augsburg
+2019-02-06,18:30,DFB-Pokal,Round of 16,Wed,Away,W,1,0,Holstein Kiel,,,42,11198,Daniel Baier,4-3-1-2,4-3-3,Frank Willenborg,Match Report,,2018-2019,Augsburg
+2019-02-10,15:30,Bundesliga,Matchweek 21,Sun,Away,L,0,4,Werder Bremen,0.9,1.2,60,40138,Daniel Baier,3-4-3,4-3-3,Manuel Gräfe,Match Report,,2018-2019,Augsburg
+2019-02-15,20:30,Bundesliga,Matchweek 22,Fri,Home,L,2,3,Bayern Munich,0.4,1.8,29,30660,Philipp Max,3-4-1-2,4-3-3,Bibiana Steinhaus,Match Report,,2018-2019,Augsburg
+2019-02-23,15:30,Bundesliga,Matchweek 23,Sat,Away,L,1,5,Freiburg,1.8,1.8,59,23600,Daniel Baier,4-4-1-1,4-4-2,Tobias Welz,Match Report,,2018-2019,Augsburg
+2019-03-01,20:30,Bundesliga,Matchweek 24,Fri,Home,W,2,1,Dortmund,0.9,3.1,28,30660,Daniel Baier,4-1-4-1,4-2-3-1,Tobias Stieler,Match Report,,2018-2019,Augsburg
+2019-03-09,15:30,Bundesliga,Matchweek 25,Sat,Away,D,0,0,RB Leipzig,0.2,2.1,33,38590,Daniel Baier,4-3-3,4-2-2-2,Sven Jablonski,Match Report,,2018-2019,Augsburg
+2019-03-16,15:30,Bundesliga,Matchweek 26,Sat,Home,W,3,1,Hannover 96,1.5,1.4,60,28136,Daniel Baier,4-1-4-1,4-1-2-1-2,Manuel Gräfe,Match Report,,2018-2019,Augsburg
+2019-03-30,15:30,Bundesliga,Matchweek 27,Sat,Away,L,0,3,Nürnberg,0.9,1.9,50,42658,Daniel Baier,4-2-3-1,4-1-4-1,Daniel Siebert,Match Report,,2018-2019,Augsburg
+2019-04-02,20:45,DFB-Pokal,Quarter-finals,Tue,Home,L,1,2,RB Leipzig,,,45,25350,Daniel Baier,5-4-1,4-4-2,Tobias Stieler,Match Report,Required Extra Time,2018-2019,Augsburg
+2019-04-07,15:30,Bundesliga,Matchweek 28,Sun,Home,L,0,4,Hoffenheim,0.7,3.3,42,27552,Daniel Baier,5-4-1,4-2-2-2,Robert Schröder,Match Report,,2018-2019,Augsburg
+2019-04-14,18:00,Bundesliga,Matchweek 29,Sun,Away,W,3,1,Eint Frankfurt,2.1,2.0,55,51000,Daniel Baier,4-1-4-1,3-4-1-2,Bastian Dankert,Match Report,,2018-2019,Augsburg
+2019-04-20,15:30,Bundesliga,Matchweek 30,Sat,Home,W,6,0,Stuttgart,2.2,1.4,52,30660,Daniel Baier,4-1-4-1,3-4-3,Manuel Gräfe,Match Report,,2018-2019,Augsburg
+2019-04-26,20:30,Bundesliga,Matchweek 31,Fri,Home,L,1,4,Leverkusen,0.4,2.5,27,26404,Daniel Baier,4-3-3,4-3-3,Frank Willenborg,Match Report,,2018-2019,Augsburg
+2019-05-05,13:30,Bundesliga,Matchweek 32,Sun,Away,D,0,0,Schalke 04,0.3,1.8,50,59841,Daniel Baier,4-5-1,3-1-4-2,Manuel Gräfe,Match Report,,2018-2019,Augsburg
+2019-05-11,15:30,Bundesliga,Matchweek 33,Sat,Home,L,3,4,Hertha BSC,1.4,2.6,39,29307,Daniel Baier,4-1-4-1,4-2-3-1,Guido Winkmann,Match Report,,2018-2019,Augsburg
+2019-05-18,15:30,Bundesliga,Matchweek 34,Sat,Away,L,1,8,Wolfsburg,1.0,3.6,44,24456,Daniel Baier,4-1-4-1,4-3-3,Felix Zwayer,Match Report,,2018-2019,Augsburg

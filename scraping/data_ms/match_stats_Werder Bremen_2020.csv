@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-12,20:45,DFB-Pokal,First round,Sat,Away,W,2,0,Carl Zeiss Jena,,,62,1600.0,Niklas Moisander,4-3-3,4-4-2,Daniel Siebert,Match Report,,2020-2021,Werder Bremen
+2020-09-19,15:30,Bundesliga,Matchweek 1,Sat,Home,L,1,4,Hertha BSC,0.7,1.8,45,8400.0,Niklas Moisander,4-2-2-2,4-1-2-1-2,Sascha Stegemann,Match Report,,2020-2021,Werder Bremen
+2020-09-26,18:30,Bundesliga,Matchweek 2,Sat,Away,W,3,1,Schalke 04,2.4,1.6,35,,Davy Klaassen,4-3-3,4-2-3-1,Markus Schmidt,Match Report,,2020-2021,Werder Bremen
+2020-10-03,15:30,Bundesliga,Matchweek 3,Sat,Home,W,1,0,Arminia,0.4,1.1,38,300.0,Davy Klaassen,5-3-2,4-2-3-1,Robert Schröder,Match Report,,2020-2021,Werder Bremen
+2020-10-17,15:30,Bundesliga,Matchweek 4,Sat,Away,D,1,1,Freiburg,1.6,1.3,37,,Theodor Gebre Selassie,3-1-4-2,4-4-2,Christian Dingert,Match Report,,2020-2021,Werder Bremen
+2020-10-25,18:00,Bundesliga,Matchweek 5,Sun,Home,D,1,1,Hoffenheim,0.3,1.0,49,,Niklas Moisander,3-4-3,3-4-3,Daniel Schlager,Match Report,,2020-2021,Werder Bremen
+2020-10-31,15:30,Bundesliga,Matchweek 6,Sat,Away,D,1,1,Eint Frankfurt,0.8,2.0,29,,Niklas Moisander,3-4-3,3-4-1-2,Felix Brych,Match Report,,2020-2021,Werder Bremen
+2020-11-06,20:30,Bundesliga,Matchweek 7,Fri,Home,D,1,1,Köln,1.6,0.4,67,,Niklas Moisander,3-4-3,4-1-4-1,Florian Badstübner,Match Report,,2020-2021,Werder Bremen
+2020-11-21,15:30,Bundesliga,Matchweek 8,Sat,Away,D,1,1,Bayern Munich,1.7,1.7,30,,Theodor Gebre Selassie,3-4-3,4-1-4-1,Guido Winkmann,Match Report,,2020-2021,Werder Bremen
+2020-11-27,20:30,Bundesliga,Matchweek 9,Fri,Away,L,3,5,Wolfsburg,1.0,1.5,39,,Theodor Gebre Selassie,3-4-3,4-2-3-1,Christian Dingert,Match Report,,2020-2021,Werder Bremen
+2020-12-06,15:30,Bundesliga,Matchweek 10,Sun,Home,L,1,2,Stuttgart,0.7,2.2,54,,Theodor Gebre Selassie,4-2-3-1,3-1-4-2,Frank Willenborg,Match Report,,2020-2021,Werder Bremen
+2020-12-12,15:30,Bundesliga,Matchweek 11,Sat,Away,L,0,2,RB Leipzig,0.6,2.4,45,,Theodor Gebre Selassie,3-4-3,4-2-3-1,Sören Storks,Match Report,,2020-2021,Werder Bremen
+2020-12-15,20:30,Bundesliga,Matchweek 12,Tue,Home,L,1,2,Dortmund,0.3,2.9,46,,Theodor Gebre Selassie,3-5-2,4-2-3-1,Robert Schröder,Match Report,,2020-2021,Werder Bremen
+2020-12-19,15:30,Bundesliga,Matchweek 13,Sat,Away,W,1,0,Mainz 05,1.0,0.5,56,,Theodor Gebre Selassie,4-3-1-2,3-1-4-2,Guido Winkmann,Match Report,,2020-2021,Werder Bremen
+2020-12-23,20:45,DFB-Pokal,Second round,Wed,Away,W,3,0,Hannover 96,,,47,,Niklas Moisander,3-4-3,4-2-3-1,Manuel Gräfe,Match Report,,2020-2021,Werder Bremen
+2021-01-02,15:30,Bundesliga,Matchweek 14,Sat,Home,L,0,2,Union Berlin,0.8,1.0,57,,Theodor Gebre Selassie,4-2-3-1,5-3-2,Tobias Stieler,Match Report,,2020-2021,Werder Bremen
+2021-01-09,15:30,Bundesliga,Matchweek 15,Sat,Away,D,1,1,Leverkusen,0.3,0.7,27,,Theodor Gebre Selassie,3-5-2,4-3-3,Benjamin Cortus,Match Report,,2020-2021,Werder Bremen
+2021-01-16,15:30,Bundesliga,Matchweek 16,Sat,Home,W,2,0,Augsburg,1.3,0.8,49,,Theodor Gebre Selassie,3-5-2,3-4-3,Sascha Stegemann,Match Report,,2020-2021,Werder Bremen
+2021-01-19,18:30,Bundesliga,Matchweek 17,Tue,Away,L,0,1,Gladbach,1.1,0.6,40,,Theodor Gebre Selassie,3-5-2,4-2-3-1,Martin Petersen,Match Report,,2020-2021,Werder Bremen
+2021-01-23,18:30,Bundesliga,Matchweek 18,Sat,Away,W,4,1,Hertha BSC,1.5,2.3,34,,Theodor Gebre Selassie,3-5-2,4-3-3,Daniel Schlager,Match Report,,2020-2021,Werder Bremen
+2021-01-30,15:30,Bundesliga,Matchweek 19,Sat,Home,D,1,1,Schalke 04,0.7,0.5,49,,Theodor Gebre Selassie,3-5-2,4-2-3-1,Sören Storks,Match Report,,2020-2021,Werder Bremen
+2021-02-02,20:45,DFB-Pokal,Round of 16,Tue,Home,W,2,0,Greuther Fürth,,,42,,Niklas Moisander,3-5-2,4-4-2,Guido Winkmann,Match Report,,2020-2021,Werder Bremen
+2021-02-13,15:30,Bundesliga,Matchweek 21,Sat,Home,D,0,0,Freiburg,0.7,0.9,47,,Theodor Gebre Selassie,3-5-2,3-4-3,Manuel Gräfe,Match Report,,2020-2021,Werder Bremen
+2021-02-21,18:00,Bundesliga,Matchweek 22,Sun,Away,L,0,4,Hoffenheim,0.1,2.3,49,,Theodor Gebre Selassie,3-5-2,3-4-1-2,Robert Schröder,Match Report,,2020-2021,Werder Bremen
+2021-02-26,20:30,Bundesliga,Matchweek 23,Fri,Home,W,2,1,Eint Frankfurt,1.0,1.2,32,,Theodor Gebre Selassie,3-4-3,3-4-3,Robert Hartmann,Match Report,,2020-2021,Werder Bremen
+2021-03-07,15:30,Bundesliga,Matchweek 24,Sun,Away,D,1,1,Köln,1.1,1.5,32,,Theodor Gebre Selassie,3-4-1-2,4-4-1-1,Matthias Jöllenbeck,Match Report,,2020-2021,Werder Bremen
+2021-03-10,18:30,Bundesliga,Matchweek 20,Wed,Away,W,2,0,Arminia,1.6,3.1,41,,Theodor Gebre Selassie,3-4-3,4-2-3-1,Markus Schmidt,Match Report,,2020-2021,Werder Bremen
+2021-03-13,15:30,Bundesliga,Matchweek 25,Sat,Home,L,1,3,Bayern Munich,1.0,3.9,43,,Niklas Moisander,3-4-3,4-2-3-1,Manuel Gräfe,Match Report,,2020-2021,Werder Bremen
+2021-03-20,15:30,Bundesliga,Matchweek 26,Sat,Home,L,1,2,Wolfsburg,0.6,0.9,51,,Theodor Gebre Selassie,3-1-4-2,4-2-3-1,Robert Schröder,Match Report,,2020-2021,Werder Bremen
+2021-04-04,15:30,Bundesliga,Matchweek 27,Sun,Away,L,0,1,Stuttgart,0.4,0.7,41,,Theodor Gebre Selassie,4-2-3-1,3-4-3,Felix Zwayer,Match Report,,2020-2021,Werder Bremen
+2021-04-07,18:30,DFB-Pokal,Quarter-finals,Wed,Away,W,1,0,Jahn R'burg,,,56,,Niklas Moisander,3-4-3,4-2-3-1,Guido Winkmann,Match Report,,2020-2021,Werder Bremen
+2021-04-10,15:30,Bundesliga,Matchweek 28,Sat,Home,L,1,4,RB Leipzig,1.7,1.5,37,,Niklas Moisander,3-4-3,3-4-3,Florian Badstübner,Match Report,,2020-2021,Werder Bremen
+2021-04-18,15:30,Bundesliga,Matchweek 29,Sun,Away,L,1,4,Dortmund,1.0,3.0,31,,Niklas Moisander,5-3-2,4-1-4-1,Bastian Dankert,Match Report,,2020-2021,Werder Bremen
+2021-04-21,20:30,Bundesliga,Matchweek 30,Wed,Home,L,0,1,Mainz 05,1.2,1.7,65,,Niklas Moisander,3-4-1-2,3-5-2,Marco Fritz,Match Report,,2020-2021,Werder Bremen
+2021-04-24,15:30,Bundesliga,Matchweek 31,Sat,Away,L,1,3,Union Berlin,0.4,1.6,45,,Niklas Moisander,3-5-2,3-5-2,Patrick Ittrich,Match Report,,2020-2021,Werder Bremen
+2021-04-30,20:30,DFB-Pokal,Semi-finals,Fri,Home,L,1,2,RB Leipzig,,,34,,Niklas Moisander,4-3-3,3-1-4-2,Manuel Gräfe,Match Report,Required Extra Time,2020-2021,Werder Bremen
+2021-05-08,15:30,Bundesliga,Matchweek 32,Sat,Home,D,0,0,Leverkusen,0.7,1.1,38,,Niklas Moisander,4-3-2-1,4-2-3-1,Markus Schmidt,Match Report,,2020-2021,Werder Bremen
+2021-05-15,15:30,Bundesliga,Matchweek 33,Sat,Away,L,0,2,Augsburg,0.9,1.5,67,,Niklas Moisander,4-3-3,4-2-3-1,Robert Schröder,Match Report,,2020-2021,Werder Bremen
+2021-05-22,15:30,Bundesliga,Matchweek 34,Sat,Home,L,2,4,Gladbach,1.9,1.8,46,100.0,Niklas Moisander,4-1-2-1-2◆,3-4-1-2,Felix Brych,Match Report,,2020-2021,Werder Bremen

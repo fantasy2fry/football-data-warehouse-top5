@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-05,15:30,2. Bundesliga,Matchweek 1,Sun,Home,W,1,0,Erzgebirge Aue,50.0,21752,Christopher Trimmel,4-3-3,3-5-2,Benjamin Cortus,Match Report,,2018-2019,Union Berlin
+2018-08-13,20:30,2. Bundesliga,Matchweek 2,Mon,Away,D,1,1,Köln,35.0,50000,Christopher Trimmel,4-2-3-1,4-3-3,Daniel Schlager,Match Report,,2018-2019,Union Berlin
+2018-08-19,18:30,DFB-Pokal,First round,Sun,Away,W,4,2,Carl Zeiss Jena,46.0,10600,Christopher Trimmel,4-3-3,4-4-2,Felix Brych,Match Report,,2018-2019,Union Berlin
+2018-08-26,13:30,2. Bundesliga,Matchweek 3,Sun,Home,W,4,1,St. Pauli,51.0,22012,Christopher Trimmel,4-3-3,4-2-3-1,Sven Jablonski,Match Report,,2018-2019,Union Berlin
+2018-09-02,13:30,2. Bundesliga,Matchweek 4,Sun,Away,D,0,0,Sandhausen,48.0,5517,Christopher Trimmel,4-2-3-1,4-2-2-2,Timo Gerach,Match Report,,2018-2019,Union Berlin
+2018-09-14,18:30,2. Bundesliga,Matchweek 5,Fri,Home,D,2,2,MSV Duisburg,51.0,20329,Christopher Trimmel,4-2-3-1,4-4-2,Michael Bacher,Match Report,,2018-2019,Union Berlin
+2018-09-22,13:00,2. Bundesliga,Matchweek 6,Sat,Away,D,1,1,Arminia,45.0,18114,Christopher Trimmel,4-2-3-1,4-4-2,Martin Thomsen,Match Report,,2018-2019,Union Berlin
+2018-09-25,18:30,2. Bundesliga,Matchweek 7,Tue,Home,W,2,0,Holstein Kiel,43.0,20879,Christopher Trimmel,4-2-3-1,4-2-3-1,Benjamin Cortus,Match Report,,2018-2019,Union Berlin
+2018-10-01,20:30,2. Bundesliga,Matchweek 8,Mon,Away,W,2,1,Ingolstadt 04,47.0,7068,Christopher Trimmel,4-2-3-1,3-4-1-2,Bastian Dankert,Match Report,,2018-2019,Union Berlin
+2018-10-07,13:30,2. Bundesliga,Matchweek 9,Sun,Home,D,1,1,Heidenheim,49.0,20108,Christopher Trimmel,4-2-3-1,4-4-2,Benedikt Kempkes,Match Report,,2018-2019,Union Berlin
+2018-10-21,13:30,2. Bundesliga,Matchweek 10,Sun,Away,D,0,0,Paderborn 07,43.0,11336,Christopher Trimmel,4-2-3-1,4-4-2,Matthias Jöllenbeck,Match Report,,2018-2019,Union Berlin
+2018-10-28,13:30,2. Bundesliga,Matchweek 11,Sun,Home,D,0,0,Dresden,55.0,22012,Christopher Trimmel,4-2-3-1,3-4-3,Sven Jablonski,Match Report,,2018-2019,Union Berlin
+2018-10-31,18:30,DFB-Pokal,Second round,Wed,Away,L,2,3,Dortmund,36.0,72732,Christopher Trimmel,4-2-3-1,4-2-3-1,Guido Winkmann,Match Report,Required Extra Time,2018-2019,Union Berlin
+2018-11-04,13:30,2. Bundesliga,Matchweek 12,Sun,Away,D,1,1,Jahn R'burg,52.0,10884,Marvin Friedrich,4-2-3-1,4-4-2,Sascha Stegemann,Match Report,,2018-2019,Union Berlin
+2018-11-11,13:30,2. Bundesliga,Matchweek 13,Sun,Home,W,4,0,Greuther Fürth,47.0,21785,Christopher Trimmel,4-2-3-1,4-2-3-1,Daniel Schlager,Match Report,,2018-2019,Union Berlin
+2018-11-26,20:30,2. Bundesliga,Matchweek 14,Mon,Away,D,2,2,Hamburger SV,37.0,45584,Christopher Trimmel,4-4-1-1,4-1-4-1,Frank Willenborg,Match Report,,2018-2019,Union Berlin
+2018-12-01,13:00,2. Bundesliga,Matchweek 15,Sat,Home,W,3,1,Darmstadt 98,42.0,21474,Christopher Trimmel,4-4-1-1,4-2-3-1,Marco Fritz,Match Report,,2018-2019,Union Berlin
+2018-12-09,13:30,2. Bundesliga,Matchweek 16,Sun,Away,D,1,1,Magdeburg,52.0,23149,Christopher Trimmel,4-4-1-1,3-5-2,Felix Brych,Match Report,,2018-2019,Union Berlin
+2018-12-15,13:00,2. Bundesliga,Matchweek 17,Sat,Home,W,2,0,Bochum,45.0,20728,Christopher Trimmel,4-4-2,4-2-3-1,Matthias Jöllenbeck,Match Report,,2018-2019,Union Berlin
+2018-12-23,13:30,2. Bundesliga,Matchweek 18,Sun,Away,L,0,3,Erzgebirge Aue,55.0,13800,Christopher Trimmel,4-4-2,4-3-3,Sven Jablonski,Match Report,,2018-2019,Union Berlin
+2019-01-31,20:30,2. Bundesliga,Matchweek 19,Thu,Home,W,2,0,Köln,29.0,22012,Christopher Trimmel,4-3-3,3-1-4-2,Tobias Welz,Match Report,,2018-2019,Union Berlin
+2019-02-04,20:30,2. Bundesliga,Matchweek 20,Mon,Away,L,2,3,St. Pauli,60.0,29546,Felix Kroos,4-3-3,4-2-3-1,Guido Winkmann,Match Report,,2018-2019,Union Berlin
+2019-02-09,13:00,2. Bundesliga,Matchweek 21,Sat,Home,W,2,0,Sandhausen,53.0,19542,Christopher Trimmel,4-3-3,3-4-1-2,Tobias Stieler,Match Report,,2018-2019,Union Berlin
+2019-02-16,13:00,2. Bundesliga,Matchweek 22,Sat,Away,W,3,2,MSV Duisburg,56.0,12316,Christopher Trimmel,4-2-3-1,4-1-3-2,Timo Gerach,Match Report,,2018-2019,Union Berlin
+2019-02-22,18:30,2. Bundesliga,Matchweek 23,Fri,Home,D,1,1,Arminia,37.0,21286,Christopher Trimmel,4-4-2,4-4-1-1,Christian Dietz,Match Report,,2018-2019,Union Berlin
+2019-03-01,18:30,2. Bundesliga,Matchweek 24,Fri,Away,W,2,0,Holstein Kiel,39.0,9866,Christopher Trimmel,4-2-3-1,4-4-2,Benjamin Cortus,Match Report,,2018-2019,Union Berlin
+2019-03-08,18:30,2. Bundesliga,Matchweek 25,Fri,Home,W,2,0,Ingolstadt 04,48.0,21419,Christopher Trimmel,4-2-3-1,4-3-3,Robert Kampka,Match Report,,2018-2019,Union Berlin
+2019-03-15,18:30,2. Bundesliga,Matchweek 26,Fri,Away,L,1,2,Heidenheim,54.0,11150,Christopher Trimmel,4-4-2,4-4-1-1,Sascha Stegemann,Match Report,,2018-2019,Union Berlin
+2019-03-30,13:00,2. Bundesliga,Matchweek 27,Sat,Home,L,1,3,Paderborn 07,53.0,20789,Christopher Trimmel,4-2-3-1,4-2-2-2,Michael Bacher,Match Report,,2018-2019,Union Berlin
+2019-04-07,13:30,2. Bundesliga,Matchweek 28,Sun,Away,D,0,0,Dresden,54.0,30700,Christopher Trimmel,4-2-3-1,3-1-4-2,Bibiana Steinhaus,Match Report,,2018-2019,Union Berlin
+2019-04-12,18:30,2. Bundesliga,Matchweek 29,Fri,Home,D,2,2,Jahn R'burg,59.0,20243,Christopher Trimmel,4-2-3-1,4-4-2,Harm Osmers,Match Report,,2018-2019,Union Berlin
+2019-04-20,13:00,2. Bundesliga,Matchweek 30,Sat,Away,D,1,1,Greuther Fürth,44.0,9650,Christopher Trimmel,4-2-3-1,4-1-3-2,Martin Thomsen,Match Report,,2018-2019,Union Berlin
+2019-04-28,13:30,2. Bundesliga,Matchweek 31,Sun,Home,W,2,0,Hamburger SV,43.0,22012,Christopher Trimmel,4-3-1-2,3-4-3,Sascha Stegemann,Match Report,,2018-2019,Union Berlin
+2019-05-05,13:30,2. Bundesliga,Matchweek 32,Sun,Away,L,1,2,Darmstadt 98,55.0,11510,Christopher Trimmel,4-3-1-2,4-2-3-1,Bastian Dankert,Match Report,,2018-2019,Union Berlin
+2019-05-12,15:30,2. Bundesliga,Matchweek 33,Sun,Home,W,3,0,Magdeburg,53.0,22012,Christopher Trimmel,4-3-1-2,4-3-1-2,Robert Schröder,Match Report,,2018-2019,Union Berlin
+2019-05-19,15:30,2. Bundesliga,Matchweek 34,Sun,Away,D,2,2,Bochum,55.0,24500,Christopher Trimmel,4-3-1-2,4-4-2,Harm Osmers,Match Report,,2018-2019,Union Berlin
+2019-05-23,20:30,Rel/Pro play-offs,German 1/2 Relegation/Promotion play-offs,Thu,Away,D,2,2,Stuttgart,,58619,,,,,Match Report,Leg 1 of 2,2018-2019,Union Berlin
+2019-05-27,20:30,Rel/Pro play-offs,German 1/2 Relegation/Promotion play-offs,Mon,Home,D,0,0,Stuttgart,,22012,,,,,Match Report,Leg 2 of 2; Union Berlin won,2018-2019,Union Berlin

@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-05,20:30,Coppa Italia,Second round,Sat,Home,D,2 (3),2 (4),Renate,,1305,,,,Antonio Rapuano,Match Report,Renate won on penalty kicks following extra time,2017-2018,Empoli
+2017-08-26,20:30,Serie B,Matchweek 1,Sat,Away,D,1,1,Ternana,,4536,,3-5-2,4-4-2,Livio Marinelli,Match Report,,2017-2018,Empoli
+2017-09-03,17:30,Serie B,Matchweek 2,Sun,Home,W,3,2,Bari,,4445,Manuel Pasqual,3-5-2,4-4-2,Daniele Chiffi,Match Report,,2017-2018,Empoli
+2017-09-09,15:00,Serie B,Matchweek 3,Sat,Away,D,3,3,Palermo,,6270,Manuel Pasqual,3-5-2,3-5-1-1,Aleandro Di Paolo,Match Report,,2017-2018,Empoli
+2017-09-16,15:00,Serie B,Matchweek 4,Sat,Home,W,3,0,Ascoli,,7429,,3-4-1-2,4-3-3,Antonello Balice,Match Report,,2017-2018,Empoli
+2017-09-19,20:30,Serie B,Matchweek 5,Tue,Away,W,2,1,Parma,,10221,Rade Krunić,3-4-1-2,4-3-3,Gianluca Aureliano,Match Report,,2017-2018,Empoli
+2017-09-23,15:00,Serie B,Matchweek 6,Sat,Home,L,0,1,Cittadella,,3993,Joel Untersee,3-4-1-2,4-3-1-2,Antonio Rapuano,Match Report,,2017-2018,Empoli
+2017-09-30,15:00,Serie B,Matchweek 7,Sat,Away,L,2,3,Avellino,,8203,Joel Untersee,3-4-1-2,4-4-1-1,Marco Piccinini,Match Report,,2017-2018,Empoli
+2017-10-08,15:00,Serie B,Matchweek 8,Sun,Home,W,3,1,Foggia,,8689,Joel Untersee,3-4-1-2,4-3-3,Eugenio Abbattista,Match Report,,2017-2018,Empoli
+2017-10-16,20:30,Serie B,Matchweek 9,Mon,Away,W,3,2,Virtus Entella,,2666,Manuel Pasqual,3-5-2,4-3-1-2,Antonio Giua,Match Report,,2017-2018,Empoli
+2017-10-21,15:00,Serie B,Matchweek 10,Sat,Away,L,0,1,Venezia,,4426,Manuel Pasqual,3-4-1-2,3-5-2,Francesco Paolo Saia,Match Report,,2017-2018,Empoli
+2017-10-24,20:30,Serie B,Matchweek 11,Tue,Home,W,3,1,Pescara,,4375,Manuel Pasqual,,,Federico La Penna,Match Report,,2017-2018,Empoli
+2017-10-28,15:00,Serie B,Matchweek 12,Sat,Away,L,1,2,Salernitana,,9270,Manuel Pasqual,3-4-3,3-5-2,Daniele Martinelli,Match Report,,2017-2018,Empoli
+2017-11-05,17:30,Serie B,Matchweek 13,Sun,Home,D,1,1,Spezia,,4340,Manuel Pasqual,3-4-1-2,4-3-1-2,Lorenzo Illuzzi,Match Report,,2017-2018,Empoli
+2017-11-11,15:00,Serie B,Matchweek 14,Sat,Away,L,1,2,Pro Vercelli,,2484,Manuel Pasqual,3-4-1-2,4-3-3,Francesco Fourneau,Match Report,,2017-2018,Empoli
+2017-11-18,15:00,Serie B,Matchweek 15,Sat,Home,W,5,3,Cesena,,6712,Rade Krunić,3-5-2,4-4-1-1,Antonello Balice,Match Report,,2017-2018,Empoli
+2017-11-24,20:30,Serie B,Matchweek 16,Fri,Home,D,3,3,Frosinone,,4526,Rade Krunić,3-5-2,3-4-1-2,Marco Piccinini,Match Report,,2017-2018,Empoli
+2017-12-02,15:00,Serie B,Matchweek 17,Sat,Away,D,1,1,Novara,,2994,Rade Krunić,3-5-2,3-5-2,Eugenio Abbattista,Match Report,,2017-2018,Empoli
+2017-12-09,15:00,Serie B,Matchweek 18,Sat,Home,W,1,0,Carpi,,5423,Rade Krunić,3-5-2,3-5-2,Marco Serra,Match Report,,2017-2018,Empoli
+2017-12-16,15:00,Serie B,Matchweek 19,Sat,Away,D,1,1,Cremonese,,4715,Rade Krunić,3-5-2,4-3-1-2,Ivan Pezzuto,Match Report,,2017-2018,Empoli
+2017-12-21,20:30,Serie B,Matchweek 20,Thu,Home,D,1,1,Brescia,,3976,Rade Krunić,4-3-1-2,3-5-2,Antonio Rapuano,Match Report,,2017-2018,Empoli
+2017-12-28,20:30,Serie B,Matchweek 21,Thu,Away,W,4,2,Perugia,,7360,Manuel Pasqual,4-3-1-2,4-3-1-2,Livio Marinelli,Match Report,,2017-2018,Empoli
+2018-01-20,15:00,Serie B,Matchweek 22,Sat,Home,W,2,1,Ternana,,7766,Manuel Pasqual,4-3-1-2,3-5-1-1,Luigi Pillitteri,Match Report,,2017-2018,Empoli
+2018-01-27,15:00,Serie B,Matchweek 23,Sat,Away,W,4,0,Bari,,14428,Manuel Pasqual,4-3-1-2,3-4-3,Daniele Minelli,Match Report,,2017-2018,Empoli
+2018-02-02,20:30,Serie B,Matchweek 24,Fri,Home,W,4,0,Palermo,,5158,Manuel Pasqual,4-3-1-2,3-5-1-1,Federico La Penna,Match Report,,2017-2018,Empoli
+2018-02-10,15:00,Serie B,Matchweek 25,Sat,Away,W,2,1,Ascoli,,4448,Manuel Pasqual,4-3-1-2,3-5-2,Ivan Pezzuto,Match Report,,2017-2018,Empoli
+2018-02-17,15:00,Serie B,Matchweek 26,Sat,Home,W,4,0,Parma,,4791,Manuel Pasqual,4-3-1-2,3-4-3,Juan Sacchi,Match Report,,2017-2018,Empoli
+2018-02-24,15:00,Serie B,Matchweek 27,Sat,Away,D,1,1,Cittadella,,3510,Manuel Pasqual,4-3-1-2,4-3-1-2,Eugenio Abbattista,Match Report,,2017-2018,Empoli
+2018-02-27,20:30,Serie B,Matchweek 28,Tue,Home,D,1,1,Avellino,,3963,Manuel Pasqual,4-3-1-2,4-1-4-1,Lorenzo Illuzzi,Match Report,,2017-2018,Empoli
+2018-03-11,17:30,Serie B,Matchweek 30,Sun,Home,W,2,1,Virtus Entella,,4090,Alfredo Donnarumma,4-3-1-2,3-5-2,Fabio Piscopo,Match Report,,2017-2018,Empoli
+2018-03-17,15:00,Serie B,Matchweek 31,Sat,Home,W,3,2,Venezia,,7555,Manuel Pasqual,4-3-1-2,3-5-2,Livio Marinelli,Match Report,,2017-2018,Empoli
+2018-03-25,15:00,Serie B,Matchweek 32,Sun,Away,W,1,0,Pescara,,6579,,4-3-1-2,3-5-2,Marco Piccinini,Match Report,,2017-2018,Empoli
+2018-03-29,20:30,Serie B,Matchweek 33,Thu,Home,W,2,0,Salernitana,,4738,Manuel Pasqual,4-3-1-2,4-3-3,Daniele Minelli,Match Report,,2017-2018,Empoli
+2018-04-02,12:30,Serie B,Matchweek 29,Mon,Away,W,3,0,Foggia,,12375,Manuel Pasqual,4-3-1-2,3-5-2,Davide Ghersini,Match Report,,2017-2018,Empoli
+2018-04-07,15:00,Serie B,Matchweek 34,Sat,Away,D,1,1,Spezia,,6460,Manuel Pasqual,4-3-1-2,4-3-1-2,Aleandro Di Paolo,Match Report,,2017-2018,Empoli
+2018-04-14,15:00,Serie B,Matchweek 35,Sat,Home,W,3,2,Pro Vercelli,,5434,Manuel Pasqual,4-3-1-2,3-5-2,Luigi Pillitteri,Match Report,,2017-2018,Empoli
+2018-04-17,20:30,Serie B,Matchweek 36,Tue,Away,W,3,2,Cesena,,11269,Manuel Pasqual,4-3-1-2,4-3-3,Francesco Paolo Saia,Match Report,,2017-2018,Empoli
+2018-04-23,20:30,Serie B,Matchweek 37,Mon,Away,W,4,2,Frosinone,,13166,Manuel Pasqual,4-3-1-2,3-5-2,Eugenio Abbattista,Match Report,,2017-2018,Empoli
+2018-04-28,15:00,Serie B,Matchweek 38,Sat,Home,D,1,1,Novara,,8626,Rade Krunić,4-3-2-1,4-4-2,Lorenzo Illuzzi,Match Report,,2017-2018,Empoli
+2018-05-01,15:00,Serie B,Matchweek 39,Tue,Away,D,0,0,Carpi,,1868,Gabriel,4-3-1-2,3-5-1-1,Antonello Balice,Match Report,,2017-2018,Empoli
+2018-05-07,20:30,Serie B,Matchweek 40,Mon,Home,D,1,1,Cremonese,,5334,Manuel Pasqual,4-3-1-2,4-3-3,Marco Serra,Match Report,,2017-2018,Empoli
+2018-05-12,15:00,Serie B,Matchweek 41,Sat,Away,W,2,0,Brescia,,6999,,4-3-1-2,4-3-3,Antonio Di Martino,Match Report,,2017-2018,Empoli
+2018-05-18,20:30,Serie B,Matchweek 42,Fri,Home,W,2,1,Perugia,,9132,Manuel Pasqual,4-3-1-2,3-5-2,Daniele Martinelli,Match Report,,2017-2018,Empoli

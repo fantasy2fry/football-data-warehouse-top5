@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-11,18:30,Coppa Italia,First round,Sun,Home,L,0,1,Palermo,,,47,5034.0,Yordan Osorio,4-4-2,4-3-2-1,,Match Report,,2024-2025,Parma
+2024-08-17,18:30,Serie A,Matchweek 1,Sat,Home,D,1,1,Fiorentina,1.7,0.7,39,21384.0,Simon Sohm,4-2-3-1,3-4-3,Giovanni Ayroldi,Match Report,,2024-2025,Parma
+2024-08-24,18:30,Serie A,Matchweek 2,Sat,Home,W,2,1,Milan,1.7,1.9,39,21808.0,Simon Sohm,4-2-3-1,4-2-3-1,Juan Luca Sacchi,Match Report,,2024-2025,Parma
+2024-08-31,20:45,Serie A,Matchweek 3,Sat,Away,L,1,2,Napoli,1.7,2.2,45,50000.0,Simon Sohm,4-2-3-1,3-4-3,Paride Tremolada,Match Report,,2024-2025,Parma
+2024-09-16,18:30,Serie A,Matchweek 4,Mon,Home,L,2,3,Udinese,0.8,2.5,47,17586.0,Enrico Del Prato,4-2-3-1,5-3-2,Rosario Abisso,Match Report,,2024-2025,Parma
+2024-09-21,20:45,Serie A,Matchweek 5,Sat,Away,D,2,2,Lecce,2.0,1.5,61,25503.0,Enrico Del Prato,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,2024-2025,Parma
+2024-09-30,20:45,Serie A,Matchweek 6,Mon,Home,L,2,3,Cagliari,2.4,2.4,60,17718.0,Enrico Del Prato,4-2-3-1,3-4-1-2,Francesco Fourneau,Match Report,,2024-2025,Parma
+2024-10-06,15:00,Serie A,Matchweek 7,Sun,Away,D,0,0,Bologna,0.8,0.8,29,28400.0,Enrico Del Prato,4-2-3-1,4-3-3,Marco Di Bello,Match Report,,2024-2025,Parma
+2024-10-19,15:00,Serie A,Matchweek 8,Sat,Away,D,1,1,Como,0.5,1.3,39,7000.0,Enrico Del Prato,4-1-4-1,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Parma
+2024-10-27,12:30,Serie A,Matchweek 9,Sun,Home,D,1,1,Empoli,1.7,0.2,60,17802.0,Enrico Del Prato,4-1-4-1,3-1-4-2,Federico La Penna,Match Report,,2024-2025,Parma
+2024-10-30,20:45,Serie A,Matchweek 10,Wed,Away,D,2,2,Juventus,1.2,2.4,39,40809.0,Enrico Del Prato,4-2-3-1,4-3-3,Luca Zufferli,Match Report,,2024-2025,Parma
+2024-11-04,18:30,Serie A,Matchweek 11,Mon,Home,L,0,1,Genoa,1.1,1.4,55,16151.0,Enrico Del Prato,4-3-3,3-5-2,Marco Guida,Match Report,,2024-2025,Parma
+2024-11-09,15:00,Serie A,Matchweek 12,Sat,Away,W,2,1,Venezia,1.0,0.8,33,10866.0,Enrico Del Prato,4-2-3-1,3-4-3,Daniele Chiffi,Match Report,,2024-2025,Parma
+2024-11-23,20:45,Serie A,Matchweek 13,Sat,Home,L,1,3,Atalanta,0.7,2.7,45,18790.0,Enrico Del Prato,4-2-3-1,3-4-1-2,Gianluca Manganiello,Match Report,,2024-2025,Parma
+2024-12-01,15:00,Serie A,Matchweek 14,Sun,Home,W,3,1,Lazio,1.5,2.5,28,22885.0,Enrico Del Prato,4-2-3-1,4-3-3,Luca Zufferli,Match Report,,2024-2025,Parma
+2024-12-06,18:30,Serie A,Matchweek 15,Fri,Away,L,1,3,Inter,0.4,1.8,43,71879.0,Enrico Del Prato,4-2-3-1,3-5-2,Rosario Abisso,Match Report,,2024-2025,Parma
+2024-12-15,15:00,Serie A,Matchweek 16,Sun,Home,L,2,3,Hellas Verona,1.9,2.6,56,17003.0,Enrico Del Prato,4-2-3-1,3-4-3,Simone Sozza,Match Report,,2024-2025,Parma
+2024-12-22,12:30,Serie A,Matchweek 17,Sun,Away,L,0,5,Roma,0.4,5.4,41,62968.0,Enrico Del Prato,4-2-3-1,3-4-3,Marco Di Bello,Match Report,,2024-2025,Parma
+2024-12-28,15:00,Serie A,Matchweek 18,Sat,Home,W,2,1,Monza,1.4,2.2,44,17499.0,Hernani,4-3-3,3-4-1-2,Federico La Penna,Match Report,,2024-2025,Parma
+2025-01-05,18:00,Serie A,Matchweek 19,Sun,Away,D,0,0,Torino,0.4,1.1,38,19744.0,Enrico Del Prato,4-3-3,3-4-3,Ermanno Feliciani,Match Report,,2024-2025,Parma
+2025-01-12,12:30,Serie A,Matchweek 20,Sun,Away,L,0,1,Genoa,0.4,1.2,39,31689.0,Enrico Del Prato,4-2-3-1,4-1-4-1,Andrea Colombo,Match Report,,2024-2025,Parma
+2025-01-19,15:00,Serie A,Matchweek 21,Sun,Home,D,1,1,Venezia,1.6,1.1,59,15865.0,Enrico Del Prato,4-2-3-1,3-5-2,Francesco Fourneau,Match Report,,2024-2025,Parma
+2025-01-26,12:30,Serie A,Matchweek 22,Sun,Away,L,2,3,Milan,1.6,2.2,39,72304.0,Enrico Del Prato,4-2-3-1,4-3-3,Rosario Abisso,Match Report,,2024-2025,Parma
+2025-01-31,20:45,Serie A,Matchweek 23,Fri,Home,L,1,3,Lecce,1.9,0.7,47,18238.0,Simon Sohm,4-2-3-1,4-3-3,Simone Sozza,Match Report,,2024-2025,Parma
+2025-02-09,15:00,Serie A,Matchweek 24,Sun,Away,L,1,2,Cagliari,0.8,1.2,61,16154.0,Enrico Del Prato,4-3-3,4-4-1-1,Marco Di Bello,Match Report,,2024-2025,Parma
+2025-02-16,18:00,Serie A,Matchweek 25,Sun,Home,L,0,1,Roma,0.2,1.1,29,20559.0,Enrico Del Prato,4-3-3,3-5-2,Daniele Chiffi,Match Report,,2024-2025,Parma
+2025-02-22,15:00,Serie A,Matchweek 26,Sat,Home,W,2,0,Bologna,1.1,0.7,26,19510.0,Enrico Del Prato,4-3-3,4-3-3,Rosario Abisso,Match Report,,2024-2025,Parma
+2025-03-01,20:45,Serie A,Matchweek 27,Sat,Away,L,0,1,Udinese,0.8,2.3,57,20430.0,Simon Sohm,4-3-3,4-4-2,Fabio Maresca,Match Report,,2024-2025,Parma
+2025-03-08,15:00,Serie A,Matchweek 28,Sat,Home,D,2,2,Torino,1.6,0.7,53,18938.0,Enrico Del Prato,4-3-3,4-2-3-1,Francesco Fourneau,Match Report,,2024-2025,Parma
+2025-03-15,15:00,Serie A,Matchweek 29,Sat,Away,D,1,1,Monza,0.7,0.7,55,9251.0,Enrico Del Prato,4-3-3,3-5-2,Gianluca Manganiello,Match Report,,2024-2025,Parma
+2025-03-31,18:30,Serie A,Matchweek 30,Mon,Away,D,0,0,Hellas Verona,0.5,0.4,58,22706.0,Enrico Del Prato,4-1-4-1,3-5-2,Juan Luca Sacchi,Match Report,,2024-2025,Parma
+2025-04-05,18:00,Serie A,Matchweek 31,Sat,Home,D,2,2,Inter,1.4,2.0,37,22126.0,Enrico Del Prato,5-3-2,3-5-2,Daniele Doveri,Match Report,,2024-2025,Parma
+2025-04-13,15:00,Serie A,Matchweek 32,Sun,Away,D,0,0,Fiorentina,0.6,0.8,44,21355.0,Enrico Del Prato,3-5-2,3-5-1-1,Gianluca Manganiello,Match Report,,2024-2025,Parma
+2025-04-23,18:30,Serie A,Matchweek 33,Wed,Home,W,1,0,Juventus,0.6,0.8,34,21108.0,Enrico Del Prato,3-5-2,3-4-3,Daniele Chiffi,Match Report,,2024-2025,Parma
+2025-04-28,20:45,Serie A,Matchweek 34,Mon,Away,D,2,2,Lazio,0.9,1.4,30,32000.0,Enrico Del Prato,5-3-2,4-2-3-1,Juan Luca Sacchi,Match Report,,2024-2025,Parma
+2025-05-03,15:00,Serie A,Matchweek 35,Sat,Home,L,0,1,Como,1.8,0.8,39,20132.0,Enrico Del Prato,3-5-2,4-2-3-1,Marco Di Bello,Match Report,,2024-2025,Parma
+2025-05-10,20:45,Serie A,Matchweek 36,Sat,Away,L,1,2,Empoli,0.3,0.6,54,12040.0,Enrico Del Prato,3-5-2,3-4-3,Michael Fabbri,Match Report,,2024-2025,Parma
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Home,D,0,0,Napoli,0.4,0.4,29,,Enrico Del Prato,3-1-4-2,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Parma
+2025-05-25,20:45,Serie A,Matchweek 38,Sun,Away,W,3,2,Atalanta,2.5,1.2,47,,Enrico Del Prato,3-1-4-2,3-4-3,Livio Marinelli,Match Report,,2024-2025,Parma

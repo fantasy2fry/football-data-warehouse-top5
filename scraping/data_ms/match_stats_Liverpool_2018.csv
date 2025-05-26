@@ -1,0 +1,54 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-12,13:30,Premier League,Matchweek 1,Sun,Home,W,4,0,West Ham,4.0,0.7,64,53235,James Milner,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2018-2019,Liverpool
+2018-08-20,20:00,Premier League,Matchweek 2,Mon,Away,W,2,0,Crystal Palace,2.6,0.4,63,25750,James Milner,4-3-3,4-4-2,Michael Oliver,Match Report,,2018-2019,Liverpool
+2018-08-25,17:30,Premier League,Matchweek 3,Sat,Home,W,1,0,Brighton,1.6,0.6,69,53294,James Milner,4-3-3,4-5-1,Chris Kavanagh,Match Report,,2018-2019,Liverpool
+2018-09-01,12:30,Premier League,Matchweek 4,Sat,Away,W,2,1,Leicester City,1.0,1.0,49,32149,Jordan Henderson,4-3-3,4-2-3-1,Paul Tierney,Match Report,,2018-2019,Liverpool
+2018-09-15,12:30,Premier League,Matchweek 5,Sat,Away,W,2,1,Tottenham,2.6,1.0,40,80188,James Milner,4-3-3,4-1-2-1-2,Michael Oliver,Match Report,,2018-2019,Liverpool
+2018-09-18,20:00,Champions Lg,Group stage,Tue,Home,W,3,2,fr Paris S-G,2.3,0.8,53,52478,Jordan Henderson,4-3-3,4-3-3,Baris Şimşek,Match Report,,2018-2019,Liverpool
+2018-09-22,15:00,Premier League,Matchweek 6,Sat,Home,W,3,0,Southampton,1.7,0.3,61,50965,Jordan Henderson,4-2-3-1,4-1-4-1,Paul Tierney,Match Report,,2018-2019,Liverpool
+2018-09-26,19:45,EFL Cup,Third round,Wed,Home,L,1,2,Chelsea,,,46,45503,James Milner,4-3-3,4-3-3,Kevin Friend,Match Report,,2018-2019,Liverpool
+2018-09-29,17:30,Premier League,Matchweek 7,Sat,Away,D,1,1,Chelsea,1.6,1.1,53,40625,Jordan Henderson,4-3-3,4-3-3,Andre Marriner,Match Report,,2018-2019,Liverpool
+2018-10-03,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,it Napoli,0.1,1.9,43,37057,James Milner,4-3-3,4-4-2,Sándor Andó-Szabó,Match Report,,2018-2019,Liverpool
+2018-10-07,16:30,Premier League,Matchweek 8,Sun,Home,D,0,0,Manchester City,0.4,1.0,49,52117,Jordan Henderson,4-3-3,4-2-3-1,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2018-10-20,17:30,Premier League,Matchweek 9,Sat,Away,W,1,0,Huddersfield,0.6,0.7,52,24263,Jordan Henderson,4-3-3,3-5-1-1,Michael Oliver,Match Report,,2018-2019,Liverpool
+2018-10-24,20:00,Champions Lg,Group stage,Wed,Home,W,4,0,rs Red Star,5.0,0.5,65,53024,Virgil van Dijk,4-2-3-1,4-2-3-1,Daniel Siebert,Match Report,,2018-2019,Liverpool
+2018-10-27,15:00,Premier League,Matchweek 10,Sat,Home,W,4,1,Cardiff City,2.4,0.8,78,53373,Virgil van Dijk,4-2-3-1,4-4-1-1,Stuart Attwell,Match Report,,2018-2019,Liverpool
+2018-11-03,17:30,Premier League,Matchweek 11,Sat,Away,D,1,1,Arsenal,1.3,1.4,39,59993,James Milner,4-3-3,4-2-3-1,Andre Marriner,Match Report,,2018-2019,Liverpool
+2018-11-06,18:55,Champions Lg,Group stage,Tue,Away,L,0,2,rs Red Star,2.2,0.7,72,51318,James Milner,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Liverpool
+2018-11-11,12:00,Premier League,Matchweek 12,Sun,Home,W,2,0,Fulham,1.8,0.5,71,53128,Virgil van Dijk,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2018-2019,Liverpool
+2018-11-24,15:00,Premier League,Matchweek 13,Sat,Away,W,3,0,Watford,1.2,0.4,63,20540,Jordan Henderson,4-2-3-1,4-2-2-2,Jonathan Moss,Match Report,,2018-2019,Liverpool
+2018-11-28,21:00,Champions Lg,Group stage,Wed,Away,L,1,2,fr Paris S-G,1.3,1.5,56,46880,Jordan Henderson,4-3-3,4-4-2,Tomasz Musiał,Match Report,,2018-2019,Liverpool
+2018-12-02,16:15,Premier League,Matchweek 14,Sun,Home,W,1,0,Everton,2.9,1.1,58,51756,Virgil van Dijk,4-2-3-1,4-4-1-1,Chris Kavanagh,Match Report,,2018-2019,Liverpool
+2018-12-05,19:45,Premier League,Matchweek 15,Wed,Away,W,3,1,Burnley,2.4,0.9,73,21741,Jordan Henderson,4-4-2,4-4-2,Stuart Attwell,Match Report,,2018-2019,Liverpool
+2018-12-08,12:30,Premier League,Matchweek 16,Sat,Away,W,4,0,Bournemouth,1.6,0.3,59,10752,James Milner,4-4-2,4-4-2,Lee Mason,Match Report,,2018-2019,Liverpool
+2018-12-11,20:00,Champions Lg,Group stage,Tue,Home,W,1,0,it Napoli,3.0,1.2,48,52015,Jordan Henderson,4-3-3,4-4-2,Damir Skomina,Match Report,,2018-2019,Liverpool
+2018-12-16,16:00,Premier League,Matchweek 17,Sun,Home,W,3,1,Manchester Utd,2.5,0.7,64,52908,Virgil van Dijk,4-4-1-1,4-4-1-1,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2018-12-21,20:00,Premier League,Matchweek 18,Fri,Away,W,2,0,Wolves,1.9,0.9,61,31358,Jordan Henderson,4-2-3-1,3-4-1-2,Craig Pawson,Match Report,,2018-2019,Liverpool
+2018-12-26,15:00,Premier League,Matchweek 19,Wed,Home,W,4,0,Newcastle Utd,2.9,0.5,74,53318,Jordan Henderson,4-2-3-1,5-3-2,Graham Scott,Match Report,,2018-2019,Liverpool
+2018-12-29,17:30,Premier League,Matchweek 20,Sat,Home,W,5,1,Arsenal,3.8,1.0,48,53326,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2018-2019,Liverpool
+2019-01-03,20:00,Premier League,Matchweek 21,Thu,Away,L,1,2,Manchester City,1.5,1.1,51,54511,Jordan Henderson,4-3-3,4-3-3,Anthony Taylor,Match Report,,2018-2019,Liverpool
+2019-01-07,19:45,FA Cup,Third round,Mon,Away,L,1,2,Wolves,,,61,25849,James Milner,4-4-2,3-1-4-2,Paul Tierney,Match Report,,2018-2019,Liverpool
+2019-01-12,15:00,Premier League,Matchweek 22,Sat,Away,W,1,0,Brighton,2.0,0.4,70,30682,Jordan Henderson,4-2-3-1,4-5-1,Kevin Friend,Match Report,,2018-2019,Liverpool
+2019-01-19,15:00,Premier League,Matchweek 23,Sat,Home,W,4,3,Crystal Palace,2.6,0.7,70,53171,Jordan Henderson,4-2-3-1,4-5-1,Jonathan Moss,Match Report,,2018-2019,Liverpool
+2019-01-30,20:00,Premier League,Matchweek 24,Wed,Home,D,1,1,Leicester City,0.6,1.1,72,53092,Jordan Henderson,4-2-3-1,4-4-1-1,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2019-02-04,20:00,Premier League,Matchweek 25,Mon,Away,D,1,1,West Ham,1.1,0.8,73,59903,James Milner,4-3-3,4-1-4-1,Kevin Friend,Match Report,,2018-2019,Liverpool
+2019-02-09,15:00,Premier League,Matchweek 26,Sat,Home,W,3,0,Bournemouth,2.0,0.4,65,53178,James Milner,4-3-3,4-5-1,Anthony Taylor,Match Report,,2018-2019,Liverpool
+2019-02-19,20:00,Champions Lg,Round of 16,Tue,Home,D,0,0,de Bayern Munich,2.1,0.4,49,52250,Jordan Henderson,4-3-3,4-2-3-1,Gianluca Rocchi,Match Report,Leg 1 of 2,2018-2019,Liverpool
+2019-02-24,14:05,Premier League,Matchweek 27,Sun,Away,D,0,0,Manchester Utd,0.5,0.3,64,74519,Jordan Henderson,4-3-3,4-3-1-2,Michael Oliver,Match Report,,2018-2019,Liverpool
+2019-02-27,20:00,Premier League,Matchweek 28,Wed,Home,W,5,0,Watford,1.9,0.3,62,53316,James Milner,4-3-3,4-2-2-2,Graham Scott,Match Report,,2018-2019,Liverpool
+2019-03-03,16:15,Premier League,Matchweek 29,Sun,Away,D,0,0,Everton,1.1,0.3,57,39335,Jordan Henderson,4-3-3,4-4-1-1,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2019-03-10,12:00,Premier League,Matchweek 30,Sun,Home,W,4,2,Burnley,4.0,0.4,67,53310,Virgil van Dijk,4-3-3,4-4-2,Andre Marriner,Match Report,,2018-2019,Liverpool
+2019-03-13,21:00,Champions Lg,Round of 16,Wed,Away,W,3,1,de Bayern Munich,1.1,0.3,42,68145,Jordan Henderson,4-3-3,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Liverpool won,2018-2019,Liverpool
+2019-03-17,14:15,Premier League,Matchweek 31,Sun,Away,W,2,1,Fulham,2.6,1.1,62,25043,Virgil van Dijk,4-3-3,4-3-3,Craig Pawson,Match Report,,2018-2019,Liverpool
+2019-03-31,16:30,Premier League,Matchweek 32,Sun,Home,W,2,1,Tottenham,1.0,0.7,48,53322,Jordan Henderson,4-3-3,3-1-4-2,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2019-04-05,20:00,Premier League,Matchweek 33,Fri,Away,W,3,1,Southampton,1.9,0.9,67,31797,Virgil van Dijk,4-3-3,3-4-3,Paul Tierney,Match Report,,2018-2019,Liverpool
+2019-04-09,20:00,Champions Lg,Quarter-finals,Tue,Home,W,2,0,pt Porto,2.3,0.8,64,52465,Jordan Henderson,4-3-3,3-4-3,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2018-2019,Liverpool
+2019-04-14,16:30,Premier League,Matchweek 34,Sun,Home,W,2,0,Chelsea,1.2,0.7,62,53279,Jordan Henderson,4-3-3,4-3-3,Michael Oliver,Match Report,,2018-2019,Liverpool
+2019-04-17,20:00,Champions Lg,Quarter-finals,Wed,Away,W,4,1,pt Porto,3.5,1.0,49,49117,James Milner,4-3-3,4-2-2-2,Danny Makkelie,Match Report,Leg 2 of 2; Liverpool won,2018-2019,Liverpool
+2019-04-21,16:00,Premier League,Matchweek 35,Sun,Away,W,2,0,Cardiff City,3.0,1.1,75,33082,Jordan Henderson,4-3-3,4-1-4-1,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2019-04-26,20:00,Premier League,Matchweek 36,Fri,Home,W,5,0,Huddersfield,3.1,0.2,69,53249,Jordan Henderson,4-3-3,4-1-4-1,Kevin Friend,Match Report,,2018-2019,Liverpool
+2019-05-01,21:00,Champions Lg,Semi-finals,Wed,Away,L,0,3,es Barcelona,1.8,2.4,52,98299,James Milner,4-3-3,4-4-2,Björn Kuipers,Match Report,Leg 1 of 2,2018-2019,Liverpool
+2019-05-04,19:45,Premier League,Matchweek 37,Sat,Away,W,3,2,Newcastle Utd,1.2,1.4,69,52206,Jordan Henderson,4-3-3,5-4-1,Andre Marriner,Match Report,,2018-2019,Liverpool
+2019-05-07,20:00,Champions Lg,Semi-finals,Tue,Home,W,4,0,es Barcelona,2.3,1.4,42,55212,Jordan Henderson,4-3-3,4-4-2,Cüneyt Çakιr,Match Report,Leg 2 of 2; Liverpool won,2018-2019,Liverpool
+2019-05-12,15:00,Premier League,Matchweek 38,Sun,Home,W,2,0,Wolves,1.6,1.3,59,53331,Jordan Henderson,4-3-3,3-5-2,Martin Atkinson,Match Report,,2018-2019,Liverpool
+2019-06-01,21:00,Champions Lg,Final,Sat,Neutral,W,2,0,eng Tottenham,1.3,0.8,36,63272,Jordan Henderson,4-3-3,4-2-3-1,Damir Skomina,Match Report,,2018-2019,Liverpool

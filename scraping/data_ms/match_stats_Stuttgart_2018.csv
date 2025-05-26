@@ -1,0 +1,38 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-18,20:45,DFB-Pokal,First round,Sat,Away,L,0,2,Hansa Rostock,,,72.0,24400,Mario Gómez,4-4-2,4-2-3-1,Tobias Stieler,Match Report,,2018-2019,Stuttgart
+2018-08-26,15:30,Bundesliga,Matchweek 1,Sun,Away,L,0,1,Mainz 05,0.9,1.2,53.0,28705,Christian Gentner,4-4-2,4-2-3-1,Daniel Siebert,Match Report,,2018-2019,Stuttgart
+2018-09-01,18:30,Bundesliga,Matchweek 2,Sat,Home,L,0,3,Bayern Munich,0.2,1.4,32.0,58680,Christian Gentner,4-1-4-1,4-2-3-1,Harm Osmers,Match Report,,2018-2019,Stuttgart
+2018-09-16,18:00,Bundesliga,Matchweek 3,Sun,Away,D,3,3,Freiburg,1.6,1.2,57.0,24000,Christian Gentner,4-4-2,4-2-2-2,Deniz Aytekin,Match Report,,2018-2019,Stuttgart
+2018-09-21,20:30,Bundesliga,Matchweek 4,Fri,Home,D,0,0,Düsseldorf,1.4,1.1,54.0,54410,Christian Gentner,4-4-1-1,4-1-4-1,Robert Hartmann,Match Report,,2018-2019,Stuttgart
+2018-09-26,20:30,Bundesliga,Matchweek 5,Wed,Away,L,0,2,RB Leipzig,0.7,2.7,55.0,32187,Christian Gentner,4-1-2-1-2◆,4-2-2-2,Robert Schröder,Match Report,,2018-2019,Stuttgart
+2018-09-29,15:30,Bundesliga,Matchweek 6,Sat,Home,W,2,1,Werder Bremen,2.5,1.0,38.0,58569,Christian Gentner,4-1-2-1-2◆,3-5-2,Tobias Welz,Match Report,,2018-2019,Stuttgart
+2018-10-06,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1,3,Hannover 96,0.8,1.7,50.0,40800,Christian Gentner,5-3-2,3-4-3,Sascha Stegemann,Match Report,,2018-2019,Stuttgart
+2018-10-20,15:30,Bundesliga,Matchweek 8,Sat,Home,L,0,4,Dortmund,1.0,0.9,51.0,59000,Christian Gentner,4-3-3,4-2-3-1,Manuel Gräfe,Match Report,,2018-2019,Stuttgart
+2018-10-27,18:30,Bundesliga,Matchweek 9,Sat,Away,L,0,4,Hoffenheim,0.3,2.8,26.0,30150,Christian Gentner,5-3-2,4-1-3-2,Frank Willenborg,Match Report,,2018-2019,Stuttgart
+2018-11-02,20:30,Bundesliga,Matchweek 10,Fri,Home,L,0,3,Eint Frankfurt,1.0,2.7,53.0,58016,Christian Gentner,3-4-1-2,3-4-1-2,Sven Jablonski,Match Report,,2018-2019,Stuttgart
+2018-11-10,15:30,Bundesliga,Matchweek 11,Sat,Away,W,2,0,Nürnberg,1.5,0.6,50.0,50000,Christian Gentner,4-4-1-1,4-3-3,Christian Dingert,Match Report,,2018-2019,Stuttgart
+2018-11-23,20:30,Bundesliga,Matchweek 12,Fri,Away,L,0,2,Leverkusen,0.5,2.3,41.0,24632,Christian Gentner,4-4-1-1,4-2-3-1,Robert Schröder,Match Report,,2018-2019,Stuttgart
+2018-12-01,15:30,Bundesliga,Matchweek 13,Sat,Home,W,1,0,Augsburg,0.9,1.7,37.0,52739,Christian Gentner,3-4-3,3-4-3,Harm Osmers,Match Report,,2018-2019,Stuttgart
+2018-12-09,18:00,Bundesliga,Matchweek 14,Sun,Away,L,0,3,Gladbach,0.8,2.3,29.0,48590,Christian Gentner,3-4-3,4-1-4-1,Deniz Aytekin,Match Report,,2018-2019,Stuttgart
+2018-12-15,15:30,Bundesliga,Matchweek 15,Sat,Home,W,2,1,Hertha BSC,1.5,1.4,48.0,47680,Christian Gentner,4-1-4-1,4-4-2,Sascha Stegemann,Match Report,,2018-2019,Stuttgart
+2018-12-18,20:30,Bundesliga,Matchweek 16,Tue,Away,L,0,2,Wolfsburg,0.5,1.6,43.0,21780,Christian Gentner,4-1-4-1,4-3-1-2,Robert Hartmann,Match Report,,2018-2019,Stuttgart
+2018-12-22,15:30,Bundesliga,Matchweek 17,Sat,Home,L,1,3,Schalke 04,1.2,2.3,62.0,54022,Christian Gentner,4-2-3-1,4-2-3-1,Felix Brych,Match Report,,2018-2019,Stuttgart
+2019-01-19,15:30,Bundesliga,Matchweek 18,Sat,Home,L,2,3,Mainz 05,2.8,1.0,61.0,51881,Christian Gentner,4-2-3-1,4-3-1-2,Tobias Stieler,Match Report,,2018-2019,Stuttgart
+2019-01-27,15:30,Bundesliga,Matchweek 19,Sun,Away,L,1,4,Bayern Munich,0.5,2.9,29.0,75000,Christian Gentner,4-4-2,4-2-3-1,Frank Willenborg,Match Report,,2018-2019,Stuttgart
+2019-02-03,18:00,Bundesliga,Matchweek 20,Sun,Home,D,2,2,Freiburg,0.9,2.1,69.0,51009,Christian Gentner,4-4-2,3-4-3,Deniz Aytekin,Match Report,,2018-2019,Stuttgart
+2019-02-10,18:00,Bundesliga,Matchweek 21,Sun,Away,L,0,3,Düsseldorf,1.3,2.0,57.0,40211,Christian Gentner,4-4-2,3-5-2,Christian Dingert,Match Report,,2018-2019,Stuttgart
+2019-02-16,15:30,Bundesliga,Matchweek 22,Sat,Home,L,1,3,RB Leipzig,1.5,1.5,48.0,46072,Mario Gómez,5-4-1,4-2-2-2,Felix Zwayer,Match Report,,2018-2019,Stuttgart
+2019-02-22,20:30,Bundesliga,Matchweek 23,Fri,Away,D,1,1,Werder Bremen,0.9,1.1,31.0,41000,Mario Gómez,5-4-1,4-3-1-2,Robert Hartmann,Match Report,,2018-2019,Stuttgart
+2019-03-03,15:30,Bundesliga,Matchweek 24,Sun,Home,W,5,1,Hannover 96,2.0,0.4,51.0,55781,Mario Gómez,5-4-1,3-4-1-2,Bastian Dankert,Match Report,,2018-2019,Stuttgart
+2019-03-09,15:30,Bundesliga,Matchweek 25,Sat,Away,L,1,3,Dortmund,0.8,2.4,25.0,81365,Andreas Beck,5-3-2,4-1-4-1,Benjamin Cortus,Match Report,,2018-2019,Stuttgart
+2019-03-16,15:30,Bundesliga,Matchweek 26,Sat,Home,D,1,1,Hoffenheim,1.2,2.4,40.0,56743,Mario Gómez,3-4-3,3-4-1-2,Felix Zwayer,Match Report,,2018-2019,Stuttgart
+2019-03-31,18:00,Bundesliga,Matchweek 27,Sun,Away,L,0,3,Eint Frankfurt,0.6,1.7,50.0,51500,Christian Gentner,3-5-2,3-4-1-2,Felix Brych,Match Report,,2018-2019,Stuttgart
+2019-04-06,15:30,Bundesliga,Matchweek 28,Sat,Home,D,1,1,Nürnberg,1.6,2.0,56.0,58757,Mario Gómez,5-3-2,4-1-4-1,Frank Willenborg,Match Report,,2018-2019,Stuttgart
+2019-04-13,15:30,Bundesliga,Matchweek 29,Sat,Home,L,0,1,Leverkusen,0.5,2.2,32.0,53657,Andreas Beck,3-5-2,4-3-3,Tobias Stieler,Match Report,,2018-2019,Stuttgart
+2019-04-20,15:30,Bundesliga,Matchweek 30,Sat,Away,L,0,6,Augsburg,1.4,2.2,48.0,30660,Mario Gómez,3-4-3,4-1-4-1,Manuel Gräfe,Match Report,,2018-2019,Stuttgart
+2019-04-27,18:30,Bundesliga,Matchweek 31,Sat,Home,W,1,0,Gladbach,1.6,1.6,33.0,56730,Gonzalo Castro,4-3-3,3-4-1-2,Bastian Dankert,Match Report,,2018-2019,Stuttgart
+2019-05-04,15:30,Bundesliga,Matchweek 32,Sat,Away,L,1,3,Hertha BSC,1.4,2.6,49.0,48668,Andreas Beck,4-3-1-2,4-2-3-1,Daniel Schlager,Match Report,,2018-2019,Stuttgart
+2019-05-11,15:30,Bundesliga,Matchweek 33,Sat,Home,W,3,0,Wolfsburg,0.9,0.5,41.0,54068,Christian Gentner,4-2-3-1,4-3-3,Felix Brych,Match Report,,2018-2019,Stuttgart
+2019-05-18,15:30,Bundesliga,Matchweek 34,Sat,Away,D,0,0,Schalke 04,0.8,0.8,60.0,61676,Christian Gentner,4-4-1-1,3-1-4-2,Robert Schröder,Match Report,,2018-2019,Stuttgart
+2019-05-23,20:30,Rel/Pro play-offs,German 1/2 Relegation/Promotion play-offs,Thu,Home,D,2,2,Union Berlin,,,,58619,,,,,Match Report,Leg 1 of 2,2018-2019,Stuttgart
+2019-05-27,20:30,Rel/Pro play-offs,German 1/2 Relegation/Promotion play-offs,Mon,Away,D,0,0,Union Berlin,,,,22012,,,,,Match Report,Leg 2 of 2; Union Berlin won,2018-2019,Stuttgart

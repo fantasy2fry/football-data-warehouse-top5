@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-13,19:00,La Liga,Matchweek 1,Sat,Away,W,3,0,Valladolid,1.5,1.0,49.0,17543,Raúl Albiol,4-4-2,4-1-4-1,Mario Melero,Match Report,,2022-2023,Villarreal
+2022-08-18,20:45,Conf Lg,Play-off round,Thu,Home,W,4,2,hr Hajduk Split,,,,11275,Gerard Moreno,4-4-2,4-2-3-1,Aliaksei Kulbakou,Match Report,Leg 1 of 2,2022-2023,Villarreal
+2022-08-21,19:30,La Liga,Matchweek 2,Sun,Away,W,2,0,Atlético Madrid,1.8,1.6,49.0,57033,Raúl Albiol,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,2022-2023,Villarreal
+2022-08-25,21:00,Conf Lg,Play-off round,Thu,Away,W,2,0,hr Hajduk Split,,,,30000,Daniel Parejo,4-4-2,4-2-3-1,Andris Treimanis,Match Report,Leg 2 of 2; Villarreal won,2022-2023,Villarreal
+2022-08-28,17:30,La Liga,Matchweek 3,Sun,Away,D,0,0,Getafe,1.1,0.3,64.0,9815,Raúl Albiol,4-4-2,4-4-2,Jorge Figueroa,Match Report,,2022-2023,Villarreal
+2022-09-04,18:30,La Liga,Matchweek 4,Sun,Home,W,4,0,Elche,3.4,0.6,53.0,13915,Raúl Albiol,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Villarreal
+2022-09-08,18:45,Conf Lg,Group stage,Thu,Home,W,4,3,pl Lech Poznań,1.0,1.8,56.0,10385,Manu Trigueros,4-4-2,4-2-3-1,Ali Palabıyık,Match Report,,2022-2023,Villarreal
+2022-09-11,21:00,La Liga,Matchweek 5,Sun,Away,L,0,1,Betis,1.7,1.4,53.0,53276,Raúl Albiol,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2022-2023,Villarreal
+2022-09-15,22:00,Conf Lg,Group stage,Thu,Away,W,2,1,il Be'er Sheva,3.4,0.7,50.0,13413,Francis Coquelin,4-4-2,3-4-1-2,William Collum,Match Report,,2022-2023,Villarreal
+2022-09-18,16:15,La Liga,Matchweek 6,Sun,Home,D,1,1,Sevilla,1.5,0.6,46.0,18292,Raúl Albiol,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Villarreal
+2022-10-01,14:00,La Liga,Matchweek 7,Sat,Away,D,0,0,Cádiz,1.6,0.7,60.0,15516,Raúl Albiol,4-4-2,4-4-2,Javier Villanueva,Match Report,,2022-2023,Villarreal
+2022-10-06,21:00,Conf Lg,Group stage,Thu,Home,W,5,0,at Austria Wien,3.2,0.7,49.0,9539,Francis Coquelin,4-4-2,4-2-3-1,Jochem Kamphuis,Match Report,,2022-2023,Villarreal
+2022-10-09,18:30,La Liga,Matchweek 8,Sun,Away,L,0,1,Real Sociedad,0.2,1.2,40.0,32689,Raúl Albiol,4-4-2,4-1-3-2,César Soto,Match Report,,2022-2023,Villarreal
+2022-10-13,18:45,Conf Lg,Group stage,Thu,Away,W,1,0,at Austria Wien,0.5,0.3,63.0,11000,Raúl Albiol,4-4-2,5-3-2,Georgi Kabakov,Match Report,,2022-2023,Villarreal
+2022-10-17,21:00,La Liga,Matchweek 9,Mon,Home,W,2,0,Osasuna,1.5,0.5,58.0,9699,Raúl Albiol,4-4-2,4-1-4-1,Pablo González,Match Report,,2022-2023,Villarreal
+2022-10-20,21:00,La Liga,Matchweek 10,Thu,Away,L,0,3,Barcelona,0.4,2.1,31.0,73261,Raúl Albiol,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2022-2023,Villarreal
+2022-10-23,18:30,La Liga,Matchweek 11,Sun,Home,W,2,1,Almería,1.0,1.0,52.0,13816,Raúl Albiol,4-2-3-1,5-3-2,Ricardo de Burgos,Match Report,,2022-2023,Villarreal
+2022-10-27,18:45,Conf Lg,Group stage,Thu,Home,D,2,2,il Be'er Sheva,1.7,1.3,78.0,6338,Manu Trigueros,4-4-2,4-4-2,Juxhin Xhaja,Match Report,,2022-2023,Villarreal
+2022-10-30,18:30,La Liga,Matchweek 12,Sun,Away,L,0,1,Athletic Club,0.3,1.7,57.0,46081,Daniel Parejo,4-3-3,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Villarreal
+2022-11-03,21:00,Conf Lg,Group stage,Thu,Away,L,0,3,pl Lech Poznań,1.1,2.2,72.0,30117,Manu Trigueros,4-3-3,4-4-1-1,Nathan Verboomen,Match Report,,2022-2023,Villarreal
+2022-11-06,18:30,La Liga,Matchweek 13,Sun,Home,L,0,2,Mallorca,0.5,0.4,71.0,16603,Raúl Albiol,4-2-3-1,5-4-1,Alejandro Muñíz,Match Report,,2022-2023,Villarreal
+2022-11-09,20:00,La Liga,Matchweek 14,Wed,Away,W,1,0,Espanyol,0.7,1.1,56.0,17400,Raúl Albiol,4-3-3,4-2-3-1,Javier Villanueva,Match Report,,2022-2023,Villarreal
+2022-11-12,21:00,Copa del Rey,First round,Sat,Away,W,9,0,CD Santa Amalia,,,,9000,Francis Coquelin,4-3-3,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Villarreal
+2022-12-20,21:00,Copa del Rey,Second round,Tue,Away,W,2,1,Guijuelo,,,72.0,1800,Manu Trigueros,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,Required Extra Time,2022-2023,Villarreal
+2022-12-31,16:15,La Liga,Matchweek 15,Sat,Home,W,2,1,Valencia,2.5,1.4,52.0,19247,Raúl Albiol,4-3-3,4-3-3,José Sánchez,Match Report,,2022-2023,Villarreal
+2023-01-03,19:00,Copa del Rey,Round of 32,Tue,Away,W,5,1,Cartagena,,,66.0,14800,Manu Trigueros,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Villarreal
+2023-01-07,16:15,La Liga,Matchweek 16,Sat,Home,W,2,1,Real Madrid,3.0,2.2,49.0,21088,Raúl Albiol,4-3-3,4-3-3,César Soto,Match Report,,2022-2023,Villarreal
+2023-01-13,21:00,La Liga,Matchweek 17,Fri,Away,D,1,1,Celta Vigo,0.1,2.1,49.0,13931,Manu Trigueros,4-1-4-1,3-4-3,Alberola Rojas,Match Report,,2022-2023,Villarreal
+2023-01-19,21:00,Copa del Rey,Round of 16,Thu,Home,L,2,3,Real Madrid,,,53.0,20124,Raúl Albiol,4-3-3,4-3-3,Jesús Gil,Match Report,,2022-2023,Villarreal
+2023-01-22,14:00,La Liga,Matchweek 18,Sun,Home,W,1,0,Girona,2.5,0.6,68.0,15129,Gerard Moreno,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Villarreal
+2023-01-30,21:00,La Liga,Matchweek 19,Mon,Home,L,0,1,Rayo Vallecano,0.8,1.0,62.0,14378,Raúl Albiol,4-1-4-1,4-2-3-1,Juan Pulido,Match Report,,2022-2023,Villarreal
+2023-02-04,16:15,La Liga,Matchweek 20,Sat,Away,L,1,3,Elche,1.4,3.0,72.0,18421,Raúl Albiol,4-3-3,3-4-3,José Luis Munuera,Match Report,,2022-2023,Villarreal
+2023-02-12,21:00,La Liga,Matchweek 21,Sun,Home,L,0,1,Barcelona,1.1,1.7,54.0,21178,Raúl Albiol,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2022-2023,Villarreal
+2023-02-18,18:30,La Liga,Matchweek 22,Sat,Away,L,2,4,Mallorca,1.2,2.2,55.0,13957,Raúl Albiol,4-1-4-1,5-4-1,José Sánchez,Match Report,,2022-2023,Villarreal
+2023-02-27,21:00,La Liga,Matchweek 23,Mon,Home,W,2,1,Getafe,1.5,0.6,64.0,13090,Raúl Albiol,4-1-4-1,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Villarreal
+2023-03-04,16:15,La Liga,Matchweek 24,Sat,Away,W,2,0,Almería,2.1,0.4,71.0,13311,Raúl Albiol,4-3-3,4-4-2,Pablo González,Match Report,,2022-2023,Villarreal
+2023-03-09,18:45,Conf Lg,Round of 16,Thu,Away,D,1,1,be Anderlecht,0.8,0.5,54.0,15265,Manu Trigueros,4-3-3,4-2-3-1,Bartosz Frankowski,Match Report,Leg 1 of 2,2022-2023,Villarreal
+2023-03-12,18:30,La Liga,Matchweek 25,Sun,Home,D,1,1,Betis,1.7,1.0,57.0,19174,Raúl Albiol,4-3-3,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Villarreal
+2023-03-16,21:00,Conf Lg,Round of 16,Thu,Home,L,0,1,be Anderlecht,2.8,2.2,62.0,16212,Gerard Moreno,4-3-3,4-3-3,Marco Di Bello,Match Report,Leg 2 of 2; Anderlecht won,2022-2023,Villarreal
+2023-03-19,16:15,La Liga,Matchweek 26,Sun,Away,W,3,0,Osasuna,1.8,0.9,45.0,20128,Raúl Albiol,4-3-3,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Villarreal
+2023-04-02,18:30,La Liga,Matchweek 27,Sun,Home,W,2,0,Real Sociedad,2.7,1.0,52.0,18768,Daniel Parejo,4-3-3,4-1-3-2,Jesús Gil,Match Report,,2022-2023,Villarreal
+2023-04-08,21:00,La Liga,Matchweek 28,Sat,Away,W,3,2,Real Madrid,1.5,2.4,51.0,57887,Daniel Parejo,4-3-3,4-3-3,Alberola Rojas,Match Report,,2022-2023,Villarreal
+2023-04-15,14:00,La Liga,Matchweek 29,Sat,Home,L,1,2,Valladolid,2.0,2.2,70.0,14876,Daniel Parejo,4-3-3,3-4-1-2,Javier Villanueva,Match Report,,2022-2023,Villarreal
+2023-04-23,21:00,La Liga,Matchweek 30,Sun,Away,L,1,2,Sevilla,2.2,0.9,62.0,29635,Daniel Parejo,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,2022-2023,Villarreal
+2023-04-27,19:30,La Liga,Matchweek 31,Thu,Home,W,4,2,Espanyol,3.7,0.9,64.0,16134,Daniel Parejo,4-2-3-1,4-4-1-1,César Soto,Match Report,,2022-2023,Villarreal
+2023-04-30,16:15,La Liga,Matchweek 32,Sun,Home,W,3,1,Celta Vigo,2.4,0.9,51.0,16123,Daniel Parejo,4-2-3-1,4-4-2,Pablo González,Match Report,,2022-2023,Villarreal
+2023-05-03,19:30,La Liga,Matchweek 33,Wed,Away,D,1,1,Valencia,0.7,1.2,67.0,43634,Raúl Albiol,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Villarreal
+2023-05-13,18:30,La Liga,Matchweek 34,Sat,Home,W,5,1,Athletic Club,3.2,3.1,56.0,16871,Daniel Parejo,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Villarreal
+2023-05-20,14:00,La Liga,Matchweek 35,Sat,Away,W,2,1,Girona,1.9,1.2,54.0,11649,Pepe Reina,4-2-3-1,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Villarreal
+2023-05-24,19:30,La Liga,Matchweek 36,Wed,Home,W,2,0,Cádiz,2.4,1.7,64.0,15099,Manu Trigueros,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2022-2023,Villarreal
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,L,1,2,Rayo Vallecano,0.4,1.4,67.0,11085,Daniel Parejo,4-2-3-1,4-2-3-1,Javier Villanueva,Match Report,,2022-2023,Villarreal
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Home,D,2,2,Atlético Madrid,1.6,1.8,66.0,18226,Manu Trigueros,4-2-3-1,5-3-2,Ricardo de Burgos,Match Report,,2022-2023,Villarreal

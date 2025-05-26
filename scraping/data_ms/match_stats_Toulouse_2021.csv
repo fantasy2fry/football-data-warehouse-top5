@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-07-24,19:00,Ligue 2,Matchweek 1,Sat,Home,D,2,2,Ajaccio,73.0,4925,Brecht Dejaegere,3-5-2,4-4-2,Franck Schneider,Match Report,,2021-2022,Toulouse
+2021-07-31,19:00,Ligue 2,Matchweek 2,Sat,Away,W,4,0,Nancy,42.0,5678,Brecht Dejaegere,3-5-2,4-3-3,Alexandre Perreau Niel,Match Report,,2021-2022,Toulouse
+2021-08-07,19:00,Ligue 2,Matchweek 3,Sat,Away,W,1,0,Pau FC,53.0,3342,Brecht Dejaegere,3-4-3,4-4-1-1,Aurélien Petit,Match Report,,2021-2022,Toulouse
+2021-08-14,15:00,Ligue 2,Matchweek 4,Sat,Home,W,1,0,Bastia,49.0,6249,Brecht Dejaegere,4-3-3,4-3-3,Antony Gautier,Match Report,,2021-2022,Toulouse
+2021-08-21,15:00,Ligue 2,Matchweek 5,Sat,Away,W,4,2,Dijon,59.0,6756,Brecht Dejaegere,4-3-3,4-4-2,Nicolas Rainville,Match Report,,2021-2022,Toulouse
+2021-08-28,15:00,Ligue 2,Matchweek 6,Sat,Home,W,1,0,Valenciennes,62.0,7614,Brecht Dejaegere,4-3-3,4-2-3-1,Mathieu Vernice,Match Report,,2021-2022,Toulouse
+2021-09-13,20:45,Ligue 2,Matchweek 7,Mon,Away,D,1,1,Le Havre,59.0,5998,Brecht Dejaegere,4-3-3,4-4-2,Gaël Angoula,Match Report,,2021-2022,Toulouse
+2021-09-18,15:00,Ligue 2,Matchweek 8,Sat,Home,W,4,1,Grenoble,63.0,8969,Brecht Dejaegere,4-4-2◆,5-3-2,Alexandre Perreau Niel,Match Report,,2021-2022,Toulouse
+2021-09-21,20:00,Ligue 2,Matchweek 9,Tue,Away,W,2,0,Dunkerque,65.0,1752,Brecht Dejaegere,4-3-1-2,5-3-2,Abdelatif Kherradji,Match Report,,2021-2022,Toulouse
+2021-09-27,20:45,Ligue 2,Matchweek 10,Mon,Home,L,2,3,Caen,68.0,9856,Brecht Dejaegere,4-4-2◆,4-1-4-1,Bartolomeu Varela,Match Report,,2021-2022,Toulouse
+2021-10-02,15:00,Ligue 2,Matchweek 11,Sat,Away,D,0,0,Amiens,68.0,11733,Brecht Dejaegere,4-3-1-2,4-1-4-1,Mathieu Vernice,Match Report,,2021-2022,Toulouse
+2021-10-16,15:00,Ligue 2,Matchweek 12,Sat,Home,W,6,0,Auxerre,54.0,10302,Maxime Dupé,4-2-3-1,4-2-3-1,Franck Schneider,Match Report,,2021-2022,Toulouse
+2021-10-23,15:00,Ligue 2,Matchweek 13,Sat,Away,D,2,2,Paris FC,70.0,4068,Brecht Dejaegere,4-2-3-1,4-4-2,Guillaume Paradis,Match Report,,2021-2022,Toulouse
+2021-10-30,15:00,Ligue 2,Matchweek 14,Sat,Home,D,2,2,Guingamp,63.0,10491,Brecht Dejaegere,4-2-3-1,4-2-3-1,Nicolas Rainville,Match Report,,2021-2022,Toulouse
+2021-11-06,19:00,Ligue 2,Matchweek 15,Sat,Away,D,0,0,Quevilly-Rouen,70.0,4079,Brecht Dejaegere,4-3-3,4-4-1-1,Gaël Angoula,Match Report,,2021-2022,Toulouse
+2021-11-13,16:05,Coupe de France,Seventh round,Sat,Away,D,0 (3),0 (1),Football Club Libourne,,2332,Brecht Dejaegere,,,Romain Delpech,Match Report,Toulouse won on penalty kicks following extra time,2021-2022,Toulouse
+2021-11-20,15:00,Ligue 2,Matchweek 16,Sat,Home,W,4,1,Sochaux,60.0,15069,Brecht Dejaegere,4-3-3,4-2-3-1,Olivier Thual,Match Report,,2021-2022,Toulouse
+2021-11-28,13:45,Coupe de France,Eighth round,Sun,Away,W,3,1,Trélissac,,1109,Moussa Diarra,,,Arnaud Baert,Match Report,,2021-2022,Toulouse
+2021-12-06,20:45,Ligue 2,Matchweek 17,Mon,Away,L,1,2,Niort,60.0,2370,Brecht Dejaegere,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2021-2022,Toulouse
+2021-12-13,20:45,Ligue 2,Matchweek 18,Mon,Home,D,1,1,Rodez Aveyron,57.0,11577,Maxime Dupé,3-4-3,3-1-4-2,Nicolas Rainville,Match Report,,2021-2022,Toulouse
+2021-12-18,13:45,Coupe de France,Round of 64,Sat,Home,W,4,1,Nîmes,66.0,7059,Brecht Dejaegere,4-3-3,4-4-2,Thomas Léonard,Match Report,,2021-2022,Toulouse
+2021-12-21,20:45,Ligue 2,Matchweek 19,Tue,Away,W,2,1,Nîmes,53.0,2064,Brecht Dejaegere,4-1-4-1,3-1-4-2,Willy Delajod,Match Report,,2021-2022,Toulouse
+2022-01-02,13:45,Coupe de France,Round of 32,Sun,Away,W,1,0,Cannes,55.0,3940,Brecht Dejaegere,4-3-3,3-4-3,Romain Lissorgue,Match Report,,2021-2022,Toulouse
+2022-01-15,19:00,Ligue 2,Matchweek 21,Sat,Home,D,1,1,Pau FC,68.0,5281,Brecht Dejaegere,4-3-3,3-4-1-2,Franck Schneider,Match Report,,2021-2022,Toulouse
+2022-01-19,19:00,Ligue 2,Matchweek 20,Wed,Home,W,4,0,Nancy,65.0,5482,Maxime Dupé,4-3-3,4-2-3-1,Olivier Thual,Match Report,,2021-2022,Toulouse
+2022-01-22,19:00,Ligue 2,Matchweek 22,Sat,Away,D,0,0,Bastia,61.0,5000,Maxime Dupé,4-2-3-1,3-5-1-1,Nicolas Rainville,Match Report,,2021-2022,Toulouse
+2022-01-29,16:15,Coupe de France,Round of 16,Sat,Home,L,0,1,Versailles,67.0,5413,Moussa Diarra,4-3-2-1,3-4-3,Jeremy Stinat,Match Report,,2021-2022,Toulouse
+2022-02-05,15:00,Ligue 2,Matchweek 23,Sat,Home,W,4,1,Dijon,62.0,11000,Maxime Dupé,4-3-3,3-5-1-1,Marc Bollengier,Match Report,,2021-2022,Toulouse
+2022-02-12,15:00,Ligue 2,Matchweek 24,Sat,Away,W,3,1,Valenciennes,64.0,5303,Maxime Dupé,4-3-3,4-2-3-1,Bartolomeu Varela,Match Report,,2021-2022,Toulouse
+2022-02-21,20:45,Ligue 2,Matchweek 25,Mon,Home,W,4,0,Le Havre,56.0,11130,Maxime Dupé,4-3-3,3-4-1-2,Mathieu Vernice,Match Report,,2021-2022,Toulouse
+2022-02-28,20:45,Ligue 2,Matchweek 26,Mon,Away,W,2,0,Grenoble,66.0,4501,Maxime Dupé,4-3-3,4-3-3,Olivier Thual,Match Report,,2021-2022,Toulouse
+2022-03-07,20:45,Ligue 2,Matchweek 27,Mon,Home,W,2,0,Dunkerque,62.0,8955,Maxime Dupé,4-3-3,3-4-1-2,Arnaud Baert,Match Report,,2021-2022,Toulouse
+2022-03-12,19:00,Ligue 2,Matchweek 28,Sat,Away,L,1,4,Caen,72.0,11429,Maxime Dupé,4-3-3,3-4-3,Guillaume Paradis,Match Report,,2021-2022,Toulouse
+2022-03-15,19:00,Ligue 2,Matchweek 29,Tue,Home,W,6,0,Amiens,58.0,7119,Maxime Dupé,4-3-3,3-4-1-2,Remi Landry,Match Report,,2021-2022,Toulouse
+2022-03-19,15:00,Ligue 2,Matchweek 30,Sat,Away,W,2,1,Auxerre,60.0,14360,Maxime Dupé,4-3-3,4-1-4-1,Stéphanie Frappart,Match Report,,2021-2022,Toulouse
+2022-04-02,15:00,Ligue 2,Matchweek 31,Sat,Home,W,2,1,Paris FC,62.0,28032,Maxime Dupé,4-3-3,3-4-1-2,Aurélien Petit,Match Report,,2021-2022,Toulouse
+2022-04-09,15:00,Ligue 2,Matchweek 32,Sat,Away,W,4,2,Guingamp,52.0,11640,Brecht Dejaegere,4-3-3,3-4-3,Remi Landry,Match Report,,2021-2022,Toulouse
+2022-04-16,15:00,Ligue 2,Matchweek 33,Sat,Home,W,2,0,Quevilly-Rouen,66.0,12348,Brecht Dejaegere,4-3-3,3-4-1-2,Romain Lissorgue,Match Report,,2021-2022,Toulouse
+2022-04-19,20:00,Ligue 2,Matchweek 34,Tue,Away,D,1,1,Sochaux,55.0,15188,Maxime Dupé,4-3-3,4-2-3-1,Benjamin Lepaysant,Match Report,,2021-2022,Toulouse
+2022-04-25,20:45,Ligue 2,Matchweek 35,Mon,Home,W,2,0,Niort,55.0,24209,Brecht Dejaegere,4-2-3-1,4-2-3-1,Alexandre Perreau Niel,Match Report,,2021-2022,Toulouse
+2022-05-02,20:45,Ligue 2,Matchweek 36,Mon,Away,L,0,1,Rodez Aveyron,70.0,5955,Maxime Dupé,4-3-3,5-4-1,Florent Batta,Match Report,,2021-2022,Toulouse
+2022-05-07,19:00,Ligue 2,Matchweek 37,Sat,Home,W,2,1,Nîmes,67.0,27868,Brecht Dejaegere,4-3-3,4-4-2,Jérôme Miguelgorry,Match Report,,2021-2022,Toulouse
+2022-05-14,19:00,Ligue 2,Matchweek 38,Sat,Away,L,0,1,Ajaccio,63.0,8516,Maxime Dupé,4-2-3-1,4-4-2,Bastien Dechepy,Match Report,,2021-2022,Toulouse

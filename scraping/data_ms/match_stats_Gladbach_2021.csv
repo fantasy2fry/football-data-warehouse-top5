@@ -1,0 +1,38 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-09,20:45,DFB-Pokal,Round of 64,Mon,Away,W,1,0,Kaiserslautern,,,50,5000.0,Lars Stindl,4-2-3-1,3-4-3,Harm Osmers,Match Report,,2021-2022,Gladbach
+2021-08-13,20:30,Bundesliga,Matchweek 1,Fri,Home,D,1,1,Bayern Munich,2.3,2.5,35,22925.0,Lars Stindl,4-2-3-1,4-2-3-1,Marco Fritz,Match Report,,2021-2022,Gladbach
+2021-08-21,18:30,Bundesliga,Matchweek 2,Sat,Away,L,0,4,Leverkusen,1.7,1.9,53,15105.0,Lars Stindl,4-2-3-1,4-2-3-1,Deniz Aytekin,Match Report,,2021-2022,Gladbach
+2021-08-29,15:30,Bundesliga,Matchweek 3,Sun,Away,L,1,2,Union Berlin,1.8,1.9,72,11006.0,Lars Stindl,4-2-3-1,3-5-2,Felix Brych,Match Report,,2021-2022,Gladbach
+2021-09-12,19:30,Bundesliga,Matchweek 4,Sun,Home,W,3,1,Arminia,1.7,1.8,64,24500.0,Lars Stindl,3-4-3,4-3-3,Sascha Stegemann,Match Report,,2021-2022,Gladbach
+2021-09-18,15:30,Bundesliga,Matchweek 5,Sat,Away,L,0,1,Augsburg,0.6,0.3,70,12500.0,Lars Stindl,4-2-3-1,3-5-2,Florian Badstübner,Match Report,,2021-2022,Gladbach
+2021-09-25,18:30,Bundesliga,Matchweek 6,Sat,Home,W,1,0,Dortmund,1.6,0.4,55,25000.0,Lars Stindl,3-4-3,3-5-2,Deniz Aytekin,Match Report,,2021-2022,Gladbach
+2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Away,W,3,1,Wolfsburg,3.3,1.3,48,12845.0,Lars Stindl,3-5-2,4-2-3-1,Frank Willenborg,Match Report,,2021-2022,Gladbach
+2021-10-16,18:30,Bundesliga,Matchweek 8,Sat,Home,D,1,1,Stuttgart,2.6,0.3,59,41608.0,Lars Stindl,3-4-3,3-1-4-2,Felix Brych,Match Report,,2021-2022,Gladbach
+2021-10-23,18:30,Bundesliga,Matchweek 9,Sat,Away,L,0,1,Hertha BSC,0.5,1.0,58,25000.0,Lars Stindl,3-4-1-2,4-2-3-1,Benjamin Cortus,Match Report,,2021-2022,Gladbach
+2021-10-27,20:45,DFB-Pokal,Round of 32,Wed,Home,W,5,0,Bayern Munich,,,38,48500.0,Lars Stindl,3-4-3,4-2-3-1,Tobias Stieler,Match Report,,2021-2022,Gladbach
+2021-10-31,17:30,Bundesliga,Matchweek 10,Sun,Home,W,2,1,Bochum,1.9,0.8,65,42361.0,Yann Sommer,4-2-3-1,4-3-3,Tobias Reichel,Match Report,,2021-2022,Gladbach
+2021-11-05,20:30,Bundesliga,Matchweek 11,Fri,Away,D,1,1,Mainz 05,1.6,1.1,52,25000.0,Yann Sommer,3-4-3,3-5-2,Robert Schröder,Match Report,,2021-2022,Gladbach
+2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Home,W,4,0,Greuther Fürth,3.1,0.2,57,38621.0,Lars Stindl,3-4-3,4-2-3-1,Benjamin Brand,Match Report,,2021-2022,Gladbach
+2021-11-27,15:30,Bundesliga,Matchweek 13,Sat,Away,L,1,4,Köln,1.0,1.4,51,50000.0,Lars Stindl,3-4-3,4-2-3-1,Robert Schröder,Match Report,,2021-2022,Gladbach
+2021-12-05,17:30,Bundesliga,Matchweek 14,Sun,Home,L,0,6,Freiburg,0.9,2.0,64,10025.0,Yann Sommer,3-4-1-2,4-4-2,Robert Hartmann,Match Report,,2021-2022,Gladbach
+2021-12-11,15:30,Bundesliga,Matchweek 15,Sat,Away,L,1,4,RB Leipzig,1.2,4.7,47,,Lars Stindl,4-3-3,3-4-1-2,Bastian Dankert,Match Report,,2021-2022,Gladbach
+2021-12-15,18:30,Bundesliga,Matchweek 16,Wed,Home,L,2,3,Eint Frankfurt,2.0,2.3,57,10028.0,Yann Sommer,3-4-3,3-4-3,Martin Petersen,Match Report,,2021-2022,Gladbach
+2021-12-18,15:30,Bundesliga,Matchweek 17,Sat,Away,D,1,1,Hoffenheim,1.3,2.1,40,750.0,Lars Stindl,4-2-3-1,3-4-3,Sven Jablonski,Match Report,,2021-2022,Gladbach
+2022-01-07,20:30,Bundesliga,Matchweek 18,Fri,Away,W,2,1,Bayern Munich,1.0,1.9,38,,Lars Stindl,3-1-4-2,4-2-3-1,Daniel Siebert,Match Report,,2021-2022,Gladbach
+2022-01-15,18:30,Bundesliga,Matchweek 19,Sat,Home,L,1,2,Leverkusen,1.2,5.3,54,750.0,Lars Stindl,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2021-2022,Gladbach
+2022-01-19,18:30,DFB-Pokal,Round of 16,Wed,Away,L,0,3,Hannover 96,,,62,500.0,Lars Stindl,3-4-3,4-2-3-1,Florian Badstübner,Match Report,,2021-2022,Gladbach
+2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Home,L,1,2,Union Berlin,1.5,1.1,59,750.0,Yann Sommer,3-4-3,3-5-2,Felix Brych,Match Report,,2021-2022,Gladbach
+2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Away,D,1,1,Arminia,2.0,0.5,61,10000.0,Yann Sommer,3-4-3,4-2-3-1,Benjamin Cortus,Match Report,,2021-2022,Gladbach
+2022-02-12,15:30,Bundesliga,Matchweek 22,Sat,Home,W,3,2,Augsburg,2.4,1.6,57,10000.0,Yann Sommer,3-4-3,4-2-2-2,Tobias Welz,Match Report,,2021-2022,Gladbach
+2022-02-20,17:30,Bundesliga,Matchweek 23,Sun,Away,L,0,6,Dortmund,0.9,3.8,50,10000.0,Yann Sommer,3-4-3,3-4-3,Marco Fritz,Match Report,,2021-2022,Gladbach
+2022-02-26,15:30,Bundesliga,Matchweek 24,Sat,Home,D,2,2,Wolfsburg,2.4,1.4,66,10000.0,Yann Sommer,3-4-3,3-4-3,Tobias Reichel,Match Report,,2021-2022,Gladbach
+2022-03-05,18:30,Bundesliga,Matchweek 25,Sat,Away,L,2,3,Stuttgart,0.9,2.4,43,25000.0,Yann Sommer,4-3-3,4-3-3,Christian Dingert,Match Report,,2021-2022,Gladbach
+2022-03-12,18:30,Bundesliga,Matchweek 26,Sat,Home,W,2,0,Hertha BSC,1.8,0.6,53,30675.0,Yann Sommer,3-4-3,3-1-4-2,Florian Badstübner,Match Report,,2021-2022,Gladbach
+2022-03-18,20:30,Bundesliga,Matchweek 27,Fri,Away,W,2,0,Bochum,,,49,,Yann Sommer,3-4-3,4-3-3,Benjamin Cortus,Match Report,Match awarded to Gladbach,2021-2022,Gladbach
+2022-04-03,17:30,Bundesliga,Matchweek 28,Sun,Home,D,1,1,Mainz 05,1.5,1.8,52,44156.0,Lars Stindl,3-4-3,3-4-3,Daniel Schlager,Match Report,,2021-2022,Gladbach
+2022-04-09,15:30,Bundesliga,Matchweek 29,Sat,Away,W,2,0,Greuther Fürth,2.7,0.5,50,13900.0,Yann Sommer,3-4-3,3-4-3,Tobias Stieler,Match Report,,2021-2022,Gladbach
+2022-04-16,18:30,Bundesliga,Matchweek 30,Sat,Home,L,1,3,Köln,1.2,2.0,58,54042.0,Yann Sommer,3-4-3,4-2-3-1,Deniz Aytekin,Match Report,,2021-2022,Gladbach
+2022-04-23,15:30,Bundesliga,Matchweek 31,Sat,Away,D,3,3,Freiburg,1.6,2.3,38,34700.0,Yann Sommer,5-3-2,4-4-1-1,Benjamin Brand,Match Report,,2021-2022,Gladbach
+2022-05-02,20:30,Bundesliga,Matchweek 32,Mon,Home,W,3,1,RB Leipzig,1.5,1.1,49,35324.0,Lars Stindl,5-3-2,3-4-3,Martin Petersen,Match Report,,2021-2022,Gladbach
+2022-05-08,15:30,Bundesliga,Matchweek 33,Sun,Away,D,1,1,Eint Frankfurt,1.4,0.8,53,51500.0,Lars Stindl,3-4-3,3-5-2,Felix Zwayer,Match Report,,2021-2022,Gladbach
+2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,W,5,1,Hoffenheim,3.2,1.6,55,50395.0,Lars Stindl,4-2-3-1,3-1-4-2,Harm Osmers,Match Report,,2021-2022,Gladbach

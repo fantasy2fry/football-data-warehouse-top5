@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,17:30,Premier League,Matchweek 1,Sat,Home,W,3,1,Aston Villa,2.4,0.7,70,60407.0,Hugo Lloris,4-3-1-2,4-1-4-1,Chris Kavanagh,Match Report,,2019-2020,Tottenham
+2019-08-17,17:30,Premier League,Matchweek 2,Sat,Away,D,2,2,Manchester City,0.1,2.9,45,54503.0,Hugo Lloris,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Tottenham
+2019-08-25,16:30,Premier League,Matchweek 3,Sun,Home,L,0,1,Newcastle Utd,1.1,0.8,79,59245.0,Hugo Lloris,4-2-3-1,5-4-1,Mike Dean,Match Report,,2019-2020,Tottenham
+2019-09-01,16:30,Premier League,Matchweek 4,Sun,Away,D,2,2,Arsenal,2.0,2.4,45,60333.0,Hugo Lloris,4-2-2-2,4-3-3,Martin Atkinson,Match Report,,2019-2020,Tottenham
+2019-09-14,15:00,Premier League,Matchweek 5,Sat,Home,W,4,0,Crystal Palace,1.0,0.6,64,59812.0,Hugo Lloris,4-2-2-2,4-5-1,Craig Pawson,Match Report,,2019-2020,Tottenham
+2019-09-18,19:55,Champions Lg,Group stage,Wed,Away,D,2,2,gr Olympiacos,1.7,1.7,56,31001.0,Hugo Lloris,4-2-3-1,4-2-3-1,Gianluca Rocchi,Match Report,,2019-2020,Tottenham
+2019-09-21,12:30,Premier League,Matchweek 6,Sat,Away,L,1,2,Leicester City,1.1,1.3,56,32129.0,Harry Kane,4-1-2-1-2◆,4-1-4-1,Paul Tierney,Match Report,,2019-2020,Tottenham
+2019-09-24,19:45,EFL Cup,Third round,Tue,Away,D,0 (3),0 (4),Colchester Utd,,,75,9481.0,Eric Dier,3-4-3,4-3-3,Jarred Gillett,Match Report,Colchester Utd won on penalty kicks following extra time,2019-2020,Tottenham
+2019-09-28,15:00,Premier League,Matchweek 7,Sat,Home,W,2,1,Southampton,1.0,1.5,42,59645.0,Hugo Lloris,4-2-3-1,3-4-1-2,Graham Scott,Match Report,,2019-2020,Tottenham
+2019-10-01,20:00,Champions Lg,Group stage,Tue,Home,L,2,7,de Bayern Munich,1.9,1.3,41,60127.0,Hugo Lloris,4-1-2-1-2◆,4-2-3-1,Clément Turpin,Match Report,,2019-2020,Tottenham
+2019-10-05,12:30,Premier League,Matchweek 8,Sat,Away,L,0,3,Brighton,0.4,2.4,52,30610.0,Hugo Lloris,4-2-3-1,4-4-2,Jonathan Moss,Match Report,,2019-2020,Tottenham
+2019-10-19,15:00,Premier League,Matchweek 9,Sat,Home,D,1,1,Watford,1.0,0.7,69,58754.0,Harry Kane,3-4-3,5-3-2,Chris Kavanagh,Match Report,,2019-2020,Tottenham
+2019-10-22,20:00,Champions Lg,Group stage,Tue,Home,W,5,0,rs Red Star,3.7,0.6,58,51743.0,Harry Kane,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,2019-2020,Tottenham
+2019-10-27,16:30,Premier League,Matchweek 10,Sun,Away,L,1,2,Liverpool,1.2,2.6,33,53222.0,Harry Kane,4-3-3,4-3-3,Anthony Taylor,Match Report,,2019-2020,Tottenham
+2019-11-03,16:30,Premier League,Matchweek 11,Sun,Away,D,1,1,Everton,0.6,1.1,53,39001.0,Ben Davies,4-2-3-1,4-1-4-1,Martin Atkinson,Match Report,,2019-2020,Tottenham
+2019-11-06,21:00,Champions Lg,Group stage,Wed,Away,W,4,0,rs Red Star,2.5,0.5,67,42381.0,Harry Kane,4-2-3-1,4-2-3-1,Carlos del Cerro,Match Report,,2019-2020,Tottenham
+2019-11-09,15:00,Premier League,Matchweek 12,Sat,Home,D,1,1,Sheffield Utd,1.8,0.9,61,59781.0,Harry Kane,4-2-3-1,3-5-2,Graham Scott,Match Report,,2019-2020,Tottenham
+2019-11-23,12:30,Premier League,Matchweek 13,Sat,Away,W,3,2,West Ham,2.1,0.7,52,59930.0,Harry Kane,4-2-3-1,4-4-1-1,Michael Oliver,Match Report,,2019-2020,Tottenham
+2019-11-26,20:00,Champions Lg,Group stage,Tue,Home,W,4,2,gr Olympiacos,2.2,1.2,58,57024.0,Harry Kane,4-2-3-1,4-3-3,Georgi Kabakov,Match Report,,2019-2020,Tottenham
+2019-11-30,15:00,Premier League,Matchweek 14,Sat,Home,W,3,2,Bournemouth,2.3,1.1,52,59626.0,Harry Kane,4-2-3-1,4-4-2,Lee Mason,Match Report,,2019-2020,Tottenham
+2019-12-04,19:30,Premier League,Matchweek 15,Wed,Away,L,1,2,Manchester Utd,0.9,1.4,53,73252.0,Harry Kane,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2019-2020,Tottenham
+2019-12-07,15:00,Premier League,Matchweek 16,Sat,Home,W,5,0,Burnley,2.6,0.9,49,58401.0,Harry Kane,4-2-3-1,4-4-2,Kevin Friend,Match Report,,2019-2020,Tottenham
+2019-12-11,21:00,Champions Lg,Group stage,Wed,Away,L,1,3,de Bayern Munich,1.0,2.9,30,66353.0,Eric Dier,4-2-3-1,4-3-3,Gianluca Rocchi,Match Report,,2019-2020,Tottenham
+2019-12-15,14:00,Premier League,Matchweek 17,Sun,Away,W,2,1,Wolves,0.9,0.9,42,31674.0,Harry Kane,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,2019-2020,Tottenham
+2019-12-22,16:30,Premier League,Matchweek 18,Sun,Home,L,0,2,Chelsea,0.3,1.3,45,61104.0,Harry Kane,4-3-3,3-4-3,Anthony Taylor,Match Report,,2019-2020,Tottenham
+2019-12-26,12:30,Premier League,Matchweek 19,Thu,Home,W,2,1,Brighton,0.8,1.0,54,56308.0,Harry Kane,3-4-3,3-4-3,Graham Scott,Match Report,,2019-2020,Tottenham
+2019-12-28,17:30,Premier League,Matchweek 20,Sat,Away,D,2,2,Norwich City,1.9,0.2,58,27072.0,Harry Kane,3-1-4-2,4-2-3-1,Kevin Friend,Match Report,,2019-2020,Tottenham
+2020-01-01,15:00,Premier League,Matchweek 21,Wed,Away,L,0,1,Southampton,0.9,1.3,59,30976.0,Harry Kane,4-2-3-1,4-4-2,Mike Dean,Match Report,,2019-2020,Tottenham
+2020-01-05,14:01,FA Cup,Third round,Sun,Away,D,1,1,Middlesbrough,,,71,26693.0,Jan Vertonghen,3-5-2,3-4-3,Stuart Attwell,Match Report,,2019-2020,Tottenham
+2020-01-11,17:30,Premier League,Matchweek 22,Sat,Home,L,0,1,Liverpool,1.2,1.2,33,61023.0,Toby Alderweireld,4-4-2,4-3-3,Martin Atkinson,Match Report,,2019-2020,Tottenham
+2020-01-14,20:05,FA Cup,Third round,Tue,Home,W,2,1,Middlesbrough,,,68,49202.0,Jan Vertonghen,4-2-3-1,5-3-2,Craig Pawson,Match Report,,2019-2020,Tottenham
+2020-01-18,12:30,Premier League,Matchweek 23,Sat,Away,D,0,0,Watford,1.9,2.5,58,21366.0,Jan Vertonghen,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Tottenham
+2020-01-22,19:30,Premier League,Matchweek 24,Wed,Home,W,2,1,Norwich City,2.1,1.5,51,58182.0,Hugo Lloris,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2019-2020,Tottenham
+2020-01-25,15:00,FA Cup,Fourth round,Sat,Away,D,1,1,Southampton,,,41,29282.0,Hugo Lloris,4-3-3,4-4-2,Peter Bankes,Match Report,,2019-2020,Tottenham
+2020-02-02,16:30,Premier League,Matchweek 25,Sun,Home,W,2,0,Manchester City,0.3,2.4,33,61022.0,Hugo Lloris,4-2-3-1,4-3-3,Mike Dean,Match Report,,2019-2020,Tottenham
+2020-02-05,19:45,FA Cup,Fourth round,Wed,Home,W,3,2,Southampton,,,44,56046.0,Hugo Lloris,3-5-2,4-4-2,David Coote,Match Report,,2019-2020,Tottenham
+2020-02-16,14:00,Premier League,Matchweek 26,Sun,Away,W,3,2,Aston Villa,3.4,1.8,45,41874.0,Hugo Lloris,4-2-3-1,3-4-3,Martin Atkinson,Match Report,,2019-2020,Tottenham
+2020-02-19,20:00,Champions Lg,Round of 16,Wed,Home,L,0,1,de RB Leipzig,1.1,2.1,44,60095.0,Hugo Lloris,4-4-2,3-4-3,Cüneyt Çakιr,Match Report,Leg 1 of 2,2019-2020,Tottenham
+2020-02-22,12:30,Premier League,Matchweek 27,Sat,Away,L,1,2,Chelsea,0.2,1.7,51,40608.0,Hugo Lloris,5-4-1,3-4-3,Michael Oliver,Match Report,,2019-2020,Tottenham
+2020-03-01,14:00,Premier League,Matchweek 28,Sun,Home,L,2,3,Wolves,1.7,2.6,65,58064.0,Harry Winks,3-4-3,3-4-3,Stuart Attwell,Match Report,,2019-2020,Tottenham
+2020-03-04,19:45,FA Cup,Fifth round,Wed,Home,D,1 (2),1 (3),Norwich City,,,50,58007.0,Jan Vertonghen,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Norwich City won on penalty kicks following extra time,2019-2020,Tottenham
+2020-03-07,17:30,Premier League,Matchweek 29,Sat,Away,D,1,1,Burnley,1.2,3.0,54,20496.0,Hugo Lloris,3-4-3,4-4-2,Jonathan Moss,Match Report,,2019-2020,Tottenham
+2020-03-10,21:00,Champions Lg,Round of 16,Tue,Away,L,0,3,de RB Leipzig,0.3,0.9,46,42146.0,Hugo Lloris,3-4-3,3-4-3,Carlos del Cerro,Match Report,Leg 2 of 2; RB Leipzig won,2019-2020,Tottenham
+2020-06-19,20:15,Premier League,Matchweek 30,Fri,Home,D,1,1,Manchester Utd,0.4,1.7,39,,Hugo Lloris,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Tottenham
+2020-06-23,20:15,Premier League,Matchweek 31,Tue,Home,W,2,0,West Ham,2.3,1.2,64,,Hugo Lloris,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2019-2020,Tottenham
+2020-07-02,18:00,Premier League,Matchweek 32,Thu,Away,L,1,3,Sheffield Utd,1.1,1.6,67,,Hugo Lloris,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,,2019-2020,Tottenham
+2020-07-06,20:00,Premier League,Matchweek 33,Mon,Home,W,1,0,Everton,0.5,0.5,52,,Hugo Lloris,4-3-3,4-4-2,Graham Scott,Match Report,,2019-2020,Tottenham
+2020-07-09,18:00,Premier League,Matchweek 34,Thu,Away,D,0,0,Bournemouth,0.5,1.4,63,,Hugo Lloris,4-3-3,4-4-2,Paul Tierney,Match Report,,2019-2020,Tottenham
+2020-07-12,16:30,Premier League,Matchweek 35,Sun,Home,W,2,1,Arsenal,2.0,0.6,38,,Hugo Lloris,4-4-1-1,3-4-3,Michael Oliver,Match Report,,2019-2020,Tottenham
+2020-07-15,18:00,Premier League,Matchweek 36,Wed,Away,W,3,1,Newcastle Utd,1.5,1.1,48,,Hugo Lloris,4-3-3,5-3-2,David Coote,Match Report,,2019-2020,Tottenham
+2020-07-19,16:00,Premier League,Matchweek 37,Sun,Home,W,3,0,Leicester City,0.8,1.7,30,,Hugo Lloris,4-2-3-1,3-4-3,Anthony Taylor,Match Report,,2019-2020,Tottenham
+2020-07-26,16:00,Premier League,Matchweek 38,Sun,Away,D,1,1,Crystal Palace,0.3,0.8,52,,Hugo Lloris,4-2-3-1,4-4-2,Andre Marriner,Match Report,,2019-2020,Tottenham

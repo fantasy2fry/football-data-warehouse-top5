@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-17,18:30,Serie A,Matchweek 1,Sat,Away,D,2.0,2.0,Genoa,1.9,2.1,68.0,33300.0,Lautaro Martínez,3-5-2,3-5-2,Ermanno Feliciani,Match Report,,2024-2025,Inter
+2024-08-24,20:45,Serie A,Matchweek 2,Sat,Home,W,2.0,0.0,Lecce,2.4,0.3,61.0,70921.0,Nicolò Barella,3-5-2,4-2-3-1,Davide Di Marco,Match Report,,2024-2025,Inter
+2024-08-30,20:45,Serie A,Matchweek 3,Fri,Home,W,4.0,0.0,Atalanta,1.3,1.4,55.0,71745.0,Lautaro Martínez,3-5-2,3-4-3,Matteo Marchetti,Match Report,,2024-2025,Inter
+2024-09-15,20:45,Serie A,Matchweek 4,Sun,Away,D,1.0,1.0,Monza,1.7,0.2,60.0,14541.0,Lautaro Martínez,3-5-2,3-4-3,Luca Pairetto,Match Report,,2024-2025,Inter
+2024-09-18,20:00,Champions Lg,League phase,Wed,Away,D,0.0,0.0,eng Manchester City,0.7,2.3,40.0,50922.0,Nicolò Barella,3-5-2,3-2-4-1,Glenn Nyberg,Match Report,,2024-2025,Inter
+2024-09-22,20:45,Serie A,Matchweek 5,Sun,Home,L,1.0,2.0,Milan,0.7,1.7,57.0,75366.0,Lautaro Martínez,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,,2024-2025,Inter
+2024-09-28,15:00,Serie A,Matchweek 6,Sat,Away,W,3.0,2.0,Udinese,2.2,0.8,60.0,24611.0,Lautaro Martínez,3-5-2,3-5-2,Juan Luca Sacchi,Match Report,,2024-2025,Inter
+2024-10-01,21:00,Champions Lg,League phase,Tue,Home,W,4.0,0.0,rs Red Star,2.8,0.5,53.0,56391.0,Stefan de Vrij,3-5-2,4-2-3-1,Felix Zwayer,Match Report,,2024-2025,Inter
+2024-10-05,20:45,Serie A,Matchweek 7,Sat,Home,W,3.0,2.0,Torino,2.4,1.6,80.0,73348.0,Lautaro Martínez,3-5-2,3-5-2,Matteo Marcenaro,Match Report,,2024-2025,Inter
+2024-10-20,20:45,Serie A,Matchweek 8,Sun,Away,W,1.0,0.0,Roma,1.0,1.0,45.0,64119.0,Lautaro Martínez,3-5-2,3-4-3,Davide Massa,Match Report,,2024-2025,Inter
+2024-10-23,21:00,Champions Lg,League phase,Wed,Away,W,1.0,0.0,ch Young Boys,3.3,0.8,58.0,31500.0,Nicolò Barella,3-5-2,4-2-3-1,Michael Oliver,Match Report,,2024-2025,Inter
+2024-10-27,18:00,Serie A,Matchweek 9,Sun,Home,D,4.0,4.0,Juventus,3.0,2.1,47.0,75000.0,Lautaro Martínez,3-5-2,4-2-3-1,Marco Guida,Match Report,,2024-2025,Inter
+2024-10-30,18:30,Serie A,Matchweek 10,Wed,Away,W,3.0,0.0,Empoli,1.1,0.3,77.0,15706.0,Lautaro Martínez,3-5-2,3-4-3,Matteo Marchetti,Match Report,,2024-2025,Inter
+2024-11-03,20:45,Serie A,Matchweek 11,Sun,Home,W,1.0,0.0,Venezia,2.4,1.0,57.0,66326.0,Lautaro Martínez,3-5-2,3-5-2,Maria Sole Ferrieri Caputi,Match Report,,2024-2025,Inter
+2024-11-06,21:00,Champions Lg,League phase,Wed,Home,W,1.0,0.0,eng Arsenal,1.1,1.8,38.0,75222.0,Lautaro Martínez,3-5-2,4-4-2,István Kovács,Match Report,,2024-2025,Inter
+2024-11-10,20:45,Serie A,Matchweek 12,Sun,Home,D,1.0,1.0,Napoli,1.5,0.7,53.0,72951.0,Lautaro Martínez,3-5-2,4-3-3,Maurizio Mariani,Match Report,,2024-2025,Inter
+2024-11-23,15:00,Serie A,Matchweek 13,Sat,Away,W,5.0,0.0,Hellas Verona,3.2,0.5,69.0,27000.0,Nicolò Barella,3-5-2,3-5-2,Andrea Colombo,Match Report,,2024-2025,Inter
+2024-11-26,21:00,Champions Lg,League phase,Tue,Home,W,1.0,0.0,de RB Leipzig,1.4,0.1,50.0,63174.0,Lautaro Martínez,3-1-4-2,4-4-2,João Pinheiro,Match Report,,2024-2025,Inter
+2024-12-06,18:30,Serie A,Matchweek 15,Fri,Home,W,3.0,1.0,Parma,1.8,0.4,57.0,71879.0,Lautaro Martínez,3-5-2,4-2-3-1,Rosario Abisso,Match Report,,2024-2025,Inter
+2024-12-10,21:00,Champions Lg,League phase,Tue,Away,L,0.0,1.0,de Leverkusen,0.3,1.1,40.0,30210.0,Stefan de Vrij,3-5-2,4-2-3-1,Slavko Vinčič,Match Report,,2024-2025,Inter
+2024-12-16,20:45,Serie A,Matchweek 16,Mon,Away,W,6.0,0.0,Lazio,2.0,0.4,48.0,59000.0,Lautaro Martínez,3-1-4-2,4-2-3-1,Daniele Chiffi,Match Report,,2024-2025,Inter
+2024-12-19,21:00,Coppa Italia,Round of 16,Thu,Home,W,2.0,0.0,Udinese,,,57.0,53576.0,Alessandro Bastoni,3-5-2,3-5-2,Luca Massimi,Match Report,,2024-2025,Inter
+2024-12-23,20:45,Serie A,Matchweek 17,Mon,Home,W,2.0,0.0,Como,1.6,0.3,62.0,73204.0,Lautaro Martínez,3-1-4-2,5-4-1,Antonio Giua,Match Report,,2024-2025,Inter
+2024-12-28,18:00,Serie A,Matchweek 18,Sat,Away,W,3.0,0.0,Cagliari,3.2,0.3,65.0,16412.0,Lautaro Martínez,3-1-4-2,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Inter
+2025-01-02,22:00,Supercoppa,Semi-finals,Thu,Neutral,W,2.0,0.0,Atalanta,,,52.0,16896.0,Lautaro Martínez,3-1-4-2,3-4-3,Daniele Chiffi,Match Report,,2024-2025,Inter
+2025-01-06,22:00,Supercoppa,Final,Mon,Neutral,L,2.0,3.0,Milan,,,56.0,24841.0,Lautaro Martínez,3-1-4-2,4-3-3,Simone Sozza,Match Report,,2024-2025,Inter
+2025-01-12,15:00,Serie A,Matchweek 20,Sun,Away,W,1.0,0.0,Venezia,1.9,0.4,59.0,12048.0,Lautaro Martínez,3-1-4-2,3-5-2,Marco Piccinini,Match Report,,2024-2025,Inter
+2025-01-15,20:45,Serie A,Matchweek 19,Wed,Home,D,2.0,2.0,Bologna,1.7,0.6,48.0,63074.0,Lautaro Martínez,3-5-2,4-2-3-1,Luca Pairetto,Match Report,,2024-2025,Inter
+2025-01-19,20:45,Serie A,Matchweek 21,Sun,Home,W,3.0,1.0,Empoli,2.1,0.4,68.0,61230.0,Lautaro Martínez,3-5-2,5-3-2,Ermanno Feliciani,Match Report,,2024-2025,Inter
+2025-01-22,21:00,Champions Lg,League phase,Wed,Away,W,1.0,0.0,cz Sparta Prague,0.9,0.4,69.0,18010.0,Lautaro Martínez,3-5-2,3-5-2,Alejandro Hernández,Match Report,,2024-2025,Inter
+2025-01-26,18:00,Serie A,Matchweek 22,Sun,Away,W,4.0,0.0,Lecce,2.1,0.9,51.0,27223.0,Lautaro Martínez,3-5-2,4-3-3,Livio Marinelli,Match Report,,2024-2025,Inter
+2025-01-29,21:00,Champions Lg,League phase,Wed,Home,W,3.0,0.0,fr Monaco,3.9,0.2,64.0,71601.0,Lautaro Martínez,3-5-2,4-2-3-1,Irfan Peljto,Match Report,,2024-2025,Inter
+2025-02-02,18:00,Serie A,Matchweek 23,Sun,Away,D,1.0,1.0,Milan,1.3,0.6,63.0,75493.0,Lautaro Martínez,3-5-2,4-3-3,Daniele Chiffi,Match Report,,2024-2025,Inter
+2025-02-06,20:45,Serie A,Matchweek 14,Thu,Away,L,0.0,3.0,Fiorentina,0.4,1.0,71.0,22351.0,Lautaro Martínez,3-5-2,4-2-3-1,Daniele Doveri,Match Report,,2024-2025,Inter
+2025-02-10,20:45,Serie A,Matchweek 24,Mon,Home,W,2.0,1.0,Fiorentina,2.2,0.9,62.0,67484.0,Lautaro Martínez,3-5-2,3-5-1-1,Federico La Penna,Match Report,,2024-2025,Inter
+2025-02-16,20:45,Serie A,Matchweek 25,Sun,Away,L,0.0,1.0,Juventus,1.8,1.3,58.0,41361.0,Lautaro Martínez,3-5-2,4-2-3-1,Maurizio Mariani,Match Report,,2024-2025,Inter
+2025-02-22,20:45,Serie A,Matchweek 26,Sat,Home,W,1.0,0.0,Genoa,1.5,1.3,62.0,68271.0,Lautaro Martínez,3-1-4-2,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Inter
+2025-02-25,21:00,Coppa Italia,Quarter-finals,Tue,Home,W,2.0,0.0,Lazio,,,51.0,53333.0,Stefan de Vrij,3-5-2,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Inter
+2025-03-01,18:00,Serie A,Matchweek 27,Sat,Away,D,1.0,1.0,Napoli,0.3,1.8,38.0,53851.0,Lautaro Martínez,3-5-2,4-3-3,Daniele Doveri,Match Report,,2024-2025,Inter
+2025-03-05,18:45,Champions Lg,Round of 16,Wed,Away,W,2.0,0.0,nl Feyenoord,2.2,0.4,58.0,43789.0,Lautaro Martínez,3-5-2,4-4-2,Espen Eskås,Match Report,Leg 1 of 2,2024-2025,Inter
+2025-03-08,20:45,Serie A,Matchweek 28,Sat,Home,W,3.0,2.0,Monza,2.6,0.6,69.0,66344.0,Lautaro Martínez,3-5-2,3-5-2,Luca Zufferli,Match Report,,2024-2025,Inter
+2025-03-11,21:00,Champions Lg,Round of 16,Tue,Home,W,2.0,1.0,nl Feyenoord,2.1,1.5,55.0,55536.0,Denzel Dumfries,3-5-2,4-3-3,Ivan Kružliak,Match Report,Leg 2 of 2; Inter won,2024-2025,Inter
+2025-03-16,20:45,Serie A,Matchweek 29,Sun,Away,W,2.0,0.0,Atalanta,2.2,0.6,51.0,23215.0,Lautaro Martínez,3-5-2,3-4-1-2,Davide Massa,Match Report,,2024-2025,Inter
+2025-03-30,18:00,Serie A,Matchweek 30,Sun,Home,W,2.0,1.0,Udinese,1.7,0.7,60.0,71924.0,Matteo Darmian,3-5-2,3-5-1-1,Daniele Chiffi,Match Report,,2024-2025,Inter
+2025-04-02,21:00,Coppa Italia,Semi-finals,Wed,Away,D,1.0,1.0,Milan,,,63.0,67595.0,Nicolò Barella,3-5-2,4-2-3-1,Michael Fabbri,Match Report,Leg 1 of 2,2024-2025,Inter
+2025-04-05,18:00,Serie A,Matchweek 31,Sat,Away,D,2.0,2.0,Parma,2.0,1.4,63.0,22126.0,Lautaro Martínez,3-5-2,5-3-2,Daniele Doveri,Match Report,,2024-2025,Inter
+2025-04-08,21:00,Champions Lg,Quarter-finals,Tue,Away,W,2.0,1.0,de Bayern Munich,0.8,2.3,42.0,75000.0,Lautaro Martínez,3-5-2,4-2-3-1,Sandro Schärer,Match Report,Leg 1 of 2,2024-2025,Inter
+2025-04-12,18:00,Serie A,Matchweek 32,Sat,Home,W,3.0,1.0,Cagliari,1.8,1.1,61.0,71799.0,Lautaro Martínez,3-5-2,3-5-1-1,Marco Di Bello,Match Report,,2024-2025,Inter
+2025-04-16,21:00,Champions Lg,Quarter-finals,Wed,Home,D,2.0,2.0,de Bayern Munich,1.4,1.5,37.0,75625.0,Lautaro Martínez,3-5-2,4-2-3-1,Slavko Vinčič,Match Report,Leg 2 of 2; Inter won,2024-2025,Inter
+2025-04-20,18:00,Serie A,Matchweek 33,Sun,Away,L,0.0,1.0,Bologna,0.5,0.8,52.0,31978.0,Lautaro Martínez,3-5-2,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Inter
+2025-04-23,21:00,Coppa Italia,Semi-finals,Wed,Home,L,0.0,3.0,Milan,,,56.0,75552.0,Lautaro Martínez,3-5-2,4-2-3-1,Daniele Doveri,Match Report,Leg 2 of 2; Milan won,2024-2025,Inter
+2025-04-27,15:00,Serie A,Matchweek 34,Sun,Home,L,0.0,1.0,Roma,1.1,1.9,69.0,70240.0,Lautaro Martínez,3-5-2,3-5-2,Michael Fabbri,Match Report,,2024-2025,Inter
+2025-04-30,21:00,Champions Lg,Semi-finals,Wed,Away,D,3.0,3.0,es Barcelona,0.8,1.4,29.0,50314.0,Lautaro Martínez,3-5-2,4-2-3-1,Clément Turpin,Match Report,Leg 1 of 2,2024-2025,Inter
+2025-05-03,20:45,Serie A,Matchweek 35,Sat,Home,W,1.0,0.0,Hellas Verona,1.3,0.2,69.0,70222.0,Stefan de Vrij,3-5-2,3-5-1-1,Gianluca Manganiello,Match Report,,2024-2025,Inter
+2025-05-06,21:00,Champions Lg,Semi-finals,Tue,Home,W,4.0,3.0,es Barcelona,2.2,2.8,30.0,75504.0,Lautaro Martínez,3-5-2,4-2-3-1,Szymon Marciniak,Match Report,Leg 2 of 2; Inter won; Required Extra Time,2024-2025,Inter
+2025-05-11,18:00,Serie A,Matchweek 36,Sun,Away,W,2.0,0.0,Torino,2.5,1.5,58.0,26537.0,Stefan de Vrij,3-4-3,4-2-3-1,Federico La Penna,Match Report,,2024-2025,Inter
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Home,D,2.0,2.0,Lazio,1.1,2.1,56.0,,Nicolò Barella,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2024-2025,Inter
+2025-05-23,20:45,Serie A,Matchweek 38,Fri,Away,W,2.0,0.0,Como,1.4,1.2,60.0,,Stefan de Vrij,3-4-3,4-2-3-1,Davide Massa,Match Report,,2024-2025,Inter
+2025-05-31,21:00,Champions Lg,Final,Sat,Away,,,,fr Paris S-G,,,,,,,,,Head-to-Head,,2024-2025,Inter

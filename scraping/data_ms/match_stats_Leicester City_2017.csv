@@ -1,0 +1,48 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-11,19:45,Premier League,Matchweek 1,Fri,Away,L,3,4,Arsenal,1.5,2.5,32,59387,Wes Morgan,4-4-1-1,3-4-3,Mike Dean,Match Report,,2017-2018,Leicester City
+2017-08-19,15:00,Premier League,Matchweek 2,Sat,Home,W,2,0,Brighton,2.0,0.2,45,31902,Wes Morgan,4-4-1-1,4-4-1-1,Lee Probert,Match Report,,2017-2018,Leicester City
+2017-08-22,19:45,EFL Cup,Second round,Tue,Away,W,4,1,Sheffield Utd,,,54,11280,Andy King,4-4-2,3-5-2,Tony Harrington,Match Report,,2017-2018,Leicester City
+2017-08-26,17:30,Premier League,Matchweek 3,Sat,Away,L,0,2,Manchester Utd,0.9,2.8,31,75021,Wes Morgan,4-4-1-1,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Leicester City
+2017-09-09,15:00,Premier League,Matchweek 4,Sat,Home,L,1,2,Chelsea,1.4,0.8,41,30923,Wes Morgan,4-4-2,3-4-3,Lee Mason,Match Report,,2017-2018,Leicester City
+2017-09-16,15:00,Premier League,Matchweek 5,Sat,Away,D,1,1,Huddersfield,1.3,0.7,41,24129,Wes Morgan,4-4-1-1,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Leicester City
+2017-09-19,19:45,EFL Cup,Third round,Tue,Home,W,2,0,Liverpool,,,30,31609,Wes Morgan,4-4-2,4-3-3,Stuart Attwell,Match Report,,2017-2018,Leicester City
+2017-09-23,17:30,Premier League,Matchweek 6,Sat,Home,L,2,3,Liverpool,2.8,1.7,45,32004,Wes Morgan,4-4-1-1,4-3-3,Anthony Taylor,Match Report,,2017-2018,Leicester City
+2017-09-30,15:00,Premier League,Matchweek 7,Sat,Away,D,0,0,Bournemouth,0.6,1.4,39,10444,Wes Morgan,4-4-1-1,4-4-1-1,Graham Scott,Match Report,,2017-2018,Leicester City
+2017-10-16,20:00,Premier League,Matchweek 8,Mon,Home,D,1,1,West Brom,1.3,0.2,57,30203,Wes Morgan,4-4-1-1,4-3-3,Mike Dean,Match Report,,2017-2018,Leicester City
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Away,W,2,1,Swansea City,1.9,0.8,44,20521,Wes Morgan,4-4-1-1,4-3-3,Michael Oliver,Match Report,,2017-2018,Leicester City
+2017-10-24,19:45,EFL Cup,Fourth round,Tue,Home,W,3,1,Leeds United,,,56,31516,Andy King,4-4-2,4-2-3-1,Lee Probert,Match Report,,2017-2018,Leicester City
+2017-10-29,16:00,Premier League,Matchweek 10,Sun,Home,W,2,0,Everton,1.3,0.6,41,31891,Wes Morgan,4-4-1-1,4-4-1-1,Andre Marriner,Match Report,,2017-2018,Leicester City
+2017-11-04,12:30,Premier League,Matchweek 11,Sat,Away,D,2,2,Stoke City,1.5,1.0,53,29602,Wes Morgan,4-4-1-1,3-4-3,Robert Madley,Match Report,,2017-2018,Leicester City
+2017-11-18,15:00,Premier League,Matchweek 12,Sat,Home,L,0,2,Manchester City,0.2,1.9,27,31908,Wes Morgan,4-4-1-1,4-3-3,Graham Scott,Match Report,,2017-2018,Leicester City
+2017-11-24,20:00,Premier League,Matchweek 13,Fri,Away,D,1,1,West Ham,0.4,0.9,50,56897,Wes Morgan,4-4-1-1,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Leicester City
+2017-11-28,19:45,Premier League,Matchweek 14,Tue,Home,W,2,1,Tottenham,0.6,2.4,38,31950,Wes Morgan,4-4-1-1,3-5-2,Anthony Taylor,Match Report,,2017-2018,Leicester City
+2017-12-02,15:00,Premier League,Matchweek 15,Sat,Home,W,1,0,Burnley,1.4,1.0,52,30714,Wes Morgan,4-4-1-1,4-4-1-1,Paul Tierney,Match Report,,2017-2018,Leicester City
+2017-12-09,17:30,Premier League,Matchweek 16,Sat,Away,W,3,2,Newcastle Utd,0.5,0.9,62,52117,Wes Morgan,4-4-1-1,4-4-1-1,Niel Swarbrick,Match Report,,2017-2018,Leicester City
+2017-12-13,19:45,Premier League,Matchweek 17,Wed,Away,W,4,1,Southampton,1.8,1.5,47,27714,Wes Morgan,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2017-2018,Leicester City
+2017-12-16,12:30,Premier League,Matchweek 18,Sat,Home,L,0,3,Crystal Palace,0.9,1.7,56,31081,Wes Morgan,4-2-3-1,4-4-2,Martin Atkinson,Match Report,,2017-2018,Leicester City
+2017-12-19,19:45,EFL Cup,Quarter-finals,Tue,Home,D,1 (3),1 (4),Manchester City,,,40,31562,Andy King,4-4-1-1,4-3-3,Robert Madley,Match Report,Manchester City won on penalty kicks following extra time,2017-2018,Leicester City
+2017-12-23,19:45,Premier League,Matchweek 19,Sat,Home,D,2,2,Manchester Utd,1.4,1.9,49,32202,Wes Morgan,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Leicester City
+2017-12-26,15:00,Premier League,Matchweek 20,Tue,Away,L,1,2,Watford,1.3,1.2,51,20308,Wes Morgan,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,2017-2018,Leicester City
+2017-12-30,15:00,Premier League,Matchweek 21,Sat,Away,L,1,2,Liverpool,0.7,2.9,39,53226,Wes Morgan,4-4-1-1,4-3-3,Niel Swarbrick,Match Report,,2017-2018,Leicester City
+2018-01-01,15:00,Premier League,Matchweek 22,Mon,Home,W,3,0,Huddersfield,1.5,0.2,52,31748,Wes Morgan,4-4-2,4-2-3-1,Graham Scott,Match Report,,2017-2018,Leicester City
+2018-01-06,12:45,FA Cup,Third round,Sat,Away,D,0,0,Fleetwood Town,,,59,5001,Andy King,4-3-3,4-3-3,Simon Hooper,Match Report,,2017-2018,Leicester City
+2018-01-13,15:00,Premier League,Matchweek 23,Sat,Away,D,0,0,Chelsea,1.2,0.6,44,41552,Kasper Schmeichel,4-4-1-1,3-5-1-1,Mike Jones,Match Report,,2017-2018,Leicester City
+2018-01-16,19:45,FA Cup,Third round,Tue,Home,W,2,0,Fleetwood Town,,,73,17237,Riyad Mahrez,4-4-1-1,4-5-1,Jonathan Moss,Match Report,,2017-2018,Leicester City
+2018-01-20,15:00,Premier League,Matchweek 24,Sat,Home,W,2,0,Watford,1.9,0.9,54,31891,Kasper Schmeichel,4-4-1-1,4-2-3-1,Lee Probert,Match Report,,2017-2018,Leicester City
+2018-01-27,12:30,FA Cup,Fourth round,Sat,Away,W,5,1,P'borough Utd,,,58,13193,Christian Fuchs,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Leicester City
+2018-01-31,19:45,Premier League,Matchweek 25,Wed,Away,L,1,2,Everton,2.2,1.2,56,38390,Kasper Schmeichel,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2017-2018,Leicester City
+2018-02-03,15:00,Premier League,Matchweek 26,Sat,Home,D,1,1,Swansea City,1.7,0.3,60,31179,Kasper Schmeichel,4-4-2,5-4-1,Anthony Taylor,Match Report,,2017-2018,Leicester City
+2018-02-10,17:30,Premier League,Matchweek 27,Sat,Away,L,1,5,Manchester City,0.1,2.5,30,54416,Christian Fuchs,3-5-2,4-3-3,Mike Jones,Match Report,,2017-2018,Leicester City
+2018-02-16,19:45,FA Cup,Fifth round,Fri,Home,W,1,0,Sheffield Utd,,,69,28336,Wes Morgan,4-4-1-1,3-5-2,Lee Mason,Match Report,,2017-2018,Leicester City
+2018-02-24,12:30,Premier League,Matchweek 28,Sat,Home,D,1,1,Stoke City,1.2,0.2,65,31769,Wes Morgan,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,2017-2018,Leicester City
+2018-03-03,15:00,Premier League,Matchweek 29,Sat,Home,D,1,1,Bournemouth,2.7,1.4,55,31384,Wes Morgan,4-3-3,4-4-1-1,Lee Probert,Match Report,,2017-2018,Leicester City
+2018-03-10,15:00,Premier League,Matchweek 30,Sat,Away,W,4,1,West Brom,2.1,0.3,56,23558,Wes Morgan,4-2-3-1,4-3-3,Robert Madley,Match Report,,2017-2018,Leicester City
+2018-03-18,16:30,FA Cup,Quarter-finals,Sun,Home,L,1,2,Chelsea,,,45,31792,Wes Morgan,4-4-1-1,3-4-3,Craig Pawson,Match Report,Required Extra Time,2017-2018,Leicester City
+2018-03-31,15:00,Premier League,Matchweek 32,Sat,Away,W,2,0,Brighton,1.2,1.8,52,30629,Wes Morgan,4-4-1-1,4-1-4-1,Chris Kavanagh,Match Report,,2017-2018,Leicester City
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Home,L,1,2,Newcastle Utd,1.4,0.4,65,32066,Wes Morgan,4-2-3-1,4-4-1-1,Stuart Attwell,Match Report,,2017-2018,Leicester City
+2018-04-14,15:00,Premier League,Matchweek 34,Sat,Away,L,1,2,Burnley,1.9,0.9,60,21727,Wes Morgan,4-4-1-1,4-4-2,Martin Atkinson,Match Report,,2017-2018,Leicester City
+2018-04-19,19:45,Premier League,Matchweek 35,Thu,Home,D,0,0,Southampton,0.6,0.8,54,31160,Jamie Vardy,4-4-1-1,3-4-3,Roger East,Match Report,,2017-2018,Leicester City
+2018-04-28,15:00,Premier League,Matchweek 36,Sat,Away,L,0,5,Crystal Palace,0.6,3.0,50,25750,Wes Morgan,4-4-1-1,4-4-2,Mike Dean,Match Report,,2017-2018,Leicester City
+2018-05-05,15:00,Premier League,Matchweek 37,Sat,Home,L,0,2,West Ham,0.5,1.6,53,32013,Wes Morgan,4-4-1-1,3-4-3,Chris Kavanagh,Match Report,,2017-2018,Leicester City
+2018-05-09,19:45,Premier League,Matchweek 31,Wed,Home,W,3,1,Arsenal,2.2,1.4,41,32095,Wes Morgan,4-4-2,4-3-3,Graham Scott,Match Report,,2017-2018,Leicester City
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,L,4,5,Tottenham,1.4,1.8,36,77841,Wes Morgan,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2017-2018,Leicester City

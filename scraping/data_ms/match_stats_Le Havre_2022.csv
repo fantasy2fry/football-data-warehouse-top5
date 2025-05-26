@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-30,19:00,Ligue 2,Matchweek 1,Sat,Home,D,0,0,Grenoble,57.0,5388.0,Victor Lekhal,4-3-3,4-3-3,Pierre Legat,Match Report,,2022-2023,Le Havre
+2022-08-06,19:00,Ligue 2,Matchweek 2,Sat,Away,L,0,1,Valenciennes,69.0,4657.0,Victor Lekhal,4-3-3,4-1-4-1,Alexandre Perreau Niel,Match Report,,2022-2023,Le Havre
+2022-08-13,19:00,Ligue 2,Matchweek 3,Sat,Home,D,1,1,Pau FC,59.0,4612.0,Victor Lekhal,4-3-3,4-2-3-1,Azzedine Souifi,Match Report,,2022-2023,Le Havre
+2022-08-20,15:00,Ligue 2,Matchweek 4,Sat,Away,W,6,0,Saint-Étienne,63.0,,Victor Lekhal,4-3-3,4-3-3,François Letexier,Match Report,,2022-2023,Le Havre
+2022-08-27,19:00,Ligue 2,Matchweek 5,Sat,Home,D,1,1,Amiens,61.0,5431.0,Victor Lekhal,4-3-3,3-1-4-2,Antoine Valnet,Match Report,,2022-2023,Le Havre
+2022-08-30,20:45,Ligue 2,Matchweek 6,Tue,Away,W,3,1,Stade Laval,58.0,8201.0,Victor Lekhal,4-3-3,5-3-2,Aurélien Petit,Match Report,,2022-2023,Le Havre
+2022-09-02,20:45,Ligue 2,Matchweek 7,Fri,Home,W,2,1,Caen,49.0,16007.0,Victor Lekhal,4-3-3,5-3-2,Abdelatif Kherradji,Match Report,,2022-2023,Le Havre
+2022-09-10,19:00,Ligue 2,Matchweek 8,Sat,Away,W,1,0,Niort,57.0,2000.0,Victor Lekhal,4-3-3,3-4-3,Alexandre Perreau Niel,Match Report,,2022-2023,Le Havre
+2022-09-17,19:00,Ligue 2,Matchweek 9,Sat,Home,W,2,0,Annecy,68.0,5965.0,Victor Lekhal,4-3-3,3-5-2,Guillaume Paradis,Match Report,,2022-2023,Le Havre
+2022-10-01,19:00,Ligue 2,Matchweek 10,Sat,Away,D,0,0,Dijon,57.0,6533.0,Arouna Sangante,4-3-3,4-2-3-1,Romain Lissorgue,Match Report,,2022-2023,Le Havre
+2022-10-08,19:00,Ligue 2,Matchweek 11,Sat,Home,W,3,0,Bastia,53.0,6398.0,Victor Lekhal,4-3-3,3-4-1-2,Remi Landry,Match Report,,2022-2023,Le Havre
+2022-10-15,19:00,Ligue 2,Matchweek 12,Sat,Away,D,1,1,Rodez Aveyron,58.0,1538.0,Victor Lekhal,4-3-3,5-4-1,Pierre Legat,Match Report,,2022-2023,Le Havre
+2022-10-24,20:45,Ligue 2,Matchweek 13,Mon,Home,W,2,0,Metz,49.0,11832.0,Victor Lekhal,4-3-3,4-2-3-1,Gaël Angoula,Match Report,,2022-2023,Le Havre
+2022-10-29,18:00,Coupe de France,Seventh round,Sat,Away,D,3 (3),3 (5),US Alençon,,2232.0,Mathieu Gorgelin,,,Ludovic Genest,Match Report,US Alençon won on penalty kicks following extra time,2022-2023,Le Havre
+2022-11-05,19:00,Ligue 2,Matchweek 14,Sat,Away,W,1,0,Quevilly-Rouen,54.0,7963.0,Victor Lekhal,4-3-3,4-1-4-1,Alexandre Perreau Niel,Match Report,,2022-2023,Le Havre
+2022-11-12,19:00,Ligue 2,Matchweek 15,Sat,Away,W,1,0,Guingamp,58.0,10251.0,Victor Lekhal,4-3-3,3-5-2,Azzedine Souifi,Match Report,,2022-2023,Le Havre
+2022-12-26,19:05,Ligue 2,Matchweek 16,Mon,Home,W,1,0,Bordeaux,47.0,23055.0,Victor Lekhal,4-3-3,4-2-3-1,Guillaume Paradis,Match Report,,2022-2023,Le Havre
+2022-12-30,21:00,Ligue 2,Matchweek 17,Fri,Away,D,0,0,Paris FC,54.0,4608.0,Victor Lekhal,4-3-3,4-1-3-2,Olivier Thual,Match Report,,2022-2023,Le Havre
+2023-01-10,20:45,Ligue 2,Matchweek 18,Tue,Home,W,1,0,Sochaux,51.0,12026.0,Victor Lekhal,4-3-3,4-1-4-1,Aurélien Petit,Match Report,,2022-2023,Le Havre
+2023-01-13,20:45,Ligue 2,Matchweek 19,Fri,Home,W,3,1,Nîmes,63.0,8562.0,Victor Lekhal,4-1-4-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2022-2023,Le Havre
+2023-01-28,19:00,Ligue 2,Matchweek 20,Sat,Away,D,1,1,Amiens,62.0,7960.0,Victor Lekhal,4-1-4-1,3-1-4-2,Romain Lissorgue,Match Report,,2022-2023,Le Havre
+2023-01-31,20:45,Ligue 2,Matchweek 21,Tue,Away,W,2,1,Bordeaux,38.0,20569.0,Victor Lekhal,4-3-3,4-3-3,Mikael Lesage,Match Report,,2022-2023,Le Havre
+2023-02-03,20:45,Ligue 2,Matchweek 22,Fri,Home,D,0,0,Paris FC,54.0,12372.0,Victor Lekhal,4-1-4-1,4-2-3-1,Gaël Angoula,Match Report,,2022-2023,Le Havre
+2023-02-11,19:00,Ligue 2,Matchweek 23,Sat,Away,D,1,1,Sochaux,42.0,15203.0,Victor Lekhal,4-1-4-1,4-2-3-1,Abdelatif Kherradji,Match Report,,2022-2023,Le Havre
+2023-02-18,19:00,Ligue 2,Matchweek 24,Sat,Home,W,1,0,Niort,60.0,9064.0,Victor Lekhal,4-2-3-1,4-2-3-1,Azzedine Souifi,Match Report,,2022-2023,Le Havre
+2023-02-25,15:00,Ligue 2,Matchweek 25,Sat,Away,D,0,0,Grenoble,56.0,7034.0,Victor Lekhal,4-3-3,4-3-3,Antoine Valnet,Match Report,,2022-2023,Le Havre
+2023-03-04,19:00,Ligue 2,Matchweek 26,Sat,Home,W,2,1,Stade Laval,63.0,8074.0,Victor Lekhal,4-3-3,5-3-2,Faouzi Benchabane,Match Report,,2022-2023,Le Havre
+2023-03-13,20:45,Ligue 2,Matchweek 27,Mon,Away,D,1,1,Metz,58.0,15395.0,Victor Lekhal,4-3-3,4-2-3-1,Olivier Thual,Match Report,,2022-2023,Le Havre
+2023-03-18,15:00,Ligue 2,Matchweek 28,Sat,Home,D,2,2,Saint-Étienne,42.0,23264.0,Victor Lekhal,4-3-3,3-5-2,Guillaume Paradis,Match Report,,2022-2023,Le Havre
+2023-04-01,19:00,Ligue 2,Matchweek 29,Sat,Away,W,1,0,Pau FC,52.0,2692.0,Victor Lekhal,4-3-3,4-4-2,Benjamin Lepaysant,Match Report,,2022-2023,Le Havre
+2023-04-08,19:00,Ligue 2,Matchweek 30,Sat,Home,D,0,0,Guingamp,56.0,10881.0,Victor Lekhal,4-3-3,4-2-3-1,Pierre Legat,Match Report,,2022-2023,Le Havre
+2023-04-15,19:00,Ligue 2,Matchweek 31,Sat,Away,W,1,0,Nîmes,46.0,1963.0,Victor Lekhal,4-3-3,4-4-2,Ruddy Buquet,Match Report,,2022-2023,Le Havre
+2023-04-22,19:00,Ligue 2,Matchweek 32,Sat,Home,D,0,0,Quevilly-Rouen,58.0,16594.0,Victor Lekhal,4-3-3,4-2-3-1,Aurélien Petit,Match Report,,2022-2023,Le Havre
+2023-04-29,14:45,Ligue 2,Matchweek 33,Sat,Away,W,2,1,Caen,45.0,19686.0,Victor Lekhal,4-3-3,4-2-3-1,Romain Lissorgue,Match Report,,2022-2023,Le Havre
+2023-05-08,20:45,Ligue 2,Matchweek 34,Mon,Home,W,1,0,Rodez Aveyron,66.0,14688.0,Victor Lekhal,4-3-3,3-5-2,Gaël Angoula,Match Report,,2022-2023,Le Havre
+2023-05-15,20:45,Ligue 2,Matchweek 35,Mon,Away,L,0,1,Annecy,69.0,8063.0,Victor Lekhal,4-3-3,3-4-3,Olivier Thual,Match Report,,2022-2023,Le Havre
+2023-05-22,20:45,Ligue 2,Matchweek 36,Mon,Home,L,0,2,Valenciennes,70.0,19799.0,Victor Lekhal,4-3-3,4-2-3-1,Karim Abed,Match Report,,2022-2023,Le Havre
+2023-05-26,20:45,Ligue 2,Matchweek 37,Fri,Away,D,1,1,Bastia,55.0,12529.0,Victor Lekhal,4-3-3,3-4-3,Guillaume Paradis,Match Report,,2022-2023,Le Havre
+2023-06-02,20:45,Ligue 2,Matchweek 38,Fri,Home,W,1,0,Dijon,35.0,23561.0,Victor Lekhal,4-3-3,4-2-3-1,Romain Lissorgue,Match Report,,2022-2023,Le Havre

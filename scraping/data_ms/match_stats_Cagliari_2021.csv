@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-14,21:00,Coppa Italia,First round,Sat,Home,W,3,1,Pisa,,,60,2620,João Pedro,3-4-1-2,4-3-2-1,Gianluca Manganiello,Match Report,,2021-2022,Cagliari
+2021-08-23,18:30,Serie A,Matchweek 1,Mon,Home,D,2,2,Spezia,2.8,0.8,58,5387,João Pedro,3-4-3,3-4-3,Francesco Fourneau,Match Report,,2021-2022,Cagliari
+2021-08-29,20:45,Serie A,Matchweek 2,Sun,Away,L,1,4,Milan,0.6,2.7,43,31946,João Pedro,3-5-2,4-2-3-1,Marco Serra,Match Report,,2021-2022,Cagliari
+2021-09-12,15:00,Serie A,Matchweek 3,Sun,Home,L,2,3,Genoa,1.6,1.2,52,6423,João Pedro,3-5-2,3-5-2,Luca Pairetto,Match Report,,2021-2022,Cagliari
+2021-09-19,18:00,Serie A,Matchweek 4,Sun,Away,D,2,2,Lazio,1.5,2.0,27,20000,João Pedro,3-5-2,4-3-3,Davide Ghersini,Match Report,,2021-2022,Cagliari
+2021-09-22,20:45,Serie A,Matchweek 5,Wed,Home,L,0,2,Empoli,1.0,0.9,50,7226,João Pedro,3-5-2,4-3-1-2,Marco Di Bello,Match Report,,2021-2022,Cagliari
+2021-09-26,20:45,Serie A,Matchweek 6,Sun,Away,L,0,2,Napoli,0.1,1.7,33,20000,João Pedro,4-2-3-1,4-3-3,Marco Piccinini,Match Report,,2021-2022,Cagliari
+2021-10-01,20:45,Serie A,Matchweek 7,Fri,Home,D,1,1,Venezia,0.5,0.7,42,8135,João Pedro,3-5-2,4-4-2,Manuel Volpi,Match Report,,2021-2022,Cagliari
+2021-10-17,12:30,Serie A,Matchweek 8,Sun,Home,W,3,1,Sampdoria,1.2,1.2,41,9923,João Pedro,4-4-2,4-4-1-1,Matteo Marchetti,Match Report,,2021-2022,Cagliari
+2021-10-24,15:00,Serie A,Matchweek 9,Sun,Away,L,0,3,Fiorentina,0.1,2.9,35,20290,João Pedro,4-4-2,4-3-3,Antonio Rapuano,Match Report,,2021-2022,Cagliari
+2021-10-27,20:45,Serie A,Matchweek 10,Wed,Home,L,1,2,Roma,1.1,2.1,42,8547,João Pedro,3-5-2,4-2-3-1,Ivan Pezzuto,Match Report,,2021-2022,Cagliari
+2021-11-01,20:45,Serie A,Matchweek 11,Mon,Away,L,0,2,Bologna,0.6,1.2,43,10126,João Pedro,5-3-2,3-4-3,Davide Massa,Match Report,,2021-2022,Cagliari
+2021-11-06,20:45,Serie A,Matchweek 12,Sat,Home,L,1,2,Atalanta,0.6,2.9,38,6976,João Pedro,4-4-2,3-4-3,Marco Piccinini,Match Report,,2021-2022,Cagliari
+2021-11-21,12:30,Serie A,Matchweek 13,Sun,Away,D,2,2,Sassuolo,1.4,3.1,41,4135,João Pedro,4-2-3-1,4-3-3,Niccolò Baroni,Match Report,,2021-2022,Cagliari
+2021-11-26,20:45,Serie A,Matchweek 14,Fri,Home,D,1,1,Salernitana,1.8,0.3,57,9700,João Pedro,3-5-2,4-3-1-2,Daniele Doveri,Match Report,,2021-2022,Cagliari
+2021-11-30,20:45,Serie A,Matchweek 15,Tue,Away,D,0,0,Hellas Verona,0.6,1.3,31,12188,Luca Ceppitelli,3-5-2,3-4-3,Matteo Marcenaro,Match Report,,2021-2022,Cagliari
+2021-12-06,20:45,Serie A,Matchweek 16,Mon,Home,D,1,1,Torino,1.2,1.9,49,8799,João Pedro,3-5-2,3-4-3,Luca Massimi,Match Report,,2021-2022,Cagliari
+2021-12-12,20:45,Serie A,Matchweek 17,Sun,Away,L,0,4,Inter,0.3,3.3,25,33712,João Pedro,3-5-2,3-5-2,Matteo Marchetti,Match Report,,2021-2022,Cagliari
+2021-12-15,18:00,Coppa Italia,Second round,Wed,Home,W,3,1,Cittadella,,,52,2797,Alessandro Deiola,3-5-2,4-3-1-2,Maria Sole Ferrieri Caputi,Match Report,,2021-2022,Cagliari
+2021-12-18,20:45,Serie A,Matchweek 18,Sat,Home,L,0,4,Udinese,0.2,0.6,55,7864,João Pedro,3-5-2,3-5-2,Fabio Maresca,Match Report,,2021-2022,Cagliari
+2021-12-21,20:45,Serie A,Matchweek 19,Tue,Away,L,0,2,Juventus,1.1,1.2,37,11197,João Pedro,5-3-2,4-3-3,Federico Dionisi,Match Report,,2021-2022,Cagliari
+2022-01-06,12:30,Serie A,Matchweek 20,Thu,Away,W,2,1,Sampdoria,2.3,0.4,51,3188,João Pedro,3-5-2,4-4-2,Giacomo Camplone,Match Report,,2021-2022,Cagliari
+2022-01-11,20:45,Serie A,Matchweek 21,Tue,Home,W,2,1,Bologna,1.8,0.6,52,5583,João Pedro,3-5-2,3-1-4-2,Davide Ghersini,Match Report,,2021-2022,Cagliari
+2022-01-16,18:00,Serie A,Matchweek 22,Sun,Away,L,0,1,Roma,0.4,1.8,43,5000,João Pedro,3-5-2,4-2-3-1,Lorenzo Maggioni,Match Report,,2021-2022,Cagliari
+2022-01-19,17:30,Coppa Italia,Round of 16,Wed,Away,L,0,1,Sassuolo,,,46,850,Leonardo Pavoletti,3-5-2,4-2-3-1,Matteo Marchetti,Match Report,,2021-2022,Cagliari
+2022-01-23,12:30,Serie A,Matchweek 23,Sun,Home,D,1,1,Fiorentina,1.3,2.3,41,5000,João Pedro,3-5-2,4-3-3,Gianluca Aureliano,Match Report,,2021-2022,Cagliari
+2022-02-06,12:30,Serie A,Matchweek 24,Sun,Away,W,2,1,Atalanta,1.0,0.8,39,7868,Alessio Cragno,3-1-4-2,4-2-3-1,Alessandro Prontera,Match Report,,2021-2022,Cagliari
+2022-02-13,15:00,Serie A,Matchweek 25,Sun,Away,D,1,1,Empoli,1.1,0.9,54,4787,João Pedro,3-1-4-2,4-3-1-2,Federico Dionisi,Match Report,,2021-2022,Cagliari
+2022-02-21,19:00,Serie A,Matchweek 26,Mon,Home,D,1,1,Napoli,1.7,1.3,47,12063,João Pedro,3-5-2,3-4-3,Maurizio Mariani,Match Report,,2021-2022,Cagliari
+2022-02-27,12:35,Serie A,Matchweek 27,Sun,Away,W,2,1,Torino,1.2,1.0,44,10231,João Pedro,3-5-2,3-4-3,Manuel Volpi,Match Report,,2021-2022,Cagliari
+2022-03-05,20:45,Serie A,Matchweek 28,Sat,Home,L,0,3,Lazio,0.6,2.7,45,10873,João Pedro,3-4-1-2,4-3-3,Fabio Maresca,Match Report,,2021-2022,Cagliari
+2022-03-12,15:00,Serie A,Matchweek 29,Sat,Away,L,0,2,Spezia,0.4,2.3,57,7180,João Pedro,3-4-1-2,4-3-3,Daniele Orsato,Match Report,,2021-2022,Cagliari
+2022-03-19,20:45,Serie A,Matchweek 30,Sat,Home,L,0,1,Milan,1.4,2.0,42,12309,João Pedro,3-1-4-2,4-2-3-1,Marco Di Bello,Match Report,,2021-2022,Cagliari
+2022-04-03,15:00,Serie A,Matchweek 31,Sun,Away,L,1,5,Udinese,0.4,4.5,49,12215,João Pedro,3-5-1-1,3-5-2,Rosario Abisso,Match Report,,2021-2022,Cagliari
+2022-04-09,20:45,Serie A,Matchweek 32,Sat,Home,L,1,2,Juventus,0.2,1.1,40,13437,João Pedro,3-5-2,4-4-2,Daniele Chiffi,Match Report,,2021-2022,Cagliari
+2022-04-16,12:30,Serie A,Matchweek 33,Sat,Home,W,1,0,Sassuolo,2.0,0.4,37,14689,João Pedro,3-5-2,4-2-3-1,Davide Massa,Match Report,,2021-2022,Cagliari
+2022-04-24,18:00,Serie A,Matchweek 34,Sun,Away,L,0,1,Genoa,0.8,0.8,45,17257,João Pedro,3-5-2,4-2-3-1,Paolo Valeri,Match Report,,2021-2022,Cagliari
+2022-04-30,15:00,Serie A,Matchweek 35,Sat,Home,L,1,2,Hellas Verona,0.8,1.1,59,16267,João Pedro,3-5-2,3-4-3,Daniele Orsato,Match Report,,2021-2022,Cagliari
+2022-05-08,18:00,Serie A,Matchweek 36,Sun,Away,D,1,1,Salernitana,0.5,1.3,52,28048,João Pedro,3-5-2,3-5-1-1,Marco Di Bello,Match Report,,2021-2022,Cagliari
+2022-05-15,20:45,Serie A,Matchweek 37,Sun,Home,L,1,3,Inter,0.6,2.8,38,15443,João Pedro,4-3-1-2,3-5-2,Daniele Doveri,Match Report,,2021-2022,Cagliari
+2022-05-22,21:00,Serie A,Matchweek 38,Sun,Away,D,0,0,Venezia,1.9,1.0,56,5654,João Pedro,3-5-2,3-5-2,Fabio Maresca,Match Report,,2021-2022,Cagliari

@@ -1,0 +1,48 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-22,20:45,Serie A,Matchweek 1,Sun,Home,W,2,0,Venezia,2.2,0.6,56,20000,Lorenzo Insigne,4-3-3,4-3-3,Gianluca Aureliano,Match Report,,2021-2022,Napoli
+2021-08-29,18:30,Serie A,Matchweek 2,Sun,Away,W,2,1,Genoa,1.1,0.4,61,20000,Lorenzo Insigne,4-3-3,3-5-2,Marco Di Bello,Match Report,,2021-2022,Napoli
+2021-09-11,18:00,Serie A,Matchweek 3,Sat,Home,W,2,1,Juventus,2.1,1.2,67,23500,Lorenzo Insigne,4-3-3,4-3-3,Massimiliano Irrati,Match Report,,2021-2022,Napoli
+2021-09-16,20:00,Europa Lg,Group stage,Thu,Away,D,2,2,eng Leicester City,2.1,0.7,54,29579,Lorenzo Insigne,4-3-3,4-3-3,Tiago Martins,Match Report,,2021-2022,Napoli
+2021-09-20,20:45,Serie A,Matchweek 4,Mon,Away,W,4,0,Udinese,2.9,0.3,62,11484,Lorenzo Insigne,4-3-3,3-5-2,Gianluca Manganiello,Match Report,,2021-2022,Napoli
+2021-09-23,18:30,Serie A,Matchweek 5,Thu,Away,W,4,0,Sampdoria,1.5,0.7,52,4596,Lorenzo Insigne,4-3-3,4-4-2,Paolo Valeri,Match Report,,2021-2022,Napoli
+2021-09-26,20:45,Serie A,Matchweek 6,Sun,Home,W,2,0,Cagliari,1.7,0.1,67,20000,Lorenzo Insigne,4-3-3,4-2-3-1,Marco Piccinini,Match Report,,2021-2022,Napoli
+2021-09-30,18:45,Europa Lg,Group stage,Thu,Home,L,2,3,ru Spartak Moscow,2.1,2.4,49,13373,Lorenzo Insigne,4-3-3,3-5-2,Ivan Kružliak,Match Report,,2021-2022,Napoli
+2021-10-03,18:00,Serie A,Matchweek 7,Sun,Away,W,2,1,Fiorentina,1.7,0.4,46,15264,Lorenzo Insigne,4-2-3-1,4-4-2,Simone Sozza,Match Report,,2021-2022,Napoli
+2021-10-17,18:00,Serie A,Matchweek 8,Sun,Home,W,1,0,Torino,1.4,1.0,51,27579,Lorenzo Insigne,4-2-3-1,3-4-1-2,Juan Sacchi,Match Report,,2021-2022,Napoli
+2021-10-21,21:00,Europa Lg,Group stage,Thu,Home,W,3,0,pl Legia Warsaw,2.3,0.4,70,10346,Lorenzo Insigne,4-3-3,3-5-1-1,Carlos Grande Rabadán,Match Report,,2021-2022,Napoli
+2021-10-24,18:00,Serie A,Matchweek 9,Sun,Away,D,0,0,Roma,0.7,1.5,62,47801,Lorenzo Insigne,4-2-3-1,4-2-3-1,Davide Massa,Match Report,,2021-2022,Napoli
+2021-10-28,20:45,Serie A,Matchweek 10,Thu,Home,W,3,0,Bologna,2.7,0.3,65,20000,Lorenzo Insigne,4-2-3-1,3-4-3,Marco Serra,Match Report,,2021-2022,Napoli
+2021-10-31,18:00,Serie A,Matchweek 11,Sun,Away,W,1,0,Salernitana,1.8,0.5,63,17043,Kalidou Koulibaly,4-2-3-1,4-3-1-2,Michael Fabbri,Match Report,,2021-2022,Napoli
+2021-11-04,18:45,Europa Lg,Group stage,Thu,Away,W,4,1,pl Legia Warsaw,4.3,0.6,70,25706,Kalidou Koulibaly,4-2-3-1,3-4-3,Lawrence Visser,Match Report,,2021-2022,Napoli
+2021-11-07,18:00,Serie A,Matchweek 12,Sun,Home,D,1,1,Hellas Verona,0.9,0.9,59,28000,Lorenzo Insigne,4-2-3-1,3-4-3,Giovanni Ayroldi,Match Report,,2021-2022,Napoli
+2021-11-21,18:00,Serie A,Matchweek 13,Sun,Away,L,2,3,Inter,0.9,1.8,55,56649,Lorenzo Insigne,4-2-3-1,3-5-2,Paolo Valeri,Match Report,,2021-2022,Napoli
+2021-11-24,18:30,Europa Lg,Group stage,Wed,Away,L,1,2,ru Spartak Moscow,2.5,1.8,70,25706,Kalidou Koulibaly,4-2-3-1,3-5-2,Clément Turpin,Match Report,,2021-2022,Napoli
+2021-11-28,20:45,Serie A,Matchweek 14,Sun,Home,W,4,0,Lazio,1.0,0.3,61,36000,Lorenzo Insigne,4-3-3,4-3-3,Daniele Orsato,Match Report,,2021-2022,Napoli
+2021-12-01,20:45,Serie A,Matchweek 15,Wed,Away,D,2,2,Sassuolo,0.9,0.3,50,8192,Lorenzo Insigne,4-3-3,4-3-3,Ivan Pezzuto,Match Report,,2021-2022,Napoli
+2021-12-04,20:45,Serie A,Matchweek 16,Sat,Home,L,2,3,Atalanta,1.1,1.6,55,30000,Dries Mertens,3-4-3,3-4-3,Maurizio Mariani,Match Report,,2021-2022,Napoli
+2021-12-09,18:45,Europa Lg,Group stage,Thu,Home,W,3,2,eng Leicester City,1.6,2.0,47,14646,Piotr Zieliński,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Napoli
+2021-12-12,18:00,Serie A,Matchweek 17,Sun,Home,L,0,1,Empoli,1.8,0.7,60,20000,Dries Mertens,4-2-3-1,4-3-1-2,Livio Marinelli,Match Report,,2021-2022,Napoli
+2021-12-19,20:45,Serie A,Matchweek 18,Sun,Away,W,1,0,Milan,0.8,0.4,51,54647,Piotr Zieliński,4-2-3-1,4-2-3-1,Davide Massa,Match Report,,2021-2022,Napoli
+2021-12-22,20:45,Serie A,Matchweek 19,Wed,Home,L,0,1,Spezia,1.9,0.6,65,25000,Dries Mertens,4-2-3-1,3-5-2,Luca Massimi,Match Report,,2021-2022,Napoli
+2022-01-06,20:45,Serie A,Matchweek 20,Thu,Away,D,1,1,Juventus,0.9,1.5,56,19301,Lorenzo Insigne,4-2-3-1,4-3-3,Simone Sozza,Match Report,,2021-2022,Napoli
+2022-01-09,16:30,Serie A,Matchweek 21,Sun,Home,W,1,0,Sampdoria,1.2,0.4,68,9000,Lorenzo Insigne,4-2-3-1,4-4-2,Marco Di Bello,Match Report,,2021-2022,Napoli
+2022-01-13,18:00,Coppa Italia,Round of 16,Thu,Home,L,2,5,Fiorentina,,,48,4500,Dries Mertens,4-2-3-1,4-3-3,Giovanni Ayroldi,Match Report,Required Extra Time,2021-2022,Napoli
+2022-01-17,18:30,Serie A,Matchweek 22,Mon,Away,W,2,0,Bologna,2.3,0.9,61,5000,Dries Mertens,4-2-3-1,3-1-4-2,Livio Marinelli,Match Report,,2021-2022,Napoli
+2022-01-23,15:00,Serie A,Matchweek 23,Sun,Home,W,4,1,Salernitana,4.3,0.2,82,3000,Dries Mertens,4-2-3-1,4-5-1,Luca Pairetto,Match Report,,2021-2022,Napoli
+2022-02-06,15:00,Serie A,Matchweek 24,Sun,Away,W,2,0,Venezia,1.5,0.4,66,5554,Lorenzo Insigne,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,,2021-2022,Napoli
+2022-02-12,18:00,Serie A,Matchweek 25,Sat,Home,D,1,1,Inter,1.5,0.6,48,27000,Lorenzo Insigne,4-2-3-1,3-5-2,Daniele Doveri,Match Report,,2021-2022,Napoli
+2022-02-17,18:45,Europa Lg,Knockout round play-offs,Thu,Away,D,1,1,es Barcelona,0.8,2.4,34,73525,Lorenzo Insigne,4-2-3-1,4-3-3,István Kovács,Match Report,Leg 1 of 2,2021-2022,Napoli
+2022-02-21,19:00,Serie A,Matchweek 26,Mon,Away,D,1,1,Cagliari,1.3,1.7,53,12063,Kalidou Koulibaly,3-4-3,3-5-2,Maurizio Mariani,Match Report,,2021-2022,Napoli
+2022-02-24,21:00,Europa Lg,Knockout round play-offs,Thu,Home,L,2,4,es Barcelona,1.3,1.9,44,37858,Lorenzo Insigne,4-2-3-1,4-3-3,Sergey Karasev,Match Report,Leg 2 of 2; Barcelona won,2021-2022,Napoli
+2022-02-27,20:50,Serie A,Matchweek 27,Sun,Away,W,2,1,Lazio,1.0,1.2,55,25000,Lorenzo Insigne,4-2-3-1,4-3-3,Marco Di Bello,Match Report,,2021-2022,Napoli
+2022-03-06,20:45,Serie A,Matchweek 28,Sun,Home,L,0,1,Milan,0.4,1.2,60,42000,Lorenzo Insigne,4-2-3-1,4-3-3,Daniele Orsato,Match Report,,2021-2022,Napoli
+2022-03-13,15:00,Serie A,Matchweek 29,Sun,Away,W,2,1,Hellas Verona,1.4,0.6,50,18782,Kalidou Koulibaly,4-3-3,3-5-2,Daniele Doveri,Match Report,,2021-2022,Napoli
+2022-03-19,15:00,Serie A,Matchweek 30,Sat,Home,W,2,1,Udinese,1.0,0.6,63,37363,Lorenzo Insigne,4-3-3,3-5-2,Francesco Fourneau,Match Report,,2021-2022,Napoli
+2022-04-03,15:00,Serie A,Matchweek 31,Sun,Away,W,3,1,Atalanta,1.5,1.4,45,17709,Lorenzo Insigne,4-2-3-1,3-4-1-2,Marco Di Bello,Match Report,,2021-2022,Napoli
+2022-04-10,15:00,Serie A,Matchweek 32,Sun,Home,L,2,3,Fiorentina,0.9,0.8,50,50000,Lorenzo Insigne,4-3-3,4-3-3,Maurizio Mariani,Match Report,,2021-2022,Napoli
+2022-04-18,19:00,Serie A,Matchweek 33,Mon,Home,D,1,1,Roma,1.2,0.9,49,41822,Lorenzo Insigne,4-3-3,3-4-1-2,Marco Di Bello,Match Report,,2021-2022,Napoli
+2022-04-24,15:00,Serie A,Matchweek 34,Sun,Away,L,2,3,Empoli,1.2,1.9,59,10245,Lorenzo Insigne,4-2-3-1,4-3-1-2,Livio Marinelli,Match Report,,2021-2022,Napoli
+2022-04-30,15:00,Serie A,Matchweek 35,Sat,Home,W,6,1,Sassuolo,2.2,1.0,53,20000,Lorenzo Insigne,4-2-3-1,4-2-3-1,Antonio Rapuano,Match Report,,2021-2022,Napoli
+2022-05-07,15:00,Serie A,Matchweek 36,Sat,Away,W,1,0,Torino,1.3,0.7,57,14619,Lorenzo Insigne,4-2-3-1,3-4-3,Alessandro Prontera,Match Report,,2021-2022,Napoli
+2022-05-15,15:00,Serie A,Matchweek 37,Sun,Home,W,3,0,Genoa,2.4,1.1,66,54000,Lorenzo Insigne,4-2-3-1,4-2-3-1,Michael Fabbri,Match Report,,2021-2022,Napoli
+2022-05-22,12:30,Serie A,Matchweek 38,Sun,Away,W,3,0,Spezia,1.5,2.0,68,10000,Faouzi Ghoulam,4-2-3-1,4-2-3-1,Matteo Marchetti,Match Report,,2021-2022,Napoli

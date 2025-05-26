@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,18:00,Coppa Italia,First round,Sun,Home,L,1,4,Bari,,,53,6576.0,Davide Faraoni,3-5-2,4-3-1-2,Niccolò Baroni,Match Report,,2022-2023,Hellas Verona
+2022-08-15,18:30,Serie A,Matchweek 1,Mon,Home,L,2,5,Napoli,1.1,2.4,34,16967.0,Davide Faraoni,3-5-2,4-3-3,Michael Fabbri,Match Report,,2022-2023,Hellas Verona
+2022-08-21,20:45,Serie A,Matchweek 2,Sun,Away,D,1,1,Bologna,1.9,0.8,48,17725.0,Davide Faraoni,3-5-2,3-4-1-2,Matteo Marcenaro,Match Report,,2022-2023,Hellas Verona
+2022-08-28,18:30,Serie A,Matchweek 3,Sun,Home,L,0,1,Atalanta,0.5,0.8,49,16106.0,Miguel Veloso,3-5-2,3-4-3,Alessandro Prontera,Match Report,,2022-2023,Hellas Verona
+2022-08-31,18:30,Serie A,Matchweek 4,Wed,Away,D,1,1,Empoli,0.6,1.1,48,7269.0,Davide Faraoni,3-5-2,4-3-1-2,Marco Serra,Match Report,,2022-2023,Hellas Verona
+2022-09-04,18:00,Serie A,Matchweek 5,Sun,Home,W,2,1,Sampdoria,2.5,0.8,49,16675.0,Miguel Veloso,3-5-2,4-3-1-2,Paolo Valeri,Match Report,,2022-2023,Hellas Verona
+2022-09-11,18:00,Serie A,Matchweek 6,Sun,Away,L,0,2,Lazio,0.3,1.1,41,38000.0,Miguel Veloso,3-4-1-2,4-3-3,Massimiliano Irrati,Match Report,,2022-2023,Hellas Verona
+2022-09-18,15:00,Serie A,Matchweek 7,Sun,Away,L,0,2,Fiorentina,0.6,2.4,56,32216.0,Darko Lazović,3-4-1-2,4-2-3-1,Antonio Rapuano,Match Report,,2022-2023,Hellas Verona
+2022-10-03,20:45,Serie A,Matchweek 8,Mon,Home,L,1,2,Udinese,0.3,1.8,32,15352.0,Miguel Veloso,3-4-1-2,3-5-2,Daniele Minelli,Match Report,,2022-2023,Hellas Verona
+2022-10-09,15:00,Serie A,Matchweek 9,Sun,Away,L,1,2,Salernitana,0.9,1.1,60,15922.0,Miguel Veloso,3-4-3,3-5-2,Davide Ghersini,Match Report,,2022-2023,Hellas Verona
+2022-10-16,20:45,Serie A,Matchweek 10,Sun,Home,L,1,2,Milan,2.1,1.9,46,22904.0,Miguel Veloso,3-4-3,4-2-3-1,Davide Massa,Match Report,,2022-2023,Hellas Verona
+2022-10-24,20:45,Serie A,Matchweek 11,Mon,Away,L,1,2,Sassuolo,1.4,1.5,49,11368.0,Miguel Veloso,3-4-1-2,4-3-3,Alberto Santoro,Match Report,,2022-2023,Hellas Verona
+2022-10-31,18:30,Serie A,Matchweek 12,Mon,Home,L,1,3,Roma,0.3,3.1,33,24000.0,Miguel Veloso,3-4-3,3-5-2,Juan Sacchi,Match Report,,2022-2023,Hellas Verona
+2022-11-06,15:00,Serie A,Matchweek 13,Sun,Away,L,0,2,Monza,0.4,1.3,26,11723.0,Miguel Veloso,3-4-3,3-4-3,Francesco Cosso,Match Report,,2022-2023,Hellas Verona
+2022-11-10,18:30,Serie A,Matchweek 14,Thu,Home,L,0,1,Juventus,1.2,1.1,44,21934.0,Paweł Dawidowicz,3-4-3,3-5-2,Marco Di Bello,Match Report,,2022-2023,Hellas Verona
+2022-11-13,15:00,Serie A,Matchweek 15,Sun,Home,L,1,2,Spezia,2.1,0.8,45,18000.0,Miguel Veloso,3-4-3,3-5-2,Fabio Maresca,Match Report,,2022-2023,Hellas Verona
+2023-01-04,14:30,Serie A,Matchweek 16,Wed,Away,D,1,1,Torino,0.9,0.4,33,15000.0,Darko Lazović,3-4-3,3-4-3,Federico Dionisi,Match Report,,2022-2023,Hellas Verona
+2023-01-09,18:30,Serie A,Matchweek 17,Mon,Home,W,2,0,Cremonese,1.5,0.8,47,3804.0,Darko Lazović,3-4-3,4-2-3-1,Maurizio Mariani,Match Report,,2022-2023,Hellas Verona
+2023-01-14,20:45,Serie A,Matchweek 18,Sat,Away,L,0,1,Inter,0.3,0.7,43,70734.0,Darko Lazović,3-4-3,3-5-2,Michael Fabbri,Match Report,,2022-2023,Hellas Verona
+2023-01-21,15:00,Serie A,Matchweek 19,Sat,Home,W,2,0,Lecce,0.5,0.8,42,19955.0,Darko Lazović,3-4-3,4-3-3,Federico La Penna,Match Report,,2022-2023,Hellas Verona
+2023-01-30,20:45,Serie A,Matchweek 20,Mon,Away,D,1,1,Udinese,0.8,1.8,45,17276.0,Darko Lazović,3-4-3,3-5-2,Luca Pairetto,Match Report,,2022-2023,Hellas Verona
+2023-02-06,18:30,Serie A,Matchweek 21,Mon,Home,D,1,1,Lazio,1.2,0.9,36,20329.0,Darko Lazović,3-4-1-2,4-3-3,Giovanni Ayroldi,Match Report,,2022-2023,Hellas Verona
+2023-02-13,18:30,Serie A,Matchweek 22,Mon,Home,W,1,0,Salernitana,1.2,0.9,37,17832.0,Darko Lazović,3-4-3,3-4-1-2,Paolo Valeri,Match Report,,2022-2023,Hellas Verona
+2023-02-19,20:45,Serie A,Matchweek 23,Sun,Away,L,0,1,Roma,0.4,0.8,53,61009.0,Darko Lazović,3-4-3,3-4-3,Simone Sozza,Match Report,,2022-2023,Hellas Verona
+2023-02-27,18:30,Serie A,Matchweek 24,Mon,Home,L,0,3,Fiorentina,1.2,1.4,47,17787.0,Davide Faraoni,3-4-1-2,4-2-3-1,Federico La Penna,Match Report,,2022-2023,Hellas Verona
+2023-03-05,12:30,Serie A,Matchweek 25,Sun,Away,D,0,0,Spezia,1.2,1.2,31,10020.0,Davide Faraoni,3-4-1-2,4-3-3,Daniele Doveri,Match Report,,2022-2023,Hellas Verona
+2023-03-12,15:00,Serie A,Matchweek 26,Sun,Home,D,1,1,Monza,0.6,1.1,39,18061.0,Davide Faraoni,3-4-3,3-4-3,Marco Piccinini,Match Report,,2022-2023,Hellas Verona
+2023-03-19,12:30,Serie A,Matchweek 27,Sun,Away,L,1,3,Sampdoria,1.3,1.2,56,18228.0,Darko Lazović,3-4-3,3-4-3,Maurizio Mariani,Match Report,,2022-2023,Hellas Verona
+2023-04-01,20:45,Serie A,Matchweek 28,Sat,Away,L,0,1,Juventus,0.6,1.8,44,40105.0,Miguel Veloso,3-4-1-2,3-5-2,Matteo Marchetti,Match Report,,2022-2023,Hellas Verona
+2023-04-08,18:30,Serie A,Matchweek 29,Sat,Home,W,2,1,Sassuolo,0.5,1.8,40,23660.0,Miguel Veloso,3-5-2,4-3-3,Francesco Fourneau,Match Report,,2022-2023,Hellas Verona
+2023-04-15,18:00,Serie A,Matchweek 30,Sat,Away,D,0,0,Napoli,0.4,0.4,21,39216.0,Davide Faraoni,3-4-1-2,4-3-3,Federico La Penna,Match Report,,2022-2023,Hellas Verona
+2023-04-21,20:45,Serie A,Matchweek 31,Fri,Home,W,2,1,Bologna,1.4,1.3,27,21031.0,Davide Faraoni,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,,2022-2023,Hellas Verona
+2023-04-30,15:00,Serie A,Matchweek 32,Sun,Away,D,1,1,Cremonese,1.1,0.7,49,11645.0,Darko Lazović,4-2-3-1,4-3-1-2,Daniele Doveri,Match Report,,2022-2023,Hellas Verona
+2023-05-03,21:00,Serie A,Matchweek 33,Wed,Home,L,0,6,Inter,0.5,2.4,26,19409.0,Davide Faraoni,4-4-1-1,3-5-2,Daniele Orsato,Match Report,,2022-2023,Hellas Verona
+2023-05-07,20:45,Serie A,Matchweek 34,Sun,Away,W,1,0,Lecce,0.8,0.8,47,24768.0,Davide Faraoni,3-5-1-1,4-3-3,Davide Massa,Match Report,,2022-2023,Hellas Verona
+2023-05-14,12:30,Serie A,Matchweek 35,Sun,Home,L,0,1,Torino,0.5,1.8,42,19658.0,Davide Faraoni,3-4-3,3-4-3,Marco Di Bello,Match Report,,2022-2023,Hellas Verona
+2023-05-20,18:00,Serie A,Matchweek 36,Sat,Away,L,1,3,Atalanta,0.9,1.4,40,9297.0,Darko Lazović,3-4-3,3-4-3,Simone Sozza,Match Report,,2022-2023,Hellas Verona
+2023-05-28,12:30,Serie A,Matchweek 37,Sun,Home,D,1,1,Empoli,1.0,1.2,38,22831.0,Miguel Veloso,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2022-2023,Hellas Verona
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Away,L,1,3,Milan,0.8,2.4,23,72102.0,Miguel Veloso,3-5-2,4-2-3-1,Paolo Valeri,Match Report,,2022-2023,Hellas Verona
+2023-06-11,20:45,Serie A,Relegation tie-breaker,Sun,Away,W,3,1,Spezia,0.8,1.9,32,,Davide Faraoni,3-4-3,3-5-2,Daniele Orsato,Match Report,,2022-2023,Hellas Verona

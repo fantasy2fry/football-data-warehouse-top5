@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-20,22:00,La Liga,Matchweek 1,Mon,Away,L,1,2,Athletic Club,1.0,2.2,35,38327,Rubén Pérez,4-4-1-1,4-3-3,Adrián Cordero,Match Report,,2018-2019,Leganes
+2018-08-24,22:15,La Liga,Matchweek 2,Fri,Home,D,2,2,Real Sociedad,1.7,1.6,67,9375,Rubén Pérez,4-4-1-1,4-4-2,José Luis Munuera,Match Report,,2018-2019,Leganes
+2018-09-01,20:45,La Liga,Matchweek 3,Sat,Away,L,1,4,Real Madrid,1.1,2.5,23,59255,Unai Bustinza,4-4-2,4-3-3,Santiago Jaime,Match Report,,2018-2019,Leganes
+2018-09-16,12:00,La Liga,Matchweek 4,Sun,Home,L,0,1,Villarreal,1.4,0.5,47,10432,Unai Bustinza,4-2-3-1,4-4-2,Pablo González,Match Report,,2018-2019,Leganes
+2018-09-22,16:15,La Liga,Matchweek 5,Sat,Away,L,0,1,Eibar,0.3,1.3,44,4456,Unai Bustinza,4-4-2,4-4-2,Mario Melero,Match Report,,2018-2019,Leganes
+2018-09-26,20:00,La Liga,Matchweek 6,Wed,Home,W,2,1,Barcelona,1.1,0.4,23,12231,Unai Bustinza,5-4-1,4-3-3,Alberto Undiano,Match Report,,2018-2019,Leganes
+2018-09-30,20:45,La Liga,Matchweek 7,Sun,Away,L,0,1,Betis,0.5,1.7,18,48115,Unai Bustinza,5-4-1,3-5-2,José Sánchez,Match Report,,2018-2019,Leganes
+2018-10-06,20:45,La Liga,Matchweek 8,Sat,Home,W,1,0,Rayo Vallecano,0.9,0.4,36,11539,Unai Bustinza,4-4-1-1,4-3-3,David Medié,Match Report,,2018-2019,Leganes
+2018-10-20,16:15,La Liga,Matchweek 9,Sat,Away,D,1,1,Valencia,1.0,1.3,41,35597,Rubén Pérez,4-1-4-1,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Leganes
+2018-10-27,18:30,La Liga,Matchweek 10,Sat,Away,L,0,2,Levante,1.4,1.3,58,19754,Rubén Pérez,5-3-2,3-5-2,Ricardo de Burgos,Match Report,,2018-2019,Leganes
+2018-10-30,20:30,Copa del Rey,Round of 32,Tue,Home,D,2,2,Rayo Vallecano,,,58,5872,Nabil El Zhar,4-2-3-1,4-1-4-1,Alberto Undiano,Match Report,Leg 1 of 2,2018-2019,Leganes
+2018-11-03,13:00,La Liga,Matchweek 11,Sat,Home,D,1,1,Atlético Madrid,1.3,0.4,45,12319,Rubén Pérez,3-4-3,4-4-2,Mario Melero,Match Report,,2018-2019,Leganes
+2018-11-10,20:45,La Liga,Matchweek 12,Sat,Away,D,0,0,Girona,1.1,0.4,41,9874,Rubén Pérez,3-4-3,3-4-3,Adrián Cordero,Match Report,,2018-2019,Leganes
+2018-11-23,21:00,La Liga,Matchweek 13,Fri,Home,W,1,0,Alavés,0.9,0.4,49,9863,Rubén Pérez,5-3-2,4-4-2,Alberola Rojas,Match Report,,2018-2019,Leganes
+2018-12-01,16:15,La Liga,Matchweek 14,Sat,Away,W,4,2,Valladolid,1.7,1.7,33,16783,Rubén Pérez,5-3-2,4-2-3-1,David Medié,Match Report,,2018-2019,Leganes
+2018-12-04,20:30,Copa del Rey,Round of 32,Tue,Away,W,1,0,Rayo Vallecano,,,27,8372,Unai Bustinza,5-4-1,4-4-1-1,Alejandro Hernández,Match Report,Leg 2 of 2; Leganés won,2018-2019,Leganes
+2018-12-07,21:00,La Liga,Matchweek 15,Fri,Home,D,1,1,Getafe,1.7,0.9,65,11327,Unai Bustinza,3-4-1-2,4-4-2,Pablo González,Match Report,,2018-2019,Leganes
+2018-12-14,21:00,La Liga,Matchweek 16,Fri,Away,D,0,0,Celta Vigo,0.7,1.2,20,15134,Unai Bustinza,5-3-2,4-4-2,José Luis Munuera,Match Report,,2018-2019,Leganes
+2018-12-23,16:15,La Liga,Matchweek 17,Sun,Home,D,1,1,Sevilla,1.3,0.7,47,11321,Unai Bustinza,5-3-2,3-5-2,Alejandro Hernández,Match Report,,2018-2019,Leganes
+2019-01-04,21:00,La Liga,Matchweek 18,Fri,Away,L,0,1,Espanyol,0.4,1.3,48,15085,Unai Bustinza,5-3-2,4-2-3-1,José González,Match Report,,2018-2019,Leganes
+2019-01-09,21:30,Copa del Rey,Round of 16,Wed,Away,L,0,3,Real Madrid,,,36,44231,Unai Bustinza,5-4-1,4-3-3,Jesús Gil,Match Report,Leg 1 of 2,2018-2019,Leganes
+2019-01-12,13:00,La Liga,Matchweek 19,Sat,Home,W,1,0,Huesca,2.0,0.5,50,10341,Unai Bustinza,5-3-2,4-3-3,Mario Melero,Match Report,,2018-2019,Leganes
+2019-01-16,21:30,Copa del Rey,Round of 16,Wed,Home,W,1,0,Real Madrid,,,50,9437,Unai Bustinza,5-3-2,4-2-3-1,Juan Martínez,Match Report,Leg 2 of 2; Real Madrid won,2018-2019,Leganes
+2019-01-20,20:45,La Liga,Matchweek 20,Sun,Away,L,1,3,Barcelona,0.9,1.8,28,50670,Dimitris Siovas,5-4-1,4-3-3,Ricardo de Burgos,Match Report,,2018-2019,Leganes
+2019-01-26,18:30,La Liga,Matchweek 21,Sat,Home,D,2,2,Eibar,0.7,0.2,54,9341,Unai Bustinza,5-3-2,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Leganes
+2019-02-04,21:00,La Liga,Matchweek 22,Mon,Away,W,2,1,Rayo Vallecano,1.3,1.7,39,11435,Unai Bustinza,3-5-2,3-4-3,Juan Martínez,Match Report,,2018-2019,Leganes
+2019-02-10,12:00,La Liga,Matchweek 23,Sun,Home,W,3,0,Betis,1.6,0.1,32,11381,Unai Bustinza,5-3-2,3-1-4-2,Alberola Rojas,Match Report,,2018-2019,Leganes
+2019-02-16,18:30,La Liga,Matchweek 24,Sat,Away,L,0,3,Real Sociedad,1.2,1.7,39,22997,Unai Bustinza,3-5-2,4-3-3,José Luis Munuera,Match Report,,2018-2019,Leganes
+2019-02-24,12:00,La Liga,Matchweek 25,Sun,Home,D,1,1,Valencia,1.8,0.5,50,11425,Unai Bustinza,3-5-2,4-4-2,Javier Estrada,Match Report,,2018-2019,Leganes
+2019-03-04,21:00,La Liga,Matchweek 26,Mon,Home,W,1,0,Levante,1.9,1.5,39,9758,Rubén Pérez,3-5-2,3-4-1-2,Jesús Gil,Match Report,,2018-2019,Leganes
+2019-03-09,16:15,La Liga,Matchweek 27,Sat,Away,L,0,1,Atlético Madrid,0.1,1.3,55,58321,Rubén Pérez,3-1-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Leganes
+2019-03-16,20:45,La Liga,Matchweek 28,Sat,Home,L,0,2,Girona,0.6,1.5,54,9873,Rubén Pérez,3-5-2,4-2-3-1,José Luis Munuera,Match Report,,2018-2019,Leganes
+2019-03-30,13:00,La Liga,Matchweek 29,Sat,Away,W,2,0,Getafe,1.3,0.6,44,12705,Unai Bustinza,5-3-2,4-4-2,Pablo González,Match Report,,2018-2019,Leganes
+2019-04-04,20:30,La Liga,Matchweek 30,Thu,Home,W,1,0,Valladolid,1.7,0.8,56,10185,Unai Bustinza,3-5-2,3-4-3,Guillermo Cuadra,Match Report,,2018-2019,Leganes
+2019-04-07,12:00,La Liga,Matchweek 31,Sun,Away,D,1,1,Alavés,0.9,0.9,55,16783,Unai Bustinza,3-5-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Leganes
+2019-04-15,21:00,La Liga,Matchweek 32,Mon,Home,D,1,1,Real Madrid,0.6,1.2,31,12118,Unai Bustinza,5-3-2,4-3-3,David Medié,Match Report,,2018-2019,Leganes
+2019-04-21,18:30,La Liga,Matchweek 33,Sun,Away,L,1,2,Villarreal,1.2,1.0,34,14753,Unai Bustinza,3-1-4-2,4-4-2,Eduardo Prieto,Match Report,,2018-2019,Leganes
+2019-04-24,20:30,La Liga,Matchweek 34,Wed,Home,L,0,1,Athletic Club,0.6,0.6,57,4155,Rubén Pérez,3-1-4-2,3-4-3,Ignacio Iglesias,Match Report,,2018-2019,Leganes
+2019-04-27,18:30,La Liga,Matchweek 35,Sat,Home,D,0,0,Celta Vigo,0.5,0.3,48,10324,Unai Bustinza,3-1-4-2,4-4-2,Juan Martínez,Match Report,,2018-2019,Leganes
+2019-05-03,21:00,La Liga,Matchweek 36,Fri,Away,W,3,0,Sevilla,0.9,0.3,36,32797,Unai Bustinza,3-1-4-2,4-4-2,Alberto Undiano,Match Report,,2018-2019,Leganes
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,L,0,2,Espanyol,0.7,3.3,46,10597,Unai Bustinza,3-1-4-2,4-3-1-2,Mario Melero,Match Report,,2018-2019,Leganes
+2019-05-18,20:45,La Liga,Matchweek 38,Sat,Away,L,1,2,Huesca,0.9,0.9,49,5575,Rubén Pérez,3-1-4-2,4-3-3,Alberola Rojas,Match Report,,2018-2019,Leganes

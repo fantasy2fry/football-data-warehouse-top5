@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-14,18:30,Serie A,Matchweek 1,Sun,Home,W,2,1,Bologna,0.7,1.5,42,45000,Ciro Immobile,4-3-3,3-4-1-2,Luca Massimi,Match Report,,2022-2023,Lazio
+2022-08-20,18:30,Serie A,Matchweek 2,Sat,Away,D,0,0,Torino,0.8,0.7,46,16530,Ciro Immobile,4-3-3,3-4-3,Marco Piccinini,Match Report,,2022-2023,Lazio
+2022-08-26,20:45,Serie A,Matchweek 3,Fri,Home,W,3,1,Inter,1.1,1.5,48,52500,Ciro Immobile,4-3-3,3-5-2,Michael Fabbri,Match Report,,2022-2023,Lazio
+2022-08-31,18:30,Serie A,Matchweek 4,Wed,Away,D,1,1,Sampdoria,1.5,0.8,56,18499,Ciro Immobile,4-3-3,4-1-4-1,Gianluca Aureliano,Match Report,,2022-2023,Lazio
+2022-09-03,20:45,Serie A,Matchweek 5,Sat,Home,L,1,2,Napoli,0.3,2.1,39,39000,Ciro Immobile,4-3-3,4-2-3-1,Simone Sozza,Match Report,,2022-2023,Lazio
+2022-09-08,21:00,Europa Lg,Group stage,Thu,Home,W,4,2,nl Feyenoord,2.7,2.6,63,22763,Ciro Immobile,4-3-3,4-3-3,Ricardo de Burgos,Match Report,,2022-2023,Lazio
+2022-09-11,18:00,Serie A,Matchweek 6,Sun,Home,W,2,0,Hellas Verona,1.1,0.3,59,38000,Ciro Immobile,4-3-3,3-4-1-2,Massimiliano Irrati,Match Report,,2022-2023,Lazio
+2022-09-15,18:45,Europa Lg,Group stage,Thu,Away,L,1,5,dk Midtjylland,1.3,3.1,64,9052,Ciro Immobile,4-3-3,4-3-3,Nikola Dabanović,Match Report,,2022-2023,Lazio
+2022-09-18,15:00,Serie A,Matchweek 7,Sun,Away,W,4,0,Cremonese,3.1,1.3,55,12991,Ciro Immobile,4-3-3,3-4-1-2,Daniele Orsato,Match Report,,2022-2023,Lazio
+2022-10-02,12:30,Serie A,Matchweek 8,Sun,Home,W,4,0,Spezia,2.3,1.1,61,41000,Ciro Immobile,4-3-3,3-5-2,Juan Sacchi,Match Report,,2022-2023,Lazio
+2022-10-06,18:45,Europa Lg,Group stage,Thu,Away,D,0,0,at Sturm Graz,0.6,0.8,62,14171,Ciro Immobile,4-3-3,4-1-2-1-2,Benoît Bastien,Match Report,,2022-2023,Lazio
+2022-10-10,20:45,Serie A,Matchweek 9,Mon,Away,W,4,0,Fiorentina,1.6,2.2,38,30574,Ciro Immobile,4-3-3,4-3-3,Fabio Maresca,Match Report,,2022-2023,Lazio
+2022-10-13,21:00,Europa Lg,Group stage,Thu,Home,D,2,2,at Sturm Graz,1.9,1.3,54,21059,Ciro Immobile,4-3-3,4-1-2-1-2,Sascha Stegemann,Match Report,,2022-2023,Lazio
+2022-10-16,15:00,Serie A,Matchweek 10,Sun,Home,D,0,0,Udinese,0.8,0.9,54,45000,Ciro Immobile,4-3-3,3-5-2,Andrea Colombo,Match Report,,2022-2023,Lazio
+2022-10-23,18:00,Serie A,Matchweek 11,Sun,Away,W,2,0,Atalanta,0.9,0.8,53,18988,Sergej Milinković-Savić,4-3-3,3-4-1-2,Rosario Abisso,Match Report,,2022-2023,Lazio
+2022-10-27,18:45,Europa Lg,Group stage,Thu,Home,W,2,1,dk Midtjylland,1.3,0.4,61,17756,Sergej Milinković-Savić,4-3-3,4-3-3,Daniel Stefański,Match Report,,2022-2023,Lazio
+2022-10-30,18:00,Serie A,Matchweek 12,Sun,Home,L,1,3,Salernitana,1.9,1.5,61,40000,Danilo Cataldi,4-4-2,3-5-2,Gianluca Manganiello,Match Report,,2022-2023,Lazio
+2022-11-03,18:45,Europa Lg,Group stage,Thu,Away,L,0,1,nl Feyenoord,0.7,1.1,56,43268,Sergej Milinković-Savić,4-3-3,4-2-3-1,Irfan Peljto,Match Report,,2022-2023,Lazio
+2022-11-06,18:00,Serie A,Matchweek 13,Sun,Away,W,1,0,Roma,0.6,0.5,41,62847,Danilo Cataldi,4-3-3,3-4-3,Daniele Orsato,Match Report,,2022-2023,Lazio
+2022-11-10,20:45,Serie A,Matchweek 14,Thu,Home,W,1,0,Monza,1.5,0.5,47,36000,Sergej Milinković-Savić,4-3-3,3-4-3,Alberto Santoro,Match Report,,2022-2023,Lazio
+2022-11-13,20:45,Serie A,Matchweek 15,Sun,Away,L,0,3,Juventus,0.4,1.6,59,38729,Sergej Milinković-Savić,4-3-3,3-5-2,Davide Massa,Match Report,,2022-2023,Lazio
+2023-01-04,16:30,Serie A,Matchweek 16,Wed,Away,L,1,2,Lecce,0.7,1.3,59,26084,Ciro Immobile,4-3-3,4-3-3,Livio Marinelli,Match Report,,2022-2023,Lazio
+2023-01-08,15:00,Serie A,Matchweek 17,Sun,Home,D,2,2,Empoli,0.9,0.6,54,31000,Ciro Immobile,4-3-3,4-3-2-1,Ivan Pezzuto,Match Report,,2022-2023,Lazio
+2023-01-15,12:30,Serie A,Matchweek 18,Sun,Away,W,2,0,Sassuolo,2.7,0.7,50,10000,Ciro Immobile,4-1-4-1,4-2-3-1,Luca Pairetto,Match Report,,2022-2023,Lazio
+2023-01-19,18:00,Coppa Italia,Round of 16,Thu,Home,W,1,0,Bologna,,,54,30000,Sergej Milinković-Savić,4-3-3,4-1-4-1,Niccolò Baroni,Match Report,,2022-2023,Lazio
+2023-01-24,20:45,Serie A,Matchweek 19,Tue,Home,W,4,0,Milan,3.1,0.7,50,47000,Sergej Milinković-Savić,4-3-3,4-2-3-1,Marco Di Bello,Match Report,,2022-2023,Lazio
+2023-01-29,18:00,Serie A,Matchweek 20,Sun,Home,D,1,1,Fiorentina,0.9,1.3,45,43000,Sergej Milinković-Savić,4-3-3,4-3-3,Andrea Colombo,Match Report,,2022-2023,Lazio
+2023-02-02,21:00,Coppa Italia,Quarter-finals,Thu,Away,L,0,1,Juventus,,,57,21581,Ciro Immobile,4-3-3,3-5-2,Fabio Maresca,Match Report,,2022-2023,Lazio
+2023-02-06,18:30,Serie A,Matchweek 21,Mon,Away,D,1,1,Hellas Verona,0.9,1.2,64,20329,Ciro Immobile,4-3-3,3-4-1-2,Giovanni Ayroldi,Match Report,,2022-2023,Lazio
+2023-02-11,20:45,Serie A,Matchweek 22,Sat,Home,L,0,2,Atalanta,0.9,2.8,60,41000,Ciro Immobile,4-3-3,3-5-2,Daniele Orsato,Match Report,,2022-2023,Lazio
+2023-02-16,21:00,Conf Lg,Knockout round play-offs,Thu,Home,W,1,0,ro CFR Cluj,1.0,0.8,60,11690,Ciro Immobile,4-3-3,4-4-2,Craig Pawson,Match Report,Leg 1 of 2,2022-2023,Lazio
+2023-02-19,15:00,Serie A,Matchweek 23,Sun,Away,W,2,0,Salernitana,3.0,0.4,65,14860,Ciro Immobile,4-3-3,3-4-3,Rosario Abisso,Match Report,,2022-2023,Lazio
+2023-02-23,19:45,Conf Lg,Knockout round play-offs,Thu,Away,D,0,0,ro CFR Cluj,1.6,1.2,63,15955,Ciro Immobile,4-3-3,4-4-2,Felix Zwayer,Match Report,Leg 2 of 2; Lazio won,2022-2023,Lazio
+2023-02-27,20:45,Serie A,Matchweek 24,Mon,Home,W,1,0,Sampdoria,1.6,0.5,57,35000,Ciro Immobile,4-3-3,3-4-1-2,Andrea Colombo,Match Report,,2022-2023,Lazio
+2023-03-03,20:45,Serie A,Matchweek 25,Fri,Away,W,1,0,Napoli,0.2,0.9,36,45786,Ciro Immobile,4-3-3,4-3-3,Luca Pairetto,Match Report,,2022-2023,Lazio
+2023-03-07,18:45,Conf Lg,Round of 16,Tue,Home,L,1,2,nl AZ Alkmaar,1.3,0.7,52,19584,Sergej Milinković-Savić,4-3-3,4-2-3-1,Glenn Nyberg,Match Report,Leg 1 of 2,2022-2023,Lazio
+2023-03-11,20:45,Serie A,Matchweek 26,Sat,Away,D,0,0,Bologna,0.8,0.9,46,27369,Sergej Milinković-Savić,4-3-3,4-2-3-1,Fabio Maresca,Match Report,,2022-2023,Lazio
+2023-03-16,21:00,Conf Lg,Round of 16,Thu,Away,L,1,2,nl AZ Alkmaar,0.2,1.3,51,18500,Sergej Milinković-Savić,4-1-4-1,4-3-3,Matej Jug,Match Report,Leg 2 of 2; AZ Alkmaar won,2022-2023,Lazio
+2023-03-19,18:00,Serie A,Matchweek 27,Sun,Home,W,1,0,Roma,0.6,0.6,69,62000,Sergej Milinković-Savić,4-3-3,3-4-3,Davide Massa,Match Report,,2022-2023,Lazio
+2023-04-02,15:00,Serie A,Matchweek 28,Sun,Away,W,2,0,Monza,0.5,1.3,44,14539,Sergej Milinković-Savić,4-3-3,3-4-3,Matteo Marcenaro,Match Report,,2022-2023,Lazio
+2023-04-08,20:45,Serie A,Matchweek 29,Sat,Home,W,2,1,Juventus,1.2,1.9,50,54000,Ciro Immobile,4-3-3,3-5-1-1,Marco Di Bello,Match Report,,2022-2023,Lazio
+2023-04-14,20:45,Serie A,Matchweek 30,Fri,Away,W,3,0,Spezia,2.8,0.7,47,9500,Ciro Immobile,4-3-3,4-3-3,Massimiliano Irrati,Match Report,,2022-2023,Lazio
+2023-04-22,18:00,Serie A,Matchweek 31,Sat,Home,L,0,1,Torino,0.6,0.6,53,50000,Sergej Milinković-Savić,4-3-3,3-4-3,Davide Ghersini,Match Report,,2022-2023,Lazio
+2023-04-30,12:30,Serie A,Matchweek 32,Sun,Away,L,1,3,Inter,0.8,3.1,38,75500,Ciro Immobile,4-3-3,3-5-2,Marco Guida,Match Report,,2022-2023,Lazio
+2023-05-03,21:00,Serie A,Matchweek 33,Wed,Home,W,2,0,Sassuolo,1.9,0.9,48,35000,Ciro Immobile,4-3-3,4-3-3,Massimiliano Irrati,Match Report,,2022-2023,Lazio
+2023-05-06,15:00,Serie A,Matchweek 34,Sat,Away,L,0,2,Milan,1.2,0.8,48,72365,Ciro Immobile,4-3-3,4-2-3-1,Antonio Rapuano,Match Report,,2022-2023,Lazio
+2023-05-12,20:45,Serie A,Matchweek 35,Fri,Home,D,2,2,Lecce,1.7,1.4,67,40000,Ciro Immobile,4-3-3,4-3-3,Fabio Maresca,Match Report,,2022-2023,Lazio
+2023-05-21,20:45,Serie A,Matchweek 36,Sun,Away,W,1,0,Udinese,2.0,0.5,60,21834,Ciro Immobile,4-3-3,3-5-1-1,Luca Pairetto,Match Report,,2022-2023,Lazio
+2023-05-28,18:00,Serie A,Matchweek 37,Sun,Home,W,3,2,Cremonese,1.9,0.6,58,64171,Ciro Immobile,4-3-3,5-3-2,Antonio Giua,Match Report,,2022-2023,Lazio
+2023-06-03,21:00,Serie A,Matchweek 38,Sat,Away,W,2,0,Empoli,1.6,0.2,53,11545,Ciro Immobile,4-3-3,4-2-3-1,Luca Massimi,Match Report,,2022-2023,Lazio

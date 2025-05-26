@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-14,19:30,La Liga,Matchweek 1,Sat,Home,D,1,1,Betis,0.5,0.6,35,6279.0,Manolo Reina,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2021-2022,Mallorca
+2021-08-21,17:00,La Liga,Matchweek 2,Sat,Away,W,1,0,Alavés,0.7,0.5,54,2896.0,Manolo Reina,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2021-2022,Mallorca
+2021-08-27,20:00,La Liga,Matchweek 3,Fri,Home,W,1,0,Espanyol,1.0,0.4,48,7529.0,Manolo Reina,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Mallorca
+2021-09-11,21:00,La Liga,Matchweek 4,Sat,Away,L,0,2,Athletic Club,0.2,1.4,51,14566.0,Manolo Reina,4-2-3-1,4-4-2,Jorge Figueroa,Match Report,,2021-2022,Mallorca
+2021-09-19,14:00,La Liga,Matchweek 5,Sun,Home,D,0,0,Villarreal,0.5,1.4,35,9168.0,Manolo Reina,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Mallorca
+2021-09-22,22:00,La Liga,Matchweek 6,Wed,Away,L,1,6,Real Madrid,1.4,2.6,41,20113.0,Manolo Reina,4-2-3-1,4-3-3,Alberola Rojas,Match Report,,2021-2022,Mallorca
+2021-09-26,14:00,La Liga,Matchweek 7,Sun,Home,L,2,3,Osasuna,2.6,0.9,55,9359.0,Salva Sevilla,4-2-3-1,4-1-4-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Mallorca
+2021-10-02,16:15,La Liga,Matchweek 8,Sat,Home,W,1,0,Levante,0.6,1.2,52,11803.0,Manolo Reina,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,2021-2022,Mallorca
+2021-10-16,21:00,La Liga,Matchweek 9,Sat,Away,L,0,1,Real Sociedad,0.2,0.4,50,30831.0,Manolo Reina,4-2-3-1,4-2-3-1,Pablo González,Match Report,,2021-2022,Mallorca
+2021-10-23,14:00,La Liga,Matchweek 10,Sat,Away,D,2,2,Valencia,0.6,1.8,27,29139.0,Manolo Reina,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Mallorca
+2021-10-27,19:00,La Liga,Matchweek 11,Wed,Home,D,1,1,Sevilla,1.5,0.8,31,15125.0,Manolo Reina,4-4-2,4-3-3,Santiago Jaime,Match Report,,2021-2022,Mallorca
+2021-10-31,14:00,La Liga,Matchweek 12,Sun,Away,D,1,1,Cádiz,0.9,1.7,56,11790.0,Manolo Reina,4-2-3-1,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Mallorca
+2021-11-07,18:30,La Liga,Matchweek 13,Sun,Home,D,2,2,Elche,2.3,0.8,52,12933.0,Manolo Reina,4-2-3-1,4-4-2,Mario Melero,Match Report,,2021-2022,Mallorca
+2021-11-22,21:00,La Liga,Matchweek 14,Mon,Away,L,1,3,Rayo Vallecano,0.7,2.4,48,6708.0,Manolo Reina,4-2-3-1,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Mallorca
+2021-11-27,18:30,La Liga,Matchweek 15,Sat,Home,D,0,0,Getafe,0.4,0.8,53,8635.0,Manolo Reina,4-2-3-1,5-3-2,Santiago Jaime,Match Report,,2021-2022,Mallorca
+2021-12-01,19:00,Copa del Rey,First round,Wed,Away,W,2,0,Gimn Segoviana,,,55,1800.0,Abdón Prats,4-4-2,4-5-1,Alberola Rojas,Match Report,Required Extra Time,2021-2022,Mallorca
+2021-12-04,18:30,La Liga,Matchweek 16,Sat,Away,W,2,1,Atlético Madrid,0.6,1.5,42,51009.0,Manolo Reina,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2021-2022,Mallorca
+2021-12-10,21:00,La Liga,Matchweek 17,Fri,Home,D,0,0,Celta Vigo,0.8,1.0,49,10655.0,Manolo Reina,4-4-2,4-1-3-2,Isidro Díaz de Mera,Match Report,,2021-2022,Mallorca
+2021-12-16,19:00,Copa del Rey,Second round,Thu,Away,W,6,0,UD Llanera,,,59,800.0,Abdón Prats,4-1-4-1,4-2-3-1,Ricardo de Burgos,Match Report,,2021-2022,Mallorca
+2021-12-19,14:00,La Liga,Matchweek 18,Sun,Away,L,1,4,Granada,0.9,1.9,54,13014.0,Manolo Reina,4-2-3-1,4-4-2,Alejandro Muñíz,Match Report,,2021-2022,Mallorca
+2022-01-02,21:00,La Liga,Matchweek 19,Sun,Home,L,0,1,Barcelona,0.8,1.3,36,14654.0,Manolo Reina,4-2-3-1,4-3-3,Antonio Matéu Lahoz,Match Report,,2021-2022,Mallorca
+2022-01-05,16:00,Copa del Rey,Round of 32,Wed,Away,W,2,1,Eibar,,,52,3558.0,Salva Sevilla,4-2-3-1,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Mallorca
+2022-01-08,14:00,La Liga,Matchweek 20,Sat,Away,L,0,2,Levante,1.2,1.2,57,13330.0,Iñigo Ruiz de Galarreta,4-2-3-1,5-3-2,Jorge Figueroa,Match Report,,2021-2022,Mallorca
+2022-01-15,16:00,Copa del Rey,Round of 16,Sat,Home,W,2,1,Espanyol,,,45,11403.0,Salva Sevilla,4-4-2,4-4-2,Santiago Jaime,Match Report,,2021-2022,Mallorca
+2022-01-22,16:15,La Liga,Matchweek 22,Sat,Away,L,0,3,Villarreal,1.2,1.9,44,13207.0,Dani Rodríguez,4-3-3,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Mallorca
+2022-02-02,20:00,Copa del Rey,Quarter-finals,Wed,Away,L,0,1,Rayo Vallecano,,,45,,Martin Valjent,4-4-2,4-2-3-1,César Soto,Match Report,,2021-2022,Mallorca
+2022-02-05,16:15,La Liga,Matchweek 23,Sat,Home,W,2,1,Cádiz,2.3,0.8,47,12226.0,Antonio Raillo,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2021-2022,Mallorca
+2022-02-14,21:00,La Liga,Matchweek 24,Mon,Home,W,3,2,Athletic Club,1.9,1.6,45,12904.0,Antonio Raillo,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Mallorca
+2022-02-20,18:30,La Liga,Matchweek 25,Sun,Away,L,1,2,Betis,0.4,1.5,45,48652.0,Antonio Raillo,4-4-2,4-2-3-1,César Soto,Match Report,,2021-2022,Mallorca
+2022-02-26,14:00,La Liga,Matchweek 26,Sat,Home,L,0,1,Valencia,1.8,0.6,67,14417.0,Antonio Raillo,4-2-3-1,3-4-1-2,Jorge Figueroa,Match Report,,2021-2022,Mallorca
+2022-03-02,21:00,La Liga,Matchweek 21,Wed,Home,L,0,2,Real Sociedad,0.5,1.6,52,11550.0,Antonio Raillo,4-2-3-1,4-2-3-1,Mario Melero,Match Report,,2021-2022,Mallorca
+2022-03-06,18:30,La Liga,Matchweek 27,Sun,Away,L,3,4,Celta Vigo,1.5,2.7,41,11320.0,Antonio Raillo,5-3-2,4-1-3-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Mallorca
+2022-03-14,21:00,La Liga,Matchweek 28,Mon,Home,L,0,3,Real Madrid,1.4,1.8,38,17191.0,Antonio Raillo,4-4-2,4-3-3,José Sánchez,Match Report,,2021-2022,Mallorca
+2022-03-20,14:00,La Liga,Matchweek 29,Sun,Away,L,0,1,Espanyol,0.5,1.3,56,17578.0,Antonio Raillo,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,2021-2022,Mallorca
+2022-04-02,14:00,La Liga,Matchweek 30,Sat,Away,L,0,1,Getafe,0.4,1.7,39,8946.0,Salva Sevilla,5-3-2,3-5-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Mallorca
+2022-04-09,16:15,La Liga,Matchweek 31,Sat,Home,W,1,0,Atlético Madrid,1.1,0.5,33,15437.0,Antonio Raillo,5-3-2,3-5-2,Juan Martínez,Match Report,,2021-2022,Mallorca
+2022-04-16,14:00,La Liga,Matchweek 32,Sat,Away,L,0,3,Elche,1.5,1.6,47,20257.0,Antonio Raillo,5-4-1,5-4-1,José Sánchez,Match Report,,2021-2022,Mallorca
+2022-04-19,19:00,La Liga,Matchweek 33,Tue,Home,W,2,1,Alavés,0.8,0.6,41,15264.0,Antonio Raillo,4-4-1-1,4-2-3-1,César Soto,Match Report,,2021-2022,Mallorca
+2022-05-01,21:00,La Liga,Matchweek 34,Sun,Away,L,1,2,Barcelona,1.0,1.2,30,62789.0,Antonio Raillo,3-4-1-2,4-3-3,Pablo González,Match Report,,2021-2022,Mallorca
+2022-05-07,14:00,La Liga,Matchweek 35,Sat,Home,L,2,6,Granada,1.4,1.6,59,18466.0,Antonio Raillo,4-3-3,4-2-3-1,Ricardo de Burgos,Match Report,,2021-2022,Mallorca
+2022-05-11,20:30,La Liga,Matchweek 36,Wed,Away,D,0,0,Sevilla,0.6,1.5,28,33242.0,Manolo Reina,5-3-2,4-3-3,Alejandro Hernández,Match Report,,2021-2022,Mallorca
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,W,2,1,Rayo Vallecano,0.8,1.2,45,17930.0,Manolo Reina,5-3-2,4-2-3-1,José Luis Munuera,Match Report,,2021-2022,Mallorca
+2022-05-22,20:00,La Liga,Matchweek 38,Sun,Away,W,2,0,Osasuna,1.2,0.8,38,18717.0,Manolo Reina,5-3-2,4-3-3,César Soto,Match Report,,2021-2022,Mallorca

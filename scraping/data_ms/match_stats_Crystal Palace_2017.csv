@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,15:00,Premier League,Matchweek 1,Sat,Home,L,0,3,Huddersfield,1.1,1.5,56,25448,Jason Puncheon,3-4-3,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Crystal Palace
+2017-08-19,15:00,Premier League,Matchweek 2,Sat,Away,L,0,1,Liverpool,0.7,2.5,29,53138,Jason Puncheon,3-5-2,4-3-3,Kevin Friend,Match Report,,2017-2018,Crystal Palace
+2017-08-22,19:30,EFL Cup,Second round,Tue,Home,W,2,1,Ipswich Town,,,63,9837,Jason Puncheon,3-4-3,4-4-2,Andrew Davies,Match Report,,2017-2018,Crystal Palace
+2017-08-26,15:00,Premier League,Matchweek 3,Sat,Home,L,0,2,Swansea City,0.9,0.7,53,23477,Jason Puncheon,3-5-2,3-5-2,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2017-09-10,13:30,Premier League,Matchweek 4,Sun,Away,L,0,1,Burnley,2.0,0.3,64,18862,Jason Puncheon,4-3-3,4-4-2,Michael Oliver,Match Report,,2017-2018,Crystal Palace
+2017-09-16,12:30,Premier League,Matchweek 5,Sat,Home,L,0,1,Southampton,2.0,1.0,46,24199,Jason Puncheon,4-4-1-1,4-2-3-1,Robert Madley,Match Report,,2017-2018,Crystal Palace
+2017-09-19,19:45,EFL Cup,Third round,Tue,Home,W,1,0,Huddersfield,,,41,6607,Julián Speroni,4-4-2,4-2-3-1,Lee Probert,Match Report,,2017-2018,Crystal Palace
+2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,L,0,5,Manchester City,0.6,4.5,29,53526,Scott Dann,4-2-3-1,4-3-3,Niel Swarbrick,Match Report,,2017-2018,Crystal Palace
+2017-09-30,15:00,Premier League,Matchweek 7,Sat,Away,L,0,4,Manchester Utd,0.4,2.8,41,75118,Jason Puncheon,4-3-3,4-2-3-1,Mike Dean,Match Report,,2017-2018,Crystal Palace
+2017-10-14,15:00,Premier League,Matchweek 8,Sat,Home,W,2,1,Chelsea,1.7,0.8,43,25480,Scott Dann,4-4-2,3-4-3,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Away,L,0,1,Newcastle Utd,0.5,0.3,46,52251,Scott Dann,4-4-2,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Crystal Palace
+2017-10-24,19:45,EFL Cup,Fourth round,Tue,Away,L,1,4,Bristol City,,,56,21901,Jason Puncheon,4-2-3-1,4-4-2,Tim Robinson,Match Report,,2017-2018,Crystal Palace
+2017-10-28,15:00,Premier League,Matchweek 10,Sat,Home,D,2,2,West Ham,2.6,0.8,55,25242,Scott Dann,4-4-2,3-5-2,Robert Madley,Match Report,,2017-2018,Crystal Palace
+2017-11-05,12:00,Premier League,Matchweek 11,Sun,Away,L,0,1,Tottenham,0.8,0.9,32,65270,Scott Dann,4-4-2,3-5-1-1,Kevin Friend,Match Report,,2017-2018,Crystal Palace
+2017-11-18,15:00,Premier League,Matchweek 12,Sat,Home,D,2,2,Everton,2.0,1.8,69,25526,Scott Dann,4-4-2,4-3-3,Anthony Taylor,Match Report,,2017-2018,Crystal Palace
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Home,W,2,1,Stoke City,1.4,0.7,54,23723,Mamadou Sakho,4-4-2,3-4-3,Mike Dean,Match Report,,2017-2018,Crystal Palace
+2017-11-28,19:45,Premier League,Matchweek 14,Tue,Away,D,0,0,Brighton,0.5,0.6,46,29889,Mamadou Sakho,4-4-2,4-4-1-1,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2017-12-02,15:00,Premier League,Matchweek 15,Sat,Away,D,0,0,West Brom,0.6,1.9,49,23531,Mamadou Sakho,4-4-2,4-3-3,Michael Oliver,Match Report,,2017-2018,Crystal Palace
+2017-12-09,15:00,Premier League,Matchweek 16,Sat,Home,D,2,2,Bournemouth,3.9,0.7,45,24823,Mamadou Sakho,4-4-2,4-4-1-1,Kevin Friend,Match Report,,2017-2018,Crystal Palace
+2017-12-12,20:00,Premier League,Matchweek 17,Tue,Home,W,2,1,Watford,1.2,1.2,53,23566,Scott Dann,4-4-2,3-4-3,Lee Mason,Match Report,,2017-2018,Crystal Palace
+2017-12-16,12:30,Premier League,Matchweek 18,Sat,Away,W,3,0,Leicester City,1.7,0.9,44,31081,Scott Dann,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,2017-2018,Crystal Palace
+2017-12-23,15:00,Premier League,Matchweek 19,Sat,Away,D,1,1,Swansea City,1.3,0.5,36,20354,Scott Dann,4-4-2,4-3-3,Craig Pawson,Match Report,,2017-2018,Crystal Palace
+2017-12-28,20:00,Premier League,Matchweek 20,Thu,Home,L,2,3,Arsenal,1.3,1.8,36,25762,Scott Dann,4-4-2,3-4-3,Michael Oliver,Match Report,,2017-2018,Crystal Palace
+2017-12-31,12:00,Premier League,Matchweek 21,Sun,Home,D,0,0,Manchester City,1.3,1.3,26,25804,Scott Dann,4-3-3,4-3-3,Jonathan Moss,Match Report,,2017-2018,Crystal Palace
+2018-01-02,19:45,Premier League,Matchweek 22,Tue,Away,W,2,1,Southampton,1.3,0.4,40,28411,Yohan Cabaye,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Crystal Palace
+2018-01-08,19:45,FA Cup,Third round,Mon,Away,L,1,2,Brighton,,,44,14507,Damien Delaney,4-2-3-1,4-4-2,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2018-01-13,15:00,Premier League,Matchweek 23,Sat,Home,W,1,0,Burnley,1.4,0.7,44,24696,Luka Milivojević,4-4-2,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Crystal Palace
+2018-01-20,15:00,Premier League,Matchweek 24,Sat,Away,L,1,4,Arsenal,0.6,2.9,37,59386,Luka Milivojević,4-4-2,4-1-4-1,Chris Kavanagh,Match Report,,2017-2018,Crystal Palace
+2018-01-30,19:45,Premier League,Matchweek 25,Tue,Away,D,1,1,West Ham,0.9,1.1,59,56911,Luka Milivojević,4-4-2,3-4-3,Niel Swarbrick,Match Report,,2017-2018,Crystal Palace
+2018-02-04,14:15,Premier League,Matchweek 26,Sun,Home,D,1,1,Newcastle Utd,3.0,0.9,55,25746,Luka Milivojević,4-4-2,4-4-1-1,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2018-02-10,15:00,Premier League,Matchweek 27,Sat,Away,L,1,3,Everton,1.5,1.5,48,39139,Luka Milivojević,4-3-3,4-3-3,Jonathan Moss,Match Report,,2017-2018,Crystal Palace
+2018-02-25,12:00,Premier League,Matchweek 28,Sun,Home,L,0,1,Tottenham,0.2,1.7,25,25287,Luka Milivojević,4-3-3,4-2-3-1,Kevin Friend,Match Report,,2017-2018,Crystal Palace
+2018-03-05,20:00,Premier League,Matchweek 29,Mon,Home,L,2,3,Manchester Utd,0.6,1.2,31,25840,Luka Milivojević,4-4-2,4-3-3,Niel Swarbrick,Match Report,,2017-2018,Crystal Palace
+2018-03-10,17:30,Premier League,Matchweek 30,Sat,Away,L,1,2,Chelsea,1.1,3.1,38,40800,Luka Milivojević,4-4-2,3-4-3,Anthony Taylor,Match Report,,2017-2018,Crystal Palace
+2018-03-17,15:00,Premier League,Matchweek 31,Sat,Away,W,2,0,Huddersfield,2.7,0.3,45,23918,Luka Milivojević,4-3-3,4-2-3-1,Mike Dean,Match Report,,2017-2018,Crystal Palace
+2018-03-31,12:30,Premier League,Matchweek 32,Sat,Home,L,1,2,Liverpool,1.9,1.8,33,25807,Luka Milivojević,4-3-3,4-3-3,Niel Swarbrick,Match Report,,2017-2018,Crystal Palace
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Away,D,2,2,Bournemouth,1.1,1.9,47,10730,Luka Milivojević,4-4-2,4-4-1-1,Jonathan Moss,Match Report,,2017-2018,Crystal Palace
+2018-04-14,15:00,Premier League,Matchweek 34,Sat,Home,W,3,2,Brighton,2.1,1.5,49,24656,Luka Milivojević,4-4-2,4-3-3,Andre Marriner,Match Report,,2017-2018,Crystal Palace
+2018-04-21,15:00,Premier League,Matchweek 35,Sat,Away,D,0,0,Watford,0.3,0.6,48,20401,Luka Milivojević,4-4-2,4-4-2,Chris Kavanagh,Match Report,,2017-2018,Crystal Palace
+2018-04-28,15:00,Premier League,Matchweek 36,Sat,Home,W,5,0,Leicester City,3.0,0.6,50,25750,Luka Milivojević,4-4-2,4-4-1-1,Mike Dean,Match Report,,2017-2018,Crystal Palace
+2018-05-05,12:30,Premier League,Matchweek 37,Sat,Away,W,2,1,Stoke City,1.1,0.5,59,29687,Luka Milivojević,4-4-2,4-4-2,Martin Atkinson,Match Report,,2017-2018,Crystal Palace
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Home,W,2,0,West Brom,2.2,0.2,59,25357,Luka Milivojević,4-4-2,4-4-1-1,Jonathan Moss,Match Report,,2017-2018,Crystal Palace

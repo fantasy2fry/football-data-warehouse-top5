@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,15:30,DFB-Pokal,First round,Sat,Away,W,3,0,Erndtebrück,,,41,13106,David Abraham,4-4-2,4-2-3-1,Benedikt Kempkes,Match Report,,2017-2018,Eint Frankfurt
+2017-08-20,15:30,Bundesliga,Matchweek 1,Sun,Away,D,0,0,Freiburg,1.3,0.4,43,24000,David Abraham,3-1-4-2,3-4-3,Manuel Gräfe,Match Report,,2017-2018,Eint Frankfurt
+2017-08-26,15:30,Bundesliga,Matchweek 2,Sat,Home,L,0,1,Wolfsburg,1.0,1.0,49,46000,David Abraham,3-1-4-2,3-4-3,Benjamin Cortus,Match Report,,2017-2018,Eint Frankfurt
+2017-09-09,15:30,Bundesliga,Matchweek 3,Sat,Away,W,1,0,Gladbach,0.7,0.9,31,51431,David Abraham,3-1-4-2,4-4-2,Robert Kampka,Match Report,,2017-2018,Eint Frankfurt
+2017-09-16,15:30,Bundesliga,Matchweek 4,Sat,Home,L,1,2,Augsburg,1.5,0.7,65,46500,David Abraham,3-1-4-2,4-2-3-1,Christian Dingert,Match Report,,2017-2018,Eint Frankfurt
+2017-09-20,18:30,Bundesliga,Matchweek 5,Wed,Away,W,1,0,Köln,1.2,2.1,45,49000,David Abraham,4-2-3-1,4-4-2,Martin Petersen,Match Report,,2017-2018,Eint Frankfurt
+2017-09-23,15:30,Bundesliga,Matchweek 6,Sat,Away,L,1,2,RB Leipzig,0.8,1.6,36,40606,David Abraham,3-4-3,4-2-2-2,Benjamin Brand,Match Report,,2017-2018,Eint Frankfurt
+2017-09-30,15:30,Bundesliga,Matchweek 7,Sat,Home,W,2,1,Stuttgart,1.2,1.0,43,51500,David Abraham,4-2-3-1,3-4-3,Felix Brych,Match Report,,2017-2018,Eint Frankfurt
+2017-10-14,15:30,Bundesliga,Matchweek 8,Sat,Away,W,2,1,Hannover 96,1.0,0.7,48,43500,David Abraham,3-4-3,4-3-3,Bastian Dankert,Match Report,,2017-2018,Eint Frankfurt
+2017-10-21,15:30,Bundesliga,Matchweek 9,Sat,Home,D,2,2,Dortmund,2.3,2.4,39,51500,David Abraham,3-4-1-2,4-3-3,Robert Hartmann,Match Report,,2017-2018,Eint Frankfurt
+2017-10-24,20:45,DFB-Pokal,Second round,Tue,Away,W,4,0,Schweinfurt 05,,,59,15060,Kevin-Prince Boateng,3-4-1-2,4-2-3-1,Aarne Aarnink,Match Report,,2017-2018,Eint Frankfurt
+2017-10-27,20:30,Bundesliga,Matchweek 10,Fri,Away,D,1,1,Mainz 05,0.4,0.4,48,33794,David Abraham,3-1-4-2,4-3-3,Sascha Stegemann,Match Report,,2017-2018,Eint Frankfurt
+2017-11-03,20:30,Bundesliga,Matchweek 11,Fri,Home,W,2,1,Werder Bremen,2.0,1.7,48,51500,David Abraham,3-1-4-2,4-3-3,Benjamin Brand,Match Report,,2017-2018,Eint Frankfurt
+2017-11-18,15:30,Bundesliga,Matchweek 12,Sat,Away,D,1,1,Hoffenheim,0.4,1.2,32,30150,David Abraham,3-4-1-2,3-1-4-2,Felix Zwayer,Match Report,,2017-2018,Eint Frankfurt
+2017-11-25,15:30,Bundesliga,Matchweek 13,Sat,Home,L,0,1,Leverkusen,0.8,1.2,50,50000,David Abraham,3-1-4-2,3-4-3,Patrick Ittrich,Match Report,,2017-2018,Eint Frankfurt
+2017-12-03,15:30,Bundesliga,Matchweek 14,Sun,Away,W,2,1,Hertha BSC,0.4,1.2,45,38781,David Abraham,3-4-3,4-4-2,Sören Storks,Match Report,,2017-2018,Eint Frankfurt
+2017-12-09,15:30,Bundesliga,Matchweek 15,Sat,Home,L,0,1,Bayern Munich,0.5,0.3,51,51500,David Abraham,3-4-3,4-3-3,Harm Osmers,Match Report,,2017-2018,Eint Frankfurt
+2017-12-12,20:30,Bundesliga,Matchweek 16,Tue,Away,W,2,1,Hamburger SV,0.9,1.5,36,40983,David Abraham,3-1-4-2,4-2-3-1,Manuel Gräfe,Match Report,,2017-2018,Eint Frankfurt
+2017-12-16,15:30,Bundesliga,Matchweek 17,Sat,Home,D,2,2,Schalke 04,1.7,1.8,37,50600,Kevin-Prince Boateng,3-4-1-2,3-1-4-2,Robert Kampka,Match Report,,2017-2018,Eint Frankfurt
+2017-12-20,20:45,DFB-Pokal,Round of 16,Wed,Away,W,2,1,Heidenheim,,,70,11000,Kevin-Prince Boateng,3-1-4-2,4-4-2,Sven Jablonski,Match Report,Required Extra Time,2017-2018,Eint Frankfurt
+2018-01-13,15:30,Bundesliga,Matchweek 18,Sat,Home,D,1,1,Freiburg,1.5,0.1,60,45300,Makoto Hasebe,3-4-3,4-4-2,Sascha Stegemann,Match Report,,2017-2018,Eint Frankfurt
+2018-01-20,15:30,Bundesliga,Matchweek 19,Sat,Away,W,3,1,Wolfsburg,1.7,0.9,47,24450,Makoto Hasebe,3-1-4-2,4-4-2,Markus Schmidt,Match Report,,2017-2018,Eint Frankfurt
+2018-01-26,20:30,Bundesliga,Matchweek 20,Fri,Home,W,2,0,Gladbach,1.6,1.5,48,47500,Makoto Hasebe,3-1-4-2,3-4-3,Marco Fritz,Match Report,,2017-2018,Eint Frankfurt
+2018-02-04,15:30,Bundesliga,Matchweek 21,Sun,Away,L,0,3,Augsburg,0.4,2.8,62,27188,Makoto Hasebe,3-1-4-2,4-2-3-1,Harm Osmers,Match Report,,2017-2018,Eint Frankfurt
+2018-02-07,18:30,DFB-Pokal,Quarter-finals,Wed,Home,W,3,0,Mainz 05,,,59,48200,Makoto Hasebe,3-4-1-2,4-2-3-1,Deniz Aytekin,Match Report,,2017-2018,Eint Frankfurt
+2018-02-10,15:30,Bundesliga,Matchweek 22,Sat,Home,W,4,2,Köln,2.3,1.3,57,47700,Makoto Hasebe,3-4-3,4-4-2,Daniel Siebert,Match Report,,2017-2018,Eint Frankfurt
+2018-02-19,20:30,Bundesliga,Matchweek 23,Mon,Home,W,2,1,RB Leipzig,1.6,0.5,44,45100,David Abraham,3-4-1-2,4-3-3,Felix Zwayer,Match Report,,2017-2018,Eint Frankfurt
+2018-02-24,15:30,Bundesliga,Matchweek 24,Sat,Away,L,0,1,Stuttgart,0.3,2.2,61,55418,David Abraham,3-1-4-2,4-4-2,Bibiana Steinhaus,Match Report,,2017-2018,Eint Frankfurt
+2018-03-03,15:30,Bundesliga,Matchweek 25,Sat,Home,W,1,0,Hannover 96,1.9,0.7,47,48500,David Abraham,3-4-1-2,3-1-4-2,Marco Fritz,Match Report,,2017-2018,Eint Frankfurt
+2018-03-11,18:00,Bundesliga,Matchweek 26,Sun,Away,L,2,3,Dortmund,1.1,1.1,54,81360,David Abraham,3-1-4-2,4-2-3-1,Deniz Aytekin,Match Report,,2017-2018,Eint Frankfurt
+2018-03-17,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3,0,Mainz 05,2.6,0.6,52,49500,David Abraham,3-1-4-2,3-4-1-2,Daniel Siebert,Match Report,,2017-2018,Eint Frankfurt
+2018-04-01,15:30,Bundesliga,Matchweek 28,Sun,Away,L,1,2,Werder Bremen,0.9,0.9,54,42100,David Abraham,4-2-3-1,4-3-3,Felix Zwayer,Match Report,,2017-2018,Eint Frankfurt
+2018-04-08,18:00,Bundesliga,Matchweek 29,Sun,Home,D,1,1,Hoffenheim,1.7,0.6,63,50500,David Abraham,3-1-4-2,3-4-3,Daniel Siebert,Match Report,,2017-2018,Eint Frankfurt
+2018-04-14,15:30,Bundesliga,Matchweek 30,Sat,Away,L,1,4,Leverkusen,0.9,2.3,47,30210,David Abraham,3-4-3,3-4-1-2,Felix Brych,Match Report,,2017-2018,Eint Frankfurt
+2018-04-18,20:45,DFB-Pokal,Semi-finals,Wed,Away,W,1,0,Schalke 04,,,55,60000,David Abraham,3-4-3,3-4-1-2,Robert Hartmann,Match Report,,2017-2018,Eint Frankfurt
+2018-04-21,15:30,Bundesliga,Matchweek 31,Sat,Home,L,0,3,Hertha BSC,1.2,1.8,53,51000,David Abraham,3-1-4-2,4-2-3-1,Sascha Stegemann,Match Report,,2017-2018,Eint Frankfurt
+2018-04-28,15:30,Bundesliga,Matchweek 32,Sat,Away,L,1,4,Bayern Munich,2.1,1.8,41,75000,David Abraham,4-2-3-1,4-3-3,Christian Dingert,Match Report,,2017-2018,Eint Frankfurt
+2018-05-05,15:30,Bundesliga,Matchweek 33,Sat,Home,W,3,0,Hamburger SV,1.8,1.0,36,51500,David Abraham,3-1-4-2,4-1-4-1,Deniz Aytekin,Match Report,,2017-2018,Eint Frankfurt
+2018-05-12,15:30,Bundesliga,Matchweek 34,Sat,Away,L,0,1,Schalke 04,0.5,1.3,55,61585,Kevin-Prince Boateng,4-2-3-1,3-4-3,Frank Willenborg,Match Report,,2017-2018,Eint Frankfurt
+2018-05-19,20:00,DFB-Pokal,Final,Sat,Away,W,3,1,Bayern Munich,,,23,76322,David Abraham,4-1-4-1,4-3-3,Felix Zwayer,Match Report,,2017-2018,Eint Frankfurt

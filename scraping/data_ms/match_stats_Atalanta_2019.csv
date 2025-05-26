@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-25,20:45,Serie A,Matchweek 1,Sun,Away,W,3,2,SPAL,1.8,1.6,59,11706.0,Papu Gómez,3-4-1-2,3-5-2,Gianluca Manganiello,Match Report,,2019-2020,Atalanta
+2019-09-01,20:45,Serie A,Matchweek 2,Sun,Home,L,2,3,Torino,1.8,0.8,58,8182.0,Papu Gómez,3-4-1-2,3-4-3,Daniele Doveri,Match Report,,2019-2020,Atalanta
+2019-09-15,12:30,Serie A,Matchweek 3,Sun,Away,W,2,1,Genoa,2.5,1.4,48,23395.0,Papu Gómez,3-4-3,3-5-2,Michael Fabbri,Match Report,,2019-2020,Atalanta
+2019-09-18,21:00,Champions Lg,Group stage,Wed,Away,L,0,4,hr Dinamo Zagreb,1.8,2.7,53,28863.0,Papu Gómez,3-4-3,3-4-3,Jesús Gil,Match Report,,2019-2020,Atalanta
+2019-09-22,18:00,Serie A,Matchweek 4,Sun,Home,D,2,2,Fiorentina,1.6,1.0,64,10314.0,Andrea Masiello,3-5-2,3-5-2,Daniele Orsato,Match Report,,2019-2020,Atalanta
+2019-09-25,19:00,Serie A,Matchweek 5,Wed,Away,W,2,0,Roma,1.8,1.8,53,31832.0,Papu Gómez,3-4-1-2,4-2-3-1,Massimiliano Irrati,Match Report,,2019-2020,Atalanta
+2019-09-28,20:45,Serie A,Matchweek 6,Sat,Away,W,4,1,Sassuolo,2.3,0.5,49,11604.0,Papu Gómez,3-4-3,4-3-3,Paolo Valeri,Match Report,,2019-2020,Atalanta
+2019-10-01,18:55,Champions Lg,Group stage,Tue,Home,L,1,2,ua Shakhtar,2.5,1.5,57,26022.0,Papu Gómez,3-4-1-2,4-1-4-1,Tobias Stieler,Match Report,,2019-2020,Atalanta
+2019-10-06,15:00,Serie A,Matchweek 7,Sun,Home,W,3,1,Lecce,3.4,1.3,57,20771.0,Papu Gómez,3-4-1-2,4-3-1-2,Marco Di Bello,Match Report,,2019-2020,Atalanta
+2019-10-19,15:00,Serie A,Matchweek 8,Sat,Away,D,3,3,Lazio,2.6,2.9,49,30000.0,Papu Gómez,3-4-3,3-5-1-1,Gianluca Rocchi,Match Report,,2019-2020,Atalanta
+2019-10-22,20:00,Champions Lg,Group stage,Tue,Away,L,1,5,eng Manchester City,1.8,4.2,45,49308.0,Papu Gómez,3-4-1-2,4-2-3-1,Orel Grinfeeld,Match Report,,2019-2020,Atalanta
+2019-10-27,15:00,Serie A,Matchweek 9,Sun,Home,W,7,1,Udinese,5.4,0.4,63,18677.0,Papu Gómez,3-4-1-2,3-5-2,Fabio Maresca,Match Report,,2019-2020,Atalanta
+2019-10-30,19:00,Serie A,Matchweek 10,Wed,Away,D,2,2,Napoli,1.8,2.7,49,30061.0,Papu Gómez,3-4-1-2,4-4-2,Piero Giacomelli,Match Report,,2019-2020,Atalanta
+2019-11-03,12:30,Serie A,Matchweek 11,Sun,Home,L,0,2,Cagliari,1.2,0.9,57,18617.0,Papu Gómez,3-4-1-2,4-3-1-2,Rosario Abisso,Match Report,,2019-2020,Atalanta
+2019-11-06,21:00,Champions Lg,Group stage,Wed,Home,D,1,1,eng Manchester City,0.7,2.0,42,34326.0,Papu Gómez,3-4-1-2,4-3-3,Aliaksei Kulbakou,Match Report,,2019-2020,Atalanta
+2019-11-10,15:00,Serie A,Matchweek 12,Sun,Away,D,0,0,Sampdoria,0.6,1.1,64,19799.0,Papu Gómez,3-4-1-2,4-4-2,Massimiliano Irrati,Match Report,,2019-2020,Atalanta
+2019-11-23,15:00,Serie A,Matchweek 13,Sat,Home,L,1,3,Juventus,2.7,1.2,47,20899.0,Papu Gómez,3-4-1-2,4-3-1-2,Gianluca Rocchi,Match Report,,2019-2020,Atalanta
+2019-11-26,21:00,Champions Lg,Group stage,Tue,Home,W,2,0,hr Dinamo Zagreb,3.0,0.3,58,26496.0,Papu Gómez,3-4-3,3-5-2,Sergey Karasev,Match Report,,2019-2020,Atalanta
+2019-11-30,15:00,Serie A,Matchweek 14,Sat,Away,W,3,0,Brescia,2.7,1.2,68,14000.0,Papu Gómez,3-4-1-2,3-5-2,Daniele Doveri,Match Report,,2019-2020,Atalanta
+2019-12-07,15:00,Serie A,Matchweek 15,Sat,Home,W,3,2,Hellas Verona,2.4,0.9,58,19335.0,Papu Gómez,3-4-3,3-4-3,Paolo Valeri,Match Report,,2019-2020,Atalanta
+2019-12-11,19:55,Champions Lg,Group stage,Wed,Away,W,3,0,ua Shakhtar,2.9,0.6,50,26536.0,Papu Gómez,3-4-1-2,4-1-4-1,Felix Zwayer,Match Report,,2019-2020,Atalanta
+2019-12-15,15:00,Serie A,Matchweek 16,Sun,Away,L,1,2,Bologna,2.4,1.3,59,21277.0,Rafael Tolói,3-4-1-2,4-2-3-1,Davide Massa,Match Report,,2019-2020,Atalanta
+2019-12-22,12:30,Serie A,Matchweek 17,Sun,Home,W,5,0,Milan,2.1,0.4,59,20940.0,Papu Gómez,3-4-3,4-3-3,Federico La Penna,Match Report,,2019-2020,Atalanta
+2020-01-06,15:00,Serie A,Matchweek 18,Mon,Home,W,5,0,Parma,2.2,0.2,60,19213.0,Papu Gómez,3-4-1-2,4-3-3,Fabrizio Pasqua,Match Report,,2019-2020,Atalanta
+2020-01-11,20:45,Serie A,Matchweek 19,Sat,Away,D,1,1,Inter,2.5,0.7,63,70042.0,Papu Gómez,3-4-1-2,3-5-2,Gianluca Rocchi,Match Report,,2019-2020,Atalanta
+2020-01-15,15:00,Coppa Italia,Round of 16,Wed,Away,L,1,2,Fiorentina,,,69,13395.0,Andrea Masiello,3-4-3,3-5-2,Gianluca Manganiello,Match Report,,2019-2020,Atalanta
+2020-01-20,20:45,Serie A,Matchweek 20,Mon,Home,L,1,2,SPAL,2.5,1.3,57,16636.0,Papu Gómez,3-4-1-2,3-5-2,Federico La Penna,Match Report,,2019-2020,Atalanta
+2020-01-25,20:45,Serie A,Matchweek 21,Sat,Away,W,7,0,Torino,4.9,0.6,56,18824.0,Papu Gómez,3-4-1-2,3-4-3,Marco Guida,Match Report,,2019-2020,Atalanta
+2020-02-02,15:00,Serie A,Matchweek 22,Sun,Home,D,2,2,Genoa,2.6,1.5,60,18755.0,Papu Gómez,3-4-1-2,3-5-2,Davide Massa,Match Report,,2019-2020,Atalanta
+2020-02-08,15:00,Serie A,Matchweek 23,Sat,Away,W,2,1,Fiorentina,1.7,0.7,67,35034.0,Papu Gómez,3-4-1-2,3-5-2,Maurizio Mariani,Match Report,,2019-2020,Atalanta
+2020-02-15,20:45,Serie A,Matchweek 24,Sat,Home,W,2,1,Roma,1.6,0.4,57,19830.0,Papu Gómez,3-4-1-2,4-1-4-1,Daniele Orsato,Match Report,,2019-2020,Atalanta
+2020-02-19,21:00,Champions Lg,Round of 16,Wed,Home,W,4,1,es Valencia,1.8,2.5,51,44236.0,Papu Gómez,3-4-1-2,4-4-2,Michael Oliver,Match Report,Leg 1 of 2,2019-2020,Atalanta
+2020-03-01,15:00,Serie A,Matchweek 26,Sun,Away,W,7,2,Lecce,4.6,0.4,65,21344.0,Papu Gómez,3-4-1-2,4-3-2-1,Davide Massa,Match Report,,2019-2020,Atalanta
+2020-03-10,21:00,Champions Lg,Round of 16,Tue,Away,W,4,3,es Valencia,2.7,2.2,41,,Papu Gómez,3-4-1-2,4-4-2,Ovidiu Hațegan,Match Report,Leg 2 of 2; Atalanta won,2019-2020,Atalanta
+2020-06-21,19:30,Serie A,Matchweek 25,Sun,Home,W,4,1,Sassuolo,2.5,2.6,46,,Papu Gómez,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2019-2020,Atalanta
+2020-06-24,21:45,Serie A,Matchweek 27,Wed,Home,W,3,2,Lazio,2.4,0.5,60,,Papu Gómez,3-4-3,3-1-4-2,Daniele Orsato,Match Report,,2019-2020,Atalanta
+2020-06-28,19:30,Serie A,Matchweek 28,Sun,Away,W,3,2,Udinese,0.8,1.6,68,,Papu Gómez,3-4-3,3-5-2,Marco Di Bello,Match Report,,2019-2020,Atalanta
+2020-07-02,19:30,Serie A,Matchweek 29,Thu,Home,W,2,0,Napoli,1.3,0.7,47,,Papu Gómez,3-4-3,4-3-3,Daniele Doveri,Match Report,,2019-2020,Atalanta
+2020-07-05,19:30,Serie A,Matchweek 30,Sun,Away,W,1,0,Cagliari,3.3,0.4,64,,Marten de Roon,3-4-3,3-4-1-2,Federico La Penna,Match Report,,2019-2020,Atalanta
+2020-07-08,21:45,Serie A,Matchweek 31,Wed,Home,W,2,0,Sampdoria,1.3,1.1,63,,Papu Gómez,3-4-1-2,4-5-1,Antonio Giua,Match Report,,2019-2020,Atalanta
+2020-07-11,21:45,Serie A,Matchweek 32,Sat,Away,D,2,2,Juventus,0.7,2.0,51,,Papu Gómez,3-4-1-2,4-3-3,Piero Giacomelli,Match Report,,2019-2020,Atalanta
+2020-07-14,21:45,Serie A,Matchweek 33,Tue,Home,W,6,2,Brescia,1.8,1.0,68,,Marten de Roon,3-4-1-2,4-4-2,Gianluca Manganiello,Match Report,,2019-2020,Atalanta
+2020-07-18,17:15,Serie A,Matchweek 34,Sat,Away,D,1,1,Hellas Verona,1.7,0.9,54,,Papu Gómez,3-4-3,3-4-3,Rosario Abisso,Match Report,,2019-2020,Atalanta
+2020-07-21,19:30,Serie A,Matchweek 35,Tue,Home,W,1,0,Bologna,1.5,0.5,46,,Papu Gómez,3-4-1-2,4-2-3-1,Federico La Penna,Match Report,,2019-2020,Atalanta
+2020-07-24,21:45,Serie A,Matchweek 36,Fri,Away,D,1,1,Milan,2.0,0.5,52,,Papu Gómez,5-3-2,4-2-3-1,Daniele Doveri,Match Report,,2019-2020,Atalanta
+2020-07-28,19:30,Serie A,Matchweek 37,Tue,Away,W,2,1,Parma,1.4,1.7,57,,Papu Gómez,3-4-1-2,4-3-3,Luca Pairetto,Match Report,,2019-2020,Atalanta
+2020-08-01,20:45,Serie A,Matchweek 38,Sat,Home,L,0,2,Inter,1.2,0.7,53,,Papu Gómez,3-4-3,3-4-1-2,Piero Giacomelli,Match Report,,2019-2020,Atalanta
+2020-08-12,21:00,Champions Lg,Quarter-finals,Wed,Neutral,L,1,2,fr Paris S-G,0.5,2.8,38,,Papu Gómez,3-4-1-2,4-3-3,Anthony Taylor,Match Report,,2019-2020,Atalanta

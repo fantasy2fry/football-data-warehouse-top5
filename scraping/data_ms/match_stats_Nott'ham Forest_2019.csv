@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-03,17:30,Championship,Matchweek 1,Sat,Home,L,1,2,West Brom,0.7,0.5,46,27592.0,Michael Dawson,4-1-4-1,4-2-3-1,Darren England,Match Report,,2019-2020,Nott'ham Forest
+2019-08-10,12:30,Championship,Matchweek 2,Sat,Away,D,1,1,Leeds United,1.1,1.9,32,35453.0,Michael Dawson,4-1-4-1,4-1-4-1,Robert Jones,Match Report,,2019-2020,Nott'ham Forest
+2019-08-13,19:45,EFL Cup,First round,Tue,Home,W,1,0,Fleetwood Town,,,55,7432.0,Joe Worrall,4-3-3,4-3-3,Alan Young,Match Report,,2019-2020,Nott'ham Forest
+2019-08-17,15:00,Championship,Matchweek 3,Sat,Home,W,3,0,Birmingham City,2.2,0.4,47,27281.0,Michael Dawson,4-1-4-1,4-4-1-1,Tony Harrington,Match Report,,2019-2020,Nott'ham Forest
+2019-08-21,19:45,Championship,Matchweek 4,Wed,Away,D,1,1,Charlton Ath,1.1,1.8,47,17204.0,Michael Dawson,4-1-4-1,4-1-2-1-2,Oliver Langford,Match Report,,2019-2020,Nott'ham Forest
+2019-08-24,15:00,Championship,Matchweek 5,Sat,Away,W,2,1,Fulham,1.1,1.2,24,18186.0,Michael Dawson,4-1-4-1,4-3-3,Peter Bankes,Match Report,,2019-2020,Nott'ham Forest
+2019-08-27,19:45,EFL Cup,Second round,Tue,Home,W,3,0,Derby County,,,53,26971.0,Joe Worrall,4-3-3,4-2-3-1,John Brooks,Match Report,,2019-2020,Nott'ham Forest
+2019-08-31,15:00,Championship,Matchweek 6,Sat,Home,D,1,1,Preston,0.7,0.7,52,27249.0,Michael Dawson,4-1-4-1,4-2-3-1,Geoff Eltringham,Match Report,,2019-2020,Nott'ham Forest
+2019-09-14,15:00,Championship,Matchweek 7,Sat,Away,W,1,0,Swansea City,1.9,0.4,38,17102.0,Michael Dawson,4-1-4-1,4-2-3-1,James Linington,Match Report,,2019-2020,Nott'ham Forest
+2019-09-21,15:00,Championship,Matchweek 8,Sat,Home,W,1,0,Barnsley,0.9,0.9,49,29202.0,Michael Dawson,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,,2019-2020,Nott'ham Forest
+2019-09-24,19:45,EFL Cup,Third round,Tue,Away,L,0,5,Arsenal,,,32,53160.0,Jack Robinson,4-2-3-1,4-2-3-1,Darren England,Match Report,,2019-2020,Nott'ham Forest
+2019-09-27,20:00,Championship,Matchweek 9,Fri,Away,W,3,2,Stoke City,1.1,1.9,42,23800.0,Michael Dawson,4-2-3-1,4-4-2,Andy Madley,Match Report,,2019-2020,Nott'ham Forest
+2019-10-01,19:45,Championship,Matchweek 10,Tue,Away,D,1,1,Blackburn,0.5,1.3,39,12521.0,Ben Watson,4-4-2,4-4-2,Steve Martin,Match Report,,2019-2020,Nott'ham Forest
+2019-10-05,15:00,Championship,Matchweek 11,Sat,Home,W,1,0,Brentford,0.7,0.5,44,27598.0,Ben Watson,4-2-3-1,4-3-3,Dean Whitestone,Match Report,,2019-2020,Nott'ham Forest
+2019-10-20,14:00,Championship,Matchweek 12,Sun,Away,L,0,1,Wigan Athletic,1.5,1.3,57,13077.0,Ben Watson,4-4-2,4-2-3-1,Matt Donohue,Match Report,,2019-2020,Nott'ham Forest
+2019-10-23,19:45,Championship,Matchweek 13,Wed,Home,L,1,2,Hull City,1.3,2.4,64,27624.0,Ben Watson,4-2-3-1,4-4-1-1,Oliver Langford,Match Report,,2019-2020,Nott'ham Forest
+2019-11-02,15:00,Championship,Matchweek 15,Sat,Away,W,2,1,Luton Town,1.2,0.6,30,10053.0,Ben Watson,4-3-3,4-1-2-1-2,Gavin Ward,Match Report,,2019-2020,Nott'ham Forest
+2019-11-09,12:30,Championship,Matchweek 16,Sat,Home,W,1,0,Derby County,0.8,1.0,44,29314.0,Ben Watson,4-1-4-1,4-2-3-1,Darren England,Match Report,,2019-2020,Nott'ham Forest
+2019-11-23,15:00,Championship,Matchweek 17,Sat,Away,D,0,0,Bristol City,0.8,1.2,40,23573.0,Ben Watson,4-3-3,3-5-2,Craig Pawson,Match Report,,2019-2020,Nott'ham Forest
+2019-11-27,19:45,Championship,Matchweek 18,Wed,Away,W,4,0,QPR,2.9,0.6,39,12937.0,Ben Watson,4-2-3-1,5-3-2,Steve Martin,Match Report,,2019-2020,Nott'ham Forest
+2019-11-30,15:00,Championship,Matchweek 19,Sat,Home,L,0,1,Cardiff City,1.5,1.0,68,28209.0,Ben Watson,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2019-2020,Nott'ham Forest
+2019-12-06,19:45,Championship,Matchweek 20,Fri,Away,D,2,2,Millwall,1.8,2.4,52,12976.0,Michael Dawson,3-5-2,4-4-1-1,John Brooks,Match Report,,2019-2020,Nott'ham Forest
+2019-12-10,19:45,Championship,Matchweek 21,Tue,Home,D,1,1,Middlesbrough,0.8,1.2,61,24577.0,Michael Dawson,4-2-3-1,5-3-2,Andy Woolmer,Match Report,,2019-2020,Nott'ham Forest
+2019-12-14,15:00,Championship,Matchweek 22,Sat,Home,L,0,4,Sheffield Weds,0.7,1.8,58,28002.0,Michael Dawson,4-2-3-1,4-4-2,James Linington,Match Report,,2019-2020,Nott'ham Forest
+2019-12-21,15:00,Championship,Matchweek 23,Sat,Away,L,1,2,Huddersfield,0.8,1.5,58,22529.0,Ben Watson,4-2-3-1,4-4-2,Andrew Davies,Match Report,,2019-2020,Nott'ham Forest
+2019-12-26,15:00,Championship,Matchweek 24,Thu,Away,W,2,0,Hull City,1.6,1.3,41,15001.0,Ben Watson,4-2-3-1,4-2-3-1,Geoff Eltringham,Match Report,,2019-2020,Nott'ham Forest
+2019-12-29,15:00,Championship,Matchweek 25,Sun,Home,W,1,0,Wigan Athletic,0.7,2.0,36,27844.0,Ben Watson,4-2-3-1,4-3-3,Matt Donohue,Match Report,,2019-2020,Nott'ham Forest
+2020-01-01,15:00,Championship,Matchweek 26,Wed,Home,W,3,2,Blackburn,1.8,1.2,34,27073.0,Ben Watson,4-2-3-1,4-1-4-1,Darren Bond,Match Report,,2019-2020,Nott'ham Forest
+2020-01-05,14:01,FA Cup,Third round,Sun,Away,L,0,2,Chelsea,,,25,40492.0,Michael Dawson,4-4-2,4-3-3,Peter Bankes,Match Report,,2019-2020,Nott'ham Forest
+2020-01-11,15:00,Championship,Matchweek 27,Sat,Away,D,1,1,Reading,0.7,1.6,48,16602.0,Ben Watson,4-2-3-1,4-2-3-1,Dean Whitestone,Match Report,,2019-2020,Nott'ham Forest
+2020-01-19,12:00,Championship,Matchweek 28,Sun,Home,W,3,1,Luton Town,2.3,0.8,56,27081.0,Michael Dawson,4-2-3-1,4-1-4-1,Tony Harrington,Match Report,,2019-2020,Nott'ham Forest
+2020-01-22,19:45,Championship,Matchweek 14,Wed,Home,D,1,1,Reading,1.1,0.5,56,26840.0,Michael Dawson,4-2-3-1,4-2-3-1,David Webb,Match Report,,2019-2020,Nott'ham Forest
+2020-01-28,19:45,Championship,Matchweek 29,Tue,Away,W,1,0,Brentford,0.6,0.9,32,12274.0,Ben Watson,4-2-3-1,4-3-3,Tim Robinson,Match Report,,2019-2020,Nott'ham Forest
+2020-02-01,15:00,Championship,Matchweek 30,Sat,Away,L,1,2,Birmingham City,2.2,2.6,54,20837.0,Ben Watson,4-2-3-1,4-4-2,Jeremy Simpson,Match Report,,2019-2020,Nott'ham Forest
+2020-02-08,17:30,Championship,Matchweek 31,Sat,Home,W,2,0,Leeds United,1.8,1.7,31,29455.0,Ben Watson,4-2-3-1,4-1-4-1,Oliver Langford,Match Report,,2019-2020,Nott'ham Forest
+2020-02-11,19:45,Championship,Matchweek 32,Tue,Home,L,0,1,Charlton Ath,1.6,0.8,56,28029.0,Ben Watson,4-2-3-1,5-3-2,Darren Bond,Match Report,,2019-2020,Nott'ham Forest
+2020-02-15,12:30,Championship,Matchweek 33,Sat,Away,D,2,2,West Brom,0.7,1.8,40,25117.0,Ben Watson,4-2-3-1,4-3-3,Keith Stroud,Match Report,,2019-2020,Nott'ham Forest
+2020-02-22,15:00,Championship,Matchweek 34,Sat,Home,D,0,0,QPR,0.8,0.2,52,28750.0,Ben Watson,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2019-2020,Nott'ham Forest
+2020-02-25,19:45,Championship,Matchweek 35,Tue,Away,W,1,0,Cardiff City,1.1,0.9,50,21273.0,Ben Watson,4-2-3-1,4-2-3-1,Steve Martin,Match Report,,2019-2020,Nott'ham Forest
+2020-03-02,19:45,Championship,Matchweek 36,Mon,Away,D,2,2,Middlesbrough,2.0,1.7,45,18884.0,Ben Watson,4-1-4-1,4-2-3-1,Darren England,Match Report,,2019-2020,Nott'ham Forest
+2020-03-06,19:45,Championship,Matchweek 37,Fri,Home,L,0,3,Millwall,1.1,1.4,68,27307.0,Ben Watson,4-2-3-1,4-2-3-1,Geoff Eltringham,Match Report,,2019-2020,Nott'ham Forest
+2020-06-20,15:00,Championship,Matchweek 38,Sat,Away,D,1,1,Sheffield Weds,0.5,1.9,41,,Lewis Grabban,4-2-3-1,3-5-2,Robert Jones,Match Report,,2019-2020,Nott'ham Forest
+2020-06-28,14:15,Championship,Matchweek 39,Sun,Home,W,3,1,Huddersfield,2.4,1.7,41,,Ben Watson,4-2-3-1,4-2-3-1,David Webb,Match Report,,2019-2020,Nott'ham Forest
+2020-07-01,18:00,Championship,Matchweek 40,Wed,Home,W,1,0,Bristol City,0.6,1.0,44,,Ben Watson,4-2-3-1,4-3-3,Darren Bond,Match Report,,2019-2020,Nott'ham Forest
+2020-07-04,12:30,Championship,Matchweek 41,Sat,Away,D,1,1,Derby County,0.5,1.5,32,,Ben Watson,4-3-3,4-2-3-1,Darren England,Match Report,,2019-2020,Nott'ham Forest
+2020-07-07,17:00,Championship,Matchweek 42,Tue,Home,L,0,1,Fulham,0.4,0.3,42,,Ben Watson,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2019-2020,Nott'ham Forest
+2020-07-11,15:00,Championship,Matchweek 43,Sat,Away,D,1,1,Preston,1.2,1.5,50,,Michael Dawson,4-3-3,4-2-3-1,Jeremy Simpson,Match Report,,2019-2020,Nott'ham Forest
+2020-07-15,18:00,Championship,Matchweek 44,Wed,Home,D,2,2,Swansea City,0.4,1.2,52,,Ben Watson,4-1-4-1,3-4-1-2,Oliver Langford,Match Report,,2019-2020,Nott'ham Forest
+2020-07-19,15:00,Championship,Matchweek 45,Sun,Away,L,0,1,Barnsley,0.7,2.5,38,,Michael Dawson,3-4-1-2,3-4-1-2,Scott Duncan,Match Report,,2019-2020,Nott'ham Forest
+2020-07-22,19:30,Championship,Matchweek 46,Wed,Home,L,1,4,Stoke City,2.7,2.2,62,,Ben Watson,4-1-4-1,3-4-1-2,Gavin Ward,Match Report,,2019-2020,Nott'ham Forest

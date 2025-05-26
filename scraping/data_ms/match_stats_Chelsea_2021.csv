@@ -1,0 +1,62 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-11,20:00,Super Cup,UEFA Super Cup,Wed,Home,D,1 (6),1 (5),es Villarreal,,,62,,N'Golo Kanté,3-4-3,4-3-3,Sergey Karasev,Match Report,,2021-2022,Chelsea
+2021-08-14,15:00,Premier League,Matchweek 1,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,62,38965.0,César Azpilicueta,3-4-3,4-4-2,Jonathan Moss,Match Report,,2021-2022,Chelsea
+2021-08-22,16:30,Premier League,Matchweek 2,Sun,Away,W,2,0,Arsenal,3.1,0.3,65,58729.0,César Azpilicueta,3-4-3,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Chelsea
+2021-08-28,17:30,Premier League,Matchweek 3,Sat,Away,D,1,1,Liverpool,0.6,2.5,35,54000.0,César Azpilicueta,3-4-3,4-3-3,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2021-09-11,17:30,Premier League,Matchweek 4,Sat,Home,W,3,0,Aston Villa,1.3,1.2,57,39969.0,Marcos Alonso,3-4-3,5-3-2,Stuart Attwell,Match Report,,2021-2022,Chelsea
+2021-09-14,20:00,Champions Lg,Group stage,Tue,Home,W,1,0,ru Zenit,0.7,0.9,66,39252.0,César Azpilicueta,3-4-3,5-4-1,Bartosz Frankowski,Match Report,,2021-2022,Chelsea
+2021-09-19,16:30,Premier League,Matchweek 5,Sun,Away,W,3,0,Tottenham,2.1,0.5,53,60059.0,César Azpilicueta,3-4-3,4-3-2-1,Paul Tierney,Match Report,,2021-2022,Chelsea
+2021-09-22,19:45,EFL Cup,Third round,Wed,Home,D,1 (4),1 (3),Aston Villa,,,68,35892.0,N'Golo Kanté,4-3-3,4-2-3-1,Graham Scott,Match Report,Chelsea won on penalty kicks following extra time,2021-2022,Chelsea
+2021-09-25,12:30,Premier League,Matchweek 6,Sat,Home,L,0,1,Manchester City,0.2,1.7,41,40036.0,César Azpilicueta,3-5-2,4-3-3,Michael Oliver,Match Report,,2021-2022,Chelsea
+2021-09-29,21:00,Champions Lg,Group stage,Wed,Away,L,0,1,it Juventus,1.3,0.9,72,19934.0,César Azpilicueta,3-4-3,4-3-3,Jesús Gil,Match Report,,2021-2022,Chelsea
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Home,W,3,1,Southampton,3.3,1.3,62,40109.0,César Azpilicueta,3-4-3,4-4-2,Martin Atkinson,Match Report,,2021-2022,Chelsea
+2021-10-16,17:30,Premier League,Matchweek 8,Sat,Away,W,1,0,Brentford,0.3,1.4,55,16940.0,César Azpilicueta,3-5-2,3-5-2,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2021-10-20,20:00,Champions Lg,Group stage,Wed,Home,W,4,0,se Malmö,2.6,0.1,72,39095.0,César Azpilicueta,3-4-3,3-5-2,François Letexier,Match Report,,2021-2022,Chelsea
+2021-10-23,12:30,Premier League,Matchweek 9,Sat,Home,W,7,0,Norwich City,3.1,0.1,62,40113.0,Jorginho,3-4-3,3-5-2,Andy Madley,Match Report,,2021-2022,Chelsea
+2021-10-26,19:45,EFL Cup,Fourth round,Tue,Home,D,1 (4),1 (3),Southampton,,,63,39766.0,Marcos Alonso,3-4-3,3-4-3,Kevin Friend,Match Report,Chelsea won on penalty kicks following extra time,2021-2022,Chelsea
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,79,52208.0,Jorginho,3-4-3,5-3-2,Paul Tierney,Match Report,,2021-2022,Chelsea
+2021-11-02,18:45,Champions Lg,Group stage,Tue,Away,W,1,0,se Malmö,2.5,0.2,72,19551.0,César Azpilicueta,3-4-3,3-5-2,Felix Brych,Match Report,,2021-2022,Chelsea
+2021-11-06,15:00,Premier League,Matchweek 11,Sat,Home,D,1,1,Burnley,1.8,0.7,70,39798.0,Jorginho,3-4-1-2,4-4-2,Andre Marriner,Match Report,,2021-2022,Chelsea
+2021-11-20,12:30,Premier League,Matchweek 12,Sat,Away,W,3,0,Leicester City,2.0,0.4,61,35497.0,Jorginho,3-4-3,3-4-3,Paul Tierney,Match Report,,2021-2022,Chelsea
+2021-11-23,20:00,Champions Lg,Group stage,Tue,Home,W,4,0,it Juventus,3.0,0.7,54,39513.0,Jorginho,3-4-3,4-4-2,Srđan Jovanović,Match Report,,2021-2022,Chelsea
+2021-11-28,16:30,Premier League,Matchweek 13,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,65,40041.0,Jorginho,3-4-3,4-3-1-2,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2021-12-01,19:30,Premier League,Matchweek 14,Wed,Away,W,2,1,Watford,0.9,1.0,49,20388.0,César Azpilicueta,3-4-3,4-1-4-1,David Coote,Match Report,,2021-2022,Chelsea
+2021-12-04,12:30,Premier League,Matchweek 15,Sat,Away,L,2,3,West Ham,1.1,1.8,63,59942.0,Jorginho,3-4-3,3-4-3,Andre Marriner,Match Report,,2021-2022,Chelsea
+2021-12-08,20:45,Champions Lg,Group stage,Wed,Away,D,3,3,ru Zenit,2.7,2.6,54,29349.0,César Azpilicueta,3-4-1-2,4-1-4-1,Serdar Gözübüyük,Match Report,,2021-2022,Chelsea
+2021-12-11,15:00,Premier League,Matchweek 16,Sat,Home,W,3,2,Leeds United,2.5,1.4,57,39959.0,César Azpilicueta,3-4-3,4-3-1-2,Chris Kavanagh,Match Report,,2021-2022,Chelsea
+2021-12-16,19:45,Premier League,Matchweek 17,Thu,Home,D,1,1,Everton,2.9,0.6,80,13933.0,César Azpilicueta,3-4-3,5-4-1,Michael Oliver,Match Report,,2021-2022,Chelsea
+2021-12-19,14:00,Premier League,Matchweek 18,Sun,Away,D,0,0,Wolves,0.9,0.2,63,30631.0,César Azpilicueta,3-4-3,3-5-2,David Coote,Match Report,,2021-2022,Chelsea
+2021-12-22,19:45,EFL Cup,Quarter-finals,Wed,Away,W,2,0,Brentford,,,67,16577.0,César Azpilicueta,3-4-1-2,3-5-2,Andre Marriner,Match Report,,2021-2022,Chelsea
+2021-12-26,17:30,Premier League,Matchweek 19,Sun,Away,W,3,1,Aston Villa,2.6,0.4,58,41907.0,Jorginho,3-4-3,4-3-1-2,Martin Atkinson,Match Report,,2021-2022,Chelsea
+2021-12-29,19:30,Premier League,Matchweek 20,Wed,Home,D,1,1,Brighton,0.7,0.9,47,40080.0,César Azpilicueta,3-4-3,3-4-3,Mike Dean,Match Report,,2021-2022,Chelsea
+2022-01-02,16:30,Premier League,Matchweek 21,Sun,Home,D,2,2,Liverpool,1.2,1.3,54,40072.0,César Azpilicueta,3-4-3,4-3-3,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2022-01-05,19:45,EFL Cup,Semi-finals,Wed,Home,W,2,0,Tottenham,,,64,37868.0,César Azpilicueta,4-2-3-1,3-4-3,Craig Pawson,Match Report,Leg 1 of 2,2021-2022,Chelsea
+2022-01-08,17:30,FA Cup,Third round proper,Sat,Home,W,5,1,Chesterfield,,,67,39795.0,Mateo Kovačić,3-4-3,3-4-3,Jarred Gillett,Match Report,,2021-2022,Chelsea
+2022-01-12,19:45,EFL Cup,Semi-finals,Wed,Away,W,1,0,Tottenham,,,64,45603.0,César Azpilicueta,4-2-2-2,5-3-2,Andre Marriner,Match Report,Leg 2 of 2; Chelsea won,2021-2022,Chelsea
+2022-01-15,12:30,Premier League,Matchweek 22,Sat,Away,L,0,1,Manchester City,0.3,1.0,44,53319.0,César Azpilicueta,3-4-3,4-2-3-1,Craig Pawson,Match Report,,2021-2022,Chelsea
+2022-01-18,20:00,Premier League,Matchweek 24,Tue,Away,D,1,1,Brighton,0.7,0.7,56,30880.0,César Azpilicueta,4-2-2-2,4-1-4-1,Kevin Friend,Match Report,,2021-2022,Chelsea
+2022-01-23,16:30,Premier League,Matchweek 23,Sun,Home,W,2,0,Tottenham,1.2,0.5,64,40020.0,César Azpilicueta,4-3-3,4-4-2,Paul Tierney,Match Report,,2021-2022,Chelsea
+2022-02-05,12:30,FA Cup,Fourth round proper,Sat,Home,W,2,1,Plymouth Argyle,,,72,35959.0,César Azpilicueta,4-3-3,5-3-2,Simon Hooper,Match Report,Required Extra Time,2021-2022,Chelsea
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,58,25109.0,Jorginho,4-3-3,4-2-3-1,David Coote,Match Report,,2021-2022,Chelsea
+2022-02-22,20:00,Champions Lg,Round of 16,Tue,Home,W,2,0,fr Lille,1.2,0.8,50,38832.0,César Azpilicueta,3-4-3,4-2-3-1,Jesús Gil,Match Report,Leg 1 of 2,2021-2022,Chelsea
+2022-02-27,16:30,EFL Cup,Final,Sun,Home,D,0 (10),0 (11),Liverpool,,,46,88512.0,César Azpilicueta,3-4-3,4-3-3,Stuart Attwell,Match Report,Liverpool won on penalty kicks following extra time,2021-2022,Chelsea
+2022-03-02,19:15,FA Cup,Fifth round proper,Wed,Away,W,3,2,Luton Town,,,75,10140.0,Jorginho,3-4-3,3-5-2,Peter Bankes,Match Report,,2021-2022,Chelsea
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Away,W,4,0,Burnley,2.3,0.7,72,19439.0,Jorginho,3-4-3,4-4-2,Andre Marriner,Match Report,,2021-2022,Chelsea
+2022-03-10,19:30,Premier League,Matchweek 30,Thu,Away,W,3,1,Norwich City,1.8,1.0,66,26684.0,César Azpilicueta,3-4-3,5-3-2,Martin Atkinson,Match Report,,2021-2022,Chelsea
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,71,40026.0,Jorginho,4-3-3,5-4-1,David Coote,Match Report,,2021-2022,Chelsea
+2022-03-16,21:00,Champions Lg,Round of 16,Wed,Away,W,2,1,fr Lille,1.0,1.7,56,49048.0,César Azpilicueta,3-5-2,4-4-2,Davide Massa,Match Report,Leg 2 of 2; Chelsea won,2021-2022,Chelsea
+2022-03-19,17:15,FA Cup,Quarter-finals,Sat,Away,W,2,0,Middlesbrough,,,61,31422.0,César Azpilicueta,4-2-3-1,3-5-2,Paul Tierney,Match Report,,2021-2022,Chelsea
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Home,L,1,4,Brentford,1.3,1.8,70,39061.0,César Azpilicueta,4-3-3,5-3-2,Andy Madley,Match Report,,2021-2022,Chelsea
+2022-04-06,20:00,Champions Lg,Quarter-finals,Wed,Home,L,1,3,es Real Madrid,1.3,1.8,57,38689.0,César Azpilicueta,3-4-3,4-3-3,Clément Turpin,Match Report,Leg 1 of 2,2021-2022,Chelsea
+2022-04-09,15:00,Premier League,Matchweek 32,Sat,Away,W,6,0,Southampton,4.2,0.5,70,31359.0,N'Golo Kanté,3-4-1-2,4-4-2,Kevin Friend,Match Report,,2021-2022,Chelsea
+2022-04-12,21:00,Champions Lg,Quarter-finals,Tue,Away,W,3,2,es Real Madrid,2.7,1.2,57,59839.0,N'Golo Kanté,3-4-1-2,4-3-3,Szymon Marciniak,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,2021-2022,Chelsea
+2022-04-17,16:30,FA Cup,Semi-finals,Sun,Home,W,2,0,Crystal Palace,,,67,76238.0,César Azpilicueta,3-4-1-2,3-5-2,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2022-04-20,19:45,Premier League,Matchweek 25,Wed,Home,L,2,4,Arsenal,0.7,2.0,67,32249.0,César Azpilicueta,3-4-1-2,4-2-3-1,Jonathan Moss,Match Report,,2021-2022,Chelsea
+2022-04-24,14:00,Premier League,Matchweek 34,Sun,Home,W,1,0,West Ham,3.0,0.5,66,32231.0,César Azpilicueta,3-4-1-2,3-4-3,Michael Oliver,Match Report,,2021-2022,Chelsea
+2022-04-28,19:45,Premier League,Matchweek 37,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,64,73564.0,César Azpilicueta,3-4-1-2,4-2-3-1,Mike Dean,Match Report,,2021-2022,Chelsea
+2022-05-01,14:00,Premier League,Matchweek 35,Sun,Away,L,0,1,Everton,0.8,0.8,77,39256.0,César Azpilicueta,3-4-1-2,5-4-1,Kevin Friend,Match Report,,2021-2022,Chelsea
+2022-05-07,15:00,Premier League,Matchweek 36,Sat,Home,D,2,2,Wolves,1.7,2.0,59,32190.0,César Azpilicueta,3-4-1-2,3-5-2,Peter Bankes,Match Report,,2021-2022,Chelsea
+2022-05-11,19:30,Premier League,Matchweek 33,Wed,Away,W,3,0,Leeds United,1.3,0.4,67,36549.0,Jorginho,3-4-3,5-4-1,Anthony Taylor,Match Report,,2021-2022,Chelsea
+2022-05-14,16:45,FA Cup,Final,Sat,Home,D,0 (5),0 (6),Liverpool,,,47,84897.0,Jorginho,3-4-3,4-3-3,Craig Pawson,Match Report,Liverpool won on penalty kicks following extra time,2021-2022,Chelsea
+2022-05-19,20:00,Premier League,Matchweek 27,Thu,Home,D,1,1,Leicester City,1.6,0.1,67,31478.0,Jorginho,3-4-3,3-1-4-2,Stuart Attwell,Match Report,,2021-2022,Chelsea
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,2,1,Watford,2.2,0.6,71,32089.0,César Azpilicueta,3-4-3,4-3-3,Mike Dean,Match Report,,2021-2022,Chelsea

@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-03,15:00,League One,Matchweek 1,Sat,Away,W,1.0,0.0,Burton Albion,43.0,4565.0,Cole Skuse,4-4-2,4-3-1-2,Ross Joyce,Match Report,,2019-2020,Ipswich Town
+2019-08-10,15:00,League One,Matchweek 2,Sat,Home,D,1.0,1.0,Sunderland,48.0,24051.0,Luke Chambers,4-4-2,4-3-3,Neil Hair,Match Report,,2019-2020,Ipswich Town
+2019-08-13,19:45,EFL Cup,First round,Tue,Away,L,1.0,3.0,Luton Town,38.0,5435.0,Luke Chambers,4-4-1-1,3-4-1-2,Brett Huxtable,Match Report,,2019-2020,Ipswich Town
+2019-08-17,15:00,League One,Matchweek 3,Sat,Away,D,2.0,2.0,P'borough Utd,55.0,10071.0,Luke Chambers,4-4-2,4-4-2,Martin Coy,Match Report,,2019-2020,Ipswich Town
+2019-08-20,19:45,League One,Matchweek 4,Tue,Home,W,2.0,1.0,AFC Wimbledon,62.0,18778.0,Cole Skuse,4-3-3,3-5-2,Anthony Coggins,Match Report,,2019-2020,Ipswich Town
+2019-08-24,15:00,League One,Matchweek 5,Sat,Away,W,5.0,0.0,Bolton,52.0,5454.0,Luke Chambers,4-4-2,4-2-3-1,Kevin Johnson,Match Report,,2019-2020,Ipswich Town
+2019-08-31,15:00,League One,Matchweek 6,Sat,Home,W,3.0,0.0,Shrewsbury,60.0,19161.0,Luke Chambers,4-4-2,3-5-2,Trevor Kettle,Match Report,,2019-2020,Ipswich Town
+2019-09-14,15:00,League One,Matchweek 8,Sat,Home,D,0.0,0.0,Doncaster,49.0,18928.0,Luke Chambers,4-4-2,4-2-3-1,Oliver Yates,Match Report,,2019-2020,Ipswich Town
+2019-09-17,19:45,League One,Matchweek 9,Tue,Away,W,1.0,0.0,MK Dons,46.0,10167.0,Luke Chambers,3-4-1-2,3-5-1-1,Lee Swabey,Match Report,,2019-2020,Ipswich Town
+2019-09-21,15:00,League One,Matchweek 10,Sat,Away,W,1.0,0.0,Gillingham,60.0,7214.0,Luke Chambers,3-4-1-2,3-4-1-2,Chris Sarginson,Match Report,,2019-2020,Ipswich Town
+2019-09-28,15:00,League One,Matchweek 11,Sat,Home,W,4.0,1.0,Tranmere Rovers,59.0,19785.0,Luke Chambers,3-4-1-2,4-4-2,Ben Toner,Match Report,,2019-2020,Ipswich Town
+2019-10-05,15:00,League One,Matchweek 12,Sat,Away,W,1.0,0.0,Fleetwood Town,51.0,4312.0,Luke Chambers,3-4-1-2,4-3-3,Carl Boyeson,Match Report,,2019-2020,Ipswich Town
+2019-10-20,12:00,League One,Matchweek 14,Sun,Away,L,0.0,2.0,Acc'ton Stanley,62.0,3567.0,Luke Chambers,3-4-1-2,4-4-2,Seb Stockbridge,Match Report,,2019-2020,Ipswich Town
+2019-10-23,19:45,League One,Matchweek 15,Wed,Home,L,0.0,2.0,Rotherham Utd,60.0,20550.0,Luke Chambers,4-1-3-2,4-4-1-1,John Busby,Match Report,,2019-2020,Ipswich Town
+2019-10-26,15:00,League One,Matchweek 16,Sat,Away,W,3.0,1.0,Southend United,51.0,8632.0,Luke Chambers,4-4-2,3-4-1-2,Andrew Davies,Match Report,,2019-2020,Ipswich Town
+2019-11-02,,League One,Matchweek 17,Sat,Home,,,,Bury,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2019-11-05,19:45,League One,Matchweek 7,Tue,Away,W,1.0,0.0,Rochdale,50.0,3150.0,Luke Chambers,4-4-2,4-1-3-2,Scott Oldham,Match Report,,2019-2020,Ipswich Town
+2019-11-09,15:00,FA Cup,First round,Sat,Home,D,1.0,1.0,Lincoln City,49.0,11598.0,Emyr Huws,4-3-3,4-2-3-1,Kevin Johnson,Match Report,,2019-2020,Ipswich Town
+2019-11-20,19:45,FA Cup,First round,Wed,Away,W,1.0,0.0,Lincoln City,52.0,6781.0,James Wilson,4-3-3,4-4-1-1,Andy Haines,Match Report,,2019-2020,Ipswich Town
+2019-11-23,15:00,League One,Matchweek 19,Sat,Home,D,2.0,2.0,Blackpool,63.0,19503.0,Luke Chambers,4-2-3-1,3-4-1-2,Steve Martin,Match Report,,2019-2020,Ipswich Town
+2019-11-26,19:45,League One,Matchweek 13,Tue,Home,D,0.0,0.0,Wycombe,65.0,19215.0,Luke Chambers,3-4-1-2,4-3-3,Alan Young,Match Report,,2019-2020,Ipswich Town
+2019-12-01,14:00,FA Cup,Second round,Sun,Away,D,1.0,1.0,Coventry City,59.0,2878.0,Flynn Downes,4-2-3-1,3-4-3,Anthony Backhouse,Match Report,,2019-2020,Ipswich Town
+2019-12-07,15:00,League One,Matchweek 20,Sat,Away,D,1.0,1.0,Coventry City,52.0,8085.0,Flynn Downes,4-2-3-1,5-3-2,Darren Drysdale,Match Report,,2019-2020,Ipswich Town
+2019-12-10,19:45,FA Cup,Second round,Tue,Home,L,1.0,2.0,Coventry City,49.0,6515.0,Cole Skuse,4-4-2,4-2-3-1,Chris Sarginson,Match Report,,2019-2020,Ipswich Town
+2019-12-14,15:00,League One,Matchweek 21,Sat,Home,L,1.0,2.0,Bristol Rovers,66.0,18806.0,Cole Skuse,4-3-3,3-5-2,James Adcock,Match Report,,2019-2020,Ipswich Town
+2019-12-21,15:00,League One,Matchweek 22,Sat,Away,L,0.0,1.0,Portsmouth,58.0,18801.0,Luke Chambers,3-1-4-2,4-2-3-1,Brett Huxtable,Match Report,,2019-2020,Ipswich Town
+2019-12-26,15:00,League One,Matchweek 23,Thu,Home,D,0.0,0.0,Gillingham,60.0,22082.0,Cole Skuse,4-4-2,4-4-2,Craig Hicks,Match Report,,2019-2020,Ipswich Town
+2019-12-29,15:00,League One,Matchweek 24,Sun,Away,L,3.0,5.0,Lincoln City,50.0,10012.0,Luke Chambers,4-4-2,4-2-3-1,James Oldham,Match Report,,2019-2020,Ipswich Town
+2020-01-01,15:00,League One,Matchweek 25,Wed,Away,D,1.0,1.0,Wycombe,61.0,8523.0,Luke Chambers,3-4-1-2,4-3-3,Rob Lewis,Match Report,,2019-2020,Ipswich Town
+2020-01-11,15:00,League One,Matchweek 27,Sat,Home,W,4.0,1.0,Acc'ton Stanley,50.0,17536.0,Luke Chambers,3-4-1-2,4-4-2,Charles Breakspear,Match Report,,2019-2020,Ipswich Town
+2020-01-14,19:45,League One,Matchweek 18,Tue,Away,D,0.0,0.0,Oxford United,51.0,8191.0,Luke Chambers,3-4-1-2,4-3-3,Tom Nield,Match Report,,2019-2020,Ipswich Town
+2020-01-18,15:00,League One,Matchweek 28,Sat,Away,W,2.0,1.0,Tranmere Rovers,56.0,7921.0,Luke Chambers,3-4-1-2,3-4-1-2,John Busby,Match Report,,2019-2020,Ipswich Town
+2020-01-25,15:00,League One,Matchweek 29,Sat,Home,W,1.0,0.0,Lincoln City,63.0,18795.0,Luke Chambers,3-4-1-2,4-4-2,Lee Swabey,Match Report,,2019-2020,Ipswich Town
+2020-01-28,19:45,League One,Matchweek 30,Tue,Away,L,0.0,1.0,Rotherham Utd,52.0,9327.0,Luke Chambers,3-4-1-2,4-4-2,Anthony Coggins,Match Report,,2019-2020,Ipswich Town
+2020-02-01,15:00,League One,Matchweek 31,Sat,Home,L,1.0,4.0,P'borough Utd,59.0,21351.0,Luke Chambers,3-4-1-2,3-4-1-2,Andy Woolmer,Match Report,,2019-2020,Ipswich Town
+2020-02-08,15:00,League One,Matchweek 32,Sat,Away,L,0.0,1.0,Sunderland,51.0,32726.0,Luke Chambers,3-1-4-2,3-4-3,Jeremy Simpson,Match Report,,2019-2020,Ipswich Town
+2020-02-11,19:45,League One,Matchweek 33,Tue,Away,D,0.0,0.0,AFC Wimbledon,63.0,4745.0,Luke Chambers,3-1-4-2,3-5-2,Craig Hicks,Match Report,,2019-2020,Ipswich Town
+2020-02-15,15:00,League One,Matchweek 34,Sat,Home,W,4.0,1.0,Burton Albion,48.0,19922.0,Luke Chambers,3-4-1-2,4-3-3,Charles Breakspear,Match Report,,2019-2020,Ipswich Town
+2020-02-22,15:00,League One,Matchweek 35,Sat,Home,L,0.0,1.0,Oxford United,62.0,19363.0,Luke Chambers,3-4-1-2,4-3-3,Scott Oldham,Match Report,,2019-2020,Ipswich Town
+2020-02-29,15:00,League One,Matchweek 36,Sat,Away,L,1.0,2.0,Blackpool,57.0,9500.0,Luke Chambers,4-2-3-1,3-5-2,Chris Sarginson,Match Report,,2019-2020,Ipswich Town
+2020-03-03,19:45,League One,Matchweek 26,Tue,Home,L,0.0,1.0,Fleetwood Town,58.0,15678.0,Luke Chambers,3-5-1-1,4-3-3,Neil Hair,Match Report,,2019-2020,Ipswich Town
+2020-03-07,15:00,League One,Matchweek 37,Sat,Home,L,0.0,1.0,Coventry City,56.0,18825.0,Luke Chambers,4-3-3,3-4-3,Trevor Kettle,Match Report,,2019-2020,Ipswich Town
+2020-03-14,15:00,League One,Matchweek 38,Sat,Away,,,,Bristol Rovers,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-03-21,15:00,League One,Matchweek 39,Sat,Home,,,,Portsmouth,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-03-28,,League One,Matchweek 40,Sat,Away,,,,Bury,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-04-04,15:00,League One,Matchweek 41,Sat,Home,,,,Southend United,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-04-10,15:00,League One,Matchweek 42,Fri,Home,,,,Bolton,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-04-13,,League One,Matchweek 43,Mon,Away,,,,Shrewsbury,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-04-18,,League One,Matchweek 44,Sat,Home,,,,Rochdale,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-04-25,,League One,Matchweek 45,Sat,Away,,,,Doncaster,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town
+2020-05-03,,League One,Matchweek 46,Sun,Home,,,,MK Dons,,,,,,,Match Report,Match Cancelled,2019-2020,Ipswich Town

@@ -1,0 +1,54 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-04,15:00,Championship,Matchweek 1,Sat,Home,W,5,1,Rotherham Utd,2.5,0.6,68.0,10297.0,Henrik Dalsgaard,4-2-3-1,4-4-1-1,Oliver Langford,Match Report,,2018-2019,Brentford
+2018-08-11,15:00,Championship,Matchweek 2,Sat,Away,D,1,1,Stoke City,0.9,1.3,56.0,24806.0,Romaine Sawyers,4-2-3-1,4-2-3-1,Andrew Davies,Match Report,,2018-2019,Brentford
+2018-08-14,19:45,EFL Cup,First round,Tue,Away,W,4,2,Southend United,,,60.0,3055.0,Alan Judge,4-1-3-2,4-2-3-1,Keith Stroud,Match Report,,2018-2019,Brentford
+2018-08-19,15:00,Championship,Matchweek 3,Sun,Home,W,2,0,Sheffield Weds,2.4,0.2,52.0,10134.0,Daniel Bentley,4-3-3,4-3-3,David Webb,Match Report,,2018-2019,Brentford
+2018-08-22,19:45,Championship,Matchweek 4,Wed,Away,D,2,2,Aston Villa,1.6,1.0,43.0,30011.0,Josh McEachran,4-2-3-1,4-4-1-1,Jonathan Moss,Match Report,,2018-2019,Brentford
+2018-08-25,15:00,Championship,Matchweek 5,Sat,Away,L,0,1,Blackburn,0.7,0.3,60.0,12094.0,Kamohelo Mokotjo,4-3-3,4-2-3-1,Tony Harrington,Match Report,,2018-2019,Brentford
+2018-08-28,19:45,EFL Cup,Second round,Tue,Home,W,1,0,Cheltenham,,,58.0,4384.0,Josh Clarke,4-3-3,4-5-1,Ross Joyce,Match Report,,2018-2019,Brentford
+2018-09-01,15:00,Championship,Matchweek 6,Sat,Home,W,2,1,Nott'ham Forest,1.9,0.2,55.0,10186.0,Yoann Barbet,4-3-3,4-2-3-1,Peter Bankes,Match Report,,2018-2019,Brentford
+2018-09-15,15:00,Championship,Matchweek 7,Sat,Home,W,2,0,Wigan Athletic,3.3,0.7,58.0,9951.0,Ollie Watkins,4-2-3-1,4-2-3-1,Darren England,Match Report,,2018-2019,Brentford
+2018-09-18,19:45,Championship,Matchweek 8,Tue,Away,D,1,1,Ipswich Town,1.1,0.7,61.0,14897.0,Chris Mepham,4-2-3-1,3-5-2,Darren Bond,Match Report,,2018-2019,Brentford
+2018-09-22,15:00,Championship,Matchweek 9,Sat,Away,L,1,3,Derby County,0.5,1.9,59.0,25110.0,Lewis Macleod,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,2018-2019,Brentford
+2018-09-26,19:45,EFL Cup,Third round,Wed,Away,L,1,3,Arsenal,,,49.0,49586.0,Nico Yennaris,4-3-3,4-2-3-1,Mike Dean,Match Report,,2018-2019,Brentford
+2018-09-29,15:00,Championship,Matchweek 10,Sat,Home,D,2,2,Reading,2.4,2.1,68.0,10045.0,Ezri Konsa,4-2-3-1,4-2-3-1,Geoff Eltringham,Match Report,,2018-2019,Brentford
+2018-10-02,19:45,Championship,Matchweek 11,Tue,Home,D,1,1,Birmingham City,0.8,1.5,73.0,9715.0,Sergi Canós,4-2-3-1,4-4-2,Tim Robinson,Match Report,,2018-2019,Brentford
+2018-10-06,12:30,Championship,Matchweek 12,Sat,Away,D,1,1,Leeds United,1.6,1.2,47.0,31880.0,Neal Maupay,4-2-3-1,4-1-4-1,Jeremy Simpson,Match Report,,2018-2019,Brentford
+2018-10-20,15:00,Championship,Matchweek 13,Sat,Home,L,0,1,Bristol City,1.4,1.7,51.0,11182.0,Romaine Sawyers,4-2-3-1,4-4-2,Robert Jones,Match Report,,2018-2019,Brentford
+2018-10-24,19:45,Championship,Matchweek 14,Wed,Away,L,3,4,Preston,1.2,1.2,59.0,10882.0,Henrik Dalsgaard,4-2-3-1,4-2-3-1,Scott Duncan,Match Report,,2018-2019,Brentford
+2018-10-27,15:00,Championship,Matchweek 15,Sat,Away,L,0,1,Norwich City,0.9,1.3,53.0,25443.0,Romaine Sawyers,4-2-3-1,4-2-3-1,Oliver Langford,Match Report,,2018-2019,Brentford
+2018-11-03,15:00,Championship,Matchweek 16,Sat,Home,W,2,0,Millwall,1.7,1.1,62.0,9476.0,Romaine Sawyers,4-2-3-1,4-4-2,Simon Hooper,Match Report,,2018-2019,Brentford
+2018-11-10,15:00,Championship,Matchweek 17,Sat,Away,L,2,3,QPR,0.8,3.2,58.0,17609.0,Romaine Sawyers,4-2-3-1,4-4-1-1,James Linington,Match Report,,2018-2019,Brentford
+2018-11-24,17:30,Championship,Matchweek 18,Sat,Home,L,1,2,Middlesbrough,0.9,1.7,67.0,9430.0,Henrik Dalsgaard,4-2-3-1,4-3-3,John Brooks,Match Report,,2018-2019,Brentford
+2018-11-27,19:45,Championship,Matchweek 19,Tue,Home,L,2,3,Sheffield Utd,0.7,1.8,65.0,8903.0,Romaine Sawyers,4-2-3-1,3-5-2,Steve Martin,Match Report,,2018-2019,Brentford
+2018-12-03,20:00,Championship,Matchweek 20,Mon,Away,D,1,1,West Brom,0.9,2.7,45.0,20949.0,Romaine Sawyers,4-1-4-1,4-4-2,Darren Bond,Match Report,,2018-2019,Brentford
+2018-12-08,15:00,Championship,Matchweek 21,Sat,Home,L,2,3,Swansea City,2.2,2.2,63.0,9442.0,Romaine Sawyers,4-2-3-1,4-2-3-1,Andy Woolmer,Match Report,,2018-2019,Brentford
+2018-12-15,15:00,Championship,Matchweek 22,Sat,Away,L,0,2,Hull City,0.9,1.5,70.0,10530.0,Romaine Sawyers,4-2-3-1,4-4-1-1,Andrew Davies,Match Report,,2018-2019,Brentford
+2018-12-22,15:00,Championship,Matchweek 23,Sat,Home,W,1,0,Bolton,0.7,0.6,58.0,10512.0,Romaine Sawyers,3-4-3,4-4-2,James Linington,Match Report,,2018-2019,Brentford
+2018-12-26,15:00,Championship,Matchweek 24,Wed,Away,D,1,1,Bristol City,0.9,0.5,49.0,21207.0,Romaine Sawyers,3-4-3,4-1-4-1,David Webb,Match Report,,2018-2019,Brentford
+2018-12-29,15:00,Championship,Matchweek 25,Sat,Away,D,0,0,Birmingham City,0.4,0.2,60.0,23909.0,Romaine Sawyers,3-4-3,4-4-2,Peter Bankes,Match Report,,2018-2019,Brentford
+2019-01-01,15:00,Championship,Matchweek 26,Tue,Home,D,1,1,Norwich City,1.1,0.5,45.0,9524.0,Romaine Sawyers,3-4-3,4-2-3-1,Gavin Ward,Match Report,,2018-2019,Brentford
+2019-01-05,15:00,FA Cup,Third round,Sat,Home,W,1,0,Oxford United,,,60.0,6106.0,Julian Jeanvier,3-4-3,4-3-3,Jeremy Simpson,Match Report,,2018-2019,Brentford
+2019-01-12,15:00,Championship,Matchweek 27,Sat,Home,W,3,1,Stoke City,1.1,0.1,54.0,9439.0,Romaine Sawyers,3-4-3,4-1-2-1-2,Tim Robinson,Match Report,,2018-2019,Brentford
+2019-01-19,15:00,Championship,Matchweek 28,Sat,Away,W,4,2,Rotherham Utd,1.8,1.7,64.0,8319.0,Romaine Sawyers,3-4-3,4-1-4-1,Tony Harrington,Match Report,,2018-2019,Brentford
+2019-01-28,19:45,FA Cup,Fourth round,Mon,Away,D,3,3,Barnet,,,63.0,6215.0,Julian Jeanvier,3-4-3,4-3-3,Andy Madley,Match Report,,2018-2019,Brentford
+2019-02-02,15:00,Championship,Matchweek 30,Sat,Home,W,5,2,Blackburn,2.0,0.6,60.0,9972.0,Romaine Sawyers,3-4-3,4-2-3-1,Andrew Davies,Match Report,,2018-2019,Brentford
+2019-02-05,19:45,FA Cup,Fourth round,Tue,Home,W,3,1,Barnet,,,56.0,6954.0,Romaine Sawyers,3-4-3,4-3-3,Roger East,Match Report,,2018-2019,Brentford
+2019-02-09,15:00,Championship,Matchweek 31,Sat,Away,L,1,2,Nott'ham Forest,1.8,3.2,69.0,27829.0,Romaine Sawyers,3-4-3,4-2-3-1,Robert Jones,Match Report,,2018-2019,Brentford
+2019-02-13,19:45,Championship,Matchweek 32,Wed,Home,W,1,0,Aston Villa,2.1,0.7,62.0,9636.0,Romaine Sawyers,3-4-3,4-1-4-1,Gavin Ward,Match Report,,2018-2019,Brentford
+2019-02-17,16:00,FA Cup,Fifth round,Sun,Away,L,1,4,Swansea City,,,46.0,11261.0,Romaine Sawyers,3-4-3,4-3-3,Stuart Attwell,Match Report,,2018-2019,Brentford
+2019-02-23,15:00,Championship,Matchweek 34,Sat,Home,W,5,1,Hull City,2.5,0.8,61.0,9675.0,Romaine Sawyers,3-4-3,4-1-4-1,Tim Robinson,Match Report,,2018-2019,Brentford
+2019-02-26,19:45,Championship,Matchweek 29,Tue,Away,L,0,2,Sheffield Weds,0.3,2.5,55.0,23094.0,Romaine Sawyers,3-4-3,4-2-3-1,Scott Duncan,Match Report,,2018-2019,Brentford
+2019-03-02,15:00,Championship,Matchweek 35,Sat,Home,W,3,0,QPR,3.0,0.4,61.0,11771.0,Romaine Sawyers,3-4-3,3-4-3,Keith Stroud,Match Report,,2018-2019,Brentford
+2019-03-09,15:00,Championship,Matchweek 36,Sat,Away,W,2,1,Middlesbrough,1.5,1.3,62.0,22069.0,Romaine Sawyers,3-4-3,3-4-3,Jeremy Simpson,Match Report,,2018-2019,Brentford
+2019-03-12,19:45,Championship,Matchweek 37,Tue,Away,L,0,2,Sheffield Utd,1.8,1.8,69.0,24463.0,Romaine Sawyers,3-4-3,3-4-1-2,Tony Harrington,Match Report,,2018-2019,Brentford
+2019-03-16,15:00,Championship,Matchweek 38,Sat,Home,L,0,1,West Brom,1.0,0.7,65.0,11488.0,Romaine Sawyers,3-4-3,4-3-3,Andy Madley,Match Report,,2018-2019,Brentford
+2019-03-30,15:00,Championship,Matchweek 39,Sat,Away,D,0,0,Wigan Athletic,0.7,1.0,64.0,9953.0,Henrik Dalsgaard,3-4-3,4-2-3-1,Andy Woolmer,Match Report,,2018-2019,Brentford
+2019-04-02,19:45,Championship,Matchweek 33,Tue,Away,L,0,3,Swansea City,0.2,1.6,49.0,17197.0,Romaine Sawyers,3-4-3,4-2-3-1,Peter Bankes,Match Report,,2018-2019,Brentford
+2019-04-06,15:00,Championship,Matchweek 40,Sat,Home,D,3,3,Derby County,1.2,1.5,57.0,12225.0,Romaine Sawyers,3-4-3,4-3-3,John Brooks,Match Report,,2018-2019,Brentford
+2019-04-10,19:45,Championship,Matchweek 41,Wed,Home,W,2,0,Ipswich Town,2.1,0.9,60.0,10039.0,Romaine Sawyers,3-4-3,4-3-3,Andrew Davies,Match Report,,2018-2019,Brentford
+2019-04-13,15:00,Championship,Matchweek 42,Sat,Away,L,1,2,Reading,1.0,2.3,62.0,16892.0,Romaine Sawyers,3-4-3,4-3-3,Steve Martin,Match Report,,2018-2019,Brentford
+2019-04-19,13:00,Championship,Matchweek 43,Fri,Away,D,1,1,Millwall,0.9,0.5,52.0,14530.0,Henrik Dalsgaard,3-4-3,4-2-3-1,Jeremy Simpson,Match Report,,2018-2019,Brentford
+2019-04-22,17:15,Championship,Matchweek 44,Mon,Home,W,2,0,Leeds United,0.7,1.0,38.0,11580.0,Romaine Sawyers,3-4-3,4-1-4-1,James Linington,Match Report,,2018-2019,Brentford
+2019-04-27,15:00,Championship,Matchweek 45,Sat,Away,W,1,0,Bolton,,,,,,,,Tony Harrington,Match Report,Match awarded to Brentford,2018-2019,Brentford
+2019-05-05,12:30,Championship,Matchweek 46,Sun,Home,W,3,0,Preston,2.0,0.7,46.0,11289.0,Henrik Dalsgaard,3-4-3,4-2-3-1,James Linington,Match Report,,2018-2019,Brentford

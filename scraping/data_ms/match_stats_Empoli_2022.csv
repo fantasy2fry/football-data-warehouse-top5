@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-06,21:00,Coppa Italia,First round,Sat,Home,L,1,2,SPAL,,,54,1155,Filippo Bandinelli,4-3-1-2,4-3-1-2,Manuel Volpi,Match Report,Required Extra Time,2022-2023,Empoli
+2022-08-14,20:45,Serie A,Matchweek 1,Sun,Away,L,0,1,Spezia,0.7,0.5,59,8360,Filippo Bandinelli,4-3-1-2,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Empoli
+2022-08-21,18:30,Serie A,Matchweek 2,Sun,Home,D,0,0,Fiorentina,0.4,0.7,37,10411,Filippo Bandinelli,4-3-1-2,4-3-3,Matteo Marchetti,Match Report,,2022-2023,Empoli
+2022-08-28,20:45,Serie A,Matchweek 3,Sun,Away,D,1,1,Lecce,0.4,0.9,59,23941,Filippo Bandinelli,4-3-1-2,4-3-3,Alberto Santoro,Match Report,,2022-2023,Empoli
+2022-08-31,18:30,Serie A,Matchweek 4,Wed,Home,D,1,1,Hellas Verona,1.1,0.6,52,7269,Filippo Bandinelli,4-3-1-2,3-5-2,Marco Serra,Match Report,,2022-2023,Empoli
+2022-09-05,18:30,Serie A,Matchweek 5,Mon,Away,D,2,2,Salernitana,0.9,1.3,49,18173,Sebastiano Luperto,4-3-1-2,3-5-2,Rosario Abisso,Match Report,,2022-2023,Empoli
+2022-09-12,20:45,Serie A,Matchweek 6,Mon,Home,L,1,2,Roma,1.1,3.0,52,4560,Filippo Bandinelli,4-3-1-2,3-4-3,Livio Marinelli,Match Report,,2022-2023,Empoli
+2022-09-17,15:00,Serie A,Matchweek 7,Sat,Away,W,1,0,Bologna,1.6,1.6,39,15670,Filippo Bandinelli,4-3-1-2,4-2-3-1,Manuel Volpi,Match Report,,2022-2023,Empoli
+2022-10-01,20:45,Serie A,Matchweek 8,Sat,Home,L,1,3,Milan,1.1,2.3,43,15497,Sebastiano Luperto,4-3-1-2,4-2-3-1,Gianluca Aureliano,Match Report,,2022-2023,Empoli
+2022-10-09,12:30,Serie A,Matchweek 9,Sun,Away,D,1,1,Torino,0.2,2.4,34,16793,Filippo Bandinelli,4-3-1-2,3-4-3,Francesco Fourneau,Match Report,,2022-2023,Empoli
+2022-10-15,15:00,Serie A,Matchweek 10,Sat,Home,W,1,0,Monza,1.8,1.3,36,7258,Filippo Bandinelli,4-3-1-2,3-4-3,Antonio Rapuano,Match Report,,2022-2023,Empoli
+2022-10-21,20:45,Serie A,Matchweek 11,Fri,Away,L,0,4,Juventus,0.7,3.5,58,37771,Filippo Bandinelli,4-3-1-2,3-5-2,Michael Fabbri,Match Report,,2022-2023,Empoli
+2022-10-30,12:30,Serie A,Matchweek 12,Sun,Home,L,0,2,Atalanta,0.8,3.0,53,8740,Filippo Bandinelli,4-3-3,3-5-2,Giovanni Ayroldi,Match Report,,2022-2023,Empoli
+2022-11-05,15:00,Serie A,Matchweek 13,Sat,Home,W,1,0,Sassuolo,1.2,0.6,47,7834,Filippo Bandinelli,4-3-1-2,4-3-3,Ermanno Feliciani,Match Report,,2022-2023,Empoli
+2022-11-08,18:30,Serie A,Matchweek 14,Tue,Away,L,0,2,Napoli,0.3,2.0,26,36000,Filippo Bandinelli,4-3-1-2,4-3-3,Luca Pairetto,Match Report,,2022-2023,Empoli
+2022-11-11,20:45,Serie A,Matchweek 15,Fri,Home,W,2,0,Cremonese,2.2,1.3,49,8077,Filippo Bandinelli,4-1-2-1-2◆,3-5-2,Federico Dionisi,Match Report,,2022-2023,Empoli
+2023-01-04,20:45,Serie A,Matchweek 16,Wed,Away,D,1,1,Udinese,0.4,1.9,40,19237,Sebastiano Luperto,4-3-1-2,3-5-2,Marco Serra,Match Report,,2022-2023,Empoli
+2023-01-08,15:00,Serie A,Matchweek 17,Sun,Away,D,2,2,Lazio,0.6,0.9,46,31000,Sebastiano Luperto,4-3-2-1,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Empoli
+2023-01-16,20:45,Serie A,Matchweek 18,Mon,Home,W,1,0,Sampdoria,1.4,0.9,50,10364,Filippo Bandinelli,4-3-1-2,3-4-1-2,Alberto Santoro,Match Report,,2022-2023,Empoli
+2023-01-23,20:45,Serie A,Matchweek 19,Mon,Away,W,1,0,Inter,0.8,1.4,51,65476,Filippo Bandinelli,4-3-1-2,3-5-2,Antonio Rapuano,Match Report,,2022-2023,Empoli
+2023-01-28,15:00,Serie A,Matchweek 20,Sat,Home,D,2,2,Torino,0.6,1.0,47,8029,Filippo Bandinelli,4-3-1-2,3-4-1-2,Matteo Marcenaro,Match Report,,2022-2023,Empoli
+2023-02-04,18:00,Serie A,Matchweek 21,Sat,Away,L,0,2,Roma,1.7,1.2,55,60908,Filippo Bandinelli,4-3-1-2,3-4-3,Federico Dionisi,Match Report,,2022-2023,Empoli
+2023-02-11,15:00,Serie A,Matchweek 22,Sat,Home,D,2,2,Spezia,1.6,1.5,64,7871,Filippo Bandinelli,4-3-1-2,3-5-2,Antonio Giua,Match Report,,2022-2023,Empoli
+2023-02-19,15:00,Serie A,Matchweek 23,Sun,Away,D,1,1,Fiorentina,0.8,2.2,39,29663,Filippo Bandinelli,4-3-1-2,4-3-3,Alessandro Prontera,Match Report,,2022-2023,Empoli
+2023-02-25,18:00,Serie A,Matchweek 24,Sat,Home,L,0,2,Napoli,0.6,2.5,45,12624,Sebastiano Luperto,4-3-1-2,4-3-3,Giovanni Ayroldi,Match Report,,2022-2023,Empoli
+2023-03-04,15:00,Serie A,Matchweek 25,Sat,Away,L,1,2,Monza,1.0,0.7,57,10601,Filippo Bandinelli,4-3-1-2,3-4-3,Ermanno Feliciani,Match Report,,2022-2023,Empoli
+2023-03-11,15:00,Serie A,Matchweek 26,Sat,Home,L,0,1,Udinese,1.2,1.4,61,7465,Filippo Bandinelli,4-3-1-2,3-5-2,Francesco Cosso,Match Report,,2022-2023,Empoli
+2023-03-17,20:45,Serie A,Matchweek 27,Fri,Away,L,1,2,Atalanta,0.7,2.9,31,17864,Sebastiano Luperto,4-3-1-2,3-4-1-2,Federico Dionisi,Match Report,,2022-2023,Empoli
+2023-04-03,18:30,Serie A,Matchweek 28,Mon,Home,W,1,0,Lecce,1.7,0.2,53,8844,Filippo Bandinelli,4-3-1-2,4-3-3,Michael Fabbri,Match Report,,2022-2023,Empoli
+2023-04-07,21:00,Serie A,Matchweek 29,Fri,Away,D,0,0,Milan,0.1,1.9,30,70286,Filippo Bandinelli,4-3-1-2,4-2-3-1,Matteo Marcenaro,Match Report,,2022-2023,Empoli
+2023-04-14,18:30,Serie A,Matchweek 30,Fri,Away,L,0,1,Cremonese,1.2,1.2,68,8966,Filippo Bandinelli,4-3-1-2,4-3-1-2,Luca Zufferli,Match Report,,2022-2023,Empoli
+2023-04-23,12:30,Serie A,Matchweek 31,Sun,Home,L,0,3,Inter,0.9,1.1,40,15337,Filippo Bandinelli,4-3-1-2,3-5-2,Livio Marinelli,Match Report,,2022-2023,Empoli
+2023-04-30,15:00,Serie A,Matchweek 32,Sun,Away,L,1,2,Sassuolo,0.4,1.8,43,10267,Filippo Bandinelli,4-3-1-2,4-3-3,Federico Dionisi,Match Report,,2022-2023,Empoli
+2023-05-04,20:45,Serie A,Matchweek 33,Thu,Home,W,3,1,Bologna,1.0,2.0,28,8349,Sebastiano Luperto,4-3-1-2,4-3-3,Federico La Penna,Match Report,,2022-2023,Empoli
+2023-05-08,18:30,Serie A,Matchweek 34,Mon,Home,W,2,1,Salernitana,1.8,0.7,49,10760,Sebastiano Luperto,4-2-3-1,3-4-3,Manuel Volpi,Match Report,,2022-2023,Empoli
+2023-05-15,20:45,Serie A,Matchweek 35,Mon,Away,D,1,1,Sampdoria,1.6,1.3,58,16867,Sebastiano Luperto,4-2-3-1,3-4-1-2,Ermanno Feliciani,Match Report,,2022-2023,Empoli
+2023-05-22,20:45,Serie A,Matchweek 36,Mon,Home,W,4,1,Juventus,2.7,1.8,39,15519,Filippo Bandinelli,4-2-3-1,3-5-2,Giovanni Ayroldi,Match Report,,2022-2023,Empoli
+2023-05-28,12:30,Serie A,Matchweek 37,Sun,Away,D,1,1,Hellas Verona,1.2,1.0,62,22831,Sebastiano Luperto,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,,2022-2023,Empoli
+2023-06-03,21:00,Serie A,Matchweek 38,Sat,Home,L,0,2,Lazio,0.2,1.6,47,11545,Filippo Bandinelli,4-2-3-1,4-3-3,Luca Massimi,Match Report,,2022-2023,Empoli

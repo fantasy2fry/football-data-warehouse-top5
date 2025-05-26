@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-07-26,20:00,Ligue 2,Matchweek 1,Fri,Away,L,0,2,Rodez Aveyron,73.0,2727.0,Samuel Souprayen,4-2-3-1,5-3-2,Bastien Dechepy,Match Report,,2019-2020,Auxerre
+2019-08-02,20:00,Ligue 2,Matchweek 2,Fri,Home,W,2,0,Le Mans,55.0,7430.0,Samuel Souprayen,4-4-2,4-4-2,Cédric Dos Santos,Match Report,,2019-2020,Auxerre
+2019-08-09,20:00,Ligue 2,Matchweek 3,Fri,Away,L,0,1,Sochaux,73.0,7268.0,Samuel Souprayen,4-4-2,4-2-3-1,Gaël Angoula,Match Report,,2019-2020,Auxerre
+2019-08-13,20:00,Coupe de la Ligue,First round,Tue,Home,D,0 (5),0 (6),Béziers,,4218.0,Samuel Souprayen,4-2-3-1,4-4-2,Romain Lissorgue,Match Report,Béziers won on penalty kicks following extra time,2019-2020,Auxerre
+2019-08-19,20:45,Ligue 2,Matchweek 4,Mon,Home,D,2,2,Guingamp,63.0,7077.0,François Bellugou,4-2-3-1,4-2-3-1,Jeremy Stinat,Match Report,,2019-2020,Auxerre
+2019-08-23,20:00,Ligue 2,Matchweek 5,Fri,Away,D,1,1,Clermont Foot,51.0,4100.0,François Bellugou,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2019-2020,Auxerre
+2019-08-30,20:00,Ligue 2,Matchweek 6,Fri,Home,W,3,1,Ajaccio,54.0,5583.0,Samuel Souprayen,4-4-1-1,4-2-3-1,Sylvain Palhies,Match Report,,2019-2020,Auxerre
+2019-09-13,20:00,Ligue 2,Matchweek 7,Fri,Away,W,4,1,Chambly Oise,52.0,3627.0,François Bellugou,4-4-2,3-4-3,Benjamin Lepaysant,Match Report,,2019-2020,Auxerre
+2019-09-20,20:00,Ligue 2,Matchweek 8,Fri,Home,L,1,2,Troyes,44.0,10054.0,Samuel Souprayen,4-4-2,3-4-3,Stéphanie Frappart,Match Report,,2019-2020,Auxerre
+2019-09-27,20:00,Ligue 2,Matchweek 9,Fri,Away,D,2,2,Niort,71.0,3129.0,Samuel Souprayen,4-2-3-1,4-1-4-1,Mehdi Mokhtari,Match Report,,2019-2020,Auxerre
+2019-10-05,14:45,Ligue 2,Matchweek 10,Sat,Home,W,2,0,Le Havre,46.0,6726.0,Samuel Souprayen,4-3-3,4-4-2,Sylvain Palhies,Match Report,,2019-2020,Auxerre
+2019-10-21,20:45,Ligue 2,Matchweek 11,Mon,Away,D,0,0,Lens,53.0,28592.0,François Bellugou,4-4-2,3-4-3,Gaël Angoula,Match Report,,2019-2020,Auxerre
+2019-10-25,20:00,Ligue 2,Matchweek 12,Fri,Home,L,0,1,Grenoble,66.0,6176.0,Samuel Souprayen,4-4-2,4-2-3-1,Nicolas Rainville,Match Report,,2019-2020,Auxerre
+2019-11-01,20:00,Ligue 2,Matchweek 13,Fri,Away,L,0,1,Châteauroux,58.0,4229.0,François Bellugou,4-4-1-1,4-3-3,Thierry Bouille,Match Report,,2019-2020,Auxerre
+2019-11-08,20:00,Ligue 2,Matchweek 14,Fri,Home,D,1,1,Caen,56.0,4567.0,Samuel Souprayen,4-4-1-1,4-2-3-1,Cédric Dos Santos,Match Report,,2019-2020,Auxerre
+2019-11-16,14:00,Coupe de France,Seventh round,Sat,Away,W,4,0,Charité,,1461.0,Samuel Souprayen,,,Mickaël Leleu,Match Report,,2019-2020,Auxerre
+2019-11-22,20:00,Ligue 2,Matchweek 15,Fri,Away,L,0,2,Paris FC,55.0,3040.0,Samuel Souprayen,4-4-2,3-4-1-2,Mehdi Mokhtari,Match Report,,2019-2020,Auxerre
+2019-11-29,20:00,Ligue 2,Matchweek 16,Fri,Home,D,2,2,Orléans,63.0,6101.0,François Bellugou,4-2-3-1,5-4-1,Remi Landry,Match Report,,2019-2020,Auxerre
+2019-12-03,21:05,Ligue 2,Matchweek 17,Tue,Home,D,1,1,Valenciennes,55.0,4057.0,Samuel Souprayen,4-2-3-1,3-5-2,Jeremy Stinat,Match Report,,2019-2020,Auxerre
+2019-12-07,15:00,Coupe de France,Eighth round,Sat,Away,L,1,2,Hombourg-Haut,,1274.0,Samuel Souprayen,,,Marc Bollengier,Match Report,,2019-2020,Auxerre
+2019-12-13,20:00,Ligue 2,Matchweek 18,Fri,Away,L,0,1,Lorient,48.0,6844.0,Samuel Souprayen,4-2-3-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2019-2020,Auxerre
+2019-12-20,20:00,Ligue 2,Matchweek 19,Fri,Home,D,0,0,Nancy,61.0,4282.0,François Bellugou,4-1-4-1,4-2-3-1,Bartolomeu Varela,Match Report,,2019-2020,Auxerre
+2020-01-10,20:00,Ligue 2,Matchweek 20,Fri,Away,W,1,0,Le Mans,51.0,5718.0,François Bellugou,4-4-2,4-4-2,Benjamin Lepaysant,Match Report,,2019-2020,Auxerre
+2020-01-24,20:00,Ligue 2,Matchweek 21,Fri,Home,W,2,1,Sochaux,54.0,5666.0,François Bellugou,4-2-3-1,5-4-1,Mehdi Mokhtari,Match Report,,2019-2020,Auxerre
+2020-01-31,20:00,Ligue 2,Matchweek 22,Fri,Away,L,0,1,Guingamp,63.0,8812.0,Samuel Souprayen,4-2-3-1,4-3-3,Thierry Bouille,Match Report,,2019-2020,Auxerre
+2020-02-04,21:05,Ligue 2,Matchweek 23,Tue,Home,D,0,0,Clermont Foot,44.0,4094.0,Samuel Souprayen,4-2-3-1,4-2-3-1,Arnaud Baert,Match Report,,2019-2020,Auxerre
+2020-02-07,20:00,Ligue 2,Matchweek 24,Fri,Away,W,3,2,Ajaccio,39.0,2619.0,Samuel Souprayen,4-2-3-1,4-4-2,Gaël Angoula,Match Report,,2019-2020,Auxerre
+2020-02-14,20:00,Ligue 2,Matchweek 25,Fri,Home,D,0,0,Chambly Oise,65.0,4032.0,Samuel Souprayen,4-2-3-1,5-3-2,Remi Landry,Match Report,,2019-2020,Auxerre
+2020-02-24,20:45,Ligue 2,Matchweek 26,Mon,Away,L,1,3,Troyes,45.0,8367.0,Samuel Souprayen,4-2-3-1,4-1-4-1,Pierre Gaillouste,Match Report,,2019-2020,Auxerre
+2020-02-28,20:00,Ligue 2,Matchweek 27,Fri,Home,W,3,1,Niort,55.0,4091.0,Samuel Souprayen,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2019-2020,Auxerre
+2020-03-06,20:00,Ligue 2,Matchweek 28,Fri,Away,L,0,1,Le Havre,53.0,5948.0,Samuel Souprayen,4-4-2,3-5-2,Thierry Bouille,Match Report,,2019-2020,Auxerre
+2020-03-14,15:00,Ligue 2,Matchweek 29,Sat,Home,,,,Lens,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-03-20,20:00,Ligue 2,Matchweek 30,Fri,Away,,,,Grenoble,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-04-03,20:00,Ligue 2,Matchweek 31,Fri,Home,,,,Châteauroux,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-04-10,,Ligue 2,Matchweek 32,Fri,Away,,,,Caen,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-04-17,,Ligue 2,Matchweek 33,Fri,Home,,,,Paris FC,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-04-21,,Ligue 2,Matchweek 34,Tue,Away,,,,Orléans,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-04-24,,Ligue 2,Matchweek 35,Fri,Away,,,,Valenciennes,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-05-01,,Ligue 2,Matchweek 36,Fri,Home,,,,Lorient,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-05-08,,Ligue 2,Matchweek 37,Fri,Away,,,,Nancy,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre
+2020-05-15,,Ligue 2,Matchweek 38,Fri,Home,,,,Rodez Aveyron,,,,,,,Match Report,Match Cancelled,2019-2020,Auxerre

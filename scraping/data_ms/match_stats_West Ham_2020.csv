@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-12,20:00,Premier League,Matchweek 1,Sat,Home,L,0,2,Newcastle Utd,1.0,1.6,58,,Mark Noble,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,2020-2021,West Ham
+2020-09-15,19:30,EFL Cup,Second round,Tue,Home,W,3,0,Charlton Ath,,,62,,Fabián Balbuena,4-2-3-1,4-4-1-1,Andre Marriner,Match Report,,2020-2021,West Ham
+2020-09-19,20:00,Premier League,Matchweek 2,Sat,Away,L,1,2,Arsenal,2.0,1.1,38,,Declan Rice,5-4-1,3-4-3,Michael Oliver,Match Report,,2020-2021,West Ham
+2020-09-22,19:30,EFL Cup,Third round,Tue,Home,W,5,1,Hull City,,,62,,Fabián Balbuena,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,2020-2021,West Ham
+2020-09-27,19:00,Premier League,Matchweek 3,Sun,Home,W,4,0,Wolves,2.4,0.5,37,,Declan Rice,5-4-1,3-4-3,Martin Atkinson,Match Report,,2020-2021,West Ham
+2020-09-30,19:45,EFL Cup,Fourth round,Wed,Away,L,1,4,Everton,,,48,,Mark Noble,4-2-3-1,4-3-3,Darren England,Match Report,,2020-2021,West Ham
+2020-10-04,12:00,Premier League,Matchweek 4,Sun,Away,W,3,0,Leicester City,2.0,0.6,31,,Declan Rice,5-4-1,3-4-3,Andy Madley,Match Report,,2020-2021,West Ham
+2020-10-18,16:30,Premier League,Matchweek 5,Sun,Away,D,3,3,Tottenham,1.9,1.7,50,,Declan Rice,5-4-1,4-2-3-1,Paul Tierney,Match Report,,2020-2021,West Ham
+2020-10-24,12:30,Premier League,Matchweek 6,Sat,Home,D,1,1,Manchester City,0.3,1.0,31,,Declan Rice,5-4-1,4-3-3,Anthony Taylor,Match Report,,2020-2021,West Ham
+2020-10-31,17:30,Premier League,Matchweek 7,Sat,Away,L,1,2,Liverpool,0.3,1.7,28,,Declan Rice,5-4-1,4-3-3,Kevin Friend,Match Report,,2020-2021,West Ham
+2020-11-07,20:00,Premier League,Matchweek 8,Sat,Home,W,1,0,Fulham,1.3,1.7,53,,Declan Rice,3-4-3,4-2-3-1,Robert Jones,Match Report,,2020-2021,West Ham
+2020-11-22,14:00,Premier League,Matchweek 9,Sun,Away,W,1,0,Sheffield Utd,2.1,0.9,49,,Declan Rice,3-4-3,3-5-2,Martin Atkinson,Match Report,,2020-2021,West Ham
+2020-11-30,20:00,Premier League,Matchweek 10,Mon,Home,W,2,1,Aston Villa,0.4,2.5,34,,Declan Rice,3-4-3,4-3-3,Peter Bankes,Match Report,,2020-2021,West Ham
+2020-12-05,17:30,Premier League,Matchweek 11,Sat,Home,L,1,3,Manchester Utd,2.0,1.7,40,2000.0,Declan Rice,3-4-3,4-2-3-1,Andre Marriner,Match Report,,2020-2021,West Ham
+2020-12-11,20:00,Premier League,Matchweek 12,Fri,Away,W,2,1,Leeds United,1.3,1.6,37,,Declan Rice,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,2020-2021,West Ham
+2020-12-16,20:00,Premier League,Matchweek 13,Wed,Home,D,1,1,Crystal Palace,0.4,1.1,52,,Declan Rice,4-2-3-1,4-4-2,David Coote,Match Report,,2020-2021,West Ham
+2020-12-21,20:00,Premier League,Matchweek 14,Mon,Away,L,0,3,Chelsea,0.4,2.0,47,,Mark Noble,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,2020-2021,West Ham
+2020-12-27,14:15,Premier League,Matchweek 15,Sun,Home,D,2,2,Brighton,1.3,1.1,44,,Mark Noble,3-4-1-2,3-4-3,Simon Hooper,Match Report,,2020-2021,West Ham
+2020-12-29,18:00,Premier League,Matchweek 16,Tue,Away,D,0,0,Southampton,1.2,0.6,38,,Declan Rice,4-1-4-1,4-4-2,Andy Madley,Match Report,,2020-2021,West Ham
+2021-01-01,17:30,Premier League,Matchweek 17,Fri,Away,W,1,0,Everton,1.3,0.4,40,,Declan Rice,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2020-2021,West Ham
+2021-01-11,20:00,FA Cup,Third round proper,Mon,Away,W,1,0,Stockport,,,62,,Mark Noble,4-2-3-1,4-2-3-1,Mike Dean,Match Report,,2020-2021,West Ham
+2021-01-16,15:00,Premier League,Matchweek 19,Sat,Home,W,1,0,Burnley,1.7,0.5,45,,Declan Rice,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,,2020-2021,West Ham
+2021-01-19,18:00,Premier League,Matchweek 18,Tue,Home,W,2,1,West Brom,2.0,0.5,59,,Declan Rice,4-2-3-1,4-4-1-1,Graham Scott,Match Report,,2020-2021,West Ham
+2021-01-23,15:00,FA Cup,Fourth round proper,Sat,Home,W,4,0,Doncaster,,,67,,Mark Noble,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,2020-2021,West Ham
+2021-01-26,18:00,Premier League,Matchweek 20,Tue,Away,W,3,2,Crystal Palace,2.8,0.7,46,,Declan Rice,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,2020-2021,West Ham
+2021-01-31,16:30,Premier League,Matchweek 21,Sun,Home,L,1,3,Liverpool,0.8,2.0,33,,Declan Rice,4-2-3-1,4-3-1-2,Jonathan Moss,Match Report,,2020-2021,West Ham
+2021-02-03,20:15,Premier League,Matchweek 22,Wed,Away,W,3,1,Aston Villa,1.7,0.7,44,,Declan Rice,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,2020-2021,West Ham
+2021-02-06,17:30,Premier League,Matchweek 23,Sat,Away,D,0,0,Fulham,1.0,1.5,40,,Declan Rice,4-2-3-1,4-2-3-1,Mike Dean,Match Report,,2020-2021,West Ham
+2021-02-09,19:30,FA Cup,Fifth round proper,Tue,Away,L,0,1,Manchester Utd,,,38,,Mark Noble,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,Required Extra Time,2020-2021,West Ham
+2021-02-15,18:00,Premier League,Matchweek 24,Mon,Home,W,3,0,Sheffield Utd,1.9,0.7,46,,Declan Rice,3-4-3,3-5-2,Simon Hooper,Match Report,,2020-2021,West Ham
+2021-02-21,12:00,Premier League,Matchweek 25,Sun,Home,W,2,1,Tottenham,1.1,1.1,32,,Declan Rice,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,2020-2021,West Ham
+2021-02-27,12:30,Premier League,Matchweek 26,Sat,Away,L,1,2,Manchester City,1.5,0.5,37,,Declan Rice,3-4-3,4-3-3,Michael Oliver,Match Report,,2020-2021,West Ham
+2021-03-08,20:00,Premier League,Matchweek 27,Mon,Home,W,2,0,Leeds United,1.8,1.4,35,,Declan Rice,4-2-3-1,4-1-4-1,Mike Dean,Match Report,,2020-2021,West Ham
+2021-03-14,19:15,Premier League,Matchweek 28,Sun,Away,L,0,1,Manchester Utd,0.6,1.5,39,,Mark Noble,3-1-4-2,4-2-3-1,Martin Atkinson,Match Report,,2020-2021,West Ham
+2021-03-21,15:00,Premier League,Matchweek 29,Sun,Home,D,3,3,Arsenal,2.4,1.4,38,,Declan Rice,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2020-2021,West Ham
+2021-04-05,20:15,Premier League,Matchweek 30,Mon,Away,W,3,2,Wolves,1.2,2.1,35,,Mark Noble,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2020-2021,West Ham
+2021-04-11,14:05,Premier League,Matchweek 31,Sun,Home,W,3,2,Leicester City,0.8,0.9,37,,Mark Noble,3-4-1-2,3-5-2,Mike Dean,Match Report,,2020-2021,West Ham
+2021-04-17,12:30,Premier League,Matchweek 32,Sat,Away,L,2,3,Newcastle Utd,1.9,2.2,66,,Mark Noble,3-4-1-2,5-3-2,Kevin Friend,Match Report,,2020-2021,West Ham
+2021-04-24,17:30,Premier League,Matchweek 33,Sat,Home,L,0,1,Chelsea,0.4,2.5,45,,Mark Noble,3-4-1-2,3-4-3,Chris Kavanagh,Match Report,,2020-2021,West Ham
+2021-05-03,20:15,Premier League,Matchweek 34,Mon,Away,W,2,1,Burnley,2.3,2.0,55,,Aaron Cresswell,4-2-3-1,4-4-2,Anthony Taylor,Match Report,,2020-2021,West Ham
+2021-05-09,16:30,Premier League,Matchweek 35,Sun,Home,L,0,1,Everton,1.3,1.5,68,,Aaron Cresswell,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,2020-2021,West Ham
+2021-05-15,20:00,Premier League,Matchweek 36,Sat,Away,D,1,1,Brighton,1.7,0.8,49,,Declan Rice,4-2-3-1,3-4-3,Andre Marriner,Match Report,,2020-2021,West Ham
+2021-05-19,20:15,Premier League,Matchweek 37,Wed,Away,W,3,1,West Brom,3.4,1.1,48,5371.0,Declan Rice,4-2-3-1,4-4-1-1,Michael Oliver,Match Report,,2020-2021,West Ham
+2021-05-23,16:00,Premier League,Matchweek 38,Sun,Home,W,3,0,Southampton,1.3,1.5,38,10000.0,Declan Rice,4-2-3-1,4-4-2,Martin Atkinson,Match Report,,2020-2021,West Ham

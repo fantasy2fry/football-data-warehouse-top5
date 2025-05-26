@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-22,18:30,Serie A,Matchweek 1,Sun,Away,D,2,2,Udinese,0.8,1.6,56,9660,Paulo Dybala,4-4-2,3-5-1-1,Ivan Pezzuto,Match Report,,2021-2022,Juventus
+2021-08-28,20:45,Serie A,Matchweek 2,Sat,Home,L,0,1,Empoli,1.2,0.7,54,17584,Paulo Dybala,4-3-1-2,4-3-1-2,Davide Ghersini,Match Report,,2021-2022,Juventus
+2021-09-11,18:00,Serie A,Matchweek 3,Sat,Away,L,1,2,Napoli,1.2,2.1,33,23500,Giorgio Chiellini,4-3-3,4-3-3,Massimiliano Irrati,Match Report,,2021-2022,Juventus
+2021-09-14,21:00,Champions Lg,Group stage,Tue,Away,W,3,0,se Malmö,3.5,0.4,60,5832,Paulo Dybala,4-4-2,5-3-2,Artur Dias,Match Report,,2021-2022,Juventus
+2021-09-19,20:45,Serie A,Matchweek 4,Sun,Home,D,1,1,Milan,1.3,0.8,44,18785,Giorgio Chiellini,4-4-2,4-2-3-1,Daniele Doveri,Match Report,,2021-2022,Juventus
+2021-09-22,18:30,Serie A,Matchweek 5,Wed,Away,W,3,2,Spezia,2.3,1.0,60,5700,Paulo Dybala,4-4-2,4-2-3-1,Gianluca Aureliano,Match Report,,2021-2022,Juventus
+2021-09-26,12:30,Serie A,Matchweek 6,Sun,Home,W,3,2,Sampdoria,2.7,0.4,50,15381,Paulo Dybala,4-4-2,4-4-2,Giovanni Ayroldi,Match Report,,2021-2022,Juventus
+2021-09-29,21:00,Champions Lg,Group stage,Wed,Home,W,1,0,eng Chelsea,0.9,1.3,28,19934,Leonardo Bonucci,4-3-3,3-4-3,Jesús Gil,Match Report,,2021-2022,Juventus
+2021-10-02,18:00,Serie A,Matchweek 7,Sat,Away,W,1,0,Torino,1.0,0.9,52,12073,Giorgio Chiellini,4-4-2,3-4-3,Paolo Valeri,Match Report,,2021-2022,Juventus
+2021-10-17,20:45,Serie A,Matchweek 8,Sun,Home,W,1,0,Roma,1.2,1.6,47,20239,Giorgio Chiellini,4-4-2,4-2-3-1,Daniele Orsato,Match Report,,2021-2022,Juventus
+2021-10-20,22:00,Champions Lg,Group stage,Wed,Away,W,1,0,ru Zenit,1.2,0.6,58,18717,Leonardo Bonucci,4-3-3,3-4-3,Sandro Schärer,Match Report,,2021-2022,Juventus
+2021-10-24,20:45,Serie A,Matchweek 9,Sun,Away,D,1,1,Inter,1.7,0.8,51,56532,Giorgio Chiellini,4-4-2,3-5-2,Maurizio Mariani,Match Report,,2021-2022,Juventus
+2021-10-27,18:30,Serie A,Matchweek 10,Wed,Home,L,1,2,Sassuolo,1.2,1.1,57,18288,Paulo Dybala,4-4-2,4-3-3,Juan Sacchi,Match Report,,2021-2022,Juventus
+2021-10-30,18:00,Serie A,Matchweek 11,Sat,Away,L,1,2,Hellas Verona,1.0,1.5,55,22314,Giorgio Chiellini,4-4-2,3-4-3,Livio Marinelli,Match Report,,2021-2022,Juventus
+2021-11-02,21:00,Champions Lg,Group stage,Tue,Home,W,4,2,ru Zenit,2.7,1.3,58,20053,Paulo Dybala,4-4-2,3-4-3,Alejandro Hernández,Match Report,,2021-2022,Juventus
+2021-11-06,18:00,Serie A,Matchweek 12,Sat,Home,W,1,0,Fiorentina,0.6,0.4,50,6953,Paulo Dybala,4-4-2,4-3-3,Simone Sozza,Match Report,,2021-2022,Juventus
+2021-11-20,18:00,Serie A,Matchweek 13,Sat,Away,W,2,0,Lazio,2.4,0.2,42,45000,Leonardo Bonucci,3-1-4-2,4-3-3,Marco Di Bello,Match Report,,2021-2022,Juventus
+2021-11-23,20:00,Champions Lg,Group stage,Tue,Away,L,0,4,eng Chelsea,0.7,3.0,46,39513,Leonardo Bonucci,4-4-2,3-4-3,Srđan Jovanović,Match Report,,2021-2022,Juventus
+2021-11-27,18:00,Serie A,Matchweek 14,Sat,Home,L,0,1,Atalanta,0.8,0.5,59,29886,Paulo Dybala,4-4-2,3-4-3,Giovanni Ayroldi,Match Report,,2021-2022,Juventus
+2021-11-30,20:45,Serie A,Matchweek 15,Tue,Away,W,2,0,Salernitana,2.1,0.3,73,19500,Giorgio Chiellini,4-2-3-1,5-3-2,Francesco Fourneau,Match Report,,2021-2022,Juventus
+2021-12-05,20:45,Serie A,Matchweek 16,Sun,Home,W,2,0,Genoa,2.7,0.0,70,18458,Giorgio Chiellini,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,,2021-2022,Juventus
+2021-12-08,18:45,Champions Lg,Group stage,Wed,Home,W,1,0,se Malmö,2.1,0.2,58,17501,Paulo Dybala,4-2-3-1,5-4-1,Irfan Peljto,Match Report,,2021-2022,Juventus
+2021-12-11,18:00,Serie A,Matchweek 17,Sat,Away,D,1,1,Venezia,1.9,0.4,60,8350,Paulo Dybala,4-2-3-1,4-3-1-2,Paolo Valeri,Match Report,,2021-2022,Juventus
+2021-12-18,18:00,Serie A,Matchweek 18,Sat,Away,W,2,0,Bologna,0.9,0.5,43,22394,Leonardo Bonucci,4-3-3,3-1-4-2,Daniele Orsato,Match Report,,2021-2022,Juventus
+2021-12-21,20:45,Serie A,Matchweek 19,Tue,Home,W,2,0,Cagliari,1.2,1.1,63,11197,Leonardo Bonucci,4-3-3,5-3-2,Federico Dionisi,Match Report,,2021-2022,Juventus
+2022-01-06,20:45,Serie A,Matchweek 20,Thu,Home,D,1,1,Napoli,1.5,0.9,44,19301,Juan Cuadrado,4-3-3,4-2-3-1,Simone Sozza,Match Report,,2021-2022,Juventus
+2022-01-09,18:30,Serie A,Matchweek 21,Sun,Away,W,4,3,Roma,1.0,2.1,47,33178,Paulo Dybala,4-4-1-1,4-2-3-1,Davide Massa,Match Report,,2021-2022,Juventus
+2022-01-12,21:00,Supercoppa,Supercoppa Italiana,Wed,Away,L,1,2,Inter,,,37,29696,Giorgio Chiellini,4-4-1-1,3-5-2,Daniele Doveri,Match Report,Required Extra Time,2021-2022,Juventus
+2022-01-15,20:45,Serie A,Matchweek 22,Sat,Home,W,2,0,Udinese,1.2,0.6,66,5000,Paulo Dybala,4-4-2,3-5-2,Antonio Giua,Match Report,,2021-2022,Juventus
+2022-01-18,21:00,Coppa Italia,Round of 16,Tue,Home,W,4,1,Sampdoria,,,63,5000,Juan Cuadrado,4-4-1-1,3-1-4-2,Francesco Fourneau,Match Report,,2021-2022,Juventus
+2022-01-23,20:45,Serie A,Matchweek 23,Sun,Away,D,0,0,Milan,0.4,0.6,53,5000,Giorgio Chiellini,4-4-2,4-2-3-1,Marco Di Bello,Match Report,,2021-2022,Juventus
+2022-02-06,20:45,Serie A,Matchweek 24,Sun,Home,W,2,0,Hellas Verona,1.6,0.6,47,17016,Giorgio Chiellini,4-3-3,3-4-3,Luca Massimi,Match Report,,2021-2022,Juventus
+2022-02-10,21:00,Coppa Italia,Quarter-finals,Thu,Home,W,2,1,Sassuolo,,,45,16111,Leonardo Bonucci,4-2-3-1,4-2-3-1,Livio Marinelli,Match Report,,2021-2022,Juventus
+2022-02-13,20:45,Serie A,Matchweek 25,Sun,Away,D,1,1,Atalanta,0.7,2.4,48,9731,Paulo Dybala,4-3-3,3-4-1-2,Maurizio Mariani,Match Report,,2021-2022,Juventus
+2022-02-18,20:45,Serie A,Matchweek 26,Fri,Home,D,1,1,Torino,0.6,0.7,46,20132,Paulo Dybala,4-3-2-1,3-4-3,Davide Massa,Match Report,,2021-2022,Juventus
+2022-02-22,21:00,Champions Lg,Round of 16,Tue,Away,D,1,1,es Villarreal,0.7,1.3,46,17686,Alex Sandro,3-5-2,4-4-2,Daniel Siebert,Match Report,Leg 1 of 2,2021-2022,Juventus
+2022-02-26,18:00,Serie A,Matchweek 27,Sat,Away,W,3,2,Empoli,2.2,1.2,47,11890,Leonardo Bonucci,4-4-2,4-3-1-2,Fabio Maresca,Match Report,,2021-2022,Juventus
+2022-03-02,21:00,Coppa Italia,Semi-finals,Wed,Away,W,1,0,Fiorentina,,,45,28039,Danilo,3-5-2,4-3-3,Marco Guida,Match Report,Leg 1 of 2,2021-2022,Juventus
+2022-03-06,18:00,Serie A,Matchweek 28,Sun,Home,W,1,0,Spezia,1.3,0.7,56,26475,Juan Cuadrado,4-4-2,4-2-3-1,Francesco Fourneau,Match Report,,2021-2022,Juventus
+2022-03-12,18:00,Serie A,Matchweek 29,Sat,Away,W,3,1,Sampdoria,1.3,1.5,51,16644,Juan Cuadrado,4-4-2,4-1-2-1-2,Paolo Valeri,Match Report,,2021-2022,Juventus
+2022-03-16,21:00,Champions Lg,Round of 16,Wed,Home,L,0,3,es Villarreal,1.5,2.5,58,30385,Juan Cuadrado,3-5-2,4-4-1-1,Szymon Marciniak,Match Report,Leg 2 of 2; Villarreal won,2021-2022,Juventus
+2022-03-20,15:00,Serie A,Matchweek 30,Sun,Home,W,2,0,Salernitana,1.7,0.6,57,29186,Giorgio Chiellini,4-4-2,4-2-3-1,Giovanni Ayroldi,Match Report,,2021-2022,Juventus
+2022-04-03,20:45,Serie A,Matchweek 31,Sun,Home,L,0,1,Inter,1.8,1.0,54,40093,Giorgio Chiellini,4-2-3-1,3-5-2,Massimiliano Irrati,Match Report,,2021-2022,Juventus
+2022-04-09,20:45,Serie A,Matchweek 32,Sat,Away,W,2,1,Cagliari,1.1,0.2,60,13437,Giorgio Chiellini,4-4-2,3-5-2,Daniele Chiffi,Match Report,,2021-2022,Juventus
+2022-04-16,18:30,Serie A,Matchweek 33,Sat,Home,D,1,1,Bologna,2.4,1.1,51,36107,Giorgio Chiellini,4-3-3,3-5-2,Juan Sacchi,Match Report,,2021-2022,Juventus
+2022-04-20,21:00,Coppa Italia,Semi-finals,Wed,Home,W,2,0,Fiorentina,,,32,32109,Leonardo Bonucci,4-4-2,4-3-3,Daniele Doveri,Match Report,Leg 2 of 2; Juventus won,2021-2022,Juventus
+2022-04-25,20:45,Serie A,Matchweek 34,Mon,Away,W,2,1,Sassuolo,0.7,1.4,37,20000,Paulo Dybala,4-4-2,4-2-3-1,Fabio Maresca,Match Report,,2021-2022,Juventus
+2022-05-01,12:30,Serie A,Matchweek 35,Sun,Home,W,2,1,Venezia,1.6,0.6,50,39203,Leonardo Bonucci,3-5-2,3-4-3,Alessandro Prontera,Match Report,,2021-2022,Juventus
+2022-05-06,21:00,Serie A,Matchweek 36,Fri,Away,L,1,2,Genoa,1.5,3.2,54,18762,Paulo Dybala,4-3-3,4-2-3-1,Simone Sozza,Match Report,,2021-2022,Juventus
+2022-05-11,21:00,Coppa Italia,Final,Wed,Home,L,2,4,Inter,,,41,67944,Giorgio Chiellini,4-4-2,3-5-2,Paolo Valeri,Match Report,Required Extra Time,2021-2022,Juventus
+2022-05-16,20:45,Serie A,Matchweek 37,Mon,Home,D,2,2,Lazio,0.7,1.1,37,40515,Giorgio Chiellini,4-2-3-1,4-3-3,Giovanni Ayroldi,Match Report,,2021-2022,Juventus
+2022-05-21,20:45,Serie A,Matchweek 38,Sat,Away,L,0,2,Fiorentina,0.1,1.6,34,34831,Giorgio Chiellini,3-5-2,4-3-3,Daniele Chiffi,Match Report,,2021-2022,Juventus

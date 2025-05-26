@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-15,17:30,La Liga,Matchweek 1,Sun,Home,L,1,2,Atlético Madrid,2.3,1.5,53,5401,Hugo Mallo,4-1-3-2,3-1-4-2,José Luis Munuera,Match Report,,2021-2022,Celta Vigo
+2021-08-23,22:00,La Liga,Matchweek 2,Mon,Away,D,0,0,Osasuna,0.1,2.0,53,7189,Iago Aspas,4-1-3-2,4-1-4-1,Alberola Rojas,Match Report,,2021-2022,Celta Vigo
+2021-08-28,17:00,La Liga,Matchweek 3,Sat,Home,L,0,1,Athletic Club,1.1,1.4,62,5492,Hugo Mallo,4-1-3-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Celta Vigo
+2021-09-12,21:00,La Liga,Matchweek 4,Sun,Away,L,2,5,Real Madrid,1.8,3.2,40,19874,Hugo Mallo,4-1-3-2,4-4-2,José Sánchez,Match Report,,2021-2022,Celta Vigo
+2021-09-17,21:00,La Liga,Matchweek 5,Fri,Home,L,1,2,Cádiz,1.0,1.1,77,6754,Hugo Mallo,4-1-3-2,4-1-4-1,Isidro Díaz de Mera,Match Report,,2021-2022,Celta Vigo
+2021-09-21,22:00,La Liga,Matchweek 6,Tue,Away,W,2,0,Levante,0.7,1.7,54,11989,Hugo Mallo,4-1-3-2,3-5-2,Jorge Figueroa,Match Report,,2021-2022,Celta Vigo
+2021-09-27,21:00,La Liga,Matchweek 7,Mon,Home,W,1,0,Granada,1.3,0.8,72,6375,Hugo Mallo,4-1-3-2,4-4-2,César Soto,Match Report,,2021-2022,Celta Vigo
+2021-10-03,14:00,La Liga,Matchweek 8,Sun,Away,L,0,1,Elche,0.5,1.3,55,11299,Hugo Mallo,4-1-3-2,3-5-2,José Luis Munuera,Match Report,,2021-2022,Celta Vigo
+2021-10-17,16:15,La Liga,Matchweek 9,Sun,Home,L,0,1,Sevilla,1.2,1.0,46,10774,Hugo Mallo,4-1-3-2,4-3-3,Ricardo de Burgos,Match Report,,2021-2022,Celta Vigo
+2021-10-25,21:00,La Liga,Matchweek 10,Mon,Away,W,3,0,Getafe,1.6,0.5,65,7630,Hugo Mallo,4-1-3-2,4-4-1-1,Juan Martínez,Match Report,,2021-2022,Celta Vigo
+2021-10-28,19:00,La Liga,Matchweek 11,Thu,Home,L,0,2,Real Sociedad,1.4,1.7,58,8726,Hugo Mallo,4-1-3-2,4-2-3-1,Mario Melero,Match Report,,2021-2022,Celta Vigo
+2021-11-01,18:30,La Liga,Matchweek 12,Mon,Away,D,0,0,Rayo Vallecano,0.6,0.6,47,9580,Brais Méndez,4-1-3-2,4-2-3-1,Adrián Cordero,Match Report,,2021-2022,Celta Vigo
+2021-11-06,16:15,La Liga,Matchweek 13,Sat,Home,D,3,3,Barcelona,1.5,0.9,52,13146,Hugo Mallo,4-1-3-2,4-3-3,Alejandro Hernández,Match Report,,2021-2022,Celta Vigo
+2021-11-20,14:00,La Liga,Matchweek 14,Sat,Home,D,1,1,Villarreal,1.0,2.8,57,10086,Iago Aspas,4-1-3-2,4-4-1-1,Alberola Rojas,Match Report,,2021-2022,Celta Vigo
+2021-11-27,14:00,La Liga,Matchweek 15,Sat,Away,W,2,1,Alavés,1.2,0.9,58,10093,Iago Aspas,4-1-3-2,4-3-3,Pablo González,Match Report,,2021-2022,Celta Vigo
+2021-11-30,21:00,Copa del Rey,First round,Tue,Away,W,5,0,Ebro,,,69,6500,Hugo Mallo,4-1-3-2,5-3-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Celta Vigo
+2021-12-05,21:00,La Liga,Matchweek 16,Sun,Home,L,1,2,Valencia,0.9,1.3,66,11361,Iago Aspas,4-1-3-2,4-5-1,Ricardo de Burgos,Match Report,,2021-2022,Celta Vigo
+2021-12-10,21:00,La Liga,Matchweek 17,Fri,Away,D,0,0,Mallorca,1.0,0.8,51,10655,Brais Méndez,4-1-3-2,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Celta Vigo
+2021-12-14,19:00,Copa del Rey,Second round,Tue,Away,W,2,1,FC Andorra,,,51,1200,Rubén Blanco,4-1-3-2,5-3-2,Santiago Jaime,Match Report,Required Extra Time,2021-2022,Celta Vigo
+2021-12-17,21:00,La Liga,Matchweek 18,Fri,Home,W,3,1,Espanyol,1.2,0.4,52,9526,Hugo Mallo,4-1-3-2,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Celta Vigo
+2022-01-02,18:30,La Liga,Matchweek 19,Sun,Away,W,2,0,Betis,2.6,1.4,45,41656,Iago Aspas,4-1-3-2,4-2-3-1,César Soto,Match Report,,2021-2022,Celta Vigo
+2022-01-05,20:00,Copa del Rey,Round of 32,Wed,Away,L,1,2,Atlético Baleares,,,60,5500,Hugo Mallo,4-1-3-2,3-4-1-2,Mario Melero,Match Report,,2021-2022,Celta Vigo
+2022-01-08,16:15,La Liga,Matchweek 20,Sat,Away,L,0,1,Real Sociedad,0.4,1.7,59,27938,Hugo Mallo,4-1-3-2,4-3-3,Guillermo Cuadra,Match Report,,2021-2022,Celta Vigo
+2022-01-19,19:00,La Liga,Matchweek 21,Wed,Home,W,2,0,Osasuna,1.2,0.5,47,8837,Hugo Mallo,4-1-2-1-2◆,4-3-3,Adrián Cordero,Match Report,,2021-2022,Celta Vigo
+2022-01-22,18:30,La Liga,Matchweek 22,Sat,Away,D,2,2,Sevilla,0.7,1.1,35,30059,Hugo Mallo,4-1-3-2,4-3-3,José Sánchez,Match Report,,2021-2022,Celta Vigo
+2022-02-05,18:30,La Liga,Matchweek 23,Sat,Home,W,2,0,Rayo Vallecano,0.7,0.8,52,12546,Hugo Mallo,4-1-3-2,4-2-3-1,José Luis Munuera,Match Report,,2021-2022,Celta Vigo
+2022-02-12,14:00,La Liga,Matchweek 24,Sat,Away,D,0,0,Cádiz,1.0,0.7,55,15635,Hugo Mallo,4-1-3-2,4-4-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Celta Vigo
+2022-02-21,21:00,La Liga,Matchweek 25,Mon,Home,D,1,1,Levante,1.2,1.7,62,9776,Hugo Mallo,4-1-3-2,5-3-2,Valentín Pizarro,Match Report,,2021-2022,Celta Vigo
+2022-02-26,21:00,La Liga,Matchweek 26,Sat,Away,L,0,2,Atlético Madrid,0.8,0.6,64,48009,Hugo Mallo,4-1-3-2,3-5-2,Alejandro Hernández,Match Report,,2021-2022,Celta Vigo
+2022-03-06,18:30,La Liga,Matchweek 27,Sun,Home,W,4,3,Mallorca,2.7,1.5,59,11320,Hugo Mallo,4-1-3-2,5-3-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Celta Vigo
+2022-03-12,18:30,La Liga,Matchweek 28,Sat,Away,L,0,1,Villarreal,0.8,1.3,49,14929,Iago Aspas,4-1-3-2,4-4-1-1,Santiago Jaime,Match Report,,2021-2022,Celta Vigo
+2022-03-20,16:15,La Liga,Matchweek 29,Sun,Home,D,0,0,Betis,0.9,0.5,52,13149,Hugo Mallo,4-1-3-2,4-2-3-1,Ricardo de Burgos,Match Report,,2021-2022,Celta Vigo
+2022-04-02,18:30,La Liga,Matchweek 30,Sat,Home,L,1,2,Real Madrid,1.6,2.9,55,15714,Iago Aspas,4-1-3-2,4-3-3,Pablo González,Match Report,,2021-2022,Celta Vigo
+2022-04-10,16:15,La Liga,Matchweek 31,Sun,Away,L,0,1,Espanyol,0.8,1.3,53,18471,Iago Aspas,4-1-3-2,4-2-3-1,Alberola Rojas,Match Report,,2021-2022,Celta Vigo
+2022-04-17,18:30,La Liga,Matchweek 32,Sun,Away,W,2,0,Athletic Club,0.4,0.5,50,35541,Iago Aspas,4-1-3-2,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Celta Vigo
+2022-04-20,20:00,La Liga,Matchweek 33,Wed,Home,L,0,2,Getafe,0.4,1.1,71,9934,Iago Aspas,4-1-2-1-2◆,3-5-2,Santiago Jaime,Match Report,,2021-2022,Celta Vigo
+2022-05-01,16:15,La Liga,Matchweek 34,Sun,Away,D,1,1,Granada,1.1,0.7,57,15036,Iago Aspas,4-1-3-2,4-4-1-1,Juan Martínez,Match Report,,2021-2022,Celta Vigo
+2022-05-07,18:30,La Liga,Matchweek 35,Sat,Home,W,4,0,Alavés,1.9,0.5,66,10567,Iago Aspas,4-1-3-2,4-2-3-1,Guillermo Cuadra,Match Report,,2021-2022,Celta Vigo
+2022-05-10,21:30,La Liga,Matchweek 36,Tue,Away,L,1,3,Barcelona,0.7,1.1,46,55899,Iago Aspas,4-1-3-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Celta Vigo
+2022-05-15,19:30,La Liga,Matchweek 37,Sun,Home,W,1,0,Elche,2.1,0.5,48,10773,Iago Aspas,4-1-3-2,5-3-2,Mario Melero,Match Report,,2021-2022,Celta Vigo
+2022-05-21,17:30,La Liga,Matchweek 38,Sat,Away,L,0,2,Valencia,0.9,1.5,55,16189,Nolito,4-1-3-2,4-4-2,Adrián Cordero,Match Report,,2021-2022,Celta Vigo

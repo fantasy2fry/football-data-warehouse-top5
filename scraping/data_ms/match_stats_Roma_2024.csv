@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,20:45,Serie A,Matchweek 1,Sun,Away,D,0,0,Cagliari,0.9,1.0,57,16261.0,Lorenzo Pellegrini,4-2-3-1,3-5-2,Livio Marinelli,Match Report,,2024-2025,Roma
+2024-08-25,20:45,Serie A,Matchweek 2,Sun,Home,L,1,2,Empoli,2.1,2.7,73,67517.0,Lorenzo Pellegrini,4-3-2-1,3-4-3,Luca Zufferli,Match Report,,2024-2025,Roma
+2024-09-01,20:45,Serie A,Matchweek 3,Sun,Away,D,0,0,Juventus,0.3,0.5,51,41375.0,Lorenzo Pellegrini,4-2-3-1,4-2-3-1,Marco Guida,Match Report,,2024-2025,Roma
+2024-09-15,12:30,Serie A,Matchweek 4,Sun,Away,D,1,1,Genoa,2.2,1.2,52,33009.0,Gianluca Mancini,3-5-1-1,3-5-2,Antonio Giua,Match Report,,2024-2025,Roma
+2024-09-22,18:00,Serie A,Matchweek 5,Sun,Home,W,3,0,Udinese,1.9,0.7,62,63499.0,Lorenzo Pellegrini,3-5-1-1,3-4-3,Ermanno Feliciani,Match Report,,2024-2025,Roma
+2024-09-26,21:00,Europa Lg,League phase,Thu,Home,D,1,1,es Athletic Club,0.5,1.0,60,63072.0,Gianluca Mancini,3-5-2,4-2-3-1,Georgi Kabakov,Match Report,,2024-2025,Roma
+2024-09-29,15:00,Serie A,Matchweek 6,Sun,Home,W,2,1,Venezia,1.7,1.7,69,62165.0,Lorenzo Pellegrini,3-4-3,3-4-3,Rosario Abisso,Match Report,,2024-2025,Roma
+2024-10-03,21:00,Europa Lg,League phase,Thu,Away,L,0,1,se Elfsborg,1.7,1.4,75,11978.0,Leandro Paredes,3-4-3,5-3-2,Kristo Tohver,Match Report,,2024-2025,Roma
+2024-10-06,18:00,Serie A,Matchweek 7,Sun,Away,D,1,1,Monza,1.1,1.1,65,12021.0,Lorenzo Pellegrini,3-4-3,3-4-3,Federico La Penna,Match Report,,2024-2025,Roma
+2024-10-20,20:45,Serie A,Matchweek 8,Sun,Home,L,0,1,Inter,1.0,1.0,55,64119.0,Lorenzo Pellegrini,3-4-3,3-5-2,Davide Massa,Match Report,,2024-2025,Roma
+2024-10-24,18:45,Europa Lg,League phase,Thu,Home,W,1,0,ua Dynamo Kyiv,2.3,0.7,61,61624.0,Obite N'Dicka,3-4-3,5-3-2,Serdar Gözübüyük,Match Report,,2024-2025,Roma
+2024-10-27,20:45,Serie A,Matchweek 9,Sun,Away,L,1,5,Fiorentina,0.8,3.7,61,20440.0,Lorenzo Pellegrini,3-5-1-1,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Roma
+2024-10-31,20:45,Serie A,Matchweek 10,Thu,Home,W,1,0,Torino,0.6,0.2,57,60920.0,Gianluca Mancini,3-4-3,3-5-2,Michael Fabbri,Match Report,,2024-2025,Roma
+2024-11-03,18:00,Serie A,Matchweek 11,Sun,Away,L,2,3,Hellas Verona,1.7,1.1,66,28185.0,Lorenzo Pellegrini,3-4-3,4-2-3-1,Matteo Marcenaro,Match Report,,2024-2025,Roma
+2024-11-07,18:45,Europa Lg,League phase,Thu,Away,D,1,1,be Union SG,0.6,0.8,58,13875.0,Lorenzo Pellegrini,3-4-3,3-5-2,Jérôme Brisard,Match Report,,2024-2025,Roma
+2024-11-10,15:00,Serie A,Matchweek 12,Sun,Home,L,2,3,Bologna,1.3,1.7,54,50500.0,Gianluca Mancini,3-4-3,4-2-3-1,Gianluca Manganiello,Match Report,,2024-2025,Roma
+2024-11-24,18:00,Serie A,Matchweek 13,Sun,Away,L,0,1,Napoli,0.6,1.4,37,51164.0,Lorenzo Pellegrini,4-4-1-1,4-3-3,Davide Massa,Match Report,,2024-2025,Roma
+2024-11-28,20:00,Europa Lg,League phase,Thu,Away,D,2,2,eng Tottenham,2.1,3.2,51,53378.0,Gianluca Mancini,3-4-3,4-3-3,Glenn Nyberg,Match Report,,2024-2025,Roma
+2024-12-02,20:45,Serie A,Matchweek 14,Mon,Home,L,0,2,Atalanta,0.4,1.3,48,55772.0,Gianluca Mancini,3-5-1-1,3-4-3,Marco Guida,Match Report,,2024-2025,Roma
+2024-12-07,20:45,Serie A,Matchweek 15,Sat,Home,W,4,1,Lecce,1.8,0.9,59,58213.0,Gianluca Mancini,3-4-1-2,3-4-1-2,Daniele Chiffi,Match Report,,2024-2025,Roma
+2024-12-12,18:45,Europa Lg,League phase,Thu,Home,W,3,0,pt Braga,3.5,1.0,54,59085.0,Lorenzo Pellegrini,3-4-3,5-4-1,Daniel Siebert,Match Report,,2024-2025,Roma
+2024-12-15,18:00,Serie A,Matchweek 16,Sun,Away,L,0,2,Como,0.3,1.2,62,13602.0,Stephan El Shaarawy,3-4-3,4-2-3-1,Antonio Rapuano,Match Report,,2024-2025,Roma
+2024-12-18,21:00,Coppa Italia,Round of 16,Wed,Home,W,4,1,Sampdoria,,,61,56858.0,Leandro Paredes,3-4-3,4-3-3,Federico Dionisi,Match Report,,2024-2025,Roma
+2024-12-22,12:30,Serie A,Matchweek 17,Sun,Home,W,5,0,Parma,5.4,0.4,59,62968.0,Gianluca Mancini,3-4-3,4-2-3-1,Marco Di Bello,Match Report,,2024-2025,Roma
+2024-12-29,20:45,Serie A,Matchweek 18,Sun,Away,D,1,1,Milan,1.3,1.9,54,74283.0,Gianluca Mancini,3-4-3,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Roma
+2025-01-05,20:45,Serie A,Matchweek 19,Sun,Home,W,2,0,Lazio,1.1,0.9,33,65042.0,Lorenzo Pellegrini,3-5-2,4-2-3-1,Luca Pairetto,Match Report,,2024-2025,Roma
+2025-01-12,18:00,Serie A,Matchweek 20,Sun,Away,D,2,2,Bologna,1.4,2.0,46,30226.0,Lorenzo Pellegrini,3-5-2,4-2-3-1,Rosario Abisso,Match Report,,2024-2025,Roma
+2025-01-17,20:45,Serie A,Matchweek 21,Fri,Home,W,3,1,Genoa,1.6,0.5,52,62217.0,Lorenzo Pellegrini,3-5-2,4-2-3-1,Luca Zufferli,Match Report,,2024-2025,Roma
+2025-01-23,18:45,Europa Lg,League phase,Thu,Away,L,0,1,nl AZ Alkmaar,0.7,1.1,63,18635.0,Leandro Paredes,3-5-2,4-2-3-1,Irfan Peljto,Match Report,,2024-2025,Roma
+2025-01-26,15:00,Serie A,Matchweek 22,Sun,Away,W,2,1,Udinese,2.7,0.8,51,23853.0,Lorenzo Pellegrini,3-5-1-1,3-5-2,Simone Sozza,Match Report,,2024-2025,Roma
+2025-01-30,21:00,Europa Lg,League phase,Thu,Home,W,2,0,de Eint Frankfurt,1.9,0.7,47,64458.0,Lorenzo Pellegrini,3-4-3,4-4-2,Rade Obrenović,Match Report,,2024-2025,Roma
+2025-02-02,20:45,Serie A,Matchweek 23,Sun,Home,D,1,1,Napoli,0.5,0.4,51,60788.0,Gianluca Mancini,4-3-3,4-3-3,Michael Fabbri,Match Report,,2024-2025,Roma
+2025-02-05,21:00,Coppa Italia,Quarter-finals,Wed,Away,L,1,3,Milan,,,49,57878.0,Leandro Paredes,3-5-2,4-3-3,Marco Piccinini,Match Report,,2024-2025,Roma
+2025-02-09,12:30,Serie A,Matchweek 24,Sun,Away,W,1,0,Venezia,1.6,0.7,38,9380.0,Gianluca Mancini,3-4-3,3-4-3,Luca Zufferli,Match Report,,2024-2025,Roma
+2025-02-13,20:00,Europa Lg,Knockout phase play-offs,Thu,Away,D,1,1,pt Porto,1.2,0.7,43,37129.0,Lorenzo Pellegrini,3-5-2,3-4-3,Tobias Stieler,Match Report,Leg 1 of 2,2024-2025,Roma
+2025-02-16,18:00,Serie A,Matchweek 25,Sun,Away,W,1,0,Parma,1.1,0.2,71,20559.0,Gianluca Mancini,3-5-2,4-3-3,Daniele Chiffi,Match Report,,2024-2025,Roma
+2025-02-20,18:45,Europa Lg,Knockout phase play-offs,Thu,Home,W,3,2,pt Porto,2.6,0.6,56,55286.0,Lorenzo Pellegrini,3-4-3,3-4-3,François Letexier,Match Report,Leg 2 of 2; Roma won,2024-2025,Roma
+2025-02-24,20:45,Serie A,Matchweek 26,Mon,Home,W,4,0,Monza,1.5,0.3,65,56965.0,Gianluca Mancini,3-4-3,3-4-3,Fabio Maresca,Match Report,,2024-2025,Roma
+2025-03-02,18:00,Serie A,Matchweek 27,Sun,Home,W,2,1,Como,1.6,1.2,48,62125.0,Lorenzo Pellegrini,3-4-3,4-3-3,Luca Pairetto,Match Report,,2024-2025,Roma
+2025-03-06,21:00,Europa Lg,Round of 16,Thu,Home,W,2,1,es Athletic Club,1.2,1.2,58,62540.0,Gianluca Mancini,3-4-3,4-2-3-1,Sandro Schärer,Match Report,Leg 1 of 2,2024-2025,Roma
+2025-03-09,18:00,Serie A,Matchweek 28,Sun,Away,W,1,0,Empoli,2.0,0.1,64,12393.0,Lorenzo Pellegrini,3-4-3,3-4-3,Marco Di Bello,Match Report,,2024-2025,Roma
+2025-03-13,18:45,Europa Lg,Round of 16,Thu,Away,L,1,3,es Athletic Club,1.1,1.8,31,50666.0,Gianluca Mancini,3-4-3,4-2-3-1,Clément Turpin,Match Report,Leg 2 of 2; Athletic Club won,2024-2025,Roma
+2025-03-16,16:00,Serie A,Matchweek 29,Sun,Home,W,1,0,Cagliari,1.3,0.8,61,62911.0,Gianluca Mancini,3-4-3,3-5-1-1,Marco Piccinini,Match Report,,2024-2025,Roma
+2025-03-29,20:45,Serie A,Matchweek 30,Sat,Away,W,1,0,Lecce,2.4,0.7,55,27207.0,Lorenzo Pellegrini,3-4-3,4-2-3-1,Gianluca Manganiello,Match Report,,2024-2025,Roma
+2025-04-06,20:45,Serie A,Matchweek 31,Sun,Home,D,1,1,Juventus,1.1,0.8,41,65778.0,Gianluca Mancini,3-4-3,3-4-3,Andrea Colombo,Match Report,,2024-2025,Roma
+2025-04-13,20:45,Serie A,Matchweek 32,Sun,Away,D,1,1,Lazio,0.2,1.2,53,63000.0,Lorenzo Pellegrini,4-2-3-1,4-2-3-1,Simone Sozza,Match Report,,2024-2025,Roma
+2025-04-19,20:45,Serie A,Matchweek 33,Sat,Home,W,1,0,Hellas Verona,1.2,0.5,55,62714.0,Gianluca Mancini,3-4-3,3-5-2,Luca Pairetto,Match Report,,2024-2025,Roma
+2025-04-27,15:00,Serie A,Matchweek 34,Sun,Away,W,1,0,Inter,1.9,1.1,31,70240.0,Lorenzo Pellegrini,3-5-2,3-5-2,Michael Fabbri,Match Report,,2024-2025,Roma
+2025-05-04,18:00,Serie A,Matchweek 35,Sun,Home,W,1,0,Fiorentina,0.6,1.0,42,63640.0,Lorenzo Pellegrini,3-5-2,3-5-2,Daniele Chiffi,Match Report,,2024-2025,Roma
+2025-05-12,20:45,Serie A,Matchweek 36,Mon,Away,L,1,2,Atalanta,0.8,2.3,43,,Gianluca Mancini,3-4-3,3-4-3,Simone Sozza,Match Report,,2024-2025,Roma
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Home,W,3,1,Milan,1.0,1.4,53,,Gianluca Mancini,3-5-2,3-4-3,Marco Piccinini,Match Report,,2024-2025,Roma
+2025-05-25,20:45,Serie A,Matchweek 38,Sun,Away,W,2,0,Torino,1.9,0.5,54,,Gianluca Mancini,4-1-4-1,4-2-3-1,Marco Di Bello,Match Report,,2024-2025,Roma

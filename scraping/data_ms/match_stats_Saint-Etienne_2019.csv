@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,20:00,Ligue 1,Matchweek 1,Sat,Away,W,2.0,1.0,Dijon,1.0,2.1,47.0,14334.0,Loïc Perrin,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2019-2020,Saint-Etienne
+2019-08-18,15:00,Ligue 1,Matchweek 2,Sun,Home,D,1.0,1.0,Brest,2.3,0.5,55.0,28645.0,Loïc Perrin,4-2-3-1,4-4-2,Johan Hamel,Match Report,,2019-2020,Saint-Etienne
+2019-08-28,19:00,Ligue 1,Matchweek 3,Wed,Away,L,0.0,3.0,Lille,0.8,2.4,49.0,36138.0,Loïc Perrin,4-2-3-1,4-2-3-1,Olivier Thual,Match Report,,2019-2020,Saint-Etienne
+2019-09-01,21:00,Ligue 1,Matchweek 4,Sun,Away,L,0.0,1.0,Marseille,0.8,0.7,50.0,44074.0,Loïc Perrin,3-4-1-2,4-3-3,Benoît Millot,Match Report,,2019-2020,Saint-Etienne
+2019-09-15,17:00,Ligue 1,Matchweek 5,Sun,Home,D,2.0,2.0,Toulouse,1.1,1.9,59.0,24240.0,Loïc Perrin,4-2-3-1,4-2-3-1,Jeremy Stinat,Match Report,,2019-2020,Saint-Etienne
+2019-09-19,21:00,Europa Lg,Group stage,Thu,Away,L,2.0,3.0,be Gent,0.6,1.1,53.0,14928.0,Loïc Perrin,5-3-2,4-4-2,Roi Reinshreiber,Match Report,,2019-2020,Saint-Etienne
+2019-09-22,17:00,Ligue 1,Matchweek 6,Sun,Away,L,1.0,4.0,Angers,0.8,2.0,50.0,9831.0,Stéphane Ruffier,4-2-3-1,4-1-4-1,Franck Schneider,Match Report,,2019-2020,Saint-Etienne
+2019-09-25,19:00,Ligue 1,Matchweek 7,Wed,Home,L,0.0,1.0,Metz,1.3,0.8,53.0,19712.0,Loïc Perrin,4-2-3-1,4-3-3,Eric Wattellier,Match Report,,2019-2020,Saint-Etienne
+2019-09-29,17:00,Ligue 1,Matchweek 8,Sun,Away,W,1.0,0.0,Nîmes,0.7,1.8,35.0,13802.0,Loïc Perrin,4-2-3-1,4-3-3,Thomas Léonard,Match Report,,2019-2020,Saint-Etienne
+2019-10-03,18:55,Europa Lg,Group stage,Thu,Home,D,1.0,1.0,de Wolfsburg,0.5,0.6,53.0,27000.0,Loïc Perrin,4-2-3-1,3-4-3,Craig Pawson,Match Report,,2019-2020,Saint-Etienne
+2019-10-06,21:00,Ligue 1,Matchweek 9,Sun,Home,W,1.0,0.0,Lyon,0.9,0.6,47.0,34071.0,Loïc Perrin,3-4-1-2,3-4-1-2,Clément Turpin,Match Report,,2019-2020,Saint-Etienne
+2019-10-20,15:00,Ligue 1,Matchweek 10,Sun,Away,W,1.0,0.0,Bordeaux,0.9,1.0,37.0,25952.0,Loïc Perrin,3-4-3,3-4-3,Ruddy Buquet,Match Report,,2019-2020,Saint-Etienne
+2019-10-24,18:55,Europa Lg,Group stage,Thu,Home,D,1.0,1.0,ua FC Oleksandriya,1.0,0.2,66.0,28573.0,Stéphane Ruffier,4-3-3,4-1-4-1,Espen Andreas Eskås,Match Report,,2019-2020,Saint-Etienne
+2019-10-27,17:00,Ligue 1,Matchweek 11,Sun,Home,D,2.0,2.0,Amiens,0.8,2.2,45.0,18877.0,Loïc Perrin,3-4-3,4-2-3-1,Amaury Delerue,Match Report,,2019-2020,Saint-Etienne
+2019-11-03,21:00,Ligue 1,Matchweek 12,Sun,Home,W,1.0,0.0,Monaco,1.7,1.0,42.0,15685.0,Stéphane Ruffier,3-4-3,3-5-2,Jérôme Brisard,Match Report,,2019-2020,Saint-Etienne
+2019-11-07,22:00,Europa Lg,Group stage,Thu,Away,D,2.0,2.0,ua FC Oleksandriya,1.2,1.4,49.0,6361.0,Loïc Perrin,4-3-3,4-3-3,João Pinheiro,Match Report,,2019-2020,Saint-Etienne
+2019-11-10,17:00,Ligue 1,Matchweek 13,Sun,Away,W,3.0,2.0,Nantes,0.9,0.9,39.0,34191.0,Stéphane Ruffier,3-4-3,4-2-3-1,Clément Turpin,Match Report,,2019-2020,Saint-Etienne
+2019-11-24,17:00,Ligue 1,Matchweek 14,Sun,Home,D,0.0,0.0,Montpellier,0.5,1.0,50.0,24336.0,Loïc Perrin,3-4-3,3-1-4-2,Franck Schneider,Match Report,,2019-2020,Saint-Etienne
+2019-11-28,18:55,Europa Lg,Group stage,Thu,Home,D,0.0,0.0,be Gent,1.4,0.5,52.0,25315.0,Loïc Perrin,3-4-3,4-1-3-2,Irfan Peljto,Match Report,,2019-2020,Saint-Etienne
+2019-12-01,17:00,Ligue 1,Matchweek 15,Sun,Away,L,1.0,2.0,Rennes,0.5,1.4,46.0,26738.0,Loïc Perrin,3-4-3,4-4-2,Eric Wattellier,Match Report,,2019-2020,Saint-Etienne
+2019-12-04,19:00,Ligue 1,Matchweek 16,Wed,Home,W,4.0,1.0,Nice,2.7,1.2,48.0,20138.0,Loïc Perrin,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2019-2020,Saint-Etienne
+2019-12-08,15:00,Ligue 1,Matchweek 17,Sun,Away,L,1.0,3.0,Reims,0.6,1.2,51.0,14512.0,Loïc Perrin,4-2-3-1,4-2-3-1,Stéphanie Frappart,Match Report,,2019-2020,Saint-Etienne
+2019-12-12,21:00,Europa Lg,Group stage,Thu,Away,L,0.0,1.0,de Wolfsburg,0.8,1.7,56.0,10802.0,Romain Hamouma,4-3-3,4-3-3,Paul Tierney,Match Report,,2019-2020,Saint-Etienne
+2019-12-15,21:00,Ligue 1,Matchweek 18,Sun,Home,L,0.0,4.0,Paris S-G,1.1,4.3,34.0,36391.0,Loïc Perrin,5-3-2,4-2-2-2,Ruddy Buquet,Match Report,,2019-2020,Saint-Etienne
+2019-12-18,21:05,Coupe de la Ligue,Round of 16,Wed,Away,W,2.0,1.0,Nîmes,,,55.0,4240.0,Loïc Perrin,3-5-2,4-4-2,Antony Gautier,Match Report,,2019-2020,Saint-Etienne
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Away,L,1.0,2.0,Strasbourg,1.6,0.6,59.0,25471.0,Stéphane Ruffier,3-4-3,4-1-2-1-2,Olivier Thual,Match Report,,2019-2020,Saint-Etienne
+2020-01-05,14:15,Coupe de France,Round of 64,Sun,Away,W,3.0,0.0,Bastia-Borgo,,,,4046.0,Loïc Perrin,,,Karim Abed,Match Report,,2019-2020,Saint-Etienne
+2020-01-08,21:05,Coupe de la Ligue,Quarter-finals,Wed,Away,L,1.0,6.0,Paris S-G,,,30.0,46677.0,Loïc Perrin,4-3-3,4-2-2-2,Clément Turpin,Match Report,,2019-2020,Saint-Etienne
+2020-01-12,15:00,Ligue 1,Matchweek 20,Sun,Home,L,0.0,2.0,Nantes,0.5,1.2,60.0,,Loïc Perrin,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2019-2020,Saint-Etienne
+2020-01-18,18:00,Coupe de France,Round of 32,Sat,Away,W,3.0,2.0,Paris FC,,,60.0,8057.0,Loïc Perrin,4-3-3,4-3-3,François Letexier,Match Report,,2019-2020,Saint-Etienne
+2020-01-25,20:00,Ligue 1,Matchweek 21,Sat,Home,W,2.0,1.0,Nîmes,2.0,0.9,50.0,23927.0,Loïc Perrin,4-2-3-1,4-4-2,Jeremy Stinat,Match Report,,2019-2020,Saint-Etienne
+2020-01-28,20:55,Coupe de France,Round of 16,Tue,Away,W,1.0,0.0,Monaco,,,24.0,3485.0,Stéphane Ruffier,4-2-3-1,4-3-3,Johan Hamel,Match Report,,2019-2020,Saint-Etienne
+2020-02-02,17:00,Ligue 1,Matchweek 22,Sun,Away,L,1.0,3.0,Metz,2.4,0.9,55.0,15636.0,Loïc Perrin,4-2-3-1,4-3-3,Antony Gautier,Match Report,,2019-2020,Saint-Etienne
+2020-02-05,21:00,Ligue 1,Matchweek 23,Wed,Home,L,0.0,2.0,Marseille,0.6,0.5,48.0,29074.0,Loïc Perrin,3-4-3,4-3-3,Jérôme Brisard,Match Report,,2019-2020,Saint-Etienne
+2020-02-09,15:00,Ligue 1,Matchweek 24,Sun,Away,L,0.0,1.0,Montpellier,1.5,0.7,57.0,14669.0,Loïc Perrin,3-4-3,3-4-1-2,Amaury Delerue,Match Report,,2019-2020,Saint-Etienne
+2020-02-13,21:00,Coupe de France,Quarter-finals,Thu,Away,W,2.0,1.0,Épinal,,,51.0,12730.0,Stéphane Ruffier,4-4-1-1,3-5-2,François Letexier,Match Report,,2019-2020,Saint-Etienne
+2020-02-16,17:00,Ligue 1,Matchweek 25,Sun,Away,L,2.0,3.0,Brest,1.7,2.0,51.0,13399.0,Stéphane Ruffier,4-3-3,4-4-2,Eric Wattellier,Match Report,,2019-2020,Saint-Etienne
+2020-02-23,15:00,Ligue 1,Matchweek 26,Sun,Home,D,1.0,1.0,Reims,0.6,1.2,46.0,24868.0,Mathieu Debuchy,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2019-2020,Saint-Etienne
+2020-03-01,21:00,Ligue 1,Matchweek 27,Sun,Away,L,0.0,2.0,Lyon,0.4,2.9,34.0,52772.0,Mathieu Debuchy,4-4-2,4-3-3,Franck Schneider,Match Report,,2019-2020,Saint-Etienne
+2020-03-05,20:55,Coupe de France,Semi-finals,Thu,Home,W,2.0,1.0,Rennes,,,51.0,30535.0,Mathieu Debuchy,4-3-3,4-4-2,Antony Gautier,Match Report,,2019-2020,Saint-Etienne
+2020-03-08,15:00,Ligue 1,Matchweek 28,Sun,Home,D,1.0,1.0,Bordeaux,0.9,0.8,52.0,24912.0,Mathieu Debuchy,4-3-3,4-2-3-1,Thomas Léonard,Match Report,,2019-2020,Saint-Etienne
+2020-03-15,17:00,Ligue 1,Matchweek 29,Sun,Away,,,,Monaco,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-03-22,15:00,Ligue 1,Matchweek 30,Sun,Home,,,,Strasbourg,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-04-04,19:15,Ligue 1,Matchweek 31,Sat,Away,,,,Toulouse,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Home,,,,Rennes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Away,,,,Paris S-G,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Home,,,,Angers,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Away,,,,Amiens,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Home,,,,Lille,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Away,,,,Nice,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Home,,,,Dijon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Saint-Etienne
+2020-07-24,21:10,Coupe de France,Final,Fri,Neutral,L,0.0,1.0,Paris S-G,,,41.0,2805.0,Loïc Perrin,4-2-3-1,4-4-2,Amaury Delerue,Match Report,,2019-2020,Saint-Etienne

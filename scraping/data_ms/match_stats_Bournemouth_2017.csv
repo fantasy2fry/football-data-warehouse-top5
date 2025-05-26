@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-08-12,15:00,Premier League,Matchweek 1,Sat,Away,L,0,1,West Brom,0.5,1.3,69,25011,Simon Francis,4-4-1-1,4-1-4-1,Robert Madley,Match Report,,2017-2018,Bournemouth
+2017-08-19,15:00,Premier League,Matchweek 2,Sat,Home,L,0,2,Watford,1.0,2.4,55,10501,Andrew Surman,4-4-1-1,4-3-3,Roger East,Match Report,,2017-2018,Bournemouth
+2017-08-22,19:45,EFL Cup,Second round,Tue,Away,W,2,1,Birmingham City,,,58,8245,Steve Cook,4-4-2,3-5-2,Geoff Eltringham,Match Report,,2017-2018,Bournemouth
+2017-08-26,12:30,Premier League,Matchweek 3,Sat,Home,L,1,2,Manchester City,0.5,1.4,30,10419,Andrew Surman,5-3-2,4-3-3,Mike Dean,Match Report,,2017-2018,Bournemouth
+2017-09-09,15:00,Premier League,Matchweek 4,Sat,Away,L,0,3,Arsenal,0.6,2.2,42,59262,Steve Cook,3-5-1-1,3-4-3,Anthony Taylor,Match Report,,2017-2018,Bournemouth
+2017-09-15,20:00,Premier League,Matchweek 5,Fri,Home,W,2,1,Brighton,1.2,0.9,62,10369,Simon Francis,4-4-1-1,4-4-1-1,Craig Pawson,Match Report,,2017-2018,Bournemouth
+2017-09-19,19:45,EFL Cup,Third round,Tue,Home,W,1,0,Brighton,,,60,10372,Simon Francis,4-4-1-1,3-4-3,Kevin Friend,Match Report,Required Extra Time,2017-2018,Bournemouth
+2017-09-23,15:00,Premier League,Matchweek 6,Sat,Away,L,1,2,Everton,0.3,2.0,49,38133,Simon Francis,4-4-1-1,4-3-3,Martin Atkinson,Match Report,,2017-2018,Bournemouth
+2017-09-30,15:00,Premier League,Matchweek 7,Sat,Home,D,0,0,Leicester City,1.4,0.6,61,10444,Simon Francis,4-4-1-1,4-4-1-1,Graham Scott,Match Report,,2017-2018,Bournemouth
+2017-10-14,15:00,Premier League,Matchweek 8,Sat,Away,L,0,1,Tottenham,0.2,1.8,28,73502,Simon Francis,3-5-1-1,4-2-3-1,Robert Madley,Match Report,,2017-2018,Bournemouth
+2017-10-21,15:00,Premier League,Matchweek 9,Sat,Away,W,2,1,Stoke City,1.1,1.2,47,29500,Simon Francis,4-4-1-1,3-4-3,Lee Probert,Match Report,,2017-2018,Bournemouth
+2017-10-24,19:45,EFL Cup,Fourth round,Tue,Home,W,3,1,Middlesbrough,,,55,10254,Steve Cook,4-4-2,4-2-3-1,Simon Hooper,Match Report,,2017-2018,Bournemouth
+2017-10-28,17:30,Premier League,Matchweek 10,Sat,Home,L,0,1,Chelsea,0.5,1.6,42,10998,Simon Francis,3-4-1-2,3-4-3,Craig Pawson,Match Report,,2017-2018,Bournemouth
+2017-11-04,15:00,Premier League,Matchweek 11,Sat,Away,W,1,0,Newcastle Utd,1.5,0.7,52,52237,Simon Francis,4-4-2,4-4-2,Paul Tierney,Match Report,,2017-2018,Bournemouth
+2017-11-18,15:00,Premier League,Matchweek 12,Sat,Home,W,4,0,Huddersfield,0.7,1.2,31,10879,Simon Francis,4-4-1-1,4-2-3-1,Lee Probert,Match Report,,2017-2018,Bournemouth
+2017-11-25,15:00,Premier League,Matchweek 13,Sat,Away,D,0,0,Swansea City,0.4,0.9,51,20228,Andrew Surman,4-4-1-1,4-1-2-1-2,Stuart Attwell,Match Report,,2017-2018,Bournemouth
+2017-11-29,19:45,Premier League,Matchweek 14,Wed,Home,L,1,2,Burnley,1.2,1.1,62,10302,Simon Francis,4-4-1-1,4-4-1-1,Roger East,Match Report,,2017-2018,Bournemouth
+2017-12-03,13:30,Premier League,Matchweek 15,Sun,Home,D,1,1,Southampton,0.9,1.5,49,10764,Simon Francis,4-4-1-1,4-2-3-1,Jonathan Moss,Match Report,,2017-2018,Bournemouth
+2017-12-09,15:00,Premier League,Matchweek 16,Sat,Away,D,2,2,Crystal Palace,0.7,3.9,55,24823,Simon Francis,4-4-1-1,4-4-2,Kevin Friend,Match Report,,2017-2018,Bournemouth
+2017-12-13,20:00,Premier League,Matchweek 17,Wed,Away,L,0,1,Manchester Utd,0.8,1.1,43,74798,Simon Francis,4-4-1-1,4-2-3-1,Graham Scott,Match Report,,2017-2018,Bournemouth
+2017-12-17,16:30,Premier League,Matchweek 18,Sun,Home,L,0,4,Liverpool,0.6,2.5,44,10780,Simon Francis,4-4-1-1,4-3-3,Andre Marriner,Match Report,,2017-2018,Bournemouth
+2017-12-20,19:45,EFL Cup,Quarter-finals,Wed,Away,L,1,2,Chelsea,,,50,41168,Simon Francis,5-3-2,3-4-3,Lee Mason,Match Report,,2017-2018,Bournemouth
+2017-12-23,15:00,Premier League,Matchweek 19,Sat,Away,L,0,4,Manchester City,0.4,1.5,22,54270,Andrew Surman,3-4-3,4-3-3,Mike Jones,Match Report,,2017-2018,Bournemouth
+2017-12-26,15:00,Premier League,Matchweek 20,Tue,Home,D,3,3,West Ham,2.9,1.7,55,10596,Simon Francis,4-4-1-1,3-4-3,Stuart Attwell,Match Report,,2017-2018,Bournemouth
+2017-12-30,15:00,Premier League,Matchweek 21,Sat,Home,W,2,1,Everton,1.5,0.5,47,10497,Simon Francis,4-4-1-1,4-3-3,Lee Probert,Match Report,,2017-2018,Bournemouth
+2018-01-01,12:30,Premier League,Matchweek 22,Mon,Away,D,2,2,Brighton,1.5,2.4,51,30152,Simon Francis,4-4-2,4-4-1-1,Michael Oliver,Match Report,,2017-2018,Bournemouth
+2018-01-06,15:00,FA Cup,Third round,Sat,Home,D,2,2,Wigan Athletic,,,60,9894,Andrew Surman,4-4-2,4-2-3-1,Andy Madley,Match Report,,2017-2018,Bournemouth
+2018-01-14,13:30,Premier League,Matchweek 23,Sun,Home,W,2,1,Arsenal,0.8,1.1,41,10836,Simon Francis,3-4-3,3-4-3,Kevin Friend,Match Report,,2017-2018,Bournemouth
+2018-01-17,19:45,FA Cup,Third round,Wed,Away,L,0,3,Wigan Athletic,,,48,4709,Andrew Surman,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,,2017-2018,Bournemouth
+2018-01-20,15:00,Premier League,Matchweek 24,Sat,Away,D,1,1,West Ham,0.5,0.8,52,56948,Simon Francis,3-4-3,3-5-1-1,Martin Atkinson,Match Report,,2017-2018,Bournemouth
+2018-01-31,19:45,Premier League,Matchweek 25,Wed,Away,W,3,0,Chelsea,1.1,1.2,35,41464,Simon Francis,3-4-3,3-4-3,Lee Probert,Match Report,,2017-2018,Bournemouth
+2018-02-03,15:00,Premier League,Matchweek 26,Sat,Home,W,2,1,Stoke City,1.7,0.7,57,10614,Simon Francis,3-4-3,4-3-3,Paul Tierney,Match Report,,2017-2018,Bournemouth
+2018-02-11,12:00,Premier League,Matchweek 27,Sun,Away,L,1,4,Huddersfield,0.3,2.2,50,23823,Simon Francis,3-4-3,4-2-3-1,Michael Oliver,Match Report,,2017-2018,Bournemouth
+2018-02-24,15:00,Premier League,Matchweek 28,Sat,Home,D,2,2,Newcastle Utd,1.7,3.0,63,10808,Simon Francis,4-4-1-1,4-4-1-1,Roger East,Match Report,,2017-2018,Bournemouth
+2018-03-03,15:00,Premier League,Matchweek 29,Sat,Away,D,1,1,Leicester City,1.4,2.7,45,31384,Simon Francis,4-4-1-1,4-3-3,Lee Probert,Match Report,,2017-2018,Bournemouth
+2018-03-11,16:00,Premier League,Matchweek 30,Sun,Home,L,1,4,Tottenham,1.2,2.4,37,10623,Simon Francis,4-4-1-1,4-2-3-1,Mike Dean,Match Report,,2017-2018,Bournemouth
+2018-03-17,15:00,Premier League,Matchweek 31,Sat,Home,W,2,1,West Brom,0.7,1.6,60,10242,Simon Francis,4-4-1-1,3-5-2,Graham Scott,Match Report,,2017-2018,Bournemouth
+2018-03-31,15:00,Premier League,Matchweek 32,Sat,Away,D,2,2,Watford,1.7,0.7,50,20393,Steve Cook,4-4-1-1,4-2-3-1,Andy Madley,Match Report,,2017-2018,Bournemouth
+2018-04-07,15:00,Premier League,Matchweek 33,Sat,Home,D,2,2,Crystal Palace,1.9,1.1,53,10730,Simon Francis,4-4-1-1,4-4-2,Jonathan Moss,Match Report,,2017-2018,Bournemouth
+2018-04-14,17:30,Premier League,Matchweek 34,Sat,Away,L,0,3,Liverpool,0.3,2.0,39,52959,Simon Francis,5-4-1,4-3-3,Chris Kavanagh,Match Report,,2017-2018,Bournemouth
+2018-04-18,19:45,Premier League,Matchweek 35,Wed,Home,L,0,2,Manchester Utd,1.2,1.3,45,10952,Simon Francis,4-4-1-1,4-3-3,Graham Scott,Match Report,,2017-2018,Bournemouth
+2018-04-28,15:00,Premier League,Matchweek 36,Sat,Away,L,1,2,Southampton,0.7,1.5,60,31778,Simon Francis,3-4-3,3-4-3,Anthony Taylor,Match Report,,2017-2018,Bournemouth
+2018-05-05,15:00,Premier League,Matchweek 37,Sat,Home,W,1,0,Swansea City,1.9,1.3,45,10820,Simon Francis,3-4-3,3-4-3,Kevin Friend,Match Report,,2017-2018,Bournemouth
+2018-05-13,15:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,1.3,1.1,49,20720,Andrew Surman,3-4-3,4-4-1-1,Paul Tierney,Match Report,,2017-2018,Bournemouth

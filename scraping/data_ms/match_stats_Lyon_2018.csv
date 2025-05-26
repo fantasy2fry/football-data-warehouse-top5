@@ -1,0 +1,54 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-12,15:00,Ligue 1,Matchweek 1,Sun,Home,W,2,0,Amiens,1.4,0.4,67.0,48263.0,Marcelo,4-3-1-2,4-3-3,Franck Schneider,Match Report,,2018-2019,Lyon
+2018-08-17,20:45,Ligue 1,Matchweek 2,Fri,Away,L,0,1,Reims,1.1,0.6,66.0,18917.0,Marcelo,4-3-3,4-2-3-1,Ruddy Buquet,Match Report,,2018-2019,Lyon
+2018-08-24,20:45,Ligue 1,Matchweek 3,Fri,Home,W,2,0,Strasbourg,1.6,0.5,61.0,47341.0,Marcelo,4-3-3,4-2-3-1,Amaury Delerue,Match Report,,2018-2019,Lyon
+2018-08-31,20:45,Ligue 1,Matchweek 4,Fri,Home,L,0,1,Nice,1.9,0.6,58.0,53438.0,Nabil Fekir,4-2-3-1,5-3-2,François Letexier,Match Report,,2018-2019,Lyon
+2018-09-15,17:00,Ligue 1,Matchweek 5,Sat,Away,D,2,2,Caen,1.6,1.9,67.0,17676.0,Nabil Fekir,4-2-3-1,4-2-3-1,Johan Hamel,Match Report,,2018-2019,Lyon
+2018-09-19,20:00,Champions Lg,Group stage,Wed,Away,W,2,1,eng Manchester City,0.8,1.2,31.0,40111.0,Nabil Fekir,4-4-1-1,4-3-3,Daniele Orsato,Match Report,,2018-2019,Lyon
+2018-09-23,21:00,Ligue 1,Matchweek 6,Sun,Home,W,4,2,Marseille,1.9,0.6,56.0,57287.0,Nabil Fekir,4-4-1-1,4-2-3-1,Clément Turpin,Match Report,,2018-2019,Lyon
+2018-09-26,19:00,Ligue 1,Matchweek 7,Wed,Away,W,3,0,Dijon,2.5,1.6,48.0,14651.0,Anthony Lopes,4-3-3,3-5-2,Jérôme Miguelgorry,Match Report,,2018-2019,Lyon
+2018-09-29,20:00,Ligue 1,Matchweek 8,Sat,Home,D,1,1,Nantes,2.2,1.2,50.0,50319.0,Nabil Fekir,4-2-3-1,4-1-4-1,Franck Schneider,Match Report,,2018-2019,Lyon
+2018-10-02,21:00,Champions Lg,Group stage,Tue,Home,D,2,2,ua Shakhtar,2.8,1.6,51.0,,Nabil Fekir,4-2-3-1,4-2-3-1,Aleksandrs Golubevs,Match Report,,2018-2019,Lyon
+2018-10-07,21:00,Ligue 1,Matchweek 9,Sun,Away,L,0,5,Paris S-G,1.5,3.6,51.0,47443.0,Nabil Fekir,4-2-3-1,4-2-3-1,Antony Gautier,Match Report,,2018-2019,Lyon
+2018-10-19,20:45,Ligue 1,Matchweek 10,Fri,Home,W,2,0,Nîmes,1.9,1.4,60.0,42896.0,Anthony Lopes,4-1-2-1-2◆,4-3-3,Olivier Thual,Match Report,,2018-2019,Lyon
+2018-10-23,21:00,Champions Lg,Group stage,Tue,Away,D,3,3,de Hoffenheim,1.5,4.1,45.0,24144.0,Marcelo,4-3-3,3-4-3,Alberto Undiano,Match Report,,2018-2019,Lyon
+2018-10-27,17:00,Ligue 1,Matchweek 11,Sat,Away,W,2,1,Angers,1.7,1.3,68.0,14186.0,Marcelo,4-3-3,4-1-4-1,Ruddy Buquet,Match Report,,2018-2019,Lyon
+2018-11-03,17:00,Ligue 1,Matchweek 12,Sat,Home,D,1,1,Bordeaux,0.3,1.4,52.0,46653.0,Nabil Fekir,4-1-2-1-2◆,4-2-3-1,Benoît Millot,Match Report,,2018-2019,Lyon
+2018-11-07,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,de Hoffenheim,2.5,1.9,51.0,53850.0,Nabil Fekir,3-5-1-1,3-5-2,Danny Makkelie,Match Report,,2018-2019,Lyon
+2018-11-10,17:00,Ligue 1,Matchweek 13,Sat,Away,W,4,2,Guingamp,1.4,1.5,62.0,14171.0,Marcelo,3-5-1-1,4-3-3,Mikael Lesage,Match Report,,2018-2019,Lyon
+2018-11-23,21:00,Ligue 1,Matchweek 14,Fri,Home,W,1,0,Saint-Étienne,0.9,1.5,57.0,55701.0,Nabil Fekir,3-4-1-2,3-4-1-2,Antony Gautier,Match Report,,2018-2019,Lyon
+2018-11-27,21:00,Champions Lg,Group stage,Tue,Home,D,2,2,eng Manchester City,2.3,1.0,41.0,56039.0,Nabil Fekir,3-4-3,4-3-3,Luca Banti,Match Report,,2018-2019,Lyon
+2018-12-01,17:00,Ligue 1,Matchweek 15,Sat,Away,D,2,2,Lille,2.9,1.0,70.0,38755.0,Marcelo,3-4-1-2,4-2-3-1,Benoît Bastien,Match Report,,2018-2019,Lyon
+2018-12-05,19:00,Ligue 1,Matchweek 16,Wed,Home,L,0,2,Rennes,1.4,1.4,61.0,47278.0,Nabil Fekir,3-4-1-2,4-2-3-1,Johan Hamel,Match Report,,2018-2019,Lyon
+2018-12-12,22:00,Champions Lg,Group stage,Wed,Away,D,1,1,ua Shakhtar,1.3,1.1,47.0,38916.0,Nabil Fekir,3-4-1-2,4-2-3-1,Björn Kuipers,Match Report,,2018-2019,Lyon
+2018-12-16,21:00,Ligue 1,Matchweek 18,Sun,Home,W,3,0,Monaco,2.0,0.1,74.0,46477.0,Nabil Fekir,3-4-1-2,3-5-1-1,Clément Turpin,Match Report,,2018-2019,Lyon
+2018-12-19,18:45,Coupe de la Ligue,Round of 16,Wed,Away,W,3,2,Amiens,,,,7327.0,Tanguy Ndombele,3-1-4-2,4-2-3-1,Karim Abed,Match Report,,2018-2019,Lyon
+2018-12-22,21:00,Ligue 1,Matchweek 19,Sat,Away,D,1,1,Montpellier,0.4,0.9,56.0,17275.0,Nabil Fekir,3-4-1-2,3-4-1-2,François Letexier,Match Report,,2018-2019,Lyon
+2019-01-05,20:55,Coupe de France,Round of 64,Sat,Away,W,2,0,Bourges,,,72.0,8187.0,Anthony Lopes,3-1-4-2,4-2-3-1,Nicolas Rainville,Match Report,,2018-2019,Lyon
+2019-01-08,21:00,Coupe de la Ligue,Quarter-finals,Tue,Home,L,1,2,Strasbourg,,,,21721.0,Nabil Fekir,3-4-1-2,5-4-1,Clément Turpin,Match Report,,2018-2019,Lyon
+2019-01-11,20:45,Ligue 1,Matchweek 20,Fri,Home,D,1,1,Reims,1.4,1.1,67.0,42512.0,Nabil Fekir,3-4-1-2,4-3-3,Benoît Millot,Match Report,,2018-2019,Lyon
+2019-01-16,19:00,Ligue 1,Matchweek 17,Wed,Away,D,2,2,Toulouse,2.0,1.0,68.0,16587.0,Anthony Lopes,3-4-3,3-4-3,Ruddy Buquet,Match Report,,2018-2019,Lyon
+2019-01-20,21:00,Ligue 1,Matchweek 21,Sun,Away,W,2,1,Saint-Étienne,2.0,2.4,64.0,41594.0,Nabil Fekir,4-2-3-1,3-4-1-2,Benoît Bastien,Match Report,,2018-2019,Lyon
+2019-01-24,21:00,Coupe de France,Round of 32,Thu,Away,W,2,0,Amiens,,,59.0,6647.0,Nabil Fekir,4-2-3-1,4-4-1-1,Jérôme Brisard,Match Report,,2018-2019,Lyon
+2019-01-27,17:00,Ligue 1,Matchweek 22,Sun,Away,W,1,0,Amiens,1.2,0.7,63.0,10017.0,Nabil Fekir,4-2-3-1,4-4-1-1,Jérôme Miguelgorry,Match Report,,2018-2019,Lyon
+2019-02-03,21:00,Ligue 1,Matchweek 23,Sun,Home,W,2,1,Paris S-G,3.2,1.2,45.0,57624.0,Nabil Fekir,4-2-3-1,3-5-2,Clément Turpin,Match Report,,2018-2019,Lyon
+2019-02-07,21:00,Coupe de France,Round of 16,Thu,Away,W,2,1,Guingamp,,,61.0,8768.0,Nabil Fekir,4-2-3-1,4-3-3,Franck Schneider,Match Report,,2018-2019,Lyon
+2019-02-10,21:00,Ligue 1,Matchweek 24,Sun,Away,L,0,1,Nice,2.3,1.5,56.0,22193.0,Nabil Fekir,4-2-3-1,4-3-3,Mikael Lesage,Match Report,,2018-2019,Lyon
+2019-02-15,20:45,Ligue 1,Matchweek 25,Fri,Home,W,2,1,Guingamp,1.7,1.6,71.0,40305.0,Nabil Fekir,4-2-3-1,4-1-4-1,Antony Gautier,Match Report,,2018-2019,Lyon
+2019-02-19,21:00,Champions Lg,Round of 16,Tue,Home,D,0,0,es Barcelona,0.3,2.1,38.0,57889.0,Marcelo,4-4-2,4-3-3,Cüneyt Çakιr,Match Report,Leg 1 of 2,2018-2019,Lyon
+2019-02-24,21:00,Ligue 1,Matchweek 26,Sun,Away,L,0,2,Monaco,1.4,0.7,57.0,10157.0,Marcelo,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2018-2019,Lyon
+2019-02-27,21:00,Coupe de France,Quarter-finals,Wed,Home,W,3,1,Caen,,,57.0,27493.0,Marcelo,4-3-3,3-5-2,Ruddy Buquet,Match Report,,2018-2019,Lyon
+2019-03-03,17:00,Ligue 1,Matchweek 27,Sun,Home,W,5,1,Toulouse,3.8,0.4,62.0,44881.0,Nabil Fekir,4-2-3-1,5-4-1,Thomas Léonard,Match Report,,2018-2019,Lyon
+2019-03-09,17:00,Ligue 1,Matchweek 28,Sat,Away,D,2,2,Strasbourg,3.9,0.9,54.0,25463.0,Marcelo,4-3-3,3-1-4-2,Jérôme Miguelgorry,Match Report,,2018-2019,Lyon
+2019-03-13,21:00,Champions Lg,Round of 16,Wed,Away,L,1,5,es Barcelona,0.6,4.3,45.0,92346.0,Nabil Fekir,3-4-1-2,4-3-3,Szymon Marciniak,Match Report,Leg 2 of 2; Barcelona won,2018-2019,Lyon
+2019-03-17,14:30,Ligue 1,Matchweek 29,Sun,Home,W,3,2,Montpellier,2.7,0.6,65.0,47134.0,Nabil Fekir,4-2-3-1,3-4-3,Clément Turpin,Match Report,,2018-2019,Lyon
+2019-03-29,20:45,Ligue 1,Matchweek 30,Fri,Away,W,1,0,Rennes,1.9,1.3,56.0,27094.0,Nabil Fekir,4-1-2-1-2◆,4-4-2,Antony Gautier,Match Report,,2018-2019,Lyon
+2019-04-02,21:10,Coupe de France,Semi-finals,Tue,Home,L,2,3,Rennes,,,59.0,47195.0,Nabil Fekir,4-4-2◆,4-2-3-1,Benoît Bastien,Match Report,,2018-2019,Lyon
+2019-04-06,17:00,Ligue 1,Matchweek 31,Sat,Home,L,1,3,Dijon,3.1,1.0,63.0,52431.0,Nabil Fekir,4-2-3-1,4-1-4-1,Johan Hamel,Match Report,,2018-2019,Lyon
+2019-04-12,20:45,Ligue 1,Matchweek 32,Fri,Away,L,1,2,Nantes,1.3,1.0,62.0,25050.0,Anthony Lopes,4-3-3,4-3-3,Jérôme Brisard,Match Report,,2018-2019,Lyon
+2019-04-19,20:45,Ligue 1,Matchweek 33,Fri,Home,W,2,1,Angers,3.0,0.8,64.0,43917.0,Nabil Fekir,4-2-3-1,4-1-4-1,Benoît Millot,Match Report,,2018-2019,Lyon
+2019-04-26,20:45,Ligue 1,Matchweek 34,Fri,Away,W,3,2,Bordeaux,2.4,1.0,63.0,27455.0,Nabil Fekir,4-2-3-1,3-4-3,Benoît Bastien,Match Report,,2018-2019,Lyon
+2019-05-05,21:00,Ligue 1,Matchweek 35,Sun,Home,D,2,2,Lille,1.7,1.8,61.0,56642.0,Nabil Fekir,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2018-2019,Lyon
+2019-05-12,21:00,Ligue 1,Matchweek 36,Sun,Away,W,3,0,Marseille,1.6,1.6,52.0,61707.0,Nabil Fekir,4-2-3-1,4-3-3,Ruddy Buquet,Match Report,,2018-2019,Lyon
+2019-05-18,21:00,Ligue 1,Matchweek 37,Sat,Home,W,4,0,Caen,3.1,0.3,59.0,51408.0,Jérémy Morel,4-2-3-1,4-2-3-1,Amaury Delerue,Match Report,,2018-2019,Lyon
+2019-05-24,21:05,Ligue 1,Matchweek 38,Fri,Away,W,3,2,Nîmes,1.4,1.5,59.0,14986.0,Jérémy Morel,4-2-3-1,4-3-3,François Letexier,Match Report,,2018-2019,Lyon

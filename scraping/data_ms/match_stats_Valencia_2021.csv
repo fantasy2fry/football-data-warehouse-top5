@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-13,21:00,La Liga,Matchweek 1,Fri,Home,W,1,0,Getafe,1.5,1.4,27,9868.0,José Luis Gayà,4-4-2,5-3-2,Jesús Gil,Match Report,,2021-2022,Valencia
+2021-08-21,19:30,La Liga,Matchweek 2,Sat,Away,D,1,1,Granada,1.5,1.1,53,6267.0,José Luis Gayà,4-4-2,5-3-2,Carlos del Cerro,Match Report,,2021-2022,Valencia
+2021-08-27,22:15,La Liga,Matchweek 3,Fri,Home,W,3,0,Alavés,1.6,0.4,49,10627.0,José Luis Gayà,4-4-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Valencia
+2021-09-12,16:15,La Liga,Matchweek 4,Sun,Away,W,4,1,Osasuna,0.9,0.6,42,13940.0,José Luis Gayà,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,2021-2022,Valencia
+2021-09-19,21:00,La Liga,Matchweek 5,Sun,Home,L,1,2,Real Madrid,0.9,1.3,39,26689.0,Carlos Soler,4-4-2,4-4-1-1,Pablo González,Match Report,,2021-2022,Valencia
+2021-09-22,19:30,La Liga,Matchweek 6,Wed,Away,L,1,3,Sevilla,0.4,1.0,42,23654.0,Gabriel Paulista,4-4-2,4-3-3,José Sánchez,Match Report,,2021-2022,Valencia
+2021-09-25,16:15,La Liga,Matchweek 7,Sat,Home,D,1,1,Athletic Club,0.9,0.8,52,13680.0,Gabriel Paulista,4-4-2,4-4-2,Alejandro Hernández,Match Report,,2021-2022,Valencia
+2021-10-02,18:30,La Liga,Matchweek 8,Sat,Away,D,0,0,Cádiz,1.1,0.2,67,14794.0,Gabriel Paulista,4-4-2,4-4-2,Valentín Pizarro,Match Report,,2021-2022,Valencia
+2021-10-17,21:00,La Liga,Matchweek 9,Sun,Away,L,1,3,Barcelona,0.4,1.9,40,47317.0,José Luis Gayà,4-1-4-1,4-3-3,Jesús Gil,Match Report,,2021-2022,Valencia
+2021-10-23,14:00,La Liga,Matchweek 10,Sat,Home,D,2,2,Mallorca,1.8,0.6,73,29139.0,José Luis Gayà,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,2021-2022,Valencia
+2021-10-27,20:00,La Liga,Matchweek 11,Wed,Away,L,1,4,Betis,1.6,2.0,40,43123.0,José Luis Gayà,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,2021-2022,Valencia
+2021-10-30,18:30,La Liga,Matchweek 12,Sat,Home,W,2,0,Villarreal,1.1,0.8,26,31487.0,José Luis Gayà,4-1-4-1,4-4-1-1,José Luis Munuera,Match Report,,2021-2022,Valencia
+2021-11-07,16:15,La Liga,Matchweek 13,Sun,Home,D,3,3,Atlético Madrid,1.1,2.3,48,37472.0,José Luis Gayà,4-1-4-1,3-4-3,César Soto,Match Report,,2021-2022,Valencia
+2021-11-21,21:00,La Liga,Matchweek 14,Sun,Away,D,0,0,Real Sociedad,0.7,0.3,38,28635.0,José Luis Gayà,4-2-3-1,4-2-3-1,Mario Melero,Match Report,,2021-2022,Valencia
+2021-11-27,16:15,La Liga,Matchweek 15,Sat,Home,D,1,1,Rayo Vallecano,1.6,1.2,42,30030.0,José Luis Gayà,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2021-2022,Valencia
+2021-12-02,19:30,Copa del Rey,First round,Thu,Away,W,3,0,CD Utrillas,,,76,1800.0,Jaume Doménech,4-4-2,3-4-3,César Soto,Match Report,,2021-2022,Valencia
+2021-12-05,21:00,La Liga,Matchweek 16,Sun,Away,W,2,1,Celta Vigo,1.3,0.9,34,11361.0,José Luis Gayà,4-5-1,4-1-3-2,Ricardo de Burgos,Match Report,,2021-2022,Valencia
+2021-12-11,18:30,La Liga,Matchweek 17,Sat,Home,W,2,1,Elche,1.6,0.9,42,31662.0,Carlos Soler,4-4-2,4-4-2,Santiago Jaime,Match Report,,2021-2022,Valencia
+2021-12-16,19:00,Copa del Rey,Second round,Thu,Away,W,3,1,Arenteiro,,,55,2000.0,José Luis Gayà,4-4-2,5-3-2,José Luis Munuera,Match Report,Required Extra Time,2021-2022,Valencia
+2021-12-20,21:00,La Liga,Matchweek 18,Mon,Away,W,4,3,Levante,2.1,2.7,48,18851.0,José Luis Gayà,4-1-4-1,4-4-2,Pablo González,Match Report,,2021-2022,Valencia
+2021-12-31,16:15,La Liga,Matchweek 19,Fri,Home,L,1,2,Espanyol,0.7,2.0,37,29566.0,Carlos Soler,4-4-2,4-3-3,José Sánchez,Match Report,,2021-2022,Valencia
+2022-01-05,16:00,Copa del Rey,Round of 32,Wed,Away,W,2,1,Cartagena,,,36,10773.0,Jaume Doménech,4-3-3,4-2-3-1,Pablo González,Match Report,,2021-2022,Valencia
+2022-01-08,21:00,La Liga,Matchweek 20,Sat,Away,L,1,4,Real Madrid,1.3,3.9,33,40617.0,José Luis Gayà,4-4-2,4-3-3,Alejandro Hernández,Match Report,,2021-2022,Valencia
+2022-01-16,12:00,Copa del Rey,Round of 16,Sun,Away,W,1,0,Atlético Baleares,,,40,6000.0,José Luis Gayà,3-4-1-2,3-5-2,Pablo González,Match Report,,2021-2022,Valencia
+2022-01-19,21:30,La Liga,Matchweek 21,Wed,Home,D,1,1,Sevilla,0.5,0.9,33,26049.0,José Luis Gayà,5-3-2,4-3-3,César Soto,Match Report,,2021-2022,Valencia
+2022-01-22,21:00,La Liga,Matchweek 22,Sat,Away,L,2,3,Atlético Madrid,0.7,2.5,36,44999.0,Jaume Doménech,5-3-2,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Valencia
+2022-02-02,21:00,Copa del Rey,Quarter-finals,Wed,Home,W,2,1,Cádiz,,,46,30591.0,José Luis Gayà,4-1-3-2,4-4-2,Alberola Rojas,Match Report,,2021-2022,Valencia
+2022-02-06,14:00,La Liga,Matchweek 23,Sun,Home,D,0,0,Real Sociedad,1.1,0.4,40,31351.0,José Luis Gayà,5-3-2,4-3-3,José Sánchez,Match Report,,2021-2022,Valencia
+2022-02-10,21:30,Copa del Rey,Semi-finals,Thu,Away,D,1,1,Athletic Club,,,44,42906.0,José Luis Gayà,4-3-3,4-4-2,José Luis Munuera,Match Report,Leg 1 of 2,2021-2022,Valencia
+2022-02-13,14:00,La Liga,Matchweek 24,Sun,Away,L,1,2,Alavés,1.2,1.8,59,12845.0,Carlos Soler,4-4-2,4-1-4-1,Adrián Cordero,Match Report,,2021-2022,Valencia
+2022-02-20,16:15,La Liga,Matchweek 25,Sun,Home,L,1,4,Barcelona,0.8,2.0,36,38315.0,José Luis Gayà,4-4-2,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Valencia
+2022-02-26,14:00,La Liga,Matchweek 26,Sat,Away,W,1,0,Mallorca,0.6,1.8,33,14417.0,Carlos Soler,3-4-1-2,4-2-3-1,Jorge Figueroa,Match Report,,2021-2022,Valencia
+2022-03-02,21:30,Copa del Rey,Semi-finals,Wed,Home,W,1,0,Athletic Club,,,36,,José Luis Gayà,3-4-3,4-4-2,Jesús Gil,Match Report,Leg 2 of 2; Valencia won,2021-2022,Valencia
+2022-03-05,18:30,La Liga,Matchweek 27,Sat,Home,W,3,1,Granada,1.6,0.4,52,31227.0,Jaume Doménech,4-3-3,4-5-1,Valentín Pizarro,Match Report,,2021-2022,Valencia
+2022-03-12,21:00,La Liga,Matchweek 28,Sat,Away,D,0,0,Getafe,0.2,0.9,47,10349.0,Carlos Soler,3-4-3,5-3-2,Guillermo Cuadra,Match Report,,2021-2022,Valencia
+2022-03-19,16:15,La Liga,Matchweek 29,Sat,Away,W,1,0,Elche,0.9,0.6,44,15780.0,Carlos Soler,4-1-4-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2021-2022,Valencia
+2022-04-03,18:30,La Liga,Matchweek 30,Sun,Home,D,0,0,Cádiz,0.2,0.1,51,32949.0,Carlos Soler,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Valencia
+2022-04-11,21:00,La Liga,Matchweek 31,Mon,Away,D,1,1,Rayo Vallecano,0.5,0.6,45,9302.0,José Luis Gayà,4-1-4-1,4-2-3-1,Ricardo de Burgos,Match Report,,2021-2022,Valencia
+2022-04-16,18:30,La Liga,Matchweek 32,Sat,Home,L,1,2,Osasuna,1.3,1.1,51,30148.0,José Luis Gayà,4-4-2,4-4-2,Mario Melero,Match Report,,2021-2022,Valencia
+2022-04-19,21:30,La Liga,Matchweek 33,Tue,Away,L,0,2,Villarreal,0.3,2.4,42,13570.0,Carlos Soler,3-5-1-1,4-4-1-1,José Luis Munuera,Match Report,,2021-2022,Valencia
+2022-04-23,22:00,Copa del Rey,Final,Sat,Away,D,1 (4),1 (5),Betis,,,36,53387.0,José Luis Gayà,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,Betis won on penalty kicks following extra time,2021-2022,Valencia
+2022-04-30,18:30,La Liga,Matchweek 34,Sat,Home,D,1,1,Levante,0.5,1.3,32,35099.0,José Luis Gayà,5-3-2,5-3-2,Jorge Figueroa,Match Report,,2021-2022,Valencia
+2022-05-07,16:15,La Liga,Matchweek 35,Sat,Away,D,0,0,Athletic Club,0.1,1.3,41,41091.0,Carlos Soler,5-3-2,4-4-2,Isidro Díaz de Mera,Match Report,,2021-2022,Valencia
+2022-05-10,19:00,La Liga,Matchweek 36,Tue,Home,L,0,3,Betis,1.2,1.6,45,28091.0,Carlos Soler,5-3-2,4-2-3-1,Carlos del Cerro,Match Report,,2021-2022,Valencia
+2022-05-14,18:30,La Liga,Matchweek 37,Sat,Away,D,1,1,Espanyol,1.6,0.7,52,14990.0,José Luis Gayà,5-3-2,4-4-2,Alejandro Muñíz,Match Report,,2021-2022,Valencia
+2022-05-21,17:30,La Liga,Matchweek 38,Sat,Home,W,2,0,Celta Vigo,1.5,0.9,45,16189.0,José Luis Gayà,4-4-2,4-1-3-2,Adrián Cordero,Match Report,,2021-2022,Valencia

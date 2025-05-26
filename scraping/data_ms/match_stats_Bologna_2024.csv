@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,18:30,Serie A,Matchweek 1,Sun,Home,D,1,1,Udinese,3.2,0.9,73,26418.0,Riccardo Orsolini,4-2-3-1,3-4-3,Maria Sole Ferrieri Caputi,Match Report,,2024-2025,Bologna
+2024-08-25,20:45,Serie A,Matchweek 2,Sun,Away,L,0,3,Napoli,0.6,2.5,61,45000.0,Riccardo Orsolini,4-3-3,3-4-3,Luca Pairetto,Match Report,,2024-2025,Bologna
+2024-08-31,18:30,Serie A,Matchweek 3,Sat,Home,D,1,1,Empoli,1.3,1.0,69,25960.0,Riccardo Orsolini,4-3-3,3-4-3,Livio Marinelli,Match Report,,2024-2025,Bologna
+2024-09-14,15:00,Serie A,Matchweek 4,Sat,Away,D,2,2,Como,1.2,1.2,56,10584.0,Riccardo Orsolini,4-1-4-1,4-2-3-1,Marco Piccinini,Match Report,,2024-2025,Bologna
+2024-09-18,18:45,Champions Lg,League phase,Wed,Home,D,0,0,ua Shakhtar,1.2,0.9,48,23130.0,Riccardo Orsolini,4-3-3,4-2-3-1,Rohit Saggi,Match Report,,2024-2025,Bologna
+2024-09-22,15:00,Serie A,Matchweek 5,Sun,Away,W,2,1,Monza,0.8,0.6,57,9991.0,Lorenzo De Silvestri,4-3-3,3-4-3,Davide Massa,Match Report,,2024-2025,Bologna
+2024-09-28,20:45,Serie A,Matchweek 6,Sat,Home,D,1,1,Atalanta,0.1,2.0,36,27126.0,Remo Freuler,4-3-3,3-4-1-2,Antonio Rapuano,Match Report,,2024-2025,Bologna
+2024-10-02,20:00,Champions Lg,League phase,Wed,Away,L,0,2,eng Liverpool,0.6,1.2,49,59816.0,Remo Freuler,4-1-4-1,4-2-3-1,Nikola Dabanović,Match Report,,2024-2025,Bologna
+2024-10-06,15:00,Serie A,Matchweek 7,Sun,Home,D,0,0,Parma,0.8,0.8,71,28400.0,Sam Beukema,4-3-3,4-2-3-1,Marco Di Bello,Match Report,,2024-2025,Bologna
+2024-10-19,15:00,Serie A,Matchweek 8,Sat,Away,D,2,2,Genoa,0.7,0.4,61,30000.0,Remo Freuler,4-2-3-1,3-5-1-1,Daniele Doveri,Match Report,,2024-2025,Bologna
+2024-10-22,20:00,Champions Lg,League phase,Tue,Away,L,0,2,eng Aston Villa,0.9,1.2,47,41847.0,Sam Beukema,4-3-3,4-2-3-1,João Pinheiro,Match Report,,2024-2025,Bologna
+2024-10-29,18:30,Serie A,Matchweek 10,Tue,Away,W,2,0,Cagliari,0.9,0.8,58,15977.0,Lorenzo De Silvestri,4-2-3-1,4-4-2,Francesco Fourneau,Match Report,,2024-2025,Bologna
+2024-11-02,15:00,Serie A,Matchweek 11,Sat,Home,W,1,0,Lecce,1.4,0.7,72,25000.0,Lorenzo De Silvestri,4-2-3-1,4-5-1,Giuseppe Collu,Match Report,,2024-2025,Bologna
+2024-11-05,21:00,Champions Lg,League phase,Tue,Home,L,0,1,fr Monaco,0.5,0.9,47,23084.0,Remo Freuler,4-2-3-1,4-2-3-1,Əliyar Ağayev,Match Report,,2024-2025,Bologna
+2024-11-10,15:00,Serie A,Matchweek 12,Sun,Away,W,3,2,Roma,1.7,1.3,46,50500.0,Lorenzo De Silvestri,4-2-3-1,3-4-3,Gianluca Manganiello,Match Report,,2024-2025,Bologna
+2024-11-24,20:45,Serie A,Matchweek 13,Sun,Away,L,0,3,Lazio,0.1,2.0,30,40000.0,Lorenzo De Silvestri,4-2-3-1,4-3-3,Antonio Rapuano,Match Report,,2024-2025,Bologna
+2024-11-27,21:00,Champions Lg,League phase,Wed,Home,L,1,2,fr Lille,1.7,2.1,57,22420.0,Lewis Ferguson,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2024-2025,Bologna
+2024-11-30,20:45,Serie A,Matchweek 14,Sat,Home,W,3,0,Venezia,3.2,0.4,60,24866.0,Lorenzo De Silvestri,4-2-3-1,3-4-3,Luca Massimi,Match Report,,2024-2025,Bologna
+2024-12-03,18:30,Coppa Italia,Round of 16,Tue,Home,W,4,0,Monza,,,53,11952.0,Lewis Ferguson,4-2-3-1,4-4-2,Maria Sole Ferrieri Caputi,Match Report,,2024-2025,Bologna
+2024-12-07,18:00,Serie A,Matchweek 15,Sat,Away,D,2,2,Juventus,0.9,1.0,46,40748.0,Remo Freuler,4-2-3-1,4-2-3-1,Matteo Marchetti,Match Report,,2024-2025,Bologna
+2024-12-11,20:00,Champions Lg,League phase,Wed,Away,D,0,0,pt Benfica,0.2,1.3,50,60650.0,Lewis Ferguson,4-2-3-1,4-3-3,Radu Petrescu,Match Report,,2024-2025,Bologna
+2024-12-15,15:00,Serie A,Matchweek 16,Sun,Home,W,1,0,Fiorentina,1.2,1.0,50,26000.0,Lorenzo De Silvestri,4-2-3-1,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Bologna
+2024-12-21,15:00,Serie A,Matchweek 17,Sat,Away,W,2,0,Torino,1.7,0.3,58,19860.0,Lewis Ferguson,4-2-3-1,3-5-2,Marco Piccinini,Match Report,,2024-2025,Bologna
+2024-12-30,20:45,Serie A,Matchweek 18,Mon,Home,L,2,3,Hellas Verona,2.2,0.8,67,26454.0,Remo Freuler,4-2-3-1,5-3-2,Giovanni Ayroldi,Match Report,,2024-2025,Bologna
+2025-01-12,18:00,Serie A,Matchweek 20,Sun,Home,D,2,2,Roma,2.0,1.4,54,30226.0,Lewis Ferguson,4-2-3-1,3-5-2,Rosario Abisso,Match Report,,2024-2025,Bologna
+2025-01-15,20:45,Serie A,Matchweek 19,Wed,Away,D,2,2,Inter,0.6,1.7,52,63074.0,Remo Freuler,4-2-3-1,3-5-2,Luca Pairetto,Match Report,,2024-2025,Bologna
+2025-01-18,15:00,Serie A,Matchweek 21,Sat,Home,W,3,1,Monza,1.8,0.5,58,23381.0,Lewis Ferguson,4-2-3-1,4-4-2,Maurizio Mariani,Match Report,,2024-2025,Bologna
+2025-01-21,21:00,Champions Lg,League phase,Tue,Home,W,2,1,de Dortmund,2.1,1.0,53,26801.0,Lewis Ferguson,4-2-3-1,4-3-3,Serdar Gözübüyük,Match Report,,2024-2025,Bologna
+2025-01-25,20:45,Serie A,Matchweek 22,Sat,Away,D,1,1,Empoli,0.7,0.6,63,10321.0,Remo Freuler,4-2-3-1,3-4-3,Federico La Penna,Match Report,,2024-2025,Bologna
+2025-01-29,20:00,Champions Lg,League phase,Wed,Away,D,1,1,pt Sporting CP,1.1,1.3,43,37328.0,Lewis Ferguson,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Bologna
+2025-02-01,20:45,Serie A,Matchweek 23,Sat,Home,W,2,0,Como,1.5,0.5,50,26492.0,Lorenzo De Silvestri,4-2-3-1,4-1-4-1,Luca Massimi,Match Report,,2024-2025,Bologna
+2025-02-04,21:00,Coppa Italia,Quarter-finals,Tue,Away,W,1,0,Atalanta,,,45,20492.0,Remo Freuler,4-2-3-1,3-4-1-2,Livio Marinelli,Match Report,,2024-2025,Bologna
+2025-02-09,18:00,Serie A,Matchweek 24,Sun,Away,D,0,0,Lecce,0.8,0.4,58,24910.0,Lorenzo De Silvestri,4-2-3-1,4-2-3-1,Francesco Fourneau,Match Report,,2024-2025,Bologna
+2025-02-14,20:45,Serie A,Matchweek 25,Fri,Home,W,3,2,Torino,2.3,1.0,65,24274.0,Remo Freuler,4-2-3-1,4-2-3-1,Michael Fabbri,Match Report,,2024-2025,Bologna
+2025-02-22,15:00,Serie A,Matchweek 26,Sat,Away,L,0,2,Parma,0.7,1.1,74,19510.0,Remo Freuler,4-3-3,4-3-3,Rosario Abisso,Match Report,,2024-2025,Bologna
+2025-02-27,20:45,Serie A,Matchweek 9,Thu,Home,W,2,1,Milan,2.0,0.8,57,31784.0,Lorenzo De Silvestri,4-2-3-1,4-2-3-1,Maurizio Mariani,Match Report,,2024-2025,Bologna
+2025-03-02,15:00,Serie A,Matchweek 27,Sun,Home,W,2,1,Cagliari,2.1,0.5,61,25676.0,Remo Freuler,4-2-3-1,4-4-2,Luca Zufferli,Match Report,,2024-2025,Bologna
+2025-03-09,12:30,Serie A,Matchweek 28,Sun,Away,W,2,1,Hellas Verona,1.3,1.2,67,24612.0,Lewis Ferguson,4-2-3-1,3-4-3,Antonio Rapuano,Match Report,,2024-2025,Bologna
+2025-03-16,15:00,Serie A,Matchweek 29,Sun,Home,W,5,0,Lazio,2.2,0.5,51,30846.0,Lewis Ferguson,4-2-3-1,4-2-3-1,Andrea Colombo,Match Report,,2024-2025,Bologna
+2025-03-29,15:00,Serie A,Matchweek 30,Sat,Away,W,1,0,Venezia,1.0,0.8,59,9864.0,Lewis Ferguson,4-2-3-1,3-5-2,Marco Di Bello,Match Report,,2024-2025,Bologna
+2025-04-01,21:00,Coppa Italia,Semi-finals,Tue,Away,W,3,0,Empoli,,,67,11721.0,Lewis Ferguson,4-2-3-1,4-4-2,Luca Zufferli,Match Report,Leg 1 of 2,2024-2025,Bologna
+2025-04-07,20:45,Serie A,Matchweek 31,Mon,Home,D,1,1,Napoli,0.8,1.2,61,31974.0,Remo Freuler,4-2-3-1,4-3-3,Davide Massa,Match Report,,2024-2025,Bologna
+2025-04-13,12:30,Serie A,Matchweek 32,Sun,Away,L,0,2,Atalanta,0.6,1.0,59,23156.0,Lorenzo De Silvestri,4-2-3-1,3-4-3,Maurizio Mariani,Match Report,,2024-2025,Bologna
+2025-04-20,18:00,Serie A,Matchweek 33,Sun,Home,W,1,0,Inter,0.8,0.5,48,31978.0,Remo Freuler,4-2-3-1,3-5-2,Andrea Colombo,Match Report,,2024-2025,Bologna
+2025-04-24,21:00,Coppa Italia,Semi-finals,Thu,Home,W,2,1,Empoli,,,70,27033.0,Lorenzo De Silvestri,4-2-3-1,3-4-3,Matteo Marcenaro,Match Report,Leg 2 of 2; Bologna won,2024-2025,Bologna
+2025-04-28,18:30,Serie A,Matchweek 34,Mon,Away,D,0,0,Udinese,1.6,0.5,64,23414.0,Remo Freuler,4-2-3-1,5-4-1,Fabio Maresca,Match Report,,2024-2025,Bologna
+2025-05-04,20:45,Serie A,Matchweek 35,Sun,Home,D,1,1,Juventus,0.4,0.8,64,30846.0,Lorenzo De Silvestri,4-2-3-1,3-4-1-2,Daniele Doveri,Match Report,,2024-2025,Bologna
+2025-05-09,20:45,Serie A,Matchweek 36,Fri,Away,L,1,3,Milan,0.6,1.6,53,71076.0,Lorenzo De Silvestri,4-3-3,3-4-3,Livio Marinelli,Match Report,,2024-2025,Bologna
+2025-05-14,21:00,Coppa Italia,Final,Wed,Neutral,W,1,0,Milan,,,46,68500.0,Lewis Ferguson,4-3-3,3-4-3,Maurizio Mariani,Match Report,,2024-2025,Bologna
+2025-05-18,20:45,Serie A,Matchweek 37,Sun,Away,L,2,3,Fiorentina,2.4,1.8,60,,Lewis Ferguson,4-2-3-1,4-5-1,Luca Zufferli,Match Report,,2024-2025,Bologna
+2025-05-24,18:00,Serie A,Matchweek 38,Sat,Home,L,1,3,Genoa,0.7,0.9,60,,Lewis Ferguson,4-2-3-1,4-2-3-1,Marco Monaldi,Match Report,,2024-2025,Bologna

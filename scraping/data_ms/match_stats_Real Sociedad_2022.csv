@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-14,17:30,La Liga,Matchweek 1,Sun,Away,W,1,0,Cádiz,1.7,0.2,59,16570,Aritz Elustondo,4-1-2-1-2◆,4-4-2,Isidro Díaz de Mera,Match Report,,2022-2023,Real Sociedad
+2022-08-21,22:00,La Liga,Matchweek 2,Sun,Home,L,1,4,Barcelona,0.8,2.1,42,36201,Aritz Elustondo,4-1-2-1-2◆,3-2-4-1,José Luis Munuera,Match Report,,2022-2023,Real Sociedad
+2022-08-27,17:30,La Liga,Matchweek 3,Sat,Away,W,1,0,Elche,1.8,0.7,55,22656,Mikel Merino,4-1-2-1-2◆,4-4-2,Javier Villanueva,Match Report,,2022-2023,Real Sociedad
+2022-09-03,18:30,La Liga,Matchweek 4,Sat,Home,D,1,1,Atlético Madrid,1.4,1.1,54,35366,Mikel Merino,4-1-2-1-2◆,3-1-4-2,César Soto,Match Report,,2022-2023,Real Sociedad
+2022-09-08,20:00,Europa Lg,Group stage,Thu,Away,W,1,0,eng Manchester Utd,1.1,0.8,45,74310,Aritz Elustondo,4-1-4-1,4-2-3-1,Marco Di Bello,Match Report,,2022-2023,Real Sociedad
+2022-09-11,18:30,La Liga,Matchweek 5,Sun,Away,L,1,2,Getafe,1.2,1.1,66,11112,Mikel Merino,4-1-2-1-2◆,5-3-2,Juan Pulido,Match Report,,2022-2023,Real Sociedad
+2022-09-15,18:45,Europa Lg,Group stage,Thu,Home,W,2,1,cy AC Omonia,1.1,0.2,70,28587,Asier Illarramendi,4-3-3,3-5-2,Kristo Tohver,Match Report,,2022-2023,Real Sociedad
+2022-09-18,18:30,La Liga,Matchweek 6,Sun,Home,W,2,1,Espanyol,1.9,0.8,62,31511,Aritz Elustondo,4-1-3-2,5-3-2,Carlos del Cerro,Match Report,,2022-2023,Real Sociedad
+2022-10-02,18:30,La Liga,Matchweek 7,Sun,Away,W,5,3,Girona,2.1,1.0,59,12217,Aritz Elustondo,4-4-2,5-3-2,Mario Melero,Match Report,,2022-2023,Real Sociedad
+2022-10-06,19:45,Europa Lg,Group stage,Thu,Away,W,2,0,md Sheriff Tiraspol,1.5,0.4,65,5427,Aritz Elustondo,4-2-3-1,3-5-2,Harald Lechner,Match Report,,2022-2023,Real Sociedad
+2022-10-09,18:30,La Liga,Matchweek 8,Sun,Home,W,1,0,Villarreal,1.2,0.2,60,32689,Aritz Elustondo,4-1-3-2,4-4-2,César Soto,Match Report,,2022-2023,Real Sociedad
+2022-10-13,21:00,Europa Lg,Group stage,Thu,Home,W,3,0,md Sheriff Tiraspol,2.2,0.2,68,25806,Aritz Elustondo,4-1-2-1-2◆,5-3-2,Enea Jorgji,Match Report,,2022-2023,Real Sociedad
+2022-10-16,14:00,La Liga,Matchweek 9,Sun,Away,W,2,1,Celta Vigo,0.8,0.5,47,13101,Asier Illarramendi,4-4-2,4-1-3-2,Guillermo Cuadra,Match Report,,2022-2023,Real Sociedad
+2022-10-19,20:00,La Liga,Matchweek 10,Wed,Home,W,1,0,Mallorca,1.2,0.9,51,27085,Aritz Elustondo,4-1-3-2,5-4-1,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Real Sociedad
+2022-10-22,16:15,La Liga,Matchweek 11,Sat,Away,L,0,1,Valladolid,0.9,0.8,74,21175,Mikel Merino,4-1-3-2,3-5-2,Jorge Figueroa,Match Report,,2022-2023,Real Sociedad
+2022-10-27,22:00,Europa Lg,Group stage,Thu,Away,W,2,0,cy AC Omonia,1.3,0.3,63,11780,Asier Illarramendi,4-5-1,4-2-3-1,Tamás Bognár,Match Report,,2022-2023,Real Sociedad
+2022-10-30,21:00,La Liga,Matchweek 12,Sun,Home,L,0,2,Betis,0.9,1.3,58,32435,Mikel Merino,4-1-3-2,4-2-3-1,Javier Villanueva,Match Report,,2022-2023,Real Sociedad
+2022-11-03,18:45,Europa Lg,Group stage,Thu,Home,L,0,1,eng Manchester Utd,1.1,0.7,47,36744,Mikel Merino,4-3-1-2,4-2-3-1,Georgi Kabakov,Match Report,,2022-2023,Real Sociedad
+2022-11-06,16:15,La Liga,Matchweek 13,Sun,Home,D,1,1,Valencia,1.1,0.9,29,32773,Asier Illarramendi,4-3-1-2,4-3-3,José Luis Munuera,Match Report,,2022-2023,Real Sociedad
+2022-11-09,19:00,La Liga,Matchweek 14,Wed,Away,W,2,1,Sevilla,1.7,0.6,68,34814,Mikel Merino,4-3-1-2,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Real Sociedad
+2022-11-13,19:00,Copa del Rey,First round,Sun,Away,W,4,1,CD Cazalegas,,,72,4200,Asier Illarramendi,4-1-4-1,4-3-3,Mario Melero,Match Report,,2022-2023,Real Sociedad
+2022-12-21,21:00,Copa del Rey,Second round,Wed,Away,W,5,0,CD Coria,,,63,4389,Aritz Elustondo,4-1-4-1,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Real Sociedad
+2022-12-31,16:15,La Liga,Matchweek 15,Sat,Home,W,2,0,Osasuna,1.4,0.4,51,34847,Aritz Elustondo,4-1-3-2,5-3-2,Valentín Pizarro,Match Report,,2022-2023,Real Sociedad
+2023-01-04,19:00,Copa del Rey,Round of 32,Wed,Away,W,1,0,UD Logroñés,,,60,15000,Asier Illarramendi,4-1-3-2,4-2-3-1,Pablo González,Match Report,,2022-2023,Real Sociedad
+2023-01-08,14:00,La Liga,Matchweek 16,Sun,Away,W,2,0,Almería,1.7,0.6,56,12020,Asier Illarramendi,4-1-3-2,4-3-3,Alberola Rojas,Match Report,,2022-2023,Real Sociedad
+2023-01-14,21:00,La Liga,Matchweek 17,Sat,Home,W,3,1,Athletic Club,2.0,0.3,57,38296,Aritz Elustondo,4-1-3-2,4-2-3-1,Guillermo Cuadra,Match Report,,2022-2023,Real Sociedad
+2023-01-17,19:00,Copa del Rey,Round of 16,Tue,Home,W,1,0,Mallorca,,,57,23408,Mikel Oyarzabal,4-1-3-2,3-4-3,Alejandro Hernández,Match Report,,2022-2023,Real Sociedad
+2023-01-21,14:00,La Liga,Matchweek 18,Sat,Away,W,2,0,Rayo Vallecano,1.6,0.9,46,12874,Asier Illarramendi,4-1-2-1-2◆,4-2-3-1,Antonio Matéu,Match Report,,2022-2023,Real Sociedad
+2023-01-25,21:00,Copa del Rey,Quarter-finals,Wed,Away,L,0,1,Barcelona,,,26,59610,Mikel Oyarzabal,4-4-2◆,4-3-3,Jesús Gil,Match Report,,2022-2023,Real Sociedad
+2023-01-29,21:00,La Liga,Matchweek 19,Sun,Away,D,0,0,Real Madrid,0.4,1.3,39,58129,Asier Illarramendi,4-3-3,4-3-3,Mario Melero,Match Report,,2022-2023,Real Sociedad
+2023-02-05,18:30,La Liga,Matchweek 20,Sun,Home,L,0,1,Valladolid,1.2,0.7,55,32214,Asier Illarramendi,4-3-2-1,4-2-3-1,Pablo González,Match Report,,2022-2023,Real Sociedad
+2023-02-13,21:00,La Liga,Matchweek 21,Mon,Away,W,3,2,Espanyol,1.4,1.2,56,15867,Asier Illarramendi,4-1-4-1,4-4-2,Alejandro Muñíz,Match Report,,2022-2023,Real Sociedad
+2023-02-18,14:00,La Liga,Matchweek 22,Sat,Home,D,1,1,Celta Vigo,1.4,1.4,54,29312,Asier Illarramendi,4-1-3-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Real Sociedad
+2023-02-25,21:00,La Liga,Matchweek 23,Sat,Away,L,0,1,Valencia,0.7,0.5,62,37465,Mikel Oyarzabal,4-1-4-1,4-3-3,Alejandro Hernández,Match Report,,2022-2023,Real Sociedad
+2023-03-03,21:00,La Liga,Matchweek 24,Fri,Home,D,0,0,Cádiz,1.2,0.6,71,28733,Mikel Oyarzabal,4-1-3-2,4-2-3-1,Antonio Matéu,Match Report,,2022-2023,Real Sociedad
+2023-03-09,18:45,Europa Lg,Round of 16,Thu,Away,L,0,2,it Roma,0.8,2.2,59,61608,Asier Illarramendi,4-3-2-1,3-4-3,Sandro Schärer,Match Report,Leg 1 of 2,2022-2023,Real Sociedad
+2023-03-12,14:00,La Liga,Matchweek 25,Sun,Away,D,1,1,Mallorca,0.5,1.4,62,13840,Mikel Oyarzabal,4-1-3-2,5-3-2,Juan Martínez,Match Report,,2022-2023,Real Sociedad
+2023-03-16,21:00,Europa Lg,Round of 16,Thu,Home,D,0,0,it Roma,1.7,0.1,75,35054,Mikel Oyarzabal,4-3-1-2,3-5-1-1,István Kovács,Match Report,Leg 2 of 2; Roma won,2022-2023,Real Sociedad
+2023-03-19,16:15,La Liga,Matchweek 26,Sun,Home,W,2,0,Elche,2.0,0.1,60,28496,Asier Illarramendi,4-1-3-2,5-3-2,José Sánchez,Match Report,,2022-2023,Real Sociedad
+2023-04-02,18:30,La Liga,Matchweek 27,Sun,Away,L,0,2,Villarreal,1.0,2.7,48,18768,Mikel Merino,4-1-3-2,4-3-3,Jesús Gil,Match Report,,2022-2023,Real Sociedad
+2023-04-08,18:30,La Liga,Matchweek 28,Sat,Home,W,2,0,Getafe,2.1,0.3,60,27606,Mikel Oyarzabal,4-1-2-1-2◆,3-4-3,Mario Melero,Match Report,,2022-2023,Real Sociedad
+2023-04-15,16:15,La Liga,Matchweek 29,Sat,Away,L,0,2,Athletic Club,1.4,0.8,49,49287,Mikel Oyarzabal,4-1-3-2,4-2-3-1,César Soto,Match Report,,2022-2023,Real Sociedad
+2023-04-22,18:30,La Liga,Matchweek 30,Sat,Home,W,2,1,Rayo Vallecano,0.6,0.5,60,32054,Mikel Oyarzabal,4-1-3-2,4-2-3-1,Alejandro Muñíz,Match Report,,2022-2023,Real Sociedad
+2023-04-25,22:00,La Liga,Matchweek 31,Tue,Away,D,0,0,Betis,0.9,1.0,42,42294,Asier Illarramendi,4-1-3-2,4-2-3-1,Juan Martínez,Match Report,,2022-2023,Real Sociedad
+2023-04-28,21:00,La Liga,Matchweek 32,Fri,Away,W,2,0,Osasuna,1.4,1.4,49,21570,Aritz Elustondo,4-3-3,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Real Sociedad
+2023-05-02,22:00,La Liga,Matchweek 33,Tue,Home,W,2,0,Real Madrid,1.9,0.8,53,35314,Mikel Oyarzabal,4-1-4-1,4-3-3,Juan Pulido,Match Report,,2022-2023,Real Sociedad
+2023-05-13,14:00,La Liga,Matchweek 34,Sat,Home,D,2,2,Girona,2.7,1.2,51,30027,Mikel Oyarzabal,4-4-2,4-1-4-1,Jorge Figueroa,Match Report,,2022-2023,Real Sociedad
+2023-05-20,21:00,La Liga,Matchweek 35,Sat,Away,W,2,1,Barcelona,2.0,1.5,33,88049,Asier Illarramendi,4-2-3-1,4-3-3,Alberola Rojas,Match Report,,2022-2023,Real Sociedad
+2023-05-23,19:30,La Liga,Matchweek 36,Tue,Home,W,1,0,Almería,1.9,0.1,72,31574,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Pablo González,Match Report,,2022-2023,Real Sociedad
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,L,1,2,Atlético Madrid,1.2,0.7,50,56169,Asier Illarramendi,4-1-4-1,5-4-1,Juan Pulido,Match Report,,2022-2023,Real Sociedad
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Home,W,2,1,Sevilla,1.8,0.4,55,35065,Asier Illarramendi,4-1-4-1,4-2-3-1,Carlos del Cerro,Match Report,,2022-2023,Real Sociedad

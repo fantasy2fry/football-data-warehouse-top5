@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,15:00,Premier League,Matchweek 1,Sat,Away,W,3,0,Watford,0.8,0.7,51,20245.0,Lewis Dunk,3-4-3,4-2-2-2,Craig Pawson,Match Report,,2019-2020,Brighton
+2019-08-17,15:00,Premier League,Matchweek 2,Sat,Home,D,1,1,West Ham,2.0,0.8,57,30459.0,Lewis Dunk,3-4-3,4-1-4-1,Anthony Taylor,Match Report,,2019-2020,Brighton
+2019-08-24,15:00,Premier League,Matchweek 3,Sat,Home,L,0,2,Southampton,0.8,1.7,51,30019.0,Lewis Dunk,3-4-3,4-2-2-2,Kevin Friend,Match Report,,2019-2020,Brighton
+2019-08-27,19:45,EFL Cup,Second round,Tue,Away,W,2,1,Bristol Rovers,,,68,5864.0,Glenn Murray,3-4-3,5-3-2,Matt Donohue,Match Report,,2019-2020,Brighton
+2019-08-31,15:00,Premier League,Matchweek 4,Sat,Away,L,0,4,Manchester City,0.9,1.9,47,54386.0,Lewis Dunk,3-4-3,4-3-3,Jonathan Moss,Match Report,,2019-2020,Brighton
+2019-09-14,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Burnley,1.4,0.4,62,29398.0,Lewis Dunk,3-4-3,4-4-2,Michael Oliver,Match Report,,2019-2020,Brighton
+2019-09-21,17:30,Premier League,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,1.4,0.9,71,43316.0,Lewis Dunk,3-4-3,5-4-1,Martin Atkinson,Match Report,,2019-2020,Brighton
+2019-09-25,19:45,EFL Cup,Third round,Wed,Home,L,1,3,Aston Villa,,,30,14982.0,Shane Duffy,3-4-3,4-3-3,Graham Scott,Match Report,,2019-2020,Brighton
+2019-09-28,15:00,Premier League,Matchweek 7,Sat,Away,L,0,2,Chelsea,0.6,3.7,47,40683.0,Lewis Dunk,3-5-1-1,4-3-3,Chris Kavanagh,Match Report,,2019-2020,Brighton
+2019-10-05,12:30,Premier League,Matchweek 8,Sat,Home,W,3,0,Tottenham,2.4,0.4,48,30610.0,Lewis Dunk,4-4-2,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Brighton
+2019-10-19,15:00,Premier League,Matchweek 9,Sat,Away,L,1,2,Aston Villa,1.2,3.0,51,41826.0,Lewis Dunk,4-4-2,4-3-3,David Coote,Match Report,,2019-2020,Brighton
+2019-10-26,15:00,Premier League,Matchweek 10,Sat,Home,W,3,2,Everton,1.2,0.9,55,30529.0,Lewis Dunk,4-4-2,4-2-3-1,Andy Madley,Match Report,,2019-2020,Brighton
+2019-11-02,15:00,Premier League,Matchweek 11,Sat,Home,W,2,0,Norwich City,2.7,0.4,58,30539.0,Lewis Dunk,4-4-2,4-2-3-1,Kevin Friend,Match Report,,2019-2020,Brighton
+2019-11-10,14:00,Premier League,Matchweek 12,Sun,Away,L,1,3,Manchester Utd,0.8,3.6,58,73556.0,Lewis Dunk,4-4-2,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Brighton
+2019-11-23,15:00,Premier League,Matchweek 13,Sat,Home,L,0,2,Leicester City,0.6,3.6,53,30640.0,Dale Stephens,3-4-3,4-1-4-1,Mike Dean,Match Report,,2019-2020,Brighton
+2019-11-30,15:00,Premier League,Matchweek 14,Sat,Away,L,1,2,Liverpool,0.8,1.3,56,53319.0,Lewis Dunk,4-3-2-1,4-3-3,Martin Atkinson,Match Report,,2019-2020,Brighton
+2019-12-05,20:15,Premier League,Matchweek 15,Thu,Away,W,2,1,Arsenal,1.7,0.9,50,60164.0,Lewis Dunk,4-1-2-1-2◆,4-2-3-1,Graham Scott,Match Report,,2019-2020,Brighton
+2019-12-08,16:30,Premier League,Matchweek 16,Sun,Home,D,2,2,Wolves,1.2,1.5,61,30189.0,Lewis Dunk,4-3-3,3-4-3,Jonathan Moss,Match Report,,2019-2020,Brighton
+2019-12-16,19:45,Premier League,Matchweek 17,Mon,Away,D,1,1,Crystal Palace,2.3,0.7,65,24175.0,Lewis Dunk,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2019-2020,Brighton
+2019-12-21,15:00,Premier League,Matchweek 18,Sat,Home,L,0,1,Sheffield Utd,0.5,1.3,69,30505.0,Lewis Dunk,4-2-3-1,3-5-2,Robert Jones,Match Report,,2019-2020,Brighton
+2019-12-26,12:30,Premier League,Matchweek 19,Thu,Away,L,1,2,Tottenham,1.0,0.8,46,56308.0,Dale Stephens,3-4-3,3-4-3,Graham Scott,Match Report,,2019-2020,Brighton
+2019-12-28,12:30,Premier League,Matchweek 20,Sat,Home,W,2,0,Bournemouth,0.8,0.5,55,30441.0,Lewis Dunk,4-2-3-1,4-4-2,Paul Tierney,Match Report,,2019-2020,Brighton
+2020-01-01,12:30,Premier League,Matchweek 21,Wed,Home,D,1,1,Chelsea,1.3,1.3,48,30559.0,Lewis Dunk,4-1-2-1-2◆,4-3-3,Stuart Attwell,Match Report,,2019-2020,Brighton
+2020-01-04,15:01,FA Cup,Third round,Sat,Home,L,0,1,Sheffield Weds,,,54,20349.0,Dale Stephens,3-5-2,4-1-4-1,Andre Marriner,Match Report,,2019-2020,Brighton
+2020-01-11,15:00,Premier League,Matchweek 22,Sat,Away,L,0,1,Everton,1.3,1.7,47,38772.0,Lewis Dunk,3-4-3,4-4-2,David Coote,Match Report,,2019-2020,Brighton
+2020-01-18,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Aston Villa,1.1,0.6,55,30551.0,Lewis Dunk,4-4-2,3-4-3,Andy Madley,Match Report,,2019-2020,Brighton
+2020-01-21,19:30,Premier League,Matchweek 24,Tue,Away,L,1,3,Bournemouth,1.8,1.4,66,10065.0,Lewis Dunk,4-4-2,4-4-1-1,Kevin Friend,Match Report,,2019-2020,Brighton
+2020-02-01,15:00,Premier League,Matchweek 25,Sat,Away,D,3,3,West Ham,1.9,0.8,65,59952.0,Lewis Dunk,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,2019-2020,Brighton
+2020-02-08,17:30,Premier League,Matchweek 26,Sat,Home,D,1,1,Watford,0.8,0.2,66,30443.0,Lewis Dunk,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2019-2020,Brighton
+2020-02-22,15:00,Premier League,Matchweek 27,Sat,Away,D,1,1,Sheffield Utd,1.2,1.6,35,31888.0,Lewis Dunk,5-3-2,3-5-2,Graham Scott,Match Report,,2019-2020,Brighton
+2020-02-29,12:30,Premier League,Matchweek 28,Sat,Home,L,0,1,Crystal Palace,2.2,2.5,65,30124.0,Lewis Dunk,4-2-3-1,4-1-4-1,Martin Atkinson,Match Report,,2019-2020,Brighton
+2020-03-07,15:00,Premier League,Matchweek 29,Sat,Away,D,0,0,Wolves,0.3,0.8,57,31490.0,Lewis Dunk,4-3-3,3-5-2,Andre Marriner,Match Report,,2019-2020,Brighton
+2020-06-20,15:00,Premier League,Matchweek 30,Sat,Home,W,2,1,Arsenal,1.0,0.8,41,,Lewis Dunk,4-2-3-1,4-3-3,Martin Atkinson,Match Report,,2019-2020,Brighton
+2020-06-23,18:00,Premier League,Matchweek 31,Tue,Away,D,0,0,Leicester City,1.1,0.6,34,,Lewis Dunk,4-2-2-2,4-4-2,Lee Mason,Match Report,,2019-2020,Brighton
+2020-06-30,20:15,Premier League,Matchweek 32,Tue,Home,L,0,3,Manchester Utd,0.4,1.0,38,,Lewis Dunk,4-4-2,4-2-3-1,Andre Marriner,Match Report,,2019-2020,Brighton
+2020-07-04,12:30,Premier League,Matchweek 33,Sat,Away,W,1,0,Norwich City,1.0,0.6,42,,Lewis Dunk,4-2-2-2,4-2-3-1,Stuart Attwell,Match Report,,2019-2020,Brighton
+2020-07-08,20:15,Premier League,Matchweek 34,Wed,Home,L,1,3,Liverpool,2.4,2.5,44,,Lewis Dunk,4-3-1-2,4-3-3,Craig Pawson,Match Report,,2019-2020,Brighton
+2020-07-11,20:00,Premier League,Matchweek 35,Sat,Home,L,0,5,Manchester City,0.2,4.4,30,,Lewis Dunk,4-4-1-1,4-3-3,Graham Scott,Match Report,,2019-2020,Brighton
+2020-07-16,20:15,Premier League,Matchweek 36,Thu,Away,D,1,1,Southampton,0.7,2.5,33,,Lewis Dunk,3-4-1-2,4-4-2,Andre Marriner,Match Report,,2019-2020,Brighton
+2020-07-20,18:00,Premier League,Matchweek 37,Mon,Home,D,0,0,Newcastle Utd,0.8,0.9,61,,Lewis Dunk,4-2-3-1,3-5-2,Simon Hooper,Match Report,,2019-2020,Brighton
+2020-07-26,16:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,1.2,1.7,45,,Lewis Dunk,3-4-1-2,4-4-2,Jonathan Moss,Match Report,,2019-2020,Brighton

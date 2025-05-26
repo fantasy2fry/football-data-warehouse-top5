@@ -1,0 +1,36 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,15:30,DFB-Pokal,Round of 64,Sun,Away,L,0,1,Jahn R'burg,,,65,12000,Anthony Losilla,4-4-2◆,4-2-3-1,,Match Report,,2024-2025,Bochum
+2024-08-24,15:30,Bundesliga,Matchweek 1,Sat,Away,L,0,1,RB Leipzig,1.0,1.3,38,44611,Anthony Losilla,4-1-2-1-2◆,4-2-2-2,,Match Report,,2024-2025,Bochum
+2024-08-31,15:30,Bundesliga,Matchweek 2,Sat,Home,L,0,2,Gladbach,0.7,2.9,39,26000,Anthony Losilla,4-1-2-1-2◆,4-2-3-1,Sören Storks,Match Report,,2024-2025,Bochum
+2024-09-14,15:30,Bundesliga,Matchweek 3,Sat,Away,L,1,2,Freiburg,0.9,3.7,46,34100,Maximilian Wittek,4-4-2,4-2-3-1,Daniel Siebert,Match Report,,2024-2025,Bochum
+2024-09-21,15:30,Bundesliga,Matchweek 4,Sat,Home,D,2,2,Holstein Kiel,0.8,1.9,44,26000,Philipp Hofmann,4-1-2-1-2◆,3-4-3,Martin Petersen,Match Report,,2024-2025,Bochum
+2024-09-27,20:30,Bundesliga,Matchweek 5,Fri,Away,L,2,4,Dortmund,1.3,3.2,34,81365,Anthony Losilla,4-1-2-1-2◆,4-2-3-1,Felix Brych,Match Report,,2024-2025,Bochum
+2024-10-05,15:30,Bundesliga,Matchweek 6,Sat,Home,L,1,3,Wolfsburg,1.7,2.4,58,24630,Anthony Losilla,4-3-1-2,3-4-1-2,Max Burda,Match Report,,2024-2025,Bochum
+2024-10-19,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1,3,Hoffenheim,2.7,2.5,50,19281,Anthony Losilla,4-1-4-1,3-4-1-2,Sören Storks,Match Report,,2024-2025,Bochum
+2024-10-27,15:30,Bundesliga,Matchweek 8,Sun,Home,L,0,5,Bayern Munich,0.6,2.2,28,26000,Anthony Losilla,3-5-2,4-2-3-1,Florian Exner,Match Report,,2024-2025,Bochum
+2024-11-02,15:30,Bundesliga,Matchweek 9,Sat,Away,L,2,7,Eint Frankfurt,1.8,3.5,36,58000,Anthony Losilla,4-4-2,4-4-2,Daniel Schlager,Match Report,,2024-2025,Bochum
+2024-11-09,15:30,Bundesliga,Matchweek 10,Sat,Home,D,1,1,Leverkusen,0.7,1.2,30,26000,Anthony Losilla,5-4-1,3-4-3,Robert Hartmann,Match Report,,2024-2025,Bochum
+2024-11-23,15:30,Bundesliga,Matchweek 11,Sat,Away,L,0,2,Stuttgart,0.7,1.7,42,59000,Anthony Losilla,5-3-2,4-4-2,Benjamin Brand,Match Report,,2024-2025,Bochum
+2024-11-30,15:30,Bundesliga,Matchweek 12,Sat,Away,L,0,1,Augsburg,0.3,1.9,48,29556,Anthony Losilla,3-5-2,3-5-2,Tobias Reichel,Match Report,,2024-2025,Bochum
+2024-12-07,15:30,Bundesliga,Matchweek 13,Sat,Home,L,0,1,Werder Bremen,1.2,0.8,52,26000,Philipp Hofmann,3-4-3,4-4-2,Felix Brych,Match Report,,2024-2025,Bochum
+2024-12-14,15:30,Bundesliga,Matchweek 14,Sat,Away,W,2,0,Union Berlin,1.0,2.5,31,22012,Maximilian Wittek,3-4-3,3-4-3,Martin Petersen,Match Report,Match awarded to Bochum,2024-2025,Bochum
+2024-12-22,15:30,Bundesliga,Matchweek 15,Sun,Home,W,2,0,Heidenheim,1.6,0.6,52,24328,Anthony Losilla,3-5-2,4-1-3-2,Sven Jablonski,Match Report,,2024-2025,Bochum
+2025-01-11,15:30,Bundesliga,Matchweek 16,Sat,Away,L,0,2,Mainz 05,0.6,1.9,42,32000,Anthony Losilla,3-5-2,3-4-3,Benjamin Brand,Match Report,,2024-2025,Bochum
+2025-01-15,18:30,Bundesliga,Matchweek 17,Wed,Home,W,1,0,St. Pauli,1.4,0.7,51,26000,Philipp Hofmann,3-4-3,3-4-3,Daniel Siebert,Match Report,,2024-2025,Bochum
+2025-01-18,15:30,Bundesliga,Matchweek 18,Sat,Home,D,3,3,RB Leipzig,2.7,2.2,45,24158,Maximilian Wittek,3-4-1-2,3-4-3,Robert Hartmann,Match Report,,2024-2025,Bochum
+2025-01-25,18:30,Bundesliga,Matchweek 19,Sat,Away,L,0,3,Gladbach,0.5,2.3,43,54042,Anthony Losilla,3-1-4-2,4-2-3-1,Matthias Jöllenbeck,Match Report,,2024-2025,Bochum
+2025-02-01,15:30,Bundesliga,Matchweek 20,Sat,Home,L,0,1,Freiburg,1.0,1.7,58,25900,Philipp Hofmann,4-2-3-1,4-2-3-1,Tobias Welz,Match Report,,2024-2025,Bochum
+2025-02-09,15:30,Bundesliga,Matchweek 21,Sun,Away,D,2,2,Holstein Kiel,2.3,1.9,52,15034,Maximilian Wittek,4-2-3-1,3-1-4-2,Felix Zwayer,Match Report,,2024-2025,Bochum
+2025-02-15,15:30,Bundesliga,Matchweek 22,Sat,Home,W,2,0,Dortmund,2.7,2.6,31,26000,Philipp Hofmann,5-3-2,4-2-3-1,Harm Osmers,Match Report,,2024-2025,Bochum
+2025-02-22,15:30,Bundesliga,Matchweek 23,Sat,Away,D,1,1,Wolfsburg,0.8,1.6,46,23772,Philipp Hofmann,3-5-2,4-4-2,Timo Gerach,Match Report,,2024-2025,Bochum
+2025-03-01,15:30,Bundesliga,Matchweek 24,Sat,Home,L,0,1,Hoffenheim,0.9,0.6,58,24120,Philipp Hofmann,3-5-2,4-2-3-1,Florian Badstübner,Match Report,,2024-2025,Bochum
+2025-03-08,15:30,Bundesliga,Matchweek 25,Sat,Away,W,3,2,Bayern Munich,1.1,2.4,27,75000,Philipp Hofmann,5-3-2,4-2-3-1,Christian Dingert,Match Report,,2024-2025,Bochum
+2025-03-16,15:30,Bundesliga,Matchweek 26,Sun,Home,L,1,3,Eint Frankfurt,1.4,2.5,51,26000,Philipp Hofmann,4-4-2,4-2-3-1,Felix Zwayer,Match Report,,2024-2025,Bochum
+2025-03-28,20:30,Bundesliga,Matchweek 27,Fri,Away,L,1,3,Leverkusen,0.5,2.0,34,30210,Philipp Hofmann,5-3-2,3-5-2,Sven Jablonski,Match Report,,2024-2025,Bochum
+2025-04-05,15:30,Bundesliga,Matchweek 28,Sat,Home,L,0,4,Stuttgart,0.8,2.8,54,26000,Philipp Hofmann,3-5-2,4-4-2,Felix Brych,Match Report,,2024-2025,Bochum
+2025-04-12,15:30,Bundesliga,Matchweek 29,Sat,Home,L,1,2,Augsburg,2.8,1.1,53,25048,Philipp Hofmann,3-5-2,3-4-3,Martin Petersen,Match Report,,2024-2025,Bochum
+2025-04-19,15:30,Bundesliga,Matchweek 30,Sat,Away,L,0,1,Werder Bremen,0.7,1.8,52,42100,Philipp Hofmann,3-4-3,3-5-2,Robert Schröder,Match Report,,2024-2025,Bochum
+2025-04-27,15:30,Bundesliga,Matchweek 31,Sun,Home,D,1,1,Union Berlin,1.5,0.3,66,26000,Philipp Hofmann,3-4-1-2,3-5-2,Deniz Aytekin,Match Report,,2024-2025,Bochum
+2025-05-02,20:30,Bundesliga,Matchweek 32,Fri,Away,D,0,0,Heidenheim,1.3,0.7,54,15000,Philipp Hofmann,3-1-4-2,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Bochum
+2025-05-10,15:30,Bundesliga,Matchweek 33,Sat,Home,L,1,4,Mainz 05,0.9,1.5,44,26000,Maximilian Wittek,3-1-4-2,3-4-3,Tobias Stieler,Match Report,,2024-2025,Bochum
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Away,W,2,0,St. Pauli,1.3,0.8,43,29546,Maximilian Wittek,3-5-2,3-4-3,Felix Zwayer,Match Report,,2024-2025,Bochum

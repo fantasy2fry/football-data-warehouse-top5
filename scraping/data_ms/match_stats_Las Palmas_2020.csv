@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-12,18:15,La Liga 2,Matchweek 1,Sat,Away,L,0,1,Leganés,47.0,,Aythami Artiles,4-1-4-1,4-2-3-1,José López,Match Report,,2020-2021,Las Palmas
+2020-09-20,19:30,La Liga 2,Matchweek 2,Sun,Home,D,3,3,Fuenlabrada,55.0,,Álvaro Lemos,4-1-4-1,4-4-2,Rubén Ávalos,Match Report,,2020-2021,Las Palmas
+2020-09-26,16:00,La Liga 2,Matchweek 3,Sat,Away,D,2,2,Zaragoza,48.0,,Aythami Artiles,4-1-4-1,4-4-2,Javier Villanueva,Match Report,,2020-2021,Las Palmas
+2020-10-03,19:30,La Liga 2,Matchweek 4,Sat,Home,W,2,1,UD Logroñés,53.0,,Aythami Artiles,4-2-3-1,4-4-2,Jon González,Match Report,,2020-2021,Las Palmas
+2020-10-11,16:00,La Liga 2,Matchweek 5,Sun,Away,D,0,0,Málaga,44.0,,Aythami Artiles,4-1-4-1,4-4-2,Saúl Ais,Match Report,,2020-2021,Las Palmas
+2020-10-17,17:15,La Liga 2,Matchweek 6,Sat,Home,W,2,0,Almería,37.0,,Aythami Artiles,4-3-3,4-2-3-1,Iñaki Bikandi,Match Report,,2020-2021,Las Palmas
+2020-10-21,18:00,La Liga 2,Matchweek 7,Wed,Home,W,2,1,Castellón,38.0,,Javi Castellano,4-1-4-1,3-4-3,Oliver De La Fuente,Match Report,,2020-2021,Las Palmas
+2020-10-24,18:15,La Liga 2,Matchweek 8,Sat,Away,L,0,3,Cartagena,58.0,,Dani Castellano,4-2-3-1,4-2-3-1,Rubén Ávalos,Match Report,,2020-2021,Las Palmas
+2020-10-28,19:00,La Liga 2,Matchweek 9,Wed,Away,D,1,1,Albacete,51.0,,Javi Castellano,4-2-3-1,4-4-2,David Gálvez,Match Report,,2020-2021,Las Palmas
+2020-10-31,17:15,La Liga 2,Matchweek 10,Sat,Home,L,1,2,Oviedo,64.0,,Aythami Artiles,4-2-3-1,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2020-2021,Las Palmas
+2020-11-09,21:00,La Liga 2,Matchweek 11,Mon,Away,D,1,1,Girona,40.0,,Aythami Artiles,4-1-4-1,4-3-3,Luis Milla,Match Report,,2020-2021,Las Palmas
+2020-11-15,21:00,La Liga 2,Matchweek 12,Sun,Home,W,1,0,Tenerife,36.0,,Aythami Artiles,4-1-4-1,4-2-3-1,Dámaso Arcediano,Match Report,,2020-2021,Las Palmas
+2020-11-22,14:00,La Liga 2,Matchweek 13,Sun,Away,L,1,3,Sabadell,54.0,,Aythami Artiles,4-1-4-1,3-4-3,Álvaro Moreno,Match Report,,2020-2021,Las Palmas
+2020-11-25,18:00,La Liga 2,Matchweek 14,Wed,Home,L,0,2,CD Mirandés,57.0,,Aythami Artiles,4-1-4-1,4-2-3-1,Saúl Ais,Match Report,,2020-2021,Las Palmas
+2020-11-29,20:00,La Liga 2,Matchweek 15,Sun,Home,W,3,2,Sporting Gijón,49.0,,Javi Castellano,4-4-1-1,4-2-3-1,Javier Villanueva,Match Report,,2020-2021,Las Palmas
+2020-12-02,21:30,La Liga 2,Matchweek 16,Wed,Away,D,1,1,Lugo,65.0,,Álvaro Lemos,4-4-2,4-2-3-1,Jon González,Match Report,,2020-2021,Las Palmas
+2020-12-05,16:00,La Liga 2,Matchweek 17,Sat,Away,D,0,0,Ponferradina,56.0,,Dani Castellano,4-4-2◆,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2020-2021,Las Palmas
+2020-12-13,17:15,La Liga 2,Matchweek 18,Sun,Home,D,0,0,Alcorcón,55.0,,Dani Castellano,4-4-2◆,4-2-3-1,Rubén Ávalos,Match Report,,2020-2021,Las Palmas
+2020-12-17,20:00,Copa del Rey,First round,Thu,Away,W,4,0,Varea,,85.0,Dani Castellano,4-3-3,4-4-2,Aitor Gorostegui,Match Report,,2020-2021,Las Palmas
+2020-12-20,18:15,La Liga 2,Matchweek 19,Sun,Away,L,0,2,Rayo Vallecano,46.0,,Dani Castellano,4-1-4-1,4-2-3-1,Oliver De La Fuente,Match Report,,2020-2021,Las Palmas
+2021-01-03,15:00,La Liga 2,Matchweek 20,Sun,Home,W,1,0,Espanyol,53.0,,Dani Castellano,4-4-2,4-4-2,Daniel Ocón,Match Report,,2020-2021,Las Palmas
+2021-01-06,17:00,Copa del Rey,Second round,Wed,Away,L,0,1,Navalcarnero,,,Maikel Mesa,4-4-2,4-4-2,Javier Villanueva,Match Report,,2020-2021,Las Palmas
+2021-01-10,16:00,La Liga 2,Matchweek 21,Sun,Away,W,1,0,Mallorca,54.0,,Dani Castellano,4-4-2,4-4-2,Aitor Gorostegui,Match Report,,2020-2021,Las Palmas
+2021-01-24,19:30,La Liga 2,Matchweek 22,Sun,Home,W,2,1,Leganés,70.0,,Dani Castellano,4-4-2,4-4-2,Iosu Galech,Match Report,,2020-2021,Las Palmas
+2021-01-31,18:15,La Liga 2,Matchweek 23,Sun,Away,L,0,2,CD Mirandés,62.0,,Dani Castellano,4-4-2,4-2-3-1,David Gálvez,Match Report,,2020-2021,Las Palmas
+2021-02-07,19:30,La Liga 2,Matchweek 24,Sun,Home,L,0,1,Sabadell,54.0,,Dani Castellano,4-4-2,3-4-3,Javier Villanueva,Match Report,,2020-2021,Las Palmas
+2021-02-14,16:00,La Liga 2,Matchweek 25,Sun,Away,L,1,3,Almería,55.0,,Dani Castellano,4-1-4-1,4-4-2,Jon González,Match Report,,2020-2021,Las Palmas
+2021-02-20,19:30,La Liga 2,Matchweek 26,Sat,Home,W,2,0,Cartagena,47.0,,Dani Castellano,4-4-2,4-4-2,Francisco Hernández,Match Report,,2020-2021,Las Palmas
+2021-02-27,20:30,La Liga 2,Matchweek 27,Sat,Away,L,0,4,Castellón,63.0,,Dani Castellano,4-2-3-1,4-4-2,Rafael Sánchez,Match Report,,2020-2021,Las Palmas
+2021-03-06,17:15,La Liga 2,Matchweek 28,Sat,Home,D,1,1,Rayo Vallecano,50.0,,Javi Castellano,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,2020-2021,Las Palmas
+2021-03-13,16:00,La Liga 2,Matchweek 29,Sat,Away,W,2,1,Fuenlabrada,62.0,,Dani Castellano,4-4-2,4-2-3-1,Iñaki Bikandi,Match Report,,2020-2021,Las Palmas
+2021-03-19,20:00,La Liga 2,Matchweek 30,Fri,Home,L,1,2,Girona,53.0,,Álvaro Lemos,4-4-2,3-5-2,Álvaro Moreno,Match Report,,2020-2021,Las Palmas
+2021-03-28,20:30,La Liga 2,Matchweek 31,Sun,Away,D,1,1,Tenerife,63.0,,Dani Castellano,4-4-2,4-4-2,Luis Milla,Match Report,,2020-2021,Las Palmas
+2021-04-01,20:00,La Liga 2,Matchweek 32,Thu,Home,W,6,1,Lugo,56.0,,Álvaro Lemos,4-2-3-1,4-2-3-1,Gorka Sagues,Match Report,,2020-2021,Las Palmas
+2021-04-04,19:30,La Liga 2,Matchweek 33,Sun,Home,D,1,1,Mallorca,58.0,,Álvaro Lemos,4-2-3-1,4-4-2,Jon González,Match Report,,2020-2021,Las Palmas
+2021-04-10,16:00,La Liga 2,Matchweek 34,Sat,Away,D,0,0,Oviedo,54.0,,Álvaro Lemos,4-2-3-1,4-4-2,Francisco Hernández,Match Report,,2020-2021,Las Palmas
+2021-04-17,17:15,La Liga 2,Matchweek 35,Sat,Home,D,1,1,Málaga,68.0,,Álvaro Lemos,4-2-3-1,4-1-4-1,Aitor Gorostegui,Match Report,,2020-2021,Las Palmas
+2021-04-24,18:15,La Liga 2,Matchweek 36,Sat,Away,L,0,4,Espanyol,49.0,,Álvaro Lemos,4-2-3-1,4-4-2,Álvaro Moreno,Match Report,,2020-2021,Las Palmas
+2021-05-02,19:30,La Liga 2,Matchweek 37,Sun,Home,W,2,0,Ponferradina,49.0,,Maikel Mesa,4-4-2,4-4-2,Iñaki Bikandi,Match Report,,2020-2021,Las Palmas
+2021-05-08,20:30,La Liga 2,Matchweek 38,Sat,Away,D,0,0,Alcorcón,42.0,,Sergio Araujo,4-4-2,4-2-3-1,Javier Villanueva,Match Report,,2020-2021,Las Palmas
+2021-05-15,20:00,La Liga 2,Matchweek 39,Sat,Home,L,0,2,Zaragoza,66.0,,Sergio Araujo,4-4-2,4-4-2,David Gálvez,Match Report,,2020-2021,Las Palmas
+2021-05-20,19:00,La Liga 2,Matchweek 40,Thu,Away,L,0,1,Sporting Gijón,52.0,,Sergio Araujo,4-4-2,4-2-3-1,Francisco Hernández,Match Report,,2020-2021,Las Palmas
+2021-05-24,20:00,La Liga 2,Matchweek 41,Mon,Home,W,3,2,Albacete,50.0,,Aythami Artiles,4-1-4-1,4-4-2,Luis Milla,Match Report,,2020-2021,Las Palmas
+2021-05-30,21:00,La Liga 2,Matchweek 42,Sun,Away,W,1,0,UD Logroñés,54.0,,Álvaro Lemos,4-4-1-1,4-2-3-1,Dámaso Arcediano,Match Report,,2020-2021,Las Palmas

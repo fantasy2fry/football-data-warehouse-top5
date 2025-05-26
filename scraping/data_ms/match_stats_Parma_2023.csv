@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-12,18:00,Coppa Italia,First round,Sat,Away,W,3,0,Bari,,,45,12635,Yordan Osorio,4-2-3-1,4-3-3,Francesco Fourneau,Match Report,,2023-2024,Parma
+2023-08-20,20:30,Serie B,Matchweek 1,Sun,Home,W,2,0,FeralpiSalò,1.3,1.1,50,10648,Yordan Osorio,4-2-3-1,4-3-3,Marco Monaldi,Match Report,,2023-2024,Parma
+2023-08-26,20:30,Serie B,Matchweek 2,Sat,Home,W,2,0,Cittadella,1.1,1.1,38,10046,Enrico Del Prato,4-2-3-1,4-3-1-2,Davide Ghersini,Match Report,,2023-2024,Parma
+2023-08-29,20:30,Serie B,Matchweek 3,Tue,Away,W,2,1,Pisa,0.9,1.7,41,8192,Enrico Del Prato,4-2-3-1,4-2-3-1,Manuel Volpi,Match Report,,2023-2024,Parma
+2023-09-02,18:30,Serie B,Matchweek 4,Sat,Home,D,0,0,Reggiana,1.0,0.5,60,16307,Enrico Del Prato,4-3-3,3-5-2,Gianluca Manganiello,Match Report,,2023-2024,Parma
+2023-09-17,16:15,Serie B,Matchweek 5,Sun,Away,W,5,0,Catanzaro,2.6,0.9,37,14650,Enrico Del Prato,4-2-3-1,4-4-2,Gianluca Aureliano,Match Report,,2023-2024,Parma
+2023-09-24,16:15,Serie B,Matchweek 6,Sun,Home,D,1,1,Sampdoria,1.6,0.5,56,18340,Yordan Osorio,4-2-3-1,4-3-3,Davide Massa,Match Report,,2023-2024,Parma
+2023-09-27,20:30,Serie B,Matchweek 7,Wed,Home,W,2,1,Bari,1.7,1.1,42,11781,Enrico Del Prato,4-1-4-1,4-3-2-1,Juan Sacchi,Match Report,,2023-2024,Parma
+2023-10-01,18:30,Serie B,Matchweek 8,Sun,Away,W,2,1,Cremonese,0.4,0.9,42,10388,Enrico Del Prato,4-2-3-1,3-5-2,Alessandro Prontera,Match Report,,2023-2024,Parma
+2023-10-07,16:15,Serie B,Matchweek 9,Sat,Away,L,2,3,Venezia,1.6,1.6,50,9360,Enrico Del Prato,4-2-3-1,4-4-2,Daniele Minelli,Match Report,,2023-2024,Parma
+2023-10-20,20:30,Serie B,Matchweek 10,Fri,Home,W,2,1,Como,0.9,1.6,47,11508,Enrico Del Prato,4-2-3-1,3-4-3,Luca Zufferli,Match Report,,2023-2024,Parma
+2023-10-28,16:15,Serie B,Matchweek 11,Sat,Away,W,3,1,Ascoli,0.8,0.6,40,7249,Enrico Del Prato,4-2-3-1,4-3-1-2,Michael Fabbri,Match Report,,2023-2024,Parma
+2023-11-01,18:00,Coppa Italia,Second round,Wed,Away,W,4,2,Lecce,,,42,6654,Yordan Osorio,4-2-3-1,4-3-3,Daniele Minelli,Match Report,,2023-2024,Parma
+2023-11-05,16:15,Serie B,Matchweek 12,Sun,Home,W,2,0,Südtirol,1.4,0.4,50,12078,Enrico Del Prato,4-4-2,4-4-2,Luca Massimi,Match Report,,2023-2024,Parma
+2023-11-12,16:15,Serie B,Matchweek 13,Sun,Away,L,2,3,Calcio Lecco 1912,1.4,2.1,53,4983,Enrico Del Prato,4-2-3-1,4-3-3,Luca Pairetto,Match Report,,2023-2024,Parma
+2023-11-25,14:00,Serie B,Matchweek 14,Sat,Home,D,1,1,Modena,2.3,0.3,62,13761,Enrico Del Prato,4-2-3-1,4-3-2-1,Daniele Chiffi,Match Report,,2023-2024,Parma
+2023-12-02,16:15,Serie B,Matchweek 15,Sat,Away,W,1,0,Spezia,0.8,0.5,53,7022,Enrico Del Prato,4-2-3-1,4-3-3,Gianluca Manganiello,Match Report,,2023-2024,Parma
+2023-12-06,21:00,Coppa Italia,Round of 16,Wed,Away,D,2 (1),2 (4),Fiorentina,,,34,23113,Yordan Osorio,4-2-3-1,4-2-3-1,Livio Marinelli,Match Report,Fiorentina won on penalty kicks following extra time,2023-2024,Parma
+2023-12-10,16:15,Serie B,Matchweek 16,Sun,Home,D,3,3,Palermo,1.8,0.6,70,13409,Enrico Del Prato,4-2-3-1,4-2-3-1,Davide Massa,Match Report,,2023-2024,Parma
+2023-12-16,16:15,Serie B,Matchweek 17,Sat,Away,D,0,0,Cosenza,0.5,0.7,46,3631,Yordan Osorio,4-2-3-1,3-5-2,Niccolò Baroni,Match Report,,2023-2024,Parma
+2023-12-23,14:00,Serie B,Matchweek 18,Sat,Home,W,3,1,Ternana,1.7,1.2,57,11895,Enrico Del Prato,4-2-3-1,3-4-1-2,Federico Dionisi,Match Report,,2023-2024,Parma
+2023-12-26,15:00,Serie B,Matchweek 19,Tue,Away,W,2,0,Brescia,0.7,0.3,47,8604,Enrico Del Prato,4-2-3-1,3-4-3,Giovanni Ayroldi,Match Report,,2023-2024,Parma
+2024-01-14,16:15,Serie B,Matchweek 20,Sun,Home,D,1,1,Ascoli,1.9,0.9,65,11269,Enrico Del Prato,4-2-3-1,3-5-2,Francesco Fourneau,Match Report,,2023-2024,Parma
+2024-01-19,20:30,Serie B,Matchweek 21,Fri,Away,W,3,0,Sampdoria,1.3,0.8,43,21704,Enrico Del Prato,4-2-3-1,4-3-2-1,Ermanno Feliciani,Match Report,,2023-2024,Parma
+2024-01-27,14:00,Serie B,Matchweek 22,Sat,Away,L,0,3,Modena,0.7,0.9,57,11143,Yordan Osorio,4-2-3-1,3-5-2,Rosario Abisso,Match Report,,2023-2024,Parma
+2024-02-03,14:00,Serie B,Matchweek 23,Sat,Home,W,2,1,Venezia,1.5,1.0,48,13289,Yordan Osorio,4-2-3-1,3-5-2,Matteo Marchetti,Match Report,,2023-2024,Parma
+2024-02-10,14:00,Serie B,Matchweek 24,Sat,Away,W,2,1,Cittadella,1.5,2.0,43,4170,Enrico Del Prato,4-2-3-1,4-3-1-2,Giovanni Ayroldi,Match Report,,2023-2024,Parma
+2024-02-17,14:00,Serie B,Matchweek 25,Sat,Home,W,3,2,Pisa,1.5,1.9,47,13899,Enrico Del Prato,4-2-3-1,3-4-3,Ivan Pezzuto,Match Report,,2023-2024,Parma
+2024-02-24,16:15,Serie B,Matchweek 26,Sat,Away,D,1,1,Como,1.7,0.4,41,7226,Enrico Del Prato,4-2-3-1,3-5-2,Daniele Chiffi,Match Report,,2023-2024,Parma
+2024-02-27,20:30,Serie B,Matchweek 27,Tue,Home,D,1,1,Cosenza,0.6,0.9,48,10324,Yordan Osorio,4-2-3-1,4-4-2,Manuel Volpi,Match Report,,2023-2024,Parma
+2024-03-02,14:00,Serie B,Matchweek 28,Sat,Away,W,3,1,Ternana,2.6,2.3,48,4929,Enrico Del Prato,4-2-3-1,3-1-4-2,Giuseppe Collu,Match Report,,2023-2024,Parma
+2024-03-08,20:30,Serie B,Matchweek 29,Fri,Home,W,2,1,Brescia,2.1,1.1,56,13350,Enrico Del Prato,4-2-3-1,4-3-2-1,Livio Marinelli,Match Report,,2023-2024,Parma
+2024-03-16,14:00,Serie B,Matchweek 30,Sat,Away,W,2,1,FeralpiSalò,0.9,0.8,54,2833,Enrico Del Prato,4-2-3-1,3-5-2,Matteo Gualtieri,Match Report,,2023-2024,Parma
+2024-04-01,15:00,Serie B,Matchweek 31,Mon,Home,L,0,2,Catanzaro,2.0,1.0,58,14642,Enrico Del Prato,4-3-3,4-4-2,Niccolò Baroni,Match Report,,2023-2024,Parma
+2024-04-06,14:00,Serie B,Matchweek 32,Sat,Away,D,0,0,Südtirol,0.4,0.5,51,5052,Enrico Del Prato,4-2-3-1,4-4-2,Matteo Marchetti,Match Report,,2023-2024,Parma
+2024-04-13,16:15,Serie B,Matchweek 33,Sat,Home,W,2,0,Spezia,0.8,0.4,47,13942,Enrico Del Prato,4-2-3-1,3-4-3,Giuseppe Collu,Match Report,,2023-2024,Parma
+2024-04-19,20:30,Serie B,Matchweek 34,Fri,Away,D,0,0,Palermo,0.6,0.9,50,21120,Enrico Del Prato,4-2-3-1,4-4-2,Gianluca Aureliano,Match Report,,2023-2024,Parma
+2024-04-27,14:00,Serie B,Matchweek 35,Sat,Home,W,4,0,Calcio Lecco 1912,2.0,0.9,62,16057,Enrico Del Prato,4-2-3-1,4-3-3,Daniele Rutella,Match Report,,2023-2024,Parma
+2024-05-01,18:00,Serie B,Matchweek 36,Wed,Away,D,1,1,Bari,1.3,0.3,55,18347,Enrico Del Prato,4-2-3-1,4-2-3-1,Antonio Rapuano,Match Report,,2023-2024,Parma
+2024-05-05,15:00,Serie B,Matchweek 37,Sun,Home,D,1,1,Cremonese,1.5,1.8,50,19023,Enrico Del Prato,4-2-3-1,3-4-3,Matteo Gualtieri,Match Report,,2023-2024,Parma
+2024-05-10,20:30,Serie B,Matchweek 38,Fri,Away,D,1,1,Reggiana,2.0,0.8,50,16307,Cristian Ansaldi,4-2-3-1,3-4-3,Davide Ghersini,Match Report,,2023-2024,Parma

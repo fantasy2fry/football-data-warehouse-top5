@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-05,18:00,Coppa Italia,First round,Fri,Home,W,2,1,FeralpiSalò,,,62,4155,Roberto Pereyra,3-5-2,4-5-1,Cosso Cosso,Match Report,,2022-2023,Udinese
+2022-08-13,18:30,Serie A,Matchweek 1,Sat,Away,L,2,4,Milan,0.5,2.3,41,70197,Roberto Pereyra,3-5-2,4-2-3-1,Livio Marinelli,Match Report,,2022-2023,Udinese
+2022-08-20,18:30,Serie A,Matchweek 2,Sat,Home,D,0,0,Salernitana,1.1,1.5,48,17054,Roberto Pereyra,3-5-2,3-5-2,Gianluca Aureliano,Match Report,,2022-2023,Udinese
+2022-08-26,18:30,Serie A,Matchweek 3,Fri,Away,W,2,1,Monza,1.7,1.5,44,9955,Roberto Pereyra,3-5-2,3-5-2,Marco Di Bello,Match Report,,2022-2023,Udinese
+2022-08-31,18:30,Serie A,Matchweek 4,Wed,Home,W,1,0,Fiorentina,1.3,0.7,27,19684,Roberto Pereyra,3-5-2,4-3-3,Maurizio Mariani,Match Report,,2022-2023,Udinese
+2022-09-04,20:45,Serie A,Matchweek 5,Sun,Home,W,4,0,Roma,1.2,0.8,43,24108,Roberto Pereyra,3-5-2,3-4-3,Fabio Maresca,Match Report,,2022-2023,Udinese
+2022-09-11,15:00,Serie A,Matchweek 6,Sun,Away,W,3,1,Sassuolo,2.1,0.5,67,8694,Roberto Pereyra,3-5-2,4-3-3,Giacomo Camplone,Match Report,,2022-2023,Udinese
+2022-09-18,12:30,Serie A,Matchweek 7,Sun,Home,W,3,1,Inter,1.6,1.1,44,22475,Roberto Pereyra,3-5-2,3-5-2,Paolo Valeri,Match Report,,2022-2023,Udinese
+2022-10-03,20:45,Serie A,Matchweek 8,Mon,Away,W,2,1,Hellas Verona,1.8,0.3,68,15352,Roberto Pereyra,3-5-2,3-4-1-2,Daniele Minelli,Match Report,,2022-2023,Udinese
+2022-10-09,15:00,Serie A,Matchweek 9,Sun,Home,D,2,2,Atalanta,1.0,2.1,59,24671,Roberto Pereyra,3-5-2,3-4-1-2,Daniele Doveri,Match Report,,2022-2023,Udinese
+2022-10-16,15:00,Serie A,Matchweek 10,Sun,Away,D,0,0,Lazio,0.9,0.8,46,45000,Roberto Pereyra,3-5-2,4-3-3,Andrea Colombo,Match Report,,2022-2023,Udinese
+2022-10-19,21:00,Coppa Italia,Second round,Wed,Home,L,2,3,Monza,,,51,5034,Bram Nuytinck,3-5-2,3-4-1-2,Federico Dionisi,Match Report,,2022-2023,Udinese
+2022-10-23,12:30,Serie A,Matchweek 11,Sun,Home,L,1,2,Torino,2.0,1.5,56,20711,Roberto Pereyra,3-5-2,3-4-3,Matteo Marchetti,Match Report,,2022-2023,Udinese
+2022-10-30,15:00,Serie A,Matchweek 12,Sun,Away,D,0,0,Cremonese,1.0,0.7,58,12810,Roberto Pereyra,3-5-2,3-4-1-2,Massimiliano Irrati,Match Report,,2022-2023,Udinese
+2022-11-04,20:45,Serie A,Matchweek 13,Fri,Home,D,1,1,Lecce,1.7,0.7,57,21834,Roberto Pereyra,3-5-2,4-3-3,Francesco Fourneau,Match Report,,2022-2023,Udinese
+2022-11-08,18:30,Serie A,Matchweek 14,Tue,Away,D,1,1,Spezia,0.6,2.0,51,6900,Roberto Pereyra,3-5-2,3-5-2,Marco Piccinini,Match Report,,2022-2023,Udinese
+2022-11-12,15:00,Serie A,Matchweek 15,Sat,Away,L,2,3,Napoli,0.7,1.5,37,51000,Roberto Pereyra,3-5-2,4-3-3,Giovanni Ayroldi,Match Report,,2022-2023,Udinese
+2023-01-04,20:45,Serie A,Matchweek 16,Wed,Home,D,1,1,Empoli,1.9,0.4,60,19237,Roberto Pereyra,3-5-2,4-3-1-2,Marco Serra,Match Report,,2022-2023,Udinese
+2023-01-07,18:00,Serie A,Matchweek 17,Sat,Away,L,0,1,Juventus,0.5,2.4,49,39536,Roberto Pereyra,3-5-2,3-5-1-1,Matteo Marchetti,Match Report,,2022-2023,Udinese
+2023-01-15,15:00,Serie A,Matchweek 18,Sun,Home,L,1,2,Bologna,1.9,2.0,51,20486,Roberto Pereyra,3-5-2,4-3-3,Manuel Volpi,Match Report,,2022-2023,Udinese
+2023-01-22,12:30,Serie A,Matchweek 19,Sun,Away,W,1,0,Sampdoria,1.3,1.3,46,18642,Rodrigo Becão,3-5-2,3-4-1-2,Maurizio Mariani,Match Report,,2022-2023,Udinese
+2023-01-30,20:45,Serie A,Matchweek 20,Mon,Home,D,1,1,Hellas Verona,1.8,0.8,55,17276,Rodrigo Becão,3-5-2,3-4-3,Luca Pairetto,Match Report,,2022-2023,Udinese
+2023-02-05,15:00,Serie A,Matchweek 21,Sun,Away,L,0,1,Torino,0.5,1.7,44,16820,Rodrigo Becão,3-5-2,3-4-3,Alessandro Prontera,Match Report,,2022-2023,Udinese
+2023-02-12,12:30,Serie A,Matchweek 22,Sun,Home,D,2,2,Sassuolo,1.6,0.7,47,20912,Rodrigo Becão,3-5-1-1,4-3-3,Ivan Pezzuto,Match Report,,2022-2023,Udinese
+2023-02-18,20:45,Serie A,Matchweek 23,Sat,Away,L,1,3,Inter,0.8,2.7,41,71248,Roberto Pereyra,3-5-2,3-5-2,Federico Dionisi,Match Report,,2022-2023,Udinese
+2023-02-26,18:00,Serie A,Matchweek 24,Sun,Home,D,2,2,Spezia,2.5,2.5,49,20710,Roberto Pereyra,3-5-2,4-2-3-1,Matteo Marchetti,Match Report,,2022-2023,Udinese
+2023-03-04,18:00,Serie A,Matchweek 25,Sat,Away,D,0,0,Atalanta,0.3,1.4,33,18475,Rodrigo Becão,3-5-2,3-4-3,Davide Ghersini,Match Report,,2022-2023,Udinese
+2023-03-11,15:00,Serie A,Matchweek 26,Sat,Away,W,1,0,Empoli,1.4,1.2,39,7465,Roberto Pereyra,3-5-2,4-3-1-2,Francesco Cosso,Match Report,,2022-2023,Udinese
+2023-03-18,20:45,Serie A,Matchweek 27,Sat,Home,W,3,1,Milan,1.8,1.5,36,24992,Roberto Pereyra,3-5-2,3-4-3,Daniele Doveri,Match Report,,2022-2023,Udinese
+2023-04-02,12:30,Serie A,Matchweek 28,Sun,Away,L,0,3,Bologna,0.8,0.7,48,25562,Roberto Pereyra,3-5-2,4-3-3,Maria Sole Ferrieri Caputi,Match Report,,2022-2023,Udinese
+2023-04-08,12:30,Serie A,Matchweek 29,Sat,Home,D,2,2,Monza,1.8,1.1,41,22658,Rodrigo Becão,3-5-2,3-4-3,Luca Massimi,Match Report,,2022-2023,Udinese
+2023-04-16,20:45,Serie A,Matchweek 30,Sun,Away,L,0,3,Roma,1.2,2.5,58,61015,Rodrigo Becão,3-5-2,3-4-3,Antonio Giua,Match Report,,2022-2023,Udinese
+2023-04-23,15:00,Serie A,Matchweek 31,Sun,Home,W,3,0,Cremonese,1.6,0.9,48,23455,Roberto Pereyra,3-5-1-1,4-3-1-2,Francesco Fourneau,Match Report,,2022-2023,Udinese
+2023-04-28,18:30,Serie A,Matchweek 32,Fri,Away,L,0,1,Lecce,0.7,2.0,61,23069,Roberto Pereyra,3-5-1-1,4-3-3,Matteo Marchetti,Match Report,,2022-2023,Udinese
+2023-05-04,20:45,Serie A,Matchweek 33,Thu,Home,D,1,1,Napoli,0.3,0.5,36,24911,Roberto Pereyra,3-5-1-1,4-3-3,Rosario Abisso,Match Report,,2022-2023,Udinese
+2023-05-08,18:30,Serie A,Matchweek 34,Mon,Home,W,2,0,Sampdoria,1.0,0.9,46,20430,Roberto Pereyra,3-5-2,3-4-1-2,Niccolò Baroni,Match Report,,2022-2023,Udinese
+2023-05-14,15:00,Serie A,Matchweek 35,Sun,Away,L,0,2,Fiorentina,0.3,2.1,55,27383,Roberto Pereyra,3-5-1-1,4-2-3-1,Daniele Paterna,Match Report,,2022-2023,Udinese
+2023-05-21,20:45,Serie A,Matchweek 36,Sun,Home,L,0,1,Lazio,0.5,2.0,40,21834,Roberto Pereyra,3-5-1-1,4-3-3,Luca Pairetto,Match Report,,2022-2023,Udinese
+2023-05-27,15:00,Serie A,Matchweek 37,Sat,Away,L,2,3,Salernitana,2.3,1.2,52,27035,Roberto Pereyra,3-5-1-1,3-4-3,Niccolò Baroni,Match Report,,2022-2023,Udinese
+2023-06-04,21:00,Serie A,Matchweek 38,Sun,Home,L,0,1,Juventus,0.8,1.3,43,23266,Roberto Pereyra,3-4-3,3-4-3,Marco Guida,Match Report,,2022-2023,Udinese

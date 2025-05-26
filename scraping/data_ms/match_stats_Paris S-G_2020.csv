@@ -1,0 +1,58 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-10,21:00,Ligue 1,Matchweek 2,Thu,Away,L,0,1,Lens,0.4,1.5,78.0,,Presnel Kimpembe,4-3-3,3-4-1-2,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Paris S-G
+2020-09-13,21:00,Ligue 1,Matchweek 3,Sun,Home,L,0,1,Marseille,2.4,0.8,65.0,,Presnel Kimpembe,4-3-3,4-3-3,Jérôme Brisard,Match Report,,2020-2021,Paris S-G
+2020-09-16,21:00,Ligue 1,Matchweek 1,Wed,Home,W,1,0,Metz,2.2,0.9,71.0,,Marquinhos,4-3-3,3-4-1-2,Mikael Lesage,Match Report,,2020-2021,Paris S-G
+2020-09-20,13:00,Ligue 1,Matchweek 4,Sun,Away,W,3,0,Nice,3.3,1.0,50.0,,Marquinhos,4-3-3,4-3-3,Benoît Bastien,Match Report,,2020-2021,Paris S-G
+2020-09-27,21:00,Ligue 1,Matchweek 5,Sun,Away,W,2,0,Reims,3.8,0.3,64.0,,Marquinhos,4-1-4-1,4-1-4-1,Ruddy Buquet,Match Report,,2020-2021,Paris S-G
+2020-10-02,21:00,Ligue 1,Matchweek 6,Fri,Home,W,6,1,Angers,2.4,1.0,57.0,,Marquinhos,4-4-2,5-4-1,Franck Schneider,Match Report,,2020-2021,Paris S-G
+2020-10-16,21:00,Ligue 1,Matchweek 7,Fri,Away,W,4,0,Nîmes,3.8,0.2,75.0,,Presnel Kimpembe,4-3-3,4-3-3,Clément Turpin,Match Report,,2020-2021,Paris S-G
+2020-10-20,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,eng Manchester Utd,1.4,1.4,61.0,,Presnel Kimpembe,4-3-3,3-4-1-2,Antonio Matéu Lahoz,Match Report,,2020-2021,Paris S-G
+2020-10-24,21:00,Ligue 1,Matchweek 8,Sat,Home,W,4,0,Dijon,3.8,1.6,55.0,,Marquinhos,4-3-3,4-3-3,Johan Hamel,Match Report,,2020-2021,Paris S-G
+2020-10-28,20:55,Champions Lg,Group stage,Wed,Away,W,2,0,tr Başakşehir,2.4,0.9,53.0,350.0,Marquinhos,4-4-2,4-1-4-1,Andreas Ekberg,Match Report,,2020-2021,Paris S-G
+2020-10-31,21:00,Ligue 1,Matchweek 9,Sat,Away,W,3,0,Nantes,2.4,1.7,63.0,,Keylor Navas,4-3-3,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Paris S-G
+2020-11-04,21:00,Champions Lg,Group stage,Wed,Away,L,1,2,de RB Leipzig,1.3,1.9,51.0,,Marquinhos,4-3-3,3-5-2,Szymon Marciniak,Match Report,,2020-2021,Paris S-G
+2020-11-07,21:00,Ligue 1,Matchweek 10,Sat,Home,W,3,0,Rennes,0.9,1.0,49.0,,Marquinhos,4-3-3,4-1-4-1,Benoît Bastien,Match Report,,2020-2021,Paris S-G
+2020-11-20,21:00,Ligue 1,Matchweek 11,Fri,Away,L,2,3,Monaco,1.9,3.9,48.0,,Presnel Kimpembe,4-4-2,4-4-1-1,Clément Turpin,Match Report,,2020-2021,Paris S-G
+2020-11-24,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,de RB Leipzig,1.1,1.4,38.0,,Marquinhos,4-3-3,4-2-3-1,Danny Makkelie,Match Report,,2020-2021,Paris S-G
+2020-11-28,21:00,Ligue 1,Matchweek 12,Sat,Home,D,2,2,Bordeaux,2.2,1.3,65.0,,Presnel Kimpembe,4-2-2-2,4-4-2,Jérémie Pignard,Match Report,,2020-2021,Paris S-G
+2020-12-02,20:00,Champions Lg,Group stage,Wed,Away,W,3,1,eng Manchester Utd,2.8,1.2,55.0,,Marquinhos,4-3-3,4-2-3-1,Daniele Orsato,Match Report,,2020-2021,Paris S-G
+2020-12-05,21:00,Ligue 1,Matchweek 13,Sat,Away,W,3,1,Montpellier,1.8,2.1,65.0,,Keylor Navas,5-3-2,4-3-3,Mikael Lesage,Match Report,,2020-2021,Paris S-G
+2020-12-09,18:55,Champions Lg,Group stage,Wed,Home,W,5,1,tr Başakşehir,3.1,0.8,68.0,,Marquinhos,5-3-2,4-3-3,Danny Makkelie,Match Report,,2020-2021,Paris S-G
+2020-12-13,21:00,Ligue 1,Matchweek 14,Sun,Home,L,0,1,Lyon,0.4,0.8,64.0,,Presnel Kimpembe,3-5-2,4-3-3,Benoît Bastien,Match Report,,2020-2021,Paris S-G
+2020-12-16,21:00,Ligue 1,Matchweek 15,Wed,Home,W,2,0,Lorient,2.7,1.4,74.0,,Ander Herrera,3-5-2,3-5-2,Johan Hamel,Match Report,,2020-2021,Paris S-G
+2020-12-20,21:00,Ligue 1,Matchweek 16,Sun,Away,D,0,0,Lille,0.7,0.5,69.0,,Marquinhos,3-4-3,4-4-1-1,François Letexier,Match Report,,2020-2021,Paris S-G
+2020-12-23,21:00,Ligue 1,Matchweek 17,Wed,Home,W,4,0,Strasbourg,2.9,0.6,69.0,,Marquinhos,3-5-2,3-5-1-1,Jérôme Miguelgorry,Match Report,,2020-2021,Paris S-G
+2021-01-06,21:00,Ligue 1,Matchweek 18,Wed,Away,D,1,1,Saint-Étienne,1.6,1.2,68.0,,Marquinhos,4-3-3,4-4-2,Karim Abed,Match Report,,2020-2021,Paris S-G
+2021-01-09,21:00,Ligue 1,Matchweek 19,Sat,Home,W,3,0,Brest,2.9,0.7,61.0,,Marquinhos,4-3-3,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2020-2021,Paris S-G
+2021-01-13,21:00,Trophée des Champions,Trophée des Champions,Wed,Neutral,W,2,1,Marseille,,,64.0,,Marquinhos,4-2-3-1,4-1-4-1,Ruddy Buquet,Match Report,,2020-2021,Paris S-G
+2021-01-16,21:00,Ligue 1,Matchweek 20,Sat,Away,W,1,0,Angers,1.4,0.9,61.0,,Marquinhos,4-2-3-1,4-4-2,Amaury Delerue,Match Report,,2020-2021,Paris S-G
+2021-01-22,21:00,Ligue 1,Matchweek 21,Fri,Home,W,4,0,Montpellier,4.5,0.4,72.0,,Marquinhos,4-2-3-1,4-4-1-1,Willy Delajod,Match Report,,2020-2021,Paris S-G
+2021-01-31,15:00,Ligue 1,Matchweek 22,Sun,Away,L,2,3,Lorient,2.6,1.8,65.0,,Presnel Kimpembe,4-4-2,5-4-1,Jeremy Stinat,Match Report,,2020-2021,Paris S-G
+2021-02-03,21:00,Ligue 1,Matchweek 23,Wed,Home,W,3,0,Nîmes,1.8,2.0,66.0,,Presnel Kimpembe,4-4-2,4-1-4-1,François Letexier,Match Report,,2020-2021,Paris S-G
+2021-02-07,21:00,Ligue 1,Matchweek 24,Sun,Away,W,2,0,Marseille,1.7,0.6,47.0,,Marquinhos,4-3-3,4-3-3,Benoît Bastien,Match Report,,2020-2021,Paris S-G
+2021-02-10,21:05,Coupe de France,Round of 64,Wed,Away,W,1,0,Caen,,,,,Neymar,4-2-3-1,3-4-3,Jérôme Miguelgorry,Match Report,,2020-2021,Paris S-G
+2021-02-13,17:00,Ligue 1,Matchweek 25,Sat,Home,W,2,1,Nice,2.6,1.0,55.0,,Marquinhos,4-2-3-1,4-1-4-1,Jérémie Pignard,Match Report,,2020-2021,Paris S-G
+2021-02-16,21:00,Champions Lg,Round of 16,Tue,Away,W,4,1,es Barcelona,2.8,1.6,47.0,,Marquinhos,4-3-3,4-3-3,Björn Kuipers,Match Report,Leg 1 of 2,2020-2021,Paris S-G
+2021-02-21,21:00,Ligue 1,Matchweek 26,Sun,Home,L,0,2,Monaco,0.7,1.3,74.0,,Marquinhos,4-3-3,3-4-3,Ruddy Buquet,Match Report,,2020-2021,Paris S-G
+2021-02-27,17:00,Ligue 1,Matchweek 27,Sat,Away,W,4,0,Dijon,1.9,0.2,60.0,,Marquinhos,4-2-3-1,5-3-2,Mikael Lesage,Match Report,,2020-2021,Paris S-G
+2021-03-03,21:00,Ligue 1,Matchweek 28,Wed,Away,W,1,0,Bordeaux,1.0,0.6,56.0,,Marquinhos,4-2-3-1,3-4-3,Franck Schneider,Match Report,,2020-2021,Paris S-G
+2021-03-06,21:10,Coupe de France,Round of 32,Sat,Away,W,3,0,Brest,,,49.0,,Marco Verratti,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2020-2021,Paris S-G
+2021-03-10,21:00,Champions Lg,Round of 16,Wed,Home,D,1,1,es Barcelona,1.7,2.2,28.0,,Marquinhos,4-3-3,3-4-1-2,Anthony Taylor,Match Report,Leg 2 of 2; Paris S-G won,2020-2021,Paris S-G
+2021-03-14,21:00,Ligue 1,Matchweek 29,Sun,Home,L,1,2,Nantes,0.6,1.3,73.0,,Marquinhos,4-2-3-1,3-4-3,Karim Abed,Match Report,,2020-2021,Paris S-G
+2021-03-17,17:45,Coupe de France,Round of 16,Wed,Home,W,3,0,Lille,,,50.0,,Marquinhos,4-2-3-1,4-4-2,Willy Delajod,Match Report,,2020-2021,Paris S-G
+2021-03-21,21:00,Ligue 1,Matchweek 30,Sun,Away,W,4,2,Lyon,1.4,0.8,57.0,,Marquinhos,4-2-3-1,4-3-3,Clément Turpin,Match Report,,2020-2021,Paris S-G
+2021-04-03,17:00,Ligue 1,Matchweek 31,Sat,Home,L,0,1,Lille,1.1,0.5,65.0,,Marquinhos,4-2-3-1,4-4-2,Benoît Bastien,Match Report,,2020-2021,Paris S-G
+2021-04-07,21:00,Champions Lg,Quarter-finals,Wed,Away,W,3,2,de Bayern Munich,1.3,3.7,36.0,,Marquinhos,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2020-2021,Paris S-G
+2021-04-10,17:00,Ligue 1,Matchweek 32,Sat,Away,W,4,1,Strasbourg,1.9,0.9,63.0,,Presnel Kimpembe,4-2-3-1,4-2-3-1,Jérémie Pignard,Match Report,,2020-2021,Paris S-G
+2021-04-13,21:00,Champions Lg,Quarter-finals,Tue,Home,L,0,1,de Bayern Munich,1.6,1.5,45.0,,Presnel Kimpembe,4-2-3-1,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Paris S-G won,2020-2021,Paris S-G
+2021-04-18,13:00,Ligue 1,Matchweek 33,Sun,Home,W,3,2,Saint-Étienne,2.2,1.2,71.0,,Presnel Kimpembe,4-2-3-1,4-4-2,Ruddy Buquet,Match Report,,2020-2021,Paris S-G
+2021-04-21,18:45,Coupe de France,Quarter-finals,Wed,Home,W,5,0,Angers,,,66.0,,Neymar,4-2-3-1,4-2-3-1,Amaury Delerue,Match Report,,2020-2021,Paris S-G
+2021-04-24,17:00,Ligue 1,Matchweek 34,Sat,Away,W,3,1,Metz,2.9,0.7,66.0,,Presnel Kimpembe,4-3-3,3-5-1-1,Willy Delajod,Match Report,,2020-2021,Paris S-G
+2021-04-28,21:00,Champions Lg,Semi-finals,Wed,Home,L,1,2,eng Manchester City,1.0,0.8,41.0,,Marquinhos,4-2-3-1,4-3-3,Felix Brych,Match Report,Leg 1 of 2,2020-2021,Paris S-G
+2021-05-01,17:00,Ligue 1,Matchweek 35,Sat,Home,W,2,1,Lens,1.4,1.6,59.0,,Marquinhos,4-2-3-1,5-3-2,Jérôme Brisard,Match Report,,2020-2021,Paris S-G
+2021-05-04,20:00,Champions Lg,Semi-finals,Tue,Away,L,0,2,eng Manchester City,0.8,1.4,56.0,,Marquinhos,4-3-3,4-4-2,Björn Kuipers,Match Report,Leg 2 of 2; Manchester City won,2020-2021,Paris S-G
+2021-05-09,21:00,Ligue 1,Matchweek 36,Sun,Away,D,1,1,Rennes,1.6,1.0,57.0,,Marquinhos,4-2-3-1,4-4-2,Ruddy Buquet,Match Report,,2020-2021,Paris S-G
+2021-05-12,21:00,Coupe de France,Semi-finals,Wed,Away,D,2 (6),2 (5),Montpellier,,,63.0,,Marquinhos,4-3-3,3-4-1-2,Jérémie Pignard,Match Report,Paris S-G won on penalty kicks following extra time,2020-2021,Paris S-G
+2021-05-16,21:00,Ligue 1,Matchweek 37,Sun,Home,W,4,0,Reims,3.6,0.1,58.0,,Marquinhos,4-2-3-1,4-1-4-1,Clément Turpin,Match Report,,2020-2021,Paris S-G
+2021-05-19,21:15,Coupe de France,Final,Wed,Neutral,W,2,0,Monaco,,,55.0,,Marquinhos,4-3-3,4-5-1,François Letexier,Match Report,,2020-2021,Paris S-G
+2021-05-23,21:00,Ligue 1,Matchweek 38,Sun,Away,W,2,0,Brest,2.4,1.4,63.0,,Marquinhos,4-3-3,4-4-2,Mikael Lesage,Match Report,,2020-2021,Paris S-G

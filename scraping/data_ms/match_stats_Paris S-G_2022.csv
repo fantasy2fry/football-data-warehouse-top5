@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-31,21:00,Trophée des Champions,Trophée des Champions,Sun,Neutral,W,4,0,Nantes,,,62.0,28000,Marquinhos,3-4-3,3-4-1-2,Orel Grinfeeld,Match Report,,2022-2023,Paris S-G
+2022-08-06,21:00,Ligue 1,Matchweek 1,Sat,Away,W,5,0,Clermont Foot,3.5,0.3,62.0,12203,Marquinhos,3-4-3,4-2-3-1,Jeremy Stinat,Match Report,,2022-2023,Paris S-G
+2022-08-13,21:00,Ligue 1,Matchweek 2,Sat,Home,W,5,2,Montpellier,3.2,0.9,59.0,46000,Marquinhos,3-4-1-2,4-1-4-1,Willy Delajod,Match Report,,2022-2023,Paris S-G
+2022-08-21,20:45,Ligue 1,Matchweek 3,Sun,Away,W,7,1,Lille,3.4,1.7,52.0,47526,Marquinhos,3-4-3,4-2-3-1,Clément Turpin,Match Report,,2022-2023,Paris S-G
+2022-08-28,20:45,Ligue 1,Matchweek 4,Sun,Home,D,1,1,Monaco,2.7,1.2,67.0,46000,Marquinhos,3-4-3,5-3-2,Benoît Bastien,Match Report,,2022-2023,Paris S-G
+2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Away,W,3,0,Toulouse,2.8,0.8,62.0,31700,Marquinhos,3-4-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Paris S-G
+2022-09-03,21:00,Ligue 1,Matchweek 6,Sat,Away,W,3,0,Nantes,2.7,0.4,60.0,34406,Marquinhos,3-4-3,3-4-3,Pierre Gaillouste,Match Report,,2022-2023,Paris S-G
+2022-09-06,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,it Juventus,1.7,1.0,57.0,47415,Marquinhos,3-4-3,3-5-2,Anthony Taylor,Match Report,,2022-2023,Paris S-G
+2022-09-10,17:00,Ligue 1,Matchweek 7,Sat,Home,W,1,0,Brest,1.7,1.1,61.0,45000,Presnel Kimpembe,3-4-1-2,5-3-2,Jérémie Pignard,Match Report,,2022-2023,Paris S-G
+2022-09-14,22:00,Champions Lg,Group stage,Wed,Away,W,3,1,il Maccabi Haifa,1.8,1.0,56.0,30412,Marquinhos,3-4-3,5-3-2,Daniel Siebert,Match Report,,2022-2023,Paris S-G
+2022-09-18,20:45,Ligue 1,Matchweek 8,Sun,Away,W,1,0,Lyon,1.6,1.0,65.0,58230,Marquinhos,3-4-3,4-4-2,François Letexier,Match Report,,2022-2023,Paris S-G
+2022-10-01,21:00,Ligue 1,Matchweek 9,Sat,Home,W,2,1,Nice,1.0,0.5,57.0,47000,Marquinhos,3-4-3,5-4-1,Jérôme Brisard,Match Report,,2022-2023,Paris S-G
+2022-10-05,20:00,Champions Lg,Group stage,Wed,Away,D,1,1,pt Benfica,1.0,1.4,64.0,62295,Marquinhos,3-4-3,4-2-3-1,Jesús Gil,Match Report,,2022-2023,Paris S-G
+2022-10-08,21:00,Ligue 1,Matchweek 10,Sat,Away,D,0,0,Reims,1.2,1.8,63.0,20543,Marquinhos,3-4-3,3-5-2,Pierre Gaillouste,Match Report,,2022-2023,Paris S-G
+2022-10-11,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,pt Benfica,1.2,1.2,61.0,46435,Marquinhos,3-4-3,4-2-3-1,Michael Oliver,Match Report,,2022-2023,Paris S-G
+2022-10-16,20:45,Ligue 1,Matchweek 11,Sun,Home,W,1,0,Marseille,2.5,1.2,50.0,47000,Marquinhos,4-3-1-2,3-4-3,Clément Turpin,Match Report,,2022-2023,Paris S-G
+2022-10-21,21:00,Ligue 1,Matchweek 12,Fri,Away,W,3,0,Ajaccio,2.5,0.3,65.0,10000,Marquinhos,4-3-1-2,4-4-2,Johan Hamel,Match Report,,2022-2023,Paris S-G
+2022-10-25,21:00,Champions Lg,Group stage,Tue,Home,W,7,2,il Maccabi Haifa,2.6,0.8,62.0,46435,Marquinhos,4-3-1-2,3-5-2,Felix Zwayer,Match Report,,2022-2023,Paris S-G
+2022-10-29,17:00,Ligue 1,Matchweek 13,Sat,Home,W,4,3,Troyes,2.9,2.0,67.0,47000,Presnel Kimpembe,4-3-3,5-4-1,Eric Wattellier,Match Report,,2022-2023,Paris S-G
+2022-11-02,21:00,Champions Lg,Group stage,Wed,Away,W,2,1,it Juventus,0.5,1.6,53.0,41089,Marquinhos,4-3-1-2,3-5-1-1,Carlos del Cerro,Match Report,,2022-2023,Paris S-G
+2022-11-06,13:00,Ligue 1,Matchweek 14,Sun,Away,W,2,1,Lorient,1.6,0.8,59.0,16778,Marquinhos,3-4-1-2,4-1-4-1,Benoît Bastien,Match Report,,2022-2023,Paris S-G
+2022-11-13,13:00,Ligue 1,Matchweek 15,Sun,Home,W,5,0,Auxerre,2.0,0.7,59.0,45000,Marco Verratti,4-3-1-2,5-4-1,Thomas Léonard,Match Report,,2022-2023,Paris S-G
+2022-12-28,21:00,Ligue 1,Matchweek 16,Wed,Home,W,2,1,Strasbourg,2.1,1.3,71.0,47000,Marquinhos,4-3-1-2,4-1-2-1-2,Clément Turpin,Match Report,,2022-2023,Paris S-G
+2023-01-01,20:45,Ligue 1,Matchweek 17,Sun,Away,L,1,3,Lens,1.6,1.8,59.0,38047,Marquinhos,4-3-1-2,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Paris S-G
+2023-01-06,21:00,Coupe de France,Round of 64,Fri,Away,W,3,1,Châteauroux,,,63.0,14003,Marquinhos,4-3-1-2,4-3-3,Bastien Dechepy,Match Report,,2022-2023,Paris S-G
+2023-01-11,21:00,Ligue 1,Matchweek 18,Wed,Home,W,2,0,Angers,1.3,0.5,66.0,47000,Marquinhos,3-4-3,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Paris S-G
+2023-01-15,20:45,Ligue 1,Matchweek 19,Sun,Away,L,0,1,Rennes,1.0,0.8,65.0,27566,Marquinhos,3-4-3,3-4-3,Benoît Bastien,Match Report,,2022-2023,Paris S-G
+2023-01-23,20:45,Coupe de France,Round of 32,Mon,Away,W,7,0,US Pays de Cassel,,,,37875,Kylian Mbappé,4-3-1-2,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Paris S-G
+2023-01-29,20:45,Ligue 1,Matchweek 20,Sun,Home,D,1,1,Reims,1.6,2.5,59.0,46000,Marquinhos,4-2-3-1,4-5-1,Ruddy Buquet,Match Report,,2022-2023,Paris S-G
+2023-02-01,21:00,Ligue 1,Matchweek 21,Wed,Away,W,3,1,Montpellier,4.4,0.5,66.0,17454,Marquinhos,4-1-3-2,3-5-2,Jérémie Pignard,Match Report,,2022-2023,Paris S-G
+2023-02-04,17:00,Ligue 1,Matchweek 22,Sat,Home,W,2,1,Toulouse,1.9,0.8,61.0,45000,Marquinhos,4-1-2-1-2◆,4-3-3,Bastien Dechepy,Match Report,,2022-2023,Paris S-G
+2023-02-08,21:10,Coupe de France,Round of 16,Wed,Away,L,1,2,Marseille,,,56.0,65329,Marquinhos,4-1-3-2,3-4-3,François Letexier,Match Report,,2022-2023,Paris S-G
+2023-02-11,17:00,Ligue 1,Matchweek 23,Sat,Away,L,1,3,Monaco,0.8,2.9,58.0,16500,Marquinhos,3-5-2,4-2-2-2,Clément Turpin,Match Report,,2022-2023,Paris S-G
+2023-02-14,21:00,Champions Lg,Round of 16,Tue,Home,L,0,1,de Bayern Munich,0.8,1.4,46.0,46435,Marquinhos,4-4-2,3-4-3,Michael Oliver,Match Report,Leg 1 of 2,2022-2023,Paris S-G
+2023-02-19,13:00,Ligue 1,Matchweek 24,Sun,Home,W,4,3,Lille,2.0,2.4,46.0,46000,Presnel Kimpembe,4-3-1-2,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Paris S-G
+2023-02-26,20:45,Ligue 1,Matchweek 25,Sun,Away,W,3,0,Marseille,2.0,1.6,46.0,65894,Marquinhos,3-5-2,3-4-3,Clément Turpin,Match Report,,2022-2023,Paris S-G
+2023-03-04,21:00,Ligue 1,Matchweek 26,Sat,Home,W,4,2,Nantes,1.4,0.4,67.0,47926,Marquinhos,3-5-2,5-3-2,Jeremy Stinat,Match Report,,2022-2023,Paris S-G
+2023-03-08,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,de Bayern Munich,1.1,1.7,55.0,75000,Marquinhos,3-5-2,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Bayern Munich won,2022-2023,Paris S-G
+2023-03-11,21:00,Ligue 1,Matchweek 27,Sat,Away,W,2,1,Brest,2.6,0.6,61.0,14935,Kylian Mbappé,4-2-2-2,4-1-4-1,Marc Bollengier,Match Report,,2022-2023,Paris S-G
+2023-03-19,17:05,Ligue 1,Matchweek 28,Sun,Home,L,0,2,Rennes,1.7,1.5,60.0,47000,Kylian Mbappé,3-5-2,5-4-1,Willy Delajod,Match Report,,2022-2023,Paris S-G
+2023-04-02,20:45,Ligue 1,Matchweek 29,Sun,Home,L,0,1,Lyon,1.1,1.6,62.0,47000,Marquinhos,3-5-2,3-4-1-2,François Letexier,Match Report,,2022-2023,Paris S-G
+2023-04-08,21:00,Ligue 1,Matchweek 30,Sat,Away,W,2,0,Nice,1.2,1.5,55.0,34456,Marquinhos,3-5-2,5-4-1,Jérémie Pignard,Match Report,,2022-2023,Paris S-G
+2023-04-15,21:00,Ligue 1,Matchweek 31,Sat,Home,W,3,1,Lens,1.2,1.8,62.0,47120,Marquinhos,3-5-2,3-4-3,Willy Delajod,Match Report,,2022-2023,Paris S-G
+2023-04-21,21:00,Ligue 1,Matchweek 32,Fri,Away,W,2,1,Angers,1.6,1.8,65.0,16914,Marquinhos,3-5-2,5-3-2,Eric Wattellier,Match Report,,2022-2023,Paris S-G
+2023-04-30,17:05,Ligue 1,Matchweek 33,Sun,Home,L,1,3,Lorient,1.8,2.9,54.0,41454,Marquinhos,4-4-2,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Paris S-G
+2023-05-07,20:45,Ligue 1,Matchweek 34,Sun,Away,W,3,1,Troyes,4.1,0.7,60.0,18890,Marquinhos,3-5-2,3-4-3,Ruddy Buquet,Match Report,,2022-2023,Paris S-G
+2023-05-13,21:00,Ligue 1,Matchweek 35,Sat,Home,W,5,0,Ajaccio,2.3,0.4,73.0,47926,Marquinhos,3-4-3,4-3-3,Pierre Gaillouste,Match Report,,2022-2023,Paris S-G
+2023-05-21,20:45,Ligue 1,Matchweek 36,Sun,Away,W,2,1,Auxerre,2.1,0.9,63.0,16682,Marquinhos,3-4-3,5-4-1,Benoît Bastien,Match Report,,2022-2023,Paris S-G
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Away,D,1,1,Strasbourg,1.0,1.2,66.0,25828,Kylian Mbappé,3-5-2,3-5-1-1,Jérôme Brisard,Match Report,,2022-2023,Paris S-G
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Home,L,2,3,Clermont Foot,2.2,3.1,54.0,47926,Kylian Mbappé,3-4-1-2,3-4-3,Thomas Léonard,Match Report,,2022-2023,Paris S-G

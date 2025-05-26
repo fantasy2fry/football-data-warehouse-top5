@@ -1,0 +1,56 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-15,22:00,Super Cup,UEFA Super Cup,Wed,Neutral,L,2,4,es Atlético Madrid,,,59,12424,Sergio Ramos,4-2-3-1,4-4-2,Szymon Marciniak,Match Report,Required Extra Time,2018-2019,Real Madrid
+2018-08-19,22:15,La Liga,Matchweek 1,Sun,Home,W,2,0,Getafe,1.0,0.2,77,48446,Sergio Ramos,4-3-3,4-1-4-1,Javier Estrada,Match Report,,2018-2019,Real Madrid
+2018-08-26,22:15,La Liga,Matchweek 2,Sun,Away,W,4,1,Girona,3.9,0.4,66,13889,Sergio Ramos,4-2-3-1,4-3-3,Juan Martínez,Match Report,,2018-2019,Real Madrid
+2018-09-01,20:45,La Liga,Matchweek 3,Sat,Home,W,4,1,Leganés,2.5,1.1,77,59255,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,2018-2019,Real Madrid
+2018-09-15,20:45,La Liga,Matchweek 4,Sat,Away,D,1,1,Athletic Club,1.8,1.4,61,46413,Sergio Ramos,4-3-3,4-2-3-1,José González,Match Report,,2018-2019,Real Madrid
+2018-09-19,21:00,Champions Lg,Group stage,Wed,Home,W,3,0,it Roma,3.5,0.6,61,69251,Sergio Ramos,4-3-3,4-3-3,Björn Kuipers,Match Report,,2018-2019,Real Madrid
+2018-09-22,20:45,La Liga,Matchweek 5,Sat,Home,W,1,0,Espanyol,1.0,0.4,64,67658,Sergio Ramos,4-3-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Real Madrid
+2018-09-26,22:00,La Liga,Matchweek 6,Wed,Away,L,0,3,Sevilla,1.5,2.4,60,40972,Sergio Ramos,4-3-3,3-5-2,Alejandro Hernández,Match Report,,2018-2019,Real Madrid
+2018-09-29,20:45,La Liga,Matchweek 7,Sat,Home,D,0,0,Atlético Madrid,1.2,0.8,65,78642,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,2018-2019,Real Madrid
+2018-10-02,22:00,Champions Lg,Group stage,Tue,Away,L,0,1,ru CSKA Moscow,2.2,0.4,72,71811,Karim Benzema,4-3-3,3-4-3,Ovidiu Hațegan,Match Report,,2018-2019,Real Madrid
+2018-10-06,18:30,La Liga,Matchweek 8,Sat,Away,L,0,1,Alavés,0.8,1.1,69,19461,Sergio Ramos,4-3-3,4-3-3,Santiago Jaime,Match Report,,2018-2019,Real Madrid
+2018-10-20,13:00,La Liga,Matchweek 9,Sat,Home,L,1,2,Levante,2.9,2.0,70,63423,Sergio Ramos,4-3-3,3-1-4-2,Guillermo Cuadra,Match Report,,2018-2019,Real Madrid
+2018-10-23,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,cz Viktoria Plzeň,2.6,1.6,68,67356,Sergio Ramos,4-3-3,4-2-3-1,Orel Grinfeeld,Match Report,,2018-2019,Real Madrid
+2018-10-28,16:15,La Liga,Matchweek 10,Sun,Away,L,1,5,Barcelona,2.1,3.0,47,93265,Sergio Ramos,4-3-3,4-3-3,José Sánchez,Match Report,,2018-2019,Real Madrid
+2018-10-31,18:30,Copa del Rey,Round of 32,Wed,Away,W,4,0,Melilla,,,60,7212,,4-3-3,4-1-4-1,Ricardo de Burgos,Match Report,Leg 1 of 2,2018-2019,Real Madrid
+2018-11-03,16:15,La Liga,Matchweek 11,Sat,Home,W,2,0,Valladolid,2.2,0.9,58,68050,Sergio Ramos,4-3-3,4-4-2,Jesús Gil,Match Report,,2018-2019,Real Madrid
+2018-11-07,21:00,Champions Lg,Group stage,Wed,Away,W,5,0,cz Viktoria Plzeň,1.6,0.5,62,11483,Sergio Ramos,4-2-3-1,4-1-4-1,Deniz Aytekin,Match Report,,2018-2019,Real Madrid
+2018-11-11,20:45,La Liga,Matchweek 12,Sun,Away,W,4,2,Celta Vigo,2.5,0.9,48,21184,Sergio Ramos,4-3-3,4-4-2,Alberto Undiano,Match Report,,2018-2019,Real Madrid
+2018-11-24,13:00,La Liga,Matchweek 13,Sat,Away,L,0,3,Eibar,1.1,2.8,60,6435,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,2018-2019,Real Madrid
+2018-11-27,21:00,Champions Lg,Group stage,Tue,Away,W,2,0,it Roma,1.7,2.1,59,59124,Sergio Ramos,4-3-3,4-2-3-1,Ruddy Buquet,Match Report,,2018-2019,Real Madrid
+2018-12-01,20:45,La Liga,Matchweek 14,Sat,Home,W,2,0,Valencia,0.8,0.8,60,69653,Sergio Ramos,4-3-3,4-4-2,José González,Match Report,,2018-2019,Real Madrid
+2018-12-06,16:15,Copa del Rey,Round of 32,Thu,Home,W,6,1,Melilla,,,59,55243,Isco,4-3-3,4-2-3-1,Alberola Rojas,Match Report,Leg 2 of 2; Real Madrid won,2018-2019,Real Madrid
+2018-12-09,16:15,La Liga,Matchweek 15,Sun,Away,W,1,0,Huesca,0.4,1.2,55,7341,Sergio Ramos,4-1-4-1,4-2-3-1,Mario Melero,Match Report,,2018-2019,Real Madrid
+2018-12-12,18:55,Champions Lg,Group stage,Wed,Home,L,0,3,ru CSKA Moscow,1.3,0.9,68,51636,Marcelo,4-2-3-1,3-4-3,Hugo Miguel,Match Report,,2018-2019,Real Madrid
+2018-12-15,18:30,La Liga,Matchweek 16,Sat,Home,W,1,0,Rayo Vallecano,1.2,0.7,69,55229,Sergio Ramos,4-3-3,4-1-4-1,Ricardo de Burgos,Match Report,,2018-2019,Real Madrid
+2019-01-03,21:30,La Liga,Matchweek 17,Thu,Away,D,2,2,Villarreal,1.6,1.2,54,19903,Sergio Ramos,4-3-3,4-2-3-1,Pablo González,Match Report,,2018-2019,Real Madrid
+2019-01-06,18:30,La Liga,Matchweek 18,Sun,Home,L,0,2,Real Sociedad,2.6,2.3,59,53412,Sergio Ramos,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,2018-2019,Real Madrid
+2019-01-09,21:30,Copa del Rey,Round of 16,Wed,Home,W,3,0,Leganés,,,64,44231,Sergio Ramos,4-3-3,5-4-1,Jesús Gil,Match Report,Leg 1 of 2,2018-2019,Real Madrid
+2019-01-13,20:45,La Liga,Matchweek 19,Sun,Away,W,2,1,Betis,0.7,0.8,28,54187,Sergio Ramos,3-4-3,4-3-3,Alejandro Hernández,Match Report,,2018-2019,Real Madrid
+2019-01-16,21:30,Copa del Rey,Round of 16,Wed,Away,L,0,1,Leganés,,,50,9437,Marcelo,4-2-3-1,5-3-2,Juan Martínez,Match Report,Leg 2 of 2; Real Madrid won,2018-2019,Real Madrid
+2019-01-19,16:15,La Liga,Matchweek 20,Sat,Home,W,2,0,Sevilla,1.5,0.5,69,68232,Sergio Ramos,4-3-3,5-3-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Real Madrid
+2019-01-24,21:30,Copa del Rey,Quarter-finals,Thu,Home,W,4,2,Girona,,,59,50865,Sergio Ramos,4-3-3,5-4-1,Alberto Undiano,Match Report,Leg 1 of 2,2018-2019,Real Madrid
+2019-01-27,20:45,La Liga,Matchweek 21,Sun,Away,W,4,2,Espanyol,2.1,1.1,63,21215,Sergio Ramos,4-3-3,4-3-3,Jesús Gil,Match Report,,2018-2019,Real Madrid
+2019-01-31,21:30,Copa del Rey,Quarter-finals,Thu,Away,W,3,1,Girona,,,55,14158,Sergio Ramos,4-3-3,5-3-2,Juan Martínez,Match Report,Leg 2 of 2; Real Madrid won,2018-2019,Real Madrid
+2019-02-03,20:45,La Liga,Matchweek 22,Sun,Home,W,3,0,Alavés,2.5,0.6,70,53132,Sergio Ramos,4-3-3,4-5-1,Santiago Jaime,Match Report,,2018-2019,Real Madrid
+2019-02-06,21:00,Copa del Rey,Semi-finals,Wed,Away,D,1,1,Barcelona,,,43,92008,Sergio Ramos,4-3-3,4-3-3,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2018-2019,Real Madrid
+2019-02-09,16:15,La Liga,Matchweek 23,Sat,Away,W,3,1,Atlético Madrid,1.6,1.1,65,67752,Sergio Ramos,4-3-3,4-4-2,Javier Estrada,Match Report,,2018-2019,Real Madrid
+2019-02-13,21:00,Champions Lg,Round of 16,Wed,Away,W,2,1,nl Ajax,1.5,2.2,50,52286,Sergio Ramos,4-3-3,4-2-3-1,Szymon Marciniak,Match Report,Leg 1 of 2,2018-2019,Real Madrid
+2019-02-17,12:00,La Liga,Matchweek 24,Sun,Home,L,1,2,Girona,1.8,2.6,57,68099,Sergio Ramos,4-3-3,4-1-4-1,Guillermo Cuadra,Match Report,,2018-2019,Real Madrid
+2019-02-24,20:45,La Liga,Matchweek 25,Sun,Away,W,2,1,Levante,2.7,1.2,60,23018,Karim Benzema,4-3-3,3-5-2,Ignacio Iglesias,Match Report,,2018-2019,Real Madrid
+2019-02-27,21:00,Copa del Rey,Semi-finals,Wed,Home,L,0,3,Barcelona,,,49,80472,Sergio Ramos,4-3-3,4-4-2,José Sánchez,Match Report,Leg 2 of 2; Barcelona won,2018-2019,Real Madrid
+2019-03-02,20:45,La Liga,Matchweek 26,Sat,Home,L,0,1,Barcelona,0.9,1.1,49,78921,Sergio Ramos,4-3-3,4-3-3,Alberto Undiano,Match Report,,2018-2019,Real Madrid
+2019-03-05,21:00,Champions Lg,Round of 16,Tue,Home,L,1,4,nl Ajax,2.5,2.6,57,77013,Karim Benzema,4-3-3,4-2-3-1,Felix Brych,Match Report,Leg 2 of 2; Ajax won,2018-2019,Real Madrid
+2019-03-10,20:45,La Liga,Matchweek 27,Sun,Away,W,4,1,Valladolid,2.8,2.2,61,21914,Karim Benzema,4-3-3,4-4-1-1,Jesús Gil,Match Report,,2018-2019,Real Madrid
+2019-03-16,16:15,La Liga,Matchweek 28,Sat,Home,W,2,0,Celta Vigo,2.5,0.4,54,65054,Sergio Ramos,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,2018-2019,Real Madrid
+2019-03-31,20:45,La Liga,Matchweek 29,Sun,Home,W,3,2,Huesca,4.1,1.7,70,49269,Sergio Ramos,4-3-3,5-3-2,Javier Estrada,Match Report,,2018-2019,Real Madrid
+2019-04-03,21:30,La Liga,Matchweek 30,Wed,Away,L,1,2,Valencia,0.8,1.8,67,44274,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,2018-2019,Real Madrid
+2019-04-06,16:15,La Liga,Matchweek 31,Sat,Home,W,2,1,Eibar,1.6,0.8,56,50284,Karim Benzema,4-3-3,4-1-4-1,Pablo González,Match Report,,2018-2019,Real Madrid
+2019-04-15,21:00,La Liga,Matchweek 32,Mon,Away,D,1,1,Leganés,1.2,0.6,69,12118,Marcelo,4-3-3,5-3-2,David Medié,Match Report,,2018-2019,Real Madrid
+2019-04-21,16:15,La Liga,Matchweek 33,Sun,Home,W,3,0,Athletic Club,1.9,0.5,57,59815,Marcelo,4-3-3,4-2-3-1,Mario Melero,Match Report,,2018-2019,Real Madrid
+2019-04-25,21:30,La Liga,Matchweek 34,Thu,Away,D,0,0,Getafe,1.8,0.6,66,13135,Karim Benzema,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,2018-2019,Real Madrid
+2019-04-28,20:45,La Liga,Matchweek 35,Sun,Away,L,0,1,Rayo Vallecano,0.5,1.8,50,13273,Marcelo,4-2-2-2,4-2-3-1,Pablo González,Match Report,,2018-2019,Real Madrid
+2019-05-05,16:15,La Liga,Matchweek 36,Sun,Home,W,3,2,Villarreal,2.7,0.7,60,46294,Marcelo,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2018-2019,Real Madrid
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Real Sociedad,0.9,2.1,46,27322,Marcelo,4-3-3,4-2-3-1,Juan Martínez,Match Report,,2018-2019,Real Madrid
+2019-05-19,12:00,La Liga,Matchweek 38,Sun,Home,L,0,2,Betis,0.9,1.3,47,56900,Marcelo,4-3-3,3-1-4-2,Alberto Undiano,Match Report,,2018-2019,Real Madrid

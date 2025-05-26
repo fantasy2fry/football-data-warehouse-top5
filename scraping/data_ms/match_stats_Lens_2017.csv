@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2017-07-31,20:45,Ligue 2,Matchweek 1,Mon,Away,L,0,1,Auxerre,54.0,12870,Dusan Cvetinovic,4-2-3-1,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2017-2018,Lens
+2017-08-04,20:00,Ligue 2,Matchweek 2,Fri,Home,L,1,2,Nîmes,45.0,25265,Dusan Cvetinovic,4-2-3-1,4-4-2,Florent Batta,Match Report,,2017-2018,Lens
+2017-08-08,21:00,Coupe de la Ligue,First round,Tue,Home,W,2,1,Ajaccio,,12070,Dusan Cvetinovic,4-2-3-1,4-3-3,Jérôme Brisard,Match Report,,2017-2018,Lens
+2017-08-12,15:00,Ligue 2,Matchweek 3,Sat,Away,L,2,3,Sochaux,64.0,10327,Dusan Cvetinovic,4-2-3-1,4-3-3,Amaury Delerue,Match Report,,2017-2018,Lens
+2017-08-19,15:00,Ligue 2,Matchweek 4,Sat,Home,L,2,4,Brest,57.0,24680,Dusan Cvetinovic,4-4-2,4-3-3,Nicolas Rainville,Match Report,,2017-2018,Lens
+2017-08-22,18:30,Coupe de la Ligue,Second round,Tue,Away,L,2,3,Lorient,,7790,Djiman Koukou,4-5-1,4-2-3-1,Thomas Léonard,Match Report,,2017-2018,Lens
+2017-08-28,20:45,Ligue 2,Matchweek 5,Mon,Away,L,0,2,Orléans,69.0,6413,Dusan Cvetinovic,4-2-3-1,4-3-3,Benoît Millot,Match Report,,2017-2018,Lens
+2017-09-09,15:00,Ligue 2,Matchweek 6,Sat,Home,L,2,3,Lorient,51.0,21931,Dusan Cvetinovic,4-3-3,4-4-2,Florent Batta,Match Report,,2017-2018,Lens
+2017-09-15,20:00,Ligue 2,Matchweek 7,Fri,Away,L,0,1,Valenciennes,54.0,15182,Dusan Cvetinovic,4-2-3-1,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2017-2018,Lens
+2017-09-18,20:45,Ligue 2,Matchweek 8,Mon,Home,W,2,0,Quevilly-Rouen,50.0,20891,Dusan Cvetinovic,4-1-4-1,4-1-4-1,Franck Schneider,Match Report,,2017-2018,Lens
+2017-09-25,20:45,Ligue 2,Matchweek 9,Mon,Away,L,0,1,Clermont Foot,54.0,3778,Nicolas Douchez,4-1-4-1,4-2-3-1,Sylvain Palhies,Match Report,,2017-2018,Lens
+2017-09-29,20:00,Ligue 2,Matchweek 10,Fri,Home,W,2,0,Gazélec Ajaccio,51.0,21147,Nicolas Douchez,4-3-3,4-1-4-1,Stéphanie Frappart,Match Report,,2017-2018,Lens
+2017-10-13,20:00,Ligue 2,Matchweek 11,Fri,Away,W,6,0,Bourg-Péronnas,42.0,3165,Nicolas Douchez,4-4-1-1,3-5-2,Cédric Dos Santos,Match Report,,2017-2018,Lens
+2017-10-21,15:00,Ligue 2,Matchweek 12,Sat,Home,L,0,1,Reims,72.0,35520,Nicolas Douchez,4-2-3-1,4-4-2,Jeremy Stinat,Match Report,,2017-2018,Lens
+2017-10-30,20:45,Ligue 2,Matchweek 13,Mon,Away,D,0,0,Châteauroux,63.0,9530,Dusan Cvetinovic,4-3-3,4-3-3,William Lavis,Match Report,,2017-2018,Lens
+2017-11-04,14:55,Ligue 2,Matchweek 14,Sat,Away,D,1,1,Nancy,61.0,13800,Dusan Cvetinovic,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2017-2018,Lens
+2017-11-10,18:30,Coupe de France,Seventh round,Fri,Away,W,5,0,Noeux,,11849,Dusan Cvetinovic,,,Guillaume Paradis,Match Report,,2017-2018,Lens
+2017-11-20,20:45,Ligue 2,Matchweek 15,Mon,Home,W,3,1,Niort,46.0,23597,Jérémy Vachoux,4-4-2,4-3-3,Willy Delajod,Match Report,,2017-2018,Lens
+2017-11-25,15:15,Ligue 2,Matchweek 16,Sat,Away,L,0,1,Le Havre,51.0,10299,Clément Chantôme,4-1-4-1,4-2-3-1,Jeremy Stinat,Match Report,,2017-2018,Lens
+2017-11-28,21:00,Ligue 2,Matchweek 17,Tue,Home,W,2,0,Ajaccio,48.0,20880,Clément Chantôme,4-3-3,4-3-3,Sébastien Desiage,Match Report,,2017-2018,Lens
+2017-12-03,13:45,Coupe de France,Eighth round,Sun,Home,W,3,2,Reims,,11542,Jean-Ricner Bellegarde,,,Johan Hamel,Match Report,Required Extra Time,2017-2018,Lens
+2017-12-08,20:00,Ligue 2,Matchweek 18,Fri,Away,D,2,2,Paris FC,41.0,5568,Jean-Ricner Bellegarde,4-4-2,4-3-3,Aurélien Petit,Match Report,,2017-2018,Lens
+2017-12-18,20:45,Ligue 2,Matchweek 19,Mon,Home,W,2,0,Tours,56.0,22864,Djiman Koukou,4-3-3,4-4-2,Jeremy Stinat,Match Report,,2017-2018,Lens
+2018-01-08,21:00,Coupe de France,Round of 64,Mon,Home,W,3,2,US Boulogne,,12293,Jean-Ricner Bellegarde,,,Sébastien Moreira,Match Report,Required Extra Time,2017-2018,Lens
+2018-01-12,20:00,Ligue 2,Matchweek 20,Fri,Away,W,1,0,Nîmes,46.0,10263,Djiman Koukou,4-3-3,4-4-2,Stéphane Jochem,Match Report,,2017-2018,Lens
+2018-01-19,20:00,Ligue 2,Matchweek 22,Fri,Away,D,1,1,Brest,64.0,7270,Djiman Koukou,4-3-3,4-4-2,Eric Wattellier,Match Report,,2017-2018,Lens
+2018-01-23,18:30,Coupe de France,Round of 32,Tue,Away,W,1,0,Stade Briochin,,6858,Djiman Koukou,,,Aurélien Petit,Match Report,,2017-2018,Lens
+2018-01-26,20:00,Ligue 2,Matchweek 23,Fri,Home,L,0,1,Orléans,76.0,20705,Clément Chantôme,4-3-3,4-5-1,Sylvain Palhies,Match Report,,2017-2018,Lens
+2018-01-30,19:00,Ligue 2,Matchweek 21,Tue,Home,L,0,1,Sochaux,53.0,21371,Clément Chantôme,4-2-3-1,4-1-4-1,William Lavis,Match Report,,2017-2018,Lens
+2018-02-03,14:55,Ligue 2,Matchweek 24,Sat,Away,D,1,1,Lorient,52.0,9910,Clément Chantôme,4-3-3,4-2-3-1,Willy Delajod,Match Report,,2017-2018,Lens
+2018-02-07,18:30,Coupe de France,Round of 16,Wed,Home,W,1,0,Troyes,,10955,Djiman Koukou,4-3-3,4-2-3-1,Karim Abed,Match Report,,2017-2018,Lens
+2018-02-10,15:00,Ligue 2,Matchweek 25,Sat,Home,D,1,1,Valenciennes,66.0,28303,Clément Chantôme,4-3-3,4-1-4-1,Johan Hamel,Match Report,,2017-2018,Lens
+2018-02-19,20:45,Ligue 2,Matchweek 26,Mon,Away,W,2,1,Quevilly-Rouen,66.0,5521,Clément Chantôme,4-3-3,4-2-3-1,Alexandre Perreau Niel,Match Report,,2017-2018,Lens
+2018-02-23,20:00,Ligue 2,Matchweek 27,Fri,Home,L,0,1,Clermont Foot,50.0,20626,Djiman Koukou,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2017-2018,Lens
+2018-02-27,21:00,Coupe de France,Quarter-finals,Tue,Away,D,0 (4),0 (5),Les Herbiers,,21146,Clément Chantôme,4-3-3,4-3-3,Mikael Lesage,Match Report,Les Herbiers won on penalty kicks following extra time,2017-2018,Lens
+2018-03-02,21:00,Ligue 2,Matchweek 28,Fri,Away,D,1,1,Gazélec Ajaccio,72.0,2746,Clément Chantôme,4-3-3,4-2-3-1,Faouzi Benchabane,Match Report,,2017-2018,Lens
+2018-03-12,20:45,Ligue 2,Matchweek 29,Mon,Home,L,0,1,Bourg-Péronnas,73.0,20366,Clément Chantôme,4-3-3,4-2-3-1,William Lavis,Match Report,,2017-2018,Lens
+2018-03-17,15:00,Ligue 2,Matchweek 30,Sat,Away,L,1,3,Reims,57.0,220,Clément Chantôme,4-3-3,4-3-3,Willy Delajod,Match Report,,2017-2018,Lens
+2018-04-02,20:45,Ligue 2,Matchweek 31,Mon,Home,W,2,1,Châteauroux,61.0,20599,Clément Chantôme,4-3-3,5-3-2,Stéphanie Frappart,Match Report,,2017-2018,Lens
+2018-04-09,20:45,Ligue 2,Matchweek 32,Mon,Home,D,1,1,Nancy,71.0,33340,Clément Chantôme,4-3-3,4-4-1-1,Bartolomeu Varela,Match Report,,2017-2018,Lens
+2018-04-13,20:00,Ligue 2,Matchweek 33,Fri,Away,D,2,2,Niort,65.0,4653,Clément Chantôme,4-3-3,4-3-3,Eric Wattellier,Match Report,,2017-2018,Lens
+2018-04-20,20:00,Ligue 2,Matchweek 34,Fri,Home,D,3,3,Le Havre,57.0,22806,Djiman Koukou,4-3-3,4-2-3-1,Aurélien Petit,Match Report,,2017-2018,Lens
+2018-04-23,20:45,Ligue 2,Matchweek 35,Mon,Away,L,0,2,Ajaccio,66.0,4571,Clément Chantôme,4-3-3,4-2-3-1,Sébastien Moreira,Match Report,,2017-2018,Lens
+2018-04-30,20:45,Ligue 2,Matchweek 36,Mon,Home,W,1,0,Paris FC,60.0,24808,Clément Chantôme,4-2-3-1,4-2-3-1,Alexandre Castro,Match Report,,2017-2018,Lens
+2018-05-04,20:45,Ligue 2,Matchweek 37,Fri,Away,L,2,4,Tours,54.0,4508,Djiman Koukou,4-3-3,4-3-3,Faouzi Benchabane,Match Report,,2017-2018,Lens
+2018-05-11,20:45,Ligue 2,Matchweek 38,Fri,Home,W,2,1,Auxerre,62.0,31585,Jean-Ricner Bellegarde,4-3-3,4-4-2,Stéphane Jochem,Match Report,,2017-2018,Lens

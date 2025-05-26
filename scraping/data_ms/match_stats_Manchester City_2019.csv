@@ -1,0 +1,60 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-04,15:00,Community Shield,FA Community Shield,Sun,Neutral,D,1 (5),1 (4),Liverpool,,,47,77565.0,David Silva,4-3-3,4-3-3,Martin Atkinson,Match Report,,2019-2020,Manchester City
+2019-08-10,12:30,Premier League,Matchweek 1,Sat,Away,W,5,0,West Ham,3.2,1.1,57,59870.0,David Silva,4-3-3,4-2-3-1,Mike Dean,Match Report,,2019-2020,Manchester City
+2019-08-17,17:30,Premier League,Matchweek 2,Sat,Home,D,2,2,Tottenham,2.9,0.1,55,54503.0,Kevin De Bruyne,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Manchester City
+2019-08-25,14:00,Premier League,Matchweek 3,Sun,Away,W,3,1,Bournemouth,3.0,2.2,74,10486.0,David Silva,4-3-3,5-4-1,Andre Marriner,Match Report,,2019-2020,Manchester City
+2019-08-31,15:00,Premier League,Matchweek 4,Sat,Home,W,4,0,Brighton,1.9,0.9,53,54386.0,David Silva,4-3-3,3-4-3,Jonathan Moss,Match Report,,2019-2020,Manchester City
+2019-09-14,17:30,Premier League,Matchweek 5,Sat,Away,L,2,3,Norwich City,2.3,1.5,68,27035.0,David Silva,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,2019-2020,Manchester City
+2019-09-18,22:00,Champions Lg,Group stage,Wed,Away,W,3,0,ua Shakhtar,2.5,0.9,53,36675.0,Fernandinho,4-2-3-1,4-2-3-1,Artur Soares Dias,Match Report,,2019-2020,Manchester City
+2019-09-21,15:00,Premier League,Matchweek 6,Sat,Home,W,8,0,Watford,5.9,0.4,68,54273.0,David Silva,4-3-3,4-4-1-1,Mike Dean,Match Report,,2019-2020,Manchester City
+2019-09-24,19:45,EFL Cup,Third round,Tue,Away,W,3,0,Preston,,,65,22025.0,David Silva,4-3-3,4-2-3-1,Lee Mason,Match Report,,2019-2020,Manchester City
+2019-09-28,17:30,Premier League,Matchweek 7,Sat,Away,W,3,1,Everton,2.8,2.4,63,39222.0,Fernandinho,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Manchester City
+2019-10-01,20:00,Champions Lg,Group stage,Tue,Home,W,2,0,hr Dinamo Zagreb,3.6,0.1,80,49046.0,David Silva,4-3-3,5-3-2,Serdar Gözübüyük,Match Report,,2019-2020,Manchester City
+2019-10-06,14:00,Premier League,Matchweek 8,Sun,Home,L,0,2,Wolves,1.4,1.0,75,54435.0,David Silva,4-2-3-1,3-5-2,Craig Pawson,Match Report,,2019-2020,Manchester City
+2019-10-19,17:30,Premier League,Matchweek 9,Sat,Away,W,2,0,Crystal Palace,3.5,0.9,71,25480.0,David Silva,4-3-3,4-5-1,Anthony Taylor,Match Report,,2019-2020,Manchester City
+2019-10-22,20:00,Champions Lg,Group stage,Tue,Home,W,5,1,it Atalanta,4.2,1.8,55,49308.0,Fernandinho,4-2-3-1,3-4-1-2,Orel Grinfeeld,Match Report,,2019-2020,Manchester City
+2019-10-26,12:30,Premier League,Matchweek 10,Sat,Home,W,3,0,Aston Villa,2.9,1.0,63,54506.0,David Silva,4-3-3,4-1-4-1,Graham Scott,Match Report,,2019-2020,Manchester City
+2019-10-29,19:45,EFL Cup,Fourth round,Tue,Home,W,3,1,Southampton,,,77,37143.0,Sergio Agüero,4-3-3,5-3-2,Jonathan Moss,Match Report,,2019-2020,Manchester City
+2019-11-02,15:00,Premier League,Matchweek 11,Sat,Home,W,2,1,Southampton,2.9,0.9,75,53922.0,David Silva,4-3-3,5-3-2,Lee Mason,Match Report,,2019-2020,Manchester City
+2019-11-06,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,it Atalanta,2.0,0.7,58,34326.0,Fernandinho,4-3-3,3-4-1-2,Aliaksei Kulbakou,Match Report,,2019-2020,Manchester City
+2019-11-10,16:30,Premier League,Matchweek 12,Sun,Away,L,1,3,Liverpool,1.3,1.1,55,53324.0,Fernandinho,4-2-3-1,4-3-3,Michael Oliver,Match Report,,2019-2020,Manchester City
+2019-11-23,17:30,Premier League,Matchweek 13,Sat,Home,W,2,1,Chelsea,1.0,0.9,47,54486.0,David Silva,4-3-3,4-3-3,Martin Atkinson,Match Report,,2019-2020,Manchester City
+2019-11-26,20:00,Champions Lg,Group stage,Tue,Home,D,1,1,ua Shakhtar,1.2,1.0,64,52020.0,Fernandinho,4-3-3,4-1-4-1,Slavko Vinčič,Match Report,,2019-2020,Manchester City
+2019-11-30,12:30,Premier League,Matchweek 14,Sat,Away,D,2,2,Newcastle Utd,2.4,0.3,75,49937.0,David Silva,4-3-3,5-4-1,Chris Kavanagh,Match Report,,2019-2020,Manchester City
+2019-12-03,20:15,Premier League,Matchweek 15,Tue,Away,W,4,1,Burnley,2.2,0.6,75,20101.0,David Silva,4-3-3,4-4-1-1,Jonathan Moss,Match Report,,2019-2020,Manchester City
+2019-12-07,17:30,Premier League,Matchweek 16,Sat,Home,L,1,2,Manchester Utd,2.2,1.4,72,54403.0,David Silva,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2019-2020,Manchester City
+2019-12-11,18:55,Champions Lg,Group stage,Wed,Away,W,4,1,hr Dinamo Zagreb,3.6,0.4,75,29385.0,Nicolás Otamendi,4-3-3,4-4-1-1,Carlos del Cerro,Match Report,,2019-2020,Manchester City
+2019-12-15,16:30,Premier League,Matchweek 17,Sun,Away,W,3,0,Arsenal,1.3,0.5,57,60031.0,Fernandinho,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2019-2020,Manchester City
+2019-12-18,19:45,EFL Cup,Quarter-finals,Wed,Away,W,3,1,Oxford United,,,66,11817.0,Raheem Sterling,4-3-3,4-3-3,Andy Madley,Match Report,,2019-2020,Manchester City
+2019-12-21,17:30,Premier League,Matchweek 18,Sat,Home,W,3,1,Leicester City,3.3,1.1,62,54415.0,Fernandinho,4-2-3-1,4-1-4-1,Mike Dean,Match Report,,2019-2020,Manchester City
+2019-12-27,19:45,Premier League,Matchweek 19,Fri,Away,L,2,3,Wolves,1.5,2.6,38,31737.0,Fernandinho,4-2-3-1,3-4-3,Martin Atkinson,Match Report,,2019-2020,Manchester City
+2019-12-29,18:00,Premier League,Matchweek 20,Sun,Home,W,2,0,Sheffield Utd,1.1,1.1,72,54512.0,Fernandinho,4-3-3,3-5-2,Chris Kavanagh,Match Report,,2019-2020,Manchester City
+2020-01-01,17:30,Premier League,Matchweek 21,Wed,Home,W,2,1,Everton,1.5,1.0,65,54407.0,Fernandinho,3-4-3,3-5-2,Andre Marriner,Match Report,,2019-2020,Manchester City
+2020-01-04,17:31,FA Cup,Third round,Sat,Home,W,4,1,Port Vale,,,66,52433.0,David Silva,4-3-3,4-4-2,Lee Mason,Match Report,,2019-2020,Manchester City
+2020-01-07,20:00,EFL Cup,Semi-finals,Tue,Away,W,3,1,Manchester Utd,,,57,69023.0,Fernandinho,4-3-3,4-2-3-1,Mike Dean,Match Report,Leg 1 of 2,2019-2020,Manchester City
+2020-01-12,16:30,Premier League,Matchweek 22,Sun,Away,W,6,1,Aston Villa,2.8,1.1,70,41823.0,David Silva,4-3-3,5-3-2,Jonathan Moss,Match Report,,2019-2020,Manchester City
+2020-01-18,15:00,Premier League,Matchweek 23,Sat,Home,D,2,2,Crystal Palace,2.6,0.4,72,54439.0,David Silva,4-3-3,4-5-1,Graham Scott,Match Report,,2019-2020,Manchester City
+2020-01-21,19:30,Premier League,Matchweek 24,Tue,Away,W,1,0,Sheffield Utd,2.8,0.8,66,31285.0,Fernandinho,3-4-3,3-5-2,Lee Mason,Match Report,,2019-2020,Manchester City
+2020-01-26,13:00,FA Cup,Fourth round,Sun,Home,W,4,0,Fulham,,,70,39223.0,David Silva,4-2-3-1,3-4-1-2,Kevin Friend,Match Report,,2019-2020,Manchester City
+2020-01-29,19:45,EFL Cup,Semi-finals,Wed,Home,L,0,1,Manchester Utd,,,61,51000.0,Kevin De Bruyne,3-2-4-1,3-4-1-2,Kevin Friend,Match Report,Leg 2 of 2; Manchester City won,2019-2020,Manchester City
+2020-02-02,16:30,Premier League,Matchweek 25,Sun,Away,L,0,2,Tottenham,2.4,0.3,67,61022.0,Fernandinho,4-3-3,4-2-3-1,Mike Dean,Match Report,,2019-2020,Manchester City
+2020-02-19,19:30,Premier League,Matchweek 26,Wed,Home,W,2,0,West Ham,2.1,0.1,77,52159.0,David Silva,4-3-3,5-3-2,Kevin Friend,Match Report,,2019-2020,Manchester City
+2020-02-22,17:30,Premier League,Matchweek 27,Sat,Away,W,1,0,Leicester City,2.4,0.8,67,32068.0,Fernandinho,4-3-3,3-5-2,Paul Tierney,Match Report,,2019-2020,Manchester City
+2020-02-26,21:00,Champions Lg,Round of 16,Wed,Away,W,2,1,es Real Madrid,3.2,1.2,51,75615.0,Kevin De Bruyne,4-4-1-1,4-3-3,Daniele Orsato,Match Report,Leg 1 of 2,2019-2020,Manchester City
+2020-03-01,16:30,EFL Cup,Final,Sun,Neutral,W,2,1,Aston Villa,,,70,82145.0,David Silva,4-2-3-1,4-2-3-1,Lee Mason,Match Report,,2019-2020,Manchester City
+2020-03-04,19:45,FA Cup,Fifth round,Wed,Away,W,1,0,Sheffield Weds,,,80,20995.0,David Silva,4-3-3,5-3-2,Michael Oliver,Match Report,,2019-2020,Manchester City
+2020-03-08,16:30,Premier League,Matchweek 29,Sun,Away,L,0,2,Manchester Utd,0.6,1.6,72,73288.0,Fernandinho,4-3-3,3-4-1-2,Mike Dean,Match Report,,2019-2020,Manchester City
+2020-06-17,20:15,Premier League,Matchweek 28,Wed,Home,W,3,0,Arsenal,2.6,0.3,67,,David Silva,4-3-3,4-3-2-1,Anthony Taylor,Match Report,,2019-2020,Manchester City
+2020-06-22,20:00,Premier League,Matchweek 30,Mon,Home,W,5,0,Burnley,2.4,0.0,71,,David Silva,4-3-3,4-4-2,Andre Marriner,Match Report,,2019-2020,Manchester City
+2020-06-25,20:15,Premier League,Matchweek 31,Thu,Away,L,1,2,Chelsea,0.8,3.2,65,,Fernandinho,4-3-3,4-3-3,Stuart Attwell,Match Report,,2019-2020,Manchester City
+2020-06-28,18:30,FA Cup,Quarter-finals,Sun,Away,W,2,0,Newcastle Utd,,,76,,David Silva,4-2-3-1,5-4-1,Lee Mason,Match Report,,2019-2020,Manchester City
+2020-07-02,20:15,Premier League,Matchweek 32,Thu,Home,W,4,0,Liverpool,2.4,1.1,47,,Kevin De Bruyne,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2019-2020,Manchester City
+2020-07-05,19:00,Premier League,Matchweek 33,Sun,Away,L,0,1,Southampton,3.2,0.6,73,,David Silva,4-3-3,4-4-2,Andre Marriner,Match Report,,2019-2020,Manchester City
+2020-07-08,18:00,Premier League,Matchweek 34,Wed,Home,W,5,0,Newcastle Utd,2.8,0.3,73,,David Silva,4-3-3,4-4-1-1,Andy Madley,Match Report,,2019-2020,Manchester City
+2020-07-11,20:00,Premier League,Matchweek 35,Sat,Away,W,5,0,Brighton,4.4,0.2,70,,Kevin De Bruyne,4-3-3,4-4-1-1,Graham Scott,Match Report,,2019-2020,Manchester City
+2020-07-15,18:00,Premier League,Matchweek 36,Wed,Home,W,2,1,Bournemouth,0.7,1.6,71,,David Silva,4-2-3-1,4-1-4-1,Lee Mason,Match Report,,2019-2020,Manchester City
+2020-07-18,19:45,FA Cup,Semi-finals,Sat,Neutral,L,0,2,Arsenal,,,71,,David Silva,4-2-3-1,3-4-3,Jonathan Moss,Match Report,,2019-2020,Manchester City
+2020-07-21,18:00,Premier League,Matchweek 37,Tue,Away,W,4,0,Watford,3.3,0.1,76,,Kevin De Bruyne,4-3-3,4-5-1,Michael Oliver,Match Report,,2019-2020,Manchester City
+2020-07-26,16:00,Premier League,Matchweek 38,Sun,Home,W,5,0,Norwich City,3.2,1.0,73,,David Silva,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2019-2020,Manchester City
+2020-08-07,20:00,Champions Lg,Round of 16,Fri,Home,W,2,1,es Real Madrid,2.1,0.8,55,,Fernandinho,4-3-3,4-3-3,Felix Brych,Match Report,Leg 2 of 2; Manchester City won,2019-2020,Manchester City
+2020-08-15,20:00,Champions Lg,Quarter-finals,Sat,Neutral,L,1,3,fr Lyon,2.5,1.0,71,,Fernandinho,3-4-3,3-5-2,Danny Makkelie,Match Report,,2019-2020,Manchester City

@@ -1,0 +1,40 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-13,21:00,Coppa Italia,First round,Sun,Away,L,0,1,Lecce,,,48,14174,Alessandro Bellemo,4-4-2,4-3-3,Daniele Rutella,Match Report,,2023-2024,Como
+2023-08-20,20:30,Serie B,Matchweek 1,Sun,Away,L,0,3,Venezia,0.4,2.5,54,4894,Alessandro Bellemo,4-3-3,4-3-2-1,Ivan Pezzuto,Match Report,,2023-2024,Como
+2023-08-26,20:30,Serie B,Matchweek 2,Sat,Home,D,2,2,Reggiana,0.5,1.2,40,5151,Alessandro Bellemo,4-3-1-2,4-3-1-2,Federico La Penna,Match Report,,2023-2024,Como
+2023-09-03,18:30,Serie B,Matchweek 4,Sun,Away,W,1,0,Spezia,1.3,0.4,36,563,Alessandro Bellemo,4-4-2,3-5-2,Daniele Perenzoni,Match Report,,2023-2024,Como
+2023-09-17,16:15,Serie B,Matchweek 5,Sun,Home,W,2,1,Ternana,2.3,1.1,51,5114,Alessandro Bellemo,3-4-1-2,3-5-2,Giuseppe Collu,Match Report,,2023-2024,Como
+2023-09-24,16:15,Serie B,Matchweek 6,Sun,Away,W,3,0,Cittadella,1.8,1.3,45,3636,Alessandro Bellemo,3-4-1-2,4-3-1-2,Marco Di Bello,Match Report,,2023-2024,Como
+2023-09-27,20:30,Serie B,Matchweek 7,Wed,Home,W,1,0,Sampdoria,0.4,0.3,42,5839,Alessandro Bellemo,3-4-1-2,4-3-3,Maria Sole Ferrieri Caputi,Match Report,,2023-2024,Como
+2023-10-01,16:15,Serie B,Matchweek 8,Sun,Away,D,1,1,Bari,0.9,1.6,34,16377,Nicholas Ioannou,3-4-1-2,4-3-2-1,Giacomo Camplone,Match Report,,2023-2024,Como
+2023-10-08,16:15,Serie B,Matchweek 9,Sun,Home,L,1,3,Cremonese,1.5,1.6,51,5786,Alessandro Bellemo,3-5-1-1,3-4-1-2,Daniele Perenzoni,Match Report,,2023-2024,Como
+2023-10-20,20:30,Serie B,Matchweek 10,Fri,Away,L,1,2,Parma,1.6,0.9,53,11508,Alessandro Bellemo,3-4-3,4-2-3-1,Luca Zufferli,Match Report,,2023-2024,Como
+2023-10-28,14:00,Serie B,Matchweek 11,Sat,Home,W,1,0,Catanzaro,1.9,0.4,39,6451,Alessandro Bellemo,3-4-1-2,4-4-2,Davide Di Marco,Match Report,,2023-2024,Como
+2023-11-04,14:00,Serie B,Matchweek 12,Sat,Away,D,1,1,Pisa,0.8,0.9,43,6324,Alessandro Bellemo,3-4-3,4-2-3-1,Matteo Marcenaro,Match Report,,2023-2024,Como
+2023-11-11,14:00,Serie B,Matchweek 13,Sat,Away,W,1,0,Ascoli,1.3,1.0,52,5870,Alessandro Bellemo,3-4-3,4-4-2,Ivan Pezzuto,Match Report,,2023-2024,Como
+2023-11-25,14:00,Serie B,Matchweek 14,Sat,Home,W,2,1,FeralpiSalò,1.5,0.9,60,4801,Alessandro Bellemo,3-4-3,3-5-2,Francesco Cosso,Match Report,,2023-2024,Como
+2023-11-28,18:30,Serie B,Matchweek 3,Tue,Home,D,0,0,Calcio Lecco 1912,1.0,1.4,57,5847,Alessandro Bellemo,4-2-3-1,4-3-3,Antonio Rapuano,Match Report,,2023-2024,Como
+2023-12-03,16:15,Serie B,Matchweek 15,Sun,Away,W,1,0,Südtirol,0.7,0.4,57,3169,Nicholas Ioannou,3-5-2,4-4-2,Davide Di Marco,Match Report,,2023-2024,Como
+2023-12-10,16:15,Serie B,Matchweek 16,Sun,Home,W,2,1,Modena,1.5,2.1,46,4660,Alessandro Bellemo,4-2-3-1,4-3-2-1,Giacomo Camplone,Match Report,,2023-2024,Como
+2023-12-16,14:00,Serie B,Matchweek 17,Sat,Away,L,0,2,Brescia,1.8,1.4,57,4640,Alessandro Bellemo,3-4-3,3-4-3,Daniele Doveri,Match Report,,2023-2024,Como
+2023-12-23,14:00,Serie B,Matchweek 18,Sat,Home,D,3,3,Palermo,2.6,1.5,48,6362,Alessandro Bellemo,3-4-3,4-3-3,Luca Pairetto,Match Report,,2023-2024,Como
+2023-12-26,15:00,Serie B,Matchweek 19,Tue,Away,W,2,1,Cosenza,1.3,0.6,53,8752,Alessandro Bellemo,4-2-3-1,3-5-2,Davide Di Marco,Match Report,,2023-2024,Como
+2024-01-13,14:00,Serie B,Matchweek 20,Sat,Home,W,4,0,Spezia,2.6,0.8,50,5271,Alessandro Bellemo,4-4-2,4-3-2-1,Niccolò Baroni,Match Report,,2023-2024,Como
+2024-01-20,14:00,Serie B,Matchweek 21,Sat,Away,D,2,2,Reggiana,1.2,1.3,43,8872,Alessandro Bellemo,4-4-2,3-4-3,Ivan Pezzuto,Match Report,,2023-2024,Como
+2024-01-27,14:00,Serie B,Matchweek 22,Sat,Home,L,0,2,Ascoli,0.5,0.8,52,5127,Alessandro Bellemo,4-3-1-2,3-5-2,Giuseppe Collu,Match Report,,2023-2024,Como
+2024-02-03,16:15,Serie B,Matchweek 23,Sat,Away,W,1,0,Ternana,2.3,0.4,60,4969,Alessandro Bellemo,4-2-3-1,3-4-3,Manuel Volpi,Match Report,,2023-2024,Como
+2024-02-09,20:30,Serie B,Matchweek 24,Fri,Home,W,1,0,Brescia,0.8,0.4,54,5387,Alessandro Bellemo,4-2-3-1,4-3-1-2,Daniele Rutella,Match Report,,2023-2024,Como
+2024-02-17,16:15,Serie B,Matchweek 25,Sat,Away,L,0,3,Palermo,1.0,0.9,66,31211,Alessandro Bellemo,4-2-3-1,4-3-3,Gianluca Aureliano,Match Report,,2023-2024,Como
+2024-02-24,16:15,Serie B,Matchweek 26,Sat,Home,D,1,1,Parma,0.4,1.7,59,7226,Alessandro Bellemo,3-5-2,4-2-3-1,Daniele Chiffi,Match Report,,2023-2024,Como
+2024-02-27,20:30,Serie B,Matchweek 27,Tue,Away,W,3,0,Calcio Lecco 1912,1.1,0.2,51,4982,Alessandro Bellemo,4-2-3-1,4-3-3,Ermanno Feliciani,Match Report,,2023-2024,Como
+2024-03-03,16:15,Serie B,Matchweek 28,Sun,Home,W,2,1,Venezia,0.4,0.8,46,6744,Alessandro Bellemo,4-2-3-1,3-5-2,Luca Zufferli,Match Report,,2023-2024,Como
+2024-03-09,16:15,Serie B,Matchweek 29,Sat,Away,L,1,2,Cremonese,0.2,1.5,30,10340,Alessandro Bellemo,4-2-3-1,3-5-2,Giacomo Camplone,Match Report,,2023-2024,Como
+2024-03-16,14:00,Serie B,Matchweek 30,Sat,Home,W,3,1,Pisa,1.6,0.8,46,6248,Alessandro Bellemo,4-2-3-1,4-2-3-1,Maria Sole Ferrieri Caputi,Match Report,,2023-2024,Como
+2024-04-01,15:00,Serie B,Matchweek 31,Mon,Home,W,2,0,Südtirol,1.0,0.8,49,6261,Alessandro Bellemo,4-4-2,3-4-3,Marco Piccinini,Match Report,,2023-2024,Como
+2024-04-06,16:15,Serie B,Matchweek 32,Sat,Away,W,2,1,Catanzaro,1.4,0.6,38,12075,Alessandro Gabrielloni,4-4-2,4-4-2,Marco Di Bello,Match Report,,2023-2024,Como
+2024-04-13,14:00,Serie B,Matchweek 33,Sat,Home,W,2,1,Bari,2.2,1.2,54,7368,Alessandro Bellemo,4-4-2,3-4-1-2,Daniele Rutella,Match Report,,2023-2024,Como
+2024-04-20,14:00,Serie B,Matchweek 34,Sat,Away,W,5,2,FeralpiSalò,2.4,0.7,50,2438,Alessandro Bellemo,4-4-2,3-5-2,Alessandro Prontera,Match Report,,2023-2024,Como
+2024-04-27,16:15,Serie B,Matchweek 35,Sat,Away,D,1,1,Sampdoria,1.5,0.3,62,24783,Alessandro Gabrielloni,4-4-2,3-5-2,Giacomo Camplone,Match Report,,2023-2024,Como
+2024-05-01,15:00,Serie B,Matchweek 36,Wed,Home,W,2,1,Cittadella,1.8,1.7,65,7135,Alessandro Bellemo,4-2-3-1,4-4-2,Francesco Cosso,Match Report,,2023-2024,Como
+2024-05-05,15:00,Serie B,Matchweek 37,Sun,Away,D,0,0,Modena,0.5,0.6,72,9579,Alessandro Gabrielloni,4-2-3-1,4-3-3,Luca Zufferli,Match Report,,2023-2024,Como
+2024-05-10,20:30,Serie B,Matchweek 38,Fri,Home,D,1,1,Cosenza,2.3,0.6,57,7980,Alessandro Bellemo,4-2-3-1,3-5-2,Gianluca Manganiello,Match Report,,2023-2024,Como

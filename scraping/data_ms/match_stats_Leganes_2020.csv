@@ -1,0 +1,48 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-12,18:15,La Liga 2,Matchweek 1,Sat,Home,W,1,0,Las Palmas,53.0,,Rubén Pérez,4-2-3-1,4-1-4-1,José López,Match Report,,2020-2021,Leganes
+2020-09-20,12:00,La Liga 2,Matchweek 2,Sun,Away,L,1,2,Lugo,59.0,,Rubén Pérez,4-4-2,3-5-2,Daniel Ocón,Match Report,,2020-2021,Leganes
+2020-09-27,20:30,La Liga 2,Matchweek 3,Sun,Home,W,3,1,Cartagena,43.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Saúl Ais,Match Report,,2020-2021,Leganes
+2020-10-04,18:15,La Liga 2,Matchweek 4,Sun,Away,L,0,2,Castellón,58.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Iñaki Bikandi,Match Report,,2020-2021,Leganes
+2020-10-11,16:00,La Liga 2,Matchweek 5,Sun,Home,L,0,1,Girona,60.0,,Rubén Pérez,4-4-2,4-2-3-1,Juan Pulido,Match Report,,2020-2021,Leganes
+2020-10-17,20:30,La Liga 2,Matchweek 6,Sat,Away,W,1,0,UD Logroñés,43.0,,Rubén Pérez,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,2020-2021,Leganes
+2020-10-22,16:30,La Liga 2,Matchweek 7,Thu,Home,W,1,0,Zaragoza,49.0,,Rubén Pérez,4-4-2,4-4-2,Luis Milla,Match Report,,2020-2021,Leganes
+2020-10-25,18:15,La Liga 2,Matchweek 8,Sun,Home,W,2,1,Oviedo,54.0,,Rubén Pérez,4-4-2,3-4-3,Dámaso Arcediano,Match Report,,2020-2021,Leganes
+2020-10-29,21:30,La Liga 2,Matchweek 9,Thu,Away,L,0,1,Sabadell,49.0,,Unai Bustinza,4-4-2,3-5-2,Daniel Trujillo,Match Report,,2020-2021,Leganes
+2020-11-01,14:00,La Liga 2,Matchweek 10,Sun,Home,W,1,0,CD Mirandés,42.0,,Unai Bustinza,4-4-2,4-3-3,Jon González,Match Report,,2020-2021,Leganes
+2020-11-06,21:00,La Liga 2,Matchweek 11,Fri,Away,D,0,0,Albacete,54.0,,Unai Bustinza,4-2-3-1,5-4-1,Eduardo Prieto,Match Report,,2020-2021,Leganes
+2020-11-15,14:00,La Liga 2,Matchweek 12,Sun,Home,W,1,0,Alcorcón,53.0,,Unai Bustinza,4-4-2,4-2-3-1,Gorka Sagues,Match Report,,2020-2021,Leganes
+2020-11-21,14:00,La Liga 2,Matchweek 13,Sat,Away,W,2,1,Málaga,48.0,,Unai Bustinza,4-4-2,4-4-2,Oliver De La Fuente,Match Report,,2020-2021,Leganes
+2020-11-26,19:00,La Liga 2,Matchweek 14,Thu,Home,W,2,0,Espanyol,55.0,,Unai Bustinza,4-4-2,4-2-3-1,Alejandro Muñíz,Match Report,,2020-2021,Leganes
+2020-11-29,18:15,La Liga 2,Matchweek 15,Sun,Away,L,2,3,Ponferradina,62.0,,Unai Bustinza,4-4-2,4-2-3-1,José López,Match Report,,2020-2021,Leganes
+2020-12-02,19:00,La Liga 2,Matchweek 16,Wed,Home,W,1,0,Rayo Vallecano,38.0,,Unai Bustinza,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,2020-2021,Leganes
+2020-12-07,18:00,La Liga 2,Matchweek 17,Mon,Away,D,0,0,Tenerife,48.0,,Unai Bustinza,4-4-2,4-4-2,Luis Milla,Match Report,,2020-2021,Leganes
+2020-12-12,16:00,La Liga 2,Matchweek 18,Sat,Home,L,0,1,Mallorca,40.0,,Rubén Pérez,4-2-3-1,4-4-2,Gorka Sagues,Match Report,,2020-2021,Leganes
+2020-12-15,20:00,Copa del Rey,First round,Tue,Away,W,1,0,Ourense CF,,800.0,Javier Eraso,4-2-3-1,4-3-3,Iñaki Bikandi,Match Report,Required Extra Time,2020-2021,Leganes
+2020-12-21,21:00,La Liga 2,Matchweek 19,Mon,Away,D,1,1,Sporting Gijón,54.0,,Rubén Pérez,4-4-2,4-2-3-1,Juan Pulido,Match Report,,2020-2021,Leganes
+2021-01-02,14:00,La Liga 2,Matchweek 20,Sat,Away,D,0,0,Fuenlabrada,64.0,,Rubén Pérez,4-4-2,5-4-1,Alejandro Muñíz,Match Report,,2020-2021,Leganes
+2021-01-06,13:00,Copa del Rey,Second round,Wed,Away,W,2,0,UD Socuéllamos,,,Javier Eraso,4-1-4-1,4-3-3,Gorka Sagues,Match Report,,2020-2021,Leganes
+2021-01-16,20:00,Copa del Rey,Round of 32,Sat,Home,L,0,1,Sevilla,28.0,,Unai Bustinza,4-4-2,4-2-3-1,Pablo González,Match Report,Required Extra Time,2020-2021,Leganes
+2021-01-24,19:30,La Liga 2,Matchweek 22,Sun,Away,L,1,2,Las Palmas,30.0,,Unai Bustinza,4-4-2,4-4-2,Iosu Galech,Match Report,,2020-2021,Leganes
+2021-02-01,19:00,La Liga 2,Matchweek 23,Mon,Home,W,3,2,Lugo,59.0,,Iván Cuéllar,4-2-3-1,4-4-2,Luis Milla,Match Report,,2020-2021,Leganes
+2021-02-07,14:00,La Liga 2,Matchweek 24,Sun,Away,W,2,0,Girona,43.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Eduardo Prieto,Match Report,,2020-2021,Leganes
+2021-02-14,18:15,La Liga 2,Matchweek 25,Sun,Home,W,3,1,Albacete,51.0,,Iván Cuéllar,4-2-3-1,4-4-2,José López,Match Report,,2020-2021,Leganes
+2021-02-17,19:00,La Liga 2,Matchweek 21,Wed,Home,W,2,1,Almería,47.0,,Unai Bustinza,4-4-2,4-2-3-1,Javier Villanueva,Match Report,,2020-2021,Leganes
+2021-02-21,14:00,La Liga 2,Matchweek 26,Sun,Home,W,1,0,Tenerife,50.0,,Iván Cuéllar,4-2-3-1,4-4-2,Rubén Ávalos,Match Report,,2020-2021,Leganes
+2021-02-26,21:00,La Liga 2,Matchweek 27,Fri,Away,L,0,1,Cartagena,57.0,,Iván Cuéllar,4-2-3-1,4-2-3-1,Jon González,Match Report,,2020-2021,Leganes
+2021-03-06,18:15,La Liga 2,Matchweek 28,Sat,Home,D,0,0,Castellón,63.0,,Iván Cuéllar,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2020-2021,Leganes
+2021-03-14,20:30,La Liga 2,Matchweek 29,Sun,Away,W,3,1,Oviedo,43.0,,Rubén Pérez,5-3-2,4-4-2,Dámaso Arcediano,Match Report,,2020-2021,Leganes
+2021-03-20,20:30,La Liga 2,Matchweek 30,Sat,Home,L,0,2,Fuenlabrada,63.0,,Rubén Pérez,3-4-3,4-2-3-1,Francisco Hernández,Match Report,,2020-2021,Leganes
+2021-03-27,18:15,La Liga 2,Matchweek 31,Sat,Away,D,1,1,Almería,30.0,,Unai Bustinza,5-3-2,4-2-3-1,José López,Match Report,,2020-2021,Leganes
+2021-04-01,19:00,La Liga 2,Matchweek 32,Thu,Away,L,0,1,Mallorca,58.0,,Kenneth Omeruo,5-3-2,4-2-3-1,Eduardo Prieto,Match Report,,2020-2021,Leganes
+2021-04-04,18:15,La Liga 2,Matchweek 33,Sun,Home,W,2,1,Sabadell,47.0,,Unai Bustinza,4-2-3-1,3-4-3,Rafael Sánchez,Match Report,,2020-2021,Leganes
+2021-04-11,21:00,La Liga 2,Matchweek 34,Sun,Away,L,1,2,Espanyol,62.0,,Rubén Pérez,4-4-2,4-4-2,Javier Villanueva,Match Report,,2020-2021,Leganes
+2021-04-19,19:00,La Liga 2,Matchweek 35,Mon,Home,D,1,1,Ponferradina,45.0,,Rubén Pérez,4-4-2,4-2-3-1,Saúl Ais,Match Report,,2020-2021,Leganes
+2021-04-25,18:15,La Liga 2,Matchweek 36,Sun,Away,W,2,1,Alcorcón,53.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Rubén Ávalos,Match Report,,2020-2021,Leganes
+2021-05-02,18:15,La Liga 2,Matchweek 37,Sun,Home,D,0,0,Sporting Gijón,61.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Luis Milla,Match Report,,2020-2021,Leganes
+2021-05-10,19:00,La Liga 2,Matchweek 38,Mon,Away,D,1,1,Rayo Vallecano,42.0,,Rubén Pérez,4-2-3-1,4-2-3-1,Daniel Trujillo,Match Report,,2020-2021,Leganes
+2021-05-16,21:30,La Liga 2,Matchweek 39,Sun,Home,W,3,0,UD Logroñés,50.0,,Rubén Pérez,4-2-3-1,4-4-2,Jon González,Match Report,,2020-2021,Leganes
+2021-05-19,21:30,La Liga 2,Matchweek 40,Wed,Away,D,0,0,CD Mirandés,44.0,,Rubén Pérez,4-2-3-1,4-3-3,Juan Pulido,Match Report,,2020-2021,Leganes
+2021-05-24,21:00,La Liga 2,Matchweek 41,Mon,Home,W,1,0,Málaga,60.0,,Rubén Pérez,4-2-3-1,4-1-4-1,Rubén Ávalos,Match Report,,2020-2021,Leganes
+2021-05-30,21:00,La Liga 2,Matchweek 42,Sun,Away,W,5,0,Zaragoza,41.0,,Rubén Pérez,4-2-3-1,4-4-2,Gorka Sagues,Match Report,,2020-2021,Leganes
+2021-06-03,21:00,La Liga 2,Semi-finals,Thu,Away,L,0,3,Rayo Vallecano,48.0,847.0,Rubén Pérez,4-2-3-1,4-4-2,Luis Milla,Match Report,Leg 1 of 2,2020-2021,Leganes
+2021-06-06,21:00,La Liga 2,Semi-finals,Sun,Home,L,1,2,Rayo Vallecano,58.0,1346.0,Rubén Pérez,4-4-2,4-4-2,José López,Match Report,Leg 2 of 2; Rayo Vallecano won,2020-2021,Leganes

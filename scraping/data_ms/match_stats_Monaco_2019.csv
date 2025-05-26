@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-09,20:45,Ligue 1,Matchweek 1,Fri,Home,L,0.0,3.0,Lyon,0.6,0.8,39.0,10000.0,Kamil Glik,4-2-3-1,4-3-3,Ruddy Buquet,Match Report,,2019-2020,Monaco
+2019-08-17,20:00,Ligue 1,Matchweek 2,Sat,Away,L,0.0,3.0,Metz,0.8,2.6,52.0,19088.0,Kamil Glik,4-2-3-1,4-3-3,Eric Wattellier,Match Report,,2019-2020,Monaco
+2019-08-25,15:00,Ligue 1,Matchweek 3,Sun,Home,D,2.0,2.0,Nîmes,2.0,2.5,46.0,7438.0,Kamil Glik,4-4-2,4-3-3,Amaury Delerue,Match Report,,2019-2020,Monaco
+2019-09-01,17:00,Ligue 1,Matchweek 4,Sun,Away,D,2.0,2.0,Strasbourg,2.9,1.5,41.0,24556.0,Kamil Glik,3-5-2,3-4-1-2,Willy Delajod,Match Report,,2019-2020,Monaco
+2019-09-15,21:00,Ligue 1,Matchweek 5,Sun,Home,L,3.0,4.0,Marseille,2.5,1.6,44.0,9147.0,Kamil Glik,4-4-2,4-3-3,Antony Gautier,Match Report,,2019-2020,Monaco
+2019-09-21,20:00,Ligue 1,Matchweek 6,Sat,Away,D,0.0,0.0,Reims,0.6,1.3,54.0,14426.0,Kamil Glik,3-5-2,4-2-3-1,Olivier Thual,Match Report,,2019-2020,Monaco
+2019-09-24,21:00,Ligue 1,Matchweek 7,Tue,Home,W,3.0,1.0,Nice,2.3,0.7,40.0,9358.0,Cesc Fàbregas,3-5-2,4-3-3,Mikael Lesage,Match Report,,2019-2020,Monaco
+2019-09-28,20:00,Ligue 1,Matchweek 8,Sat,Home,W,4.0,1.0,Brest,3.6,0.5,54.0,4576.0,Kamil Glik,3-5-2,4-2-3-1,Ruddy Buquet,Match Report,,2019-2020,Monaco
+2019-10-05,20:00,Ligue 1,Matchweek 9,Sat,Away,L,1.0,3.0,Montpellier,1.3,3.1,61.0,15532.0,Kamil Glik,3-5-2,3-4-1-2,François Letexier,Match Report,,2019-2020,Monaco
+2019-10-20,17:00,Ligue 1,Matchweek 10,Sun,Home,W,3.0,2.0,Rennes,1.4,1.5,63.0,6763.0,Kamil Glik,3-4-1-2,5-3-2,Jérôme Brisard,Match Report,,2019-2020,Monaco
+2019-10-25,20:45,Ligue 1,Matchweek 11,Fri,Away,W,1.0,0.0,Nantes,0.9,1.7,41.0,30656.0,Kamil Glik,3-5-2,4-2-3-1,Thomas Léonard,Match Report,,2019-2020,Monaco
+2019-10-30,21:05,Coupe de la Ligue,Third round,Wed,Home,W,2.0,1.0,Marseille,,,46.0,9883.0,Cesc Fàbregas,3-4-1-2,3-4-1-2,Mikael Lesage,Match Report,,2019-2020,Monaco
+2019-11-03,21:00,Ligue 1,Matchweek 12,Sun,Away,L,0.0,1.0,Saint-Étienne,1.0,1.7,58.0,15685.0,Kamil Glik,3-5-2,3-4-3,Jérôme Brisard,Match Report,,2019-2020,Monaco
+2019-11-09,20:00,Ligue 1,Matchweek 13,Sat,Home,W,1.0,0.0,Dijon,2.0,1.2,54.0,5223.0,Kamil Glik,3-4-1-2,4-3-3,Eric Wattellier,Match Report,,2019-2020,Monaco
+2019-11-24,15:00,Ligue 1,Matchweek 14,Sun,Away,L,1.0,2.0,Bordeaux,1.7,1.6,50.0,34554.0,Jemerson,3-5-2,3-4-3,Benoît Millot,Match Report,,2019-2020,Monaco
+2019-12-04,19:00,Ligue 1,Matchweek 16,Wed,Away,W,2.0,1.0,Toulouse,4.3,1.8,56.0,13030.0,Kamil Glik,3-5-2,5-4-1,Willy Delajod,Match Report,,2019-2020,Monaco
+2019-12-07,20:00,Ligue 1,Matchweek 17,Sat,Home,W,3.0,0.0,Amiens,2.4,0.4,68.0,4203.0,Kamil Glik,4-2-3-1,4-4-2,Jeremy Stinat,Match Report,,2019-2020,Monaco
+2019-12-14,20:00,Ligue 1,Matchweek 18,Sat,Away,D,0.0,0.0,Angers,0.4,1.1,66.0,9959.0,Kamil Glik,4-3-3,4-1-4-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Monaco
+2019-12-17,21:05,Coupe de la Ligue,Round of 16,Tue,Home,L,0.0,3.0,Lille,,,67.0,5384.0,Cesc Fàbregas,4-3-3,4-2-3-1,Johan Hamel,Match Report,,2019-2020,Monaco
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Home,W,5.0,1.0,Lille,3.4,0.8,40.0,5388.0,Kamil Glik,5-4-1,4-2-3-1,Mikael Lesage,Match Report,,2019-2020,Monaco
+2020-01-04,15:00,Coupe de France,Round of 64,Sat,Home,W,2.0,1.0,Reims,,,,3117.0,Kamil Glik,,,Willy Delajod,Match Report,,2019-2020,Monaco
+2020-01-12,21:00,Ligue 1,Matchweek 20,Sun,Away,D,3.0,3.0,Paris S-G,2.3,2.5,39.0,47580.0,Kamil Glik,4-4-2,4-2-2-2,Antony Gautier,Match Report,,2019-2020,Monaco
+2020-01-15,21:00,Ligue 1,Matchweek 15,Wed,Home,L,1.0,4.0,Paris S-G,1.1,3.6,42.0,11214.0,Kamil Glik,4-2-3-1,4-2-2-2,François Letexier,Match Report,,2019-2020,Monaco
+2020-01-20,20:55,Coupe de France,Round of 32,Mon,Away,W,3.0,1.0,St-Pryvé St-H.,,,61.0,7462.0,Stevan Jovetić,4-4-1-1,5-3-2,Franck Schneider,Match Report,,2019-2020,Monaco
+2020-01-25,20:00,Ligue 1,Matchweek 21,Sat,Home,L,1.0,3.0,Strasbourg,1.0,1.1,60.0,4800.0,Kamil Glik,4-2-3-1,4-1-2-1-2,Eric Wattellier,Match Report,,2019-2020,Monaco
+2020-01-28,20:55,Coupe de France,Round of 16,Tue,Home,L,0.0,1.0,Saint-Étienne,,,76.0,3485.0,Adrien Silva,4-3-3,4-2-3-1,Johan Hamel,Match Report,,2019-2020,Monaco
+2020-02-01,20:00,Ligue 1,Matchweek 22,Sat,Away,L,1.0,3.0,Nîmes,0.9,1.9,39.0,12580.0,Adrien Silva,4-3-3,4-2-3-1,Mikael Lesage,Match Report,,2019-2020,Monaco
+2020-02-04,19:00,Ligue 1,Matchweek 23,Tue,Home,W,1.0,0.0,Angers,0.3,1.2,44.0,3585.0,Kamil Glik,4-3-1-2,4-1-4-1,Jeremy Stinat,Match Report,,2019-2020,Monaco
+2020-02-08,20:00,Ligue 1,Matchweek 24,Sat,Away,W,2.0,1.0,Amiens,1.3,0.4,58.0,11683.0,Adrien Silva,4-4-1-1,4-2-3-1,Olivier Thual,Match Report,,2019-2020,Monaco
+2020-02-14,20:45,Ligue 1,Matchweek 25,Fri,Home,W,1.0,0.0,Montpellier,1.9,1.0,52.0,4384.0,Kamil Glik,4-3-1-2,3-5-1-1,Ruddy Buquet,Match Report,,2019-2020,Monaco
+2020-02-22,20:00,Ligue 1,Matchweek 26,Sat,Away,D,1.0,1.0,Dijon,2.1,1.9,57.0,13657.0,Adrien Silva,4-3-3,4-2-3-1,François Letexier,Match Report,,2019-2020,Monaco
+2020-02-29,20:00,Ligue 1,Matchweek 27,Sat,Home,D,1.0,1.0,Reims,2.1,1.2,56.0,4237.0,Kamil Glik,4-4-2,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Monaco
+2020-03-07,20:00,Ligue 1,Matchweek 28,Sat,Away,L,1.0,2.0,Nice,1.4,1.7,50.0,21001.0,Kamil Glik,4-3-1-2,3-5-2,Amaury Delerue,Match Report,,2019-2020,Monaco
+2020-03-15,17:00,Ligue 1,Matchweek 29,Sun,Home,,,,Saint-Étienne,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-03-20,20:45,Ligue 1,Matchweek 30,Fri,Away,,,,Lille,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-04-05,15:00,Ligue 1,Matchweek 31,Sun,Home,,,,Nantes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Away,,,,Brest,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Home,,,,Bordeaux,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Away,,,,Lyon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Home,,,,Metz,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Away,,,,Marseille,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Home,,,,Toulouse,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Away,,,,Rennes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Monaco

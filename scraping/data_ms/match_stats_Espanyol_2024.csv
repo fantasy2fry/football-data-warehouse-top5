@@ -1,0 +1,41 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-19,19:00,La Liga,Matchweek 1,Mon,Away,L,0,1,Valladolid,0.7,0.8,54,22027,Sergi Gómez,5-3-2,4-5-1,,Match Report,,2024-2025,Espanyol
+2024-08-24,21:30,La Liga,Matchweek 2,Sat,Home,L,0,1,Real Sociedad,1.6,0.7,34,20900,Javi Puado,4-4-2,4-1-4-1,,Match Report,,2024-2025,Espanyol
+2024-08-28,21:30,La Liga,Matchweek 3,Wed,Away,D,0,0,Atlético Madrid,0.6,2.3,37,56669,Javi Puado,5-3-2,5-3-2,,Match Report,,2024-2025,Espanyol
+2024-08-31,19:15,La Liga,Matchweek 4,Sat,Home,W,2,1,Rayo Vallecano,1.6,1.3,47,22405,Javi Puado,4-4-2,4-4-2,Adrián Cordero,Match Report,,2024-2025,Espanyol
+2024-09-14,16:15,La Liga,Matchweek 5,Sat,Home,W,3,2,Alavés,1.6,1.9,39,24238,Javi Puado,4-4-2,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Espanyol
+2024-09-21,21:00,La Liga,Matchweek 6,Sat,Away,L,1,4,Real Madrid,0.3,4.4,27,17284,Javi Puado,5-3-2,4-3-3,José Luis Munuera,Match Report,,2024-2025,Espanyol
+2024-09-26,19:00,La Liga,Matchweek 7,Thu,Home,L,1,2,Villarreal,0.4,1.6,56,23147,Javi Puado,4-4-2,4-4-2,Alejandro Quintero,Match Report,,2024-2025,Espanyol
+2024-09-29,18:30,La Liga,Matchweek 8,Sun,Away,L,0,1,Betis,0.5,2.1,47,53065,Sergi Gómez,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Espanyol
+2024-10-05,14:00,La Liga,Matchweek 9,Sat,Home,W,2,1,Mallorca,0.9,1.6,40,24434,Sergi Gómez,4-2-3-1,4-4-1-1,Francisco Hernández,Match Report,,2024-2025,Espanyol
+2024-10-19,14:00,La Liga,Matchweek 10,Sat,Away,L,1,4,Athletic Club,0.2,1.3,44,46713,Sergi Gómez,4-2-3-1,4-2-3-1,Mateo Busquets,Match Report,,2024-2025,Espanyol
+2024-10-25,21:00,La Liga,Matchweek 11,Fri,Home,L,0,2,Sevilla,1.2,0.8,43,23656,Javi Puado,4-4-2,4-2-3-1,Miguel Ángel Ortiz Arias,Match Report,,2024-2025,Espanyol
+2024-10-31,19:00,Copa del Rey,First round,Thu,Away,W,4,0,San Tirso SD,,,72,3041,Sergi Gómez,3-4-3,4-4-2,Adrián Cordero,Match Report,,2024-2025,Espanyol
+2024-11-03,16:15,La Liga,Matchweek 12,Sun,Away,L,1,3,Barcelona,0.9,1.8,24,48843,Javi Puado,4-1-4-1,4-2-3-1,José Luis Munuera,Match Report,,2024-2025,Espanyol
+2024-11-23,18:30,La Liga,Matchweek 14,Sat,Away,L,1,4,Girona,0.5,3.5,25,12461,Sergi Gómez,5-4-1,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Espanyol
+2024-11-30,18:30,La Liga,Matchweek 15,Sat,Home,W,3,1,Celta Vigo,0.9,1.6,22,23792,Javi Puado,4-1-4-1,3-5-1-1,Jose Maria Sánchez,Match Report,,2024-2025,Espanyol
+2024-12-03,21:00,Copa del Rey,Second round,Tue,Away,L,0,2,Barbastro,,,74,1500,Sergi Gómez,4-4-2,3-4-3,Javier Alberola,Match Report,,2024-2025,Espanyol
+2024-12-09,21:00,La Liga,Matchweek 16,Mon,Away,L,0,1,Getafe,0.7,0.4,57,7559,Sergi Gómez,4-1-4-1,4-4-2,Mateo Busquets,Match Report,,2024-2025,Espanyol
+2024-12-14,14:00,La Liga,Matchweek 17,Sat,Home,D,0,0,Osasuna,0.3,0.3,42,20513,Javi Puado,4-4-2,4-4-2,Adrián Cordero,Match Report,,2024-2025,Espanyol
+2024-12-18,21:30,La Liga,Matchweek 13,Wed,Home,D,1,1,Valencia,2.1,2.0,46,18122,Javi Puado,4-4-2,4-2-3-1,Pablo González,Match Report,,2024-2025,Espanyol
+2024-12-22,17:30,La Liga,Matchweek 18,Sun,Away,L,0,1,Las Palmas,0.7,0.9,43,23743,Javi Puado,4-1-4-1,4-3-3,César Soto,Match Report,,2024-2025,Espanyol
+2025-01-11,18:30,La Liga,Matchweek 19,Sat,Home,D,1,1,Leganés,0.7,2.0,53,26606,Javi Puado,4-1-4-1,5-4-1,Juan Martínez,Match Report,,2024-2025,Espanyol
+2025-01-17,21:00,La Liga,Matchweek 20,Fri,Home,W,2,1,Valladolid,1.0,1.2,36,23554,Javi Puado,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,2024-2025,Espanyol
+2025-01-25,18:30,La Liga,Matchweek 21,Sat,Away,D,1,1,Sevilla,0.7,1.2,26,33602,Javi Puado,4-4-2,4-3-3,Adrián Cordero,Match Report,,2024-2025,Espanyol
+2025-02-01,21:00,La Liga,Matchweek 22,Sat,Home,W,1,0,Real Madrid,0.3,1.3,24,33669,Javi Puado,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2024-2025,Espanyol
+2025-02-09,18:30,La Liga,Matchweek 23,Sun,Away,L,1,2,Real Sociedad,0.9,1.7,32,29478,Javi Puado,4-4-2,4-3-3,Javier Alberola,Match Report,,2024-2025,Espanyol
+2025-02-16,14:00,La Liga,Matchweek 24,Sun,Home,D,1,1,Athletic Club,0.8,1.0,39,26645,Javi Puado,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,2024-2025,Espanyol
+2025-02-22,14:00,La Liga,Matchweek 25,Sat,Away,W,1,0,Alavés,0.4,1.8,38,17068,Javi Puado,4-2-3-1,4-4-2,Juan Pulido,Match Report,,2024-2025,Espanyol
+2025-03-10,21:00,La Liga,Matchweek 27,Mon,Home,D,1,1,Girona,0.2,1.6,33,23997,Javi Puado,4-3-2-1,4-3-3,Adrián Cordero,Match Report,,2024-2025,Espanyol
+2025-03-15,16:15,La Liga,Matchweek 28,Sat,Away,L,1,2,Mallorca,0.2,2.7,38,18240,Javi Puado,4-4-2,4-2-3-1,Alejandro Quintero,Match Report,,2024-2025,Espanyol
+2025-03-29,16:15,La Liga,Matchweek 29,Sat,Home,D,1,1,Atlético Madrid,1.0,0.8,39,30559,Javi Puado,4-2-3-1,4-4-2,Javier Alberola,Match Report,,2024-2025,Espanyol
+2025-04-04,21:00,La Liga,Matchweek 30,Fri,Away,W,4,0,Rayo Vallecano,3.4,0.7,31,11905,Javi Puado,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,2024-2025,Espanyol
+2025-04-12,18:30,La Liga,Matchweek 31,Sat,Away,W,2,0,Celta Vigo,1.2,0.9,35,19801,Javi Puado,4-2-3-1,4-1-4-1,Mateo Busquets,Match Report,,2024-2025,Espanyol
+2025-04-18,21:00,La Liga,Matchweek 32,Fri,Home,W,1,0,Getafe,0.4,0.4,62,25003,Leandro Cabrera,4-2-3-1,4-1-4-1,Ricardo de Burgos,Match Report,,2024-2025,Espanyol
+2025-04-22,19:00,La Liga,Matchweek 33,Tue,Away,D,1,1,Valencia,0.3,0.9,33,42448,Javi Puado,4-2-3-1,4-2-3-1,Juan Pulido,Match Report,,2024-2025,Espanyol
+2025-04-27,16:15,La Liga,Matchweek 26,Sun,Away,L,0,1,Villarreal,1.0,1.4,55,17236,Javi Puado,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,2024-2025,Espanyol
+2025-05-04,18:30,La Liga,Matchweek 34,Sun,Home,L,1,2,Betis,1.2,1.1,38,29126,Javi Puado,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,2024-2025,Espanyol
+2025-05-11,14:00,La Liga,Matchweek 35,Sun,Away,L,2,3,Leganés,1.2,1.5,51,11669,Javi Puado,5-4-1,3-4-3,Javier Alberola,Match Report,,2024-2025,Espanyol
+2025-05-15,21:30,La Liga,Matchweek 36,Thu,Home,L,0,2,Barcelona,1.4,0.6,26,34283,Javi Puado,4-2-3-1,4-2-3-1,César Soto,Match Report,,2024-2025,Espanyol
+2025-05-18,19:00,La Liga,Matchweek 37,Sun,Away,L,0,2,Osasuna,0.7,1.2,54,21131,Javi Puado,4-2-3-1,4-2-3-1,Francisco Hernández,Match Report,,2024-2025,Espanyol
+2025-05-24,18:30,La Liga,Matchweek 38,Sat,Home,W,2,0,Las Palmas,2.0,0.5,44,32511,Javi Puado,4-2-3-1,4-2-3-1,Alejandro Muñíz,Match Report,,2024-2025,Espanyol

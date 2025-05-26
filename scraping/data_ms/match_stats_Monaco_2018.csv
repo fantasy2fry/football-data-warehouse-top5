@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-04,20:00,Trophée des Champions,Trophée des Champions,Sat,Neutral,L,0,4,Paris S-G,,,27.0,41237,Andrea Raggi,4-3-3,4-3-3,Ruddy Buquet,Match Report,,2018-2019,Monaco
+2018-08-11,17:00,Ligue 1,Matchweek 1,Sat,Away,W,3,1,Nantes,2.6,1.4,35.0,32760,Kamil Glik,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2018-2019,Monaco
+2018-08-18,20:00,Ligue 1,Matchweek 2,Sat,Home,D,0,0,Lille,1.4,0.7,48.0,11140,Radamel Falcao,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2018-2019,Monaco
+2018-08-26,17:00,Ligue 1,Matchweek 3,Sun,Away,L,1,2,Bordeaux,0.8,2.7,53.0,21607,Radamel Falcao,4-2-3-1,4-3-3,Clément Turpin,Match Report,,2018-2019,Monaco
+2018-09-02,21:00,Ligue 1,Matchweek 4,Sun,Home,L,2,3,Marseille,1.4,1.8,47.0,14269,Radamel Falcao,4-1-4-1,4-2-3-1,Benoît Millot,Match Report,,2018-2019,Monaco
+2018-09-15,20:00,Ligue 1,Matchweek 5,Sat,Away,D,1,1,Toulouse,0.6,1.6,46.0,16689,Kamil Glik,4-1-4-1,4-2-3-1,Ruddy Buquet,Match Report,,2018-2019,Monaco
+2018-09-18,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,es Atlético Madrid,0.7,0.9,41.0,10575,Radamel Falcao,4-1-4-1,4-4-2,William Collum,Match Report,,2018-2019,Monaco
+2018-09-21,20:45,Ligue 1,Matchweek 6,Fri,Home,D,1,1,Nîmes,1.7,0.6,57.0,6837,Radamel Falcao,4-2-3-1,4-4-2,Amaury Delerue,Match Report,,2018-2019,Monaco
+2018-09-25,19:00,Ligue 1,Matchweek 7,Tue,Home,L,0,1,Angers,0.6,0.5,66.0,5502,Radamel Falcao,4-2-3-1,4-1-4-1,Willy Delajod,Match Report,,2018-2019,Monaco
+2018-09-28,20:45,Ligue 1,Matchweek 8,Fri,Away,L,0,2,Saint-Étienne,2.1,1.6,51.0,26486,Radamel Falcao,3-5-2,4-2-3-1,Jérôme Brisard,Match Report,,2018-2019,Monaco
+2018-10-03,21:00,Champions Lg,Group stage,Wed,Away,L,0,3,de Dortmund,0.5,3.2,42.0,66099,Radamel Falcao,3-4-1-2,4-2-3-1,Aliaksei Kulbakou,Match Report,,2018-2019,Monaco
+2018-10-07,17:00,Ligue 1,Matchweek 9,Sun,Home,L,1,2,Rennes,0.4,1.1,47.0,6268,Radamel Falcao,3-4-1-2,4-4-2,Olivier Thual,Match Report,,2018-2019,Monaco
+2018-10-20,20:00,Ligue 1,Matchweek 10,Sat,Away,L,1,2,Strasbourg,1.5,0.9,53.0,25358,Radamel Falcao,4-3-2-1,5-4-1,Nicolas Rainville,Match Report,,2018-2019,Monaco
+2018-10-24,18:55,Champions Lg,Group stage,Wed,Away,D,1,1,be Club Brugge,0.8,1.5,41.0,23957,Andrea Raggi,3-4-3,3-1-4-2,Michael Oliver,Match Report,,2018-2019,Monaco
+2018-10-27,20:00,Ligue 1,Matchweek 11,Sat,Home,D,2,2,Dijon,1.0,0.6,47.0,7139,Kamil Glik,4-3-2-1,4-1-4-1,Jérôme Miguelgorry,Match Report,,2018-2019,Monaco
+2018-11-03,20:00,Ligue 1,Matchweek 12,Sat,Away,L,0,1,Reims,1.0,1.1,71.0,16005,Kamil Glik,3-4-3,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Monaco
+2018-11-06,18:55,Champions Lg,Group stage,Tue,Home,L,0,4,be Club Brugge,1.1,1.9,64.0,8347,Radamel Falcao,4-3-3,3-4-3,Hugo Miguel,Match Report,,2018-2019,Monaco
+2018-11-11,21:00,Ligue 1,Matchweek 13,Sun,Home,L,0,4,Paris S-G,1.4,3.6,34.0,12533,Radamel Falcao,4-2-3-1,3-4-3,Ruddy Buquet,Match Report,,2018-2019,Monaco
+2018-11-24,20:00,Ligue 1,Matchweek 14,Sat,Away,W,1,0,Caen,0.8,0.8,54.0,15013,Radamel Falcao,4-2-3-1,4-4-2,Thomas Léonard,Match Report,,2018-2019,Monaco
+2018-11-28,18:55,Champions Lg,Group stage,Wed,Away,L,0,2,es Atlético Madrid,1.3,0.9,44.0,56314,Diego Benaglio,4-4-2,4-4-2,Mattias Gestranius,Match Report,,2018-2019,Monaco
+2018-12-01,20:00,Ligue 1,Matchweek 15,Sat,Home,L,1,2,Montpellier,0.7,1.6,47.0,6725,Radamel Falcao,4-4-2,3-4-3,Olivier Thual,Match Report,,2018-2019,Monaco
+2018-12-04,19:00,Ligue 1,Matchweek 16,Tue,Away,W,2,0,Amiens,1.8,0.6,40.0,11048,Radamel Falcao,4-1-4-1,4-2-3-1,Jérôme Brisard,Match Report,,2018-2019,Monaco
+2018-12-11,21:00,Champions Lg,Group stage,Tue,Home,L,0,2,de Dortmund,0.6,2.6,38.0,8731,Radamel Falcao,4-1-4-1,4-2-3-1,Craig Pawson,Match Report,,2018-2019,Monaco
+2018-12-16,21:00,Ligue 1,Matchweek 18,Sun,Away,L,0,3,Lyon,0.1,2.0,26.0,46477,Radamel Falcao,3-5-1-1,3-4-1-2,Clément Turpin,Match Report,,2018-2019,Monaco
+2018-12-19,21:05,Coupe de la Ligue,Round of 16,Wed,Home,W,1,0,Lorient,,,,1000,Youri Tielemans,4-4-1-1,4-2-3-1,Benoît Millot,Match Report,,2018-2019,Monaco
+2018-12-22,21:00,Ligue 1,Matchweek 19,Sat,Home,L,0,2,Guingamp,0.6,1.1,62.0,6424,Radamel Falcao,4-4-2,4-2-3-1,Franck Schneider,Match Report,,2018-2019,Monaco
+2019-01-06,14:15,Coupe de France,Round of 64,Sun,Away,W,1,0,Canet RFC,,,63.0,8735,Jemerson,4-1-4-1,4-4-2,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Monaco
+2019-01-09,18:45,Coupe de la Ligue,Quarter-finals,Wed,Home,D,1 (8),1 (7),Rennes,,,,6022,Youri Tielemans,3-4-1-2,4-2-3-1,Amaury Delerue,Match Report,Monaco won on penalty kicks following extra time,2018-2019,Monaco
+2019-01-13,21:00,Ligue 1,Matchweek 20,Sun,Away,D,1,1,Marseille,0.9,1.7,44.0,44315,Youri Tielemans,3-5-2,4-2-3-1,Mikael Lesage,Match Report,,2018-2019,Monaco
+2019-01-16,19:00,Ligue 1,Matchweek 17,Wed,Home,D,1,1,Nice,1.0,1.3,56.0,11345,Youri Tielemans,3-4-3,3-5-2,Benoît Bastien,Match Report,,2018-2019,Monaco
+2019-01-19,20:00,Ligue 1,Matchweek 21,Sat,Home,L,1,5,Strasbourg,0.9,1.5,46.0,7298,Radamel Falcao,3-4-3,3-5-1-1,François Letexier,Match Report,,2018-2019,Monaco
+2019-01-22,21:00,Coupe de France,Round of 32,Tue,Home,L,1,3,Metz,,,54.0,3394,Radamel Falcao,3-4-3,4-2-3-1,Antony Gautier,Match Report,,2018-2019,Monaco
+2019-01-26,20:00,Ligue 1,Matchweek 22,Sat,Away,L,0,2,Dijon,1.5,1.6,55.0,12060,Radamel Falcao,3-5-2,4-2-3-1,Eric Wattellier,Match Report,,2018-2019,Monaco
+2019-01-29,21:05,Coupe de la Ligue,Semi-finals,Tue,Away,D,2 (4),2 (5),Guingamp,,,,11216,Kamil Glik,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,Guingamp won on penalty kicks following extra time,2018-2019,Monaco
+2019-02-02,20:00,Ligue 1,Matchweek 23,Sat,Home,W,2,1,Toulouse,1.2,0.9,52.0,5896,Radamel Falcao,4-2-3-1,4-3-3,Mikael Lesage,Match Report,,2018-2019,Monaco
+2019-02-10,15:00,Ligue 1,Matchweek 24,Sun,Away,D,2,2,Montpellier,1.5,1.8,49.0,13709,Radamel Falcao,4-2-3-1,3-4-3,Franck Schneider,Match Report,,2018-2019,Monaco
+2019-02-16,20:00,Ligue 1,Matchweek 25,Sat,Home,W,1,0,Nantes,1.3,0.3,49.0,7557,Radamel Falcao,4-2-3-1,4-2-3-1,Olivier Thual,Match Report,,2018-2019,Monaco
+2019-02-24,21:00,Ligue 1,Matchweek 26,Sun,Home,W,2,0,Lyon,0.7,1.4,43.0,10157,Radamel Falcao,4-2-3-1,4-3-3,Benoît Millot,Match Report,,2018-2019,Monaco
+2019-03-02,20:00,Ligue 1,Matchweek 27,Sat,Away,D,2,2,Angers,1.5,1.1,63.0,11391,Radamel Falcao,4-2-3-1,4-1-4-1,Antony Gautier,Match Report,,2018-2019,Monaco
+2019-03-09,20:00,Ligue 1,Matchweek 28,Sat,Home,D,1,1,Bordeaux,0.8,1.6,58.0,8042,Radamel Falcao,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2018-2019,Monaco
+2019-03-15,20:45,Ligue 1,Matchweek 29,Fri,Away,W,1,0,Lille,1.6,1.8,35.0,37724,Kamil Glik,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2018-2019,Monaco
+2019-03-31,15:00,Ligue 1,Matchweek 30,Sun,Home,L,0,1,Caen,1.9,0.8,67.0,7031,Radamel Falcao,4-2-3-1,4-1-4-1,Ruddy Buquet,Match Report,,2018-2019,Monaco
+2019-04-06,20:00,Ligue 1,Matchweek 31,Sat,Away,D,1,1,Guingamp,2.1,0.6,67.0,13997,Kamil Glik,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2018-2019,Monaco
+2019-04-13,20:00,Ligue 1,Matchweek 32,Sat,Home,D,0,0,Reims,1.9,0.7,56.0,7094,Kamil Glik,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2018-2019,Monaco
+2019-04-21,21:00,Ligue 1,Matchweek 33,Sun,Away,L,1,3,Paris S-G,1.0,2.4,37.0,43581,Radamel Falcao,4-4-1-1,3-4-3,Clément Turpin,Match Report,,2018-2019,Monaco
+2019-05-01,19:00,Ligue 1,Matchweek 34,Wed,Away,D,2,2,Rennes,1.1,1.8,49.0,28285,Radamel Falcao,4-2-3-1,4-4-2,Eric Wattellier,Match Report,,2018-2019,Monaco
+2019-05-05,17:00,Ligue 1,Matchweek 35,Sun,Home,L,2,3,Saint-Étienne,2.2,0.7,43.0,9047,Radamel Falcao,4-2-3-1,3-4-1-2,Benoît Millot,Match Report,,2018-2019,Monaco
+2019-05-11,20:00,Ligue 1,Matchweek 36,Sat,Away,L,0,1,Nîmes,0.9,1.9,55.0,14811,Radamel Falcao,4-1-4-1,4-1-4-1,Jeremy Stinat,Match Report,,2018-2019,Monaco
+2019-05-18,21:00,Ligue 1,Matchweek 37,Sat,Home,W,2,0,Amiens,1.1,0.7,41.0,10188,Radamel Falcao,4-4-2,4-4-2,Clément Turpin,Match Report,,2018-2019,Monaco
+2019-05-24,21:05,Ligue 1,Matchweek 38,Fri,Away,L,0,2,Nice,1.6,1.4,44.0,23356,Radamel Falcao,4-2-3-1,4-3-3,Ruddy Buquet,Match Report,,2018-2019,Monaco

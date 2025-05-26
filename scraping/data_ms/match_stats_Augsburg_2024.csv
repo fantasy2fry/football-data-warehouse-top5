@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,13:00,DFB-Pokal,Round of 64,Sun,Away,W,4,1,Viktoria 1889,,,76,5504,Jeffrey Gouweleeuw,4-3-1-2,5-3-2,,Match Report,,2024-2025,Augsburg
+2024-08-24,15:30,Bundesliga,Matchweek 1,Sat,Home,D,2,2,Werder Bremen,1.0,1.4,46,30660,Jeffrey Gouweleeuw,4-1-2-1-2◆,3-5-2,Sascha Stegemann,Match Report,,2024-2025,Augsburg
+2024-09-01,15:30,Bundesliga,Matchweek 2,Sun,Away,L,0,4,Heidenheim,0.7,3.1,64,15000,Jeffrey Gouweleeuw,4-1-2-1-2◆,4-2-3-1,Martin Petersen,Match Report,,2024-2025,Augsburg
+2024-09-15,15:30,Bundesliga,Matchweek 3,Sun,Home,W,3,1,St. Pauli,2.7,0.5,44,30660,Jeffrey Gouweleeuw,3-4-3,3-5-2,Felix Zwayer,Match Report,,2024-2025,Augsburg
+2024-09-20,20:30,Bundesliga,Matchweek 4,Fri,Home,L,2,3,Mainz 05,2.4,1.0,73,28913,Jeffrey Gouweleeuw,3-4-3,3-4-3,Sören Storks,Match Report,,2024-2025,Augsburg
+2024-09-28,15:30,Bundesliga,Matchweek 5,Sat,Away,L,0,4,RB Leipzig,1.1,3.0,41,44407,Jeffrey Gouweleeuw,3-4-3,4-4-2,Daniel Siebert,Match Report,,2024-2025,Augsburg
+2024-10-04,20:30,Bundesliga,Matchweek 6,Fri,Home,W,2,1,Gladbach,1.3,0.5,35,30660,Jeffrey Gouweleeuw,3-5-2,4-2-3-1,Florian Badstübner,Match Report,,2024-2025,Augsburg
+2024-10-19,15:30,Bundesliga,Matchweek 7,Sat,Away,L,1,3,Freiburg,0.6,0.8,43,33500,Jeffrey Gouweleeuw,3-5-2,4-2-3-1,Bastian Dankert,Match Report,,2024-2025,Augsburg
+2024-10-26,15:30,Bundesliga,Matchweek 8,Sat,Home,W,2,1,Dortmund,0.6,1.0,25,30660,Jeffrey Gouweleeuw,5-3-2,4-2-3-1,Tobias Welz,Match Report,,2024-2025,Augsburg
+2024-10-29,18:00,DFB-Pokal,Round of 32,Tue,Home,W,3,0,Schalke 04,,,53,27511,Elvis Rexhbeçaj,5-3-2,4-4-2,Frank Willenborg,Match Report,,2024-2025,Augsburg
+2024-11-02,15:30,Bundesliga,Matchweek 9,Sat,Away,D,1,1,Wolfsburg,0.5,1.2,31,22654,Jeffrey Gouweleeuw,3-5-2,4-2-3-1,Felix Brych,Match Report,,2024-2025,Augsburg
+2024-11-10,15:30,Bundesliga,Matchweek 10,Sun,Home,D,0,0,Hoffenheim,0.9,0.5,44,28300,Jeffrey Gouweleeuw,3-5-2,3-4-1-2,Martin Petersen,Match Report,,2024-2025,Augsburg
+2024-11-22,20:30,Bundesliga,Matchweek 11,Fri,Away,L,0,3,Bayern Munich,0.1,3.7,20,75000,Jeffrey Gouweleeuw,3-5-2,4-2-3-1,Daniel Schlager,Match Report,,2024-2025,Augsburg
+2024-11-30,15:30,Bundesliga,Matchweek 12,Sat,Home,W,1,0,Bochum,1.9,0.3,52,29556,Jeffrey Gouweleeuw,3-5-2,3-5-2,Tobias Reichel,Match Report,,2024-2025,Augsburg
+2024-12-04,20:45,DFB-Pokal,Round of 16,Wed,Away,D,2 (5),2 (4),Karlsruher,,,53,28422,Jeffrey Gouweleeuw,3-4-1-2,4-4-2,Tobias Stieler,Match Report,Augsburg won on penalty kicks following extra time,2024-2025,Augsburg
+2024-12-07,15:30,Bundesliga,Matchweek 13,Sat,Away,D,2,2,Eint Frankfurt,0.6,1.7,34,57000,Jeffrey Gouweleeuw,3-5-2,4-2-2-2,Bastian Dankert,Match Report,,2024-2025,Augsburg
+2024-12-14,15:30,Bundesliga,Matchweek 14,Sat,Home,L,0,2,Leverkusen,0.6,0.8,35,29310,Jeffrey Gouweleeuw,3-1-4-2,3-4-3,Felix Zwayer,Match Report,,2024-2025,Augsburg
+2024-12-21,15:30,Bundesliga,Matchweek 15,Sat,Away,L,1,5,Holstein Kiel,1.5,1.7,63,14830,Kristijan Jakić,3-5-2,3-4-1-2,Tobias Welz,Match Report,,2024-2025,Augsburg
+2025-01-12,17:30,Bundesliga,Matchweek 16,Sun,Home,L,0,1,Stuttgart,0.3,2.4,43,30660,Jeffrey Gouweleeuw,3-4-3,4-4-2,Daniel Schlager,Match Report,,2024-2025,Augsburg
+2025-01-15,20:30,Bundesliga,Matchweek 17,Wed,Away,W,2,0,Union Berlin,1.2,0.8,45,21560,Jeffrey Gouweleeuw,3-4-3,4-5-1,Frank Willenborg,Match Report,,2024-2025,Augsburg
+2025-01-19,17:30,Bundesliga,Matchweek 18,Sun,Away,W,2,0,Werder Bremen,1.2,1.3,29,39350,Jeffrey Gouweleeuw,3-4-3,3-5-2,Benjamin Brand,Match Report,,2024-2025,Augsburg
+2025-01-25,15:30,Bundesliga,Matchweek 19,Sat,Home,W,2,1,Heidenheim,1.1,1.2,60,30660,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Florian Badstübner,Match Report,,2024-2025,Augsburg
+2025-02-01,15:30,Bundesliga,Matchweek 20,Sat,Away,D,1,1,St. Pauli,0.3,0.8,55,29546,Jeffrey Gouweleeuw,3-4-3,3-4-3,Tobias Reichel,Match Report,,2024-2025,Augsburg
+2025-02-04,20:45,DFB-Pokal,Quarter-finals,Tue,Away,L,0,1,Stuttgart,,,40,59000,Jeffrey Gouweleeuw,3-4-3,4-4-2,Sascha Stegemann,Match Report,,2024-2025,Augsburg
+2025-02-08,15:30,Bundesliga,Matchweek 21,Sat,Away,D,0,0,Mainz 05,0.3,1.3,34,33000,Jeffrey Gouweleeuw,3-4-3,3-4-3,Daniel Schlager,Match Report,,2024-2025,Augsburg
+2025-02-14,20:30,Bundesliga,Matchweek 22,Fri,Home,D,0,0,RB Leipzig,1.0,1.2,39,28260,Jeffrey Gouweleeuw,3-4-3,3-4-3,Sascha Stegemann,Match Report,,2024-2025,Augsburg
+2025-02-22,15:30,Bundesliga,Matchweek 23,Sat,Away,W,3,0,Gladbach,1.5,1.0,51,51493,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Florian Exner,Match Report,,2024-2025,Augsburg
+2025-03-02,17:30,Bundesliga,Matchweek 24,Sun,Home,D,0,0,Freiburg,1.5,0.8,51,29651,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Harm Osmers,Match Report,,2024-2025,Augsburg
+2025-03-08,15:30,Bundesliga,Matchweek 25,Sat,Away,W,1,0,Dortmund,0.2,1.2,29,81365,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Deniz Aytekin,Match Report,,2024-2025,Augsburg
+2025-03-15,15:30,Bundesliga,Matchweek 26,Sat,Home,W,1,0,Wolfsburg,0.7,0.8,42,28351,Jeffrey Gouweleeuw,3-4-3,4-3-3,Martin Petersen,Match Report,,2024-2025,Augsburg
+2025-03-29,15:30,Bundesliga,Matchweek 27,Sat,Away,D,1,1,Hoffenheim,0.6,1.4,44,21427,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Tobias Reichel,Match Report,,2024-2025,Augsburg
+2025-04-04,20:30,Bundesliga,Matchweek 28,Fri,Home,L,1,3,Bayern Munich,0.4,2.4,31,30660,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Matthias Jöllenbeck,Match Report,,2024-2025,Augsburg
+2025-04-12,15:30,Bundesliga,Matchweek 29,Sat,Away,W,2,1,Bochum,1.1,2.8,47,25048,Jeffrey Gouweleeuw,3-4-3,3-5-2,Martin Petersen,Match Report,,2024-2025,Augsburg
+2025-04-20,15:30,Bundesliga,Matchweek 30,Sun,Home,D,0,0,Eint Frankfurt,0.9,1.1,46,30660,Jeffrey Gouweleeuw,3-4-3,3-5-2,Florian Badstübner,Match Report,,2024-2025,Augsburg
+2025-04-26,15:30,Bundesliga,Matchweek 31,Sat,Away,L,0,2,Leverkusen,0.7,0.9,47,29563,Jeffrey Gouweleeuw,3-4-3,4-4-1-1,Christian Dingert,Match Report,,2024-2025,Augsburg
+2025-05-04,15:30,Bundesliga,Matchweek 32,Sun,Home,L,1,3,Holstein Kiel,3.2,1.7,72,28660,Jeffrey Gouweleeuw,3-4-3,3-4-1-2,Harm Osmers,Match Report,,2024-2025,Augsburg
+2025-05-11,19:30,Bundesliga,Matchweek 33,Sun,Away,L,0,4,Stuttgart,0.5,3.9,30,59000,Jeffrey Gouweleeuw,3-4-3,4-2-3-1,Timo Gerach,Match Report,,2024-2025,Augsburg
+2025-05-17,15:30,Bundesliga,Matchweek 34,Sat,Home,L,1,2,Union Berlin,1.7,0.8,62,30660,Jeffrey Gouweleeuw,3-4-3,3-4-3,Felix Brych,Match Report,,2024-2025,Augsburg

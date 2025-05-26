@@ -1,0 +1,52 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-04,15:00,Championship,Matchweek 1,Sat,Away,D,1,1,Bristol City,0.7,0.4,51,22395,Ben Watson,4-2-3-1,4-4-2,Darren Bond,Match Report,,2018-2019,Nott'ham Forest
+2018-08-07,19:45,Championship,Matchweek 4,Tue,Home,D,1,1,West Brom,1.1,2.0,57,27850,Danny Fox,4-2-3-1,4-4-1-1,Darren England,Match Report,,2018-2019,Nott'ham Forest
+2018-08-11,15:00,Championship,Matchweek 2,Sat,Home,W,1,0,Reading,1.2,1.0,53,27948,Danny Fox,4-2-3-1,4-4-2,Steve Martin,Match Report,,2018-2019,Nott'ham Forest
+2018-08-14,19:30,EFL Cup,First round,Tue,Home,D,1 (10),1 (9),Bury,,,63,8172,Ben Watson,4-2-3-1,5-3-2,Scott Duncan,Match Report,Nott'ham Forest won on penalty kicks following extra time,2018-2019,Nott'ham Forest
+2018-08-18,15:00,Championship,Matchweek 3,Sat,Away,D,2,2,Wigan Athletic,1.3,3.7,50,11543,Danny Fox,4-2-3-1,4-2-3-1,Geoff Eltringham,Match Report,,2018-2019,Nott'ham Forest
+2018-08-25,17:30,Championship,Matchweek 5,Sat,Home,D,2,2,Birmingham City,0.4,0.7,58,26799,Ben Watson,4-2-3-1,4-4-2,Tim Robinson,Match Report,,2018-2019,Nott'ham Forest
+2018-08-29,19:45,EFL Cup,Second round,Wed,Home,W,3,1,Newcastle Utd,,,46,13942,Ben Watson,4-2-3-1,4-4-1-1,Jeremy Simpson,Match Report,,2018-2019,Nott'ham Forest
+2018-09-01,15:00,Championship,Matchweek 6,Sat,Away,L,1,2,Brentford,0.2,1.9,45,10186,Ben Watson,4-2-3-1,4-3-3,Peter Bankes,Match Report,,2018-2019,Nott'ham Forest
+2018-09-15,15:00,Championship,Matchweek 7,Sat,Away,D,0,0,Swansea City,0.8,0.2,59,19522,Danny Fox,4-2-3-1,4-4-1-1,Scott Duncan,Match Report,,2018-2019,Nott'ham Forest
+2018-09-19,19:45,Championship,Matchweek 8,Wed,Home,W,2,1,Sheffield Weds,1.4,0.5,58,26252,Danny Fox,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,,2018-2019,Nott'ham Forest
+2018-09-22,15:00,Championship,Matchweek 9,Sat,Home,W,1,0,Rotherham Utd,1.3,0.3,61,27479,Ben Watson,4-2-3-1,4-3-3,Robert Jones,Match Report,,2018-2019,Nott'ham Forest
+2018-09-26,19:45,EFL Cup,Third round,Wed,Home,W,3,2,Stoke City,,,51,12915,Ben Watson,4-2-3-1,5-3-2,Darren England,Match Report,,2018-2019,Nott'ham Forest
+2018-09-29,15:00,Championship,Matchweek 10,Sat,Away,D,2,2,Blackburn,3.3,1.9,52,14440,Danny Fox,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,2018-2019,Nott'ham Forest
+2018-10-03,19:45,Championship,Matchweek 11,Wed,Home,D,2,2,Millwall,0.3,2.3,56,25753,Danny Fox,4-2-3-1,4-4-2,Jonathan Moss,Match Report,,2018-2019,Nott'ham Forest
+2018-10-06,15:00,Championship,Matchweek 12,Sat,Away,W,2,0,Middlesbrough,1.2,1.4,46,24299,Ben Watson,4-2-3-1,4-3-3,John Brooks,Match Report,,2018-2019,Nott'ham Forest
+2018-10-20,15:00,Championship,Matchweek 13,Sat,Home,L,1,2,Norwich City,0.8,2.4,44,29427,Ben Watson,4-2-3-1,4-2-3-1,Keith Stroud,Match Report,,2018-2019,Nott'ham Forest
+2018-10-24,20:00,Championship,Matchweek 14,Wed,Away,W,3,0,Bolton,2.5,0.5,61,13195,Michael Dawson,4-2-3-1,4-2-3-1,Andrew Davies,Match Report,,2018-2019,Nott'ham Forest
+2018-10-27,17:30,Championship,Matchweek 15,Sat,Away,D,1,1,Leeds United,0.2,1.7,30,34308,Danny Fox,4-2-3-1,4-1-4-1,Geoff Eltringham,Match Report,,2018-2019,Nott'ham Forest
+2018-10-30,19:45,EFL Cup,Fourth round,Tue,Away,L,2,3,Burton Albion,,,60,4284,Ben Watson,4-2-3-1,4-3-3,John Brooks,Match Report,,2018-2019,Nott'ham Forest
+2018-11-03,15:00,Championship,Matchweek 16,Sat,Home,W,1,0,Sheffield Utd,0.9,0.6,46,28757,Michael Dawson,4-2-3-1,3-5-2,Scott Duncan,Match Report,,2018-2019,Nott'ham Forest
+2018-11-10,15:00,Championship,Matchweek 17,Sat,Home,D,0,0,Stoke City,0.9,0.7,54,28556,Michael Dawson,4-2-3-1,4-1-4-1,Oliver Langford,Match Report,,2018-2019,Nott'ham Forest
+2018-11-24,15:00,Championship,Matchweek 18,Sat,Away,W,2,0,Hull City,1.4,0.3,60,3364,Michael Dawson,4-2-3-1,4-4-2,Graham Scott,Match Report,,2018-2019,Nott'ham Forest
+2018-11-28,19:45,Championship,Matchweek 19,Wed,Away,D,5,5,Aston Villa,1.5,3.5,37,32868,Michael Dawson,4-2-3-1,4-3-3,Simon Hooper,Match Report,,2018-2019,Nott'ham Forest
+2018-12-01,15:00,Championship,Matchweek 20,Sat,Home,W,2,0,Ipswich Town,2.8,0.7,55,27873,Michael Dawson,4-2-3-1,4-2-2-2,James Linington,Match Report,,2018-2019,Nott'ham Forest
+2018-12-08,15:00,Championship,Matchweek 21,Sat,Home,L,0,1,Preston,1.0,1.4,62,27777,Ben Osborn,4-2-3-1,4-2-3-1,Steve Martin,Match Report,,2018-2019,Nott'ham Forest
+2018-12-17,19:45,Championship,Matchweek 22,Mon,Away,D,0,0,Derby County,0.8,0.9,50,31160,Ben Osborn,4-2-3-1,4-3-3,Keith Stroud,Match Report,,2018-2019,Nott'ham Forest
+2018-12-22,15:00,Championship,Matchweek 23,Sat,Home,L,0,1,QPR,1.1,0.4,68,28177,Ben Osborn,4-2-3-1,4-4-1-1,Gavin Ward,Match Report,,2018-2019,Nott'ham Forest
+2018-12-26,15:00,Championship,Matchweek 24,Wed,Away,D,3,3,Norwich City,0.7,4.0,40,26933,Danny Fox,4-2-3-1,4-2-3-1,John Brooks,Match Report,,2018-2019,Nott'ham Forest
+2018-12-29,15:00,Championship,Matchweek 25,Sat,Away,L,0,1,Millwall,0.4,1.3,65,15273,Danny Fox,4-2-3-1,4-4-2,Tony Harrington,Match Report,,2018-2019,Nott'ham Forest
+2019-01-01,15:00,Championship,Matchweek 26,Tue,Home,W,4,2,Leeds United,1.6,2.1,38,29530,Danny Fox,4-2-3-1,4-1-4-1,Darren England,Match Report,,2018-2019,Nott'ham Forest
+2019-01-05,15:00,FA Cup,Third round,Sat,Away,L,0,2,Chelsea,,,38,40544,Danny Fox,4-2-3-1,4-3-3,Andy Madley,Match Report,,2018-2019,Nott'ham Forest
+2019-01-12,15:00,Championship,Matchweek 27,Sat,Away,L,0,2,Reading,0.4,0.6,45,15034,Danny Fox,4-2-3-1,4-2-3-1,Oliver Langford,Match Report,,2018-2019,Nott'ham Forest
+2019-01-19,15:00,Championship,Matchweek 28,Sat,Home,L,0,1,Bristol City,0.9,1.4,51,28922,Claudio Yacob,4-4-2,4-1-4-1,Jeremy Simpson,Match Report,,2018-2019,Nott'ham Forest
+2019-01-26,15:00,Championship,Matchweek 29,Sat,Home,W,3,1,Wigan Athletic,1.0,2.5,55,28848,Ben Watson,4-3-3,4-4-1-1,Alan Davies,Match Report,,2018-2019,Nott'ham Forest
+2019-02-02,15:00,Championship,Matchweek 30,Sat,Away,L,0,2,Birmingham City,0.6,1.5,53,24235,Ben Watson,4-1-4-1,4-4-2,David Webb,Match Report,,2018-2019,Nott'ham Forest
+2019-02-09,15:00,Championship,Matchweek 31,Sat,Home,W,2,1,Brentford,3.2,1.8,31,27829,Ben Watson,4-2-3-1,3-4-3,Robert Jones,Match Report,,2018-2019,Nott'ham Forest
+2019-02-12,20:00,Championship,Matchweek 32,Tue,Away,D,2,2,West Brom,1.6,1.6,33,22691,Ben Watson,4-2-3-1,4-3-3,Lee Mason,Match Report,,2018-2019,Nott'ham Forest
+2019-02-16,15:00,Championship,Matchweek 33,Sat,Away,D,0,0,Preston,0.9,0.6,40,13904,Jack Colback,4-1-2-1-2◆,4-1-4-1,Tim Robinson,Match Report,,2018-2019,Nott'ham Forest
+2019-02-25,19:45,Championship,Matchweek 34,Mon,Home,W,1,0,Derby County,1.8,0.7,37,29421,Ben Watson,4-1-4-1,4-3-3,Robert Jones,Match Report,,2018-2019,Nott'ham Forest
+2019-03-02,15:00,Championship,Matchweek 35,Sat,Away,L,0,2,Stoke City,1.0,0.5,50,26736,Ben Watson,4-1-4-1,4-5-1,Roger East,Match Report,,2018-2019,Nott'ham Forest
+2019-03-09,15:00,Championship,Matchweek 36,Sat,Home,W,3,0,Hull City,2.2,1.3,47,29397,Jack Colback,4-1-2-1-2◆,4-4-1-1,James Linington,Match Report,,2018-2019,Nott'ham Forest
+2019-03-13,19:45,Championship,Matchweek 37,Wed,Home,L,1,3,Aston Villa,0.6,1.3,52,29224,Jack Colback,4-3-2-1,4-3-3,Mike Dean,Match Report,,2018-2019,Nott'ham Forest
+2019-03-16,15:00,Championship,Matchweek 38,Sat,Away,D,1,1,Ipswich Town,2.0,2.0,51,16709,Jack Colback,4-3-2-1,4-3-3,Keith Stroud,Match Report,,2018-2019,Nott'ham Forest
+2019-03-30,15:00,Championship,Matchweek 39,Sat,Home,W,2,1,Swansea City,0.6,1.0,32,28469,Ben Watson,4-3-3,4-2-3-1,Jeremy Simpson,Match Report,,2018-2019,Nott'ham Forest
+2019-04-06,15:00,Championship,Matchweek 40,Sat,Away,L,1,2,Rotherham Utd,1.8,2.0,54,11012,Ben Watson,4-4-2,4-3-3,Steve Martin,Match Report,,2018-2019,Nott'ham Forest
+2019-04-09,19:45,Championship,Matchweek 41,Tue,Away,L,0,3,Sheffield Weds,1.1,1.8,45,23931,Jack Colback,4-2-3-1,4-4-2,Lee Mason,Match Report,,2018-2019,Nott'ham Forest
+2019-04-13,15:00,Championship,Matchweek 42,Sat,Home,L,1,2,Blackburn,1.4,1.3,56,27786,Jack Colback,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,2018-2019,Nott'ham Forest
+2019-04-19,12:30,Championship,Matchweek 43,Fri,Away,L,0,2,Sheffield Utd,0.4,1.5,37,28403,Jack Colback,4-5-1,3-4-1-2,Andy Madley,Match Report,,2018-2019,Nott'ham Forest
+2019-04-22,15:00,Championship,Matchweek 44,Mon,Home,W,3,0,Middlesbrough,3.1,0.2,54,27653,Jack Robinson,3-4-3,3-5-1-1,Peter Bankes,Match Report,,2018-2019,Nott'ham Forest
+2019-04-27,15:00,Championship,Matchweek 45,Sat,Away,W,1,0,QPR,1.3,2.2,45,15212,Jack Robinson,3-4-3,4-4-2,Scott Duncan,Match Report,,2018-2019,Nott'ham Forest
+2019-05-05,12:30,Championship,Matchweek 46,Sun,Home,W,1,0,Bolton,0.9,0.5,49,27578,Jack Robinson,3-4-3,4-5-1,Oliver Langford,Match Report,,2018-2019,Nott'ham Forest

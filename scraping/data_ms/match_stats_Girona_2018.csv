@@ -1,0 +1,45 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-17,20:15,La Liga,Matchweek 1,Fri,Home,D,0,0,Valladolid,0.7,0.0,67,10368,Álex Granell,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,2018-2019,Girona
+2018-08-26,22:15,La Liga,Matchweek 2,Sun,Home,L,1,4,Real Madrid,0.4,3.9,34,13889,Álex Granell,4-3-3,4-2-3-1,Juan Martínez,Match Report,,2018-2019,Girona
+2018-08-31,22:00,La Liga,Matchweek 3,Fri,Away,W,1,0,Villarreal,1.0,1.1,35,15740,Álex Granell,3-4-3,4-1-2-1-2,Eduardo Prieto,Match Report,,2018-2019,Girona
+2018-09-17,21:00,La Liga,Matchweek 4,Mon,Home,W,3,2,Celta Vigo,1.7,1.0,33,9849,Álex Granell,3-4-3,3-4-3,Alberola Rojas,Match Report,,2018-2019,Girona
+2018-09-23,20:45,La Liga,Matchweek 5,Sun,Away,D,2,2,Barcelona,1.5,1.4,33,76055,Álex Granell,5-3-2,4-3-3,Jesús Gil,Match Report,,2018-2019,Girona
+2018-09-27,22:00,La Liga,Matchweek 6,Thu,Home,L,0,1,Betis,0.8,1.6,36,11358,Álex Granell,3-4-3,3-4-3,José González,Match Report,,2018-2019,Girona
+2018-09-30,12:00,La Liga,Matchweek 7,Sun,Away,D,1,1,Huesca,1.7,1.5,48,6779,Aday,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,2018-2019,Girona
+2018-10-06,13:00,La Liga,Matchweek 8,Sat,Home,L,2,3,Eibar,1.2,1.7,52,10569,Álex Granell,3-5-2,4-4-2,Eduardo Prieto,Match Report,,2018-2019,Girona
+2018-10-22,21:00,La Liga,Matchweek 9,Mon,Away,D,0,0,Real Sociedad,0.9,0.6,46,20997,Aday,3-4-3,4-4-2,Pablo González,Match Report,,2018-2019,Girona
+2018-10-27,13:00,La Liga,Matchweek 10,Sat,Home,W,2,1,Rayo Vallecano,2.4,1.6,44,6618,Aday,3-4-3,4-3-3,José Luis Munuera,Match Report,,2018-2019,Girona
+2018-10-31,20:30,Copa del Rey,Round of 32,Wed,Away,D,2,2,Alavés,,,51,9346,Pedro Alcalá,3-4-3,4-4-2,Adrián Cordero,Match Report,Leg 1 of 2,2018-2019,Girona
+2018-11-03,18:30,La Liga,Matchweek 11,Sat,Away,W,1,0,Valencia,0.3,2.3,46,38745,Pere Pons,3-4-3,4-4-2,Alberola Rojas,Match Report,,2018-2019,Girona
+2018-11-10,20:45,La Liga,Matchweek 12,Sat,Home,D,0,0,Leganés,0.4,1.1,59,9874,Cristhian Stuani,3-4-3,3-4-3,Adrián Cordero,Match Report,,2018-2019,Girona
+2018-11-25,18:30,La Liga,Matchweek 13,Sun,Away,W,3,1,Espanyol,2.2,2.4,39,22716,Cristhian Stuani,3-4-3,4-3-3,Alejandro Hernández,Match Report,,2018-2019,Girona
+2018-12-02,16:15,La Liga,Matchweek 14,Sun,Home,D,1,1,Atlético Madrid,1.5,1.6,44,12104,Álex Granell,3-4-3,4-4-2,Ricardo de Burgos,Match Report,,2018-2019,Girona
+2018-12-05,19:30,Copa del Rey,Round of 32,Wed,Home,W,2,1,Alavés,,,48,9290,Álex Granell,3-5-2,4-4-2,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Girona won,2018-2019,Girona
+2018-12-10,21:00,La Liga,Matchweek 15,Mon,Away,L,0,1,Athletic Club,0.2,2.1,48,34060,Álex Granell,3-4-3,4-2-3-1,Eduardo Prieto,Match Report,,2018-2019,Girona
+2018-12-16,12:00,La Liga,Matchweek 16,Sun,Away,L,0,2,Sevilla,1.0,2.1,50,33542,Cristhian Stuani,3-1-4-2,3-1-4-2,Guillermo Cuadra,Match Report,,2018-2019,Girona
+2018-12-21,19:30,La Liga,Matchweek 17,Fri,Home,D,1,1,Getafe,1.4,0.6,66,8450,Álex Granell,3-4-3,4-4-2,Alberola Rojas,Match Report,,2018-2019,Girona
+2019-01-04,19:00,La Liga,Matchweek 18,Fri,Away,D,2,2,Levante,1.4,1.6,44,19415,Álex Granell,3-5-2,3-5-2,Alberto Undiano,Match Report,,2018-2019,Girona
+2019-01-09,19:30,Copa del Rey,Round of 16,Wed,Home,D,1,1,Atlético Madrid,,,48,7770,Pedro Alcalá,3-4-1-2,4-4-2,Alejandro Hernández,Match Report,Leg 1 of 2,2018-2019,Girona
+2019-01-12,18:30,La Liga,Matchweek 19,Sat,Home,D,1,1,Alavés,0.6,1.1,56,10303,Álex Granell,3-4-3,4-4-2,José Sánchez,Match Report,,2018-2019,Girona
+2019-01-16,19:30,Copa del Rey,Round of 16,Wed,Away,D,3,3,Atlético Madrid,,,43,45221,Álex Granell,3-4-1-2,4-4-2,Antonio Matéu Lahoz,Match Report,Leg 2 of 2; Girona won,2018-2019,Girona
+2019-01-20,12:00,La Liga,Matchweek 20,Sun,Away,L,2,3,Betis,0.8,1.4,41,47218,Pedro Alcalá,3-4-3,3-5-2,Adrián Cordero,Match Report,,2018-2019,Girona
+2019-01-24,21:30,Copa del Rey,Quarter-finals,Thu,Away,L,2,4,Real Madrid,,,41,50865,Álex Granell,5-4-1,4-3-3,Alberto Undiano,Match Report,Leg 1 of 2,2018-2019,Girona
+2019-01-27,16:15,La Liga,Matchweek 21,Sun,Home,L,0,2,Barcelona,1.3,2.2,36,14021,Álex Granell,3-5-2,4-3-3,Pablo González,Match Report,,2018-2019,Girona
+2019-01-31,21:30,Copa del Rey,Quarter-finals,Thu,Home,L,1,3,Real Madrid,,,45,14158,Álex Granell,5-3-2,4-3-3,Juan Martínez,Match Report,Leg 2 of 2; Real Madrid won,2018-2019,Girona
+2019-02-03,18:30,La Liga,Matchweek 22,Sun,Away,L,0,3,Eibar,0.2,1.7,44,4419,Álex Granell,3-5-2,4-4-2,José González,Match Report,,2018-2019,Girona
+2019-02-09,20:45,La Liga,Matchweek 23,Sat,Home,L,0,2,Huesca,1.4,0.6,66,10662,Cristhian Stuani,3-4-3,3-1-4-2,Adrián Cordero,Match Report,,2018-2019,Girona
+2019-02-17,12:00,La Liga,Matchweek 24,Sun,Away,W,2,1,Real Madrid,2.6,1.8,43,68099,Álex Granell,4-1-4-1,4-3-3,Guillermo Cuadra,Match Report,,2018-2019,Girona
+2019-02-25,21:00,La Liga,Matchweek 25,Mon,Home,D,0,0,Real Sociedad,1.0,0.5,46,10170,Álex Granell,4-3-2-1,4-2-3-1,Eduardo Prieto,Match Report,,2018-2019,Girona
+2019-03-01,21:00,La Liga,Matchweek 26,Fri,Away,W,2,0,Rayo Vallecano,1.3,0.8,45,12087,Álex Granell,4-3-2-1,4-2-3-1,Santiago Jaime,Match Report,,2018-2019,Girona
+2019-03-10,16:15,La Liga,Matchweek 27,Sun,Home,L,2,3,Valencia,2.3,1.2,59,11502,Álex Granell,4-3-2-1,4-4-2,Carlos del Cerro,Match Report,,2018-2019,Girona
+2019-03-16,20:45,La Liga,Matchweek 28,Sat,Away,W,2,0,Leganés,1.5,0.6,46,9873,Álex Granell,4-2-3-1,3-5-2,José Luis Munuera,Match Report,,2018-2019,Girona
+2019-03-29,21:00,La Liga,Matchweek 29,Fri,Home,L,1,2,Athletic Club,0.4,1.0,49,10652,Álex Granell,4-1-4-1,4-2-3-1,José Sánchez,Match Report,,2018-2019,Girona
+2019-04-02,19:30,La Liga,Matchweek 30,Tue,Away,L,0,2,Atlético Madrid,0.8,2.5,51,40863,Pedro Alcalá,4-1-4-1,3-1-4-2,Ignacio Iglesias,Match Report,,2018-2019,Girona
+2019-04-06,13:00,La Liga,Matchweek 31,Sat,Home,L,1,2,Espanyol,1.5,0.4,56,11463,Álex Granell,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,2018-2019,Girona
+2019-04-14,18:30,La Liga,Matchweek 32,Sun,Home,L,0,1,Villarreal,1.3,1.4,58,11535,Cristhian Stuani,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,2018-2019,Girona
+2019-04-20,13:00,La Liga,Matchweek 33,Sat,Away,L,1,2,Celta Vigo,0.4,1.8,38,20546,Cristhian Stuani,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,2018-2019,Girona
+2019-04-23,20:30,La Liga,Matchweek 34,Tue,Away,L,0,1,Valladolid,0.6,0.9,49,19106,Álex Granell,3-4-3,4-4-2,Juan Martínez,Match Report,,2018-2019,Girona
+2019-04-28,14:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Sevilla,1.0,0.6,43,11281,Álex Granell,4-3-3,4-2-3-1,José González,Match Report,,2018-2019,Girona
+2019-05-05,12:00,La Liga,Matchweek 36,Sun,Away,L,0,2,Getafe,0.7,2.0,58,10615,Álex Granell,4-3-3,4-1-3-2,Alejandro Hernández,Match Report,,2018-2019,Girona
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,L,1,2,Levante,1.9,0.7,59,13342,Álex Granell,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,2018-2019,Girona
+2019-05-18,20:45,La Liga,Matchweek 38,Sat,Away,L,1,2,Alavés,1.0,1.3,56,11549,Álex Granell,4-3-1-2,4-1-4-1,Mario Melero,Match Report,,2018-2019,Girona

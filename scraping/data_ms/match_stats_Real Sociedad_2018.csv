@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-18,20:15,La Liga,Matchweek 1,Sat,Away,W,2,1,Villarreal,0.7,1.6,48,16250,Asier Illarramendi,4-4-1-1,4-4-2,Mario Melero,Match Report,,2018-2019,Real Sociedad
+2018-08-24,22:15,La Liga,Matchweek 2,Fri,Away,D,2,2,Leganés,1.6,1.7,33,9375,Asier Illarramendi,4-4-2,4-4-1-1,José Luis Munuera,Match Report,,2018-2019,Real Sociedad
+2018-08-31,22:00,La Liga,Matchweek 3,Fri,Away,L,1,2,Eibar,1.3,1.0,42,6144,Asier Illarramendi,4-4-2,4-4-2,José Sánchez,Match Report,,2018-2019,Real Sociedad
+2018-09-15,16:15,La Liga,Matchweek 4,Sat,Home,L,1,2,Barcelona,1.4,1.4,31,26756,Asier Illarramendi,4-1-2-1-2◆,4-3-3,Carlos del Cerro,Match Report,,2018-2019,Real Sociedad
+2018-09-21,21:00,La Liga,Matchweek 5,Fri,Away,W,1,0,Huesca,0.2,0.6,52,6948,Mikel Oyarzabal,4-3-3,4-2-3-1,Ignacio Iglesias,Match Report,,2018-2019,Real Sociedad
+2018-09-25,21:00,La Liga,Matchweek 6,Tue,Home,D,2,2,Rayo Vallecano,1.6,2.1,57,21510,Mikel Oyarzabal,4-2-3-1,4-1-4-1,Juan Martínez,Match Report,,2018-2019,Real Sociedad
+2018-09-29,13:00,La Liga,Matchweek 7,Sat,Home,L,0,1,Valencia,1.3,0.9,54,23577,Asier Illarramendi,4-4-2,4-4-2,Jesús Gil,Match Report,,2018-2019,Real Sociedad
+2018-10-05,21:00,La Liga,Matchweek 8,Fri,Away,W,3,1,Athletic Club,2.2,1.4,31,46884,Asier Illarramendi,4-2-3-1,4-3-3,Alejandro Hernández,Match Report,,2018-2019,Real Sociedad
+2018-10-22,21:00,La Liga,Matchweek 9,Mon,Home,D,0,0,Girona,0.6,0.9,54,20997,Asier Illarramendi,4-4-2,3-4-3,Pablo González,Match Report,,2018-2019,Real Sociedad
+2018-10-27,20:45,La Liga,Matchweek 10,Sat,Away,L,0,2,Atlético Madrid,0.3,1.4,39,57514,Asier Illarramendi,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,2018-2019,Real Sociedad
+2018-11-01,16:15,Copa del Rey,Round of 32,Thu,Away,D,1,1,Celta Vigo,,,50,15195,David Zurutuza,4-1-4-1,4-4-2,José Luis Munuera,Match Report,Leg 1 of 2,2018-2019,Real Sociedad
+2018-11-04,18:30,La Liga,Matchweek 11,Sun,Home,D,0,0,Sevilla,0.6,0.4,52,24882,Asier Illarramendi,4-2-3-1,3-4-3,Eduardo Prieto,Match Report,,2018-2019,Real Sociedad
+2018-11-09,21:00,La Liga,Matchweek 12,Fri,Away,W,3,1,Levante,1.2,1.3,53,19890,Asier Illarramendi,3-4-3,3-5-2,David Medié,Match Report,,2018-2019,Real Sociedad
+2018-11-26,21:00,La Liga,Matchweek 13,Mon,Home,W,2,1,Celta Vigo,1.9,0.5,49,17744,David Zurutuza,4-4-2,4-2-3-1,Mario Melero,Match Report,,2018-2019,Real Sociedad
+2018-12-02,12:00,La Liga,Matchweek 14,Sun,Away,L,0,1,Betis,1.3,1.3,43,46562,Asier Illarramendi,4-4-2,3-5-1-1,Guillermo Cuadra,Match Report,,2018-2019,Real Sociedad
+2018-12-05,20:30,Copa del Rey,Round of 32,Wed,Home,W,2,0,Celta Vigo,,,39,21336,Asier Illarramendi,4-2-3-1,3-4-3,José Sánchez,Match Report,Leg 2 of 2; Real Sociedad won,2018-2019,Real Sociedad
+2018-12-09,18:30,La Liga,Matchweek 15,Sun,Home,L,1,2,Valladolid,2.4,1.0,68,23260,Asier Illarramendi,4-2-3-1,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Real Sociedad
+2018-12-15,13:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Getafe,0.8,0.4,71,9018,Asier Illarramendi,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,2018-2019,Real Sociedad
+2018-12-21,21:00,La Liga,Matchweek 17,Fri,Home,L,0,1,Alavés,1.1,0.8,67,22431,Asier Illarramendi,4-4-2,4-4-2,Javier Estrada,Match Report,,2018-2019,Real Sociedad
+2019-01-06,18:30,La Liga,Matchweek 18,Sun,Away,W,2,0,Real Madrid,2.3,2.6,41,53412,Asier Illarramendi,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,2018-2019,Real Sociedad
+2019-01-10,20:30,Copa del Rey,Round of 16,Thu,Away,D,0,0,Betis,,,37,26273,David Zurutuza,4-2-3-1,4-1-4-1,Santiago Jaime,Match Report,Leg 1 of 2,2018-2019,Real Sociedad
+2019-01-14,21:00,La Liga,Matchweek 19,Mon,Home,W,3,2,Espanyol,2.6,2.1,41,17301,Asier Illarramendi,4-2-3-1,4-1-4-1,Carlos del Cerro,Match Report,,2018-2019,Real Sociedad
+2019-01-17,19:30,Copa del Rey,Round of 16,Thu,Home,D,2,2,Betis,,,54,21090,Asier Illarramendi,4-2-3-1,3-4-3,Eduardo Prieto,Match Report,Leg 2 of 2; Betis won,2018-2019,Real Sociedad
+2019-01-20,18:30,La Liga,Matchweek 20,Sun,Away,D,2,2,Rayo Vallecano,1.6,0.9,64,12562,Asier Illarramendi,4-1-4-1,3-5-2,David Medié,Match Report,,2018-2019,Real Sociedad
+2019-01-27,18:30,La Liga,Matchweek 21,Sun,Home,D,0,0,Huesca,0.4,0.4,68,21252,Asier Illarramendi,4-2-3-1,5-3-2,Eduardo Prieto,Match Report,,2018-2019,Real Sociedad
+2019-02-02,16:15,La Liga,Matchweek 22,Sat,Home,W,2,1,Athletic Club,1.5,1.4,47,27073,Asier Illarramendi,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Real Sociedad
+2019-02-10,16:15,La Liga,Matchweek 23,Sun,Away,D,0,0,Valencia,0.5,1.5,58,38885,Asier Illarramendi,4-2-3-1,4-4-2,Mario Melero,Match Report,,2018-2019,Real Sociedad
+2019-02-16,18:30,La Liga,Matchweek 24,Sat,Home,W,3,0,Leganés,1.7,1.2,61,22997,David Zurutuza,4-3-3,3-5-2,José Luis Munuera,Match Report,,2018-2019,Real Sociedad
+2019-02-25,21:00,La Liga,Matchweek 25,Mon,Away,D,0,0,Girona,0.5,1.0,54,10170,David Zurutuza,4-2-3-1,4-3-2-1,Eduardo Prieto,Match Report,,2018-2019,Real Sociedad
+2019-03-03,18:30,La Liga,Matchweek 26,Sun,Home,L,0,2,Atlético Madrid,0.9,1.4,61,26004,David Zurutuza,4-1-4-1,4-4-2,José González,Match Report,,2018-2019,Real Sociedad
+2019-03-10,18:30,La Liga,Matchweek 27,Sun,Away,L,2,5,Sevilla,1.2,2.4,51,35813,Mikel Oyarzabal,4-3-1-2,3-1-4-2,Ignacio Iglesias,Match Report,,2018-2019,Real Sociedad
+2019-03-15,21:00,La Liga,Matchweek 28,Fri,Home,D,1,1,Levante,2.9,1.3,58,20605,David Zurutuza,4-3-3,5-3-2,Adrián Cordero,Match Report,,2018-2019,Real Sociedad
+2019-03-31,18:30,La Liga,Matchweek 29,Sun,Away,D,1,1,Valladolid,0.9,2.5,59,18775,Mikel Oyarzabal,4-3-3,4-4-2,Alberola Rojas,Match Report,,2018-2019,Real Sociedad
+2019-04-04,21:30,La Liga,Matchweek 30,Thu,Home,W,2,1,Betis,2.5,1.3,37,16417,Mikel Oyarzabal,4-3-3,4-2-3-1,David Medié,Match Report,,2018-2019,Real Sociedad
+2019-04-07,18:30,La Liga,Matchweek 31,Sun,Away,L,1,3,Celta Vigo,1.4,3.0,52,20519,Mikel Oyarzabal,4-4-2,4-1-3-2,Mario Melero,Match Report,,2018-2019,Real Sociedad
+2019-04-14,16:15,La Liga,Matchweek 32,Sun,Home,D,1,1,Eibar,0.4,1.5,38,24308,Mikel Oyarzabal,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,2018-2019,Real Sociedad
+2019-04-20,20:45,La Liga,Matchweek 33,Sat,Away,L,1,2,Barcelona,1.5,1.1,50,75470,Mikel Oyarzabal,4-3-3,4-3-3,Pablo González,Match Report,,2018-2019,Real Sociedad
+2019-04-25,20:30,La Liga,Matchweek 34,Thu,Home,L,0,1,Villarreal,0.8,0.7,64,20060,Mikel Oyarzabal,4-2-3-1,4-4-1-1,José Luis Munuera,Match Report,,2018-2019,Real Sociedad
+2019-04-28,16:15,La Liga,Matchweek 35,Sun,Home,W,2,1,Getafe,2.4,0.6,50,19386,Mikel Oyarzabal,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,2018-2019,Real Sociedad
+2019-05-04,18:30,La Liga,Matchweek 36,Sat,Away,W,1,0,Alavés,0.8,0.8,49,18509,Mikel Oyarzabal,4-1-4-1,4-4-2,Alberola Rojas,Match Report,,2018-2019,Real Sociedad
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,3,1,Real Madrid,2.1,0.9,54,27322,Mikel Oyarzabal,4-2-3-1,4-3-3,Juan Martínez,Match Report,,2018-2019,Real Sociedad
+2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,L,0,2,Espanyol,0.4,1.4,62,26568,Mikel Oyarzabal,4-2-3-1,4-3-3,Santiago Jaime,Match Report,,2018-2019,Real Sociedad

@@ -1,0 +1,33 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 21_level_0,Season,Team_Scraping
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,,
+Alberto García,es ESP,GK,32,41,41,3690.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Álex Moreno,es ESP,DF,24,40,39,3501.0,38.9,3.0,2.0,5.0,3.0,0.0,0.0,2.0,0.0,0.08,0.05,0.13,0.08,0.13,Matches,2017-2018,Rayo Vallecano
+Adri Embarba,es ESP,"MF,FW",25,42,41,3435.0,38.2,8.0,14.0,22.0,8.0,0.0,0.0,3.0,0.0,0.21,0.37,0.58,0.21,0.58,Matches,2017-2018,Rayo Vallecano
+Chechu,es ESP,DF,35,38,38,3326.0,37.0,1.0,0.0,1.0,1.0,0.0,0.0,3.0,0.0,0.03,0.0,0.03,0.03,0.03,Matches,2017-2018,Rayo Vallecano
+Fran Beltrán,es ESP,MF,18,41,38,3280.0,36.4,0.0,1.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2017-2018,Rayo Vallecano
+Unai López,es ESP,MF,21,40,38,3275.0,36.4,3.0,3.0,6.0,3.0,0.0,0.0,12.0,0.0,0.08,0.08,0.16,0.08,0.16,Matches,2017-2018,Rayo Vallecano
+Baiano,br BRA,DF,30,36,35,3131.0,34.8,0.0,1.0,1.0,0.0,0.0,0.0,9.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,2017-2018,Rayo Vallecano
+Óscar Trejo,ar ARG,"MF,FW",29,36,36,3014.0,33.5,12.0,5.0,17.0,8.0,4.0,5.0,10.0,0.0,0.36,0.15,0.51,0.24,0.39,Matches,2017-2018,Rayo Vallecano
+Raúl de Tomás,es ESP,FW,22,32,30,2496.0,27.7,24.0,3.0,27.0,20.0,4.0,5.0,8.0,0.0,0.87,0.11,0.97,0.72,0.83,Matches,2017-2018,Rayo Vallecano
+Santi Comesaña,es ESP,MF,20,33,30,2301.0,25.6,2.0,2.0,4.0,2.0,0.0,0.0,5.0,1.0,0.08,0.08,0.16,0.08,0.16,Matches,2017-2018,Rayo Vallecano
+Emiliano Velázquez,uy URU,DF,23,26,22,1947.0,21.6,2.0,2.0,4.0,2.0,0.0,0.0,3.0,3.0,0.09,0.09,0.18,0.09,0.18,Matches,2017-2018,Rayo Vallecano
+Abdoulaye Ba,sn SEN,DF,26,18,15,1418.0,15.8,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Antonio Amaya,es ESP,DF,34,18,12,1143.0,12.7,1.0,0.0,1.0,1.0,0.0,0.0,4.0,2.0,0.08,0.0,0.08,0.08,0.08,Matches,2017-2018,Rayo Vallecano
+Chori Domínguez,ar ARG,"FW,MF",36,20,10,943.0,10.5,2.0,3.0,5.0,2.0,0.0,0.0,4.0,2.0,0.19,0.29,0.48,0.19,0.48,Matches,2017-2018,Rayo Vallecano
+Bebé,cv CPV,"MF,FW",27,17,9,899.0,10.0,3.0,1.0,4.0,3.0,0.0,0.0,3.0,0.0,0.3,0.1,0.4,0.3,0.4,Matches,2017-2018,Rayo Vallecano
+Diego Aguirre,es ESP,"MF,FW",26,20,10,851.0,9.5,3.0,1.0,4.0,3.0,0.0,0.0,2.0,0.0,0.32,0.11,0.42,0.32,0.42,Matches,2017-2018,Rayo Vallecano
+Ernesto Galán,es ESP,DF,31,8,7,604.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Javi Guerra,es ESP,FW,35,19,3,549.0,6.1,3.0,0.0,3.0,3.0,0.0,0.0,1.0,0.0,0.49,0.0,0.49,0.49,0.49,Matches,2017-2018,Rayo Vallecano
+Gorka Elustondo,es ESP,MF,30,14,3,472.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Roberto Trashorras,es ESP,MF,36,7,5,459.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Francisco Cerro,ar ARG,MF,29,13,3,383.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Sergio Akieme,es ESP,DF,19,4,4,360.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Lass Bangoura,gn GUI,MF,25,10,2,293.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Emiliano Armenteros,ar ARG,MF,31,11,0,282.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Mario Fernández,es ESP,GK,29,2,2,180.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Manucho,ao ANG,FW,34,9,0,164.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Joni Montiel,es ESP,MF,18,2,0,77.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Rayo Vallecano
+Luis Alberto García Pacheco,co COL,GK,19,0,0,,,,,,,,,,,,,,,,Matches,2017-2018,Rayo Vallecano
+Sergio Benito,es ESP,FW,18,0,0,,,,,,,,,,,,,,,,Matches,2017-2018,Rayo Vallecano
+Kike Hermoso,es ESP,DF,17,0,0,,,,,,,,,,,,,,,,Matches,2017-2018,Rayo Vallecano
+Mario Hernández,es ESP,DF,18,0,0,,,,,,,,,,,,,,,,Matches,2017-2018,Rayo Vallecano

@@ -1,0 +1,55 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-17,22:15,La Liga,Matchweek 1,Fri,Home,L,0,3,Levante,0.9,2.5,76,46225,Andrés Guardado,3-1-4-2,4-4-2,Ignacio Iglesias,Match Report,,2018-2019,Betis
+2018-08-25,18:15,La Liga,Matchweek 2,Sat,Away,D,0,0,Alavés,0.9,0.6,66,18221,Andrés Guardado,3-4-3,4-4-2,Pablo González,Match Report,,2018-2019,Betis
+2018-09-02,20:45,La Liga,Matchweek 3,Sun,Home,W,1,0,Sevilla,0.9,0.6,62,53451,Andrés Guardado,3-4-3,3-4-3,Jesús Gil,Match Report,,2018-2019,Betis
+2018-09-15,18:30,La Liga,Matchweek 4,Sat,Away,D,0,0,Valencia,1.0,1.0,60,40050,Andrés Guardado,3-4-3,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Betis
+2018-09-20,22:00,Europa Lg,Group stage,Thu,Away,D,0,0,gr Olympiacos,1.0,1.0,72,28650,Joaquín,3-4-1-2,4-4-2,Daniel Stefański,Match Report,,2018-2019,Betis
+2018-09-23,20:00,La Liga,Matchweek 5,Sun,Home,D,2,2,Athletic Club,1.1,0.6,70,51093,Joaquín,3-4-3,4-2-3-1,Javier Estrada,Match Report,,2018-2019,Betis
+2018-09-27,22:00,La Liga,Matchweek 6,Thu,Away,W,1,0,Girona,1.6,0.8,64,11358,Andrés Guardado,3-4-3,3-4-3,José González,Match Report,,2018-2019,Betis
+2018-09-30,20:45,La Liga,Matchweek 7,Sun,Home,W,1,0,Leganés,1.7,0.5,82,48115,Joaquín,3-5-2,5-4-1,José Sánchez,Match Report,,2018-2019,Betis
+2018-10-04,18:55,Europa Lg,Group stage,Thu,Home,W,3,0,lu F91 Dudelange,2.9,0.5,65,40133,Andrés Guardado,3-1-4-2,4-4-2,Andrew Dallas,Match Report,,2018-2019,Betis
+2018-10-07,16:15,La Liga,Matchweek 8,Sun,Away,L,0,1,Atlético Madrid,0.3,0.6,63,63786,Joaquín,3-4-3,4-4-2,Alberto Undiano,Match Report,,2018-2019,Betis
+2018-10-21,20:45,La Liga,Matchweek 9,Sun,Home,L,0,1,Valladolid,0.9,0.4,62,42581,Javi García,3-4-3,4-4-2,Alberola Rojas,Match Report,,2018-2019,Betis
+2018-10-25,18:55,Europa Lg,Group stage,Thu,Away,W,2,1,it Milan,1.5,1.3,51,22405,Aïssa Mandi,3-5-2,4-3-3,Scott Parker,Match Report,,2018-2019,Betis
+2018-10-28,12:00,La Liga,Matchweek 10,Sun,Away,L,0,2,Getafe,0.5,2.2,68,12086,Aïssa Mandi,3-5-2,4-4-2,Santiago Jaime,Match Report,,2018-2019,Betis
+2018-11-01,20:45,Copa del Rey,Round of 32,Thu,Away,W,1,0,Racing Sant,,,57,17398,Sergio León,3-5-1-1,4-2-3-1,Eduardo Prieto,Match Report,Leg 1 of 2,2018-2019,Betis
+2018-11-04,20:45,La Liga,Matchweek 11,Sun,Home,D,3,3,Celta Vigo,1.7,2.1,57,42130,Andrés Guardado,3-4-3,4-4-2,Javier Estrada,Match Report,,2018-2019,Betis
+2018-11-08,21:00,Europa Lg,Group stage,Thu,Home,D,1,1,it Milan,1.2,0.5,64,45647,Joaquín,3-4-3,3-5-2,Chris Kavanagh,Match Report,,2018-2019,Betis
+2018-11-11,16:15,La Liga,Matchweek 12,Sun,Away,W,4,3,Barcelona,2.3,3.8,45,83174,Joaquín,3-4-1-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2018-2019,Betis
+2018-11-25,20:45,La Liga,Matchweek 13,Sun,Away,L,1,2,Villarreal,0.9,0.9,64,16028,Joaquín,3-1-4-2,4-1-2-1-2,Eduardo Prieto,Match Report,,2018-2019,Betis
+2018-11-29,18:55,Europa Lg,Group stage,Thu,Home,W,1,0,gr Olympiacos,1.5,1.2,59,37722,Aïssa Mandi,3-5-2,4-1-4-1,Sergey Karasev,Match Report,,2018-2019,Betis
+2018-12-02,12:00,La Liga,Matchweek 14,Sun,Home,W,1,0,Real Sociedad,1.3,1.3,57,46562,Joaquín,3-5-1-1,4-4-2,Guillermo Cuadra,Match Report,,2018-2019,Betis
+2018-12-06,20:45,Copa del Rey,Round of 32,Thu,Home,W,4,0,Racing Sant,,,67,34732,Javi García,3-4-3,4-4-1-1,Javier Estrada,Match Report,Leg 2 of 2; Betis won,2018-2019,Betis
+2018-12-09,20:45,La Liga,Matchweek 15,Sun,Home,W,2,0,Rayo Vallecano,1.7,1.2,61,40218,Aïssa Mandi,3-5-2,4-1-2-1-2,Juan Martínez,Match Report,,2018-2019,Betis
+2018-12-13,21:00,Europa Lg,Group stage,Thu,Away,D,0,0,lu F91 Dudelange,1.5,0.1,76,4931,Joaquín,3-4-3,4-5-1,Peter Kráľovič,Match Report,,2018-2019,Betis
+2018-12-16,16:15,La Liga,Matchweek 16,Sun,Away,W,3,1,Espanyol,1.7,0.6,66,20275,Joaquín,3-1-4-2,4-3-3,José Sánchez,Match Report,,2018-2019,Betis
+2018-12-22,13:00,La Liga,Matchweek 17,Sat,Home,D,1,1,Eibar,1.5,2.3,57,49426,Joaquín,3-4-3,4-4-2,Carlos del Cerro,Match Report,,2018-2019,Betis
+2019-01-05,20:45,La Liga,Matchweek 18,Sat,Away,L,1,2,Huesca,1.1,1.5,66,6135,Javi García,3-5-2,4-1-4-1,Ricardo de Burgos,Match Report,,2018-2019,Betis
+2019-01-10,20:30,Copa del Rey,Round of 16,Thu,Home,D,0,0,Real Sociedad,,,64,26273,Joaquín,4-1-4-1,4-2-3-1,Santiago Jaime,Match Report,Leg 1 of 2,2018-2019,Betis
+2019-01-13,20:45,La Liga,Matchweek 19,Sun,Home,L,1,2,Real Madrid,0.8,0.7,72,54187,Joaquín,4-3-3,3-4-3,Alejandro Hernández,Match Report,,2018-2019,Betis
+2019-01-17,19:30,Copa del Rey,Round of 16,Thu,Away,D,2,2,Real Sociedad,,,46,21090,Joaquín,3-4-3,4-2-3-1,Eduardo Prieto,Match Report,Leg 2 of 2; Betis won,2018-2019,Betis
+2019-01-20,12:00,La Liga,Matchweek 20,Sun,Home,W,3,2,Girona,1.4,0.8,59,47218,Andrés Guardado,3-5-2,3-4-3,Adrián Cordero,Match Report,,2018-2019,Betis
+2019-01-24,19:30,Copa del Rey,Quarter-finals,Thu,Away,D,1,1,Espanyol,,,61,13381,Andrés Guardado,3-5-2,4-3-3,Antonio Matéu Lahoz,Match Report,Leg 1 of 2,2018-2019,Betis
+2019-01-27,18:30,La Liga,Matchweek 21,Sun,Away,L,0,1,Athletic Club,0.4,1.1,61,40282,Aïssa Mandi,3-1-4-2,4-2-3-1,Javier Estrada,Match Report,,2018-2019,Betis
+2019-01-30,19:30,Copa del Rey,Quarter-finals,Wed,Home,W,3,1,Espanyol,,,61,40028,Andrés Guardado,3-1-4-2,4-4-2,Ricardo de Burgos,Match Report,Leg 2 of 2; Betis won; Required Extra Time,2018-2019,Betis
+2019-02-03,16:15,La Liga,Matchweek 22,Sun,Home,W,1,0,Atlético Madrid,1.0,0.7,54,50864,Joaquín,3-5-2,4-4-2,David Medié,Match Report,,2018-2019,Betis
+2019-02-07,21:00,Copa del Rey,Semi-finals,Thu,Home,D,2,2,Valencia,,,67,57123,Joaquín,3-1-4-2,4-4-2,Carlos del Cerro,Match Report,Leg 1 of 2,2018-2019,Betis
+2019-02-10,12:00,La Liga,Matchweek 23,Sun,Away,L,0,3,Leganés,0.1,1.6,68,11381,Javi García,3-1-4-2,5-3-2,Alberola Rojas,Match Report,,2018-2019,Betis
+2019-02-14,18:55,Europa Lg,Round of 32,Thu,Away,D,3,3,fr Rennes,2.2,1.6,73,28656,Joaquín,3-4-3,4-4-2,Tasos Sidiropoulos,Match Report,Leg 1 of 2,2018-2019,Betis
+2019-02-17,20:45,La Liga,Matchweek 24,Sun,Home,D,1,1,Alavés,3.1,1.2,66,43455,Andrés Guardado,3-4-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,2018-2019,Betis
+2019-02-21,21:00,Europa Lg,Round of 32,Thu,Home,L,1,3,fr Rennes,1.4,2.3,58,43623,Joaquín,3-4-3,4-4-2,Viktor Kassai,Match Report,Leg 2 of 2; Rennes won,2018-2019,Betis
+2019-02-24,18:30,La Liga,Matchweek 25,Sun,Away,W,2,0,Valladolid,0.8,0.6,51,20125,Javi García,3-4-3,4-4-2,Pablo González,Match Report,,2018-2019,Betis
+2019-02-28,21:00,Copa del Rey,Semi-finals,Thu,Away,L,0,1,Valencia,,,68,45222,Joaquín,3-4-3,4-4-2,José González,Match Report,Leg 2 of 2; Valencia won,2018-2019,Betis
+2019-03-03,16:15,La Liga,Matchweek 26,Sun,Home,L,1,2,Getafe,0.6,1.6,63,46657,Andrés Guardado,3-4-3,4-4-2,Juan Martínez,Match Report,,2018-2019,Betis
+2019-03-10,12:00,La Liga,Matchweek 27,Sun,Away,W,1,0,Celta Vigo,1.2,0.4,62,18005,Joaquín,3-1-4-2,4-4-1-1,Javier Estrada,Match Report,,2018-2019,Betis
+2019-03-17,20:45,La Liga,Matchweek 28,Sun,Home,L,1,4,Barcelona,1.2,3.0,56,54172,Joaquín,3-1-4-2,4-4-2,Ricardo de Burgos,Match Report,,2018-2019,Betis
+2019-03-31,14:00,La Liga,Matchweek 29,Sun,Away,D,1,1,Rayo Vallecano,0.6,2.2,54,12310,Joaquín,3-4-1-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2018-2019,Betis
+2019-04-04,21:30,La Liga,Matchweek 30,Thu,Away,L,1,2,Real Sociedad,1.3,2.5,63,16417,Andrés Guardado,4-2-3-1,4-3-3,David Medié,Match Report,,2018-2019,Betis
+2019-04-07,20:45,La Liga,Matchweek 31,Sun,Home,W,2,1,Villarreal,1.8,1.5,56,28475,Andrés Guardado,3-1-4-2,3-4-3,Javier Estrada,Match Report,,2018-2019,Betis
+2019-04-13,20:45,La Liga,Matchweek 32,Sat,Away,L,2,3,Sevilla,1.0,2.0,61,42855,Andrés Guardado,3-1-4-2,4-4-2,Alejandro Hernández,Match Report,,2018-2019,Betis
+2019-04-21,20:45,La Liga,Matchweek 33,Sun,Home,L,1,2,Valencia,2.1,0.2,66,42508,Joaquín,4-1-4-1,4-4-2,José Sánchez,Match Report,,2018-2019,Betis
+2019-04-24,21:30,La Liga,Matchweek 34,Wed,Away,L,0,4,Levante,0.4,1.4,68,20394,Andrés Guardado,3-5-2,4-3-3,Santiago Jaime,Match Report,,2018-2019,Betis
+2019-04-29,21:00,La Liga,Matchweek 35,Mon,Home,D,1,1,Espanyol,1.4,1.1,54,30561,Joaquín,3-4-3,5-3-2,Carlos del Cerro,Match Report,,2018-2019,Betis
+2019-05-05,14:00,La Liga,Matchweek 36,Sun,Away,L,0,1,Eibar,2.1,0.7,55,4725,Joaquín,4-2-3-1,4-2-3-1,Ignacio Iglesias,Match Report,,2018-2019,Betis
+2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,2,1,Huesca,2.2,1.3,62,28078,Joaquín,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,2018-2019,Betis
+2019-05-19,12:00,La Liga,Matchweek 38,Sun,Away,W,2,0,Real Madrid,1.3,0.9,53,56900,Andrés Guardado,3-1-4-2,4-3-3,Alberto Undiano,Match Report,,2018-2019,Betis

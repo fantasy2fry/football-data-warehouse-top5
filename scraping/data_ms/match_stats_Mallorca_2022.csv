@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-15,17:30,La Liga,Matchweek 1,Mon,Away,D,0,0,Athletic Club,0.4,1.6,36.0,39747,Antonio Raillo,5-4-1,4-3-3,Javier Villanueva,Match Report,,2022-2023,Mallorca
+2022-08-20,19:30,La Liga,Matchweek 2,Sat,Home,L,1,2,Betis,0.6,2.1,48.0,15579,Antonio Raillo,5-3-2,4-2-3-1,Pablo González,Match Report,,2022-2023,Mallorca
+2022-08-27,19:30,La Liga,Matchweek 3,Sat,Away,W,2,0,Rayo Vallecano,0.8,0.7,35.0,10944,Antonio Raillo,5-3-2,4-2-3-1,José Sánchez,Match Report,,2022-2023,Mallorca
+2022-09-03,14:00,La Liga,Matchweek 4,Sat,Home,D,1,1,Girona,0.7,1.2,51.0,13390,Antonio Raillo,5-3-2,3-4-3,Isidro Díaz de Mera,Match Report,,2022-2023,Mallorca
+2022-09-11,14:00,La Liga,Matchweek 5,Sun,Away,L,1,4,Real Madrid,0.5,2.3,32.0,54816,Antonio Raillo,5-3-2,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Mallorca
+2022-09-17,14:00,La Liga,Matchweek 6,Sat,Home,W,1,0,Almería,0.6,0.4,44.0,12687,Antonio Raillo,5-3-2,5-3-2,Juan Martínez,Match Report,,2022-2023,Mallorca
+2022-10-01,21:00,La Liga,Matchweek 7,Sat,Home,L,0,1,Barcelona,1.2,0.7,29.0,18103,Antonio Raillo,5-4-1,4-3-3,Jesús Gil,Match Report,,2022-2023,Mallorca
+2022-10-10,21:00,La Liga,Matchweek 8,Mon,Away,D,1,1,Elche,2.3,0.5,58.0,12000,Antonio Raillo,3-4-3,5-3-2,Valentín Pizarro,Match Report,,2022-2023,Mallorca
+2022-10-15,18:30,La Liga,Matchweek 9,Sat,Home,L,0,1,Sevilla,0.7,0.2,44.0,15300,Antonio Raillo,5-4-1,3-4-3,Javier Villanueva,Match Report,,2022-2023,Mallorca
+2022-10-19,20:00,La Liga,Matchweek 10,Wed,Away,L,0,1,Real Sociedad,0.9,1.2,49.0,27085,Antonio Raillo,5-4-1,4-1-3-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Mallorca
+2022-10-22,18:30,La Liga,Matchweek 11,Sat,Away,W,2,1,Valencia,1.5,1.2,33.0,41199,Antonio Raillo,5-4-1,4-3-3,José Sánchez,Match Report,,2022-2023,Mallorca
+2022-10-28,21:00,La Liga,Matchweek 12,Fri,Home,D,1,1,Espanyol,1.4,0.3,52.0,13982,Antonio Raillo,5-4-1,4-3-3,Isidro Díaz de Mera,Match Report,,2022-2023,Mallorca
+2022-11-06,18:30,La Liga,Matchweek 13,Sun,Away,W,2,0,Villarreal,0.4,0.5,29.0,16603,Dani Rodríguez,5-4-1,4-2-3-1,Alejandro Muñíz,Match Report,,2022-2023,Mallorca
+2022-11-09,21:30,La Liga,Matchweek 14,Wed,Home,W,1,0,Atlético Madrid,1.3,1.3,37.0,14475,Antonio Raillo,5-4-1,4-4-2,Mario Melero,Match Report,,2022-2023,Mallorca
+2022-11-12,18:30,Copa del Rey,First round,Sat,Away,W,6,0,CD Autol,,,,4000,Antonio Raillo,5-3-2,4-5-1,Javier Villanueva,Match Report,,2022-2023,Mallorca
+2022-12-20,21:00,Copa del Rey,Second round,Tue,Away,W,1,0,Real Unión,,,60.0,3000,Antonio Raillo,3-4-3,3-5-2,Juan Pulido,Match Report,,2022-2023,Mallorca
+2022-12-30,17:00,La Liga,Matchweek 15,Fri,Away,L,0,2,Getafe,0.6,1.2,45.0,9755,Antonio Raillo,5-4-1,5-3-2,Alberola Rojas,Match Report,,2022-2023,Mallorca
+2023-01-04,19:00,Copa del Rey,Round of 32,Wed,Away,W,2,0,Pontevedra,,,47.0,10500,Franco Russo,3-4-3,3-4-3,Carlos del Cerro,Match Report,Required Extra Time,2022-2023,Mallorca
+2023-01-07,18:30,La Liga,Matchweek 16,Sat,Home,W,1,0,Valladolid,1.2,0.6,42.0,14129,Antonio Raillo,3-4-3,4-3-3,Valentín Pizarro,Match Report,,2022-2023,Mallorca
+2023-01-14,18:30,La Liga,Matchweek 17,Sat,Away,L,0,1,Osasuna,0.5,1.6,39.0,19887,Antonio Raillo,5-4-1,4-3-3,César Soto,Match Report,,2022-2023,Mallorca
+2023-01-17,19:00,Copa del Rey,Round of 16,Tue,Away,L,0,1,Real Sociedad,,,43.0,23408,Martin Valjent,3-4-3,4-1-3-2,Alejandro Hernández,Match Report,,2022-2023,Mallorca
+2023-01-20,21:00,La Liga,Matchweek 18,Fri,Home,W,1,0,Celta Vigo,0.5,0.5,42.0,12253,Antonio Raillo,5-4-1,5-3-2,Juan Pulido,Match Report,,2022-2023,Mallorca
+2023-01-28,14:00,La Liga,Matchweek 19,Sat,Away,L,0,2,Cádiz,0.4,1.9,57.0,16117,Antonio Raillo,5-4-1,4-4-2,Ricardo de Burgos,Match Report,,2022-2023,Mallorca
+2023-02-05,14:00,La Liga,Matchweek 20,Sun,Home,W,1,0,Real Madrid,0.2,1.7,27.0,18258,Antonio Raillo,5-4-1,4-3-3,Alejandro Hernández,Match Report,,2022-2023,Mallorca
+2023-02-11,18:30,La Liga,Matchweek 21,Sat,Away,L,0,2,Sevilla,0.3,2.1,36.0,35150,Antonio Raillo,5-4-1,3-4-3,Javier Villanueva,Match Report,,2022-2023,Mallorca
+2023-02-18,18:30,La Liga,Matchweek 22,Sat,Home,W,4,2,Villarreal,2.2,1.2,45.0,13957,Antonio Raillo,5-4-1,4-1-4-1,José Sánchez,Match Report,,2022-2023,Mallorca
+2023-02-25,14:00,La Liga,Matchweek 23,Sat,Away,L,1,2,Espanyol,0.7,1.4,60.0,21403,Antonio Raillo,5-3-2,4-3-3,Alberola Rojas,Match Report,,2022-2023,Mallorca
+2023-03-04,18:30,La Liga,Matchweek 24,Sat,Home,L,0,1,Elche,0.9,0.9,56.0,14065,Antonio Raillo,5-3-2,3-1-4-2,José Luis Munuera,Match Report,,2022-2023,Mallorca
+2023-03-12,14:00,La Liga,Matchweek 25,Sun,Home,D,1,1,Real Sociedad,1.4,0.5,38.0,13840,Antonio Raillo,5-3-2,4-1-3-2,Juan Martínez,Match Report,,2022-2023,Mallorca
+2023-03-19,14:00,La Liga,Matchweek 26,Sun,Away,L,0,1,Betis,0.2,0.8,40.0,50402,Antonio Raillo,5-3-2,4-2-3-1,Valentín Pizarro,Match Report,,2022-2023,Mallorca
+2023-03-31,21:00,La Liga,Matchweek 27,Fri,Home,D,0,0,Osasuna,0.5,0.5,42.0,14132,Antonio Raillo,5-4-1,4-3-3,Isidro Díaz de Mera,Match Report,,2022-2023,Mallorca
+2023-04-09,14:00,La Liga,Matchweek 28,Sun,Away,D,3,3,Valladolid,1.8,1.2,38.0,18010,Antonio Raillo,5-4-1,4-3-3,Alejandro Muñíz,Match Report,,2022-2023,Mallorca
+2023-04-17,21:00,La Liga,Matchweek 29,Mon,Away,W,1,0,Celta Vigo,1.0,0.8,28.0,13557,Antonio Raillo,5-3-2,4-4-2,Miguel Ángel Ortiz Arias,Match Report,,2022-2023,Mallorca
+2023-04-23,18:30,La Liga,Matchweek 30,Sun,Home,W,3,1,Getafe,1.5,0.1,49.0,15687,Antonio Raillo,5-3-2,5-3-2,Pablo González,Match Report,,2022-2023,Mallorca
+2023-04-26,19:30,La Liga,Matchweek 31,Wed,Away,L,1,3,Atlético Madrid,0.9,2.7,32.0,58523,Dani Rodríguez,5-3-2,5-3-2,Juan Pulido,Match Report,,2022-2023,Mallorca
+2023-05-01,19:00,La Liga,Matchweek 32,Mon,Home,D,1,1,Athletic Club,0.9,1.7,30.0,16807,Antonio Raillo,5-3-2,4-2-3-1,Jorge Figueroa,Match Report,,2022-2023,Mallorca
+2023-05-04,19:30,La Liga,Matchweek 33,Thu,Away,L,1,2,Girona,1.4,1.7,38.0,11767,Martin Valjent,5-4-1,4-1-4-1,Juan Martínez,Match Report,,2022-2023,Mallorca
+2023-05-12,21:00,La Liga,Matchweek 34,Fri,Home,W,1,0,Cádiz,1.2,0.7,43.0,15377,Martin Valjent,3-4-3,4-4-2,José Sánchez,Match Report,,2022-2023,Mallorca
+2023-05-20,18:30,La Liga,Matchweek 35,Sat,Away,L,0,3,Almería,0.8,1.8,46.0,12791,Dani Rodríguez,5-4-1,4-3-3,Carlos del Cerro,Match Report,,2022-2023,Mallorca
+2023-05-25,19:30,La Liga,Matchweek 36,Thu,Home,W,1,0,Valencia,0.5,1.9,41.0,14631,Dani Rodríguez,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,,2022-2023,Mallorca
+2023-05-28,19:00,La Liga,Matchweek 37,Sun,Away,L,0,3,Barcelona,0.1,3.6,22.0,88775,Dani Rodríguez,5-4-1,4-3-3,Jorge Figueroa,Match Report,,2022-2023,Mallorca
+2023-06-04,18:30,La Liga,Matchweek 38,Sun,Home,W,3,0,Rayo Vallecano,2.2,1.1,47.0,14521,Antonio Raillo,5-3-2,4-3-1-2,Antonio Matéu,Match Report,,2022-2023,Mallorca

@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,20:00,Ligue 1,Matchweek 1,Sat,Away,D,1.0,1.0,Brest,1.5,2.2,62.0,14238.0,Max Gradel,4-2-3-1,4-4-2,Olivier Thual,Match Report,,2019-2020,Toulouse
+2019-08-17,20:00,Ligue 1,Matchweek 2,Sat,Home,W,1.0,0.0,Dijon,1.5,1.3,53.0,10583.0,Max Gradel,4-2-3-1,4-1-4-1,Ruddy Buquet,Match Report,,2019-2020,Toulouse
+2019-08-25,21:00,Ligue 1,Matchweek 3,Sun,Away,L,0.0,4.0,Paris S-G,0.4,4.1,29.0,47325.0,Max Gradel,5-4-1,4-3-3,Jérôme Brisard,Match Report,,2019-2020,Toulouse
+2019-08-31,20:00,Ligue 1,Matchweek 4,Sat,Home,W,2.0,0.0,Amiens,1.3,0.4,46.0,10184.0,Max Gradel,4-3-3,5-4-1,Florent Batta,Match Report,,2019-2020,Toulouse
+2019-09-15,17:00,Ligue 1,Matchweek 5,Sun,Away,D,2.0,2.0,Saint-Étienne,1.9,1.1,41.0,24240.0,Max Gradel,4-2-3-1,4-2-3-1,Jeremy Stinat,Match Report,,2019-2020,Toulouse
+2019-09-21,20:00,Ligue 1,Matchweek 6,Sat,Away,L,0.0,1.0,Nîmes,0.7,1.4,59.0,12258.0,Max Gradel,4-2-3-1,4-2-3-1,Karim Abed,Match Report,,2019-2020,Toulouse
+2019-09-25,19:00,Ligue 1,Matchweek 7,Wed,Home,L,0.0,2.0,Angers,0.3,1.6,57.0,10177.0,Mathieu Dossevi,4-3-3,4-3-3,Olivier Thual,Match Report,,2019-2020,Toulouse
+2019-09-28,20:00,Ligue 1,Matchweek 8,Sat,Away,D,2.0,2.0,Metz,1.4,1.4,53.0,15054.0,Max Gradel,4-2-3-1,4-3-3,Florent Batta,Match Report,,2019-2020,Toulouse
+2019-10-05,20:00,Ligue 1,Matchweek 9,Sat,Home,L,1.0,3.0,Bordeaux,1.1,0.8,33.0,20084.0,Max Gradel,4-3-3,3-4-3,Benoît Bastien,Match Report,,2019-2020,Toulouse
+2019-10-19,20:00,Ligue 1,Matchweek 10,Sat,Home,W,2.0,1.0,Lille,2.5,0.8,41.0,12277.0,Max Gradel,4-4-2,4-2-3-1,Stéphanie Frappart,Match Report,,2019-2020,Toulouse
+2019-10-27,15:00,Ligue 1,Matchweek 11,Sun,Away,L,2.0,3.0,Rennes,1.2,2.1,48.0,22918.0,Max Gradel,4-4-2,4-4-2,Antony Gautier,Match Report,,2019-2020,Toulouse
+2019-10-30,21:05,Coupe de la Ligue,Third round,Wed,Away,W,2.0,1.0,Niort,,,62.0,3443.0,Max Gradel,4-2-3-1,5-3-2,Florent Batta,Match Report,,2019-2020,Toulouse
+2019-11-02,20:00,Ligue 1,Matchweek 12,Sat,Home,L,2.0,3.0,Lyon,1.3,1.8,36.0,16225.0,Max Gradel,4-4-2,4-4-2,Karim Abed,Match Report,,2019-2020,Toulouse
+2019-11-10,17:00,Ligue 1,Matchweek 13,Sun,Away,L,0.0,3.0,Montpellier,0.3,1.0,55.0,12734.0,Max Gradel,4-3-3,3-4-1-2,Thomas Léonard,Match Report,,2019-2020,Toulouse
+2019-11-24,21:00,Ligue 1,Matchweek 14,Sun,Home,L,0.0,2.0,Marseille,0.9,1.6,29.0,23002.0,Max Gradel,4-4-2,4-3-3,François Letexier,Match Report,,2019-2020,Toulouse
+2019-12-01,15:00,Ligue 1,Matchweek 15,Sun,Away,L,1.0,2.0,Nantes,1.1,2.8,38.0,13751.0,Max Gradel,4-1-4-1,4-2-3-1,Florent Batta,Match Report,,2019-2020,Toulouse
+2019-12-04,19:00,Ligue 1,Matchweek 16,Wed,Home,L,1.0,2.0,Monaco,1.8,4.3,44.0,13030.0,Max Gradel,5-4-1,3-5-2,Willy Delajod,Match Report,,2019-2020,Toulouse
+2019-12-07,20:00,Ligue 1,Matchweek 17,Sat,Away,L,2.0,4.0,Strasbourg,1.7,2.3,46.0,23634.0,Max Gradel,4-2-3-1,4-1-2-1-2,Johan Hamel,Match Report,,2019-2020,Toulouse
+2019-12-14,20:00,Ligue 1,Matchweek 18,Sat,Home,L,0.0,1.0,Reims,0.8,1.3,54.0,12577.0,Mathieu Dossevi,4-3-3,4-2-3-1,Clément Turpin,Match Report,,2019-2020,Toulouse
+2019-12-18,18:45,Coupe de la Ligue,Round of 16,Wed,Away,L,1.0,4.0,Lyon,,,33.0,21902.0,Nicolas Isimat-Mirin,4-2-3-1,4-2-3-1,Thomas Léonard,Match Report,,2019-2020,Toulouse
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Away,L,0.0,3.0,Nice,0.5,1.6,39.0,17945.0,Steven Moreira,4-3-3,4-4-1-1,Stéphanie Frappart,Match Report,,2019-2020,Toulouse
+2020-01-04,18:00,Coupe de France,Round of 64,Sat,Away,L,0.0,1.0,St-Pryvé St-H.,,,,1644.0,Steven Moreira,5-3-2,3-5-2,Antony Gautier,Match Report,,2019-2020,Toulouse
+2020-01-11,20:00,Ligue 1,Matchweek 20,Sat,Home,L,2.0,5.0,Brest,0.9,1.8,46.0,13666.0,Baptiste Reynet,4-4-2,4-3-3,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Toulouse
+2020-01-26,15:00,Ligue 1,Matchweek 21,Sun,Away,L,0.0,3.0,Lyon,0.4,0.8,37.0,42582.0,Ibrahim Sangaré,4-3-3,4-3-3,Antony Gautier,Match Report,,2019-2020,Toulouse
+2020-02-01,20:00,Ligue 1,Matchweek 22,Sat,Away,D,0.0,0.0,Amiens,1.0,0.9,41.0,10992.0,Ibrahim Sangaré,4-1-4-1,4-4-2,François Letexier,Match Report,,2019-2020,Toulouse
+2020-02-05,19:00,Ligue 1,Matchweek 23,Wed,Home,L,0.0,1.0,Strasbourg,0.8,1.4,46.0,16596.0,Ibrahim Sangaré,4-1-4-1,4-1-2-1-2,Karim Abed,Match Report,,2019-2020,Toulouse
+2020-02-08,17:30,Ligue 1,Matchweek 24,Sat,Away,L,0.0,1.0,Marseille,1.7,0.8,42.0,53995.0,Ibrahim Sangaré,4-1-4-1,4-3-3,Stéphanie Frappart,Match Report,,2019-2020,Toulouse
+2020-02-15,20:00,Ligue 1,Matchweek 25,Sat,Home,L,0.0,2.0,Nice,2.3,1.4,38.0,12903.0,Ibrahim Sangaré,4-1-4-1,4-4-1-1,Jérôme Miguelgorry,Match Report,,2019-2020,Toulouse
+2020-02-22,20:00,Ligue 1,Matchweek 26,Sat,Away,L,0.0,3.0,Lille,0.4,2.3,40.0,37034.0,Max Gradel,4-1-4-1,4-4-2,Thomas Léonard,Match Report,,2019-2020,Toulouse
+2020-02-29,20:00,Ligue 1,Matchweek 27,Sat,Home,L,0.0,2.0,Rennes,0.9,1.2,41.0,13301.0,Max Gradel,4-2-2-2,4-4-2,Jeremy Stinat,Match Report,,2019-2020,Toulouse
+2020-03-07,20:00,Ligue 1,Matchweek 28,Sat,Away,L,1.0,2.0,Dijon,1.0,1.0,44.0,12549.0,Max Gradel,4-1-4-1,4-4-2,Jérôme Brisard,Match Report,,2019-2020,Toulouse
+2020-03-14,20:00,Ligue 1,Matchweek 29,Sat,Home,,,,Metz,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-03-21,20:00,Ligue 1,Matchweek 30,Sat,Away,,,,Angers,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-04-04,19:15,Ligue 1,Matchweek 31,Sat,Home,,,,Saint-Étienne,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Away,,,,Reims,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Home,,,,Nantes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Away,,,,Bordeaux,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Home,,,,Nîmes,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Home,,,,Paris S-G,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Away,,,,Monaco,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Home,,,,Montpellier,,,,,,,,,Match Report,Match Cancelled,2019-2020,Toulouse

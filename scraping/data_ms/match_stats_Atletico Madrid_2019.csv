@@ -1,0 +1,51 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-18,22:00,La Liga,Matchweek 1,Sun,Home,W,1,0,Getafe,2.2,0.3,57.0,55099.0,Koke,4-1-2-1-2◆,4-4-2,Guillermo Cuadra,Match Report,,2019-2020,Atletico Madrid
+2019-08-25,19:00,La Liga,Matchweek 2,Sun,Away,W,1,0,Leganés,1.8,0.4,58.0,11742.0,Koke,3-1-4-2,5-3-2,Ricardo de Burgos,Match Report,,2019-2020,Atletico Madrid
+2019-09-01,19:00,La Liga,Matchweek 3,Sun,Home,W,3,2,Eibar,1.5,0.9,57.0,56664.0,Koke,4-3-1-2,4-2-3-1,Santiago Jaime,Match Report,,2019-2020,Atletico Madrid
+2019-09-14,18:30,La Liga,Matchweek 4,Sat,Away,L,0,2,Real Sociedad,1.2,2.1,46.0,34719.0,Koke,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Atletico Madrid
+2019-09-18,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,it Juventus,2.3,1.1,46.0,66283.0,Koke,4-4-2,4-3-3,Danny Makkelie,Match Report,,2019-2020,Atletico Madrid
+2019-09-21,18:30,La Liga,Matchweek 5,Sat,Home,D,0,0,Celta Vigo,1.7,0.6,49.0,57701.0,Koke,4-4-2,4-3-3,Mario Melero,Match Report,,2019-2020,Atletico Madrid
+2019-09-25,19:00,La Liga,Matchweek 6,Wed,Away,W,2,0,Mallorca,1.0,0.5,52.0,19348.0,Koke,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,2019-2020,Atletico Madrid
+2019-09-28,21:00,La Liga,Matchweek 7,Sat,Home,D,0,0,Real Madrid,0.9,0.4,45.0,68032.0,Koke,4-4-2,4-1-4-1,José González,Match Report,,2019-2020,Atletico Madrid
+2019-10-01,22:00,Champions Lg,Group stage,Tue,Away,W,2,0,ru Loko Moscow,2.9,1.1,61.0,27051.0,Koke,4-4-2,4-1-4-1,Orel Grinfeeld,Match Report,,2019-2020,Atletico Madrid
+2019-10-06,16:00,La Liga,Matchweek 8,Sun,Away,D,0,0,Valladolid,0.8,1.0,54.0,23650.0,Koke,4-4-2,4-4-2,José Sánchez,Match Report,,2019-2020,Atletico Madrid
+2019-10-19,16:00,La Liga,Matchweek 9,Sat,Home,D,1,1,Valencia,1.6,0.7,44.0,61603.0,Koke,4-4-2,4-1-4-1,Adrián Cordero,Match Report,,2019-2020,Atletico Madrid
+2019-10-22,18:55,Champions Lg,Group stage,Tue,Home,W,1,0,de Leverkusen,0.8,0.5,40.0,56776.0,Koke,4-1-2-1-2◆,4-2-3-1,Artur Soares Dias,Match Report,,2019-2020,Atletico Madrid
+2019-10-26,21:00,La Liga,Matchweek 10,Sat,Home,W,2,0,Athletic Club,1.5,0.4,45.0,59211.0,Koke,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,2019-2020,Atletico Madrid
+2019-10-29,19:00,La Liga,Matchweek 11,Tue,Away,D,1,1,Alavés,1.7,0.6,52.0,17235.0,Jan Oblak,4-4-2,4-4-2,Javier Estrada,Match Report,,2019-2020,Atletico Madrid
+2019-11-02,18:30,La Liga,Matchweek 12,Sat,Away,D,1,1,Sevilla,2.8,0.7,45.0,39957.0,Koke,4-4-2,3-1-4-2,José González,Match Report,,2019-2020,Atletico Madrid
+2019-11-06,21:00,Champions Lg,Group stage,Wed,Away,L,1,2,de Leverkusen,2.0,1.3,48.0,28160.0,Koke,4-1-2-1-2◆,4-2-3-1,Damir Skomina,Match Report,,2019-2020,Atletico Madrid
+2019-11-10,16:00,La Liga,Matchweek 13,Sun,Home,W,3,1,Espanyol,2.7,0.4,50.0,53069.0,Koke,4-4-2,3-4-3,Jesús Gil,Match Report,,2019-2020,Atletico Madrid
+2019-11-23,18:30,La Liga,Matchweek 14,Sat,Away,D,1,1,Granada,2.3,0.7,60.0,17003.0,Koke,4-4-2,4-2-3-1,David Medié,Match Report,,2019-2020,Atletico Madrid
+2019-11-26,21:00,Champions Lg,Group stage,Tue,Away,L,0,1,it Juventus,0.7,0.4,42.0,40486.0,Koke,4-4-2,4-1-2-1-2,Anthony Taylor,Match Report,,2019-2020,Atletico Madrid
+2019-12-01,21:00,La Liga,Matchweek 15,Sun,Home,L,0,1,Barcelona,1.4,0.9,35.0,64226.0,Koke,4-4-2,4-3-3,Antonio Matéu Lahoz,Match Report,,2019-2020,Atletico Madrid
+2019-12-06,21:00,La Liga,Matchweek 16,Fri,Away,D,0,0,Villarreal,1.6,1.5,47.0,17964.0,Koke,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,2019-2020,Atletico Madrid
+2019-12-11,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,ru Loko Moscow,3.2,0.1,67.0,58426.0,Koke,4-4-2,5-4-1,Viktor Kassai,Match Report,,2019-2020,Atletico Madrid
+2019-12-14,21:00,La Liga,Matchweek 17,Sat,Home,W,2,0,Osasuna,2.5,0.7,47.0,46033.0,Koke,4-4-2,4-5-1,José Luis Munuera,Match Report,,2019-2020,Atletico Madrid
+2019-12-22,16:00,La Liga,Matchweek 18,Sun,Away,W,2,1,Betis,1.6,1.1,33.0,52017.0,Jan Oblak,4-4-2,4-1-4-1,Javier Estrada,Match Report,,2019-2020,Atletico Madrid
+2020-01-04,18:30,La Liga,Matchweek 19,Sat,Home,W,2,1,Levante,1.2,0.9,40.0,59084.0,Jan Oblak,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,2019-2020,Atletico Madrid
+2020-01-09,20:00,Supercopa de España,Semi-finals,Thu,Away,W,3,2,Barcelona,,,,58410.0,Jan Oblak,4-4-2,4-3-3,José González,Match Report,,2019-2020,Atletico Madrid
+2020-01-12,21:00,Supercopa de España,Final,Sun,Away,D,0 (1),0 (4),Real Madrid,,,,59053.0,Jan Oblak,4-4-2,4-3-2-1,José Sánchez,Match Report,Real Madrid won on penalty kicks following extra time,2019-2020,Atletico Madrid
+2020-01-18,21:00,La Liga,Matchweek 20,Sat,Away,L,0,2,Eibar,1.1,0.8,61.0,6429.0,Jan Oblak,4-4-2,4-2-3-1,Jesús Gil,Match Report,,2019-2020,Atletico Madrid
+2020-01-23,21:00,Copa del Rey,Round of 32,Thu,Away,L,1,2,Leonesa,,,57.0,12252.0,Saúl Ñíguez,4-3-3,4-2-3-1,Alberola Rojas,Match Report,Required Extra Time,2019-2020,Atletico Madrid
+2020-01-26,12:00,La Liga,Matchweek 21,Sun,Home,D,0,0,Leganés,1.0,0.4,55.0,52767.0,Jan Oblak,4-3-3,5-4-1,Antonio Matéu Lahoz,Match Report,,2019-2020,Atletico Madrid
+2020-02-01,16:00,La Liga,Matchweek 22,Sat,Away,L,0,1,Real Madrid,0.4,1.1,36.0,77223.0,Jan Oblak,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2019-2020,Atletico Madrid
+2020-02-08,21:00,La Liga,Matchweek 23,Sat,Home,W,1,0,Granada,0.6,0.9,51.0,54113.0,Koke,4-1-2-1-2◆,4-2-3-1,César Soto,Match Report,,2019-2020,Atletico Madrid
+2020-02-14,21:00,La Liga,Matchweek 24,Fri,Away,D,2,2,Valencia,1.2,1.3,37.0,42297.0,Koke,4-4-2,4-4-2,David Medié,Match Report,,2019-2020,Atletico Madrid
+2020-02-18,21:00,Champions Lg,Round of 16,Tue,Home,W,1,0,eng Liverpool,1.2,0.5,29.0,67443.0,Koke,4-4-2,4-3-3,Szymon Marciniak,Match Report,Leg 1 of 2,2019-2020,Atletico Madrid
+2020-02-23,21:00,La Liga,Matchweek 25,Sun,Home,W,3,1,Villarreal,1.7,0.4,42.0,54462.0,Koke,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,2019-2020,Atletico Madrid
+2020-03-01,16:00,La Liga,Matchweek 26,Sun,Away,D,1,1,Espanyol,0.9,1.2,62.0,30360.0,Koke,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,2019-2020,Atletico Madrid
+2020-03-07,16:00,La Liga,Matchweek 27,Sat,Home,D,2,2,Sevilla,2.0,1.7,45.0,60422.0,Koke,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,2019-2020,Atletico Madrid
+2020-03-11,20:00,Champions Lg,Round of 16,Wed,Away,W,3,2,eng Liverpool,1.1,3.4,30.0,52267.0,Koke,4-4-2,4-3-3,Danny Makkelie,Match Report,Leg 2 of 2; Atlético Madrid won; Required Extra Time,2019-2020,Atletico Madrid
+2020-06-14,14:00,La Liga,Matchweek 28,Sun,Away,D,1,1,Athletic Club,1.3,0.4,46.0,,Koke,4-4-2,4-2-3-1,José González,Match Report,,2019-2020,Atletico Madrid
+2020-06-17,22:00,La Liga,Matchweek 29,Wed,Away,W,5,0,Osasuna,1.7,1.0,53.0,,Koke,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,2019-2020,Atletico Madrid
+2020-06-20,22:00,La Liga,Matchweek 30,Sat,Home,W,1,0,Valladolid,1.1,0.3,61.0,,Jan Oblak,4-4-2,4-3-3,Pablo González,Match Report,,2019-2020,Atletico Madrid
+2020-06-23,19:30,La Liga,Matchweek 31,Tue,Away,W,1,0,Levante,0.9,0.9,43.0,,Koke,4-4-2,4-4-2,José Luis Munuera,Match Report,,2019-2020,Atletico Madrid
+2020-06-27,22:00,La Liga,Matchweek 32,Sat,Home,W,2,1,Alavés,1.8,1.0,69.0,,Koke,4-4-2,4-1-4-1,Mario Melero,Match Report,,2019-2020,Atletico Madrid
+2020-06-30,22:00,La Liga,Matchweek 33,Tue,Away,D,2,2,Barcelona,1.9,1.9,28.0,,Jan Oblak,4-4-2,4-3-1-2,Alejandro Hernández,Match Report,,2019-2020,Atletico Madrid
+2020-07-03,22:00,La Liga,Matchweek 34,Fri,Home,W,3,0,Mallorca,2.7,0.8,48.0,,Koke,4-4-2,4-4-1-1,Alberola Rojas,Match Report,,2019-2020,Atletico Madrid
+2020-07-07,22:00,La Liga,Matchweek 35,Tue,Away,D,1,1,Celta Vigo,1.2,0.4,50.0,,Koke,4-4-2,5-3-2,José Sánchez,Match Report,,2019-2020,Atletico Madrid
+2020-07-11,22:00,La Liga,Matchweek 36,Sat,Home,W,1,0,Betis,0.7,1.1,38.0,,Koke,4-4-2,4-2-3-1,José González,Match Report,,2019-2020,Atletico Madrid
+2020-07-16,21:00,La Liga,Matchweek 37,Thu,Away,W,2,0,Getafe,1.2,1.8,62.0,,Koke,4-2-3-1,3-5-2,Antonio Matéu Lahoz,Match Report,,2019-2020,Atletico Madrid
+2020-07-19,21:00,La Liga,Matchweek 38,Sun,Home,D,1,1,Real Sociedad,1.6,0.4,44.0,,Koke,4-4-2,3-4-3,Pablo González,Match Report,,2019-2020,Atletico Madrid
+2020-08-13,21:00,Champions Lg,Quarter-finals,Thu,Neutral,L,1,2,de RB Leipzig,1.1,0.9,43.0,,Koke,4-4-2,4-2-3-1,Szymon Marciniak,Match Report,,2019-2020,Atletico Madrid

@@ -1,0 +1,44 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,17:30,Ligue 1,Matchweek 1,Sat,Home,L,0,2,Reims,0.9,1.2,64.0,52887.0,Steve Mandanda,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2019-2020,Marseille
+2019-08-17,17:30,Ligue 1,Matchweek 2,Sat,Away,D,0,0,Nantes,1.2,0.5,47.0,34832.0,Steve Mandanda,4-3-3,4-2-3-1,Benoît Bastien,Match Report,,2019-2020,Marseille
+2019-08-28,21:00,Ligue 1,Matchweek 3,Wed,Away,W,2,1,Nice,1.7,1.7,38.0,31825.0,Steve Mandanda,4-3-3,4-3-3,Clément Turpin,Match Report,,2019-2020,Marseille
+2019-09-01,21:00,Ligue 1,Matchweek 4,Sun,Home,W,1,0,Saint-Étienne,0.7,0.8,50.0,44074.0,Steve Mandanda,4-3-3,3-4-1-2,Benoît Millot,Match Report,,2019-2020,Marseille
+2019-09-15,21:00,Ligue 1,Matchweek 5,Sun,Away,W,4,3,Monaco,1.6,2.5,56.0,9147.0,Steve Mandanda,4-3-3,4-4-2,Antony Gautier,Match Report,,2019-2020,Marseille
+2019-09-21,17:30,Ligue 1,Matchweek 6,Sat,Home,D,1,1,Montpellier,1.2,0.1,65.0,48007.0,Steve Mandanda,4-3-3,3-4-1-2,Amaury Delerue,Match Report,,2019-2020,Marseille
+2019-09-24,19:00,Ligue 1,Matchweek 7,Tue,Away,D,0,0,Dijon,0.9,1.4,55.0,15061.0,Steve Mandanda,4-3-3,4-2-3-1,Jeremy Stinat,Match Report,,2019-2020,Marseille
+2019-09-29,21:00,Ligue 1,Matchweek 8,Sun,Home,D,1,1,Rennes,0.8,0.9,55.0,44281.0,Steve Mandanda,4-2-3-1,5-3-2,Franck Schneider,Match Report,,2019-2020,Marseille
+2019-10-04,20:45,Ligue 1,Matchweek 9,Fri,Away,L,1,3,Amiens,0.5,2.9,67.0,12737.0,Steve Mandanda,4-2-3-1,4-2-3-1,Johan Hamel,Match Report,,2019-2020,Marseille
+2019-10-20,21:00,Ligue 1,Matchweek 10,Sun,Home,W,2,0,Strasbourg,1.6,0.5,50.0,50203.0,Steve Mandanda,4-3-3,4-4-1-1,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Marseille
+2019-10-27,21:00,Ligue 1,Matchweek 11,Sun,Away,L,0,4,Paris S-G,0.6,3.0,39.0,47926.0,Steve Mandanda,4-3-3,4-3-3,Benoît Bastien,Match Report,,2019-2020,Marseille
+2019-10-30,21:05,Coupe de la Ligue,Third round,Wed,Away,L,1,2,Monaco,,,54.0,9883.0,Steve Mandanda,3-4-1-2,3-4-1-2,Mikael Lesage,Match Report,,2019-2020,Marseille
+2019-11-02,17:30,Ligue 1,Matchweek 12,Sat,Home,W,2,1,Lille,0.7,0.4,44.0,53321.0,Steve Mandanda,4-3-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2019-2020,Marseille
+2019-11-10,21:00,Ligue 1,Matchweek 13,Sun,Home,W,2,1,Lyon,1.2,1.1,41.0,65421.0,Steve Mandanda,4-3-3,4-2-3-1,Antony Gautier,Match Report,,2019-2020,Marseille
+2019-11-24,21:00,Ligue 1,Matchweek 14,Sun,Away,W,2,0,Toulouse,1.6,0.9,71.0,23002.0,Steve Mandanda,4-3-3,4-4-2,François Letexier,Match Report,,2019-2020,Marseille
+2019-11-29,20:45,Ligue 1,Matchweek 15,Fri,Home,W,2,1,Brest,5.0,0.7,58.0,50014.0,Steve Mandanda,4-3-3,4-3-3,Johan Hamel,Match Report,,2019-2020,Marseille
+2019-12-03,19:00,Ligue 1,Matchweek 16,Tue,Away,W,2,0,Angers,1.8,0.7,38.0,12455.0,Steve Mandanda,4-3-3,4-1-4-1,Franck Schneider,Match Report,,2019-2020,Marseille
+2019-12-08,21:00,Ligue 1,Matchweek 17,Sun,Home,W,3,1,Bordeaux,1.9,0.1,50.0,52079.0,Steve Mandanda,4-3-3,3-4-3,Mikael Lesage,Match Report,,2019-2020,Marseille
+2019-12-14,17:30,Ligue 1,Matchweek 18,Sat,Away,D,1,1,Metz,1.8,1.1,67.0,20586.0,Steve Mandanda,4-3-3,4-3-3,Willy Delajod,Match Report,,2019-2020,Marseille
+2019-12-21,20:45,Ligue 1,Matchweek 19,Sat,Home,W,3,1,Nîmes,2.0,1.0,57.0,59043.0,Dimitri Payet,4-3-3,4-4-2,François Letexier,Match Report,,2019-2020,Marseille
+2020-01-05,14:15,Coupe de France,Round of 64,Sun,Away,D,1 (4),1 (2),Trélissac,,,,11987.0,Dimitri Payet,4-3-3,4-3-3,Jérôme Brisard,Match Report,Marseille won on penalty kicks following extra time,2019-2020,Marseille
+2020-01-10,20:45,Ligue 1,Matchweek 20,Fri,Away,W,1,0,Rennes,0.7,0.6,47.0,28896.0,Steve Mandanda,4-3-3,4-4-2,Benoît Millot,Match Report,,2019-2020,Marseille
+2020-01-17,21:05,Coupe de France,Round of 32,Fri,Away,W,3,0,Granville,,,74.0,19479.0,Dimitri Payet,4-3-3,4-4-2,Antony Gautier,Match Report,,2019-2020,Marseille
+2020-01-25,17:30,Ligue 1,Matchweek 21,Sat,Home,D,0,0,Angers,0.4,0.2,66.0,55761.0,Steve Mandanda,4-1-4-1,4-1-4-1,Johan Hamel,Match Report,,2019-2020,Marseille
+2020-01-29,21:05,Coupe de France,Round of 16,Wed,Home,W,3,1,Strasbourg,,,60.0,29589.0,Steve Mandanda,4-3-3,4-4-1-1,Mikael Lesage,Match Report,,2019-2020,Marseille
+2020-02-02,21:00,Ligue 1,Matchweek 22,Sun,Away,D,0,0,Bordeaux,0.6,1.3,50.0,36196.0,Steve Mandanda,4-1-4-1,4-2-3-1,Ruddy Buquet,Match Report,,2019-2020,Marseille
+2020-02-05,21:00,Ligue 1,Matchweek 23,Wed,Away,W,2,0,Saint-Étienne,0.5,0.6,52.0,29074.0,Steve Mandanda,4-3-3,3-4-3,Jérôme Brisard,Match Report,,2019-2020,Marseille
+2020-02-08,17:30,Ligue 1,Matchweek 24,Sat,Home,W,1,0,Toulouse,0.8,1.7,58.0,53995.0,Steve Mandanda,4-3-3,4-1-4-1,Stéphanie Frappart,Match Report,,2019-2020,Marseille
+2020-02-12,21:05,Coupe de France,Quarter-finals,Wed,Away,L,0,1,Lyon,,,52.0,36962.0,Dimitri Payet,4-3-3,4-3-3,Benoît Millot,Match Report,,2019-2020,Marseille
+2020-02-16,21:00,Ligue 1,Matchweek 25,Sun,Away,W,2,1,Lille,1.6,1.3,44.0,47314.0,Steve Mandanda,4-3-3,4-2-2-2,Franck Schneider,Match Report,,2019-2020,Marseille
+2020-02-22,17:30,Ligue 1,Matchweek 26,Sat,Home,L,1,3,Nantes,0.9,0.7,63.0,60430.0,Steve Mandanda,4-3-3,4-2-3-1,Jérôme Miguelgorry,Match Report,,2019-2020,Marseille
+2020-02-28,20:45,Ligue 1,Matchweek 27,Fri,Away,W,3,2,Nîmes,1.9,1.8,51.0,13755.0,Steve Mandanda,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2019-2020,Marseille
+2020-03-06,21:00,Ligue 1,Matchweek 28,Fri,Home,D,2,2,Amiens,1.1,2.1,55.0,49748.0,Steve Mandanda,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2019-2020,Marseille
+2020-03-14,17:30,Ligue 1,Matchweek 29,Sat,Away,,,,Montpellier,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-03-22,21:00,Ligue 1,Matchweek 30,Sun,Home,,,,Paris S-G,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-04-05,21:00,Ligue 1,Matchweek 31,Sun,Away,,,,Brest,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-04-11,,Ligue 1,Matchweek 32,Sat,Home,,,,Dijon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-04-18,,Ligue 1,Matchweek 33,Sat,Away,,,,Lyon,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-04-26,,Ligue 1,Matchweek 34,Sun,Home,,,,Nice,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-05-02,,Ligue 1,Matchweek 35,Sat,Away,,,,Strasbourg,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-05-09,,Ligue 1,Matchweek 36,Sat,Home,,,,Monaco,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-05-16,,Ligue 1,Matchweek 37,Sat,Home,,,,Metz,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille
+2020-05-23,,Ligue 1,Matchweek 38,Sat,Away,,,,Reims,,,,,,,,,Match Report,Match Cancelled,2019-2020,Marseille

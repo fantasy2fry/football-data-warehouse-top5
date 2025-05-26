@@ -1,0 +1,51 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Season,Team_Scraping
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,,
+Bruno Fernandes,pt POR,MF,29,57,55,4927.0,54.7,19.0,18.0,37.0,12.0,7.0,7.0,10.0,3.0,16.8,11.3,12.6,23.9,114.0,463.0,205.0,0.35,0.33,0.68,0.22,0.55,0.36,0.27,0.62,0.24,0.5,Matches,2024-2025,Manchester Utd
+André Onana,cm CMR,GK,28,50,50,4560.0,50.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2,0.2,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2024-2025,Manchester Utd
+Noussair Mazraoui,ma MAR,DF,26,57,52,4478.0,49.8,0.0,2.0,2.0,0.0,0.0,0.0,6.0,0.0,0.8,0.8,2.0,2.8,65.0,192.0,87.0,0.0,0.04,0.04,0.0,0.04,0.02,0.05,0.06,0.02,0.06,Matches,2024-2025,Manchester Utd
+Diogo Dalot,pt POR,DF,25,53,49,4451.0,49.5,3.0,5.0,8.0,3.0,0.0,0.0,8.0,1.0,3.7,3.7,3.8,7.5,87.0,172.0,233.0,0.06,0.1,0.16,0.06,0.16,0.09,0.09,0.18,0.09,0.18,Matches,2024-2025,Manchester Utd
+Alejandro Garnacho,ar ARG,"MF,FW",20,58,36,3571.0,39.7,11.0,10.0,21.0,11.0,0.0,0.0,5.0,0.0,12.3,12.3,7.2,19.5,204.0,78.0,429.0,0.28,0.25,0.53,0.28,0.53,0.35,0.2,0.55,0.35,0.55,Matches,2024-2025,Manchester Utd
+Rasmus Højlund,dk DEN,FW,21,52,38,3309.0,36.8,10.0,2.0,12.0,10.0,0.0,0.0,2.0,0.0,10.9,10.9,5.1,16.0,40.0,32.0,149.0,0.27,0.05,0.33,0.27,0.33,0.33,0.15,0.48,0.33,0.48,Matches,2024-2025,Manchester Utd
+Matthijs de Ligt,nl NED,DF,24,42,36,3110.0,34.6,2.0,0.0,2.0,2.0,0.0,0.0,5.0,0.0,2.7,2.7,0.6,3.3,9.0,75.0,8.0,0.06,0.0,0.06,0.06,0.06,0.09,0.02,0.11,0.09,0.11,Matches,2024-2025,Manchester Utd
+Manuel Ugarte Ribeiro,uy URU,MF,23,45,36,2880.0,32.0,2.0,6.0,8.0,2.0,0.0,0.0,15.0,0.0,2.2,2.2,2.6,4.8,18.0,79.0,32.0,0.06,0.19,0.25,0.06,0.25,0.08,0.1,0.18,0.08,0.18,Matches,2024-2025,Manchester Utd
+Casemiro,br BRA,MF,32,42,31,2796.0,31.1,5.0,2.0,7.0,5.0,0.0,0.0,8.0,0.0,3.6,3.6,3.2,6.8,8.0,157.0,42.0,0.16,0.06,0.23,0.16,0.23,0.13,0.12,0.25,0.13,0.25,Matches,2024-2025,Manchester Utd
+Harry Maguire,eng ENG,DF,31,40,30,2782.0,30.9,4.0,1.0,5.0,4.0,0.0,0.0,10.0,0.0,3.1,3.1,1.1,4.1,13.0,73.0,9.0,0.13,0.03,0.16,0.13,0.16,0.12,0.04,0.16,0.12,0.16,Matches,2024-2025,Manchester Utd
+Amad Diallo,ci CIV,"MF,FW",22,43,28,2757.0,30.6,11.0,8.0,19.0,11.0,0.0,0.0,6.0,0.0,6.1,6.1,7.5,13.6,151.0,78.0,286.0,0.36,0.26,0.62,0.36,0.62,0.22,0.27,0.49,0.22,0.49,Matches,2024-2025,Manchester Utd
+Lisandro Martínez,ar ARG,DF,26,32,31,2704.0,30.0,2.0,2.0,4.0,2.0,0.0,0.0,9.0,0.0,1.7,1.7,2.1,3.8,43.0,184.0,12.0,0.07,0.07,0.13,0.07,0.13,0.07,0.08,0.15,0.07,0.15,Matches,2024-2025,Manchester Utd
+Joshua Zirkzee,nl NED,"FW,MF",23,49,22,2266.0,25.2,7.0,2.0,9.0,7.0,0.0,0.0,3.0,0.0,6.5,6.5,2.7,9.2,22.0,64.0,96.0,0.28,0.08,0.36,0.28,0.36,0.3,0.13,0.43,0.3,0.43,Matches,2024-2025,Manchester Utd
+Kobbie Mainoo,eng ENG,MF,19,37,23,2066.0,23.0,2.0,1.0,3.0,2.0,0.0,0.0,7.0,0.0,1.5,1.5,2.2,3.7,28.0,73.0,64.0,0.09,0.04,0.13,0.09,0.13,0.07,0.11,0.19,0.07,0.19,Matches,2024-2025,Manchester Utd
+Leny Yoro,fr FRA,DF,18,33,22,2055.0,22.8,1.0,1.0,2.0,1.0,0.0,0.0,7.0,0.0,1.1,1.1,0.3,1.4,38.0,74.0,7.0,0.04,0.04,0.09,0.04,0.09,0.05,0.02,0.07,0.05,0.07,Matches,2024-2025,Manchester Utd
+Christian Eriksen,dk DEN,MF,32,35,19,1737.0,19.3,5.0,5.0,10.0,4.0,1.0,1.0,4.0,0.0,1.8,1.0,4.7,5.7,19.0,77.0,43.0,0.26,0.26,0.52,0.21,0.47,0.11,0.28,0.39,0.06,0.34,Matches,2024-2025,Manchester Utd
+Patrick Dorgu,dk DEN,DF,19,20,18,1517.0,16.9,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,1.3,1.3,1.9,3.2,62.0,55.0,130.0,0.0,0.0,0.0,0.0,0.0,0.08,0.12,0.19,0.08,0.19,Matches,2024-2025,Manchester Utd
+Marcus Rashford,eng ENG,"FW,MF",26,24,19,1491.0,16.6,7.0,3.0,10.0,7.0,0.0,0.0,4.0,0.0,2.7,2.7,2.6,5.3,36.0,34.0,117.0,0.42,0.18,0.6,0.42,0.6,0.19,0.18,0.37,0.19,0.37,Matches,2024-2025,Manchester Utd
+Victor Lindelöf,se SWE,DF,30,25,12,1231.0,13.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1,0.2,10.0,39.0,4.0,0.0,0.0,0.0,0.0,0.0,0.01,0.01,0.02,0.01,0.02,Matches,2024-2025,Manchester Utd
+Mason Mount,eng ENG,MF,25,27,11,969.0,10.8,3.0,0.0,3.0,3.0,0.0,0.0,5.0,0.0,4.6,4.6,0.6,5.2,19.0,47.0,64.0,0.28,0.0,0.28,0.28,0.28,0.47,0.06,0.53,0.47,0.53,Matches,2024-2025,Manchester Utd
+Altay Bayındır,tr TUR,GK,26,10,10,930.0,10.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2024-2025,Manchester Utd
+Jonny Evans,nir NIR,DF,36,13,6,650.0,7.2,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0,0.1,3.0,13.0,4.0,0.14,0.0,0.14,0.14,0.14,0.03,0.0,0.03,0.03,0.03,Matches,2024-2025,Manchester Utd
+Luke Shaw,eng ENG,DF,29,12,5,591.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,1.0,1.1,11.0,42.0,14.0,0.0,0.0,0.0,0.0,0.0,0.02,0.16,0.18,0.02,0.18,Matches,2024-2025,Manchester Utd
+Toby Collyer,eng ENG,MF,20,13,3,473.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3,0.4,4.0,11.0,2.0,0.0,0.0,0.0,0.0,0.0,0.05,0.08,0.13,0.05,0.13,Matches,2024-2025,Manchester Utd
+Antony,br BRA,"DF,MF",24,14,3,414.0,4.6,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.4,1.4,0.3,1.7,10.0,9.0,30.0,0.22,0.0,0.22,0.0,0.0,0.46,0.11,0.57,0.46,0.57,Matches,2024-2025,Manchester Utd
+Harry Amass,eng ENG,DF,17,7,4,377.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,9.0,8.0,31.0,0.0,0.0,0.0,0.0,0.0,0.02,0.01,0.02,0.02,0.02,Matches,2024-2025,Manchester Utd
+Tyrell Malacia,nl NED,DF,24,8,5,315.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.2,0.2,6.0,12.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.05,0.05,0.0,0.05,Matches,2024-2025,Manchester Utd
+Ayden Heaven,eng ENG,DF,17,6,3,290.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.2,1.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.05,0.05,0.05,Matches,2024-2025,Manchester Utd
+Chidozie Obi-Martin,dk DEN,FW,16,8,1,218.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.7,0.7,0.0,0.7,2.0,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.36,0.36,0.36,Matches,2024-2025,Manchester Utd
+Tyler Fredricson,eng ENG,DF,19,2,2,165.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2024-2025,Manchester Utd
+Scott McTominay,sct SCO,MF,27,3,0,52.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.1,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33,0.33,Matches,2024-2025,Manchester Utd
+Facundo Pellistri,uy URU,"FW,MF",22,1,0,33.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2024-2025,Manchester Utd
+Jadon Sancho,eng ENG,"FW,MF",24,1,0,8.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2024-2025,Manchester Utd
+Ethan Wheatley,eng ENG,FW,18,1,0,6.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2024-2025,Manchester Utd
+Elyh Harrison,eng ENG,GK,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Hubert Graczyk,pl POL,GK,21,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Jack Moorhouse,eng ENG,MF,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Sekou Koné,ml MLI,MF,18,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Jayce Fitzgerald,eng ENG,MF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Jack Fletcher,eng ENG,MF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Godwill Kukonki,eng ENG,DF,16,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Habeeb Ogunneye,eng ENG,DF,19,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Daniel Gore,eng ENG,MF,19,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+James Scanlon,gi GIB,MF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Bendito Mantato,eng ENG,MF,16,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Jaydan Kamason,eng ENG,DF,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+William Murdock,nir NIR,GK,17,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Tom Heaton,eng ENG,GK,38,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd
+Dermot Mee,nir NIR,GK,21,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,2024-2025,Manchester Utd

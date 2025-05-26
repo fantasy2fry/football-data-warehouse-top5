@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-07-29,20:45,DFB-Pokal,Round of 64,Fri,Away,W,3,0,1860 Munich,,,82,15000,Marco Reus,4-2-3-1,4-4-2,Benjamin Brand,Match Report,,2022-2023,Dortmund
+2022-08-06,18:30,Bundesliga,Matchweek 1,Sat,Home,W,1,0,Leverkusen,1.8,1.3,45,81365,Marco Reus,4-3-3,4-2-3-1,Felix Brych,Match Report,,2022-2023,Dortmund
+2022-08-12,20:30,Bundesliga,Matchweek 2,Fri,Away,W,3,1,Freiburg,1.1,1.0,61,34700,Marco Reus,4-2-3-1,4-2-3-1,Tobias Welz,Match Report,,2022-2023,Dortmund
+2022-08-20,15:30,Bundesliga,Matchweek 3,Sat,Home,L,2,3,Werder Bremen,0.5,1.3,50,81365,Marco Reus,4-2-3-1,3-5-2,Florian Badstübner,Match Report,,2022-2023,Dortmund
+2022-08-27,15:30,Bundesliga,Matchweek 4,Sat,Away,W,1,0,Hertha BSC,2.7,0.5,62,62142,Marco Reus,4-2-3-1,4-3-3,Tobias Stieler,Match Report,,2022-2023,Dortmund
+2022-09-02,20:30,Bundesliga,Matchweek 5,Fri,Home,W,1,0,Hoffenheim,2.0,0.5,49,79300,Marco Reus,4-5-1,3-5-2,Daniel Siebert,Match Report,,2022-2023,Dortmund
+2022-09-06,18:45,Champions Lg,Group stage,Tue,Home,W,3,0,dk FC Copenhagen,2.3,0.5,63,70700,Marco Reus,4-2-3-1,4-3-3,François Letexier,Match Report,,2022-2023,Dortmund
+2022-09-10,15:30,Bundesliga,Matchweek 6,Sat,Away,L,0,3,RB Leipzig,0.6,2.0,55,47069,Marco Reus,4-2-3-1,4-2-3-1,Sven Jablonski,Match Report,,2022-2023,Dortmund
+2022-09-14,20:00,Champions Lg,Group stage,Wed,Away,L,1,2,eng Manchester City,0.7,1.0,34,50441,Marco Reus,4-3-3,4-3-3,Daniele Orsato,Match Report,,2022-2023,Dortmund
+2022-09-17,15:30,Bundesliga,Matchweek 7,Sat,Home,W,1,0,Schalke 04,1.8,0.1,65,81100,Marco Reus,4-2-3-1,4-2-3-1,Felix Brych,Match Report,,2022-2023,Dortmund
+2022-10-01,15:30,Bundesliga,Matchweek 8,Sat,Away,L,2,3,Köln,2.5,1.9,58,50000,Jude Bellingham,4-2-3-1,4-1-3-2,Harm Osmers,Match Report,,2022-2023,Dortmund
+2022-10-05,21:00,Champions Lg,Group stage,Wed,Away,W,4,1,es Sevilla,2.5,2.0,42,34598,Jude Bellingham,4-2-3-1,3-4-3,Maurizio Mariani,Match Report,,2022-2023,Dortmund
+2022-10-08,18:30,Bundesliga,Matchweek 9,Sat,Home,D,2,2,Bayern Munich,1.6,0.6,44,81365,Mats Hummels,4-3-3,4-2-3-1,Deniz Aytekin,Match Report,,2022-2023,Dortmund
+2022-10-11,21:00,Champions Lg,Group stage,Tue,Home,D,1,1,es Sevilla,0.4,0.8,52,81000,Mats Hummels,4-2-3-1,3-4-3,Srđan Jovanović,Match Report,,2022-2023,Dortmund
+2022-10-16,17:30,Bundesliga,Matchweek 10,Sun,Away,L,0,2,Union Berlin,0.8,1.9,76,22012,Mats Hummels,3-5-2,3-5-2,Tobias Stieler,Match Report,,2022-2023,Dortmund
+2022-10-19,18:00,DFB-Pokal,Round of 32,Wed,Away,W,2,0,Hannover 96,,,59,49000,Niklas Süle,4-2-3-1,3-4-3,Sven Jablonski,Match Report,,2022-2023,Dortmund
+2022-10-22,15:30,Bundesliga,Matchweek 11,Sat,Home,W,5,0,Stuttgart,2.6,1.0,60,81365,Mats Hummels,4-2-3-1,3-5-2,Daniel Schlager,Match Report,,2022-2023,Dortmund
+2022-10-25,21:00,Champions Lg,Group stage,Tue,Home,D,0,0,eng Manchester City,1.2,1.2,27,81000,Mats Hummels,4-5-1,4-4-2,Davide Massa,Match Report,,2022-2023,Dortmund
+2022-10-29,18:30,Bundesliga,Matchweek 12,Sat,Away,W,2,1,Eint Frankfurt,0.6,1.9,42,50000,Mats Hummels,4-2-3-1,3-4-3,Sascha Stegemann,Match Report,,2022-2023,Dortmund
+2022-11-02,21:00,Champions Lg,Group stage,Wed,Away,D,1,1,dk FC Copenhagen,1.2,1.8,57,31900,Mats Hummels,4-2-3-1,4-3-3,Əliyar Ağayev,Match Report,,2022-2023,Dortmund
+2022-11-05,15:30,Bundesliga,Matchweek 13,Sat,Home,W,3,0,Bochum,1.5,0.6,60,81365,Mats Hummels,4-2-3-1,4-2-3-1,Tobias Stieler,Match Report,,2022-2023,Dortmund
+2022-11-08,18:30,Bundesliga,Matchweek 14,Tue,Away,L,0,2,Wolfsburg,1.6,2.4,63,28675,Mats Hummels,4-2-3-1,4-5-1,Christian Dingert,Match Report,,2022-2023,Dortmund
+2022-11-11,20:30,Bundesliga,Matchweek 15,Fri,Away,L,2,4,Gladbach,3.0,2.1,61,54042,Mats Hummels,4-2-3-1,4-2-3-1,Sven Jablonski,Match Report,,2022-2023,Dortmund
+2023-01-22,15:30,Bundesliga,Matchweek 16,Sun,Home,W,4,3,Augsburg,2.9,1.7,68,81365,Mats Hummels,4-2-3-1,4-4-2,Frank Willenborg,Match Report,,2022-2023,Dortmund
+2023-01-25,18:30,Bundesliga,Matchweek 17,Wed,Away,W,2,1,Mainz 05,1.5,1.2,62,31500,Niklas Süle,4-2-3-1,3-5-2,Sascha Stegemann,Match Report,,2022-2023,Dortmund
+2023-01-29,17:30,Bundesliga,Matchweek 18,Sun,Away,W,2,0,Leverkusen,0.9,1.7,44,30210,Jude Bellingham,4-5-1,4-3-3,Tobias Welz,Match Report,,2022-2023,Dortmund
+2023-02-04,15:30,Bundesliga,Matchweek 19,Sat,Home,W,5,1,Freiburg,1.9,0.4,76,81365,Marco Reus,4-1-4-1,5-3-2,Robert Schröder,Match Report,,2022-2023,Dortmund
+2023-02-08,20:45,DFB-Pokal,Round of 16,Wed,Away,W,2,1,Bochum,,,54,26000,Mats Hummels,4-1-4-1,4-2-3-1,Tobias Stieler,Match Report,,2022-2023,Dortmund
+2023-02-11,15:30,Bundesliga,Matchweek 20,Sat,Away,W,2,0,Werder Bremen,2.5,0.6,56,42100,Marco Reus,4-1-4-1,3-5-2,Felix Brych,Match Report,,2022-2023,Dortmund
+2023-02-15,21:00,Champions Lg,Round of 16,Wed,Home,W,1,0,eng Chelsea,1.5,2.1,48,81365,Jude Bellingham,4-1-4-1,4-2-3-1,Jesús Gil,Match Report,Leg 1 of 2,2022-2023,Dortmund
+2023-02-19,17:30,Bundesliga,Matchweek 21,Sun,Home,W,4,1,Hertha BSC,2.5,1.1,58,81365,Marco Reus,4-5-1,3-1-4-2,Harm Osmers,Match Report,,2022-2023,Dortmund
+2023-02-25,15:30,Bundesliga,Matchweek 22,Sat,Away,W,1,0,Hoffenheim,2.3,1.3,56,30150,Marco Reus,4-3-3,3-4-1-2,Martin Petersen,Match Report,,2022-2023,Dortmund
+2023-03-03,20:30,Bundesliga,Matchweek 23,Fri,Home,W,2,1,RB Leipzig,1.2,2.2,38,81365,Marco Reus,4-1-4-1,4-2-2-2,Sven Jablonski,Match Report,,2022-2023,Dortmund
+2023-03-07,20:00,Champions Lg,Round of 16,Tue,Away,L,0,2,eng Chelsea,0.8,2.0,60,38882,Marco Reus,4-1-4-1,3-4-3,Danny Makkelie,Match Report,Leg 2 of 2; Chelsea won,2022-2023,Dortmund
+2023-03-11,18:30,Bundesliga,Matchweek 24,Sat,Away,D,2,2,Schalke 04,2.0,1.5,65,61571,Mats Hummels,4-3-3,4-2-3-1,Marco Fritz,Match Report,,2022-2023,Dortmund
+2023-03-18,18:30,Bundesliga,Matchweek 25,Sat,Home,W,6,1,Köln,3.3,1.6,63,81365,Marco Reus,4-3-3,4-2-2-2,Daniel Siebert,Match Report,,2022-2023,Dortmund
+2023-04-01,18:30,Bundesliga,Matchweek 26,Sat,Away,L,2,4,Bayern Munich,1.5,2.4,52,75000,Marco Reus,4-5-1,4-2-3-1,Marco Fritz,Match Report,,2022-2023,Dortmund
+2023-04-05,20:45,DFB-Pokal,Quarter-finals,Wed,Away,L,0,2,RB Leipzig,,,55,47069,Marco Reus,4-3-3,3-4-3,Felix Brych,Match Report,,2022-2023,Dortmund
+2023-04-08,15:30,Bundesliga,Matchweek 27,Sat,Home,W,2,1,Union Berlin,2.6,0.5,63,81365,Mats Hummels,4-3-3,3-5-2,Daniel Schlager,Match Report,,2022-2023,Dortmund
+2023-04-15,15:30,Bundesliga,Matchweek 28,Sat,Away,D,3,3,Stuttgart,1.8,1.4,57,47300,Mats Hummels,4-1-4-1,3-4-3,Harm Osmers,Match Report,,2022-2023,Dortmund
+2023-04-22,18:30,Bundesliga,Matchweek 29,Sat,Home,W,4,0,Eint Frankfurt,1.1,0.6,55,81365,Mats Hummels,4-3-3,3-4-3,Deniz Aytekin,Match Report,,2022-2023,Dortmund
+2023-04-28,20:30,Bundesliga,Matchweek 30,Fri,Away,D,1,1,Bochum,2.7,0.9,66,26000,Mats Hummels,4-3-3,4-2-3-1,Sascha Stegemann,Match Report,,2022-2023,Dortmund
+2023-05-07,17:30,Bundesliga,Matchweek 31,Sun,Home,W,6,0,Wolfsburg,4.2,1.2,57,81365,Mats Hummels,4-3-3,3-1-4-2,Marco Fritz,Match Report,,2022-2023,Dortmund
+2023-05-13,18:30,Bundesliga,Matchweek 32,Sat,Home,W,5,2,Gladbach,4.5,2.0,54,81365,Mats Hummels,4-2-3-1,4-2-3-1,Daniel Schlager,Match Report,,2022-2023,Dortmund
+2023-05-21,17:30,Bundesliga,Matchweek 33,Sun,Away,W,3,0,Augsburg,3.1,0.2,64,30660,Mats Hummels,4-5-1,4-3-3,Tobias Welz,Match Report,,2022-2023,Dortmund
+2023-05-27,15:30,Bundesliga,Matchweek 34,Sat,Home,D,2,2,Mainz 05,4.0,1.8,73,81365,Mats Hummels,4-5-1,3-4-3,Marco Fritz,Match Report,,2022-2023,Dortmund

@@ -1,0 +1,59 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-07,17:15,Community Shield,FA Community Shield,Sat,Neutral,L,0,1,Leicester City,,,57,,Fernandinho,4-3-3,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Manchester City
+2021-08-15,16:30,Premier League,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.8,1.0,65,58262.0,Fernandinho,4-3-3,4-3-3,Anthony Taylor,Match Report,,2021-2022,Manchester City
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.6,0.1,67,51437.0,İlkay Gündoğan,4-3-3,4-3-3,Graham Scott,Match Report,,2021-2022,Manchester City
+2021-08-28,12:30,Premier League,Matchweek 3,Sat,Home,W,5,0,Arsenal,4.4,0.2,80,52276.0,İlkay Gündoğan,4-3-3,5-4-1,Martin Atkinson,Match Report,,2021-2022,Manchester City
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.8,0.6,61,32087.0,İlkay Gündoğan,4-3-3,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Manchester City
+2021-09-15,20:00,Champions Lg,Group stage,Wed,Home,W,6,3,de RB Leipzig,1.9,0.9,50,38062.0,Rúben Dias,4-3-3,4-2-3-1,Serdar Gözübüyük,Match Report,,2021-2022,Manchester City
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,D,0,0,Southampton,1.0,0.4,64,52698.0,Fernandinho,4-3-3,4-4-2,Jonathan Moss,Match Report,,2021-2022,Manchester City
+2021-09-21,19:45,EFL Cup,Third round,Tue,Home,W,6,1,Wycombe,,,79,30959.0,Kevin De Bruyne,4-3-3,3-1-4-2,Robert Jones,Match Report,,2021-2022,Manchester City
+2021-09-25,12:30,Premier League,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.2,59,40036.0,Rúben Dias,4-3-3,3-5-2,Michael Oliver,Match Report,,2021-2022,Manchester City
+2021-09-28,21:00,Champions Lg,Group stage,Tue,Away,L,0,2,fr Paris S-G,1.9,0.4,54,37350.0,Rúben Dias,4-3-3,4-3-3,Carlos del Cerro,Match Report,,2021-2022,Manchester City
+2021-10-03,16:30,Premier League,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,0.9,51,53102.0,Rúben Dias,4-3-3,4-3-3,Paul Tierney,Match Report,,2021-2022,Manchester City
+2021-10-16,15:00,Premier League,Matchweek 8,Sat,Home,W,2,0,Burnley,2.1,0.9,70,52711.0,Kevin De Bruyne,4-3-3,4-4-2,Martin Atkinson,Match Report,,2021-2022,Manchester City
+2021-10-19,18:45,Champions Lg,Group stage,Tue,Away,W,5,1,be Club Brugge,4.7,0.6,63,24915.0,Rúben Dias,4-3-3,4-4-1-1,István Kovács,Match Report,,2021-2022,Manchester City
+2021-10-23,17:30,Premier League,Matchweek 9,Sat,Away,W,4,1,Brighton,3.8,1.3,52,31215.0,İlkay Gündoğan,4-3-3,3-5-2,Kevin Friend,Match Report,,2021-2022,Manchester City
+2021-10-27,19:45,EFL Cup,Fourth round,Wed,Away,D,0 (3),0 (5),West Ham,,,64,60000.0,Fernandinho,4-3-3,4-2-3-1,Jonathan Moss,Match Report,West Ham won on penalty kicks following extra time,2021-2022,Manchester City
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,0.7,0.7,68,53014.0,Rúben Dias,4-3-3,4-3-3,Andre Marriner,Match Report,,2021-2022,Manchester City
+2021-11-03,20:00,Champions Lg,Group stage,Wed,Home,W,4,1,be Club Brugge,4.6,0.8,70,50228.0,İlkay Gündoğan,4-3-3,5-3-2,Antonio Matéu Lahoz,Match Report,,2021-2022,Manchester City
+2021-11-06,12:30,Premier League,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,1.6,0.9,67,73086.0,İlkay Gündoğan,4-3-3,3-5-2,Michael Oliver,Match Report,,2021-2022,Manchester City
+2021-11-21,14:00,Premier League,Matchweek 12,Sun,Home,W,3,0,Everton,2.5,0.2,77,52571.0,İlkay Gündoğan,4-3-3,4-4-1-1,Stuart Attwell,Match Report,,2021-2022,Manchester City
+2021-11-24,20:00,Champions Lg,Group stage,Wed,Home,W,2,1,fr Paris S-G,2.1,1.0,54,52030.0,İlkay Gündoğan,4-3-3,4-3-3,Daniele Orsato,Match Report,,2021-2022,Manchester City
+2021-11-28,14:00,Premier League,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,68,53245.0,İlkay Gündoğan,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2021-2022,Manchester City
+2021-12-01,20:15,Premier League,Matchweek 14,Wed,Away,W,2,1,Aston Villa,1.0,0.8,64,41400.0,Fernandinho,4-2-3-1,4-3-3,Mike Dean,Match Report,,2021-2022,Manchester City
+2021-12-04,17:30,Premier League,Matchweek 15,Sat,Away,W,3,1,Watford,3.1,0.8,77,20673.0,İlkay Gündoğan,4-3-3,4-1-4-1,Simon Hooper,Match Report,,2021-2022,Manchester City
+2021-12-07,18:45,Champions Lg,Group stage,Tue,Away,L,1,2,de RB Leipzig,1.2,1.7,56,,Fernandinho,4-3-3,4-2-3-1,Sandro Schärer,Match Report,,2021-2022,Manchester City
+2021-12-11,12:30,Premier League,Matchweek 16,Sat,Home,W,1,0,Wolves,3.2,0.2,71,52613.0,İlkay Gündoğan,4-3-3,3-5-2,Jonathan Moss,Match Report,,2021-2022,Manchester City
+2021-12-14,20:00,Premier League,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.1,0.3,63,52401.0,Rúben Dias,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,2021-2022,Manchester City
+2021-12-19,14:15,Premier League,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,2.9,0.3,71,52127.0,Rúben Dias,4-2-3-1,4-5-1,Martin Atkinson,Match Report,,2021-2022,Manchester City
+2021-12-26,15:00,Premier League,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.6,2.7,72,53226.0,Fernandinho,4-3-3,4-4-1-1,Chris Kavanagh,Match Report,,2021-2022,Manchester City
+2021-12-29,20:15,Premier League,Matchweek 20,Wed,Away,W,1,0,Brentford,1.1,0.4,76,17009.0,Fernandinho,4-3-3,3-5-2,David Coote,Match Report,,2021-2022,Manchester City
+2022-01-01,12:30,Premier League,Matchweek 21,Sat,Away,W,2,1,Arsenal,2.0,0.8,71,59757.0,Rúben Dias,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,2021-2022,Manchester City
+2022-01-07,20:00,FA Cup,Third round proper,Fri,Away,W,4,1,Swindon Town,,,77,14753.0,İlkay Gündoğan,4-3-3,3-1-4-2,Darren England,Match Report,,2021-2022,Manchester City
+2022-01-15,12:30,Premier League,Matchweek 22,Sat,Home,W,1,0,Chelsea,1.0,0.3,56,53319.0,Kevin De Bruyne,4-2-3-1,3-4-3,Craig Pawson,Match Report,,2021-2022,Manchester City
+2022-01-22,17:30,Premier League,Matchweek 23,Sat,Away,D,1,1,Southampton,1.8,0.8,74,31178.0,Rúben Dias,4-3-3,4-4-2,Simon Hooper,Match Report,,2021-2022,Manchester City
+2022-02-05,15:00,FA Cup,Fourth round proper,Sat,Home,W,4,1,Fulham,,,61,53400.0,Fernandinho,4-3-3,4-2-3-1,Jarred Gillett,Match Report,,2021-2022,Manchester City
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Home,W,2,0,Brentford,1.9,0.4,74,51658.0,Rúben Dias,4-3-3,3-5-2,Darren England,Match Report,,2021-2022,Manchester City
+2022-02-12,17:30,Premier League,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.4,71,27010.0,Fernandinho,4-3-3,4-3-3,Andre Marriner,Match Report,,2021-2022,Manchester City
+2022-02-15,20:00,Champions Lg,Round of 16,Tue,Away,W,5,0,pt Sporting CP,2.1,0.1,63,48129.0,Rúben Dias,4-3-3,3-4-3,Srdjan Stojanovic,Match Report,Leg 1 of 2,2021-2022,Manchester City
+2022-02-19,17:30,Premier League,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.4,71,53201.0,İlkay Gündoğan,4-3-3,3-4-3,Anthony Taylor,Match Report,,2021-2022,Manchester City
+2022-02-26,17:30,Premier League,Matchweek 27,Sat,Away,W,1,0,Everton,1.8,0.5,67,39105.0,İlkay Gündoğan,4-3-3,4-3-3,Paul Tierney,Match Report,,2021-2022,Manchester City
+2022-03-01,19:15,FA Cup,Fifth round proper,Tue,Away,W,2,0,P'borough Utd,,,76,13405.0,Oleksandr Zinchenko,4-3-3,3-4-3,Andy Madley,Match Report,,2021-2022,Manchester City
+2022-03-06,16:30,Premier League,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,69,53165.0,Kevin De Bruyne,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2021-2022,Manchester City
+2022-03-09,20:00,Champions Lg,Round of 16,Wed,Home,D,0,0,pt Sporting CP,1.5,0.8,68,51213.0,Fernandinho,4-3-3,3-4-3,Halil Umut Meler,Match Report,Leg 2 of 2; Manchester City won,2021-2022,Manchester City
+2022-03-14,20:00,Premier League,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.8,0.6,73,25309.0,Kevin De Bruyne,4-3-3,4-3-3,Martin Atkinson,Match Report,,2021-2022,Manchester City
+2022-03-20,15:00,FA Cup,Quarter-finals,Sun,Away,W,4,1,Southampton,,,65,29702.0,İlkay Gündoğan,4-3-3,4-4-2,Mike Dean,Match Report,,2021-2022,Manchester City
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,W,2,0,Burnley,1.8,0.1,76,21249.0,İlkay Gündoğan,4-3-3,4-5-1,Craig Pawson,Match Report,,2021-2022,Manchester City
+2022-04-05,20:00,Champions Lg,Quarter-finals,Tue,Home,W,1,0,es Atlético Madrid,1.0,0.0,70,52018.0,İlkay Gündoğan,4-3-3,5-3-2,István Kovács,Match Report,Leg 1 of 2,2021-2022,Manchester City
+2022-04-10,16:30,Premier League,Matchweek 32,Sun,Home,D,2,2,Liverpool,1.3,1.3,55,53197.0,Kevin De Bruyne,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2021-2022,Manchester City
+2022-04-13,21:00,Champions Lg,Quarter-finals,Wed,Away,D,0,0,es Atlético Madrid,1.2,0.8,59,65675.0,İlkay Gündoğan,4-3-3,5-4-1,Daniel Siebert,Match Report,Leg 2 of 2; Manchester City won,2021-2022,Manchester City
+2022-04-16,15:30,FA Cup,Semi-finals,Sat,Home,L,2,3,Liverpool,,,49,73793.0,Fernandinho,4-3-3,4-3-3,Michael Oliver,Match Report,,2021-2022,Manchester City
+2022-04-20,20:00,Premier League,Matchweek 30,Wed,Home,W,3,0,Brighton,1.3,0.2,65,52226.0,İlkay Gündoğan,4-3-3,3-5-2,Mike Dean,Match Report,,2021-2022,Manchester City
+2022-04-23,15:00,Premier League,Matchweek 34,Sat,Home,W,5,1,Watford,3.6,0.5,73,53013.0,Fernandinho,4-2-3-1,4-3-3,Kevin Friend,Match Report,,2021-2022,Manchester City
+2022-04-26,20:00,Champions Lg,Semi-finals,Tue,Home,W,4,3,es Real Madrid,2.7,1.6,59,52217.0,Rúben Dias,4-3-3,4-3-3,István Kovács,Match Report,Leg 1 of 2,2021-2022,Manchester City
+2022-04-30,17:30,Premier League,Matchweek 35,Sat,Away,W,4,0,Leeds United,2.4,1.3,58,35771.0,İlkay Gündoğan,4-2-3-1,5-4-1,Paul Tierney,Match Report,,2021-2022,Manchester City
+2022-05-04,21:00,Champions Lg,Semi-finals,Wed,Away,L,1,3,es Real Madrid,1.4,2.3,55,61416.0,Rúben Dias,4-3-3,4-2-3-1,Daniele Orsato,Match Report,Leg 2 of 2; Real Madrid won; Required Extra Time,2021-2022,Manchester City
+2022-05-08,16:30,Premier League,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,3.1,0.8,71,53336.0,İlkay Gündoğan,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,2021-2022,Manchester City
+2022-05-11,20:15,Premier League,Matchweek 33,Wed,Away,W,5,1,Wolves,2.3,0.5,66,32000.0,Fernandinho,4-2-3-1,3-5-2,Martin Atkinson,Match Report,,2021-2022,Manchester City
+2022-05-15,14:00,Premier League,Matchweek 37,Sun,Away,D,2,2,West Ham,2.4,1.1,78,59972.0,Fernandinho,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,2021-2022,Manchester City
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,3,2,Aston Villa,3.4,0.2,71,53395.0,Fernandinho,4-3-3,4-3-2-1,Michael Oliver,Match Report,,2021-2022,Manchester City

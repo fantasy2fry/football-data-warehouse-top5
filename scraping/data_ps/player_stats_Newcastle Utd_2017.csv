@@ -1,0 +1,34 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Season,Team_Scraping
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,,
+Jamaal Lascelles,eng ENG,DF,23,35,34,3048,33.9,3,0,3,3,0,0,5,0,1.1,1.1,0.7,1.8,17.0,73.0,10.0,0.09,0.0,0.09,0.09,0.09,0.03,0.02,0.05,0.03,0.05,Matches,2017-2018,Newcastle Utd
+Matt Ritchie,sct SCO,"MF,FW",27,38,34,3028,33.6,3,5,8,3,0,0,6,0,3.1,3.1,6.0,9.1,53.0,93.0,139.0,0.09,0.15,0.24,0.09,0.24,0.1,0.19,0.29,0.1,0.29,Matches,2017-2018,Newcastle Utd
+DeAndre Yedlin,us USA,DF,24,34,31,2845,31.6,0,2,2,0,0,0,5,0,0.2,0.2,2.0,2.2,44.0,74.0,128.0,0.0,0.06,0.06,0.0,0.06,0.0,0.06,0.07,0.0,0.07,Matches,2017-2018,Newcastle Utd
+Ayoze Pérez,es ESP,"MF,FW",24,37,29,2582,28.7,10,6,16,10,0,0,3,0,6.2,6.2,4.7,10.9,68.0,75.0,178.0,0.35,0.21,0.56,0.35,0.56,0.22,0.17,0.39,0.22,0.39,Matches,2017-2018,Newcastle Utd
+Jonjo Shelvey,eng ENG,MF,25,32,27,2428,27.0,2,3,5,2,0,0,5,3,2.4,2.4,2.5,4.9,31.0,183.0,23.0,0.07,0.11,0.19,0.07,0.19,0.09,0.1,0.19,0.09,0.19,Matches,2017-2018,Newcastle Utd
+Mohamed Diamé,sn SEN,MF,30,33,24,2181,24.2,2,0,2,2,0,0,3,0,1.4,1.4,0.7,2.1,25.0,81.0,22.0,0.08,0.0,0.08,0.08,0.08,0.06,0.03,0.09,0.06,0.09,Matches,2017-2018,Newcastle Utd
+Dwight Gayle,eng ENG,FW,26,37,25,2111,23.5,6,3,9,6,0,0,3,0,8.3,8.3,2.0,10.4,23.0,24.0,115.0,0.26,0.13,0.38,0.26,0.38,0.38,0.09,0.48,0.38,0.48,Matches,2017-2018,Newcastle Utd
+Florian Lejeune,fr FRA,DF,26,24,24,2103,23.4,0,2,2,0,0,0,3,0,0.6,0.6,1.5,2.1,18.0,67.0,4.0,0.0,0.09,0.09,0.0,0.09,0.03,0.06,0.09,0.03,0.09,Matches,2017-2018,Newcastle Utd
+Ciaran Clark,ie IRL,DF,27,22,21,1926,21.4,2,1,3,2,0,0,3,0,1.7,1.7,0.7,2.5,12.0,29.0,3.0,0.09,0.05,0.14,0.09,0.14,0.09,0.04,0.13,0.09,0.13,Matches,2017-2018,Newcastle Utd
+Javier Manquillo,es ESP,DF,23,23,22,1924,21.4,0,1,1,0,0,0,2,0,0.1,0.1,1.3,1.4,29.0,55.0,33.0,0.0,0.05,0.05,0.0,0.05,0.0,0.07,0.07,0.0,0.07,Matches,2017-2018,Newcastle Utd
+Christian Atsu,gh GHA,"FW,MF",25,29,19,1792,19.9,2,2,4,2,0,0,1,0,4.0,4.0,2.6,6.7,70.0,47.0,125.0,0.1,0.1,0.2,0.1,0.2,0.2,0.13,0.34,0.2,0.34,Matches,2017-2018,Newcastle Utd
+Joselu,es ESP,FW,27,32,19,1755,19.5,4,1,5,4,0,1,2,0,6.0,5.2,1.2,6.4,5.0,41.0,107.0,0.21,0.05,0.26,0.21,0.26,0.31,0.06,0.38,0.27,0.34,Matches,2017-2018,Newcastle Utd
+Paul Dummett,wls WAL,DF,25,21,20,1692,18.8,0,0,0,0,0,0,2,0,0.3,0.3,0.3,0.6,8.0,57.0,17.0,0.0,0.0,0.0,0.0,0.0,0.01,0.02,0.03,0.01,0.03,Matches,2017-2018,Newcastle Utd
+Isaac Hayden,eng ENG,MF,22,29,16,1567,17.4,1,0,1,1,0,0,8,0,1.0,1.0,0.6,1.6,17.0,45.0,23.0,0.06,0.0,0.06,0.06,0.06,0.06,0.04,0.1,0.06,0.1,Matches,2017-2018,Newcastle Utd
+Rob Elliot,ie IRL,GK,31,16,16,1440,16.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Newcastle Utd
+Mikel Merino,es ESP,MF,21,25,15,1426,15.8,1,1,2,1,0,0,4,0,0.6,0.6,0.9,1.5,25.0,108.0,15.0,0.06,0.06,0.13,0.06,0.13,0.04,0.06,0.1,0.04,0.1,Matches,2017-2018,Newcastle Utd
+Jacob Murphy,eng ENG,"MF,FW",22,28,15,1372,15.2,1,1,2,1,0,0,0,0,1.8,1.8,1.3,3.1,48.0,32.0,85.0,0.07,0.07,0.13,0.07,0.13,0.14,0.1,0.24,0.14,0.24,Matches,2017-2018,Newcastle Utd
+Karl Darlow,wls WAL,GK,26,12,12,1110,12.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Newcastle Utd
+Martin Dúbravka,sk SVK,GK,28,12,12,1080,12.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Newcastle Utd
+Kenedy,br BRA,"MF,DF",21,13,13,1023,11.4,2,2,4,2,0,0,1,0,2.4,2.4,1.7,4.2,30.0,21.0,55.0,0.18,0.18,0.35,0.18,0.35,0.21,0.15,0.37,0.21,0.37,Matches,2017-2018,Newcastle Utd
+Chancel Mbemba,cd COD,DF,22,11,9,882,9.8,0,0,0,0,0,0,1,0,0.0,0.0,0.5,0.5,9.0,21.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,2017-2018,Newcastle Utd
+Henri Saivet,sn SEN,MF,26,4,3,304,3.4,1,0,1,1,0,0,0,0,0.1,0.1,0.0,0.1,0.0,1.0,0.0,0.3,0.0,0.3,0.3,0.3,0.05,0.0,0.05,0.05,0.05,Matches,2017-2018,Newcastle Utd
+Jesús Gámez,es ESP,DF,32,3,2,218,2.4,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.2,2.0,10.0,3.0,0.0,0.0,0.0,0.0,0.0,0.05,0.15,0.2,0.05,0.2,Matches,2017-2018,Newcastle Utd
+Rolando Aarons,eng ENG,"MF,FW",21,5,2,215,2.4,1,1,2,1,0,0,0,0,0.1,0.1,0.0,0.1,7.0,3.0,4.0,0.42,0.42,0.84,0.42,0.84,0.04,0.0,0.04,0.04,0.04,Matches,2017-2018,Newcastle Utd
+Aleksandar Mitrović,rs SRB,FW,22,7,1,199,2.2,2,0,2,2,0,0,0,0,1.2,1.2,0.2,1.3,4.0,3.0,15.0,0.9,0.0,0.9,0.9,0.9,1.14,0.15,1.29,1.14,1.29,Matches,2017-2018,Newcastle Utd
+Islam Slimani,dz ALG,FW,29,4,1,132,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.4,0.4,3.0,2.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.28,0.0,0.28,Matches,2017-2018,Newcastle Utd
+Grant Hanley,sct SCO,DF,25,1,1,120,1.3,0,0,0,0,0,0,1,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2017-2018,Newcastle Utd
+Massadio Haïdara,ml MLI,FW,24,2,1,94,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,2017-2018,Newcastle Utd
+Freddie Woodman,eng ENG,GK,20,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2017-2018,Newcastle Utd
+Daniel Barlaser,tr TUR,MF,20,1,1,69,0.8,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2017-2018,Newcastle Utd
+Achraf Lazaar,ma MAR,"DF,MF",25,1,0,63,0.7,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2017-2018,Newcastle Utd
+Jamie Sterry,eng ENG,DF,21,1,1,57,0.6,0,0,0,0,0,0,0,0,,,,,,,,0.0,0.0,0.0,0.0,0.0,,,,,,Matches,2017-2018,Newcastle Utd

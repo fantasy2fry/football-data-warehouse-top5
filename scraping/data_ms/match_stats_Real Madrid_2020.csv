@@ -1,0 +1,53 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2020-09-20,21:00,La Liga,Matchweek 2,Sun,Away,D,0,0,Real Sociedad,0.9,0.6,68,,Sergio Ramos,4-2-3-1,4-4-2,Juan Martínez,Match Report,,2020-2021,Real Madrid
+2020-09-26,21:00,La Liga,Matchweek 3,Sat,Away,W,3,2,Betis,3.8,1.2,55,,Sergio Ramos,4-3-1-2,4-2-3-1,Ricardo de Burgos,Match Report,,2020-2021,Real Madrid
+2020-09-30,21:30,La Liga,Matchweek 4,Wed,Home,W,1,0,Valladolid,2.3,0.6,62,,Sergio Ramos,4-3-1-2,4-2-3-1,César Soto,Match Report,,2020-2021,Real Madrid
+2020-10-04,16:00,La Liga,Matchweek 5,Sun,Away,W,2,0,Levante,2.2,0.5,55,,Sergio Ramos,4-3-3,4-4-2,José Luis Munuera,Match Report,,2020-2021,Real Madrid
+2020-10-17,18:30,La Liga,Matchweek 6,Sat,Home,L,0,1,Cádiz,1.0,1.6,75,,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,2020-2021,Real Madrid
+2020-10-21,18:55,Champions Lg,Group stage,Wed,Home,L,2,3,ua Shakhtar,1.0,1.7,59,,Marcelo,4-3-3,4-1-4-1,Srđan Jovanović,Match Report,,2020-2021,Real Madrid
+2020-10-24,16:00,La Liga,Matchweek 7,Sat,Away,W,3,1,Barcelona,3.0,1.8,47,,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,2020-2021,Real Madrid
+2020-10-27,21:00,Champions Lg,Group stage,Tue,Away,D,2,2,de Gladbach,2.6,1.6,65,,Sergio Ramos,4-3-3,4-2-3-1,Orel Grinfeeld,Match Report,,2020-2021,Real Madrid
+2020-10-31,14:00,La Liga,Matchweek 8,Sat,Home,W,4,1,Huesca,2.3,1.0,60,,Sergio Ramos,4-3-3,4-4-2,Pablo González,Match Report,,2020-2021,Real Madrid
+2020-11-03,21:00,Champions Lg,Group stage,Tue,Home,W,3,2,it Inter,1.2,0.7,55,,Sergio Ramos,4-3-3,3-5-2,Clément Turpin,Match Report,,2020-2021,Real Madrid
+2020-11-08,21:00,La Liga,Matchweek 9,Sun,Away,L,1,4,Valencia,1.3,2.5,65,,Sergio Ramos,4-2-3-1,4-4-2,Jesús Gil,Match Report,,2020-2021,Real Madrid
+2020-11-21,16:15,La Liga,Matchweek 10,Sat,Away,D,1,1,Villarreal,0.6,1.7,53,,Raphaël Varane,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,2020-2021,Real Madrid
+2020-11-25,21:00,Champions Lg,Group stage,Wed,Away,W,2,0,it Inter,2.0,0.2,62,,Raphaël Varane,4-2-3-1,3-5-2,Anthony Taylor,Match Report,,2020-2021,Real Madrid
+2020-11-28,21:00,La Liga,Matchweek 11,Sat,Home,L,1,2,Alavés,1.7,2.2,67,,Marcelo,4-3-3,4-4-2,Adrián Cordero,Match Report,,2020-2021,Real Madrid
+2020-12-01,19:55,Champions Lg,Group stage,Tue,Away,L,0,2,ua Shakhtar,1.4,1.3,59,,Karim Benzema,4-2-3-1,4-3-3,Ovidiu Hațegan,Match Report,,2020-2021,Real Madrid
+2020-12-05,16:15,La Liga,Matchweek 12,Sat,Away,W,1,0,Sevilla,1.5,0.7,37,,Karim Benzema,4-3-3,4-3-3,José Sánchez,Match Report,,2020-2021,Real Madrid
+2020-12-09,21:00,Champions Lg,Group stage,Wed,Home,W,2,0,de Gladbach,2.8,1.0,63,,Sergio Ramos,4-3-3,4-2-3-1,Björn Kuipers,Match Report,,2020-2021,Real Madrid
+2020-12-12,21:00,La Liga,Matchweek 13,Sat,Home,W,2,0,Atlético Madrid,0.9,0.7,56,,Sergio Ramos,4-3-3,3-5-2,Antonio Matéu Lahoz,Match Report,,2020-2021,Real Madrid
+2020-12-15,22:00,La Liga,Matchweek 19,Tue,Home,W,3,1,Athletic Club,2.2,0.8,68,,Sergio Ramos,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,2020-2021,Real Madrid
+2020-12-20,21:00,La Liga,Matchweek 14,Sun,Away,W,3,1,Eibar,2.2,0.7,66,,Sergio Ramos,4-3-3,4-4-2,José Luis Munuera,Match Report,,2020-2021,Real Madrid
+2020-12-23,19:45,La Liga,Matchweek 15,Wed,Home,W,2,0,Granada,1.8,0.8,66,,Sergio Ramos,4-3-3,4-1-4-1,Juan Martínez,Match Report,,2020-2021,Real Madrid
+2020-12-30,21:30,La Liga,Matchweek 16,Wed,Away,D,1,1,Elche,1.4,1.0,67,,Sergio Ramos,4-3-3,4-1-4-1,Jorge Figueroa,Match Report,,2020-2021,Real Madrid
+2021-01-02,21:00,La Liga,Matchweek 17,Sat,Home,W,2,0,Celta Vigo,1.0,0.7,41,,Karim Benzema,4-3-3,4-1-3-2,Ricardo de Burgos,Match Report,,2020-2021,Real Madrid
+2021-01-09,21:00,La Liga,Matchweek 18,Sat,Away,D,0,0,Osasuna,0.4,0.6,69,,Sergio Ramos,4-3-3,4-1-4-1,César Soto,Match Report,,2020-2021,Real Madrid
+2021-01-14,21:00,Supercopa de España,Semi-finals,Thu,Home,L,1,2,Athletic Club,,,70,,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,2020-2021,Real Madrid
+2021-01-20,21:00,Copa del Rey,Round of 32,Wed,Away,L,1,2,Alcoyano,,,73,,Marcelo,4-3-3,4-4-2,José Sánchez,Match Report,Required Extra Time,2020-2021,Real Madrid
+2021-01-23,21:00,La Liga,Matchweek 20,Sat,Away,W,4,1,Alavés,1.4,0.7,60,,Karim Benzema,4-3-3,4-4-2,Alejandro Hernández,Match Report,,2020-2021,Real Madrid
+2021-01-30,16:15,La Liga,Matchweek 21,Sat,Home,L,1,2,Levante,1.3,1.8,47,,Karim Benzema,4-3-3,4-4-2,David Medié,Match Report,,2020-2021,Real Madrid
+2021-02-06,16:15,La Liga,Matchweek 22,Sat,Away,W,2,1,Huesca,3.4,1.0,65,,Karim Benzema,4-3-3,3-5-2,Javier Estrada,Match Report,,2020-2021,Real Madrid
+2021-02-09,21:00,La Liga,Matchweek 1,Tue,Home,W,2,0,Getafe,1.6,0.1,67,,Marcelo,3-4-3,4-4-2,Alberola Rojas,Match Report,,2020-2021,Real Madrid
+2021-02-14,16:15,La Liga,Matchweek 23,Sun,Home,W,2,0,Valencia,0.8,0.1,61,,Karim Benzema,4-3-3,4-4-2,José Sánchez,Match Report,,2020-2021,Real Madrid
+2021-02-20,21:00,La Liga,Matchweek 24,Sat,Away,W,1,0,Valladolid,0.8,1.0,64,,Raphaël Varane,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,2020-2021,Real Madrid
+2021-02-24,21:00,Champions Lg,Round of 16,Wed,Away,W,1,0,it Atalanta,1.5,0.1,68,,Raphaël Varane,4-3-3,3-4-1-2,Tobias Stieler,Match Report,Leg 1 of 2,2020-2021,Real Madrid
+2021-03-01,21:00,La Liga,Matchweek 25,Mon,Home,D,1,1,Real Sociedad,2.2,0.8,59,,Raphaël Varane,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2020-2021,Real Madrid
+2021-03-07,16:15,La Liga,Matchweek 26,Sun,Away,D,1,1,Atlético Madrid,1.6,1.4,61,,Karim Benzema,4-3-3,4-1-4-1,Alejandro Hernández,Match Report,,2020-2021,Real Madrid
+2021-03-13,16:15,La Liga,Matchweek 27,Sat,Home,W,2,1,Elche,1.6,0.5,65,,Sergio Ramos,3-1-4-2,4-4-2,Jorge Figueroa,Match Report,,2020-2021,Real Madrid
+2021-03-16,21:00,Champions Lg,Round of 16,Tue,Home,W,3,1,it Atalanta,2.7,1.3,53,,Sergio Ramos,3-5-2,3-4-3,Danny Makkelie,Match Report,Leg 2 of 2; Real Madrid won,2020-2021,Real Madrid
+2021-03-20,16:15,La Liga,Matchweek 28,Sat,Away,W,3,1,Celta Vigo,2.5,0.6,49,,Karim Benzema,4-1-2-1-2◆,4-1-3-2,Mario Melero,Match Report,,2020-2021,Real Madrid
+2021-04-03,16:15,La Liga,Matchweek 29,Sat,Home,W,2,0,Eibar,1.8,0.4,63,,Marcelo,3-4-3,4-1-4-1,Isidro Díaz de Mera,Match Report,,2020-2021,Real Madrid
+2021-04-06,21:00,Champions Lg,Quarter-finals,Tue,Home,W,3,1,eng Liverpool,2.1,0.7,45,,Karim Benzema,4-3-3,4-3-3,Felix Brych,Match Report,Leg 1 of 2,2020-2021,Real Madrid
+2021-04-10,21:00,La Liga,Matchweek 30,Sat,Home,W,2,1,Barcelona,1.5,1.3,31,,Karim Benzema,4-1-4-1,3-4-3,Jesús Gil,Match Report,,2020-2021,Real Madrid
+2021-04-14,20:00,Champions Lg,Quarter-finals,Wed,Away,D,0,0,eng Liverpool,0.8,1.2,44,,Karim Benzema,4-3-3,4-3-3,Björn Kuipers,Match Report,Leg 2 of 2; Real Madrid won,2020-2021,Real Madrid
+2021-04-18,21:00,La Liga,Matchweek 33,Sun,Away,D,0,0,Getafe,0.5,1.8,58,,Marcelo,4-2-3-1,4-4-2,José Sánchez,Match Report,,2020-2021,Real Madrid
+2021-04-21,22:00,La Liga,Matchweek 31,Wed,Away,W,3,0,Cádiz,3.2,1.0,61,,Marcelo,3-4-3,4-4-2,Antonio Matéu Lahoz,Match Report,,2020-2021,Real Madrid
+2021-04-24,21:00,La Liga,Matchweek 32,Sat,Home,D,0,0,Betis,1.0,0.9,57,,Karim Benzema,4-3-3,4-2-3-1,Javier Estrada,Match Report,,2020-2021,Real Madrid
+2021-04-27,21:00,Champions Lg,Semi-finals,Tue,Home,D,1,1,eng Chelsea,0.7,1.7,51,,Marcelo,3-5-2,3-5-2,Danny Makkelie,Match Report,Leg 1 of 2,2020-2021,Real Madrid
+2021-05-01,21:00,La Liga,Matchweek 34,Sat,Home,W,2,0,Osasuna,1.7,0.1,65,,Marcelo,4-2-3-1,4-1-4-1,Guillermo Cuadra,Match Report,,2020-2021,Real Madrid
+2021-05-05,20:00,Champions Lg,Semi-finals,Wed,Away,L,0,2,eng Chelsea,0.5,4.0,67,,Sergio Ramos,3-5-2,3-1-4-2,Daniele Orsato,Match Report,Leg 2 of 2; Chelsea won,2020-2021,Real Madrid
+2021-05-09,21:00,La Liga,Matchweek 35,Sun,Home,D,2,2,Sevilla,0.9,1.2,58,,Marcelo,4-3-3,4-3-3,Juan Martínez,Match Report,,2020-2021,Real Madrid
+2021-05-13,22:00,La Liga,Matchweek 36,Thu,Away,W,4,1,Granada,1.3,1.9,64,,Karim Benzema,4-3-3,4-2-3-1,Jesús Gil,Match Report,,2020-2021,Real Madrid
+2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,W,1,0,Athletic Club,1.0,0.7,64,,Karim Benzema,4-3-3,4-4-2,Antonio Matéu Lahoz,Match Report,,2020-2021,Real Madrid
+2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,W,2,1,Villarreal,1.2,0.6,56,,Karim Benzema,4-3-3,4-4-2,José Luis Munuera,Match Report,,2020-2021,Real Madrid

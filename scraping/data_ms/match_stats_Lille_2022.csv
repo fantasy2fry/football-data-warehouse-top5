@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,4,1,Auxerre,2.4,0.6,59,32292,José Fonte,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Lille
+2022-08-12,21:00,Ligue 1,Matchweek 2,Fri,Away,D,1,1,Nantes,2.0,1.0,69,30689,José Fonte,4-2-3-1,3-5-2,Bastien Dechepy,Match Report,,2022-2023,Lille
+2022-08-21,20:45,Ligue 1,Matchweek 3,Sun,Home,L,1,7,Paris S-G,1.7,3.4,48,47526,José Fonte,4-2-3-1,3-4-3,Clément Turpin,Match Report,,2022-2023,Lille
+2022-08-26,21:00,Ligue 1,Matchweek 4,Fri,Away,W,3,1,Ajaccio,1.7,1.5,58,9070,José Fonte,4-2-3-1,4-4-2,Thomas Léonard,Match Report,,2022-2023,Lille
+2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,L,1,2,Nice,0.9,1.6,62,30254,José Fonte,4-2-3-1,3-5-2,Jeremy Stinat,Match Report,,2022-2023,Lille
+2022-09-04,13:00,Ligue 1,Matchweek 6,Sun,Away,W,3,1,Montpellier,1.6,0.5,75,12215,José Fonte,4-2-3-1,4-3-2-1,Jérôme Brisard,Match Report,,2022-2023,Lille
+2022-09-10,21:00,Ligue 1,Matchweek 7,Sat,Away,L,1,2,Marseille,1.0,2.2,47,62985,José Fonte,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Lille
+2022-09-17,21:00,Ligue 1,Matchweek 8,Sat,Home,W,2,1,Toulouse,1.0,0.8,45,33635,José Fonte,4-2-3-1,5-4-1,Pierre Gaillouste,Match Report,,2022-2023,Lille
+2022-10-02,13:00,Ligue 1,Matchweek 9,Sun,Away,L,1,2,Lorient,2.2,0.6,63,14916,José Fonte,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lille
+2022-10-09,20:45,Ligue 1,Matchweek 10,Sun,Home,W,1,0,Lens,2.6,1.2,45,48527,José Fonte,4-2-3-1,3-4-3,François Letexier,Match Report,,2022-2023,Lille
+2022-10-14,21:00,Ligue 1,Matchweek 11,Fri,Away,W,3,0,Strasbourg,2.3,0.6,57,25313,José Fonte,4-2-3-1,3-5-2,Jérémie Pignard,Match Report,,2022-2023,Lille
+2022-10-23,20:45,Ligue 1,Matchweek 12,Sun,Home,W,4,3,Monaco,2.5,1.1,59,35362,Jonathan Bamba,4-2-3-1,4-4-2,Willy Delajod,Match Report,,2022-2023,Lille
+2022-10-30,20:45,Ligue 1,Matchweek 13,Sun,Away,L,0,1,Lyon,1.5,1.6,55,55790,José Fonte,4-2-3-1,3-5-2,Jérôme Brisard,Match Report,,2022-2023,Lille
+2022-11-06,17:05,Ligue 1,Matchweek 14,Sun,Home,D,1,1,Rennes,2.4,0.9,62,35539,José Fonte,4-2-3-1,4-3-3,Johan Hamel,Match Report,,2022-2023,Lille
+2022-11-13,15:00,Ligue 1,Matchweek 15,Sun,Home,W,1,0,Angers,0.6,0.6,58,36360,José Fonte,4-2-3-1,5-3-2,Miguel Nogueira,Match Report,,2022-2023,Lille
+2022-12-28,19:00,Ligue 1,Matchweek 16,Wed,Away,W,2,0,Clermont Foot,1.6,0.7,57,13122,José Fonte,3-4-3,3-4-3,François Letexier,Match Report,,2022-2023,Lille
+2023-01-02,17:00,Ligue 1,Matchweek 17,Mon,Home,D,1,1,Reims,2.3,0.8,61,31086,José Fonte,3-4-3,4-2-3-1,Eric Wattellier,Match Report,,2022-2023,Lille
+2023-01-08,20:45,Coupe de France,Round of 64,Sun,Home,W,2,0,Troyes,,,71,13185,Benjamin André,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2022-2023,Lille
+2023-01-11,19:00,Ligue 1,Matchweek 18,Wed,Away,D,0,0,Brest,0.7,0.3,71,11452,Benjamin André,4-2-3-1,4-3-3,Mathieu Vernice,Match Report,,2022-2023,Lille
+2023-01-15,13:00,Ligue 1,Matchweek 19,Sun,Home,W,5,1,Troyes,3.8,0.9,67,31254,Benjamin André,4-4-2,4-2-3-1,Pierre Gaillouste,Match Report,,2022-2023,Lille
+2023-01-22,18:30,Coupe de France,Round of 32,Sun,Home,W,2,0,Pau FC,,,72,12451,José Fonte,4-4-2,5-4-1,Thomas Léonard,Match Report,,2022-2023,Lille
+2023-01-29,13:00,Ligue 1,Matchweek 20,Sun,Away,L,0,1,Nice,1.6,1.6,56,22126,José Fonte,4-2-3-1,4-3-3,Eric Wattellier,Match Report,,2022-2023,Lille
+2023-02-01,19:00,Ligue 1,Matchweek 21,Wed,Home,D,0,0,Clermont Foot,1.3,1.4,66,32498,José Fonte,4-2-3-1,3-4-3,Jeremy Stinat,Match Report,,2022-2023,Lille
+2023-02-04,21:00,Ligue 1,Matchweek 22,Sat,Away,W,3,1,Rennes,2.2,1.8,61,28082,Benjamin André,4-2-3-1,4-4-2,Florent Batta,Match Report,,2022-2023,Lille
+2023-02-08,18:15,Coupe de France,Round of 16,Wed,Away,D,2 (2),2 (4),Lyon,,,62,24779,Benjamin André,4-2-3-1,4-3-1-2,Benoît Millot,Match Report,Lyon won on penalty kicks following normal time,2022-2023,Lille
+2023-02-12,15:00,Ligue 1,Matchweek 23,Sun,Home,W,2,0,Strasbourg,2.7,0.3,67,30812,José Fonte,4-2-3-1,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lille
+2023-02-19,13:00,Ligue 1,Matchweek 24,Sun,Away,L,3,4,Paris S-G,2.4,2.0,54,46000,José Fonte,4-2-3-1,4-3-1-2,Willy Delajod,Match Report,,2022-2023,Lille
+2023-02-24,21:00,Ligue 1,Matchweek 25,Fri,Home,W,2,1,Brest,1.0,0.2,69,30257,Benjamin André,4-2-3-1,4-1-4-1,Pierre Gaillouste,Match Report,,2022-2023,Lille
+2023-03-04,17:00,Ligue 1,Matchweek 26,Sat,Away,D,1,1,Lens,1.6,0.9,62,37974,José Fonte,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2022-2023,Lille
+2023-03-10,21:00,Ligue 1,Matchweek 27,Fri,Home,D,3,3,Lyon,2.3,0.8,55,40314,Benjamin André,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2022-2023,Lille
+2023-03-18,17:00,Ligue 1,Matchweek 28,Sat,Away,W,2,0,Toulouse,1.4,2.3,53,23006,José Fonte,4-2-3-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lille
+2023-04-02,13:00,Ligue 1,Matchweek 29,Sun,Home,W,3,1,Lorient,2.0,0.2,60,32862,José Fonte,4-2-3-1,4-1-4-1,Jérémie Pignard,Match Report,,2022-2023,Lille
+2023-04-08,17:00,Ligue 1,Matchweek 30,Sat,Away,L,0,1,Angers,1.4,1.0,66,7469,José Fonte,4-2-3-1,5-3-2,Mathieu Vernice,Match Report,,2022-2023,Lille
+2023-04-16,13:00,Ligue 1,Matchweek 31,Sun,Home,W,2,1,Montpellier,2.1,0.4,68,34200,José Fonte,4-2-3-1,4-2-3-1,Jérôme Brisard,Match Report,,2022-2023,Lille
+2023-04-22,17:00,Ligue 1,Matchweek 32,Sat,Away,D,1,1,Auxerre,2.2,1.5,69,16779,José Fonte,4-2-3-1,3-4-3,Stéphanie Frappart,Match Report,,2022-2023,Lille
+2023-04-29,17:00,Ligue 1,Matchweek 33,Sat,Home,W,3,0,Ajaccio,1.6,0.5,75,35490,Jonathan Bamba,4-2-3-1,4-4-2,François Letexier,Match Report,,2022-2023,Lille
+2023-05-06,19:00,Ligue 1,Matchweek 34,Sat,Away,L,0,1,Reims,1.7,2.0,63,17911,José Fonte,4-2-3-1,4-3-1-2,Thomas Léonard,Match Report,,2022-2023,Lille
+2023-05-14,17:05,Ligue 1,Matchweek 35,Sun,Away,D,0,0,Monaco,0.9,0.7,58,6805,José Fonte,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2022-2023,Lille
+2023-05-20,21:00,Ligue 1,Matchweek 36,Sat,Home,W,2,1,Marseille,1.7,0.7,47,47399,Benjamin André,4-1-2-1-2◆,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Lille
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Home,W,2,1,Nantes,2.1,1.0,65,41136,José Fonte,4-2-3-1,4-3-3,Eric Wattellier,Match Report,,2022-2023,Lille
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Away,D,1,1,Troyes,1.4,0.4,66,11006,José Fonte,4-1-4-1,3-4-3,Jeremy Stinat,Match Report,,2022-2023,Lille

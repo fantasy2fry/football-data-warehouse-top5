@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2021-08-07,15:30,DFB-Pokal,Round of 64,Sat,Away,W,6,0,Berliner FC Dynamo,,,65,3500.0,Borna Sosa,3-4-3,4-3-3,Eric Müller,Match Report,,2021-2022,Stuttgart
+2021-08-14,15:30,Bundesliga,Matchweek 1,Sat,Home,W,5,1,Greuther Fürth,3.0,1.2,67,18109.0,Wataru Endo,3-4-3,3-5-2,Felix Zwayer,Match Report,,2021-2022,Stuttgart
+2021-08-20,20:30,Bundesliga,Matchweek 2,Fri,Away,L,0,4,RB Leipzig,1.1,3.6,48,23100.0,Wataru Endo,3-4-3,4-2-3-1,Florian Badstübner,Match Report,,2021-2022,Stuttgart
+2021-08-28,15:30,Bundesliga,Matchweek 3,Sat,Home,L,2,3,Freiburg,1.8,1.3,64,25000.0,Wataru Endo,3-4-3,4-4-2,Frank Willenborg,Match Report,,2021-2022,Stuttgart
+2021-09-12,15:30,Bundesliga,Matchweek 4,Sun,Away,D,1,1,Eint Frankfurt,0.9,1.1,42,25000.0,Wataru Endo,3-4-3,4-2-3-1,Matthias Jöllenbeck,Match Report,,2021-2022,Stuttgart
+2021-09-19,15:30,Bundesliga,Matchweek 5,Sun,Home,L,1,3,Leverkusen,1.6,1.4,64,23450.0,Wataru Endo,3-4-1-2,4-2-3-1,Benjamin Cortus,Match Report,,2021-2022,Stuttgart
+2021-09-26,15:30,Bundesliga,Matchweek 6,Sun,Away,D,0,0,Bochum,0.3,0.8,56,15300.0,Wataru Endo,4-1-4-1,4-2-3-1,Christian Dingert,Match Report,,2021-2022,Stuttgart
+2021-10-02,15:30,Bundesliga,Matchweek 7,Sat,Home,W,3,1,Hoffenheim,0.8,1.0,41,24211.0,Wataru Endo,3-1-4-2,4-3-3,Harm Osmers,Match Report,,2021-2022,Stuttgart
+2021-10-16,18:30,Bundesliga,Matchweek 8,Sat,Away,D,1,1,Gladbach,0.3,2.6,41,41608.0,Wataru Endo,3-1-4-2,3-4-3,Felix Brych,Match Report,,2021-2022,Stuttgart
+2021-10-24,17:30,Bundesliga,Matchweek 9,Sun,Home,D,1,1,Union Berlin,0.5,1.0,56,32595.0,Wataru Endo,3-1-4-2,3-5-2,Florian Badstübner,Match Report,,2021-2022,Stuttgart
+2021-10-27,20:45,DFB-Pokal,Round of 32,Wed,Home,L,0,2,Köln,,,53,26375.0,Fabian Bredlow,3-1-4-2,4-2-3-1,Deniz Aytekin,Match Report,,2021-2022,Stuttgart
+2021-10-31,15:30,Bundesliga,Matchweek 10,Sun,Away,L,1,4,Augsburg,0.9,2.1,67,17500.0,Wataru Endo,3-1-4-2,4-4-2,Patrick Ittrich,Match Report,,2021-2022,Stuttgart
+2021-11-06,15:30,Bundesliga,Matchweek 11,Sat,Home,L,0,1,Arminia,0.9,1.7,66,33550.0,Wataru Endo,3-4-1-2,4-2-3-1,Christian Dingert,Match Report,,2021-2022,Stuttgart
+2021-11-20,15:30,Bundesliga,Matchweek 12,Sat,Away,L,1,2,Dortmund,1.6,2.2,36,57900.0,Wataru Endo,3-1-4-2,4-2-3-1,Harm Osmers,Match Report,,2021-2022,Stuttgart
+2021-11-26,20:30,Bundesliga,Matchweek 13,Fri,Home,W,2,1,Mainz 05,0.3,0.8,45,25000.0,Wataru Endo,3-4-3,3-5-2,Matthias Jöllenbeck,Match Report,,2021-2022,Stuttgart
+2021-12-05,15:30,Bundesliga,Matchweek 14,Sun,Home,D,2,2,Hertha BSC,1.4,1.3,54,395.0,Wataru Endo,3-5-2,4-4-2,Benjamin Brand,Match Report,,2021-2022,Stuttgart
+2021-12-11,18:30,Bundesliga,Matchweek 15,Sat,Away,W,2,0,Wolfsburg,1.2,1.5,47,5000.0,Wataru Endo,3-4-3,4-2-3-1,Sascha Stegemann,Match Report,,2021-2022,Stuttgart
+2021-12-14,18:30,Bundesliga,Matchweek 16,Tue,Home,L,0,5,Bayern Munich,1.2,3.5,44,750.0,Wataru Endo,3-1-4-2,4-2-3-1,Robert Schröder,Match Report,,2021-2022,Stuttgart
+2021-12-19,17:30,Bundesliga,Matchweek 17,Sun,Away,L,0,1,Köln,0.4,2.0,49,15000.0,Wataru Endo,3-4-3,4-1-3-2,Bastian Dankert,Match Report,,2021-2022,Stuttgart
+2022-01-08,15:30,Bundesliga,Matchweek 18,Sat,Away,D,0,0,Greuther Fürth,1.9,0.9,61,,Wataru Endo,3-4-3,4-1-2-1-2,Felix Brych,Match Report,,2021-2022,Stuttgart
+2022-01-15,15:30,Bundesliga,Matchweek 19,Sat,Home,L,0,2,RB Leipzig,1.0,1.5,51,500.0,Wataru Endo,3-4-3,3-4-3,Daniel Schlager,Match Report,,2021-2022,Stuttgart
+2022-01-22,15:30,Bundesliga,Matchweek 20,Sat,Away,L,0,2,Freiburg,0.3,1.6,50,500.0,Wataru Endo,3-4-3,4-4-1-1,Tobias Stieler,Match Report,,2021-2022,Stuttgart
+2022-02-05,15:30,Bundesliga,Matchweek 21,Sat,Home,L,2,3,Eint Frankfurt,1.5,1.1,52,10000.0,Wataru Endo,4-4-2,3-5-2,Sascha Stegemann,Match Report,,2021-2022,Stuttgart
+2022-02-12,18:30,Bundesliga,Matchweek 22,Sat,Away,L,2,4,Leverkusen,1.0,1.9,31,10000.0,Wataru Endo,4-5-1,4-2-3-1,Felix Brych,Match Report,,2021-2022,Stuttgart
+2022-02-19,15:30,Bundesliga,Matchweek 23,Sat,Home,D,1,1,Bochum,1.2,2.0,55,20059.0,Wataru Endo,4-3-3,4-3-3,Harm Osmers,Match Report,,2021-2022,Stuttgart
+2022-02-25,20:30,Bundesliga,Matchweek 24,Fri,Away,L,1,2,Hoffenheim,1.7,2.6,45,18099.0,Wataru Endo,4-5-1,3-4-3,Matthias Jöllenbeck,Match Report,,2021-2022,Stuttgart
+2022-03-05,18:30,Bundesliga,Matchweek 25,Sat,Home,W,3,2,Gladbach,2.4,0.9,57,25000.0,Wataru Endo,4-3-3,4-3-3,Christian Dingert,Match Report,,2021-2022,Stuttgart
+2022-03-12,15:30,Bundesliga,Matchweek 26,Sat,Away,D,1,1,Union Berlin,1.0,1.5,56,16509.0,Wataru Endo,4-3-3,3-5-2,Robert Hartmann,Match Report,,2021-2022,Stuttgart
+2022-03-19,15:30,Bundesliga,Matchweek 27,Sat,Home,W,3,2,Augsburg,2.2,1.0,64,55785.0,Wataru Endo,4-3-3,3-4-3,Patrick Ittrich,Match Report,,2021-2022,Stuttgart
+2022-04-02,15:30,Bundesliga,Matchweek 28,Sat,Away,D,1,1,Arminia,2.2,1.0,47,26011.0,Hiroki Ito,4-3-3,4-2-3-1,Patrick Ittrich,Match Report,,2021-2022,Stuttgart
+2022-04-08,20:30,Bundesliga,Matchweek 29,Fri,Home,L,0,2,Dortmund,1.7,1.9,42,58248.0,Wataru Endo,4-3-3,4-2-3-1,Harm Osmers,Match Report,,2021-2022,Stuttgart
+2022-04-16,15:30,Bundesliga,Matchweek 30,Sat,Away,D,0,0,Mainz 05,0.7,0.6,53,30128.0,Waldemar Anton,4-3-3,5-3-2,Florian Badstübner,Match Report,,2021-2022,Stuttgart
+2022-04-24,17:30,Bundesliga,Matchweek 31,Sun,Away,L,0,2,Hertha BSC,0.6,1.4,58,54589.0,Wataru Endo,4-3-3,4-2-3-1,Felix Brych,Match Report,,2021-2022,Stuttgart
+2022-04-30,15:30,Bundesliga,Matchweek 32,Sat,Home,D,1,1,Wolfsburg,0.8,1.4,57,55000.0,Wataru Endo,3-4-3,4-3-3,Sven Jablonski,Match Report,,2021-2022,Stuttgart
+2022-05-08,17:30,Bundesliga,Matchweek 33,Sun,Away,D,2,2,Bayern Munich,1.5,2.6,25,75000.0,Wataru Endo,3-4-3,4-2-3-1,Deniz Aytekin,Match Report,,2021-2022,Stuttgart
+2022-05-14,15:30,Bundesliga,Matchweek 34,Sat,Home,W,2,1,Köln,3.9,1.2,34,52230.0,Wataru Endo,4-3-3,4-2-3-1,Robert Schröder,Match Report,,2021-2022,Stuttgart

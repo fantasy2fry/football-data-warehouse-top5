@@ -1,0 +1,47 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2019-08-10,17:30,Premier League,Matchweek 1,Sat,Away,L,1,3,Tottenham,0.7,2.4,30,60407.0,Jack Grealish,4-1-4-1,4-3-1-2,Chris Kavanagh,Match Report,,2019-2020,Aston Villa
+2019-08-17,15:00,Premier League,Matchweek 2,Sat,Home,L,1,2,Bournemouth,2.0,1.6,63,40996.0,Jack Grealish,4-3-3,4-4-1-1,Martin Atkinson,Match Report,,2019-2020,Aston Villa
+2019-08-23,20:00,Premier League,Matchweek 3,Fri,Home,W,2,0,Everton,1.0,1.3,36,41922.0,Jack Grealish,4-1-4-1,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Aston Villa
+2019-08-27,19:45,EFL Cup,Second round,Tue,Away,W,6,1,Crewe Alexandra,,,67,7173.0,Ahmed Elmohamady,4-3-3,4-3-3,Jarred Gillett,Match Report,,2019-2020,Aston Villa
+2019-08-31,15:00,Premier League,Matchweek 4,Sat,Away,L,0,1,Crystal Palace,0.4,1.4,48,25248.0,Jack Grealish,4-3-3,4-3-3,Kevin Friend,Match Report,,2019-2020,Aston Villa
+2019-09-16,20:00,Premier League,Matchweek 5,Mon,Home,D,0,0,West Ham,1.3,0.6,46,42010.0,Jack Grealish,4-3-3,4-1-4-1,Mike Dean,Match Report,,2019-2020,Aston Villa
+2019-09-22,16:30,Premier League,Matchweek 6,Sun,Away,L,2,3,Arsenal,1.5,2.4,42,60331.0,Jack Grealish,4-3-3,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Aston Villa
+2019-09-25,19:45,EFL Cup,Third round,Wed,Away,W,3,1,Brighton,,,70,14982.0,Ahmed Elmohamady,4-3-3,3-4-3,Graham Scott,Match Report,,2019-2020,Aston Villa
+2019-09-28,15:00,Premier League,Matchweek 7,Sat,Home,D,2,2,Burnley,1.0,1.5,60,41546.0,Jack Grealish,4-3-3,4-4-2,Lee Mason,Match Report,,2019-2020,Aston Villa
+2019-10-05,15:00,Premier League,Matchweek 8,Sat,Away,W,5,1,Norwich City,3.0,2.6,43,27045.0,Jack Grealish,4-3-3,4-2-3-1,Andy Madley,Match Report,,2019-2020,Aston Villa
+2019-10-19,15:00,Premier League,Matchweek 9,Sat,Home,W,2,1,Brighton,3.0,1.2,49,41826.0,Jack Grealish,4-3-3,4-4-2,David Coote,Match Report,,2019-2020,Aston Villa
+2019-10-26,12:30,Premier League,Matchweek 10,Sat,Away,L,0,3,Manchester City,1.0,2.9,37,54506.0,Jack Grealish,4-1-4-1,4-3-3,Graham Scott,Match Report,,2019-2020,Aston Villa
+2019-10-30,19:45,EFL Cup,Fourth round,Wed,Home,W,2,1,Wolves,,,71,34962.0,Ahmed Elmohamady,4-3-3,3-4-3,Lee Mason,Match Report,,2019-2020,Aston Villa
+2019-11-02,15:00,Premier League,Matchweek 11,Sat,Home,L,1,2,Liverpool,0.4,2.4,27,41878.0,Tyrone Mings,4-3-3,4-3-3,Jonathan Moss,Match Report,,2019-2020,Aston Villa
+2019-11-10,14:00,Premier League,Matchweek 12,Sun,Away,L,1,2,Wolves,0.6,2.4,50,31607.0,Tyrone Mings,4-3-3,3-4-3,Anthony Taylor,Match Report,,2019-2020,Aston Villa
+2019-11-25,20:00,Premier League,Matchweek 13,Mon,Home,W,2,0,Newcastle Utd,2.3,0.6,61,41821.0,Jack Grealish,4-3-3,5-4-1,Lee Mason,Match Report,,2019-2020,Aston Villa
+2019-12-01,16:30,Premier League,Matchweek 14,Sun,Away,D,2,2,Manchester Utd,1.2,1.7,38,73381.0,Jack Grealish,4-3-3,4-2-3-1,Craig Pawson,Match Report,,2019-2020,Aston Villa
+2019-12-04,19:30,Premier League,Matchweek 15,Wed,Away,L,1,2,Chelsea,1.0,1.8,36,40628.0,Jack Grealish,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,2019-2020,Aston Villa
+2019-12-08,14:00,Premier League,Matchweek 16,Sun,Home,L,1,4,Leicester City,1.2,4.6,41,41908.0,Jack Grealish,4-1-4-1,4-1-2-1-2,Michael Oliver,Match Report,,2019-2020,Aston Villa
+2019-12-14,15:00,Premier League,Matchweek 17,Sat,Away,L,0,2,Sheffield Utd,1.1,1.7,44,30396.0,Jack Grealish,4-3-3,3-5-2,Peter Bankes,Match Report,,2019-2020,Aston Villa
+2019-12-17,19:45,EFL Cup,Quarter-finals,Tue,Home,W,5,0,Liverpool,,,43,30323.0,James Chester,4-3-3,4-3-3,Lee Mason,Match Report,,2019-2020,Aston Villa
+2019-12-21,15:00,Premier League,Matchweek 18,Sat,Home,L,1,3,Southampton,1.1,2.8,56,41834.0,Jack Grealish,4-3-3,4-4-2,Craig Pawson,Match Report,,2019-2020,Aston Villa
+2019-12-26,15:00,Premier League,Matchweek 19,Thu,Home,W,1,0,Norwich City,0.6,1.2,43,41289.0,Jack Grealish,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,2019-2020,Aston Villa
+2019-12-28,15:00,Premier League,Matchweek 20,Sat,Away,L,0,3,Watford,0.6,2.8,51,21348.0,Jack Grealish,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,2019-2020,Aston Villa
+2020-01-01,12:30,Premier League,Matchweek 21,Wed,Away,W,2,1,Burnley,1.3,2.2,38,19561.0,Jack Grealish,3-4-3,4-4-2,Michael Oliver,Match Report,,2019-2020,Aston Villa
+2020-01-04,15:01,FA Cup,Third round,Sat,Away,L,1,2,Fulham,,,43,12980.0,James Chester,4-3-3,4-3-3,Craig Pawson,Match Report,,2019-2020,Aston Villa
+2020-01-08,20:00,EFL Cup,Semi-finals,Wed,Away,D,1,1,Leicester City,,,30,31280.0,Jack Grealish,3-4-3,3-5-2,Chris Kavanagh,Match Report,Leg 1 of 2,2019-2020,Aston Villa
+2020-01-12,16:30,Premier League,Matchweek 22,Sun,Home,L,1,6,Manchester City,1.1,2.8,30,41823.0,Jack Grealish,5-3-2,4-3-3,Jonathan Moss,Match Report,,2019-2020,Aston Villa
+2020-01-18,15:00,Premier League,Matchweek 23,Sat,Away,D,1,1,Brighton,0.6,1.1,45,30551.0,Jack Grealish,3-4-3,4-4-2,Andy Madley,Match Report,,2019-2020,Aston Villa
+2020-01-21,19:30,Premier League,Matchweek 24,Tue,Home,W,2,1,Watford,1.3,1.8,64,40867.0,Jack Grealish,3-4-3,4-2-3-1,Martin Atkinson,Match Report,,2019-2020,Aston Villa
+2020-01-28,19:45,EFL Cup,Semi-finals,Tue,Home,W,2,1,Leicester City,,,38,39300.0,Jack Grealish,3-4-3,3-4-3,Mike Dean,Match Report,Leg 2 of 2; Aston Villa won,2019-2020,Aston Villa
+2020-02-01,15:00,Premier League,Matchweek 25,Sat,Away,L,1,2,Bournemouth,1.7,2.2,60,10722.0,Jack Grealish,3-4-3,4-3-3,Anthony Taylor,Match Report,,2019-2020,Aston Villa
+2020-02-16,14:00,Premier League,Matchweek 26,Sun,Home,L,2,3,Tottenham,1.8,3.4,55,41874.0,Jack Grealish,3-4-3,4-2-3-1,Martin Atkinson,Match Report,,2019-2020,Aston Villa
+2020-02-22,15:00,Premier League,Matchweek 27,Sat,Away,L,0,2,Southampton,0.5,2.6,54,31478.0,Jack Grealish,3-4-3,4-4-2,Craig Pawson,Match Report,,2019-2020,Aston Villa
+2020-03-01,16:30,EFL Cup,Final,Sun,Neutral,L,1,2,Manchester City,,,30,82145.0,Jack Grealish,4-2-3-1,4-2-3-1,Lee Mason,Match Report,,2019-2020,Aston Villa
+2020-03-09,20:00,Premier League,Matchweek 29,Mon,Away,L,0,4,Leicester City,0.5,2.1,36,32125.0,Jack Grealish,4-1-4-1,4-1-4-1,Michael Oliver,Match Report,,2019-2020,Aston Villa
+2020-06-17,18:00,Premier League,Matchweek 28,Wed,Home,D,0,0,Sheffield Utd,1.4,0.3,46,,Jack Grealish,4-3-3,3-5-2,Michael Oliver,Match Report,,2019-2020,Aston Villa
+2020-06-21,16:15,Premier League,Matchweek 30,Sun,Home,L,1,2,Chelsea,1.0,1.1,27,,Jack Grealish,4-3-3,4-3-3,Paul Tierney,Match Report,,2019-2020,Aston Villa
+2020-06-24,18:00,Premier League,Matchweek 31,Wed,Away,D,1,1,Newcastle Utd,1.6,0.9,48,,Jack Grealish,4-3-3,4-4-1-1,Chris Kavanagh,Match Report,,2019-2020,Aston Villa
+2020-06-27,12:30,Premier League,Matchweek 32,Sat,Home,L,0,1,Wolves,0.6,0.7,48,,Jack Grealish,4-1-2-1-2◆,3-5-2,Craig Pawson,Match Report,,2019-2020,Aston Villa
+2020-07-05,16:30,Premier League,Matchweek 33,Sun,Away,L,0,2,Liverpool,0.7,0.7,30,,Jack Grealish,4-4-1-1,4-3-3,Paul Tierney,Match Report,,2019-2020,Aston Villa
+2020-07-09,20:15,Premier League,Matchweek 34,Thu,Home,L,0,3,Manchester Utd,0.5,2.3,34,,Jack Grealish,4-4-1-1,4-2-3-1,Jonathan Moss,Match Report,,2019-2020,Aston Villa
+2020-07-12,14:15,Premier League,Matchweek 35,Sun,Home,W,2,0,Crystal Palace,1.7,1.2,45,,Jack Grealish,4-3-3,4-1-4-1,Martin Atkinson,Match Report,,2019-2020,Aston Villa
+2020-07-16,18:00,Premier League,Matchweek 36,Thu,Away,D,1,1,Everton,1.3,0.9,46,,Jack Grealish,4-3-3,4-4-2,Anthony Taylor,Match Report,,2019-2020,Aston Villa
+2020-07-21,20:15,Premier League,Matchweek 37,Tue,Home,W,1,0,Arsenal,0.6,0.6,31,,Jack Grealish,4-3-3,3-4-3,Chris Kavanagh,Match Report,,2019-2020,Aston Villa
+2020-07-26,16:00,Premier League,Matchweek 38,Sun,Away,D,1,1,West Ham,1.0,0.9,38,,Jack Grealish,4-1-4-1,4-2-3-1,Michael Oliver,Match Report,,2019-2020,Aston Villa

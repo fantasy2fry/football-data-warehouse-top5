@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-07,15:00,Ligue 1,Matchweek 1,Sun,Home,W,3,2,Brest,2.5,1.2,61,37015.0,Seko Fofana,3-4-3,4-4-2,Thomas Léonard,Match Report,,2022-2023,Lens
+2022-08-14,15:00,Ligue 1,Matchweek 2,Sun,Away,D,0,0,Ajaccio,1.4,0.5,64,9070.0,Seko Fofana,3-4-1-2,4-4-2,Stéphanie Frappart,Match Report,,2022-2023,Lens
+2022-08-20,17:00,Ligue 1,Matchweek 3,Sat,Away,W,4,1,Monaco,2.5,1.6,54,8700.0,Seko Fofana,3-4-3,4-4-2,Willy Delajod,Match Report,,2022-2023,Lens
+2022-08-27,21:00,Ligue 1,Matchweek 4,Sat,Home,W,2,1,Rennes,1.3,1.0,51,37848.0,Seko Fofana,3-4-3,4-3-3,Jérôme Brisard,Match Report,,2022-2023,Lens
+2022-08-31,21:00,Ligue 1,Matchweek 5,Wed,Home,W,5,2,Lorient,3.0,1.1,58,37161.0,Florian Sotoca,3-4-3,4-3-3,Benoît Bastien,Match Report,,2022-2023,Lens
+2022-09-04,15:00,Ligue 1,Matchweek 6,Sun,Away,D,1,1,Reims,1.9,2.1,63,15761.0,Florian Sotoca,3-4-3,3-4-1-2,Eric Wattellier,Match Report,,2022-2023,Lens
+2022-09-09,21:00,Ligue 1,Matchweek 7,Fri,Home,W,1,0,Troyes,1.4,0.7,63,37344.0,Florian Sotoca,3-4-3,5-4-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lens
+2022-09-18,17:05,Ligue 1,Matchweek 8,Sun,Away,D,0,0,Nantes,0.9,0.9,58,28854.0,Seko Fofana,3-4-3,3-4-3,Willy Delajod,Match Report,,2022-2023,Lens
+2022-10-02,20:45,Ligue 1,Matchweek 9,Sun,Home,W,1,0,Lyon,2.9,0.1,52,36674.0,Seko Fofana,3-4-3,4-2-3-1,Benoît Bastien,Match Report,,2022-2023,Lens
+2022-10-09,20:45,Ligue 1,Matchweek 10,Sun,Away,L,0,1,Lille,1.2,2.6,55,48527.0,Seko Fofana,3-4-3,4-2-3-1,François Letexier,Match Report,,2022-2023,Lens
+2022-10-15,21:00,Ligue 1,Matchweek 11,Sat,Home,W,1,0,Montpellier,1.8,0.7,65,37320.0,Seko Fofana,3-4-3,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lens
+2022-10-22,21:00,Ligue 1,Matchweek 12,Sat,Away,W,1,0,Marseille,0.9,1.8,44,56414.0,Seko Fofana,3-5-2,3-4-3,Benoît Millot,Match Report,,2022-2023,Lens
+2022-10-28,21:00,Ligue 1,Matchweek 13,Fri,Home,W,3,0,Toulouse,2.4,0.7,52,37488.0,Seko Fofana,3-4-3,4-3-3,Florent Batta,Match Report,,2022-2023,Lens
+2022-11-05,21:00,Ligue 1,Matchweek 14,Sat,Away,W,2,1,Angers,1.8,0.5,56,11585.0,Seko Fofana,3-4-3,5-3-2,Thomas Léonard,Match Report,,2022-2023,Lens
+2022-11-12,17:00,Ligue 1,Matchweek 15,Sat,Home,W,2,1,Clermont Foot,1.5,0.2,61,37519.0,Seko Fofana,3-4-3,3-4-1-2,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Lens
+2022-12-29,21:00,Ligue 1,Matchweek 16,Thu,Away,D,0,0,Nice,1.0,1.0,59,24672.0,Seko Fofana,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Lens
+2023-01-01,20:45,Ligue 1,Matchweek 17,Sun,Home,W,3,1,Paris S-G,1.8,1.6,41,38047.0,Seko Fofana,3-4-3,4-3-1-2,Jérôme Brisard,Match Report,,2022-2023,Lens
+2023-01-07,15:30,Coupe de France,Round of 64,Sat,Away,W,2,0,Linas-Montl.,,,68,9955.0,Jonathan Gradit,3-4-3,4-3-3,Mikael Lesage,Match Report,,2022-2023,Lens
+2023-01-11,21:00,Ligue 1,Matchweek 18,Wed,Away,D,2,2,Strasbourg,1.9,0.8,65,25624.0,Seko Fofana,3-4-3,5-3-2,François Letexier,Match Report,,2022-2023,Lens
+2023-01-14,17:00,Ligue 1,Matchweek 19,Sat,Home,W,1,0,Auxerre,2.0,0.3,67,38208.0,Seko Fofana,3-4-3,4-5-1,Willy Delajod,Match Report,,2022-2023,Lens
+2023-01-22,21:00,Coupe de France,Round of 32,Sun,Away,W,3,1,Brest,,,53,7012.0,Seko Fofana,3-4-3,4-3-3,Pierre Gaillouste,Match Report,,2022-2023,Lens
+2023-01-28,17:00,Ligue 1,Matchweek 20,Sat,Away,D,1,1,Troyes,2.9,1.2,73,13500.0,Seko Fofana,3-4-3,3-4-3,Clément Turpin,Match Report,,2022-2023,Lens
+2023-02-01,21:00,Ligue 1,Matchweek 21,Wed,Home,L,0,1,Nice,0.6,2.1,55,37437.0,Seko Fofana,3-4-3,5-4-1,Thomas Léonard,Match Report,,2022-2023,Lens
+2023-02-05,17:05,Ligue 1,Matchweek 22,Sun,Away,D,1,1,Brest,2.5,2.0,66,11639.0,Seko Fofana,5-4-1,4-1-4-1,Benoît Bastien,Match Report,,2022-2023,Lens
+2023-02-09,21:00,Coupe de France,Round of 16,Thu,Away,D,1 (4),1 (2),Lorient,,,54,14835.0,Jonathan Gradit,3-4-3,4-4-2,Jérémie Pignard,Match Report,Lens won on penalty kicks following extra time,2022-2023,Lens
+2023-02-12,20:45,Ligue 1,Matchweek 23,Sun,Away,L,1,2,Lyon,1.1,1.4,59,53426.0,Seko Fofana,3-4-3,3-4-1-2,Eric Wattellier,Match Report,,2022-2023,Lens
+2023-02-19,17:05,Ligue 1,Matchweek 24,Sun,Home,W,3,1,Nantes,2.4,0.3,57,37984.0,Seko Fofana,3-4-3,3-4-1-2,Pierre Gaillouste,Match Report,,2022-2023,Lens
+2023-02-25,21:00,Ligue 1,Matchweek 25,Sat,Away,D,1,1,Montpellier,1.9,0.6,61,17074.0,Seko Fofana,3-4-3,3-4-3,Jérôme Brisard,Match Report,,2022-2023,Lens
+2023-03-01,18:15,Coupe de France,Quarter-finals,Wed,Away,L,1,2,Nantes,,,62,,Seko Fofana,3-4-3,4-3-3,Clément Turpin,Match Report,,2022-2023,Lens
+2023-03-04,17:00,Ligue 1,Matchweek 26,Sat,Home,D,1,1,Lille,0.9,1.6,38,37974.0,Seko Fofana,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2022-2023,Lens
+2023-03-12,13:00,Ligue 1,Matchweek 27,Sun,Away,W,4,0,Clermont Foot,2.0,1.2,53,12311.0,Seko Fofana,4-2-3-1,3-4-3,Jeremy Stinat,Match Report,,2022-2023,Lens
+2023-03-18,21:00,Ligue 1,Matchweek 28,Sat,Home,W,3,0,Angers,1.6,0.5,46,37410.0,Seko Fofana,4-1-4-1,5-3-2,Bastien Dechepy,Match Report,,2022-2023,Lens
+2023-04-01,21:00,Ligue 1,Matchweek 29,Sat,Away,W,1,0,Rennes,1.5,1.0,44,28556.0,Seko Fofana,3-4-3,5-4-1,Clément Turpin,Match Report,,2022-2023,Lens
+2023-04-07,21:00,Ligue 1,Matchweek 30,Fri,Home,W,2,1,Strasbourg,1.0,0.8,54,38223.0,Seko Fofana,3-4-3,3-4-3,Pierre Gaillouste,Match Report,,2022-2023,Lens
+2023-04-15,21:00,Ligue 1,Matchweek 31,Sat,Away,L,1,3,Paris S-G,1.8,1.2,38,47120.0,Seko Fofana,3-4-3,3-5-2,Willy Delajod,Match Report,,2022-2023,Lens
+2023-04-22,21:00,Ligue 1,Matchweek 32,Sat,Home,W,3,0,Monaco,2.3,1.6,62,38223.0,Seko Fofana,3-4-3,4-2-3-1,François Letexier,Match Report,,2022-2023,Lens
+2023-05-02,21:00,Ligue 1,Matchweek 33,Tue,Away,W,1,0,Toulouse,1.2,0.6,53,30866.0,Seko Fofana,3-4-3,3-4-3,Bastien Dechepy,Match Report,,2022-2023,Lens
+2023-05-06,21:00,Ligue 1,Matchweek 34,Sat,Home,W,2,1,Marseille,0.7,1.3,43,38220.0,Seko Fofana,3-4-3,3-4-3,Clément Turpin,Match Report,,2022-2023,Lens
+2023-05-12,21:00,Ligue 1,Matchweek 35,Fri,Home,W,2,1,Reims,1.5,1.7,40,37701.0,Seko Fofana,3-4-3,4-1-2-1-2,Jérémie Pignard,Match Report,,2022-2023,Lens
+2023-05-21,17:05,Ligue 1,Matchweek 36,Sun,Away,W,3,1,Lorient,1.9,1.3,53,16724.0,Seko Fofana,3-4-3,3-4-3,Stéphanie Frappart,Match Report,,2022-2023,Lens
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Home,W,3,0,Ajaccio,2.3,0.2,79,37601.0,Seko Fofana,3-4-3,3-4-3,Thomas Léonard,Match Report,,2022-2023,Lens
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Away,W,3,1,Auxerre,2.8,3.3,49,17246.0,Jonathan Gradit,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Lens

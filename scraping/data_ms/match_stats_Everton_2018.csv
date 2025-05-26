@@ -1,0 +1,43 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2018-08-11,17:30,Premier League,Matchweek 1,Sat,Away,D,2,2,Wolves,1.0,1.0,42,31231,Phil Jagielka,4-2-3-1,3-4-3,Craig Pawson,Match Report,,2018-2019,Everton
+2018-08-18,15:00,Premier League,Matchweek 2,Sat,Home,W,2,1,Southampton,1.5,1.7,57,38601,Séamus Coleman,4-2-3-1,4-4-2,Lee Mason,Match Report,,2018-2019,Everton
+2018-08-25,15:00,Premier League,Matchweek 3,Sat,Away,D,2,2,Bournemouth,0.6,2.2,50,10654,Leighton Baines,4-4-1-1,4-4-2,Lee Probert,Match Report,,2018-2019,Everton
+2018-08-29,19:45,EFL Cup,Second round,Wed,Home,W,3,1,Rotherham Utd,,,53,31972,Tom Davies,4-4-2,4-4-1-1,Graham Scott,Match Report,,2018-2019,Everton
+2018-09-01,15:00,Premier League,Matchweek 4,Sat,Home,D,1,1,Huddersfield,0.8,0.4,57,38767,Séamus Coleman,4-2-3-1,5-4-1,Stuart Attwell,Match Report,,2018-2019,Everton
+2018-09-16,16:00,Premier League,Matchweek 5,Sun,Home,L,1,3,West Ham,1.4,1.2,56,39161,Gylfi Sigurðsson,4-2-3-1,4-1-4-1,Martin Atkinson,Match Report,,2018-2019,Everton
+2018-09-23,16:00,Premier League,Matchweek 6,Sun,Away,L,0,2,Arsenal,0.8,0.8,38,59964,Tom Davies,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,2018-2019,Everton
+2018-09-29,15:00,Premier League,Matchweek 7,Sat,Home,W,3,0,Fulham,2.3,0.5,51,38788,Tom Davies,4-2-3-1,4-4-1-1,Roger East,Match Report,,2018-2019,Everton
+2018-10-02,19:45,EFL Cup,Third round,Tue,Home,D,1 (3),1 (4),Southampton,,,52,30545,Leighton Baines,4-2-3-1,3-4-1-2,Chris Kavanagh,Match Report,Everton won on penalty kicks following extra time,2018-2019,Everton
+2018-10-06,15:00,Premier League,Matchweek 8,Sat,Away,W,2,1,Leicester City,1.3,0.9,48,32007,Tom Davies,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2018-2019,Everton
+2018-10-21,16:00,Premier League,Matchweek 9,Sun,Home,W,2,0,Crystal Palace,1.8,1.3,59,38668,Séamus Coleman,4-2-3-1,4-4-2,Anthony Taylor,Match Report,,2018-2019,Everton
+2018-10-28,16:00,Premier League,Matchweek 10,Sun,Away,L,1,2,Manchester Utd,1.8,2.3,46,74525,Séamus Coleman,4-2-3-1,4-3-3,Jonathan Moss,Match Report,,2018-2019,Everton
+2018-11-03,15:00,Premier League,Matchweek 11,Sat,Home,W,3,1,Brighton,2.0,0.5,61,38966,Séamus Coleman,4-2-3-1,4-4-1-1,David Coote,Match Report,,2018-2019,Everton
+2018-11-11,14:15,Premier League,Matchweek 12,Sun,Away,D,0,0,Chelsea,0.3,1.2,32,40345,Séamus Coleman,4-2-3-1,4-3-3,Kevin Friend,Match Report,,2018-2019,Everton
+2018-11-24,15:00,Premier League,Matchweek 13,Sat,Home,W,1,0,Cardiff City,2.1,1.0,70,39139,Séamus Coleman,4-2-3-1,4-1-4-1,Paul Tierney,Match Report,,2018-2019,Everton
+2018-12-02,16:15,Premier League,Matchweek 14,Sun,Away,L,0,1,Liverpool,1.1,2.9,42,51756,Séamus Coleman,4-4-1-1,4-2-3-1,Chris Kavanagh,Match Report,,2018-2019,Everton
+2018-12-05,19:45,Premier League,Matchweek 15,Wed,Home,D,1,1,Newcastle Utd,1.8,1.5,75,39350,Séamus Coleman,4-2-3-1,5-4-1,Lee Mason,Match Report,,2018-2019,Everton
+2018-12-10,20:00,Premier League,Matchweek 16,Mon,Home,D,2,2,Watford,1.7,1.7,56,38400,Séamus Coleman,4-2-3-1,4-2-2-2,Kevin Friend,Match Report,,2018-2019,Everton
+2018-12-15,12:30,Premier League,Matchweek 17,Sat,Away,L,1,3,Manchester City,1.5,1.7,33,54173,Séamus Coleman,5-4-1,4-3-3,Craig Pawson,Match Report,,2018-2019,Everton
+2018-12-23,16:00,Premier League,Matchweek 18,Sun,Home,L,2,6,Tottenham,0.9,2.0,42,39319,Séamus Coleman,4-2-3-1,4-1-2-1-2,Paul Tierney,Match Report,,2018-2019,Everton
+2018-12-26,15:00,Premier League,Matchweek 19,Wed,Away,W,5,1,Burnley,1.5,2.0,51,21484,Séamus Coleman,3-4-3,5-3-2,Michael Oliver,Match Report,,2018-2019,Everton
+2018-12-29,15:00,Premier League,Matchweek 20,Sat,Away,L,0,1,Brighton,0.7,1.1,54,30597,Séamus Coleman,3-4-3,4-5-1,Andy Madley,Match Report,,2018-2019,Everton
+2019-01-01,12:30,Premier League,Matchweek 21,Tue,Home,L,0,1,Leicester City,1.0,0.6,59,39052,Gylfi Sigurðsson,4-2-3-1,4-3-3,Martin Atkinson,Match Report,,2018-2019,Everton
+2019-01-05,15:00,FA Cup,Third round,Sat,Home,W,2,1,Lincoln City,,,75,37900,Leighton Baines,4-2-3-1,4-5-1,John Brooks,Match Report,,2018-2019,Everton
+2019-01-13,14:15,Premier League,Matchweek 22,Sun,Home,W,2,0,Bournemouth,1.0,1.9,51,38113,Séamus Coleman,4-2-3-1,4-4-1-1,Anthony Taylor,Match Report,,2018-2019,Everton
+2019-01-19,15:00,Premier League,Matchweek 23,Sat,Away,L,1,2,Southampton,0.9,0.7,61,29989,Séamus Coleman,4-2-3-1,3-5-2,Graham Scott,Match Report,,2018-2019,Everton
+2019-01-26,17:30,FA Cup,Fourth round,Sat,Away,L,2,3,Millwall,,,64,16354,Séamus Coleman,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,2018-2019,Everton
+2019-01-29,19:45,Premier League,Matchweek 24,Tue,Away,W,1,0,Huddersfield,1.1,0.7,42,23699,Leighton Baines,4-1-4-1,4-3-3,Stuart Attwell,Match Report,,2018-2019,Everton
+2019-02-02,15:00,Premier League,Matchweek 25,Sat,Home,L,1,3,Wolves,1.2,1.4,64,39380,Leighton Baines,4-1-4-1,3-5-2,Lee Mason,Match Report,,2018-2019,Everton
+2019-02-06,19:45,Premier League,Matchweek 27,Wed,Home,L,0,2,Manchester City,0.1,2.2,39,39322,Tom Davies,4-2-3-1,4-3-3,Craig Pawson,Match Report,,2018-2019,Everton
+2019-02-09,15:00,Premier League,Matchweek 26,Sat,Away,L,0,1,Watford,0.7,1.3,56,20333,Tom Davies,4-2-3-1,4-2-2-2,Lee Probert,Match Report,,2018-2019,Everton
+2019-02-26,19:45,Premier League,Matchweek 28,Tue,Away,W,3,0,Cardiff City,1.0,0.3,66,31849,Phil Jagielka,4-2-3-1,4-4-1-1,Kevin Friend,Match Report,,2018-2019,Everton
+2019-03-03,16:15,Premier League,Matchweek 29,Sun,Home,D,0,0,Liverpool,0.3,1.1,43,39335,Séamus Coleman,4-4-1-1,4-3-3,Martin Atkinson,Match Report,,2018-2019,Everton
+2019-03-09,15:00,Premier League,Matchweek 30,Sat,Away,L,2,3,Newcastle Utd,1.1,2.4,55,52242,Gylfi Sigurðsson,4-2-3-1,3-4-3,Lee Mason,Match Report,,2018-2019,Everton
+2019-03-17,16:30,Premier League,Matchweek 31,Sun,Home,W,2,0,Chelsea,2.3,1.4,33,39356,Séamus Coleman,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,2018-2019,Everton
+2019-03-30,17:30,Premier League,Matchweek 32,Sat,Away,W,2,0,West Ham,1.8,0.1,51,59988,Séamus Coleman,4-2-3-1,4-4-2,Paul Tierney,Match Report,,2018-2019,Everton
+2019-04-07,14:05,Premier League,Matchweek 33,Sun,Home,W,1,0,Arsenal,2.4,0.3,43,39400,Phil Jagielka,4-2-3-1,3-4-3,Kevin Friend,Match Report,,2018-2019,Everton
+2019-04-13,15:00,Premier League,Matchweek 34,Sat,Away,L,0,2,Fulham,1.1,1.5,59,24971,Phil Jagielka,4-2-3-1,4-2-3-1,Lee Probert,Match Report,,2018-2019,Everton
+2019-04-21,13:30,Premier League,Matchweek 35,Sun,Home,W,4,0,Manchester Utd,1.6,0.3,48,39395,Séamus Coleman,4-2-3-1,4-3-3,Paul Tierney,Match Report,,2018-2019,Everton
+2019-04-27,15:00,Premier League,Matchweek 36,Sat,Away,D,0,0,Crystal Palace,1.5,0.3,63,25789,Séamus Coleman,4-2-3-1,4-4-2,Lee Mason,Match Report,,2018-2019,Everton
+2019-05-03,20:00,Premier League,Matchweek 37,Fri,Home,W,2,0,Burnley,1.7,0.3,59,39303,Séamus Coleman,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,,2018-2019,Everton
+2019-05-12,15:00,Premier League,Matchweek 38,Sun,Away,D,2,2,Tottenham,2.0,0.6,45,60124,Gylfi Sigurðsson,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,2018-2019,Everton

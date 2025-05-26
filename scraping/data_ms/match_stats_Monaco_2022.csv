@@ -1,0 +1,50 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2022-08-02,20:00,Champions Lg,Third qualifying round,Tue,Home,D,1,1,nl PSV Eindhoven,,,,10802,Wissam Ben Yedder,4-2-3-1,4-3-3,Davide Massa,Match Report,Leg 1 of 2,2022-2023,Monaco
+2022-08-06,17:00,Ligue 1,Matchweek 1,Sat,Away,W,2,1,Strasbourg,2.8,0.8,47.0,25359,Axel Disasi,4-2-3-1,3-4-1-2,François Letexier,Match Report,,2022-2023,Monaco
+2022-08-09,20:30,Champions Lg,Third qualifying round,Tue,Away,L,2,3,nl PSV Eindhoven,,,,35000,Wissam Ben Yedder,4-4-2,4-3-3,Jesús Gil,Match Report,Leg 2 of 2; PSV Eindhoven won; Required Extra Time,2022-2023,Monaco
+2022-08-13,17:00,Ligue 1,Matchweek 2,Sat,Home,D,1,1,Rennes,1.8,2.1,35.0,8000,Wissam Ben Yedder,4-4-2,4-3-3,Jérémie Pignard,Match Report,,2022-2023,Monaco
+2022-08-20,17:00,Ligue 1,Matchweek 3,Sat,Home,L,1,4,Lens,1.6,2.5,46.0,8700,Wissam Ben Yedder,4-4-2,3-4-3,Willy Delajod,Match Report,,2022-2023,Monaco
+2022-08-28,20:45,Ligue 1,Matchweek 4,Sun,Away,D,1,1,Paris S-G,1.2,2.7,33.0,46000,Wissam Ben Yedder,5-3-2,3-4-3,Benoît Bastien,Match Report,,2022-2023,Monaco
+2022-08-31,19:00,Ligue 1,Matchweek 5,Wed,Home,L,2,4,Troyes,1.2,2.2,52.0,4045,Wissam Ben Yedder,3-4-1-2,5-4-1,Ruddy Buquet,Match Report,,2022-2023,Monaco
+2022-09-04,20:45,Ligue 1,Matchweek 6,Sun,Away,W,1,0,Nice,1.1,0.7,48.0,24125,Axel Disasi,3-4-3,3-4-3,Benoît Millot,Match Report,,2022-2023,Monaco
+2022-09-08,21:00,Europa Lg,Group stage,Thu,Away,W,1,0,rs Red Star,1.5,1.0,51.0,40226,Wissam Ben Yedder,3-4-3,3-4-3,Harm Osmers,Match Report,,2022-2023,Monaco
+2022-09-11,20:45,Ligue 1,Matchweek 7,Sun,Home,W,2,1,Lyon,1.7,2.0,39.0,7000,Axel Disasi,3-4-3,4-3-3,Clément Turpin,Match Report,,2022-2023,Monaco
+2022-09-15,18:45,Europa Lg,Group stage,Thu,Home,L,0,1,hu Ferencváros,1.4,0.3,56.0,3931,Wissam Ben Yedder,3-4-3,4-2-3-1,Espen Andreas Eskås,Match Report,,2022-2023,Monaco
+2022-09-18,13:00,Ligue 1,Matchweek 8,Sun,Away,W,3,0,Reims,1.7,0.6,67.0,10000,Wissam Ben Yedder,4-4-2,3-4-1-2,Marc Bollengier,Match Report,,2022-2023,Monaco
+2022-10-02,17:05,Ligue 1,Matchweek 9,Sun,Home,W,4,1,Nantes,2.1,0.5,49.0,5202,Wissam Ben Yedder,4-4-2,5-4-1,Thomas Léonard,Match Report,,2022-2023,Monaco
+2022-10-06,18:45,Europa Lg,Group stage,Thu,Home,W,3,1,tr Trabzonspor,3.3,0.4,56.0,5050,Wissam Ben Yedder,4-4-2,4-2-3-1,Giorgi Kruashvili,Match Report,,2022-2023,Monaco
+2022-10-09,13:00,Ligue 1,Matchweek 10,Sun,Away,W,2,0,Montpellier,1.2,0.7,50.0,13048,Wissam Ben Yedder,4-4-2,4-2-3-1,Benoît Millot,Match Report,,2022-2023,Monaco
+2022-10-13,22:00,Europa Lg,Group stage,Thu,Away,L,0,4,tr Trabzonspor,1.1,0.9,49.0,24343,Wissam Ben Yedder,4-4-2,4-2-3-1,Jakob Kehlet,Match Report,,2022-2023,Monaco
+2022-10-16,17:05,Ligue 1,Matchweek 11,Sun,Home,D,1,1,Clermont Foot,1.1,1.9,35.0,4731,Wissam Ben Yedder,4-4-2,3-4-1-2,Ruddy Buquet,Match Report,,2022-2023,Monaco
+2022-10-23,20:45,Ligue 1,Matchweek 12,Sun,Away,L,3,4,Lille,1.1,2.5,41.0,35362,Wissam Ben Yedder,4-4-2,4-2-3-1,Willy Delajod,Match Report,,2022-2023,Monaco
+2022-10-27,21:00,Europa Lg,Group stage,Thu,Away,D,1,1,hu Ferencváros,1.1,0.8,53.0,20517,Wissam Ben Yedder,3-4-1-2,4-2-3-1,Enea Jorgji,Match Report,,2022-2023,Monaco
+2022-10-30,15:00,Ligue 1,Matchweek 13,Sun,Home,W,2,0,Angers,1.8,0.6,52.0,7069,Wissam Ben Yedder,3-4-1-2,5-3-2,Stéphanie Frappart,Match Report,,2022-2023,Monaco
+2022-11-03,18:45,Europa Lg,Group stage,Thu,Home,W,4,1,rs Red Star,1.4,1.1,47.0,6341,Wissam Ben Yedder,4-4-2,4-4-2,Serdar Gözübüyük,Match Report,,2022-2023,Monaco
+2022-11-06,15:00,Ligue 1,Matchweek 14,Sun,Away,W,2,0,Toulouse,2.4,0.7,52.0,23005,Axel Disasi,4-2-3-1,4-3-3,Benoît Millot,Match Report,,2022-2023,Monaco
+2022-11-13,20:45,Ligue 1,Matchweek 15,Sun,Home,L,2,3,Marseille,2.0,1.9,42.0,10631,Wissam Ben Yedder,4-2-3-1,3-4-3,Benoît Bastien,Match Report,,2022-2023,Monaco
+2022-12-28,17:00,Ligue 1,Matchweek 16,Wed,Away,W,3,2,Auxerre,1.3,1.3,62.0,16503,Wissam Ben Yedder,4-4-2,4-4-1-1,Marc Bollengier,Match Report,,2022-2023,Monaco
+2023-01-01,15:00,Ligue 1,Matchweek 17,Sun,Home,W,1,0,Brest,1.4,0.8,51.0,6150,Axel Disasi,4-4-2,4-3-3,Jeremy Stinat,Match Report,,2022-2023,Monaco
+2023-01-07,18:00,Coupe de France,Round of 64,Sat,Home,D,2 (4),2 (5),Rodez Aveyron,,,63.0,3327,Wissam Ben Yedder,4-4-2,5-3-2,Hakim Ben El Hadj Salem,Match Report,Rodez Aveyron won on penalty kicks following normal time,2022-2023,Monaco
+2023-01-11,21:00,Ligue 1,Matchweek 18,Wed,Away,D,2,2,Lorient,1.8,1.3,58.0,14521,Axel Disasi,4-2-2-2,4-2-3-1,Jérôme Brisard,Match Report,,2022-2023,Monaco
+2023-01-15,17:05,Ligue 1,Matchweek 19,Sun,Home,W,7,1,Ajaccio,3.7,0.3,65.0,8000,Wissam Ben Yedder,4-2-2-2,5-4-1,Ruddy Buquet,Match Report,,2022-2023,Monaco
+2023-01-28,21:00,Ligue 1,Matchweek 20,Sat,Away,D,1,1,Marseille,1.5,1.6,39.0,64502,Wissam Ben Yedder,4-2-2-2,3-4-3,Jérémie Pignard,Match Report,,2022-2023,Monaco
+2023-02-01,21:00,Ligue 1,Matchweek 21,Wed,Home,W,3,2,Auxerre,1.2,1.4,44.0,3561,Wissam Ben Yedder,4-2-2-2,4-3-3,Eric Wattellier,Match Report,,2022-2023,Monaco
+2023-02-05,13:00,Ligue 1,Matchweek 22,Sun,Away,W,2,0,Clermont Foot,1.4,0.4,47.0,11598,Axel Disasi,4-2-3-1,3-4-3,Marc Bollengier,Match Report,,2022-2023,Monaco
+2023-02-11,17:00,Ligue 1,Matchweek 23,Sat,Home,W,3,1,Paris S-G,2.9,0.8,42.0,16500,Wissam Ben Yedder,4-2-2-2,3-5-2,Clément Turpin,Match Report,,2022-2023,Monaco
+2023-02-16,21:00,Europa Lg,Knockout round play-offs,Thu,Away,W,3,2,de Leverkusen,0.7,1.8,47.0,27864,Axel Disasi,4-4-2,4-2-3-1,Orel Grinfeeld,Match Report,Leg 1 of 2,2022-2023,Monaco
+2023-02-19,15:00,Ligue 1,Matchweek 24,Sun,Away,W,2,1,Brest,1.5,0.9,52.0,13203,Wissam Ben Yedder,4-4-2,4-1-4-1,Hakim Ben El Hadj Salem,Match Report,,2022-2023,Monaco
+2023-02-23,18:45,Europa Lg,Knockout round play-offs,Thu,Home,L,2 (3),3 (5),de Leverkusen,1.9,2.3,49.0,8504,Wissam Ben Yedder,4-4-2,3-4-3,Alejandro Hernández,Match Report,Leg 2 of 2; Leverkusen won; Leverkusen won on penalty kicks following extra time,2022-2023,Monaco
+2023-02-26,17:05,Ligue 1,Matchweek 25,Sun,Home,L,0,3,Nice,1.0,2.3,56.0,9000,Axel Disasi,3-1-4-2,5-3-2,Benoît Bastien,Match Report,,2022-2023,Monaco
+2023-03-05,13:00,Ligue 1,Matchweek 26,Sun,Away,D,2,2,Troyes,3.0,0.9,61.0,9160,Wissam Ben Yedder,4-4-2,3-4-3,Stéphanie Frappart,Match Report,,2022-2023,Monaco
+2023-03-12,17:05,Ligue 1,Matchweek 27,Sun,Home,L,0,1,Reims,0.9,1.9,49.0,5383,Wissam Ben Yedder,4-4-2,4-2-3-1,Thomas Léonard,Match Report,,2022-2023,Monaco
+2023-03-19,13:00,Ligue 1,Matchweek 28,Sun,Away,W,2,0,Ajaccio,1.1,1.1,58.0,7198,Wissam Ben Yedder,4-4-2,4-4-2,Jeremy Stinat,Match Report,,2022-2023,Monaco
+2023-04-02,17:05,Ligue 1,Matchweek 29,Sun,Home,W,4,3,Strasbourg,1.4,1.5,50.0,5356,Wissam Ben Yedder,4-4-2,3-1-4-2,Willy Delajod,Match Report,,2022-2023,Monaco
+2023-04-09,17:05,Ligue 1,Matchweek 30,Sun,Away,D,2,2,Nantes,1.3,1.1,51.0,30050,Wissam Ben Yedder,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2022-2023,Monaco
+2023-04-16,17:05,Ligue 1,Matchweek 31,Sun,Home,W,3,1,Lorient,1.9,1.1,47.0,6930,Wissam Ben Yedder,4-4-2,4-1-4-1,Bastien Dechepy,Match Report,,2022-2023,Monaco
+2023-04-22,21:00,Ligue 1,Matchweek 32,Sat,Away,L,0,3,Lens,1.6,2.3,38.0,38223,Wissam Ben Yedder,4-2-3-1,3-4-3,François Letexier,Match Report,,2022-2023,Monaco
+2023-04-30,13:00,Ligue 1,Matchweek 33,Sun,Home,L,0,4,Montpellier,1.1,1.9,55.0,6069,Wissam Ben Yedder,4-4-2,4-2-3-1,Marc Bollengier,Match Report,,2022-2023,Monaco
+2023-05-07,13:00,Ligue 1,Matchweek 34,Sun,Away,W,2,1,Angers,2.1,1.0,40.0,9223,Axel Disasi,3-4-3,5-3-2,Jeremy Stinat,Match Report,,2022-2023,Monaco
+2023-05-14,17:05,Ligue 1,Matchweek 35,Sun,Home,D,0,0,Lille,0.7,0.9,42.0,6805,Axel Disasi,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2022-2023,Monaco
+2023-05-19,21:00,Ligue 1,Matchweek 36,Fri,Away,L,1,3,Lyon,1.8,2.1,38.0,53980,Wissam Ben Yedder,3-4-3,4-2-3-1,Benoît Millot,Match Report,,2022-2023,Monaco
+2023-05-27,21:00,Ligue 1,Matchweek 37,Sat,Away,L,0,2,Rennes,0.5,1.3,43.0,28344,Wissam Ben Yedder,4-4-1-1,4-1-4-1,Clément Turpin,Match Report,,2022-2023,Monaco
+2023-06-03,21:00,Ligue 1,Matchweek 38,Sat,Home,L,1,2,Toulouse,2.2,2.6,57.0,5670,Wissam Ben Yedder,4-2-3-1,5-4-1,Stéphanie Frappart,Match Report,,2022-2023,Monaco
