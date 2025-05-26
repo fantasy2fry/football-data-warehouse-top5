@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 from unidecode import unidecode
+import unicodedata
 import re
+import random
 
 BASE_URL = "https://fbref.com"
 USER_AGENT = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
@@ -18,7 +20,12 @@ LEAGUE_URLS = {
 }
 
 SEASONS = list(range(2017, 2024))  # 2017–2024
-SEASONS = list(range(2023, 2024))
+SEASONS = list(range(2017, 2024))
+
+def remove_accents(input_string):
+    nfkd_form = unicodedata.normalize('NFKD', input_string)
+    only_ascii = nfkd_form.encode('ascii', 'ignore').decode('utf-8')
+    return only_ascii
 
 def get_squad_links(league_url):
     """Returns a dict: {team_name: team_id} for the current league"""
@@ -29,6 +36,8 @@ def get_squad_links(league_url):
     for a in squad_links:
         href = a["href"]
         name = a.text.strip()
+        name = remove_accents(name)
+        if "vs " in name: continue
         parts = href.split("/")
         if len(parts) > 3:
             team_id = parts[3]
@@ -39,7 +48,7 @@ def scrape_season_team(season, team_name, team_id):
     """Scrapes one season for one team, returns a DataFrame"""
     url = f"{BASE_URL}/en/squads/{team_id}/{season}-{season+1}/all_comps/{team_name.replace(' ', '-')}-Stats-All-Competitions"
     try:
-        dfs = pd.read_html(url)
+        dfs = pd.read_html(url, encoding='UTF-8')
         if not dfs:
             print(f"No data found for {team_name} {season}")
             return None
@@ -67,12 +76,19 @@ def main():
     for league, url in LEAGUE_URLS.items():
         print(f"Fetching teams from {league}...")
         teams = get_squad_links(url)
+        time.sleep(random.uniform(3.5,4.2))
         print(teams)
         for season in SEASONS:
             for team_name, team_id in teams.items():
                 print(f"Scraping {team_name} {season}/{season+1}")
+                # if file already exists, skip
+                player_stats_file = f"data_ps/player_stats_{team_name}_{season}.csv"
+                if pd.io.common.file_exists(player_stats_file):
+                    print(f"File {player_stats_file} already exists, skipping...")
+                    continue
                 scrape_season_team(season, team_name, team_id)
-                time.sleep(4)  # polite delay
+                delay = random.uniform(3.5, 4.2)
+                time.sleep(delay)  # polite delay
     print("Saved to All CSV files in data_ps and data_ms folders")
 
 if __name__ == "__main__":
