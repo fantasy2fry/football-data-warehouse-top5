@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-05,15:00,Ligue 2,Matchweek 1,Sat,Home,L,0,1,Grenoble,55.0,25412,Anthony Briançon,3-4-1-2,4-3-3,Pierre Legat,Match Report,,2023-2024,Saint-Etienne
+2023-08-12,15:00,Ligue 2,Matchweek 2,Sat,Away,L,1,2,Rodez Aveyron,53.0,3263,Thomas Monconduit,4-3-1-2,3-5-2,Benjamin Lepaysant,Match Report,,2023-2024,Saint-Etienne
+2023-08-19,19:00,Ligue 2,Matchweek 3,Sat,Home,W,2,1,Quevilly-Rouen,54.0,24103,Anthony Briançon,3-4-3,4-4-2,Mikael Lesage,Match Report,,2023-2024,Saint-Etienne
+2023-08-28,20:45,Ligue 2,Matchweek 4,Mon,Away,D,1,1,Annecy,65.0,12467,Anthony Briançon,3-5-1-1,4-3-3,Azzedine Souifi,Match Report,,2023-2024,Saint-Etienne
+2023-09-02,19:00,Ligue 2,Matchweek 5,Sat,Home,D,0,0,Valenciennes,55.0,22687,Gaëtan Charbonnier,3-5-2,5-3-2,Thomas Léonard,Match Report,,2023-2024,Saint-Etienne
+2023-09-16,15:00,Ligue 2,Matchweek 6,Sat,Away,W,2,1,Caen,50.0,19013,Anthony Briançon,3-5-2,5-3-2,Abdelatif Kherradji,Match Report,,2023-2024,Saint-Etienne
+2023-09-23,19:00,Ligue 2,Matchweek 7,Sat,Away,W,1,0,US Concarneau,46.0,6010,Anthony Briançon,4-3-3,4-4-2,Antoine Valnet,Match Report,,2023-2024,Saint-Etienne
+2023-09-30,15:00,Ligue 2,Matchweek 9,Sat,Away,W,1,0,Troyes,48.0,7378,Anthony Briançon,4-3-3,4-2-3-1,Pierre Legat,Match Report,,2023-2024,Saint-Etienne
+2023-10-04,18:45,Ligue 2,Matchweek 8,Wed,Home,W,2,0,Dunkerque,50.0,9282,Anthony Briançon,4-3-3,4-3-3,Florent Batta,Match Report,,2023-2024,Saint-Etienne
+2023-10-07,19:00,Ligue 2,Matchweek 10,Sat,Home,D,0,0,Ajaccio,55.0,11760,Anthony Briançon,4-3-3,4-1-4-1,Benjamin Lepaysant,Match Report,,2023-2024,Saint-Etienne
+2023-10-23,20:45,Ligue 2,Matchweek 11,Mon,Away,W,1,0,Stade Laval,49.0,9394,Anthony Briançon,4-3-3,5-4-1,Mikael Lesage,Match Report,,2023-2024,Saint-Etienne
+2023-10-30,20:45,Ligue 2,Matchweek 12,Mon,Home,W,2,0,Angers,43.0,27153,Anthony Briançon,4-3-3,4-4-2,Guillaume Paradis,Match Report,,2023-2024,Saint-Etienne
+2023-11-04,15:00,Ligue 2,Matchweek 13,Sat,Home,L,0,1,Paris FC,55.0,35563,Anthony Briançon,4-3-3,4-2-3-1,Antoine Valnet,Match Report,,2023-2024,Saint-Etienne
+2023-11-11,19:00,Ligue 2,Matchweek 14,Sat,Away,L,2,5,Auxerre,55.0,16806,Anthony Briançon,4-3-3,4-2-3-1,Benjamin Lepaysant,Match Report,,2023-2024,Saint-Etienne
+2023-11-18,13:45,Coupe de France,Seventh round,Sat,Away,W,3,0,Bourg Péronnas,,5142,Gaëtan Charbonnier,,,Aurélien Petit,Match Report,,2023-2024,Saint-Etienne
+2023-11-25,15:00,Ligue 2,Matchweek 15,Sat,Home,L,1,2,Pau FC,58.0,21709,Anthony Briançon,4-4-2,4-2-3-1,Faouzi Benchabane,Match Report,,2023-2024,Saint-Etienne
+2023-12-02,19:00,Ligue 2,Matchweek 16,Sat,Away,L,0,1,Amiens,65.0,8712,Anthony Briançon,4-5-1,4-3-3,Mikael Lesage,Match Report,,2023-2024,Saint-Etienne
+2023-12-05,20:45,Ligue 2,Matchweek 17,Tue,Home,L,1,3,Guingamp,56.0,17942,Anthony Briançon,4-2-3-1,4-4-2,Olivier Thual,Match Report,,2023-2024,Saint-Etienne
+2023-12-09,15:00,Coupe de France,Eighth round,Sat,Home,L,0,1,Nîmes,,11149,Gautier Larsonneur,,,Antoine Valnet,Match Report,,2023-2024,Saint-Etienne
+2023-12-16,15:00,Ligue 2,Matchweek 18,Sat,Away,D,0,0,Bordeaux,40.0,37658,Anthony Briançon,4-1-4-1,4-3-3,Romain Delpech,Match Report,,2023-2024,Saint-Etienne
+2023-12-19,20:45,Ligue 2,Matchweek 19,Tue,Home,W,3,2,Bastia,56.0,16900,Anthony Briançon,4-1-4-1,3-4-1-2,Abdelatif Kherradji,Match Report,,2023-2024,Saint-Etienne
+2024-01-13,15:00,Ligue 2,Matchweek 20,Sat,Home,D,0,0,Stade Laval,59.0,18106,Gautier Larsonneur,4-1-4-1,3-5-2,Nicolas Rainville,Match Report,,2023-2024,Saint-Etienne
+2024-01-23,20:45,Ligue 2,Matchweek 21,Tue,Away,W,1,0,Pau FC,49.0,3875,Anthony Briançon,4-1-4-1,4-4-1-1,Eric Wattellier,Match Report,,2023-2024,Saint-Etienne
+2024-01-27,15:00,Ligue 2,Matchweek 22,Sat,Home,L,0,1,Amiens,62.0,18612,Anthony Briançon,4-1-4-1,4-1-4-1,Thierry Bouille,Match Report,,2023-2024,Saint-Etienne
+2024-02-03,15:00,Ligue 2,Matchweek 23,Sat,Away,L,0,1,Dunkerque,55.0,4933,Anthony Briançon,4-1-4-1,4-4-2,Ahmed Taleb,Match Report,,2023-2024,Saint-Etienne
+2024-02-12,20:45,Ligue 2,Matchweek 24,Mon,Home,W,5,0,Troyes,49.0,17075,Anthony Briançon,4-1-4-1,4-1-4-1,Azzedine Souifi,Match Report,,2023-2024,Saint-Etienne
+2024-02-17,15:00,Ligue 2,Matchweek 25,Sat,Away,W,3,0,Angers,54.0,15462,Anthony Briançon,4-1-4-1,4-2-3-1,Nicolas Rainville,Match Report,,2023-2024,Saint-Etienne
+2024-02-24,15:00,Ligue 2,Matchweek 26,Sat,Home,W,2,1,Annecy,50.0,21179,Anthony Briançon,4-1-4-1,4-4-2,Antoine Valnet,Match Report,,2023-2024,Saint-Etienne
+2024-03-02,15:00,Ligue 2,Matchweek 27,Sat,Away,D,0,0,Paris FC,50.0,17358,Gautier Larsonneur,4-1-4-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2023-2024,Saint-Etienne
+2024-03-09,15:00,Ligue 2,Matchweek 28,Sat,Home,W,1,0,Auxerre,52.0,36277,Gautier Larsonneur,4-1-4-1,4-2-3-1,Olivier Thual,Match Report,,2023-2024,Saint-Etienne
+2024-03-16,19:00,Ligue 2,Matchweek 29,Sat,Away,W,4,0,Bastia,49.0,11598,Gautier Larsonneur,4-1-4-1,3-4-3,Pierre Gaillouste,Match Report,,2023-2024,Saint-Etienne
+2024-03-30,15:00,Ligue 2,Matchweek 30,Sat,Away,W,2,0,Valenciennes,53.0,9251,Anthony Briançon,4-1-4-1,3-4-3,Mikael Lesage,Match Report,,2023-2024,Saint-Etienne
+2024-04-06,15:00,Ligue 2,Matchweek 31,Sat,Home,W,1,0,US Concarneau,54.0,37337,Gautier Larsonneur,4-1-4-1,4-2-3-1,Abdelatif Kherradji,Match Report,,2023-2024,Saint-Etienne
+2024-04-13,15:00,Ligue 2,Matchweek 32,Sat,Away,L,0,2,Ajaccio,66.0,6000,Gautier Larsonneur,4-1-4-1,4-4-1-1,Pierre Legat,Match Report,,2023-2024,Saint-Etienne
+2024-04-20,19:00,Ligue 2,Matchweek 33,Sat,Home,W,2,1,Bordeaux,43.0,35317,Anthony Briançon,4-2-3-1,4-3-3,Jérôme Brisard,Match Report,,2023-2024,Saint-Etienne
+2024-04-23,20:45,Ligue 2,Matchweek 34,Tue,Away,W,2,0,Grenoble,56.0,15230,Anthony Briançon,4-3-3,4-3-3,Benjamin Lepaysant,Match Report,,2023-2024,Saint-Etienne
+2024-04-27,15:00,Ligue 2,Matchweek 35,Sat,Home,W,1,0,Caen,46.0,35445,Gautier Larsonneur,4-3-3,4-4-1-1,Nicolas Rainville,Match Report,,2023-2024,Saint-Etienne
+2024-05-04,19:00,Ligue 2,Matchweek 36,Sat,Away,D,2,2,Guingamp,48.0,11224,Anthony Briançon,4-1-4-1,4-2-3-1,Guillaume Paradis,Match Report,,2023-2024,Saint-Etienne
+2024-05-10,20:45,Ligue 2,Matchweek 37,Fri,Home,D,1,1,Rodez Aveyron,58.0,35701,Anthony Briançon,4-2-3-1,3-1-4-2,Mikael Lesage,Match Report,,2023-2024,Saint-Etienne
+2024-05-17,20:45,Ligue 2,Matchweek 38,Fri,Away,L,1,2,Quevilly-Rouen,52.0,8084,Anthony Briançon,4-1-4-1,4-2-3-1,Marc Bollengier,Match Report,,2023-2024,Saint-Etienne
+2024-05-24,20:30,Ligue 2,Final,Fri,Home,W,2,0,Rodez Aveyron,53.0,36048,Gautier Larsonneur,4-1-4-1,3-1-4-2,Thomas Léonard,Match Report,,2023-2024,Saint-Etienne

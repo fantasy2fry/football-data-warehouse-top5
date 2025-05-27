@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-05,19:00,Ligue 2,Matchweek 1,Sat,Away,L,0,1,Stade Laval,60.0,8912,Pierrick Capelle,3-5-2,5-3-2,Hakim Ben El Hadj Salem,Match Report,,2023-2024,Angers
+2023-08-12,19:00,Ligue 2,Matchweek 2,Sat,Home,D,0,0,Annecy,70.0,5083,Pierrick Capelle,4-3-3,4-4-2,Karim Abed,Match Report,,2023-2024,Angers
+2023-08-19,15:00,Ligue 2,Matchweek 3,Sat,Home,D,2,2,Auxerre,54.0,6406,Himad Abdelli,4-2-3-1,4-2-3-1,Abdelatif Kherradji,Match Report,,2023-2024,Angers
+2023-08-26,19:00,Ligue 2,Matchweek 4,Sat,Away,W,1,0,Dunkerque,58.0,4200,Pierrick Capelle,4-2-3-1,3-4-3,Ahmed Taleb,Match Report,,2023-2024,Angers
+2023-09-02,19:00,Ligue 2,Matchweek 5,Sat,Home,W,2,0,Paris FC,47.0,5276,Pierrick Capelle,4-4-2,3-4-1-2,Faouzi Benchabane,Match Report,,2023-2024,Angers
+2023-09-16,19:00,Ligue 2,Matchweek 6,Sat,Away,L,1,4,Rodez Aveyron,55.0,2722,Pierrick Capelle,4-4-2,3-5-2,Bastien Dechepy,Match Report,,2023-2024,Angers
+2023-09-23,19:00,Ligue 2,Matchweek 7,Sat,Home,W,2,0,Bastia,51.0,4972,Pierrick Capelle,4-4-2,3-5-2,Mikael Lesage,Match Report,,2023-2024,Angers
+2023-09-26,20:45,Ligue 2,Matchweek 8,Tue,Away,W,1,0,Quevilly-Rouen,54.0,5194,Pierrick Capelle,4-4-2,4-1-4-1,Ahmed Taleb,Match Report,,2023-2024,Angers
+2023-09-30,19:00,Ligue 2,Matchweek 9,Sat,Home,W,2,0,US Concarneau,51.0,5487,Pierrick Capelle,4-4-2,3-4-3,Benjamin Lepaysant,Match Report,,2023-2024,Angers
+2023-10-07,19:00,Ligue 2,Matchweek 10,Sat,Away,W,4,1,Amiens,53.0,6799,Himad Abdelli,4-4-2,4-1-4-1,Olivier Thual,Match Report,,2023-2024,Angers
+2023-10-21,19:00,Ligue 2,Matchweek 11,Sat,Home,W,2,0,Bordeaux,37.0,10416,Pierrick Capelle,4-4-2,4-2-3-1,Antoine Valnet,Match Report,,2023-2024,Angers
+2023-10-30,20:45,Ligue 2,Matchweek 12,Mon,Away,L,0,2,Saint-Étienne,57.0,27153,Pierrick Capelle,4-4-2,4-3-3,Guillaume Paradis,Match Report,,2023-2024,Angers
+2023-11-04,19:00,Ligue 2,Matchweek 13,Sat,Home,W,2,0,Valenciennes,56.0,8094,Pierrick Capelle,4-1-4-1,4-2-3-1,Thierry Bouille,Match Report,,2023-2024,Angers
+2023-11-11,19:00,Ligue 2,Matchweek 14,Sat,Away,D,4,4,Pau FC,60.0,3342,Pierrick Capelle,4-1-4-1,4-2-3-1,Mickaël Leleu,Match Report,,2023-2024,Angers
+2023-11-18,14:00,Coupe de France,Seventh round,Sat,Away,W,2,0,Houilles AC,,1524,Himad Abdelli,,,William Toulliou,Match Report,,2023-2024,Angers
+2023-11-27,20:45,Ligue 2,Matchweek 15,Mon,Home,W,3,0,Caen,49.0,9202,Pierrick Capelle,4-4-1-1,5-4-1,Ahmed Taleb,Match Report,,2023-2024,Angers
+2023-12-02,19:00,Ligue 2,Matchweek 16,Sat,Away,D,1,1,Ajaccio,52.0,2500,Pierrick Capelle,4-4-1-1,4-5-1,Remi Landry,Match Report,,2023-2024,Angers
+2023-12-05,20:45,Ligue 2,Matchweek 17,Tue,Home,W,1,0,Grenoble,53.0,9006,Pierrick Capelle,4-4-1-1,4-3-3,Nicolas Rainville,Match Report,,2023-2024,Angers
+2023-12-09,15:00,Coupe de France,Eighth round,Sat,Away,W,2,1,FC Plessis-Robinson,,752,Jordan Lefort,,,Valentin Giorgetti,Match Report,,2023-2024,Angers
+2023-12-16,19:00,Ligue 2,Matchweek 18,Sat,Away,W,4,1,Troyes,54.0,5039,Pierrick Capelle,4-4-1-1,4-2-3-1,Mikael Lesage,Match Report,,2023-2024,Angers
+2023-12-19,20:45,Ligue 2,Matchweek 19,Tue,Home,W,1,0,Guingamp,48.0,10205,Pierrick Capelle,4-4-1-1,4-4-2,Faouzi Benchabane,Match Report,,2023-2024,Angers
+2024-01-06,15:30,Coupe de France,Round of 64,Sat,Away,L,0,1,Brest,36.0,10673,Himad Abdelli,4-4-1-1,4-3-3,Stéphanie Frappart,Match Report,,2023-2024,Angers
+2024-01-13,19:00,Ligue 2,Matchweek 20,Sat,Away,L,0,2,Bastia,52.0,10328,Pierrick Capelle,4-2-3-1,4-2-3-1,Benjamin Lepaysant,Match Report,,2023-2024,Angers
+2024-01-23,20:45,Ligue 2,Matchweek 21,Tue,Home,W,3,2,Quevilly-Rouen,58.0,8500,Pierrick Capelle,4-2-3-1,4-4-2,Aurélien Petit,Match Report,,2023-2024,Angers
+2024-01-29,20:45,Ligue 2,Matchweek 22,Mon,Away,L,0,1,Bordeaux,51.0,17148,Pierrick Capelle,4-2-3-1,4-3-3,Ruddy Buquet,Match Report,,2023-2024,Angers
+2024-02-03,19:00,Ligue 2,Matchweek 23,Sat,Home,W,2,1,Rodez Aveyron,48.0,8500,Pierrick Capelle,4-2-3-1,3-4-1-2,Karim Abed,Match Report,,2023-2024,Angers
+2024-02-10,15:00,Ligue 2,Matchweek 24,Sat,Away,L,0,1,Auxerre,50.0,16732,Pierrick Capelle,4-2-3-1,4-2-3-1,Mathieu Vernice,Match Report,,2023-2024,Angers
+2024-02-17,15:00,Ligue 2,Matchweek 25,Sat,Home,L,0,3,Saint-Étienne,46.0,15462,Pierrick Capelle,4-2-3-1,4-1-4-1,Nicolas Rainville,Match Report,,2023-2024,Angers
+2024-02-26,20:45,Ligue 2,Matchweek 26,Mon,Away,L,0,2,Caen,58.0,16965,Pierrick Capelle,4-2-3-1,4-2-3-1,Aurélien Petit,Match Report,,2023-2024,Angers
+2024-03-04,20:45,Ligue 2,Matchweek 27,Mon,Home,W,3,1,Ajaccio,50.0,9636,Pierrick Capelle,4-2-3-1,4-3-3,Mikael Lesage,Match Report,,2023-2024,Angers
+2024-03-09,19:00,Ligue 2,Matchweek 28,Sat,Away,D,0,0,Valenciennes,55.0,5633,Pierrick Capelle,4-2-3-1,4-2-3-1,Antoine Valnet,Match Report,,2023-2024,Angers
+2024-03-16,19:00,Ligue 2,Matchweek 29,Sat,Home,L,1,3,Amiens,51.0,9685,Pierrick Capelle,4-2-3-1,4-2-3-1,Azzedine Souifi,Match Report,,2023-2024,Angers
+2024-03-30,19:00,Ligue 2,Matchweek 30,Sat,Away,W,4,2,US Concarneau,54.0,1442,Pierrick Capelle,4-2-3-1,4-2-3-1,Pierre Legat,Match Report,,2023-2024,Angers
+2024-04-06,19:00,Ligue 2,Matchweek 31,Sat,Home,D,1,1,Stade Laval,63.0,16785,Pierrick Capelle,4-2-3-1,3-4-3,Aurélien Petit,Match Report,,2023-2024,Angers
+2024-04-15,20:45,Ligue 2,Matchweek 32,Mon,Away,D,0,0,Grenoble,50.0,5132,Pierrick Capelle,4-2-3-1,4-3-3,Ahmed Taleb,Match Report,,2023-2024,Angers
+2024-04-20,19:00,Ligue 2,Matchweek 33,Sat,Home,W,2,1,Troyes,50.0,9468,Pierrick Capelle,4-2-3-1,4-1-4-1,Abdelatif Kherradji,Match Report,,2023-2024,Angers
+2024-04-23,20:45,Ligue 2,Matchweek 34,Tue,Away,W,2,1,Guingamp,49.0,9259,Himad Abdelli,4-2-3-1,4-2-3-1,Olivier Thual,Match Report,,2023-2024,Angers
+2024-04-27,19:00,Ligue 2,Matchweek 35,Sat,Away,L,1,3,Paris FC,45.0,10252,Pierrick Capelle,4-2-3-1,4-3-1-2,Ruddy Buquet,Match Report,,2023-2024,Angers
+2024-05-03,20:00,Ligue 2,Matchweek 36,Fri,Home,W,2,1,Pau FC,46.0,10728,Pierrick Capelle,4-2-3-1,4-1-4-1,Eric Wattellier,Match Report,,2023-2024,Angers
+2024-05-10,20:45,Ligue 2,Matchweek 37,Fri,Away,W,2,1,Annecy,47.0,13063,Pierrick Capelle,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2023-2024,Angers
+2024-05-17,20:45,Ligue 2,Matchweek 38,Fri,Home,D,0,0,Dunkerque,55.0,16951,Pierrick Capelle,4-2-3-1,4-2-3-1,Florent Batta,Match Report,,2023-2024,Angers

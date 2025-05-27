@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,20:45,Ligue 1,Matchweek 1,Sun,Home,W,3,0,Lyon,2.0,2.1,47,26026,Steve Mandanda,4-1-2-1-2◆,4-3-3,,Match Report,,2024-2025,Rennes
+2024-08-25,17:00,Ligue 1,Matchweek 2,Sun,Away,L,1,3,Strasbourg,1.1,0.7,41,19026,Steve Mandanda,4-3-1-2,3-4-1-2,,Match Report,,2024-2025,Rennes
+2024-09-01,17:00,Ligue 1,Matchweek 3,Sun,Away,L,1,2,Reims,0.8,1.4,47,12856,Steve Mandanda,4-4-2,4-3-3,Mathieu Vernice,Match Report,,2024-2025,Rennes
+2024-09-15,15:00,Ligue 1,Matchweek 4,Sun,Home,W,3,0,Montpellier,1.3,0.3,51,27451,Steve Mandanda,3-4-3,4-2-3-1,Jérémie Pignard,Match Report,,2024-2025,Rennes
+2024-09-21,19:00,Ligue 1,Matchweek 5,Sat,Home,D,1,1,Lens,1.4,0.6,40,28500,Steve Mandanda,3-4-3,3-4-1-2,Jeremy Stinat,Match Report,,2024-2025,Rennes
+2024-09-27,21:00,Ligue 1,Matchweek 6,Fri,Away,L,1,3,Paris S-G,1.4,3.0,39,47000,Steve Mandanda,3-4-3,4-3-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Rennes
+2024-10-05,21:00,Ligue 1,Matchweek 7,Sat,Home,L,1,2,Monaco,0.7,0.6,58,26533,Steve Mandanda,3-4-3,3-4-3,Thomas Léonard,Match Report,,2024-2025,Rennes
+2024-10-19,17:00,Ligue 1,Matchweek 8,Sat,Away,D,1,1,Brest,1.2,1.5,44,15099,Steve Mandanda,3-4-3,4-3-3,Bastien Dechepy,Match Report,,2024-2025,Rennes
+2024-10-25,20:45,Ligue 1,Matchweek 9,Fri,Home,W,1,0,Le Havre,1.5,0.4,60,27130,Steve Mandanda,4-2-3-1,3-1-4-2,Florent Batta,Match Report,,2024-2025,Rennes
+2024-11-03,17:00,Ligue 1,Matchweek 10,Sun,Away,L,0,4,Auxerre,0.9,2.8,61,16366,Steve Mandanda,4-1-4-1,3-4-3,Gaël Angoula,Match Report,,2024-2025,Rennes
+2024-11-10,17:00,Ligue 1,Matchweek 11,Sun,Home,L,0,2,Toulouse,0.6,1.4,67,27525,Steve Mandanda,4-2-3-1,3-4-3,Romain Lissorgue,Match Report,,2024-2025,Rennes
+2024-11-24,15:00,Ligue 1,Matchweek 12,Sun,Away,L,0,1,Lille,0.2,0.4,48,46019,Steve Mandanda,3-4-3,4-2-3-1,Mathieu Vernice,Match Report,,2024-2025,Rennes
+2024-11-30,17:00,Ligue 1,Matchweek 13,Sat,Home,W,5,0,Saint-Étienne,3.2,0.1,71,27586,Steve Mandanda,3-4-3,5-4-1,Marc Bollengier,Match Report,,2024-2025,Rennes
+2024-12-08,17:00,Ligue 1,Matchweek 14,Sun,Away,L,0,1,Nantes,0.4,1.2,53,28418,Steve Mandanda,3-4-3,5-3-2,Eric Wattellier,Match Report,,2024-2025,Rennes
+2024-12-15,17:00,Ligue 1,Matchweek 15,Sun,Home,W,2,0,Angers,0.6,0.4,44,27781,Steve Mandanda,3-5-1-1,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Rennes
+2024-12-22,14:45,Coupe de France,Round of 64,Sun,Away,W,4,1,Bordeaux,,,67,19877,Adrien Truffert,3-4-3,5-3-2,Bastien Dechepy,Match Report,,2024-2025,Rennes
+2025-01-03,21:00,Ligue 1,Matchweek 16,Fri,Away,L,2,3,Nice,1.7,1.5,53,21332,Steve Mandanda,3-4-3,4-2-3-1,Jérôme Brisard,Match Report,,2024-2025,Rennes
+2025-01-11,21:05,Ligue 1,Matchweek 17,Sat,Home,L,1,2,Marseille,1.2,1.7,36,26837,Adrien Truffert,3-4-3,3-4-3,Abdelatif Kherradji,Match Report,,2024-2025,Rennes
+2025-01-15,18:30,Coupe de France,Round of 32,Wed,Away,L,0,1,Troyes,,,68,4690,Adrien Truffert,3-5-2,4-1-4-1,Romain Lissorgue,Match Report,,2024-2025,Rennes
+2025-01-18,19:00,Ligue 1,Matchweek 18,Sat,Home,L,1,2,Brest,1.5,1.0,68,28238,Adrien Truffert,3-4-3,4-2-2-2,Thomas Léonard,Match Report,,2024-2025,Rennes
+2025-01-25,17:00,Ligue 1,Matchweek 19,Sat,Away,L,2,3,Monaco,1.8,3.5,48,5725,Adrien Truffert,3-4-3,4-2-3-1,Jeremy Stinat,Match Report,,2024-2025,Rennes
+2025-02-02,17:15,Ligue 1,Matchweek 20,Sun,Home,W,1,0,Strasbourg,0.9,1.2,46,26621,Adrien Truffert,3-4-3,3-4-3,Stéphanie Frappart,Match Report,,2024-2025,Rennes
+2025-02-08,21:05,Ligue 1,Matchweek 21,Sat,Away,W,2,0,Saint-Étienne,3.6,0.5,47,30385,Adrien Truffert,3-4-3,4-3-3,Mathieu Vernice,Match Report,,2024-2025,Rennes
+2025-02-16,20:45,Ligue 1,Matchweek 22,Sun,Home,L,0,2,Lille,0.4,3.0,37,27627,Adrien Truffert,3-4-3,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Rennes
+2025-02-21,20:45,Ligue 1,Matchweek 23,Fri,Home,W,1,0,Reims,2.3,0.1,58,26818,Adrien Truffert,3-5-2,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Rennes
+2025-03-02,17:15,Ligue 1,Matchweek 24,Sun,Away,W,4,0,Montpellier,2.4,1.6,54,11990,Adrien Truffert,3-5-2,5-3-2,Florent Batta,Match Report,,2024-2025,Rennes
+2025-03-08,17:00,Ligue 1,Matchweek 25,Sat,Home,L,1,4,Paris S-G,1.6,3.8,32,28550,Adrien Truffert,3-4-3,4-3-3,Mathieu Vernice,Match Report,,2024-2025,Rennes
+2025-03-15,21:05,Ligue 1,Matchweek 26,Sat,Away,L,0,1,Lens,0.6,0.7,54,38182,Adrien Truffert,3-5-2,3-4-3,Stéphanie Frappart,Match Report,,2024-2025,Rennes
+2025-03-30,17:15,Ligue 1,Matchweek 27,Sun,Away,W,3,0,Angers,1.5,1.0,57,11747,Adrien Truffert,3-4-3,4-3-3,Thomas Léonard,Match Report,,2024-2025,Rennes
+2025-04-06,17:15,Ligue 1,Matchweek 28,Sun,Home,L,0,1,Auxerre,1.2,0.8,63,38268,Adrien Truffert,3-4-3,5-4-1,Florent Batta,Match Report,,2024-2025,Rennes
+2025-04-13,17:15,Ligue 1,Matchweek 29,Sun,Away,W,5,1,Le Havre,2.7,0.6,44,21582,Adrien Truffert,3-5-2,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Rennes
+2025-04-18,20:45,Ligue 1,Matchweek 30,Fri,Home,W,2,1,Nantes,2.7,0.7,64,27880,Adrien Truffert,3-5-2,3-4-3,Abdelatif Kherradji,Match Report,,2024-2025,Rennes
+2025-04-26,21:05,Ligue 1,Matchweek 31,Sat,Away,L,1,4,Lyon,0.8,1.8,47,51034,Adrien Truffert,3-5-2,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Rennes
+2025-05-03,19:00,Ligue 1,Matchweek 32,Sat,Away,L,1,2,Toulouse,1.4,0.7,61,23926,Adrien Truffert,3-4-3,3-4-3,Benoît Millot,Match Report,,2024-2025,Rennes
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Home,W,2,0,Nice,1.7,1.1,50,26118,Adrien Truffert,4-3-3,3-5-2,Jeremy Stinat,Match Report,,2024-2025,Rennes
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Away,L,2,4,Marseille,1.3,3.9,40,57274,Adrien Truffert,4-1-4-1,4-3-3,Jérémie Pignard,Match Report,,2024-2025,Rennes

@@ -1,0 +1,36 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,17:00,Ligue 1,Matchweek 1,Sun,Home,D,1,1,Strasbourg,1.3,0.9,42,15706.0,Téji Savanier,4-2-3-1,3-4-3,,Match Report,,2024-2025,Montpellier
+2024-08-23,20:45,Ligue 1,Matchweek 2,Fri,Away,L,0,6,Paris S-G,0.6,3.8,32,46000.0,Téji Savanier,5-3-2,4-3-3,,Match Report,,2024-2025,Montpellier
+2024-08-31,19:00,Ligue 1,Matchweek 3,Sat,Home,L,1,3,Nantes,0.9,1.5,69,13000.0,Téji Savanier,4-2-3-1,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Montpellier
+2024-09-15,15:00,Ligue 1,Matchweek 4,Sun,Away,L,0,3,Rennes,0.3,1.3,49,27451.0,Téji Savanier,4-2-3-1,3-4-3,Jérémie Pignard,Match Report,,2024-2025,Montpellier
+2024-09-22,17:00,Ligue 1,Matchweek 5,Sun,Home,W,3,2,Auxerre,2.0,1.2,54,11643.0,Téji Savanier,4-2-3-1,5-4-1,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Montpellier
+2024-09-28,21:00,Ligue 1,Matchweek 6,Sat,Away,L,1,2,Monaco,0.9,3.2,35,13065.0,Téji Savanier,4-2-3-1,4-2-2-2,Marc Bollengier,Match Report,,2024-2025,Montpellier
+2024-10-06,17:00,Ligue 1,Matchweek 7,Sun,Away,L,2,4,Reims,0.5,3.0,52,14903.0,Téji Savanier,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Montpellier
+2024-10-20,20:45,Ligue 1,Matchweek 8,Sun,Home,L,0,5,Marseille,1.3,3.2,35,18000.0,Téji Savanier,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Montpellier
+2024-10-27,17:00,Ligue 1,Matchweek 9,Sun,Home,L,0,3,Toulouse,0.2,1.9,51,14111.0,Téji Savanier,4-1-4-1,3-4-3,Thomas Léonard,Match Report,,2024-2025,Montpellier
+2024-11-03,17:00,Ligue 1,Matchweek 10,Sun,Away,L,0,1,Le Havre,1.0,2.2,52,18703.0,Jordan Ferri,3-4-3,3-1-4-2,Stéphanie Frappart,Match Report,,2024-2025,Montpellier
+2024-11-10,17:00,Ligue 1,Matchweek 11,Sun,Home,W,3,1,Brest,2.5,0.9,33,12936.0,Jordan Ferri,4-2-3-1,4-3-3,Jérémie Pignard,Match Report,,2024-2025,Montpellier
+2024-11-23,19:00,Ligue 1,Matchweek 12,Sat,Away,L,0,1,Saint-Étienne,0.9,1.5,67,33008.0,Téji Savanier,4-2-3-1,5-4-1,Florent Batta,Match Report,,2024-2025,Montpellier
+2024-12-01,15:00,Ligue 1,Matchweek 13,Sun,Home,D,2,2,Lille,1.4,2.2,42,14000.0,Téji Savanier,4-2-3-1,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Montpellier
+2024-12-08,15:00,Ligue 1,Matchweek 14,Sun,Away,L,0,2,Lens,1.0,1.3,45,37317.0,Téji Savanier,3-4-1-2,4-2-3-1,Mathieu Vernice,Match Report,,2024-2025,Montpellier
+2024-12-15,15:00,Ligue 1,Matchweek 15,Sun,Home,D,2,2,Nice,2.0,1.4,52,11612.0,Téji Savanier,4-2-3-1,4-1-4-1,Clément Turpin,Match Report,,2024-2025,Montpellier
+2024-12-21,18:00,Coupe de France,Round of 64,Sat,Away,L,0,4,Le Puy Foot 43,,,53,3226.0,Téji Savanier,4-2-3-1,4-4-2,Jérémie Pignard,Match Report,,2024-2025,Montpellier
+2025-01-04,21:00,Ligue 1,Matchweek 16,Sat,Away,L,0,1,Lyon,1.2,1.4,43,48162.0,Jordan Ferri,3-4-3,4-3-3,Jeremy Stinat,Match Report,,2024-2025,Montpellier
+2025-01-12,17:15,Ligue 1,Matchweek 17,Sun,Home,L,1,3,Angers,1.2,3.8,58,11719.0,Jordan Ferri,4-1-4-1,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Montpellier
+2025-01-17,19:00,Ligue 1,Matchweek 18,Fri,Home,W,2,1,Monaco,2.4,1.8,33,11371.0,Benjamin Lecomte,5-3-2,4-2-3-1,Jérôme Brisard,Match Report,,2024-2025,Montpellier
+2025-01-26,17:15,Ligue 1,Matchweek 19,Sun,Away,W,2,1,Toulouse,0.5,1.0,34,28382.0,Benjamin Lecomte,4-3-1-2,3-4-3,Clément Turpin,Match Report,,2024-2025,Montpellier
+2025-01-31,20:45,Ligue 1,Matchweek 20,Fri,Home,L,0,2,Lens,0.8,2.0,49,15330.0,Benjamin Lecomte,4-3-1-2,5-3-2,Bastien Dechepy,Match Report,,2024-2025,Montpellier
+2025-02-09,17:15,Ligue 1,Matchweek 21,Sun,Away,L,0,2,Strasbourg,1.8,2.7,41,19042.0,Benjamin Lecomte,3-4-1-2,3-4-3,Jeremy Stinat,Match Report,,2024-2025,Montpellier
+2025-02-16,15:00,Ligue 1,Matchweek 22,Sun,Home,L,1,4,Lyon,1.4,1.0,38,16573.0,Benjamin Lecomte,4-3-1-2,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Montpellier
+2025-02-23,17:15,Ligue 1,Matchweek 23,Sun,Away,L,0,2,Nice,0.6,1.8,44,18519.0,Benjamin Lecomte,5-3-2,3-4-3,Willy Delajod,Match Report,,2024-2025,Montpellier
+2025-03-02,17:15,Ligue 1,Matchweek 24,Sun,Home,L,0,4,Rennes,1.6,2.4,46,11990.0,Benjamin Lecomte,5-3-2,3-5-2,Florent Batta,Match Report,,2024-2025,Montpellier
+2025-03-08,19:00,Ligue 1,Matchweek 25,Sat,Away,L,0,1,Lille,0.3,1.5,24,42467.0,Benjamin Lecomte,5-4-1,4-3-3,Jérémie Pignard,Match Report,,2024-2025,Montpellier
+2025-03-16,17:15,Ligue 1,Matchweek 26,Sun,Home,L,0,2,Saint-Étienne,,,41,,Benjamin Lecomte,4-2-3-1,4-3-3,François Letexier,Match Report,Match awarded to Saint-Étienne,2024-2025,Montpellier
+2025-03-30,17:15,Ligue 1,Matchweek 27,Sun,Away,L,0,1,Auxerre,0.5,2.1,47,16558.0,Benjamin Lecomte,4-2-3-1,3-4-3,Marc Bollengier,Match Report,,2024-2025,Montpellier
+2025-04-06,17:15,Ligue 1,Matchweek 28,Sun,Home,L,0,2,Le Havre,1.0,1.4,55,10146.0,Benjamin Lecomte,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Montpellier
+2025-04-13,17:15,Ligue 1,Matchweek 29,Sun,Away,L,0,2,Angers,0.5,1.4,63,12547.0,Benjamin Lecomte,5-4-1,5-3-2,Benoît Millot,Match Report,,2024-2025,Montpellier
+2025-04-19,21:05,Ligue 1,Matchweek 30,Sat,Away,L,1,5,Marseille,0.3,3.7,32,66312.0,Benjamin Lecomte,5-4-1,3-4-3,Jérôme Brisard,Match Report,,2024-2025,Montpellier
+2025-04-27,17:15,Ligue 1,Matchweek 31,Sun,Home,D,0,0,Reims,0.6,0.7,53,10806.0,Benjamin Lecomte,5-4-1,5-4-1,Jérémie Pignard,Match Report,,2024-2025,Montpellier
+2025-05-04,17:15,Ligue 1,Matchweek 32,Sun,Away,L,0,1,Brest,0.5,1.1,37,13121.0,Benjamin Lecomte,5-4-1,4-3-3,Romain Lissorgue,Match Report,,2024-2025,Montpellier
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Home,L,1,4,Paris S-G,0.6,1.7,31,16787.0,Benjamin Lecomte,5-3-2,3-4-3,Mathieu Vernice,Match Report,,2024-2025,Montpellier
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Away,L,0,3,Nantes,0.8,2.5,56,34780.0,Becir Omeragic,5-3-2,3-5-2,Clément Turpin,Match Report,,2024-2025,Montpellier

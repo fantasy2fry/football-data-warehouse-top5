@@ -1,0 +1,46 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,15:00,Ligue 1,Matchweek 1,Sun,Away,L,1,2,Auxerre,0.7,1.8,55,16354,Dante,3-4-3,4-4-2,Romain Lissorgue,Match Report,,2024-2025,Nice
+2024-08-25,17:00,Ligue 1,Matchweek 2,Sun,Home,D,1,1,Toulouse,1.3,1.0,57,21656,Dante,3-5-2,3-4-3,Bastien Dechepy,Match Report,,2024-2025,Nice
+2024-09-01,17:00,Ligue 1,Matchweek 3,Sun,Away,W,4,1,Angers,2.2,1.4,46,9168,Dante,3-4-3,5-3-2,Jeremy Stinat,Match Report,,2024-2025,Nice
+2024-09-14,17:00,Ligue 1,Matchweek 4,Sat,Away,L,0,2,Marseille,1.9,0.7,44,65803,Dante,3-4-3,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Nice
+2024-09-20,20:45,Ligue 1,Matchweek 5,Fri,Home,W,8,0,Saint-Étienne,4.7,0.3,59,30024,Dante,3-4-3,4-3-3,Thomas Léonard,Match Report,,2024-2025,Nice
+2024-09-25,21:00,Europa Lg,League phase,Wed,Home,D,1,1,es Real Sociedad,1.3,0.7,55,20545,Dante,3-4-3,5-3-2,Morten Krogh,Match Report,,2024-2025,Nice
+2024-09-28,17:00,Ligue 1,Matchweek 6,Sat,Away,D,0,0,Lens,1.1,1.9,44,37301,Youssouf Ndayishimiye,3-4-3,4-2-3-1,François Letexier,Match Report,,2024-2025,Nice
+2024-10-03,18:45,Europa Lg,League phase,Thu,Away,L,1,4,it Lazio,1.0,1.9,60,27314,Dante,3-4-3,4-2-3-1,Horațiu Fesnic,Match Report,,2024-2025,Nice
+2024-10-06,20:45,Ligue 1,Matchweek 7,Sun,Home,D,1,1,Paris S-G,0.5,1.3,29,30247,Dante,3-4-3,4-3-3,Jérôme Brisard,Match Report,,2024-2025,Nice
+2024-10-20,17:00,Ligue 1,Matchweek 8,Sun,Away,D,1,1,Nantes,0.8,0.5,57,28141,Pablo Rosario,3-4-3,4-3-3,Gaël Angoula,Match Report,,2024-2025,Nice
+2024-10-24,18:45,Europa Lg,League phase,Thu,Away,L,0,1,hu Ferencváros,1.0,1.5,52,18371,Pablo Rosario,3-4-3,4-2-3-1,Tasos Sidiropoulos,Match Report,,2024-2025,Nice
+2024-10-27,17:00,Ligue 1,Matchweek 9,Sun,Home,W,2,1,Monaco,1.6,0.5,41,29795,Pablo Rosario,3-4-3,4-2-3-1,Jérémie Pignard,Match Report,,2024-2025,Nice
+2024-11-02,19:00,Ligue 1,Matchweek 10,Sat,Away,W,1,0,Brest,1.4,1.0,37,14534,Dante,3-4-3,4-3-3,Clément Turpin,Match Report,,2024-2025,Nice
+2024-11-07,18:45,Europa Lg,League phase,Thu,Home,D,2,2,nl Twente,1.3,1.0,51,11144,Dante,3-4-3,4-2-3-1,Balázs Berke,Match Report,,2024-2025,Nice
+2024-11-10,15:00,Ligue 1,Matchweek 11,Sun,Home,D,2,2,Lille,2.1,1.7,43,25063,Youssouf Ndayishimiye,3-4-3,4-3-3,Jeremy Stinat,Match Report,,2024-2025,Nice
+2024-11-24,20:45,Ligue 1,Matchweek 12,Sun,Home,W,2,1,Strasbourg,2.1,0.4,54,18389,Dante,4-4-2,4-4-2,Benoît Bastien,Match Report,,2024-2025,Nice
+2024-11-28,21:00,Europa Lg,League phase,Thu,Home,L,1,4,sct Rangers,1.4,2.2,53,18008,Youssouf Ndayishimiye,3-4-1-2,4-2-3-1,Ricardo de Burgos,Match Report,,2024-2025,Nice
+2024-12-01,17:00,Ligue 1,Matchweek 13,Sun,Away,L,1,4,Lyon,2.1,2.7,47,59977,Pablo Rosario,4-3-3,4-3-3,Bastien Dechepy,Match Report,,2024-2025,Nice
+2024-12-07,19:00,Ligue 1,Matchweek 14,Sat,Home,W,2,1,Le Havre,2.0,1.1,51,21248,Pablo Rosario,4-3-1-2,3-5-1-1,François Letexier,Match Report,,2024-2025,Nice
+2024-12-12,18:45,Europa Lg,League phase,Thu,Away,L,1,2,be Union SG,1.8,3.8,51,7501,Pablo Rosario,4-3-1-2,3-1-4-2,Chris Kavanagh,Match Report,,2024-2025,Nice
+2024-12-15,15:00,Ligue 1,Matchweek 15,Sun,Away,D,2,2,Montpellier,1.4,2.0,48,11612,Pablo Rosario,4-1-4-1,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Nice
+2024-12-21,18:00,Coupe de France,Round of 64,Sat,Away,D,1 (5),1 (3),USC Corte,,,76,4591,Gaëtan Laborde,4-1-4-1,4-4-2,Abdelatif Kherradji,Match Report,Nice won on penalty kicks following extra time,2024-2025,Nice
+2025-01-03,21:00,Ligue 1,Matchweek 16,Fri,Home,W,3,2,Rennes,1.5,1.7,47,21332,Youssouf Ndayishimiye,4-2-3-1,3-4-3,Jérôme Brisard,Match Report,,2024-2025,Nice
+2025-01-11,19:00,Ligue 1,Matchweek 17,Sat,Away,W,4,2,Reims,2.5,0.8,46,12270,Dante,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Nice
+2025-01-14,20:45,Coupe de France,Round of 32,Tue,Away,W,1,0,Bastia,,,50,9299,Youssouf Ndayishimiye,4-2-3-1,4-2-3-1,Jérémie Pignard,Match Report,,2024-2025,Nice
+2025-01-17,21:05,Ligue 1,Matchweek 18,Fri,Away,L,1,2,Lille,2.8,1.1,45,38325,Dante,4-2-3-1,4-2-3-1,François Letexier,Match Report,,2024-2025,Nice
+2025-01-23,21:00,Europa Lg,League phase,Thu,Away,L,0,1,se Elfsborg,1.7,0.7,67,7566,Sofiane Diop,3-1-4-2,3-4-3,Igor Pajač,Match Report,,2024-2025,Nice
+2025-01-26,20:45,Ligue 1,Matchweek 19,Sun,Home,W,2,0,Marseille,1.2,0.8,29,31017,Dante,3-4-3,3-4-3,Eric Wattellier,Match Report,,2024-2025,Nice
+2025-01-30,21:00,Europa Lg,League phase,Thu,Home,D,1,1,no Bodø/Glimt,1.0,0.9,46,4294,Sofiane Diop,3-4-3,4-3-3,Juxhin Xhaja,Match Report,,2024-2025,Nice
+2025-02-02,15:00,Ligue 1,Matchweek 20,Sun,Away,D,1,1,Toulouse,1.7,1.4,46,23522,Dante,3-4-3,3-4-3,Thomas Léonard,Match Report,,2024-2025,Nice
+2025-02-05,20:45,Coupe de France,Round of 16,Wed,Away,L,1,2,Stade Briochin,,,62,4685,Sofiane Diop,3-4-3,5-3-2,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Nice
+2025-02-08,17:00,Ligue 1,Matchweek 21,Sat,Home,W,2,0,Lens,2.2,1.2,60,22586,Dante,3-4-3,5-3-2,Romain Lissorgue,Match Report,,2024-2025,Nice
+2025-02-16,17:15,Ligue 1,Matchweek 22,Sun,Away,W,3,1,Le Havre,1.4,0.7,51,17739,Dante,3-4-3,4-1-4-1,Stéphanie Frappart,Match Report,,2024-2025,Nice
+2025-02-23,17:15,Ligue 1,Matchweek 23,Sun,Home,W,2,0,Montpellier,1.8,0.6,56,18519,Dante,3-4-3,5-3-2,Willy Delajod,Match Report,,2024-2025,Nice
+2025-03-01,17:00,Ligue 1,Matchweek 24,Sat,Away,W,3,1,Saint-Étienne,1.8,0.9,38,30070,Dante,3-4-3,4-2-3-1,Jérôme Brisard,Match Report,,2024-2025,Nice
+2025-03-09,20:45,Ligue 1,Matchweek 25,Sun,Home,L,0,2,Lyon,1.4,1.1,37,23840,Dante,3-4-3,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Nice
+2025-03-14,20:45,Ligue 1,Matchweek 26,Fri,Home,D,1,1,Auxerre,2.0,0.7,51,18640,Dante,3-4-3,5-4-1,Abdelatif Kherradji,Match Report,,2024-2025,Nice
+2025-03-29,21:05,Ligue 1,Matchweek 27,Sat,Away,L,1,2,Monaco,0.5,2.4,42,11564,Dante,3-4-3,4-4-2,Jérôme Brisard,Match Report,,2024-2025,Nice
+2025-04-04,20:45,Ligue 1,Matchweek 28,Fri,Home,L,1,2,Nantes,1.9,0.5,76,20585,Youssouf Ndayishimiye,3-4-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Nice
+2025-04-12,21:05,Ligue 1,Matchweek 29,Sat,Away,D,2,2,Strasbourg,1.7,0.7,53,19210,Dante,3-4-3,3-4-3,Jérémie Pignard,Match Report,,2024-2025,Nice
+2025-04-20,17:15,Ligue 1,Matchweek 30,Sun,Home,W,2,1,Angers,2.8,0.4,53,25088,Youssouf Ndayishimiye,3-4-3,5-3-2,Jeremy Stinat,Match Report,,2024-2025,Nice
+2025-04-25,20:45,Ligue 1,Matchweek 31,Fri,Away,W,3,1,Paris S-G,1.0,3.0,25,47597,Youssouf Ndayishimiye,3-5-2,4-3-3,Willy Delajod,Match Report,,2024-2025,Nice
+2025-05-02,20:45,Ligue 1,Matchweek 32,Fri,Home,W,1,0,Reims,1.5,1.3,55,24758,Pablo Rosario,3-5-2,5-4-1,Abdelatif Kherradji,Match Report,,2024-2025,Nice
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Away,L,0,2,Rennes,1.1,1.7,50,26118,Pablo Rosario,3-5-2,4-3-3,Jeremy Stinat,Match Report,,2024-2025,Nice
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Home,W,6,0,Brest,4.9,0.9,42,30298,Dante,3-4-3,4-1-2-1-2,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Nice

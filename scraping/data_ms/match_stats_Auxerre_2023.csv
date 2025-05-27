@@ -1,0 +1,42 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2023-08-05,19:00,Ligue 2,Matchweek 1,Sat,Away,W,4,1,Valenciennes,51.0,6259,Elisha Owusu,4-2-3-1,4-2-3-1,Faouzi Benchabane,Match Report,,2023-2024,Auxerre
+2023-08-12,19:00,Ligue 2,Matchweek 2,Sat,Home,L,0,1,Amiens,69.0,14682,Jubal,4-2-3-1,4-2-3-1,Olivier Thual,Match Report,,2023-2024,Auxerre
+2023-08-19,15:00,Ligue 2,Matchweek 3,Sat,Away,D,2,2,Angers,46.0,6406,Jubal,4-2-3-1,4-2-3-1,Abdelatif Kherradji,Match Report,,2023-2024,Auxerre
+2023-08-26,19:00,Ligue 2,Matchweek 4,Sat,Home,D,0,0,Grenoble,58.0,13797,Jubal,4-2-3-1,4-3-3,Karim Abed,Match Report,,2023-2024,Auxerre
+2023-09-02,15:00,Ligue 2,Matchweek 5,Sat,Away,W,4,2,Bordeaux,51.0,26771,Jubal,4-2-3-1,4-2-3-1,Mikael Lesage,Match Report,,2023-2024,Auxerre
+2023-09-16,19:00,Ligue 2,Matchweek 6,Sat,Home,D,2,2,Pau FC,60.0,13254,Jubal,4-2-3-1,3-4-1-2,Nicolas Rainville,Match Report,,2023-2024,Auxerre
+2023-09-23,15:00,Ligue 2,Matchweek 7,Sat,Away,W,2,1,Troyes,50.0,9055,Jubal,4-2-3-1,4-3-3,Aurélien Petit,Match Report,,2023-2024,Auxerre
+2023-09-26,20:45,Ligue 2,Matchweek 8,Tue,Home,W,4,0,Annecy,63.0,12010,Jubal,4-2-3-1,4-3-3,Olivier Thual,Match Report,,2023-2024,Auxerre
+2023-09-30,19:00,Ligue 2,Matchweek 9,Sat,Home,W,3,1,Rodez Aveyron,66.0,14421,Jubal,4-2-3-1,3-5-2,Faouzi Benchabane,Match Report,,2023-2024,Auxerre
+2023-10-07,19:00,Ligue 2,Matchweek 10,Sat,Away,W,2,0,Paris FC,54.0,9729,Elisha Owusu,4-2-3-1,3-4-3,Guillaume Paradis,Match Report,,2023-2024,Auxerre
+2023-10-21,15:00,Ligue 2,Matchweek 11,Sat,Away,D,1,1,Caen,62.0,17917,Jubal,4-2-3-1,4-4-2,Jérémie Pignard,Match Report,,2023-2024,Auxerre
+2023-10-28,19:00,Ligue 2,Matchweek 12,Sat,Home,L,0,1,Dunkerque,63.0,15514,Jubal,4-2-3-1,4-2-3-1,Ahmed Taleb,Match Report,,2023-2024,Auxerre
+2023-11-06,20:45,Ligue 2,Matchweek 13,Mon,Away,L,1,2,Guingamp,62.0,6850,Elisha Owusu,4-2-3-1,4-4-2,Pierre Legat,Match Report,,2023-2024,Auxerre
+2023-11-11,19:00,Ligue 2,Matchweek 14,Sat,Home,W,5,2,Saint-Étienne,45.0,16806,Jubal,4-2-3-1,4-3-3,Benjamin Lepaysant,Match Report,,2023-2024,Auxerre
+2023-11-18,18:00,Coupe de France,Seventh round,Sat,Away,D,0 (4),0 (2),US Le Pays du Valois,,1876,Jubal,,,Thierry Bouille,Match Report,Auxerre won on penalty kicks following extra time,2023-2024,Auxerre
+2023-11-25,19:00,Ligue 2,Matchweek 15,Sat,Away,D,0,0,Bastia,50.0,10427,Jubal,4-2-3-1,3-4-3,Willy Delajod,Match Report,,2023-2024,Auxerre
+2023-12-02,19:00,Ligue 2,Matchweek 16,Sat,Home,W,3,2,Quevilly-Rouen,69.0,13430,Jubal,4-2-3-1,4-4-2,Romain Delpech,Match Report,,2023-2024,Auxerre
+2023-12-05,20:45,Ligue 2,Matchweek 17,Tue,Away,W,2,1,US Concarneau,49.0,1570,Jubal,4-2-3-1,4-2-2-2,Azzedine Souifi,Match Report,,2023-2024,Auxerre
+2023-12-09,17:00,Coupe de France,Eighth round,Sat,Away,W,4,1,FC Saint-Méziéry,,3329,Saad Agouzoul,,,Mickaël Leleu,Match Report,,2023-2024,Auxerre
+2023-12-16,15:00,Ligue 2,Matchweek 18,Sat,Home,W,2,0,Ajaccio,60.0,15031,Jubal,4-2-3-1,4-1-4-1,Nicolas Rainville,Match Report,,2023-2024,Auxerre
+2023-12-19,20:45,Ligue 2,Matchweek 19,Tue,Away,W,3,1,Stade Laval,61.0,8793,Jubal,4-2-3-1,3-5-2,Remi Landry,Match Report,,2023-2024,Auxerre
+2024-01-06,20:45,Coupe de France,Round of 64,Sat,Away,D,0 (2),0 (4),Nice,44.0,20973,Jubal,4-2-3-1,3-4-3,Eric Wattellier,Match Report,Nice won on penalty kicks following extra time,2023-2024,Auxerre
+2024-01-15,20:45,Ligue 2,Matchweek 20,Mon,Home,W,3,1,Bordeaux,46.0,13312,Jubal,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2023-2024,Auxerre
+2024-01-23,20:45,Ligue 2,Matchweek 21,Tue,Away,D,1,1,Grenoble,58.0,6017,Jubal,4-2-3-1,4-3-3,Gaël Angoula,Match Report,,2023-2024,Auxerre
+2024-01-27,19:00,Ligue 2,Matchweek 22,Sat,Home,D,1,1,Guingamp,62.0,13677,Jubal,4-2-3-1,4-4-2,Mikael Lesage,Match Report,,2023-2024,Auxerre
+2024-02-03,19:00,Ligue 2,Matchweek 23,Sat,Away,D,2,2,Pau FC,57.0,3753,Jubal,4-2-3-1,4-4-1-1,Mickaël Leleu,Match Report,,2023-2024,Auxerre
+2024-02-10,15:00,Ligue 2,Matchweek 24,Sat,Home,W,1,0,Angers,50.0,16732,Jubal,4-2-3-1,4-2-3-1,Mathieu Vernice,Match Report,,2023-2024,Auxerre
+2024-02-17,19:00,Ligue 2,Matchweek 25,Sat,Away,W,2,0,Annecy,60.0,5416,Jubal,4-2-3-1,4-4-2,Azzedine Souifi,Match Report,,2023-2024,Auxerre
+2024-02-24,19:00,Ligue 2,Matchweek 26,Sat,Home,D,1,1,Bastia,58.0,14716,Jubal,4-2-3-1,5-3-2,Jeremy Stinat,Match Report,,2023-2024,Auxerre
+2024-03-02,19:00,Ligue 2,Matchweek 27,Sat,Home,D,0,0,Valenciennes,68.0,15058,Jubal,4-2-3-1,4-4-2,Abdelatif Kherradji,Match Report,,2023-2024,Auxerre
+2024-03-09,15:00,Ligue 2,Matchweek 28,Sat,Away,L,0,1,Saint-Étienne,48.0,36277,Jubal,4-2-3-1,4-1-4-1,Olivier Thual,Match Report,,2023-2024,Auxerre
+2024-03-16,15:00,Ligue 2,Matchweek 29,Sat,Home,W,2,1,Caen,65.0,14964,Jubal,4-2-2-2,4-2-3-1,Remi Landry,Match Report,,2023-2024,Auxerre
+2024-04-01,20:45,Ligue 2,Matchweek 30,Mon,Away,W,1,0,Ajaccio,56.0,8000,Jubal,4-4-2,4-4-2,Benoît Millot,Match Report,,2023-2024,Auxerre
+2024-04-08,20:45,Ligue 2,Matchweek 31,Mon,Home,W,2,0,Troyes,60.0,15776,Elisha Owusu,4-4-2,4-2-3-1,Benoît Bastien,Match Report,,2023-2024,Auxerre
+2024-04-13,19:00,Ligue 2,Matchweek 32,Sat,Away,L,3,4,Quevilly-Rouen,59.0,4734,Elisha Owusu,4-2-3-1,3-4-3,Faouzi Benchabane,Match Report,,2023-2024,Auxerre
+2024-04-20,15:00,Ligue 2,Matchweek 33,Sat,Away,L,0,2,Rodez Aveyron,53.0,3263,Jubal,4-2-3-1,3-1-4-2,Florent Batta,Match Report,,2023-2024,Auxerre
+2024-04-23,20:45,Ligue 2,Matchweek 34,Tue,Home,W,4,0,Stade Laval,65.0,16698,Jubal,4-2-3-1,3-4-3,Romain Lissorgue,Match Report,,2023-2024,Auxerre
+2024-04-29,20:45,Ligue 2,Matchweek 35,Mon,Away,W,3,1,Dunkerque,59.0,4933,Jubal,4-2-3-1,4-2-3-1,Mathieu Vernice,Match Report,,2023-2024,Auxerre
+2024-05-04,15:00,Ligue 2,Matchweek 36,Sat,Home,W,2,0,Paris FC,43.0,16821,Jubal,4-2-3-1,4-3-1-2,Aurélien Petit,Match Report,,2023-2024,Auxerre
+2024-05-10,20:45,Ligue 2,Matchweek 37,Fri,Away,D,0,0,Amiens,57.0,12377,Jubal,4-2-3-1,5-3-2,Abdelatif Kherradji,Match Report,,2023-2024,Auxerre
+2024-05-17,20:45,Ligue 2,Matchweek 38,Fri,Home,W,4,1,US Concarneau,58.0,17101,Elisha Owusu,4-2-3-1,4-4-2,Nicolas Rainville,Match Report,,2023-2024,Auxerre

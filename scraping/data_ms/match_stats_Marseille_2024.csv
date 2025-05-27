@@ -1,0 +1,37 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-17,17:00,Ligue 1,Matchweek 1,Sat,Away,W,5,1,Brest,2.4,1.3,50,14962,Leonardo Balerdi,4-2-3-1,4-3-3,,Match Report,,2024-2025,Marseille
+2024-08-25,20:45,Ligue 1,Matchweek 2,Sun,Home,D,2,2,Reims,3.0,0.9,66,63841,Leonardo Balerdi,4-2-3-1,4-3-3,,Match Report,,2024-2025,Marseille
+2024-08-31,21:00,Ligue 1,Matchweek 3,Sat,Away,W,3,1,Toulouse,0.8,1.0,76,19178,Pierre Højbjerg,4-2-3-1,3-4-3,Stéphanie Frappart,Match Report,,2024-2025,Marseille
+2024-09-14,17:00,Ligue 1,Matchweek 4,Sat,Home,W,2,0,Nice,0.7,1.9,56,65803,Pierre Højbjerg,4-2-3-1,3-4-3,Benoît Millot,Match Report,,2024-2025,Marseille
+2024-09-22,20:45,Ligue 1,Matchweek 5,Sun,Away,W,3,2,Lyon,0.8,3.0,37,53928,Leonardo Balerdi,4-2-3-1,3-5-2,Benoît Bastien,Match Report,,2024-2025,Marseille
+2024-09-29,20:45,Ligue 1,Matchweek 6,Sun,Away,L,0,1,Strasbourg,0.5,1.3,59,19790,Pierre Højbjerg,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Marseille
+2024-10-04,20:45,Ligue 1,Matchweek 7,Fri,Home,D,1,1,Angers,0.9,0.8,76,54568,Leonardo Balerdi,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Marseille
+2024-10-20,20:45,Ligue 1,Matchweek 8,Sun,Away,W,5,0,Montpellier,3.2,1.3,65,18000,Leonardo Balerdi,4-2-3-1,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Marseille
+2024-10-27,20:45,Ligue 1,Matchweek 9,Sun,Home,L,0,3,Paris S-G,0.2,3.1,26,66115,Leonardo Balerdi,4-2-3-1,4-3-3,François Letexier,Match Report,,2024-2025,Marseille
+2024-11-03,20:45,Ligue 1,Matchweek 10,Sun,Away,W,2,1,Nantes,1.2,1.4,73,33248,Leonardo Balerdi,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2024-2025,Marseille
+2024-11-08,20:45,Ligue 1,Matchweek 11,Fri,Home,L,1,3,Auxerre,2.5,1.9,74,64184,Leonardo Balerdi,4-2-3-1,3-4-3,Marc Bollengier,Match Report,,2024-2025,Marseille
+2024-11-23,17:00,Ligue 1,Matchweek 12,Sat,Away,W,3,1,Lens,1.2,2.5,55,38823,Leonardo Balerdi,3-5-2,3-4-3,Eric Wattellier,Match Report,,2024-2025,Marseille
+2024-12-01,20:45,Ligue 1,Matchweek 13,Sun,Home,W,2,1,Monaco,1.9,1.0,63,64277,Leonardo Balerdi,3-4-3,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Marseille
+2024-12-08,20:45,Ligue 1,Matchweek 14,Sun,Away,W,2,0,Saint-Étienne,2.5,0.1,68,35350,Leonardo Balerdi,3-4-3,5-4-1,Jérôme Brisard,Match Report,,2024-2025,Marseille
+2024-12-14,17:00,Ligue 1,Matchweek 15,Sat,Home,D,1,1,Lille,1.2,1.4,56,64380,Leonardo Balerdi,3-4-3,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Marseille
+2024-12-22,14:45,Coupe de France,Round of 64,Sun,Away,W,4,0,Saint-Étienne,,,80,34547,Leonardo Balerdi,4-2-3-1,4-3-3,Jeremy Stinat,Match Report,,2024-2025,Marseille
+2025-01-05,20:45,Ligue 1,Matchweek 16,Sun,Home,W,5,1,Le Havre,3.2,0.4,70,64092,Leonardo Balerdi,3-4-3,3-5-2,Thomas Léonard,Match Report,,2024-2025,Marseille
+2025-01-11,21:05,Ligue 1,Matchweek 17,Sat,Away,W,2,1,Rennes,1.7,1.2,64,26837,Leonardo Balerdi,3-4-3,3-4-3,Abdelatif Kherradji,Match Report,,2024-2025,Marseille
+2025-01-14,21:10,Coupe de France,Round of 32,Tue,Home,D,1 (3),1 (4),Lille,,,62,61954,Leonardo Balerdi,3-4-3,4-2-3-1,Clément Turpin,Match Report,Lille won on penalty kicks following normal time,2024-2025,Marseille
+2025-01-19,20:45,Ligue 1,Matchweek 18,Sun,Home,D,1,1,Strasbourg,2.8,0.9,69,61000,Leonardo Balerdi,3-4-3,4-1-4-1,Bastien Dechepy,Match Report,,2024-2025,Marseille
+2025-01-26,20:45,Ligue 1,Matchweek 19,Sun,Away,L,0,2,Nice,0.8,1.2,71,31017,Leonardo Balerdi,3-4-3,3-4-3,Eric Wattellier,Match Report,,2024-2025,Marseille
+2025-02-02,20:45,Ligue 1,Matchweek 20,Sun,Home,W,3,2,Lyon,3.2,1.7,63,66096,Leonardo Balerdi,3-4-3,4-2-3-1,Jérôme Brisard,Match Report,,2024-2025,Marseille
+2025-02-09,20:45,Ligue 1,Matchweek 21,Sun,Away,W,2,0,Angers,2.4,0.5,78,17325,Leonardo Balerdi,3-4-1-2,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Marseille
+2025-02-15,17:00,Ligue 1,Matchweek 22,Sat,Home,W,5,1,Saint-Étienne,6.1,1.0,70,66199,Leonardo Balerdi,3-4-1-2,4-3-3,Abdelatif Kherradji,Match Report,,2024-2025,Marseille
+2025-02-22,21:05,Ligue 1,Matchweek 23,Sat,Away,L,0,3,Auxerre,0.7,2.0,79,17183,Pierre Højbjerg,3-4-3,5-4-1,Jeremy Stinat,Match Report,,2024-2025,Marseille
+2025-03-02,20:45,Ligue 1,Matchweek 24,Sun,Home,W,2,0,Nantes,2.1,0.8,74,64074,Leonardo Balerdi,3-4-3,5-4-1,Stéphanie Frappart,Match Report,,2024-2025,Marseille
+2025-03-08,21:05,Ligue 1,Matchweek 25,Sat,Home,L,0,1,Lens,1.0,0.9,75,64952,Leonardo Balerdi,3-4-3,5-4-1,Thomas Léonard,Match Report,,2024-2025,Marseille
+2025-03-16,20:45,Ligue 1,Matchweek 26,Sun,Away,L,1,3,Paris S-G,1.2,2.6,40,47000,Adrien Rabiot,3-4-3,4-3-3,Clément Turpin,Match Report,,2024-2025,Marseille
+2025-03-29,17:00,Ligue 1,Matchweek 27,Sat,Away,L,1,3,Reims,1.1,1.0,80,20213,Leonardo Balerdi,3-4-3,5-4-1,Willy Delajod,Match Report,,2024-2025,Marseille
+2025-04-06,20:45,Ligue 1,Matchweek 28,Sun,Home,W,3,2,Toulouse,1.0,1.3,67,64320,Geoffrey Kondogbia,3-4-3,3-4-3,Jérémie Pignard,Match Report,,2024-2025,Marseille
+2025-04-12,17:00,Ligue 1,Matchweek 29,Sat,Away,L,0,3,Monaco,1.1,2.6,58,13232,Pierre Højbjerg,3-4-3,4-4-2,Benoît Bastien,Match Report,,2024-2025,Marseille
+2025-04-19,21:05,Ligue 1,Matchweek 30,Sat,Home,W,5,1,Montpellier,3.7,0.3,68,66312,Pierre Højbjerg,3-4-3,5-4-1,Jérôme Brisard,Match Report,,2024-2025,Marseille
+2025-04-27,20:45,Ligue 1,Matchweek 31,Sun,Home,W,4,1,Brest,0.9,1.2,54,62130,Leonardo Balerdi,4-2-3-1,4-2-3-1,Stéphanie Frappart,Match Report,,2024-2025,Marseille
+2025-05-04,20:45,Ligue 1,Matchweek 32,Sun,Away,D,1,1,Lille,1.3,0.5,59,48284,Leonardo Balerdi,4-2-3-1,4-4-2,Eric Wattellier,Match Report,,2024-2025,Marseille
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Away,W,3,1,Le Havre,2.5,0.9,54,23831,Leonardo Balerdi,4-2-3-1,4-3-3,Willy Delajod,Match Report,,2024-2025,Marseille
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Home,W,4,2,Rennes,3.9,1.3,60,57274,Leonardo Balerdi,4-3-3,4-1-4-1,Jérémie Pignard,Match Report,,2024-2025,Marseille

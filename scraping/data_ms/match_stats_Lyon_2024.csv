@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-18,20:45,Ligue 1,Matchweek 1,Sun,Away,L,0,3,Rennes,2.1,2.0,53,26026,Maxence Caqueret,4-3-3,4-1-2-1-2,,Match Report,,2024-2025,Lyon
+2024-08-24,17:00,Ligue 1,Matchweek 2,Sat,Home,L,0,2,Monaco,0.0,2.2,40,54392,Alexandre Lacazette,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Lyon
+2024-08-30,20:45,Ligue 1,Matchweek 3,Fri,Home,W,4,3,Strasbourg,2.9,2.7,48,43805,Alexandre Lacazette,3-5-2,3-2-4-1,Thomas Léonard,Match Report,,2024-2025,Lyon
+2024-09-15,20:45,Ligue 1,Matchweek 4,Sun,Away,D,0,0,Lens,0.6,1.0,46,38116,Alexandre Lacazette,3-5-2,3-4-1-2,Bastien Dechepy,Match Report,,2024-2025,Lyon
+2024-09-22,20:45,Ligue 1,Matchweek 5,Sun,Home,L,2,3,Marseille,3.0,0.8,63,53928,Alexandre Lacazette,3-5-2,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Lyon
+2024-09-26,21:00,Europa Lg,League phase,Thu,Home,W,2,0,gr Olympiacos,1.5,1.4,62,24412,Alexandre Lacazette,4-2-3-1,3-5-2,Lawrence Visser,Match Report,,2024-2025,Lyon
+2024-09-29,15:00,Ligue 1,Matchweek 6,Sun,Away,W,2,1,Toulouse,0.4,0.9,54,30026,Maxence Caqueret,4-3-3,3-4-3,Gaël Angoula,Match Report,,2024-2025,Lyon
+2024-10-03,20:00,Europa Lg,League phase,Thu,Away,W,4,1,sct Rangers,2.2,2.0,55,41981,Alexandre Lacazette,4-1-4-1,4-2-3-1,Sven Jablonski,Match Report,,2024-2025,Lyon
+2024-10-06,15:00,Ligue 1,Matchweek 7,Sun,Home,W,2,0,Nantes,3.2,0.9,61,51888,Alexandre Lacazette,4-2-3-1,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Lyon
+2024-10-20,15:00,Ligue 1,Matchweek 8,Sun,Away,W,4,0,Le Havre,2.7,0.4,61,22490,Alexandre Lacazette,4-3-3,3-1-4-2,Abdelatif Kherradji,Match Report,,2024-2025,Lyon
+2024-10-24,21:00,Europa Lg,League phase,Thu,Home,L,0,1,tr Beşiktaş,2.7,1.7,58,27350,Alexandre Lacazette,4-2-3-1,4-2-3-1,Harm Osmers,Match Report,,2024-2025,Lyon
+2024-10-27,15:00,Ligue 1,Matchweek 9,Sun,Home,D,2,2,Auxerre,2.0,1.5,62,54868,Nemanja Matić,4-3-3,3-4-3,Jeremy Stinat,Match Report,,2024-2025,Lyon
+2024-11-01,21:00,Ligue 1,Matchweek 10,Fri,Away,D,1,1,Lille,1.2,1.7,53,45084,Alexandre Lacazette,4-3-3,4-2-3-1,Jérôme Brisard,Match Report,,2024-2025,Lyon
+2024-11-07,21:00,Europa Lg,League phase,Thu,Away,D,2,2,de Hoffenheim,0.9,1.4,56,18227,Maxence Caqueret,3-4-3,3-4-1-2,Marian Barbu,Match Report,,2024-2025,Lyon
+2024-11-10,20:45,Ligue 1,Matchweek 11,Sun,Home,W,1,0,Saint-Étienne,1.1,0.6,62,58082,Alexandre Lacazette,4-3-3,4-1-4-1,Willy Delajod,Match Report,,2024-2025,Lyon
+2024-11-23,21:00,Ligue 1,Matchweek 12,Sat,Away,D,1,1,Reims,1.7,1.0,59,18500,Alexandre Lacazette,4-2-3-1,4-2-3-1,Stéphanie Frappart,Match Report,,2024-2025,Lyon
+2024-11-28,21:45,Europa Lg,League phase,Thu,Away,W,4,1,az Qarabağ,2.3,2.5,44,22563,Nicolás Tagliafico,4-2-3-1,4-2-3-1,Nenad Minaković,Match Report,,2024-2025,Lyon
+2024-12-01,17:00,Ligue 1,Matchweek 13,Sun,Home,W,4,1,Nice,2.7,2.1,53,59977,Alexandre Lacazette,4-3-3,4-3-3,Bastien Dechepy,Match Report,,2024-2025,Lyon
+2024-12-07,21:00,Ligue 1,Matchweek 14,Sat,Away,W,3,0,Angers,2.0,0.6,63,16301,Alexandre Lacazette,4-3-3,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Lyon
+2024-12-12,21:00,Europa Lg,League phase,Thu,Home,W,3,2,de Eint Frankfurt,2.1,1.1,43,41091,Alexandre Lacazette,4-3-3,4-4-2,Andris Treimanis,Match Report,,2024-2025,Lyon
+2024-12-15,20:45,Ligue 1,Matchweek 15,Sun,Away,L,1,3,Paris S-G,1.5,2.9,32,47000,Corentin Tolisso,4-1-4-1,4-3-3,Benoît Bastien,Match Report,,2024-2025,Lyon
+2024-12-21,18:00,Coupe de France,Round of 64,Sat,Away,W,2,1,SC Feignies,,,69,10219,Alexandre Lacazette,4-3-3,4-4-2,Gaël Angoula,Match Report,,2024-2025,Lyon
+2025-01-04,21:00,Ligue 1,Matchweek 16,Sat,Home,W,1,0,Montpellier,1.4,1.2,57,48162,Alexandre Lacazette,4-3-3,3-4-3,Jeremy Stinat,Match Report,,2024-2025,Lyon
+2025-01-11,17:00,Ligue 1,Matchweek 17,Sat,Away,L,1,2,Brest,1.4,1.1,67,14735,Alexandre Lacazette,4-1-4-1,4-3-1-2,Eric Wattellier,Match Report,,2024-2025,Lyon
+2025-01-15,18:00,Coupe de France,Round of 32,Wed,Away,D,2 (2),2 (4),Bourgoin-Jal.,,,73,6359,Corentin Tolisso,4-2-3-1,3-4-1-2,Mikael Lesage,Match Report,Bourgoin-Jal. won on penalty kicks following normal time,2024-2025,Lyon
+2025-01-18,21:05,Ligue 1,Matchweek 18,Sat,Home,D,0,0,Toulouse,0.7,1.1,62,42750,Corentin Tolisso,4-3-3,3-4-3,Benoît Millot,Match Report,,2024-2025,Lyon
+2025-01-23,20:45,Europa Lg,League phase,Thu,Away,D,0,0,tr Fenerbahçe,0.8,1.0,55,36722,Corentin Tolisso,4-2-3-1,3-4-3,Simone Sozza,Match Report,,2024-2025,Lyon
+2025-01-26,17:15,Ligue 1,Matchweek 19,Sun,Away,D,1,1,Nantes,1.1,1.2,62,32690,Alexandre Lacazette,4-3-3,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Lyon
+2025-01-30,21:00,Europa Lg,League phase,Thu,Home,D,1,1,bg Ludogorets,1.3,2.4,57,35448,Corentin Tolisso,4-3-3,4-2-3-1,Tasos Sidiropoulos,Match Report,,2024-2025,Lyon
+2025-02-02,20:45,Ligue 1,Matchweek 20,Sun,Away,L,2,3,Marseille,1.7,3.2,37,66096,Alexandre Lacazette,4-2-3-1,3-4-3,Jérôme Brisard,Match Report,,2024-2025,Lyon
+2025-02-09,15:00,Ligue 1,Matchweek 21,Sun,Home,W,4,0,Reims,3.3,0.4,67,43489,Corentin Tolisso,4-2-3-1,4-3-3,François Letexier,Match Report,,2024-2025,Lyon
+2025-02-16,15:00,Ligue 1,Matchweek 22,Sun,Away,W,4,1,Montpellier,1.0,1.4,62,16573,Corentin Tolisso,4-2-3-1,4-3-1-2,Marc Bollengier,Match Report,,2024-2025,Lyon
+2025-02-23,20:45,Ligue 1,Matchweek 23,Sun,Home,L,2,3,Paris S-G,1.8,2.3,35,57777,Corentin Tolisso,4-3-3,4-3-3,Eric Wattellier,Match Report,,2024-2025,Lyon
+2025-03-02,15:00,Ligue 1,Matchweek 24,Sun,Home,W,2,1,Brest,1.3,2.0,66,47804,Alexandre Lacazette,4-2-3-1,4-4-1-1,Benoît Millot,Match Report,,2024-2025,Lyon
+2025-03-06,19:45,Europa Lg,Round of 16,Thu,Away,W,3,1,ro FCSB,1.4,1.3,66,53028,Corentin Tolisso,4-2-3-1,4-2-3-1,Tobias Stieler,Match Report,Leg 1 of 2,2024-2025,Lyon
+2025-03-09,20:45,Ligue 1,Matchweek 25,Sun,Away,W,2,0,Nice,1.1,1.4,63,23840,Alexandre Lacazette,4-2-3-1,3-4-3,Benoît Bastien,Match Report,,2024-2025,Lyon
+2025-03-13,21:00,Europa Lg,Round of 16,Thu,Home,W,4,0,ro FCSB,2.8,0.5,65,37322,Corentin Tolisso,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,Leg 2 of 2; Lyon won,2024-2025,Lyon
+2025-03-16,15:00,Ligue 1,Matchweek 26,Sun,Home,W,4,2,Le Havre,3.9,1.7,67,39991,Alexandre Lacazette,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2024-2025,Lyon
+2025-03-28,20:45,Ligue 1,Matchweek 27,Fri,Away,L,2,4,Strasbourg,2.0,1.1,60,19496,Corentin Tolisso,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Lyon
+2025-04-05,21:05,Ligue 1,Matchweek 28,Sat,Home,W,2,1,Lille,1.8,0.9,56,53771,Alexandre Lacazette,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2024-2025,Lyon
+2025-04-10,21:00,Europa Lg,Quarter-finals,Thu,Home,D,2,2,eng Manchester Utd,1.8,1.2,54,58018,Corentin Tolisso,4-3-1-2,3-4-3,Glenn Nyberg,Match Report,Leg 1 of 2,2024-2025,Lyon
+2025-04-13,20:45,Ligue 1,Matchweek 29,Sun,Away,W,3,1,Auxerre,2.9,0.7,59,17511,Alexandre Lacazette,4-2-3-1,5-4-1,Stéphanie Frappart,Match Report,,2024-2025,Lyon
+2025-04-17,20:00,Europa Lg,Quarter-finals,Thu,Away,L,4,5,eng Manchester Utd,2.5,3.4,59,73228,Corentin Tolisso,4-3-1-2,3-4-3,Sandro Schärer,Match Report,Leg 2 of 2; Manchester Utd won; Required Extra Time,2024-2025,Lyon
+2025-04-20,20:45,Ligue 1,Matchweek 30,Sun,Away,L,1,2,Saint-Étienne,0.8,1.6,60,40372,Alexandre Lacazette,4-2-2-2,4-3-3,François Letexier,Match Report,,2024-2025,Lyon
+2025-04-26,21:05,Ligue 1,Matchweek 31,Sat,Home,W,4,1,Rennes,1.8,0.8,53,51034,Alexandre Lacazette,4-2-3-1,3-5-2,Marc Bollengier,Match Report,,2024-2025,Lyon
+2025-05-04,17:15,Ligue 1,Matchweek 32,Sun,Home,L,1,2,Lens,1.0,0.7,68,52020,Corentin Tolisso,4-2-3-1,5-4-1,Jeremy Stinat,Match Report,,2024-2025,Lyon
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Away,L,0,2,Monaco,0.4,1.2,49,13578,Alexandre Lacazette,4-3-1-2,4-4-2,Benoît Bastien,Match Report,,2024-2025,Lyon
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Home,W,2,0,Angers,3.9,0.5,57,56517,Alexandre Lacazette,4-2-3-1,4-5-1,Stéphanie Frappart,Match Report,,2024-2025,Lyon

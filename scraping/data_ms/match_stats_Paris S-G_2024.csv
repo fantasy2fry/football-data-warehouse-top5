@@ -1,0 +1,59 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-16,20:45,Ligue 1,Matchweek 1,Fri,Away,W,4,1,Le Havre,2.9,0.2,76.0,23167.0,Achraf Hakimi,4-3-3,4-3-3,,Match Report,,2024-2025,Paris S-G
+2024-08-23,20:45,Ligue 1,Matchweek 2,Fri,Home,W,6,0,Montpellier,3.8,0.6,68.0,46000.0,Marquinhos,4-3-3,5-3-2,,Match Report,,2024-2025,Paris S-G
+2024-09-01,20:45,Ligue 1,Matchweek 3,Sun,Away,W,3,1,Lille,2.6,1.4,58.0,45434.0,Marquinhos,4-3-3,3-4-3,Benoît Bastien,Match Report,,2024-2025,Paris S-G
+2024-09-14,21:00,Ligue 1,Matchweek 4,Sat,Home,W,3,1,Brest,2.8,1.0,67.0,47000.0,Gianluigi Donnarumma,4-3-3,4-3-3,Clément Turpin,Match Report,,2024-2025,Paris S-G
+2024-09-18,21:00,Champions Lg,League phase,Wed,Home,W,1,0,es Girona,2.1,0.2,64.0,39951.0,Marquinhos,4-3-3,4-2-3-1,Daniel Siebert,Match Report,,2024-2025,Paris S-G
+2024-09-21,21:00,Ligue 1,Matchweek 5,Sat,Away,D,1,1,Reims,1.6,0.3,78.0,20220.0,Marquinhos,4-3-3,4-3-3,Jérémie Pignard,Match Report,,2024-2025,Paris S-G
+2024-09-27,21:00,Ligue 1,Matchweek 6,Fri,Home,W,3,1,Rennes,3.0,1.4,61.0,47000.0,Marquinhos,4-3-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Paris S-G
+2024-10-01,20:00,Champions Lg,League phase,Tue,Away,L,0,2,eng Arsenal,0.4,0.7,65.0,60103.0,Marquinhos,4-3-3,4-4-2,Slavko Vinčič,Match Report,,2024-2025,Paris S-G
+2024-10-06,20:45,Ligue 1,Matchweek 7,Sun,Away,D,1,1,Nice,1.3,0.5,71.0,30247.0,Marquinhos,4-3-3,3-4-3,Jérôme Brisard,Match Report,,2024-2025,Paris S-G
+2024-10-19,21:00,Ligue 1,Matchweek 8,Sat,Home,W,4,2,Strasbourg,3.5,1.9,55.0,47590.0,Gianluigi Donnarumma,4-3-3,4-2-3-1,Jeremy Stinat,Match Report,,2024-2025,Paris S-G
+2024-10-22,21:00,Champions Lg,League phase,Tue,Home,D,1,1,nl PSV Eindhoven,2.5,0.2,61.0,47511.0,Marquinhos,4-3-3,4-2-3-1,Glenn Nyberg,Match Report,,2024-2025,Paris S-G
+2024-10-27,20:45,Ligue 1,Matchweek 9,Sun,Away,W,3,0,Marseille,3.1,0.2,74.0,66115.0,Marquinhos,4-3-3,4-2-3-1,François Letexier,Match Report,,2024-2025,Paris S-G
+2024-11-02,17:00,Ligue 1,Matchweek 10,Sat,Home,W,1,0,Lens,2.9,0.7,68.0,47926.0,Marquinhos,4-3-3,3-4-3,Willy Delajod,Match Report,,2024-2025,Paris S-G
+2024-11-06,21:00,Champions Lg,League phase,Wed,Home,L,1,2,es Atlético Madrid,2.1,0.7,71.0,47369.0,Marquinhos,4-3-3,4-4-2,Szymon Marciniak,Match Report,,2024-2025,Paris S-G
+2024-11-09,21:00,Ligue 1,Matchweek 11,Sat,Away,W,4,2,Angers,3.4,1.1,70.0,17212.0,Marquinhos,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Paris S-G
+2024-11-22,21:00,Ligue 1,Matchweek 12,Fri,Home,W,3,0,Toulouse,1.1,1.4,72.0,47000.0,Achraf Hakimi,4-2-3-1,3-4-3,Gaël Angoula,Match Report,,2024-2025,Paris S-G
+2024-11-26,21:00,Champions Lg,League phase,Tue,Away,L,0,1,de Bayern Munich,0.8,2.4,43.0,75000.0,Marquinhos,4-4-2,4-2-3-1,István Kovács,Match Report,,2024-2025,Paris S-G
+2024-11-30,21:00,Ligue 1,Matchweek 13,Sat,Home,D,1,1,Nantes,2.6,0.8,84.0,47926.0,Marquinhos,4-3-3,5-3-2,Jeremy Stinat,Match Report,,2024-2025,Paris S-G
+2024-12-06,21:00,Ligue 1,Matchweek 14,Fri,Away,D,0,0,Auxerre,2.5,0.3,73.0,17028.0,Marquinhos,4-3-3,3-4-3,Jérémie Pignard,Match Report,,2024-2025,Paris S-G
+2024-12-10,21:00,Champions Lg,League phase,Tue,Away,W,3,0,at RB Salzburg,3.2,0.2,70.0,25065.0,Marquinhos,4-3-3,4-2-3-1,Michael Oliver,Match Report,,2024-2025,Paris S-G
+2024-12-15,20:45,Ligue 1,Matchweek 15,Sun,Home,W,3,1,Lyon,2.9,1.5,68.0,47000.0,Achraf Hakimi,4-3-3,4-1-4-1,Benoît Bastien,Match Report,,2024-2025,Paris S-G
+2024-12-18,21:00,Ligue 1,Matchweek 16,Wed,Away,W,4,2,Monaco,1.8,2.4,60.0,12095.0,Marquinhos,4-3-3,4-2-3-1,François Letexier,Match Report,,2024-2025,Paris S-G
+2024-12-22,21:00,Coupe de France,Round of 64,Sun,Away,D,1 (4),1 (3),Lens,,,67.0,38182.0,Marquinhos,4-3-3,3-4-3,Thomas Léonard,Match Report,Paris S-G won on penalty kicks following extra time,2024-2025,Paris S-G
+2025-01-05,17:30,Trophée des Champions,Trophée des Champions,Sun,Neutral,W,1,0,Monaco,,,60.0,39682.0,Marquinhos,4-3-3,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Paris S-G
+2025-01-12,20:45,Ligue 1,Matchweek 17,Sun,Home,W,2,1,Saint-Étienne,4.1,0.4,59.0,47580.0,Achraf Hakimi,4-3-3,4-3-3,Benoît Millot,Match Report,,2024-2025,Paris S-G
+2025-01-15,21:00,Coupe de France,Round of 32,Wed,Away,W,4,2,FC Espaly,,,83.0,12939.0,Fabián Ruiz Peña,4-3-3,5-4-1,Marc Bollengier,Match Report,,2024-2025,Paris S-G
+2025-01-18,17:00,Ligue 1,Matchweek 18,Sat,Away,W,2,1,Lens,1.2,0.7,66.0,38120.0,Gianluigi Donnarumma,3-4-3,5-3-2,Jérémie Pignard,Match Report,,2024-2025,Paris S-G
+2025-01-22,21:00,Champions Lg,League phase,Wed,Home,W,4,2,eng Manchester City,2.8,1.7,63.0,47818.0,Marquinhos,4-3-3,4-2-3-1,Szymon Marciniak,Match Report,,2024-2025,Paris S-G
+2025-01-25,21:05,Ligue 1,Matchweek 19,Sat,Home,D,1,1,Reims,1.2,0.9,78.0,47862.0,Gianluigi Donnarumma,4-3-3,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Paris S-G
+2025-01-29,21:00,Champions Lg,League phase,Wed,Away,W,4,1,de Stuttgart,2.4,0.8,58.0,60000.0,Marquinhos,4-3-3,4-2-3-1,Davide Massa,Match Report,,2024-2025,Paris S-G
+2025-02-01,17:00,Ligue 1,Matchweek 20,Sat,Away,W,5,2,Brest,3.6,0.9,65.0,15040.0,Marquinhos,4-3-3,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Paris S-G
+2025-02-04,21:10,Coupe de France,Round of 16,Tue,Away,W,2,0,Le Mans,,,71.0,24254.0,Fabián Ruiz Peña,4-3-3,5-3-2,Abdelatif Kherradji,Match Report,,2024-2025,Paris S-G
+2025-02-07,21:05,Ligue 1,Matchweek 21,Fri,Home,W,4,1,Monaco,3.1,0.9,63.0,47926.0,Marquinhos,4-3-3,4-4-2,Clément Turpin,Match Report,,2024-2025,Paris S-G
+2025-02-11,18:45,Champions Lg,Knockout phase play-offs,Tue,Away,W,3,0,fr Brest,2.6,0.9,62.0,15831.0,Marquinhos,4-3-3,4-3-1-2,Irfan Peljto,Match Report,Leg 1 of 2,2024-2025,Paris S-G
+2025-02-15,21:05,Ligue 1,Matchweek 22,Sat,Away,W,1,0,Toulouse,2.4,0.9,76.0,31703.0,Achraf Hakimi,4-3-3,5-4-1,Willy Delajod,Match Report,,2024-2025,Paris S-G
+2025-02-19,21:00,Champions Lg,Knockout phase play-offs,Wed,Home,W,7,0,fr Brest,3.2,0.9,68.0,47211.0,Marquinhos,4-3-3,4-4-1-1,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,2024-2025,Paris S-G
+2025-02-23,20:45,Ligue 1,Matchweek 23,Sun,Away,W,3,2,Lyon,2.3,1.8,65.0,57777.0,Marquinhos,4-3-3,4-3-3,Eric Wattellier,Match Report,,2024-2025,Paris S-G
+2025-02-26,21:10,Coupe de France,Quarter-finals,Wed,Away,W,7,0,Stade Briochin,,,74.0,25915.0,Achraf Hakimi,4-3-3,5-3-2,Thomas Léonard,Match Report,,2024-2025,Paris S-G
+2025-03-01,21:05,Ligue 1,Matchweek 24,Sat,Home,W,4,1,Lille,3.4,1.1,58.0,47838.0,Marquinhos,4-3-3,4-2-3-1,François Letexier,Match Report,,2024-2025,Paris S-G
+2025-03-05,21:00,Champions Lg,Round of 16,Wed,Home,L,0,1,eng Liverpool,1.6,0.3,70.0,47511.0,Marquinhos,4-3-3,4-2-3-1,Davide Massa,Match Report,Leg 1 of 2,2024-2025,Paris S-G
+2025-03-08,17:00,Ligue 1,Matchweek 25,Sat,Away,W,4,1,Rennes,3.8,1.6,68.0,28550.0,Warren Zaïre-Emery,4-3-3,3-4-3,Mathieu Vernice,Match Report,,2024-2025,Paris S-G
+2025-03-11,20:00,Champions Lg,Round of 16,Tue,Away,W,1 (4),0 (1),eng Liverpool,2.6,1.5,54.0,59765.0,Marquinhos,4-3-3,4-2-3-1,István Kovács,Match Report,Leg 2 of 2; Paris S-G won; Paris S-G won on penalty kicks following extra time,2024-2025,Paris S-G
+2025-03-16,20:45,Ligue 1,Matchweek 26,Sun,Home,W,3,1,Marseille,2.6,1.2,60.0,47000.0,Achraf Hakimi,4-3-3,3-4-3,Clément Turpin,Match Report,,2024-2025,Paris S-G
+2025-03-29,19:00,Ligue 1,Matchweek 27,Sat,Away,W,6,1,Saint-Étienne,3.3,1.1,53.0,37108.0,Fabián Ruiz Peña,4-3-3,4-3-3,Jeremy Stinat,Match Report,,2024-2025,Paris S-G
+2025-04-01,21:10,Coupe de France,Semi-finals,Tue,Away,W,4,2,Dunkerque,,,76.0,45175.0,Marquinhos,4-1-4-1,4-1-4-1,Jérôme Brisard,Match Report,,2024-2025,Paris S-G
+2025-04-05,17:00,Ligue 1,Matchweek 28,Sat,Home,W,1,0,Angers,1.9,0.2,81.0,47736.0,Marquinhos,4-3-3,5-3-2,Marc Bollengier,Match Report,,2024-2025,Paris S-G
+2025-04-09,21:00,Champions Lg,Quarter-finals,Wed,Home,W,3,1,eng Aston Villa,1.9,0.9,75.0,47681.0,Achraf Hakimi,4-3-3,4-2-3-1,Maurizio Mariani,Match Report,Leg 1 of 2,2024-2025,Paris S-G
+2025-04-15,20:00,Champions Lg,Quarter-finals,Tue,Away,L,2,3,eng Aston Villa,1.5,1.8,65.0,42535.0,Marquinhos,4-3-3,4-2-3-1,Jose Maria Sánchez,Match Report,Leg 2 of 2; Paris S-G won,2024-2025,Paris S-G
+2025-04-19,17:00,Ligue 1,Matchweek 30,Sat,Home,W,2,1,Le Havre,3.0,0.5,70.0,47113.0,Achraf Hakimi,3-4-3,4-3-3,Mathieu Vernice,Match Report,,2024-2025,Paris S-G
+2025-04-22,20:45,Ligue 1,Matchweek 29,Tue,Away,D,1,1,Nantes,1.6,0.5,74.0,34420.0,Marquinhos,4-3-3,5-3-2,Jérémie Pignard,Match Report,,2024-2025,Paris S-G
+2025-04-25,20:45,Ligue 1,Matchweek 31,Fri,Home,L,1,3,Nice,3.0,1.0,75.0,47597.0,Marquinhos,4-3-3,3-5-2,Willy Delajod,Match Report,,2024-2025,Paris S-G
+2025-04-29,20:00,Champions Lg,Semi-finals,Tue,Away,W,1,0,eng Arsenal,1.2,1.7,51.0,59664.0,Marquinhos,4-3-3,4-3-3,Slavko Vinčič,Match Report,Leg 1 of 2,2024-2025,Paris S-G
+2025-05-03,17:00,Ligue 1,Matchweek 32,Sat,Away,L,1,2,Strasbourg,1.7,0.8,64.0,19522.0,Warren Zaïre-Emery,3-4-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Paris S-G
+2025-05-07,21:00,Champions Lg,Semi-finals,Wed,Home,W,2,1,eng Arsenal,1.7,2.8,46.0,47511.0,Marquinhos,4-3-3,4-3-3,Felix Zwayer,Match Report,Leg 2 of 2; Paris S-G won,2024-2025,Paris S-G
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Away,W,4,1,Montpellier,1.7,0.6,69.0,16787.0,Warren Zaïre-Emery,3-4-3◆,5-3-2,Mathieu Vernice,Match Report,,2024-2025,Paris S-G
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Home,W,3,1,Auxerre,3.1,0.6,66.0,47926.0,Marquinhos,4-3-3,5-4-1,Abdelatif Kherradji,Match Report,,2024-2025,Paris S-G
+2025-05-24,21:00,Coupe de France,Final,Sat,Home,W,3,0,Reims,,,76.0,77101.0,Marquinhos,4-3-3,4-1-4-1,Benoît Bastien,Match Report,,2024-2025,Paris S-G
+2025-05-31,21:00,Champions Lg,Final,Sat,Home,,,,it Inter,,,,,,,,,Head-to-Head,,2024-2025,Paris S-G

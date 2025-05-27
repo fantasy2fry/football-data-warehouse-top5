@@ -1,0 +1,48 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-17,21:00,Ligue 1,Matchweek 1,Sat,Home,W,1,0,Saint-Étienne,2.0,0.4,61,14250,Denis Zakaria,4-4-2,4-1-4-1,,Match Report,,2024-2025,Monaco
+2024-08-24,17:00,Ligue 1,Matchweek 2,Sat,Away,W,2,0,Lyon,2.2,0.0,60,54392,Denis Zakaria,4-2-3-1,4-2-3-1,,Match Report,,2024-2025,Monaco
+2024-09-01,15:00,Ligue 1,Matchweek 3,Sun,Home,D,1,1,Lens,1.0,2.2,62,9030,Denis Zakaria,4-2-3-1,3-4-1-2,Willy Delajod,Match Report,,2024-2025,Monaco
+2024-09-14,19:00,Ligue 1,Matchweek 4,Sat,Away,W,3,0,Auxerre,3.4,0.6,59,17045,Denis Zakaria,4-2-3-1,3-4-3,Abdelatif Kherradji,Match Report,,2024-2025,Monaco
+2024-09-19,21:00,Champions Lg,League phase,Thu,Home,W,2,1,es Barcelona,1.3,0.4,56,13296,Denis Zakaria,4-2-3-1,4-2-3-1,Allard Lindhout,Match Report,,2024-2025,Monaco
+2024-09-22,15:00,Ligue 1,Matchweek 5,Sun,Home,W,3,1,Le Havre,1.9,0.6,61,6000,Thilo Kehrer,4-4-2,3-5-1-1,Stéphanie Frappart,Match Report,,2024-2025,Monaco
+2024-09-28,21:00,Ligue 1,Matchweek 6,Sat,Home,W,2,1,Montpellier,3.2,0.9,65,13065,Denis Zakaria,4-2-2-2,4-2-3-1,Marc Bollengier,Match Report,,2024-2025,Monaco
+2024-10-02,21:00,Champions Lg,League phase,Wed,Away,D,2,2,hr Dinamo Zagreb,1.9,1.0,61,12462,Denis Zakaria,4-2-3-1,3-4-3,Harm Osmers,Match Report,,2024-2025,Monaco
+2024-10-05,21:00,Ligue 1,Matchweek 7,Sat,Away,W,2,1,Rennes,0.6,0.7,42,26533,Denis Zakaria,3-4-3,3-4-3,Thomas Léonard,Match Report,,2024-2025,Monaco
+2024-10-18,20:45,Ligue 1,Matchweek 8,Fri,Home,D,0,0,Lille,1.2,0.2,52,7263,Denis Zakaria,4-2-3-1,4-2-3-1,Eric Wattellier,Match Report,,2024-2025,Monaco
+2024-10-22,18:45,Champions Lg,League phase,Tue,Home,W,5,1,rs Red Star,3.3,1.0,70,9590,Denis Zakaria,4-2-3-1,5-3-2,Tobias Stieler,Match Report,,2024-2025,Monaco
+2024-10-27,17:00,Ligue 1,Matchweek 9,Sun,Away,L,1,2,Nice,0.5,1.6,59,29795,Thilo Kehrer,4-2-3-1,3-4-3,Jérémie Pignard,Match Report,,2024-2025,Monaco
+2024-11-01,19:00,Ligue 1,Matchweek 10,Fri,Home,L,0,1,Angers,1.4,0.5,63,10540,Thilo Kehrer,4-4-2,4-2-3-1,Abdelatif Kherradji,Match Report,,2024-2025,Monaco
+2024-11-05,21:00,Champions Lg,League phase,Tue,Away,W,1,0,it Bologna,0.9,0.5,53,23084,Thilo Kehrer,4-2-3-1,4-2-3-1,Əliyar Ağayev,Match Report,,2024-2025,Monaco
+2024-11-09,17:00,Ligue 1,Matchweek 11,Sat,Away,W,3,1,Strasbourg,3.8,0.6,57,19451,Thilo Kehrer,4-2-3-1,3-4-3,Bastien Dechepy,Match Report,,2024-2025,Monaco
+2024-11-22,19:00,Ligue 1,Matchweek 12,Fri,Home,W,3,2,Brest,2.6,1.0,51,5800,Denis Zakaria,4-2-3-1,4-3-3,Thomas Léonard,Match Report,,2024-2025,Monaco
+2024-11-27,21:00,Champions Lg,League phase,Wed,Home,L,2,3,pt Benfica,1.6,3.0,46,13581,Denis Zakaria,4-2-3-1,4-3-3,Rade Obrenović,Match Report,,2024-2025,Monaco
+2024-12-01,20:45,Ligue 1,Matchweek 13,Sun,Away,L,1,2,Marseille,1.0,1.9,37,64277,Denis Zakaria,4-2-3-1,3-4-3,Clément Turpin,Match Report,,2024-2025,Monaco
+2024-12-07,17:00,Ligue 1,Matchweek 14,Sat,Home,W,2,0,Toulouse,3.2,0.5,58,6868,Thilo Kehrer,4-2-3-1,3-4-3,Stéphanie Frappart,Match Report,,2024-2025,Monaco
+2024-12-11,20:00,Champions Lg,League phase,Wed,Away,L,0,3,eng Arsenal,0.5,2.3,46,60157,Thilo Kehrer,4-2-3-1,4-3-3,Davide Massa,Match Report,,2024-2025,Monaco
+2024-12-14,21:00,Ligue 1,Matchweek 15,Sat,Away,D,0,0,Reims,1.3,1.5,64,15859,Thilo Kehrer,3-4-3,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Monaco
+2024-12-18,21:00,Ligue 1,Matchweek 16,Wed,Home,L,2,4,Paris S-G,2.4,1.8,40,12095,Thilo Kehrer,4-2-3-1,4-3-3,François Letexier,Match Report,,2024-2025,Monaco
+2024-12-22,14:45,Coupe de France,Round of 64,Sun,Away,W,4,1,L'Union,,,69,20577,Thilo Kehrer,4-2-3-1,4-3-3,Olivier Thual,Match Report,,2024-2025,Monaco
+2025-01-05,17:30,Trophée des Champions,Trophée des Champions,Sun,Neutral,L,0,1,Paris S-G,,,41,39682,Denis Zakaria,4-2-3-1,4-3-3,Willy Delajod,Match Report,,2024-2025,Monaco
+2025-01-10,19:00,Ligue 1,Matchweek 17,Fri,Away,D,2,2,Nantes,3.4,0.8,68,25380,Denis Zakaria,3-4-3,4-1-4-1,Marc Bollengier,Match Report,,2024-2025,Monaco
+2025-01-14,20:45,Coupe de France,Round of 32,Tue,Away,D,1 (1),1 (3),Reims,,,68,10665,Breel Embolo,4-4-2,4-2-3-1,Gaël Angoula,Match Report,Reims won on penalty kicks following normal time,2024-2025,Monaco
+2025-01-17,19:00,Ligue 1,Matchweek 18,Fri,Away,L,1,2,Montpellier,1.8,2.4,67,11371,Thilo Kehrer,4-2-3-1,5-3-2,Jérôme Brisard,Match Report,,2024-2025,Monaco
+2025-01-21,18:45,Champions Lg,League phase,Tue,Home,W,1,0,eng Aston Villa,1.5,0.9,39,13508,Denis Zakaria,4-2-3-1,4-2-3-1,Slavko Vinčič,Match Report,,2024-2025,Monaco
+2025-01-25,17:00,Ligue 1,Matchweek 19,Sat,Home,W,3,2,Rennes,3.5,1.8,52,5725,Denis Zakaria,4-2-3-1,3-4-3,Jeremy Stinat,Match Report,,2024-2025,Monaco
+2025-01-29,21:00,Champions Lg,League phase,Wed,Away,L,0,3,it Inter,0.2,3.9,36,71601,Denis Zakaria,4-2-3-1,3-5-2,Irfan Peljto,Match Report,,2024-2025,Monaco
+2025-02-01,19:00,Ligue 1,Matchweek 20,Sat,Home,W,4,2,Auxerre,2.6,1.2,57,53363,Denis Zakaria,4-2-3-1,5-4-1,Abdelatif Kherradji,Match Report,,2024-2025,Monaco
+2025-02-07,21:05,Ligue 1,Matchweek 21,Fri,Away,L,1,4,Paris S-G,0.9,3.1,37,47926,Denis Zakaria,4-4-2,4-3-3,Clément Turpin,Match Report,,2024-2025,Monaco
+2025-02-12,21:00,Champions Lg,Knockout phase play-offs,Wed,Home,L,0,1,pt Benfica,0.4,2.1,45,12159,Denis Zakaria,4-2-3-1,4-3-3,Maurizio Mariani,Match Report,Leg 1 of 2,2024-2025,Monaco
+2025-02-15,19:00,Ligue 1,Matchweek 22,Sat,Home,W,7,1,Nantes,4.4,1.4,65,6080,Denis Zakaria,4-2-3-1,5-3-2,Thomas Léonard,Match Report,,2024-2025,Monaco
+2025-02-18,20:00,Champions Lg,Knockout phase play-offs,Tue,Away,D,3,3,pt Benfica,1.5,1.9,59,60776,Thilo Kehrer,5-3-2,4-3-3,Glenn Nyberg,Match Report,Leg 2 of 2; Benfica won,2024-2025,Monaco
+2025-02-22,17:00,Ligue 1,Matchweek 23,Sat,Away,L,1,2,Lille,2.3,1.1,57,44177,Denis Zakaria,4-2-3-1,4-4-2,Benoît Bastien,Match Report,,2024-2025,Monaco
+2025-02-28,20:45,Ligue 1,Matchweek 24,Fri,Home,W,3,0,Reims,3.8,0.6,56,5517,Denis Zakaria,4-2-3-1,5-3-2,Eric Wattellier,Match Report,,2024-2025,Monaco
+2025-03-07,20:45,Ligue 1,Matchweek 25,Fri,Away,D,1,1,Toulouse,2.4,0.6,50,25614,Thilo Kehrer,4-2-3-1,3-4-3,Marc Bollengier,Match Report,,2024-2025,Monaco
+2025-03-15,19:00,Ligue 1,Matchweek 26,Sat,Away,W,2,0,Angers,2.0,0.5,56,11116,Denis Zakaria,4-2-3-1,4-2-3-1,Willy Delajod,Match Report,,2024-2025,Monaco
+2025-03-29,21:05,Ligue 1,Matchweek 27,Sat,Home,W,2,1,Nice,2.4,0.5,58,11564,Denis Zakaria,4-4-2,3-4-3,Jérôme Brisard,Match Report,,2024-2025,Monaco
+2025-04-05,19:00,Ligue 1,Matchweek 28,Sat,Away,L,1,2,Brest,1.5,1.0,59,14713,Denis Zakaria,4-4-2,4-3-3,Thomas Léonard,Match Report,,2024-2025,Monaco
+2025-04-12,17:00,Ligue 1,Matchweek 29,Sat,Home,W,3,0,Marseille,2.6,1.1,42,13232,Denis Zakaria,4-4-2,3-4-3,Benoît Bastien,Match Report,,2024-2025,Monaco
+2025-04-19,19:00,Ligue 1,Matchweek 30,Sat,Home,D,0,0,Strasbourg,0.9,0.4,47,12825,Denis Zakaria,4-2-3-1,3-5-2,Eric Wattellier,Match Report,,2024-2025,Monaco
+2025-04-26,19:00,Ligue 1,Matchweek 31,Sat,Away,D,1,1,Le Havre,2.9,0.5,61,21340,Denis Zakaria,4-4-2,4-2-3-1,Clément Turpin,Match Report,,2024-2025,Monaco
+2025-05-03,21:05,Ligue 1,Matchweek 32,Sat,Away,W,3,1,Saint-Étienne,2.0,0.6,41,35757,Denis Zakaria,4-4-2,4-3-3,Jérôme Brisard,Match Report,,2024-2025,Monaco
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Home,W,2,0,Lyon,1.2,0.4,51,13578,Denis Zakaria,4-4-2,4-3-1-2,Benoît Bastien,Match Report,,2024-2025,Monaco
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Away,L,0,4,Lens,0.5,1.7,54,38160,Takumi Minamino,4-2-3-1,3-1-4-2,François Letexier,Match Report,,2024-2025,Monaco

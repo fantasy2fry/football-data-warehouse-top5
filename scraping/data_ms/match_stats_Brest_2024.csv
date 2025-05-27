@@ -1,0 +1,49 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Season,Team_Scraping
+2024-08-17,17:00,Ligue 1,Matchweek 1,Sat,Home,L,1,5,Marseille,1.3,2.4,50,14962,Brendan Chardonnet,4-3-3,4-2-3-1,,Match Report,,2024-2025,Brest
+2024-08-25,15:00,Ligue 1,Matchweek 2,Sun,Away,L,0,2,Lens,0.9,2.9,48,37435,Brendan Chardonnet,4-3-3,3-4-1-2,,Match Report,,2024-2025,Brest
+2024-08-31,17:00,Ligue 1,Matchweek 3,Sat,Home,W,4,0,Saint-Étienne,3.1,0.2,47,14885,Brendan Chardonnet,4-3-3,4-2-3-1,Gaël Angoula,Match Report,,2024-2025,Brest
+2024-09-14,21:00,Ligue 1,Matchweek 4,Sat,Away,L,1,3,Paris S-G,1.0,2.8,33,47000,Brendan Chardonnet,4-3-3,4-3-3,Clément Turpin,Match Report,,2024-2025,Brest
+2024-09-19,21:00,Champions Lg,League phase,Thu,Home,W,2,1,at Sturm Graz,2.1,0.5,57,14518,Brendan Chardonnet,4-3-3,4-1-2-1-2,Nick Walsh,Match Report,,2024-2025,Brest
+2024-09-22,17:00,Ligue 1,Matchweek 5,Sun,Home,W,2,0,Toulouse,0.5,2.7,43,14580,Hugo Magnetti,4-1-2-1-2◆,3-4-3,Florent Batta,Match Report,,2024-2025,Brest
+2024-09-27,19:00,Ligue 1,Matchweek 6,Fri,Away,L,0,3,Auxerre,0.8,2.5,61,15381,Brendan Chardonnet,4-3-3,5-3-2,Jeremy Stinat,Match Report,,2024-2025,Brest
+2024-10-01,18:45,Champions Lg,League phase,Tue,Away,W,4,0,at RB Salzburg,2.0,1.6,48,20232,Hugo Magnetti,4-3-3,4-3-3,Anthony Taylor,Match Report,,2024-2025,Brest
+2024-10-06,17:00,Ligue 1,Matchweek 7,Sun,Home,W,2,0,Le Havre,0.7,1.0,53,14572,Brendan Chardonnet,4-2-3-1,3-1-4-2,Benoît Millot,Match Report,,2024-2025,Brest
+2024-10-19,17:00,Ligue 1,Matchweek 8,Sat,Home,D,1,1,Rennes,1.5,1.2,56,15099,Brendan Chardonnet,4-3-3,3-4-3,Bastien Dechepy,Match Report,,2024-2025,Brest
+2024-10-23,18:45,Champions Lg,League phase,Wed,Home,D,1,1,de Leverkusen,0.5,1.0,41,15510,Brendan Chardonnet,4-3-3,4-2-3-1,Ivan Kružliak,Match Report,,2024-2025,Brest
+2024-10-26,19:00,Ligue 1,Matchweek 9,Sat,Away,W,2,1,Reims,1.5,0.7,47,17172,Brendan Chardonnet,4-2-3-1,4-3-3,Jérôme Brisard,Match Report,,2024-2025,Brest
+2024-11-02,19:00,Ligue 1,Matchweek 10,Sat,Home,L,0,1,Nice,1.0,1.4,63,14534,Hugo Magnetti,4-3-3,3-4-3,Clément Turpin,Match Report,,2024-2025,Brest
+2024-11-06,21:00,Champions Lg,League phase,Wed,Away,W,2,1,cz Sparta Prague,1.6,0.5,49,18033,Brendan Chardonnet,4-3-2-1,3-4-3,Mykola Balakin,Match Report,,2024-2025,Brest
+2024-11-10,17:00,Ligue 1,Matchweek 11,Sun,Away,L,1,3,Montpellier,0.9,2.5,67,12936,Brendan Chardonnet,4-3-3,4-2-3-1,Jérémie Pignard,Match Report,,2024-2025,Brest
+2024-11-22,19:00,Ligue 1,Matchweek 12,Fri,Away,L,2,3,Monaco,1.0,2.6,49,5800,Brendan Chardonnet,4-3-3,4-2-3-1,Thomas Léonard,Match Report,,2024-2025,Brest
+2024-11-26,21:00,Champions Lg,League phase,Tue,Away,L,0,3,es Barcelona,0.1,2.8,25,46317,Brendan Chardonnet,4-1-2-1-2◆,4-2-3-1,Irfan Peljto,Match Report,,2024-2025,Brest
+2024-11-30,19:00,Ligue 1,Matchweek 13,Sat,Home,W,3,1,Strasbourg,2.5,1.0,38,14600,Brendan Chardonnet,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Brest
+2024-12-06,19:00,Ligue 1,Matchweek 14,Fri,Away,L,1,3,Lille,0.7,2.5,39,38128,Brendan Chardonnet,4-2-3-1,4-2-3-1,Benoît Bastien,Match Report,,2024-2025,Brest
+2024-12-10,21:00,Champions Lg,League phase,Tue,Home,W,1,0,nl PSV Eindhoven,1.6,1.6,34,15778,Brendan Chardonnet,4-1-2-1-2◆,4-3-3,Jose Maria Sánchez,Match Report,,2024-2025,Brest
+2024-12-15,17:00,Ligue 1,Matchweek 15,Sun,Home,W,4,1,Nantes,2.0,1.1,51,15019,Brendan Chardonnet,4-3-1-2,5-3-2,Gaël Angoula,Match Report,,2024-2025,Brest
+2024-12-21,15:30,Coupe de France,Round of 64,Sat,Away,W,1,0,La Roche VF,,,53,4530,Brendan Chardonnet,4-3-1-2,4-3-1-2,Aurélien Petit,Match Report,,2024-2025,Brest
+2025-01-05,15:00,Ligue 1,Matchweek 16,Sun,Away,L,0,2,Angers,1.0,1.8,61,12691,Brendan Chardonnet,4-3-3,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Brest
+2025-01-11,17:00,Ligue 1,Matchweek 17,Sat,Home,W,2,1,Lyon,1.1,1.4,33,14735,Brendan Chardonnet,4-3-1-2,4-1-4-1,Eric Wattellier,Match Report,,2024-2025,Brest
+2025-01-15,18:30,Coupe de France,Round of 32,Wed,Home,W,2,1,Nantes,,,38,11581,Brendan Chardonnet,4-2-3-1,4-3-3,Abdelatif Kherradji,Match Report,,2024-2025,Brest
+2025-01-18,19:00,Ligue 1,Matchweek 18,Sat,Away,W,2,1,Rennes,1.0,1.5,32,28238,Brendan Chardonnet,4-2-2-2,3-4-3,Thomas Léonard,Match Report,,2024-2025,Brest
+2025-01-22,19:45,Champions Lg,League phase,Wed,Away,L,0,2,ua Shakhtar,0.4,1.9,53,15282,Brendan Chardonnet,4-2-3-1,4-1-4-1,Sandro Schärer,Match Report,,2024-2025,Brest
+2025-01-26,15:00,Ligue 1,Matchweek 19,Sun,Away,W,1,0,Le Havre,2.0,1.0,55,17898,Brendan Chardonnet,4-2-3-1,4-2-3-1,Romain Lissorgue,Match Report,,2024-2025,Brest
+2025-01-29,21:00,Champions Lg,League phase,Wed,Home,L,0,3,es Real Madrid,1.4,2.6,41,15405,Brendan Chardonnet,4-3-1-2,4-2-3-1,Espen Eskås,Match Report,,2024-2025,Brest
+2025-02-01,17:00,Ligue 1,Matchweek 20,Sat,Home,L,2,5,Paris S-G,0.9,3.6,35,15040,Brendan Chardonnet,4-2-3-1,4-3-3,Benoît Bastien,Match Report,,2024-2025,Brest
+2025-02-04,19:00,Coupe de France,Round of 16,Tue,Away,W,2,1,Troyes,,,65,4500,Hugo Magnetti,4-3-1-2,4-4-2,Jeremy Stinat,Match Report,,2024-2025,Brest
+2025-02-07,19:00,Ligue 1,Matchweek 21,Fri,Away,W,2,0,Nantes,2.5,1.1,42,25050,Brendan Chardonnet,4-3-3,4-3-3,Jérémie Pignard,Match Report,,2024-2025,Brest
+2025-02-11,18:45,Champions Lg,Knockout phase play-offs,Tue,Home,L,0,3,fr Paris S-G,0.9,2.6,38,15831,Brendan Chardonnet,4-3-1-2,4-3-3,Irfan Peljto,Match Report,Leg 1 of 2,2024-2025,Brest
+2025-02-14,20:45,Ligue 1,Matchweek 22,Fri,Home,D,2,2,Auxerre,2.2,1.2,64,12525,Hugo Magnetti,4-2-3-1,4-2-3-1,Bastien Dechepy,Match Report,,2024-2025,Brest
+2025-02-19,21:00,Champions Lg,Knockout phase play-offs,Wed,Away,L,0,7,fr Paris S-G,0.9,3.2,32,47211,Brendan Chardonnet,4-4-1-1,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Paris S-G won,2024-2025,Brest
+2025-02-23,17:15,Ligue 1,Matchweek 23,Sun,Away,D,0,0,Strasbourg,0.6,0.6,43,19108,Brendan Chardonnet,4-2-3-1,3-4-3,Clément Turpin,Match Report,,2024-2025,Brest
+2025-02-26,19:00,Coupe de France,Quarter-finals,Wed,Home,L,2,3,Dunkerque,,,55,14806,Brendan Chardonnet,4-2-3-1,4-1-4-1,Willy Delajod,Match Report,,2024-2025,Brest
+2025-03-02,15:00,Ligue 1,Matchweek 24,Sun,Away,L,1,2,Lyon,2.0,1.3,34,47804,Brendan Chardonnet,4-4-1-1,4-2-3-1,Benoît Millot,Match Report,,2024-2025,Brest
+2025-03-09,15:00,Ligue 1,Matchweek 25,Sun,Home,W,2,0,Angers,3.5,0.4,50,14612,Brendan Chardonnet,4-4-1-1,4-2-3-1,Abdelatif Kherradji,Match Report,,2024-2025,Brest
+2025-03-16,17:15,Ligue 1,Matchweek 26,Sun,Home,D,0,0,Reims,0.3,1.3,71,14517,Hugo Magnetti,4-3-3,4-5-1,Jérôme Brisard,Match Report,,2024-2025,Brest
+2025-03-30,15:00,Ligue 1,Matchweek 27,Sun,Away,W,4,2,Toulouse,1.3,2.0,47,24418,Kenny Lala,4-3-3,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Brest
+2025-04-05,19:00,Ligue 1,Matchweek 28,Sat,Home,W,2,1,Monaco,1.0,1.5,41,14713,Brendan Chardonnet,4-3-3,4-4-2,Thomas Léonard,Match Report,,2024-2025,Brest
+2025-04-13,15:00,Ligue 1,Matchweek 29,Sun,Away,D,3,3,Saint-Étienne,1.5,0.7,41,32834,Brendan Chardonnet,4-2-3-1,4-3-3,Abdelatif Kherradji,Match Report,,2024-2025,Brest
+2025-04-20,17:15,Ligue 1,Matchweek 30,Sun,Home,L,1,3,Lens,1.0,2.2,44,15049,Brendan Chardonnet,4-3-3,3-4-3,Benoît Millot,Match Report,,2024-2025,Brest
+2025-04-27,20:45,Ligue 1,Matchweek 31,Sun,Away,L,1,4,Marseille,1.2,0.9,46,62130,Brendan Chardonnet,4-2-3-1,4-2-3-1,Stéphanie Frappart,Match Report,,2024-2025,Brest
+2025-05-04,17:15,Ligue 1,Matchweek 32,Sun,Home,W,1,0,Montpellier,1.1,0.5,63,13121,Brendan Chardonnet,4-3-3,5-4-1,Romain Lissorgue,Match Report,,2024-2025,Brest
+2025-05-10,21:00,Ligue 1,Matchweek 33,Sat,Home,W,2,0,Lille,1.2,1.9,39,14556,Hugo Magnetti,4-3-3,4-4-2,Thomas Léonard,Match Report,,2024-2025,Brest
+2025-05-17,21:00,Ligue 1,Matchweek 34,Sat,Away,L,0,6,Nice,0.9,4.9,58,30298,Hugo Magnetti,4-1-2-1-2◆,3-4-3,Hakim Ben El Hadj Salem,Match Report,,2024-2025,Brest
