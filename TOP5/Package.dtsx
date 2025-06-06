@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{6303E102-5810-4CC0-B0FC-3758177BCBB1}">
+  DTS:VersionBuild="28"
+  DTS:VersionGUID="{13C26560-AB45-4A96-AD82-8221AFE710FB}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -127,6 +127,639 @@
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[dimseason lookup error]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{F7F52F02-CC16-4630-8E12-C5808398B643}"
+      DTS:ObjectName="dimseason lookup error">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\log_dimseasonerr.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Sezon"
+              DTS:DTSID="{D017DBDC-9D31-4568-8B0A-F3BE994168E7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="La Liga"
+              DTS:DTSID="{228A0995-D2B0-4D93-858F-A99EB55AEF8B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Premier League"
+              DTS:DTSID="{14249831-5DB3-4F38-9A70-DE1AE32FD50A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Ligue 1"
+              DTS:DTSID="{9B5A7EF2-80A0-4518-9791-68DC26CEC56C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Serie A"
+              DTS:DTSID="{7E358260-2F8D-4C37-82ED-E6826E9D9163}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Bundesliga"
+              DTS:DTSID="{9AAA3220-F1B6-41F0-BA66-FA3D5D1C1B92}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Mistrzów"
+              DTS:DTSID="{BE19DE7A-2BAE-4683-A5DE-AE9D08847A0D}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Europy"
+              DTS:DTSID="{627A7762-207E-4798-A171-99294E3D2E90}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Konferencji"
+              DTS:DTSID="{E1496ABF-6ED7-4EEF-8324-88FCF8D94584}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Złota Piłka"
+              DTS:DTSID="{0ACC7A62-6B42-4AFB-8C69-FA2A2CBDE2F4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{33594EEA-09A0-4D39-9A24-1D99219740AB}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{D0C265F3-FBC9-4530-9117-A20E29C3A664}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DimSeasonConnector]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{1323613A-7748-447F-A6B8-A82A7300BA7B}"
+      DTS:ObjectName="DimSeasonConnector">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\DimSeason.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Sezon"
+              DTS:DTSID="{4820BC8C-8791-470C-BD59-9E60994F3A88}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="La Liga"
+              DTS:DTSID="{67741B34-FF2D-4DD9-9DA6-6DD84AA004DC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Premier League"
+              DTS:DTSID="{37B99655-1A28-4220-A5D2-D5C846A12AFD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Ligue 1"
+              DTS:DTSID="{E450045B-391B-4961-A18A-B5285F06BE78}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Serie A"
+              DTS:DTSID="{D08A7379-5884-475B-AF49-E2CCC64D5ABA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Bundesliga"
+              DTS:DTSID="{4D0DB268-0A2E-460B-9226-A5A000E6B21E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Mistrzów"
+              DTS:DTSID="{C0988970-7222-4764-A062-68A8CA055302}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Europy"
+              DTS:DTSID="{E9055ABD-965A-4718-822E-051FBD3F47A8}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Konferencji"
+              DTS:DTSID="{A3AAE985-B2B6-4A0B-8211-07C6E4D83D4B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Złota Piłka"
+              DTS:DTSID="{97F6E711-39F6-4714-9370-EC27DA031B6C}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DimSeasonLookupError]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{62F0DCE9-D4F8-4D6C-A7CC-C57D5E36AF39}"
+      DTS:ObjectName="DimSeasonLookupError">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\error_lookup_dim_season.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="SeasonID"
+              DTS:DTSID="{6888A760-F791-4834-9FDC-9699509B8194}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="La Liga"
+              DTS:DTSID="{1913130A-E0BF-4B71-849C-1333CAE6D901}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Premier League"
+              DTS:DTSID="{30905152-F205-4E9B-82BF-FFA80C6F58BA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Ligue 1"
+              DTS:DTSID="{7EF04B70-3F4C-4AC3-9096-7AD1E9BD8C26}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Serie A"
+              DTS:DTSID="{0F779ABD-6AA0-4489-BB0D-44201C237B9B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Bundesliga"
+              DTS:DTSID="{7DB87020-6A9E-424F-9DA5-F03B4E27C89A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Champions League"
+              DTS:DTSID="{074738AE-D0C8-4CBF-9910-995A7E47F169}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Europa League"
+              DTS:DTSID="{6CC2A992-CFFD-47AC-89A6-BA2FB85C12F4}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Conference League"
+              DTS:DTSID="{3BB59AC2-E289-4744-B1D0-36011E21C431}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="The Golden Ball"
+              DTS:DTSID="{C2F70D94-BC67-4215-9EFE-47EADFCA309C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{6BF03445-8ED1-459E-8433-B1B48AF88C31}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{C4EFB3BD-2670-4DC9-A351-090CF6F92B84}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="7"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Season_ID_conv"
+              DTS:DTSID="{C8C9E6C6-2F3D-49F6-8080-2A03BB62EDF1}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[dimseason_csv]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{472E9198-BFE3-4A3D-B30C-A56CCAA049E0}"
+      DTS:ObjectName="dimseason_csv">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\DimSeason.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Sezon;La Liga;Premier League;Ligue 1;Serie A;Bundesliga;Liga Mistrzów;Liga Europy;Liga Konferencji;Złota Piłka"
+              DTS:DTSID="{D70F928F-5019-471E-B7C6-1EC3DA4A92E8}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[dimseason_csv2]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{E042DD75-57C5-46C7-BD5A-A90C5F1688F7}"
+      DTS:ObjectName="dimseason_csv2">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="65001"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\DimSeason.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Sezon"
+              DTS:DTSID="{7703AE98-E26E-4716-9622-9807CE0DE123}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="La Liga"
+              DTS:DTSID="{A5151E8A-39F8-410B-B9AE-84BC948ACB96}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Premier League"
+              DTS:DTSID="{39F33096-8063-44A3-98F9-8B469EDD88FB}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Ligue 1"
+              DTS:DTSID="{B4068125-4246-49C0-AB74-D5AD88C99296}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Serie A"
+              DTS:DTSID="{D44E153B-9509-4501-B7DE-3367813E339E}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Bundesliga"
+              DTS:DTSID="{9F63DFF8-65DD-4699-B550-D64AA7616C71}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Mistrzów"
+              DTS:DTSID="{A626CDB2-15F5-49D7-A358-02A3F1A634DF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Europy"
+              DTS:DTSID="{30B2F9BD-ABA3-42F6-BD6E-7028659E4FBC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x003B_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Liga Konferencji"
+              DTS:DTSID="{826E6DF1-47D2-4802-B1AE-169E3245EBD7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Złota Piłka"
+              DTS:DTSID="{ACFBC13F-E616-4F9B-8F3A-4DE5F23C7E0E}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[dim_season_oledb_destination_error]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{241C3377-7459-4EAE-AE83-AF6301B53A71}"
+      DTS:ObjectName="dim_season_oledb_destination_error">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1045"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1250"
+          DTS:ConnectionString="C:\Users\M_M\Desktop\HDiSBI\scraping\DimSeason_error_oledb.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="SeasonID"
+              DTS:DTSID="{6E11EA9D-04F8-48F7-A872-A4A88C38189B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="La Liga"
+              DTS:DTSID="{76149954-286B-4944-B18F-7FAEBB448E72}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Premier League"
+              DTS:DTSID="{1844F946-6DBF-434F-B30E-E6E524FA9538}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Ligue 1"
+              DTS:DTSID="{35A1A7A2-B800-46BB-A7E9-B58201C90375}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Serie A"
+              DTS:DTSID="{E4816709-4163-4149-853A-C797C0BBE40A}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Bundesliga"
+              DTS:DTSID="{62B20782-3231-454F-A3C9-51EF11701D82}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Champions League"
+              DTS:DTSID="{F4EE8A94-9465-4D8F-ADC2-9E3E69EF633B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Europa League"
+              DTS:DTSID="{66694846-16B5-475D-AAED-2DEA6E78A073}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Conference League"
+              DTS:DTSID="{B68F544A-0DAA-433C-B1C7-B10A07752ADC}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="The Golden Ball"
+              DTS:DTSID="{270BECCB-880F-4CF1-B30B-4F28E2E87445}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorCode"
+              DTS:DTSID="{5DE9F81C-F373-47C5-A3E0-E1B6F72495B2}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:DataType="3"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ErrorColumn"
+              DTS:DTSID="{20D7920C-7AD8-48C5-8FC3-6541A430D156}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
       DTS:CreationName="OLEDB"
       DTS:DTSID="{3F3390FB-67D4-4783-88BF-B1F4E403CE5E}"
@@ -154,13 +787,28 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Data Flow Task"
+      DTS:refId="Package\Data Flow Task 1"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{4050C318-7E59-4575-A01E-785AEECE1DFE}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Data Flow Task 1"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\DimSeason"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
       DTS:DTSID="{BD8F5A0D-E856-4FAD-9D93-00F8FB8CBC51}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
-      DTS:ObjectName="Data Flow Task"
+      DTS:ObjectName="DimSeason"
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:ObjectData>
@@ -168,7 +816,710 @@
           version="1">
           <components>
             <component
-              refId="Package\Data Flow Task\Flat File Source"
+              refId="Package\DimSeason\Derived Column"
+              componentClassID="Microsoft.DerivedColumn"
+              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+              name="Derived Column"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input]"
+                  description="Input to the Derived Column Transformation"
+                  name="Derived Column Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[SeasonID]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="SeasonID"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[La Liga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="La Liga"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([La Liga]) ? "Not Available" : [La Liga]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Premier League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Premier League"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Premier League]) ? "Not Available" : [Premier League]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Ligue 1]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ligue 1"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Ligue 1]) ? "Not Available" : [Ligue 1]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Serie A]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Serie A"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Serie A]) ? "Not Available" : [Serie A]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Bundesliga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Bundesliga"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL(Bundesliga) ? "Not Available" : Bundesliga</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Champions League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Champions League"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Champions League]) ? "Not Available" : [Champions League]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Europa League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Europa League"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Europa League]) ? "Not Available" : [Europa League]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[Conference League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Conference League"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([Conference League]) ? "Not Available" : [Conference League]</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\DimSeason\Derived Column.Inputs[Derived Column Input].Columns[The Golden Ball]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="The Golden Ball"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]"
+                      truncationRowDisposition="FailComponent"
+                      usageType="readWrite">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[ISNULL](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]}) ? "Not Available" : #{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">ISNULL([The Golden Ball]) ? "Not Available" : [The Golden Ball]</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\DimSeason\Derived Column.Outputs[Derived Column Output]"
+                  description="Default Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  name="Derived Column Output"
+                  synchronousInputId="Package\DimSeason\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[StartDateID]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="10"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[StartDateID]"
+                      name="StartDateID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">[SUBSTRING](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]},1,4) + "-07-01"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">SUBSTRING(SeasonID,1,4) + "-07-01"</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[EndDateID]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      length="10"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[EndDateID]"
+                      name="EndDateID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Expression"
+                          name="Expression">(DT_WSTR,4)((DT_I4)[SUBSTRING](#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]},1,4) + 1) + "-06-30"</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Derived Column Friendly Expression"
+                          expressionType="Notify"
+                          name="FriendlyExpression">(DT_WSTR,4)((DT_I4)SUBSTRING(SeasonID,1,4) + 1) + "-06-30"</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\DimSeason\Derived Column.Outputs[Derived Column Error Output]"
+                  description="Error Output of the Derived Column Transformation"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Derived Column Error Output"
+                  synchronousInputId="Package\DimSeason\Derived Column.Inputs[Derived Column Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\DimSeason\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\DimSeason\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\DimSeason\Flat File Destination"
+              componentClassID="Microsoft.FlatFileDestination"
+              contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Destination"
+              localeId="1045"
+              name="Flat File Destination"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether the data will overwrite or append to the destination file."
+                  name="Overwrite">true</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the text to write to the destination file before any data is written."
+                  expressionType="Notify"
+                  name="Header" />
+                <property
+                  dataType="System.Boolean"
+                  description="When text qualifier is enabled, specifies whether the text qualifier in the data written to the destination file will be escaped or not."
+                  name="EscapeQualifier">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\DimSeason\Flat File Destination.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DimSeasonLookupError]"
+                  connectionManagerRefId="Package.ConnectionManagers[DimSeasonLookupError]"
+                  name="FlatFileConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input]"
+                  hasSideEffects="true"
+                  name="Flat File Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[La Liga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="La Liga"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[La Liga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[Premier League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Premier League"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Premier League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[Ligue 1]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ligue 1"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Ligue 1]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[Serie A]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Serie A"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Serie A]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[Bundesliga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Bundesliga"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Bundesliga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[ErrorCode]"
+                      cachedDataType="i4"
+                      cachedName="ErrorCode"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
+                      lineageId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].Columns[ErrorColumn]"
+                      cachedDataType="i4"
+                      cachedName="ErrorColumn"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
+                      lineageId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[La Liga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="La Liga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Premier League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Premier League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Ligue 1]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Ligue 1" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Serie A]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Serie A" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Bundesliga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Bundesliga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
+                      dataType="i4"
+                      name="ErrorCode" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
+                      dataType="i4"
+                      name="ErrorColumn" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[SeasonID]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="SeasonID" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Champions League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Champions League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Europa League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Europa League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Conference League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Conference League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[The Golden Ball]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="The Golden Ball" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input].ExternalColumns[Season_ID_conv]"
+                      codePage="1250"
+                      dataType="str"
+                      length="7"
+                      name="Season_ID_conv" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+            </component>
+            <component
+              refId="Package\DimSeason\Flat File Destination 1"
+              componentClassID="Microsoft.FlatFileDestination"
+              contactInfo="Flat File Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Flat File Destination"
+              localeId="1045"
+              name="Flat File Destination 1"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Specifies whether the data will overwrite or append to the destination file."
+                  name="Overwrite">true</property>
+                <property
+                  dataType="System.Null"
+                  description="Specifies the text to write to the destination file before any data is written."
+                  expressionType="Notify"
+                  name="Header" />
+                <property
+                  dataType="System.Boolean"
+                  description="When text qualifier is enabled, specifies whether the text qualifier in the data written to the destination file will be escaped or not."
+                  name="EscapeQualifier">false</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\DimSeason\Flat File Destination 1.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[dim_season_oledb_destination_error]"
+                  connectionManagerRefId="Package.ConnectionManagers[dim_season_oledb_destination_error]"
+                  name="FlatFileConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input]"
+                  hasSideEffects="true"
+                  name="Flat File Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[SeasonID]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="SeasonID"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[SeasonID]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[La Liga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="La Liga"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[La Liga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Premier League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Premier League"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Premier League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Ligue 1]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ligue 1"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Ligue 1]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Serie A]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Serie A"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Serie A]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Bundesliga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Bundesliga"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Bundesliga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Champions League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Champions League"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Champions League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Europa League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Europa League"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Europa League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[Conference League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Conference League"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Conference League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[The Golden Ball]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="The Golden Ball"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[The Golden Ball]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[ErrorCode]"
+                      cachedDataType="i4"
+                      cachedName="ErrorCode"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
+                      lineageId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]" />
+                    <inputColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].Columns[ErrorColumn]"
+                      cachedDataType="i4"
+                      cachedName="ErrorColumn"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
+                      lineageId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[SeasonID]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="SeasonID" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[La Liga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="La Liga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Premier League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Premier League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Ligue 1]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Ligue 1" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Serie A]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Serie A" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Bundesliga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Bundesliga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Champions League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Champions League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Europa League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Europa League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[Conference League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="Conference League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[The Golden Ball]"
+                      codePage="1250"
+                      dataType="str"
+                      length="50"
+                      name="The Golden Ball" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorCode]"
+                      dataType="i4"
+                      name="ErrorCode" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input].ExternalColumns[ErrorColumn]"
+                      dataType="i4"
+                      name="ErrorColumn" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+            </component>
+            <component
+              refId="Package\DimSeason\Flat File Source"
               componentClassID="Microsoft.FlatFileSource"
               contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
               description="Flat File Source"
@@ -180,7 +1531,7 @@
                 <property
                   dataType="System.Boolean"
                   description="Specifies whether zero-length columns are treated as null."
-                  name="RetainNulls">false</property>
+                  name="RetainNulls">true</property>
                 <property
                   dataType="System.String"
                   description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
@@ -188,26 +1539,26 @@
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\Flat File Source.Connections[FlatFileConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DimSeason]"
-                  connectionManagerRefId="Package.ConnectionManagers[DimSeason]"
+                  refId="Package\DimSeason\Flat File Source.Connections[FlatFileConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DimSeasonConnector]"
+                  connectionManagerRefId="Package.ConnectionManagers[DimSeasonConnector]"
                   name="FlatFileConnection" />
               </connections>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output]"
+                  refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output]"
                   name="Flat File Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Sezon]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sezon]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sezon]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Sezon]"
-                      name="Sezon"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]"
+                      name="SeasonID"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -221,14 +1572,14 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[La Liga]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[La Liga]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]"
                       name="La Liga"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -243,14 +1594,14 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Premier League]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Premier League]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]"
                       name="Premier League"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -265,14 +1616,14 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Ligue 1]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Ligue 1]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]"
                       name="Ligue 1"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -287,14 +1638,14 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Serie A]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Serie A]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]"
                       name="Serie A"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -309,14 +1660,14 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Bundesliga]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Bundesliga]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]"
                       name="Bundesliga"
                       truncationRowDisposition="FailComponent">
                       <properties>
@@ -331,15 +1682,15 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Mistrzów]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Mistrzów]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Mistrzów]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Mistrzów]"
-                      name="Liga Mistrzów"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]"
+                      name="Champions League"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -353,15 +1704,15 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Europy]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Europy]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Europy]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Europy]"
-                      name="Liga Europy"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]"
+                      name="Europa League"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -375,15 +1726,15 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Konferencji]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Konferencji]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Konferencji]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Liga Konferencji]"
-                      name="Liga Konferencji"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]"
+                      name="Conference League"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -397,15 +1748,15 @@
                       </properties>
                     </outputColumn>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Złota Piłka]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]"
+                      codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Złota Piłka]"
+                      externalMetadataColumnId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Złota Piłka]"
                       length="50"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Złota Piłka]"
-                      name="Złota Piłka"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]"
+                      name="The Golden Ball"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
@@ -422,89 +1773,89 @@
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sezon]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Sezon]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Sezon" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[La Liga]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[La Liga]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="La Liga" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Premier League]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Premier League]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Premier League" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Ligue 1]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Ligue 1]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Ligue 1" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Serie A]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Serie A]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Serie A" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Bundesliga]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Bundesliga]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Bundesliga" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Mistrzów]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Mistrzów]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Liga Mistrzów" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Europy]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Europy]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Liga Europy" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Konferencji]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Liga Konferencji]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Liga Konferencji" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Złota Piłka]"
-                      codePage="65001"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].ExternalColumns[Złota Piłka]"
+                      codePage="1250"
                       dataType="str"
                       length="50"
                       name="Złota Piłka" />
                   </externalMetadataColumns>
                 </output>
                 <output
-                  refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output]"
+                  refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output]"
                   isErrorOut="true"
                   name="Flat File Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
                       codePage="65001"
                       dataType="text"
                       description="Flat File Source Error Output Column"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
                       name="Flat File Source Error Output Column" />
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      refId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -513,7 +1864,7 @@
               </outputs>
             </component>
             <component
-              refId="Package\Data Flow Task\Lookup"
+              refId="Package\DimSeason\Lookup"
               componentClassID="Microsoft.Lookup"
               contactInfo="Lookup;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;6"
               description="Joins additional columns to the data flow by looking up values in a table. For example, join to the 'employee id' column the employees table to get 'hire date' and 'employee name'. We recommend this transformation when the lookup table can fit into memory."
@@ -533,7 +1884,7 @@
                   expressionType="Notify"
                   name="SqlCommandParam"
                   UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[DimSeason]) [refTable]
-where [refTable].[Sezon] = ?</property>
+where [refTable].[SeasonID] = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the type of connection used to access the reference dataset."
@@ -548,7 +1899,7 @@ where [refTable].[Sezon] = ?</property>
                   dataType="System.Int32"
                   description="Specifies how the Lookup transformation handles rows without matching entries in the reference data set."
                   name="NoMatchBehavior"
-                  typeConverter="LookupNoMatchBehavior">0</property>
+                  typeConverter="LookupNoMatchBehavior">1</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the percentage of the cache that is allocated for rows with no matching entries in the reference dataset."
@@ -564,12 +1915,12 @@ where [refTable].[Sezon] = ?</property>
                 <property
                   dataType="System.String"
                   description="Indicates whether to reference metadata in an XML format."
-                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="Sezon" dataType="DT_STR" length="7" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="La Liga" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Premier League" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Ligue 1" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Serie A" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Bundesliga" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Liga Mistrzów" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Liga Europy" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Liga Konferencji" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Złota Piłka" dataType="DT_STR" length="50" precision="0" scale="0" codePage="1250"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                  name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="SeasonID" dataType="DT_STR" length="7" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="La Liga" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Premier League" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Ligue 1" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Serie A" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Bundesliga" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Champions League" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Europa League" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="Conference League" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;referenceColumn name="The Golden Ball" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1250"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
                 <property
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Sezon]};</property>
+                  name="ParameterMap">#{Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -581,7 +1932,7 @@ where [refTable].[Sezon] = ?</property>
               </properties>
               <connections>
                 <connection
-                  refId="Package\Data Flow Task\Lookup.Connections[OleDbConnection]"
+                  refId="Package\DimSeason\Lookup.Connections[OleDbConnection]"
                   connectionManagerID="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
                   connectionManagerRefId="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
                   description="Connection manager used to access lookup data."
@@ -589,21 +1940,21 @@ where [refTable].[Sezon] = ?</property>
               </connections>
               <inputs>
                 <input
-                  refId="Package\Data Flow Task\Lookup.Inputs[Lookup Input]"
+                  refId="Package\DimSeason\Lookup.Inputs[Lookup Input]"
                   name="Lookup Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Data Flow Task\Lookup.Inputs[Lookup Input].Columns[Sezon]"
-                      cachedCodepage="65001"
+                      refId="Package\DimSeason\Lookup.Inputs[Lookup Input].Columns[SeasonID]"
+                      cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="50"
-                      cachedName="Sezon"
-                      lineageId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output].Columns[Sezon]">
+                      cachedName="SeasonID"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]">
                       <properties>
                         <property
                           dataType="System.String"
                           description="Specifies the column in the reference table that a column joins."
-                          name="JoinToReferenceColumn">Sezon</property>
+                          name="JoinToReferenceColumn">SeasonID</property>
                         <property
                           dataType="System.Null"
                           description="Specifies the column in the reference table from which a column is copied."
@@ -616,201 +1967,621 @@ where [refTable].[Sezon] = ?</property>
               </inputs>
               <outputs>
                 <output
-                  refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output]"
+                  refId="Package\DimSeason\Lookup.Outputs[Lookup Match Output]"
                   errorOrTruncationOperation="Lookup"
-                  errorRowDisposition="RedirectRow"
                   exclusionGroup="1"
                   name="Lookup Match Output"
-                  synchronousInputId="Package\Data Flow Task\Lookup.Inputs[Lookup Input]">
+                  synchronousInputId="Package\DimSeason\Lookup.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Sezon]"
+                      refId="Package\DimSeason\Lookup.Outputs[Lookup Match Output].Columns[SeasonID_l]"
                       codePage="1250"
                       dataType="str"
                       errorOrTruncationOperation="Copy Column"
                       length="7"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Sezon]"
-                      name="Sezon"
+                      lineageId="Package\DimSeason\Lookup.Outputs[Lookup Match Output].Columns[SeasonID_l]"
+                      name="SeasonID_l"
                       truncationRowDisposition="FailComponent">
                       <properties>
                         <property
                           dataType="System.String"
                           description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Sezon</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[La Liga]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[La Liga]"
-                      name="La Liga"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">La Liga</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Premier League]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Premier League]"
-                      name="Premier League"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Premier League</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Ligue 1]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Ligue 1]"
-                      name="Ligue 1"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Ligue 1</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Serie A]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Serie A]"
-                      name="Serie A"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Serie A</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Bundesliga]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Bundesliga]"
-                      name="Bundesliga"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Bundesliga</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Mistrzów]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Mistrzów]"
-                      name="Liga Mistrzów"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Liga Mistrzów</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Europy]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Europy]"
-                      name="Liga Europy"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Liga Europy</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Konferencji]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Liga Konferencji]"
-                      name="Liga Konferencji"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Liga Konferencji</property>
-                      </properties>
-                    </outputColumn>
-                    <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Złota Piłka]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Copy Column"
-                      length="50"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Match Output].Columns[Złota Piłka]"
-                      name="Złota Piłka"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          dataType="System.String"
-                          description="Specifies the column in the reference table from which a column is copied."
-                          name="CopyFromReferenceColumn">Złota Piłka</property>
+                          name="CopyFromReferenceColumn">SeasonID</property>
                       </properties>
                     </outputColumn>
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Data Flow Task\Lookup.Outputs[Lookup No Match Output]"
+                  refId="Package\DimSeason\Lookup.Outputs[Lookup No Match Output]"
                   description="The Lookup output that handles rows with no matching entries in the reference dataset. Use this output when the NoMatchBehavior property is set to &quot;Send rows with no matching entries to the no match output.&quot;"
                   exclusionGroup="1"
                   name="Lookup No Match Output"
-                  synchronousInputId="Package\Data Flow Task\Lookup.Inputs[Lookup Input]">
+                  synchronousInputId="Package\DimSeason\Lookup.Inputs[Lookup Input]">
                   <externalMetadataColumns />
                 </output>
                 <output
-                  refId="Package\Data Flow Task\Lookup.Outputs[Lookup Error Output]"
+                  refId="Package\DimSeason\Lookup.Outputs[Lookup Error Output]"
                   exclusionGroup="1"
                   isErrorOut="true"
                   name="Lookup Error Output"
-                  synchronousInputId="Package\Data Flow Task\Lookup.Inputs[Lookup Input]">
+                  synchronousInputId="Package\DimSeason\Lookup.Inputs[Lookup Input]">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      refId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
+                      lineageId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorCode]"
                       name="ErrorCode"
                       specialFlags="1" />
                     <outputColumn
-                      refId="Package\Data Flow Task\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      refId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
                       dataType="i4"
-                      lineageId="Package\Data Flow Task\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      lineageId="Package\DimSeason\Lookup.Outputs[Lookup Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\DimSeason\OLE DB Command"
+              componentClassID="Microsoft.OLEDBCommand"
+              contactInfo="OLE DB Command;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;2"
+              description="Runs an SQL statement for each row in a data flow. For example, call a 'new employee setup' stored procedure for each row in the 'new employees' table. Note: running an SQL statement for each row of a large data flow may take a long time."
+              name="OLE DB Command"
+              usesDispositions="true"
+              version="2">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  expressionType="Notify"
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">UPDATE DimSeason
+SET
+    [La Liga] = ?,
+    [Premier League] = ?,
+    [Ligue 1] = ?,
+    [Serie A] = ?,
+    [Bundesliga] = ?,
+    [Champions League] = ?,
+    [Europa League] = ?,
+    [Conference League] = ?,
+    [The Golden Ball] = ?
+WHERE
+    SeasonID = ?;</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\DimSeason\OLE DB Command.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
+                  connectionManagerRefId="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input]"
+                  errorOrTruncationOperation="Command Execution"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Command Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[La Liga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="La Liga"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_0]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Premier League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Premier League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_1]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Ligue 1]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ligue 1"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_2]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Serie A]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Serie A"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_3]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Bundesliga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Bundesliga"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_4]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Champions League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Champions League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_5]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Europa League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Europa League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_6]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[Conference League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Conference League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_7]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[The Golden Ball]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="The Golden Ball"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_8]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].Columns[SeasonID]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="SeasonID"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_9]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_0]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_0">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_1]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_1">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_2]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_2">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_3]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_3">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_4]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_4">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_5]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_5">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_6]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_6">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_7]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_7">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_8]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Param_8">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input].ExternalColumns[Param_9]"
+                      codePage="1250"
+                      dataType="str"
+                      length="7"
+                      name="Param_9">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Parameter information.  Matches OLE DB's DBPARAMFLAGSENUM values."
+                          name="DBParamInfoFlags">65</property>
+                      </properties>
+                    </externalMetadataColumn>
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Output]"
+                  exclusionGroup="1"
+                  name="OLE DB Command Output"
+                  synchronousInputId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input]">
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Command Error Output"
+                  synchronousInputId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\OLE DB Command.Outputs[OLE DB Command Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\DimSeason\OLE DB Destination"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="OLE DB Destination"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[DimSeason]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1250</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\DimSeason\OLE DB Destination.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
+                  connectionManagerRefId="Package.ConnectionManagers[KOMP\SQLEXPRESS.TOP5_dwh]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SeasonID]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="SeasonID"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SeasonID]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[SeasonID]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[La Liga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="La Liga"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[La Liga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[La Liga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Premier League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Premier League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Premier League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Premier League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Ligue 1]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ligue 1"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Ligue 1]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Ligue 1]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Serie A]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Serie A"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Serie A]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Serie A]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Bundesliga]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Bundesliga"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Bundesliga]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Bundesliga]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Champions League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Champions League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Champions League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Champions League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Europa League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Europa League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Europa League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Europa League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Conference League]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Conference League"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Conference League]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[Conference League]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[The Golden Ball]"
+                      cachedCodepage="1250"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="The Golden Ball"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[The Golden Ball]"
+                      lineageId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output].Columns[The Golden Ball]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[StartDateID]"
+                      cachedDataType="wstr"
+                      cachedLength="10"
+                      cachedName="StartDateID"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StartDateID]"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[StartDateID]" />
+                    <inputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[EndDateID]"
+                      cachedDataType="wstr"
+                      cachedLength="10"
+                      cachedName="EndDateID"
+                      externalMetadataColumnId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[EndDateID]"
+                      lineageId="Package\DimSeason\Derived Column.Outputs[Derived Column Output].Columns[EndDateID]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SeasonID]"
+                      codePage="1250"
+                      dataType="str"
+                      length="7"
+                      name="SeasonID" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[La Liga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="La Liga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Premier League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Premier League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Ligue 1]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Ligue 1" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Serie A]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Serie A" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Bundesliga]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Bundesliga" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Champions League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Champions League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Europa League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Europa League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Conference League]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="Conference League" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[The Golden Ball]"
+                      codePage="1250"
+                      dataType="str"
+                      length="100"
+                      name="The Golden Ball" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StartDateID]"
+                      dataType="dbDate"
+                      name="StartDateID" />
+                    <externalMetadataColumn
+                      refId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[EndDateID]"
+                      dataType="dbDate"
+                      name="EndDateID" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -821,10 +2592,35 @@ where [refTable].[Sezon] = ?</property>
           </components>
           <paths>
             <path
-              refId="Package\Data Flow Task.Paths[Flat File Source Output]"
-              endId="Package\Data Flow Task\Lookup.Inputs[Lookup Input]"
+              refId="Package\DimSeason.Paths[Derived Column Output]"
+              endId="Package\DimSeason\Lookup.Inputs[Lookup Input]"
+              name="Derived Column Output"
+              startId="Package\DimSeason\Derived Column.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\DimSeason.Paths[Flat File Source Output]"
+              endId="Package\DimSeason\Derived Column.Inputs[Derived Column Input]"
               name="Flat File Source Output"
-              startId="Package\Data Flow Task\Flat File Source.Outputs[Flat File Source Output]" />
+              startId="Package\DimSeason\Flat File Source.Outputs[Flat File Source Output]" />
+            <path
+              refId="Package\DimSeason.Paths[Lookup Error Output]"
+              endId="Package\DimSeason\Flat File Destination.Inputs[Flat File Destination Input]"
+              name="Lookup Error Output"
+              startId="Package\DimSeason\Lookup.Outputs[Lookup Error Output]" />
+            <path
+              refId="Package\DimSeason.Paths[Lookup Match Output]"
+              endId="Package\DimSeason\OLE DB Command.Inputs[OLE DB Command Input]"
+              name="Lookup Match Output"
+              startId="Package\DimSeason\Lookup.Outputs[Lookup Match Output]" />
+            <path
+              refId="Package\DimSeason.Paths[Lookup No Match Output]"
+              endId="Package\DimSeason\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Lookup No Match Output"
+              startId="Package\DimSeason\Lookup.Outputs[Lookup No Match Output]" />
+            <path
+              refId="Package\DimSeason.Paths[OLE DB Destination Error Output]"
+              endId="Package\DimSeason\Flat File Destination 1.Inputs[Flat File Destination Input]"
+              name="OLE DB Destination Error Output"
+              startId="Package\DimSeason\OLE DB Destination.Outputs[OLE DB Destination Error Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -843,39 +2639,195 @@ where [refTable].[Sezon] = ?</property>
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="155,42"
-          Id="Package\Data Flow Task"
+          Size="136,42"
+          Id="Package\DimSeason"
           TopLeft="349,126" />
+        <NodeLayout
+          Size="164,42"
+          Id="Package\Data Flow Task 1"
+          TopLeft="578,129" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
   <TaskHost
-    design-time-name="Package\Data Flow Task">
+    design-time-name="Package\DimSeason">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="156,42"
-          Id="Package\Data Flow Task\Flat File Source"
-          TopLeft="346,214" />
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="115,42"
-          Id="Package\Data Flow Task\Lookup"
+          Id="Package\DimSeason\Lookup"
           TopLeft="368,337" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\DimSeason\Flat File Source"
+          TopLeft="339,86" />
+        <NodeLayout
+          Size="176,42"
+          Id="Package\DimSeason\Flat File Destination"
+          TopLeft="536,337" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Flat File Source Output]"
-          TopLeft="424.75,256">
+          Id="Package\DimSeason.Paths[Lookup Error Output]"
+          TopLeft="483,358">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,81"
+              EndConnector="53,0"
               Start="0,0"
-              End="0,73.5">
+              End="45.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,73.5" />
+                    End="45.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-23.11638671875,5,91.7327734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="173,42"
+          Id="Package\DimSeason\OLE DB Command"
+          TopLeft="193,441" />
+        <EdgeLayout
+          Id="Package\DimSeason.Paths[Lookup Match Output]"
+          TopLeft="425.5,379">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-146,62"
+              Start="0,0"
+              End="-146,54.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,27"
+                    Point2="0,31"
+                    Point3="-4,31" />
+                  <mssgle:LineSegment
+                    End="-142,31" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-142,31"
+                    Point2="-146,31"
+                    Point3="-146,35" />
+                  <mssgle:LineSegment
+                    End="-146,54.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-130.0600390625,36,114.120078125,16"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="177,42"
+          Id="Package\DimSeason\OLE DB Destination"
+          TopLeft="517,451" />
+        <EdgeLayout
+          Id="Package\DimSeason.Paths[Lookup No Match Output]"
+          TopLeft="443.333333333333,379">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="162.166666666667,72"
+              Start="0,0"
+              End="162.166666666667,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.3927958833619" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.3927958833619"
+                    Point2="0,29.3927958833619"
+                    Point3="4,29.3927958833619" />
+                  <mssgle:LineSegment
+                    End="158.166666666667,29.3927958833619" />
+                  <mssgle:CubicBezierSegment
+                    Point1="158.166666666667,29.3927958833619"
+                    Point2="162.166666666667,29.3927958833619"
+                    Point3="162.166666666667,33.3927958833619" />
+                  <mssgle:LineSegment
+                    End="162.166666666667,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="16.4082942708334,34.3927958833619,129.350078125,16"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="185,42"
+          Id="Package\DimSeason\Flat File Destination 1"
+          TopLeft="734,449" />
+        <EdgeLayout
+          Id="Package\DimSeason.Paths[OLE DB Destination Error Output]"
+          TopLeft="694,471">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="40,0"
+              Start="0,0"
+              End="32.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="32.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-56.95890625,5,146.4178125,11.43359375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="158,42"
+          Id="Package\DimSeason\Derived Column"
+          TopLeft="241,223" />
+        <EdgeLayout
+          Id="Package\DimSeason.Paths[Flat File Source Output]"
+          TopLeft="417,128">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-97,95"
+              Start="0,0"
+              End="-97,87.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,43.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,43.5"
+                    Point2="0,47.5"
+                    Point3="-4,47.5" />
+                  <mssgle:LineSegment
+                    End="-93,47.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-93,47.5"
+                    Point2="-97,47.5"
+                    Point3="-97,51.5" />
+                  <mssgle:LineSegment
+                    End="-97,87.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -884,11 +2836,47 @@ where [refTable].[Sezon] = ?</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DimSeason.Paths[Derived Column Output]"
+          TopLeft="320,265">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="105.5,72"
+              Start="0,0"
+              End="105.5,64.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,32" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,32"
+                    Point2="0,36"
+                    Point3="4,36" />
+                  <mssgle:LineSegment
+                    End="101.5,36" />
+                  <mssgle:CubicBezierSegment
+                    Point1="101.5,36"
+                    Point2="105.5,36"
+                    Point3="105.5,40" />
+                  <mssgle:LineSegment
+                    End="105.5,64.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="44.75,41,16,16"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Lookup">
+    design-time-name="Package\DimSeason\Lookup">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
@@ -907,6 +2895,19 @@ where [refTable].[Sezon] = ?</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DimSeason\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
