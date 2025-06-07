@@ -1,0 +1,549 @@
+MatchProfileID,Competition,Round
+549,2. Bundesliga,Matchweek 1
+550,2. Bundesliga,Matchweek 10
+551,2. Bundesliga,Matchweek 11
+552,2. Bundesliga,Matchweek 12
+553,2. Bundesliga,Matchweek 13
+554,2. Bundesliga,Matchweek 14
+555,2. Bundesliga,Matchweek 15
+556,2. Bundesliga,Matchweek 16
+557,2. Bundesliga,Matchweek 17
+558,2. Bundesliga,Matchweek 18
+559,2. Bundesliga,Matchweek 19
+560,2. Bundesliga,Matchweek 2
+561,2. Bundesliga,Matchweek 20
+562,2. Bundesliga,Matchweek 21
+563,2. Bundesliga,Matchweek 22
+564,2. Bundesliga,Matchweek 23
+565,2. Bundesliga,Matchweek 24
+566,2. Bundesliga,Matchweek 25
+567,2. Bundesliga,Matchweek 26
+568,2. Bundesliga,Matchweek 27
+569,2. Bundesliga,Matchweek 28
+570,2. Bundesliga,Matchweek 29
+571,2. Bundesliga,Matchweek 3
+572,2. Bundesliga,Matchweek 30
+573,2. Bundesliga,Matchweek 31
+574,2. Bundesliga,Matchweek 32
+575,2. Bundesliga,Matchweek 33
+576,2. Bundesliga,Matchweek 34
+577,2. Bundesliga,Matchweek 4
+578,2. Bundesliga,Matchweek 5
+579,2. Bundesliga,Matchweek 6
+580,2. Bundesliga,Matchweek 7
+581,2. Bundesliga,Matchweek 8
+582,2. Bundesliga,Matchweek 9
+583,Bundesliga,Matchweek 1
+584,Bundesliga,Matchweek 10
+585,Bundesliga,Matchweek 11
+586,Bundesliga,Matchweek 12
+587,Bundesliga,Matchweek 13
+588,Bundesliga,Matchweek 14
+589,Bundesliga,Matchweek 15
+590,Bundesliga,Matchweek 16
+591,Bundesliga,Matchweek 17
+592,Bundesliga,Matchweek 18
+593,Bundesliga,Matchweek 19
+594,Bundesliga,Matchweek 2
+595,Bundesliga,Matchweek 20
+596,Bundesliga,Matchweek 21
+597,Bundesliga,Matchweek 22
+598,Bundesliga,Matchweek 23
+599,Bundesliga,Matchweek 24
+600,Bundesliga,Matchweek 25
+601,Bundesliga,Matchweek 26
+602,Bundesliga,Matchweek 27
+603,Bundesliga,Matchweek 28
+604,Bundesliga,Matchweek 29
+605,Bundesliga,Matchweek 3
+606,Bundesliga,Matchweek 30
+607,Bundesliga,Matchweek 31
+608,Bundesliga,Matchweek 32
+609,Bundesliga,Matchweek 33
+610,Bundesliga,Matchweek 34
+611,Bundesliga,Matchweek 4
+612,Bundesliga,Matchweek 5
+613,Bundesliga,Matchweek 6
+614,Bundesliga,Matchweek 7
+615,Bundesliga,Matchweek 8
+616,Bundesliga,Matchweek 9
+617,Champions Lg,Final
+618,Champions Lg,Group stage
+619,Champions Lg,Knockout phase play-offs
+620,Champions Lg,League phase
+621,Champions Lg,Play-off round
+622,Champions Lg,Quarter-finals
+623,Champions Lg,Round of 16
+624,Champions Lg,Semi-finals
+625,Champions Lg,Third qualifying round
+626,Championship,Final
+627,Championship,Matchweek 1
+628,Championship,Matchweek 10
+629,Championship,Matchweek 11
+630,Championship,Matchweek 12
+631,Championship,Matchweek 13
+632,Championship,Matchweek 14
+633,Championship,Matchweek 15
+634,Championship,Matchweek 16
+635,Championship,Matchweek 17
+636,Championship,Matchweek 18
+637,Championship,Matchweek 19
+638,Championship,Matchweek 2
+639,Championship,Matchweek 20
+640,Championship,Matchweek 21
+641,Championship,Matchweek 22
+642,Championship,Matchweek 23
+643,Championship,Matchweek 24
+644,Championship,Matchweek 25
+645,Championship,Matchweek 26
+646,Championship,Matchweek 27
+647,Championship,Matchweek 28
+648,Championship,Matchweek 29
+649,Championship,Matchweek 3
+650,Championship,Matchweek 30
+651,Championship,Matchweek 31
+652,Championship,Matchweek 32
+653,Championship,Matchweek 33
+654,Championship,Matchweek 34
+655,Championship,Matchweek 35
+656,Championship,Matchweek 36
+657,Championship,Matchweek 37
+658,Championship,Matchweek 38
+659,Championship,Matchweek 39
+660,Championship,Matchweek 4
+661,Championship,Matchweek 40
+662,Championship,Matchweek 41
+663,Championship,Matchweek 42
+664,Championship,Matchweek 43
+665,Championship,Matchweek 44
+666,Championship,Matchweek 45
+667,Championship,Matchweek 46
+668,Championship,Matchweek 5
+669,Championship,Matchweek 6
+670,Championship,Matchweek 7
+671,Championship,Matchweek 8
+672,Championship,Matchweek 9
+673,Championship,Semi-finals
+674,Community Shield,FA Community Shield
+675,Conf Lg,Final
+676,Conf Lg,Group stage
+677,Conf Lg,Knockout phase play-offs
+678,Conf Lg,Knockout round play-offs
+679,Conf Lg,League phase
+680,Conf Lg,Play-off round
+681,Conf Lg,Quarter-finals
+682,Conf Lg,Round of 16
+683,Conf Lg,Semi-finals
+684,Copa del Rey,Final
+685,Copa del Rey,First round
+686,Copa del Rey,Quarter-finals
+687,Copa del Rey,Round of 16
+688,Copa del Rey,Round of 32
+689,Copa del Rey,Second round
+690,Copa del Rey,Semi-finals
+691,Copa del Rey,Third round
+692,Coppa Italia,Final
+693,Coppa Italia,First round
+694,Coppa Italia,Fourth round
+695,Coppa Italia,Preliminary round
+696,Coppa Italia,Quarter-finals
+697,Coppa Italia,Round of 16
+698,Coppa Italia,Second round
+699,Coppa Italia,Semi-finals
+700,Coppa Italia,Third round
+701,Coupe de France,Eighth round
+702,Coupe de France,Final
+703,Coupe de France,Quarter-finals
+704,Coupe de France,Round of 16
+705,Coupe de France,Round of 32
+706,Coupe de France,Round of 64
+707,Coupe de France,Semi-finals
+708,Coupe de France,Seventh round
+709,Coupe de la Ligue,Final stage
+710,Coupe de la Ligue,First round
+711,Coupe de la Ligue,Quarter-finals
+712,Coupe de la Ligue,Round of 16
+713,Coupe de la Ligue,Second round
+714,Coupe de la Ligue,Semi-finals
+715,Coupe de la Ligue,Third round
+716,DFB-Pokal,Final
+717,DFB-Pokal,First round
+718,DFB-Pokal,Quarter-finals
+719,DFB-Pokal,Round of 16
+720,DFB-Pokal,Round of 32
+721,DFB-Pokal,Round of 64
+722,DFB-Pokal,Second round
+723,DFB-Pokal,Semi-finals
+724,DFL-Supercup,DFL-Supercup
+725,EFL Cup,Final
+726,EFL Cup,First round
+727,EFL Cup,Fourth round
+728,EFL Cup,Quarter-finals
+729,EFL Cup,Second round
+730,EFL Cup,Semi-finals
+731,EFL Cup,Third round
+732,Europa Lg,Final
+733,Europa Lg,Group stage
+734,Europa Lg,Knockout phase play-offs
+735,Europa Lg,Knockout round play-offs
+736,Europa Lg,League phase
+737,Europa Lg,Play-off round
+738,Europa Lg,Quarter-finals
+739,Europa Lg,Round of 16
+740,Europa Lg,Round of 32
+741,Europa Lg,Second qualifying round
+742,Europa Lg,Semi-finals
+743,Europa Lg,Third qualifying round
+744,FA Community Shield,FA Community Shield
+745,FA Cup,Fifth round
+746,FA Cup,Fifth round proper
+747,FA Cup,Final
+748,FA Cup,First round
+749,FA Cup,First round proper
+750,FA Cup,Fourth round
+751,FA Cup,Fourth round proper
+752,FA Cup,Quarter-finals
+753,FA Cup,Second round
+754,FA Cup,Second round proper
+755,FA Cup,Semi-finals
+756,FA Cup,Third round
+757,FA Cup,Third round proper
+758,La Liga,Matchweek 1
+759,La Liga,Matchweek 10
+760,La Liga,Matchweek 11
+761,La Liga,Matchweek 12
+762,La Liga,Matchweek 13
+763,La Liga,Matchweek 14
+764,La Liga,Matchweek 15
+765,La Liga,Matchweek 16
+766,La Liga,Matchweek 17
+767,La Liga,Matchweek 18
+768,La Liga,Matchweek 19
+769,La Liga,Matchweek 2
+770,La Liga,Matchweek 20
+771,La Liga,Matchweek 21
+772,La Liga,Matchweek 22
+773,La Liga,Matchweek 23
+774,La Liga,Matchweek 24
+775,La Liga,Matchweek 25
+776,La Liga,Matchweek 26
+777,La Liga,Matchweek 27
+778,La Liga,Matchweek 28
+779,La Liga,Matchweek 29
+780,La Liga,Matchweek 3
+781,La Liga,Matchweek 30
+782,La Liga,Matchweek 31
+783,La Liga,Matchweek 32
+784,La Liga,Matchweek 33
+785,La Liga,Matchweek 34
+786,La Liga,Matchweek 35
+787,La Liga,Matchweek 36
+788,La Liga,Matchweek 37
+789,La Liga,Matchweek 38
+790,La Liga,Matchweek 4
+791,La Liga,Matchweek 5
+792,La Liga,Matchweek 6
+793,La Liga,Matchweek 7
+794,La Liga,Matchweek 8
+795,La Liga,Matchweek 9
+796,La Liga 2,Final
+797,La Liga 2,Matchweek 1
+798,La Liga 2,Matchweek 10
+799,La Liga 2,Matchweek 11
+800,La Liga 2,Matchweek 12
+801,La Liga 2,Matchweek 13
+802,La Liga 2,Matchweek 14
+803,La Liga 2,Matchweek 15
+804,La Liga 2,Matchweek 16
+805,La Liga 2,Matchweek 17
+806,La Liga 2,Matchweek 18
+807,La Liga 2,Matchweek 19
+808,La Liga 2,Matchweek 2
+809,La Liga 2,Matchweek 20
+810,La Liga 2,Matchweek 21
+811,La Liga 2,Matchweek 22
+812,La Liga 2,Matchweek 23
+813,La Liga 2,Matchweek 24
+814,La Liga 2,Matchweek 25
+815,La Liga 2,Matchweek 26
+816,La Liga 2,Matchweek 27
+817,La Liga 2,Matchweek 28
+818,La Liga 2,Matchweek 29
+819,La Liga 2,Matchweek 3
+820,La Liga 2,Matchweek 30
+821,La Liga 2,Matchweek 31
+822,La Liga 2,Matchweek 32
+823,La Liga 2,Matchweek 33
+824,La Liga 2,Matchweek 34
+825,La Liga 2,Matchweek 35
+826,La Liga 2,Matchweek 36
+827,La Liga 2,Matchweek 37
+828,La Liga 2,Matchweek 38
+829,La Liga 2,Matchweek 39
+830,La Liga 2,Matchweek 4
+831,La Liga 2,Matchweek 40
+832,La Liga 2,Matchweek 41
+833,La Liga 2,Matchweek 42
+834,La Liga 2,Matchweek 5
+835,La Liga 2,Matchweek 6
+836,La Liga 2,Matchweek 7
+837,La Liga 2,Matchweek 8
+838,La Liga 2,Matchweek 9
+839,La Liga 2,Semi-finals
+840,League One,Matchweek 1
+841,League One,Matchweek 10
+842,League One,Matchweek 11
+843,League One,Matchweek 12
+844,League One,Matchweek 13
+845,League One,Matchweek 14
+846,League One,Matchweek 15
+847,League One,Matchweek 16
+848,League One,Matchweek 17
+849,League One,Matchweek 18
+850,League One,Matchweek 19
+851,League One,Matchweek 2
+852,League One,Matchweek 20
+853,League One,Matchweek 21
+854,League One,Matchweek 22
+855,League One,Matchweek 23
+856,League One,Matchweek 24
+857,League One,Matchweek 25
+858,League One,Matchweek 26
+859,League One,Matchweek 27
+860,League One,Matchweek 28
+861,League One,Matchweek 29
+862,League One,Matchweek 3
+863,League One,Matchweek 30
+864,League One,Matchweek 31
+865,League One,Matchweek 32
+866,League One,Matchweek 33
+867,League One,Matchweek 34
+868,League One,Matchweek 35
+869,League One,Matchweek 36
+870,League One,Matchweek 37
+871,League One,Matchweek 38
+872,League One,Matchweek 39
+873,League One,Matchweek 4
+874,League One,Matchweek 40
+875,League One,Matchweek 41
+876,League One,Matchweek 42
+877,League One,Matchweek 43
+878,League One,Matchweek 44
+879,League One,Matchweek 45
+880,League One,Matchweek 46
+881,League One,Matchweek 5
+882,League One,Matchweek 6
+883,League One,Matchweek 7
+884,League One,Matchweek 8
+885,League One,Matchweek 9
+886,Ligue 1,Matchweek 1
+887,Ligue 1,Matchweek 10
+888,Ligue 1,Matchweek 11
+889,Ligue 1,Matchweek 12
+890,Ligue 1,Matchweek 13
+891,Ligue 1,Matchweek 14
+892,Ligue 1,Matchweek 15
+893,Ligue 1,Matchweek 16
+894,Ligue 1,Matchweek 17
+895,Ligue 1,Matchweek 18
+896,Ligue 1,Matchweek 19
+897,Ligue 1,Matchweek 2
+898,Ligue 1,Matchweek 20
+899,Ligue 1,Matchweek 21
+900,Ligue 1,Matchweek 22
+901,Ligue 1,Matchweek 23
+902,Ligue 1,Matchweek 24
+903,Ligue 1,Matchweek 25
+904,Ligue 1,Matchweek 26
+905,Ligue 1,Matchweek 27
+906,Ligue 1,Matchweek 28
+907,Ligue 1,Matchweek 29
+908,Ligue 1,Matchweek 3
+909,Ligue 1,Matchweek 30
+910,Ligue 1,Matchweek 31
+911,Ligue 1,Matchweek 32
+912,Ligue 1,Matchweek 33
+913,Ligue 1,Matchweek 34
+914,Ligue 1,Matchweek 35
+915,Ligue 1,Matchweek 36
+916,Ligue 1,Matchweek 37
+917,Ligue 1,Matchweek 38
+918,Ligue 1,Matchweek 4
+919,Ligue 1,Matchweek 5
+920,Ligue 1,Matchweek 6
+921,Ligue 1,Matchweek 7
+922,Ligue 1,Matchweek 8
+923,Ligue 1,Matchweek 9
+924,Ligue 2,Final
+925,Ligue 2,Matchweek 1
+926,Ligue 2,Matchweek 10
+927,Ligue 2,Matchweek 11
+928,Ligue 2,Matchweek 12
+929,Ligue 2,Matchweek 13
+930,Ligue 2,Matchweek 14
+931,Ligue 2,Matchweek 15
+932,Ligue 2,Matchweek 16
+933,Ligue 2,Matchweek 17
+934,Ligue 2,Matchweek 18
+935,Ligue 2,Matchweek 19
+936,Ligue 2,Matchweek 2
+937,Ligue 2,Matchweek 20
+938,Ligue 2,Matchweek 21
+939,Ligue 2,Matchweek 22
+940,Ligue 2,Matchweek 23
+941,Ligue 2,Matchweek 24
+942,Ligue 2,Matchweek 25
+943,Ligue 2,Matchweek 26
+944,Ligue 2,Matchweek 27
+945,Ligue 2,Matchweek 28
+946,Ligue 2,Matchweek 29
+947,Ligue 2,Matchweek 3
+948,Ligue 2,Matchweek 30
+949,Ligue 2,Matchweek 31
+950,Ligue 2,Matchweek 32
+951,Ligue 2,Matchweek 33
+952,Ligue 2,Matchweek 34
+953,Ligue 2,Matchweek 35
+954,Ligue 2,Matchweek 36
+955,Ligue 2,Matchweek 37
+956,Ligue 2,Matchweek 38
+957,Ligue 2,Matchweek 4
+958,Ligue 2,Matchweek 5
+959,Ligue 2,Matchweek 6
+960,Ligue 2,Matchweek 7
+961,Ligue 2,Matchweek 8
+962,Ligue 2,Matchweek 9
+963,Ligue 2,Semi-final
+964,Premier League,Matchweek 1
+965,Premier League,Matchweek 10
+966,Premier League,Matchweek 11
+967,Premier League,Matchweek 12
+968,Premier League,Matchweek 13
+969,Premier League,Matchweek 14
+970,Premier League,Matchweek 15
+971,Premier League,Matchweek 16
+972,Premier League,Matchweek 17
+973,Premier League,Matchweek 18
+974,Premier League,Matchweek 19
+975,Premier League,Matchweek 2
+976,Premier League,Matchweek 20
+977,Premier League,Matchweek 21
+978,Premier League,Matchweek 22
+979,Premier League,Matchweek 23
+980,Premier League,Matchweek 24
+981,Premier League,Matchweek 25
+982,Premier League,Matchweek 26
+983,Premier League,Matchweek 27
+984,Premier League,Matchweek 28
+985,Premier League,Matchweek 29
+986,Premier League,Matchweek 3
+987,Premier League,Matchweek 30
+988,Premier League,Matchweek 31
+989,Premier League,Matchweek 32
+990,Premier League,Matchweek 33
+991,Premier League,Matchweek 34
+992,Premier League,Matchweek 35
+993,Premier League,Matchweek 36
+994,Premier League,Matchweek 37
+995,Premier League,Matchweek 38
+996,Premier League,Matchweek 4
+997,Premier League,Matchweek 5
+998,Premier League,Matchweek 6
+999,Premier League,Matchweek 7
+1000,Premier League,Matchweek 8
+1001,Premier League,Matchweek 9
+1002,Rel/Pro play-offs,French 1/2 Relegation/Promotion play-offs
+1003,Rel/Pro play-offs,German 1/2 Relegation/Promotion play-offs
+1004,Serie A,Matchweek 1
+1005,Serie A,Matchweek 10
+1006,Serie A,Matchweek 11
+1007,Serie A,Matchweek 12
+1008,Serie A,Matchweek 13
+1009,Serie A,Matchweek 14
+1010,Serie A,Matchweek 15
+1011,Serie A,Matchweek 16
+1012,Serie A,Matchweek 17
+1013,Serie A,Matchweek 18
+1014,Serie A,Matchweek 19
+1015,Serie A,Matchweek 2
+1016,Serie A,Matchweek 20
+1017,Serie A,Matchweek 21
+1018,Serie A,Matchweek 22
+1019,Serie A,Matchweek 23
+1020,Serie A,Matchweek 24
+1021,Serie A,Matchweek 25
+1022,Serie A,Matchweek 26
+1023,Serie A,Matchweek 27
+1024,Serie A,Matchweek 28
+1025,Serie A,Matchweek 29
+1026,Serie A,Matchweek 3
+1027,Serie A,Matchweek 30
+1028,Serie A,Matchweek 31
+1029,Serie A,Matchweek 32
+1030,Serie A,Matchweek 33
+1031,Serie A,Matchweek 34
+1032,Serie A,Matchweek 35
+1033,Serie A,Matchweek 36
+1034,Serie A,Matchweek 37
+1035,Serie A,Matchweek 38
+1036,Serie A,Matchweek 4
+1037,Serie A,Matchweek 5
+1038,Serie A,Matchweek 6
+1039,Serie A,Matchweek 7
+1040,Serie A,Matchweek 8
+1041,Serie A,Matchweek 9
+1042,Serie A,Relegation tie-breaker
+1043,Serie B,Finals
+1044,Serie B,Matchweek 1
+1045,Serie B,Matchweek 10
+1046,Serie B,Matchweek 11
+1047,Serie B,Matchweek 12
+1048,Serie B,Matchweek 13
+1049,Serie B,Matchweek 14
+1050,Serie B,Matchweek 15
+1051,Serie B,Matchweek 16
+1052,Serie B,Matchweek 17
+1053,Serie B,Matchweek 18
+1054,Serie B,Matchweek 19
+1055,Serie B,Matchweek 2
+1056,Serie B,Matchweek 20
+1057,Serie B,Matchweek 21
+1058,Serie B,Matchweek 22
+1059,Serie B,Matchweek 23
+1060,Serie B,Matchweek 24
+1061,Serie B,Matchweek 25
+1062,Serie B,Matchweek 26
+1063,Serie B,Matchweek 27
+1064,Serie B,Matchweek 28
+1065,Serie B,Matchweek 29
+1066,Serie B,Matchweek 3
+1067,Serie B,Matchweek 30
+1068,Serie B,Matchweek 31
+1069,Serie B,Matchweek 32
+1070,Serie B,Matchweek 33
+1071,Serie B,Matchweek 34
+1072,Serie B,Matchweek 35
+1073,Serie B,Matchweek 36
+1074,Serie B,Matchweek 37
+1075,Serie B,Matchweek 38
+1076,Serie B,Matchweek 39
+1077,Serie B,Matchweek 4
+1078,Serie B,Matchweek 40
+1079,Serie B,Matchweek 41
+1080,Serie B,Matchweek 42
+1081,Serie B,Matchweek 5
+1082,Serie B,Matchweek 6
+1083,Serie B,Matchweek 7
+1084,Serie B,Matchweek 8
+1085,Serie B,Matchweek 9
+1086,Serie B,Preliminary round
+1087,Serie B,Relegation play-out
+1088,Serie B,Semi-finals
+1089,Super Cup,UEFA Super Cup
+1090,Supercopa de Espana,Final
+1091,Supercopa de Espana,Semi-finals
+1092,Supercopa de Espana,Supercopa de Espana
+1093,Supercoppa,Final
+1094,Supercoppa,Semi-finals
+1095,Supercoppa,Supercoppa Italiana
+1096,Trophée des Champions,Trophée des Champions
